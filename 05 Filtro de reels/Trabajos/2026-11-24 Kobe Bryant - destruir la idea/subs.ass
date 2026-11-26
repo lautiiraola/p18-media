@@ -1,0 +1,38 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,646,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.80,P18,,0,0,0,,Lo que trato de hacer es destruir
+Dialogue: 0,0:00:01.80,0:00:04.00,P18,,0,0,0,,la idea y encontrar todo
+Dialogue: 0,0:00:04.00,0:00:05.26,P18,,0,0,0,,lo que tiene de malo.
+Dialogue: 0,0:00:06.04,0:00:08.78,P18,,0,0,0,,Este show no va a funcionar porque…
+Dialogue: 0,0:00:08.78,0:00:09.58,P18,,0,0,0,,con Detail, por ejemplo:
+Dialogue: 0,0:00:09.58,0:00:11.18,P18,,0,0,0,,este show no va a funcionar porque
+Dialogue: 0,0:00:11.18,0:00:12.60,P18,,0,0,0,,no es para los fans.
+Dialogue: 0,0:00:13.26,0:00:15.06,P18,,0,0,0,,Es para el 1 % de los atletas.
+Dialogue: 0,0:00:15.64,0:00:17.50,P18,,0,0,0,,Bueno, ¿va a
+Dialogue: 0,0:00:17.50,0:00:18.04,P18,,0,0,0,,funcionar?
+Dialogue: 0,0:00:18.04,0:00:19.16,P18,,0,0,0,,¿La gente va a conectar?
+Dialogue: 0,0:00:19.16,0:00:20.80,P18,,0,0,0,,Empezás a desarmar cada
+Dialogue: 0,0:00:20.80,0:00:20.96,P18,,0,0,0,,detalle.
+Dialogue: 0,0:00:20.96,0:00:21.82,P18,,0,0,0,,¿Cómo lo filmamos?
+Dialogue: 0,0:00:21.82,0:00:23.28,P18,,0,0,0,,¿Puedo conseguir que
+Dialogue: 0,0:00:23.28,0:00:23.50,P18,,0,0,0,,lo haga Peyton Manning?
+Dialogue: 0,0:00:23.50,0:00:25.46,P18,,0,0,0,,¿Puedo conseguir…?
+Dialogue: 0,0:00:25.46,0:00:26.90,P18,,0,0,0,,Y vas tirando abajo cada idea.
+Dialogue: 0,0:00:26.90,0:00:27.94,P18,,0,0,0,,Lo mismo con las novelas:
+Dialogue: 0,0:00:27.94,0:00:29.32,P18,,0,0,0,,personajes, tramas,
+Dialogue: 0,0:00:29.32,0:00:29.64,P18,,0,0,0,,historias.
+Dialogue: 0,0:00:29.64,0:00:31.26,P18,,0,0,0,,¿Esto tiene sentido?
+Dialogue: 0,0:00:31.26,0:00:32.08,P18,,0,0,0,,No, y te digo por qué.
+Dialogue: 0,0:00:34.18,0:00:36.44,P18,,0,0,0,,Siento que eso me ayuda mucho.

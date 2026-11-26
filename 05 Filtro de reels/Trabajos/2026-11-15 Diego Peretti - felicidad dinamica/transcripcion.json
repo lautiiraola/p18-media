@@ -1,0 +1,522 @@
+{
+ "idioma": "es",
+ "duracion": 47.97,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 5.58,
+   "texto": "La felicidad no es un estado estático, es dinámico.",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.26,
+     "p": "La"
+    },
+    {
+     "ini": 0.26,
+     "fin": 0.58,
+     "p": "felicidad"
+    },
+    {
+     "ini": 0.58,
+     "fin": 0.68,
+     "p": "no"
+    },
+    {
+     "ini": 0.68,
+     "fin": 0.84,
+     "p": "es"
+    },
+    {
+     "ini": 0.84,
+     "fin": 1.04,
+     "p": "un"
+    },
+    {
+     "ini": 1.04,
+     "fin": 2.96,
+     "p": "estado"
+    },
+    {
+     "ini": 2.96,
+     "fin": 4.02,
+     "p": "estático,"
+    },
+    {
+     "ini": 4.82,
+     "fin": 4.98,
+     "p": "es"
+    },
+    {
+     "ini": 4.98,
+     "fin": 5.58,
+     "p": "dinámico."
+    }
+   ]
+  },
+  {
+   "ini": 6.02,
+   "fin": 9.38,
+   "texto": "La felicidad, digamos, los estados de ánimo son dinámicos.",
+   "palabras": [
+    {
+     "ini": 6.02,
+     "fin": 6.12,
+     "p": "La"
+    },
+    {
+     "ini": 6.12,
+     "fin": 6.58,
+     "p": "felicidad,"
+    },
+    {
+     "ini": 6.68,
+     "fin": 6.86,
+     "p": "digamos,"
+    },
+    {
+     "ini": 7.08,
+     "fin": 7.16,
+     "p": "los"
+    },
+    {
+     "ini": 7.16,
+     "fin": 7.4,
+     "p": "estados"
+    },
+    {
+     "ini": 7.4,
+     "fin": 7.6,
+     "p": "de"
+    },
+    {
+     "ini": 7.6,
+     "fin": 7.8,
+     "p": "ánimo"
+    },
+    {
+     "ini": 7.8,
+     "fin": 8.04,
+     "p": "son"
+    },
+    {
+     "ini": 8.04,
+     "fin": 9.38,
+     "p": "dinámicos."
+    }
+   ]
+  },
+  {
+   "ini": 11.4,
+   "fin": 14.98,
+   "texto": "Y trato de ser consciente en los momentos de felicidad y me digo,",
+   "palabras": [
+    {
+     "ini": 11.4,
+     "fin": 11.88,
+     "p": "Y"
+    },
+    {
+     "ini": 11.88,
+     "fin": 12.36,
+     "p": "trato"
+    },
+    {
+     "ini": 12.36,
+     "fin": 12.52,
+     "p": "de"
+    },
+    {
+     "ini": 12.52,
+     "fin": 12.76,
+     "p": "ser"
+    },
+    {
+     "ini": 12.76,
+     "fin": 13.4,
+     "p": "consciente"
+    },
+    {
+     "ini": 13.4,
+     "fin": 13.62,
+     "p": "en"
+    },
+    {
+     "ini": 13.62,
+     "fin": 13.76,
+     "p": "los"
+    },
+    {
+     "ini": 13.76,
+     "fin": 13.94,
+     "p": "momentos"
+    },
+    {
+     "ini": 13.94,
+     "fin": 14.18,
+     "p": "de"
+    },
+    {
+     "ini": 14.18,
+     "fin": 14.48,
+     "p": "felicidad"
+    },
+    {
+     "ini": 14.48,
+     "fin": 14.6,
+     "p": "y"
+    },
+    {
+     "ini": 14.6,
+     "fin": 14.78,
+     "p": "me"
+    },
+    {
+     "ini": 14.78,
+     "fin": 14.98,
+     "p": "digo,"
+    }
+   ]
+  },
+  {
+   "ini": 15.14,
+   "fin": 16.98,
+   "texto": "en estos momentos estoy siendo feliz.",
+   "palabras": [
+    {
+     "ini": 15.14,
+     "fin": 15.4,
+     "p": "en"
+    },
+    {
+     "ini": 15.4,
+     "fin": 15.5,
+     "p": "estos"
+    },
+    {
+     "ini": 15.5,
+     "fin": 16.0,
+     "p": "momentos"
+    },
+    {
+     "ini": 16.0,
+     "fin": 16.22,
+     "p": "estoy"
+    },
+    {
+     "ini": 16.22,
+     "fin": 16.52,
+     "p": "siendo"
+    },
+    {
+     "ini": 16.52,
+     "fin": 16.98,
+     "p": "feliz."
+    }
+   ]
+  },
+  {
+   "ini": 18.36,
+   "fin": 21.36,
+   "texto": "Lo quiero hacer consciente para después acordármelo,",
+   "palabras": [
+    {
+     "ini": 18.36,
+     "fin": 18.52,
+     "p": "Lo"
+    },
+    {
+     "ini": 18.52,
+     "fin": 18.64,
+     "p": "quiero"
+    },
+    {
+     "ini": 18.64,
+     "fin": 18.9,
+     "p": "hacer"
+    },
+    {
+     "ini": 18.9,
+     "fin": 19.7,
+     "p": "consciente"
+    },
+    {
+     "ini": 19.7,
+     "fin": 20.2,
+     "p": "para"
+    },
+    {
+     "ini": 20.2,
+     "fin": 20.46,
+     "p": "después"
+    },
+    {
+     "ini": 20.46,
+     "fin": 21.36,
+     "p": "acordármelo,"
+    }
+   ]
+  },
+  {
+   "ini": 21.78,
+   "fin": 24.34,
+   "texto": "que hay momentos de felicidad.",
+   "palabras": [
+    {
+     "ini": 21.78,
+     "fin": 22.24,
+     "p": "que"
+    },
+    {
+     "ini": 22.24,
+     "fin": 22.38,
+     "p": "hay"
+    },
+    {
+     "ini": 22.38,
+     "fin": 23.08,
+     "p": "momentos"
+    },
+    {
+     "ini": 23.08,
+     "fin": 23.78,
+     "p": "de"
+    },
+    {
+     "ini": 23.78,
+     "fin": 24.34,
+     "p": "felicidad."
+    }
+   ]
+  },
+  {
+   "ini": 24.62,
+   "fin": 28.0,
+   "texto": "Y cuando no estoy feliz, también lo soy consciente",
+   "palabras": [
+    {
+     "ini": 24.62,
+     "fin": 24.74,
+     "p": "Y"
+    },
+    {
+     "ini": 24.74,
+     "fin": 24.94,
+     "p": "cuando"
+    },
+    {
+     "ini": 24.94,
+     "fin": 25.12,
+     "p": "no"
+    },
+    {
+     "ini": 25.12,
+     "fin": 25.28,
+     "p": "estoy"
+    },
+    {
+     "ini": 25.28,
+     "fin": 25.78,
+     "p": "feliz,"
+    },
+    {
+     "ini": 26.08,
+     "fin": 26.24,
+     "p": "también"
+    },
+    {
+     "ini": 26.24,
+     "fin": 26.42,
+     "p": "lo"
+    },
+    {
+     "ini": 26.42,
+     "fin": 26.54,
+     "p": "soy"
+    },
+    {
+     "ini": 26.54,
+     "fin": 28.0,
+     "p": "consciente"
+    }
+   ]
+  },
+  {
+   "ini": 28.0,
+   "fin": 34.86,
+   "texto": "para que se impriman, que son estados de ánimos pasajeros.",
+   "palabras": [
+    {
+     "ini": 28.0,
+     "fin": 29.24,
+     "p": "para"
+    },
+    {
+     "ini": 29.24,
+     "fin": 30.98,
+     "p": "que"
+    },
+    {
+     "ini": 30.98,
+     "fin": 31.3,
+     "p": "se"
+    },
+    {
+     "ini": 31.3,
+     "fin": 31.9,
+     "p": "impriman,"
+    },
+    {
+     "ini": 32.08,
+     "fin": 32.1,
+     "p": "que"
+    },
+    {
+     "ini": 32.1,
+     "fin": 32.96,
+     "p": "son"
+    },
+    {
+     "ini": 32.96,
+     "fin": 33.3,
+     "p": "estados"
+    },
+    {
+     "ini": 33.3,
+     "fin": 33.42,
+     "p": "de"
+    },
+    {
+     "ini": 33.42,
+     "fin": 33.68,
+     "p": "ánimos"
+    },
+    {
+     "ini": 33.68,
+     "fin": 34.86,
+     "p": "pasajeros."
+    }
+   ]
+  },
+  {
+   "ini": 36.54,
+   "fin": 39.52,
+   "texto": "Entonces, tengo momentos de felicidad, momentos muy felices,",
+   "palabras": [
+    {
+     "ini": 36.54,
+     "fin": 36.7,
+     "p": "Entonces,"
+    },
+    {
+     "ini": 36.9,
+     "fin": 36.98,
+     "p": "tengo"
+    },
+    {
+     "ini": 36.98,
+     "fin": 37.42,
+     "p": "momentos"
+    },
+    {
+     "ini": 37.42,
+     "fin": 37.62,
+     "p": "de"
+    },
+    {
+     "ini": 37.62,
+     "fin": 38.14,
+     "p": "felicidad,"
+    },
+    {
+     "ini": 38.24,
+     "fin": 38.64,
+     "p": "momentos"
+    },
+    {
+     "ini": 38.64,
+     "fin": 38.98,
+     "p": "muy"
+    },
+    {
+     "ini": 38.98,
+     "fin": 39.52,
+     "p": "felices,"
+    }
+   ]
+  },
+  {
+   "ini": 40.84,
+   "fin": 47.84,
+   "texto": "de gran placer, pero otros momentos en donde estoy muy, muy preocupado, angustiado.",
+   "palabras": [
+    {
+     "ini": 40.84,
+     "fin": 40.84,
+     "p": "de"
+    },
+    {
+     "ini": 40.84,
+     "fin": 41.1,
+     "p": "gran"
+    },
+    {
+     "ini": 41.1,
+     "fin": 41.6,
+     "p": "placer,"
+    },
+    {
+     "ini": 42.26,
+     "fin": 42.38,
+     "p": "pero"
+    },
+    {
+     "ini": 42.38,
+     "fin": 42.54,
+     "p": "otros"
+    },
+    {
+     "ini": 42.54,
+     "fin": 42.96,
+     "p": "momentos"
+    },
+    {
+     "ini": 42.96,
+     "fin": 43.18,
+     "p": "en"
+    },
+    {
+     "ini": 43.18,
+     "fin": 44.22,
+     "p": "donde"
+    },
+    {
+     "ini": 44.22,
+     "fin": 45.48,
+     "p": "estoy"
+    },
+    {
+     "ini": 45.48,
+     "fin": 46.3,
+     "p": "muy,"
+    },
+    {
+     "ini": 46.3,
+     "fin": 46.58,
+     "p": "muy"
+    },
+    {
+     "ini": 46.58,
+     "fin": 47.1,
+     "p": "preocupado,"
+    },
+    {
+     "ini": 47.14,
+     "fin": 47.84,
+     "p": "angustiado."
+    }
+   ]
+  }
+ ]
+}

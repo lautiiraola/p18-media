@@ -1,0 +1,732 @@
+{
+ "idioma": "ca",
+ "duracion": 56.19,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 3.7,
+   "texto": "La vida, yo tengo que ser lo suficientemente valiente",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.14,
+     "p": "La"
+    },
+    {
+     "ini": 0.14,
+     "fin": 0.64,
+     "p": "vida,"
+    },
+    {
+     "ini": 0.92,
+     "fin": 0.92,
+     "p": "yo"
+    },
+    {
+     "ini": 0.92,
+     "fin": 1.14,
+     "p": "tengo"
+    },
+    {
+     "ini": 1.14,
+     "fin": 1.36,
+     "p": "que"
+    },
+    {
+     "ini": 1.36,
+     "fin": 2.16,
+     "p": "ser"
+    },
+    {
+     "ini": 2.16,
+     "fin": 2.46,
+     "p": "lo"
+    },
+    {
+     "ini": 2.46,
+     "fin": 3.26,
+     "p": "suficientemente"
+    },
+    {
+     "ini": 3.26,
+     "fin": 3.7,
+     "p": "valiente"
+    }
+   ]
+  },
+  {
+   "ini": 3.7,
+   "fin": 5.22,
+   "texto": "para aceptar la realidad",
+   "palabras": [
+    {
+     "ini": 3.7,
+     "fin": 3.98,
+     "p": "para"
+    },
+    {
+     "ini": 3.98,
+     "fin": 4.52,
+     "p": "aceptar"
+    },
+    {
+     "ini": 4.52,
+     "fin": 4.76,
+     "p": "la"
+    },
+    {
+     "ini": 4.76,
+     "fin": 5.22,
+     "p": "realidad"
+    }
+   ]
+  },
+  {
+   "ini": 5.64,
+   "fin": 10.9,
+   "texto": "y lo suficientemente decidido para intentar modificar esta realidad.",
+   "palabras": [
+    {
+     "ini": 5.64,
+     "fin": 5.98,
+     "p": "y"
+    },
+    {
+     "ini": 5.98,
+     "fin": 6.3,
+     "p": "lo"
+    },
+    {
+     "ini": 6.3,
+     "fin": 7.2,
+     "p": "suficientemente"
+    },
+    {
+     "ini": 7.2,
+     "fin": 7.9,
+     "p": "decidido"
+    },
+    {
+     "ini": 7.9,
+     "fin": 8.24,
+     "p": "para"
+    },
+    {
+     "ini": 8.24,
+     "fin": 9.24,
+     "p": "intentar"
+    },
+    {
+     "ini": 9.24,
+     "fin": 9.96,
+     "p": "modificar"
+    },
+    {
+     "ini": 9.96,
+     "fin": 10.22,
+     "p": "esta"
+    },
+    {
+     "ini": 10.22,
+     "fin": 10.9,
+     "p": "realidad."
+    }
+   ]
+  },
+  {
+   "ini": 12.2,
+   "fin": 15.32,
+   "texto": "Y sabiendo siempre, no es el just do it",
+   "palabras": [
+    {
+     "ini": 12.2,
+     "fin": 12.6,
+     "p": "Y"
+    },
+    {
+     "ini": 12.6,
+     "fin": 13.14,
+     "p": "sabiendo"
+    },
+    {
+     "ini": 13.14,
+     "fin": 13.66,
+     "p": "siempre,"
+    },
+    {
+     "ini": 14.1,
+     "fin": 14.26,
+     "p": "no"
+    },
+    {
+     "ini": 14.26,
+     "fin": 14.44,
+     "p": "es"
+    },
+    {
+     "ini": 14.44,
+     "fin": 14.64,
+     "p": "el"
+    },
+    {
+     "ini": 14.64,
+     "fin": 14.92,
+     "p": "just"
+    },
+    {
+     "ini": 14.92,
+     "fin": 15.06,
+     "p": "do"
+    },
+    {
+     "ini": 15.06,
+     "fin": 15.32,
+     "p": "it"
+    }
+   ]
+  },
+  {
+   "ini": 15.32,
+   "fin": 17.66,
+   "texto": "o lo que nos decían los de Nike,",
+   "palabras": [
+    {
+     "ini": 15.32,
+     "fin": 16.02,
+     "p": "o"
+    },
+    {
+     "ini": 16.02,
+     "fin": 16.18,
+     "p": "lo"
+    },
+    {
+     "ini": 16.18,
+     "fin": 16.38,
+     "p": "que"
+    },
+    {
+     "ini": 16.38,
+     "fin": 16.68,
+     "p": "nos"
+    },
+    {
+     "ini": 16.68,
+     "fin": 17.0,
+     "p": "decían"
+    },
+    {
+     "ini": 17.0,
+     "fin": 17.22,
+     "p": "los"
+    },
+    {
+     "ini": 17.22,
+     "fin": 17.4,
+     "p": "de"
+    },
+    {
+     "ini": 17.4,
+     "fin": 17.66,
+     "p": "Nike,"
+    }
+   ]
+  },
+  {
+   "ini": 17.82,
+   "fin": 20.3,
+   "texto": "si quieres tú puedes, no.",
+   "palabras": [
+    {
+     "ini": 17.82,
+     "fin": 18.1,
+     "p": "si"
+    },
+    {
+     "ini": 18.1,
+     "fin": 18.44,
+     "p": "quieres"
+    },
+    {
+     "ini": 18.44,
+     "fin": 18.7,
+     "p": "tú"
+    },
+    {
+     "ini": 18.7,
+     "fin": 19.16,
+     "p": "puedes,"
+    },
+    {
+     "ini": 19.82,
+     "fin": 20.3,
+     "p": "no."
+    }
+   ]
+  },
+  {
+   "ini": 20.3,
+   "fin": 22.62,
+   "texto": "Si quieres, no necesariamente puedes.",
+   "palabras": [
+    {
+     "ini": 20.3,
+     "fin": 20.56,
+     "p": "Si"
+    },
+    {
+     "ini": 20.56,
+     "fin": 20.92,
+     "p": "quieres,"
+    },
+    {
+     "ini": 21.08,
+     "fin": 21.2,
+     "p": "no"
+    },
+    {
+     "ini": 21.2,
+     "fin": 22.12,
+     "p": "necesariamente"
+    },
+    {
+     "ini": 22.12,
+     "fin": 22.62,
+     "p": "puedes."
+    }
+   ]
+  },
+  {
+   "ini": 24.3,
+   "fin": 28.92,
+   "texto": "Si Djokovic o Alcaraz quiere ganar Roland Garros",
+   "palabras": [
+    {
+     "ini": 24.3,
+     "fin": 24.98,
+     "p": "Si"
+    },
+    {
+     "ini": 24.98,
+     "fin": 25.66,
+     "p": "Djokovic"
+    },
+    {
+     "ini": 25.66,
+     "fin": 26.34,
+     "p": "o"
+    },
+    {
+     "ini": 26.34,
+     "fin": 27.16,
+     "p": "Alcaraz"
+    },
+    {
+     "ini": 27.16,
+     "fin": 27.48,
+     "p": "quiere"
+    },
+    {
+     "ini": 27.48,
+     "fin": 28.14,
+     "p": "ganar"
+    },
+    {
+     "ini": 28.14,
+     "fin": 28.52,
+     "p": "Roland"
+    },
+    {
+     "ini": 28.52,
+     "fin": 28.92,
+     "p": "Garros"
+    }
+   ]
+  },
+  {
+   "ini": 28.92,
+   "fin": 33.36,
+   "texto": "y, sin ir tan bien, uno de los dos no va a poder, seguro.",
+   "palabras": [
+    {
+     "ini": 28.92,
+     "fin": 29.2,
+     "p": "y,"
+    },
+    {
+     "ini": 29.4,
+     "fin": 29.42,
+     "p": "sin"
+    },
+    {
+     "ini": 29.42,
+     "fin": 29.58,
+     "p": "ir"
+    },
+    {
+     "ini": 29.58,
+     "fin": 29.82,
+     "p": "tan"
+    },
+    {
+     "ini": 29.82,
+     "fin": 30.3,
+     "p": "bien,"
+    },
+    {
+     "ini": 30.68,
+     "fin": 30.9,
+     "p": "uno"
+    },
+    {
+     "ini": 30.9,
+     "fin": 31.04,
+     "p": "de"
+    },
+    {
+     "ini": 31.04,
+     "fin": 31.24,
+     "p": "los"
+    },
+    {
+     "ini": 31.24,
+     "fin": 31.38,
+     "p": "dos"
+    },
+    {
+     "ini": 31.38,
+     "fin": 31.54,
+     "p": "no"
+    },
+    {
+     "ini": 31.54,
+     "fin": 31.7,
+     "p": "va"
+    },
+    {
+     "ini": 31.7,
+     "fin": 31.7,
+     "p": "a"
+    },
+    {
+     "ini": 31.7,
+     "fin": 32.12,
+     "p": "poder,"
+    },
+    {
+     "ini": 33.06,
+     "fin": 33.36,
+     "p": "seguro."
+    }
+   ]
+  },
+  {
+   "ini": 33.86,
+   "fin": 35.52,
+   "texto": "Entonces, si quieres, no puedes\".",
+   "palabras": [
+    {
+     "ini": 33.86,
+     "fin": 34.24,
+     "p": "Entonces,"
+    },
+    {
+     "ini": 34.28,
+     "fin": 34.5,
+     "p": "si"
+    },
+    {
+     "ini": 34.5,
+     "fin": 34.68,
+     "p": "quieres,"
+    },
+    {
+     "ini": 34.74,
+     "fin": 34.98,
+     "p": "no"
+    },
+    {
+     "ini": 34.98,
+     "fin": 35.52,
+     "p": "puedes\"."
+    }
+   ]
+  },
+  {
+   "ini": 36.1,
+   "fin": 40.32,
+   "texto": "Y es una frase que yo le repetí a Rafael.",
+   "palabras": [
+    {
+     "ini": 36.1,
+     "fin": 36.46,
+     "p": "Y"
+    },
+    {
+     "ini": 36.46,
+     "fin": 37.4,
+     "p": "es"
+    },
+    {
+     "ini": 37.4,
+     "fin": 37.86,
+     "p": "una"
+    },
+    {
+     "ini": 37.86,
+     "fin": 38.14,
+     "p": "frase"
+    },
+    {
+     "ini": 38.14,
+     "fin": 38.36,
+     "p": "que"
+    },
+    {
+     "ini": 38.36,
+     "fin": 38.6,
+     "p": "yo"
+    },
+    {
+     "ini": 38.6,
+     "fin": 39.52,
+     "p": "le"
+    },
+    {
+     "ini": 39.52,
+     "fin": 39.84,
+     "p": "repetí"
+    },
+    {
+     "ini": 39.84,
+     "fin": 39.9,
+     "p": "a"
+    },
+    {
+     "ini": 39.9,
+     "fin": 40.32,
+     "p": "Rafael."
+    }
+   ]
+  },
+  {
+   "ini": 40.9,
+   "fin": 43.92,
+   "texto": "Hacer las cosas bien no nos va a garantizar el éxito.",
+   "palabras": [
+    {
+     "ini": 40.9,
+     "fin": 41.24,
+     "p": "Hacer"
+    },
+    {
+     "ini": 41.24,
+     "fin": 41.52,
+     "p": "las"
+    },
+    {
+     "ini": 41.52,
+     "fin": 41.8,
+     "p": "cosas"
+    },
+    {
+     "ini": 41.8,
+     "fin": 42.06,
+     "p": "bien"
+    },
+    {
+     "ini": 42.06,
+     "fin": 42.32,
+     "p": "no"
+    },
+    {
+     "ini": 42.32,
+     "fin": 42.46,
+     "p": "nos"
+    },
+    {
+     "ini": 42.46,
+     "fin": 42.64,
+     "p": "va"
+    },
+    {
+     "ini": 42.64,
+     "fin": 42.84,
+     "p": "a"
+    },
+    {
+     "ini": 42.84,
+     "fin": 43.24,
+     "p": "garantizar"
+    },
+    {
+     "ini": 43.24,
+     "fin": 43.48,
+     "p": "el"
+    },
+    {
+     "ini": 43.48,
+     "fin": 43.92,
+     "p": "éxito."
+    }
+   ]
+  },
+  {
+   "ini": 44.96,
+   "fin": 48.36,
+   "texto": "Hacerlas mal casi siempre te garantiza el fracaso.",
+   "palabras": [
+    {
+     "ini": 44.96,
+     "fin": 45.48,
+     "p": "Hacerlas"
+    },
+    {
+     "ini": 45.48,
+     "fin": 46.0,
+     "p": "mal"
+    },
+    {
+     "ini": 46.0,
+     "fin": 46.54,
+     "p": "casi"
+    },
+    {
+     "ini": 46.54,
+     "fin": 46.92,
+     "p": "siempre"
+    },
+    {
+     "ini": 46.92,
+     "fin": 47.18,
+     "p": "te"
+    },
+    {
+     "ini": 47.18,
+     "fin": 47.68,
+     "p": "garantiza"
+    },
+    {
+     "ini": 47.68,
+     "fin": 47.92,
+     "p": "el"
+    },
+    {
+     "ini": 47.92,
+     "fin": 48.36,
+     "p": "fracaso."
+    }
+   ]
+  },
+  {
+   "ini": 48.54,
+   "fin": 51.56,
+   "texto": "Puestos a elegir, elige hacerlas bien.",
+   "palabras": [
+    {
+     "ini": 48.54,
+     "fin": 48.84,
+     "p": "Puestos"
+    },
+    {
+     "ini": 48.84,
+     "fin": 49.04,
+     "p": "a"
+    },
+    {
+     "ini": 49.04,
+     "fin": 50.18,
+     "p": "elegir,"
+    },
+    {
+     "ini": 50.36,
+     "fin": 50.6,
+     "p": "elige"
+    },
+    {
+     "ini": 50.6,
+     "fin": 51.24,
+     "p": "hacerlas"
+    },
+    {
+     "ini": 51.24,
+     "fin": 51.56,
+     "p": "bien."
+    }
+   ]
+  },
+  {
+   "ini": 52.44,
+   "fin": 55.74,
+   "texto": "Pues esta es la realidad, a mi modo de ver, de la vida.",
+   "palabras": [
+    {
+     "ini": 52.44,
+     "fin": 52.66,
+     "p": "Pues"
+    },
+    {
+     "ini": 52.66,
+     "fin": 52.86,
+     "p": "esta"
+    },
+    {
+     "ini": 52.86,
+     "fin": 53.62,
+     "p": "es"
+    },
+    {
+     "ini": 53.62,
+     "fin": 53.88,
+     "p": "la"
+    },
+    {
+     "ini": 53.88,
+     "fin": 54.42,
+     "p": "realidad,"
+    },
+    {
+     "ini": 54.62,
+     "fin": 54.78,
+     "p": "a"
+    },
+    {
+     "ini": 54.78,
+     "fin": 54.82,
+     "p": "mi"
+    },
+    {
+     "ini": 54.82,
+     "fin": 55.04,
+     "p": "modo"
+    },
+    {
+     "ini": 55.04,
+     "fin": 55.14,
+     "p": "de"
+    },
+    {
+     "ini": 55.14,
+     "fin": 55.2,
+     "p": "ver,"
+    },
+    {
+     "ini": 55.22,
+     "fin": 55.44,
+     "p": "de"
+    },
+    {
+     "ini": 55.44,
+     "fin": 55.58,
+     "p": "la"
+    },
+    {
+     "ini": 55.58,
+     "fin": 55.74,
+     "p": "vida."
+    }
+   ]
+  }
+ ]
+}

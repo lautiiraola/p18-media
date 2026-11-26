@@ -1,0 +1,58 @@
+MAPA NARRATIVO — P18-002-marcos-galperin
+Título de trabajo: "19 de 20"
+Modo: assigned (NUEVO VIDEO: Marcos Galperin / Mercado Libre)
+Formato: Reel/Story 9:16 · DURACIÓN OBJETIVO: unos 46 s (regla de 30–50 s) · 112 palabras
+Oración resumen: esta historia muestra cómo Marcos Galperin decidió seguir con Mercado Libre cuando 19 de 20 personas le decían que no iba a funcionar.
+
+Hook: "Veinte personas. Diecinueve le dijeron que no iba a funcionar." (C02)
+Contexto: 1999, Stanford, un mercado online latinoamericano (C01, C05).
+Conflicto: "Acá nadie va a comprar algo que no vio ni tocó" (C04).
+Decisión: su respuesta, en sus palabras: "Cuanto más me dicen que no, más energías me dan, porque ahí está la oportunidad" (C06).
+Desarrollo: cocheras, burbuja, inversores que votan para cerrarla y casi lo logran (C10–C12).
+Resultado: siete años perdiendo plata; en 2007, el Nasdaq (C13, C14).
+Reflexión y pregunta final: "Diecinueve de veinte dijeron que no. ¿Y vos, a cuántos les estás haciendo caso?" (C18)
+
+────────────────────────────────────────
+HOOKS CANDIDATOS (skills: viral-hooks-formulas + viral-hooks)
+
+HOOK 1 — Cat 09 Specificity & Data (fórmula 081) · frena el scroll con un número verificable
+"Veinte personas. Diecinueve le dijeron que no iba a funcionar."
+  Visual: grilla de 20 siluetas; 19 se tiñen de clay con "NO" y 1 queda en lima.
+  Texto en pantalla: "19 de 20 dijeron NO"
+
+HOOK 2 — Cat 06 Question (fórmula 057) · lleva al espectador a pensar en sí mismo
+"¿Seguirías con tu idea si 19 de 20 te dicen que no?"
+  Visual: la misma grilla, con un cursor sobre la figura lima.
+  Texto: "¿Seguirías?"
+
+HOOK 3 — Cat 07 Story / cita (fórmula 069) · retención por objeción concreta
+"«Acá nadie va a comprar algo que no vio ni tocó.» Eso le dijeron a Marcos Galperin."
+  Visual: la frase escrita sobre el gris de un monitor de 1999.
+  Texto: "1999 · nadie compra online"
+
+Recomendación: abrir con el HOOK 1.
+- Cumple el checklist (cifra concreta en la primera mitad, se entiende sin sonido, resuelve antes del segundo 2).
+- La promesa la paga el cierre, que retoma "diecinueve de veinte".
+- El HOOK 3 queda como alternativa para una prueba A/B en Trial Reels.
+
+────────────────────────────────────────
+ESTRUCTURA DE RETENCIÓN (viral-short-form)
+- Hook (0–4 s): el número.
+- Escalada 1 (4–14 s): contexto y objeción concreta.
+- Escalada 2 (14–21 s): su respuesta textual; es el pico emocional.
+- Escalada 3 (21–35 s): "pero" (la burbuja y la votación). Es el re-hook de la mitad: "Casi lo logran."
+- Payoff (35–41 s): siete años y el Nasdaq.
+- Cierre (41–46 s): vuelve el número del hook y cierra con una pregunta al espectador.
+Loop abierto: ¿tenían razón los 19? Se cierra con el Nasdaq.
+Promesa y payoff: el hook promete que la idea no iba a funcionar y el video muestra que funcionó, con su costo. ✓
+
+AJUSTE REELS (viral-instagram-reels)
+- Señal de envíos: la pregunta final invita a mandárselo a alguien con una idea que todos critican. El CTA explícito va en el caption, no en la voz (P18 cierra sin outro).
+- Texto en pantalla con keywords: "Mercado Libre", "Marcos Galperin", "19 de 20".
+- Si la cuenta tiene más de 1.000 seguidores, conviene publicarlo primero como Trial Reel.
+
+Por qué merece contarse:
+Es una historia argentina y conocida, pero pocos saben el número de quienes dudaron. La objeción ("nadie compra lo que no tocó") es universal. El costo real (siete años de pérdidas, la votación) evita la versión motivacional vacía.
+
+Tensión con el pedido del operador:
+El pedido fue "inspiración, que siempre confió". El guion lo cumple con su propia frase verificada y con hechos concretos. Evita frases genéricas tipo "nunca te rindas", que las reglas P18 prohíben.

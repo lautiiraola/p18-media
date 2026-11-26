@@ -1,0 +1,73 @@
+RESEARCH DOSSIER — P18-001-james-dyson
+Fecha de investigación: 2026-11-24
+Fuentes: ver 08_sources_and_licenses/sources.csv (S01–S12). Afirmaciones: ver fact-check.csv (C01–C39).
+
+Pregunta central:
+¿Qué hace alguien cuando la respuesta a su idea es "si fuera posible, ya lo habría hecho alguien más grande"?
+
+Protagonista:
+James Dyson. Creció en la costa de North Norfolk, Inglaterra (S02); su año de nacimiento no se verificó porque no hace falta para el guion. Antes del ciclón ya era diseñador e inventor. Estudió en la Royal College of Art (1966–70). Diseñó el Sea Truck para Rotork, la empresa de Jeremy Fry, y en 1974 se independizó con el Ballbarrow, una carretilla con una bola en lugar de rueda (S02).
+
+Contexto:
+- En 1978 tenía una fábrica de Ballbarrows donde la pintura en polvo se juntaba con un filtro de tela que se tapaba (C05).
+- En casa, la bolsa de su aspiradora Hoover se tapaba y la máquina perdía succión (C04).
+- Conocía el ciclón industrial de un aserradero cercano (Hill Leigh) y construyó uno propio para la fábrica, que no se tapaba (C06–C08).
+- En la empresa del Ballbarrow tenía alrededor del 30% de las acciones y había otros directores (C03).
+
+Cronología:
+- 1966–1970: Royal College of Art. Conoce a Deirdre (S02).
+- 1974: se independiza con el Ballbarrow (C01).
+- 1978: problema del filtro en la fábrica, ciclón del aserradero, ciclón propio para la fábrica. Primer ciclón de cartón en su aspiradora: "parecía funcionar" (C04–C10).
+- 1979: ofrece la idea a la empresa del Ballbarrow. La respuesta: "si existiera una aspiradora mejor, ya la habría hecho una de las grandes". Se separan (C11, C13).
+- c. 1979: según Dyson, un experto en filtración de Porton Down le dice que los ciclones solo sirven hasta 20 micrones; el polvo doméstico es más fino (C14).
+- 1979–c.1984: 5.127 prototipos, cambiando una variable por vez. Crecen las deudas. Deirdre da clases de arte (C16–C19). Duración en disputa: cuatro o cinco años (C20).
+- 1983–1984: la Kleeneze Rotork Cyclon, con licencia de Rotork. Se hacen 550 unidades y fracasa comercialmente (C22).
+- c. 1984–1985: según S11, un intento de licencia con Amway termina en demanda. Dyson solo menciona "a very long lawsuit in the United States" (C34, no verificado en detalle).
+- 1985–1986: Apex (Japón) produce la G-Force, rosa (C23). Su licencia financia lo que vendrá (C24). Premio en la International Design Fair de 1991 (S10, S11).
+- 1980s: los grandes fabricantes de aspiradoras rechazan licenciarla (C21).
+- c. 1989–1991: "10 or 11 years" después de empezar, cambia el plan: fabricará él (C25). Préstamo bancario con la casa como garantía (C26). Dyson Appliances Ltd se constituye en 1991 (S11).
+- 1993: lanza el DC01. Producción en Chippenham (C27, C28). Al principio muchos comercios no quieren venderlo (C35).
+- Hoy: presencia en 84 mercados (C29).
+
+Conflicto:
+1. Un problema cotidiano (la bolsa que se tapa) contra una industria que vivía de vender bolsas y no quería cambiar (C21, C39).
+2. Una objeción que se repite: si fuera mejor, ya lo habría hecho uno de los grandes (C11, C12).
+3. Un problema técnico real: el polvo doméstico es más fino de lo que un ciclón debería poder atrapar (C14).
+4. Presión económica y familiar: deudas, Deirdre sosteniendo la casa y, más tarde, la casa como garantía (C17, C18, C26).
+
+Decisión:
+Hay dos decisiones encadenadas, y la segunda es la central:
+- 1979: seguir con la idea fuera de la empresa que la rechazó (C13).
+- c. 1990: dejar de buscar licenciatarios y fabricar él mismo, poniendo la casa como garantía (C25, C26).
+
+Resultado:
+El DC01 sale en 1993 con su marca (C27). Dyson está hoy presente en 84 mercados (C29). La cifra de "más vendida del Reino Unido en 18 meses" NO se usa: las fuentes no coinciden (C33).
+
+Contradicciones entre fuentes:
+- Duración de los prototipos: cuatro años (S02, S06) contra cinco años (S01, S09). No se narra (C20).
+- 5.127 contra 5.126: no hay contradicción real. Según Dyson son 5.127 prototipos, de los cuales 5.126 no funcionaron (C19).
+- Altura del ciclón industrial: 25 ft (S02) contra 30 ft (S06, S11). No se narra (C07).
+- Prototipo de cartón: "it worked!" (S01) contra "appeared to work" (S06). Se usa "parecía funcionar" (C10).
+- Salida del Ballbarrow: "parting of the ways" (S06) contra "kicked out" (S11). Se usa "Dyson se fue" (C13).
+- Fabricante de la G-Force: Apex (S07, S08) contra Silver Seiko como fabricante y Apex como comercializadora (S10). Se narra "una empresa japonesa", sin nombrarla (C23).
+- La Fundación (S01) dice que el DC01 se creó "five years and 5,127 prototypes later" y lo llama "the world's first bagless vacuum". Ambas afirmaciones se descartan (C30, C31).
+
+Limitaciones:
+- No se pudo leer Fast Company ("Failure doesn't suck"): el sitio bloquea la lectura automática con un 403 (S12). No respalda nada.
+- Las autobiografías ("Against the Odds", 1997; "Invention: A Life", 2021) no se consultaron directamente. Del capítulo web de "Invention: A Life" se usaron solo los epígrafes en primera persona (S03–S05).
+- Varias piezas clave son declaraciones de Dyson con una sola fuente: la frase de "los grandes", el experto de Porton Down, el método de un cambio por vez y el préstamo con la casa como garantía. Están marcadas como verified_as_statement y el guion no las presenta como verdades externas.
+- No se identificó por nombre al experto de Porton Down. No nombrarlo.
+- No se verificó qué empresas concretas rechazaron la licencia. El guion dice "los grandes fabricantes", sin nombres ni "todos".
+
+Limitaciones visuales y legales detectadas (solo para registro; NO es storyboard):
+- Las fotos de archivo de dyson.com (Invention: A Life) están protegidas por copyright de Dyson. Para reproducirlas hay que pedir permiso a Dyson Press Office (S02). Estado: pending.
+- Las fotos de Wikimedia usadas en la referencia visual (retrato de la Royal Society y DC01 de Lankyrider) son CC BY-SA 4.0. Exigen atribución y compartir igual: revisar su compatibilidad antes del master.
+- No se encontró una fotografía verificable y con licencia del prototipo de cartón. Si no aparece, la regla del estudio exige representarlo con un gráfico abstracto rotulado.
+- La G-Force figura en el V&A y en el Science Museum Group. Las licencias de sus imágenes no están verificadas.
+- No existe material de Deirdre ni de la cochera con licencia confirmada.
+
+Afirmaciones descartadas:
+C30, C31 y C32 (rejected). C33 y C34 (unverified).
+
+Ángulo P18 recomendado:
+La objeción "si fuera posible, ya lo habría hecho alguien más grande" contra el método de probar, medir y cambiar una sola cosa. La historia no gira en torno a la terquedad heroica: los intentos fallidos le daban información y la objeción de los grandes no le daba ninguna. El cierre devuelve la pregunta al espectador.

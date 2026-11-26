@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,517,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.50,P18,,0,0,0,,la vida yo tengo que ser lo
+Dialogue: 0,0:00:02.50,0:00:04.02,P18,,0,0,0,,suficientemente valiente para
+Dialogue: 0,0:00:04.02,0:00:06.30,P18,,0,0,0,,aceptar la realidad y lo
+Dialogue: 0,0:00:06.30,0:00:08.22,P18,,0,0,0,,suficientemente decidido para
+Dialogue: 0,0:00:08.22,0:00:10.92,P18,,0,0,0,,intentar modificar esta realidad
+Dialogue: 0,0:00:10.92,0:00:14.26,P18,,0,0,0,,y sabiendo siempre no
+Dialogue: 0,0:00:14.26,0:00:16.66,P18,,0,0,0,,es el jazz duet o lo que nos
+Dialogue: 0,0:00:16.66,0:00:18.72,P18,,0,0,0,,decían los de nike si quieres tú
+Dialogue: 0,0:00:18.72,0:00:21.26,P18,,0,0,0,,puedes si quieres no
+Dialogue: 0,0:00:21.26,0:00:24.48,P18,,0,0,0,,necesariamente puedes si jojkovic
+Dialogue: 0,0:00:25.92,0:00:28.54,P18,,0,0,0,,o Alcaraz quiere ganar Roland
+Dialogue: 0,0:00:28.54,0:00:31.24,P18,,0,0,0,,Garros y Siner también uno de los
+Dialogue: 0,0:00:31.24,0:00:32.44,P18,,0,0,0,,dos no va a poder,
+Dialogue: 0,0:00:33.08,0:00:33.78,P18,,0,0,0,,seguro.
+Dialogue: 0,0:00:33.88,0:00:35.30,P18,,0,0,0,,Entonces si quieres no puedes.
+Dialogue: 0,0:00:37.02,0:00:40.06,P18,,0,0,0,,Una frase que yo le repetía a
+Dialogue: 0,0:00:40.06,0:00:40.76,P18,,0,0,0,,Rafael,
+Dialogue: 0,0:00:40.94,0:00:42.86,P18,,0,0,0,,hacer las cosas bien no nos va a
+Dialogue: 0,0:00:42.86,0:00:45.84,P18,,0,0,0,,garantizar el éxito, hacerlas mal
+Dialogue: 0,0:00:45.84,0:00:47.92,P18,,0,0,0,,casi siempre te garantiza el
+Dialogue: 0,0:00:47.92,0:00:48.50,P18,,0,0,0,,fracaso.
+Dialogue: 0,0:00:48.50,0:00:49.35,P18,,0,0,0,,Puestos a elegir,
+Dialogue: 0,0:00:50.15,0:00:51.57,P18,,0,0,0,,elige hacerlas bien.
+Dialogue: 0,0:00:52.41,0:00:55.03,P18,,0,0,0,,Pues esta es la realidad a mi modo
+Dialogue: 0,0:00:55.03,0:00:55.73,P18,,0,0,0,,de ver de la vida.

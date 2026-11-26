@@ -1,0 +1,28 @@
+ESTADOS PERMITIDOS
+
+idea
+research
+fact_check
+script
+waiting_voiceover
+asset_search
+storyboard
+production
+creative_review
+corrections
+approved
+completed
+archived
+
+TRANSICIONES
+
+research → fact_check: existe dossier de fuentes.
+fact_check → script: hechos críticos verificados.
+script → waiting_voiceover: guion aprobado.
+waiting_voiceover → asset_search: voz final incorporada o guía temporal autorizada.
+asset_search → storyboard: registro de assets completo.
+storyboard → production: cada unidad de voz tiene recurso visual.
+production → creative_review: existe render de revisión.
+creative_review → approved: pasan todos los controles.
+approved → completed: existe master y paquete de entrega.
+completed → archived: carpeta normalizada dentro de terminados.

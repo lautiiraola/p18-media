@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1074,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,613,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.04,P18,,0,0,0,,Estaba escribiendo Comer, rezar, amar
+Dialogue: 0,0:00:01.04,0:00:02.64,P18,,0,0,0,,y caí en uno de esos pozos
+Dialogue: 0,0:00:02.64,0:00:04.32,P18,,0,0,0,,de desesperación en los que
+Dialogue: 0,0:00:04.32,0:00:05.48,P18,,0,0,0,,caemos cuando algo no sale
+Dialogue: 0,0:00:05.48,0:00:07.10,P18,,0,0,0,,y empezás a pensar que esto
+Dialogue: 0,0:00:07.10,0:00:08.10,P18,,0,0,0,,va a ser un desastre,
+Dialogue: 0,0:00:08.10,0:00:09.42,P18,,0,0,0,,el peor libro jamás escrito,
+Dialogue: 0,0:00:09.42,0:00:10.72,P18,,0,0,0,,no sólo malo:
+Dialogue: 0,0:00:10.72,0:00:12.16,P18,,0,0,0,,el peor libro
+Dialogue: 0,0:00:12.16,0:00:12.86,P18,,0,0,0,,jamás escrito.
+Dialogue: 0,0:00:13.44,0:00:15.18,P18,,0,0,0,,Y pensé que mejor dejaba
+Dialogue: 0,0:00:15.18,0:00:17.10,P18,,0,0,0,,este proyecto, ¿viste?
+Dialogue: 0,0:00:17.10,0:00:19.04,P18,,0,0,0,,Pero me acordé de Tom hablándole
+Dialogue: 0,0:00:19.04,0:00:22.10,P18,,0,0,0,,al aire y lo probé.
+Dialogue: 0,0:00:22.10,0:00:24.18,P18,,0,0,0,,Levanté la cara del manuscrito
+Dialogue: 0,0:00:24.18,0:00:25.96,P18,,0,0,0,,y le hablé a un rincón
+Dialogue: 0,0:00:25.96,0:00:27.40,P18,,0,0,0,,vacío de la habitación
+Dialogue: 0,0:00:27.40,0:00:28.80,P18,,0,0,0,,y dije en voz alta:
+Dialogue: 0,0:00:29.40,0:00:30.84,P18,,0,0,0,,escuchame, vos,
+Dialogue: 0,0:00:31.98,0:00:33.74,P18,,0,0,0,,los dos sabemos que si este
+Dialogue: 0,0:00:33.74,0:00:35.00,P18,,0,0,0,,libro no es brillante, no es
+Dialogue: 0,0:00:35.00,0:00:36.16,P18,,0,0,0,,del todo culpa mía, ¿no?
+Dialogue: 0,0:00:36.16,0:00:37.82,P18,,0,0,0,,Porque ves que estoy poniendo
+Dialogue: 0,0:00:37.82,0:00:39.04,P18,,0,0,0,,todo lo que tengo
+Dialogue: 0,0:00:39.04,0:00:39.64,P18,,0,0,0,,en esto, ¿entendés?
+Dialogue: 0,0:00:39.64,0:00:40.78,P18,,0,0,0,,No tengo más que esto,
+Dialogue: 0,0:00:40.78,0:00:41.92,P18,,0,0,0,,así que si querés que sea mejor,
+Dialogue: 0,0:00:42.30,0:00:43.36,P18,,0,0,0,,tenés que aparecer y hacer
+Dialogue: 0,0:00:43.36,0:00:44.44,P18,,0,0,0,,tu parte del trato, ¿ok?
+Dialogue: 0,0:00:44.44,0:00:46.30,P18,,0,0,0,,Pero si no lo hacés,
+Dialogue: 0,0:00:46.30,0:00:47.06,P18,,0,0,0,,¿sabés qué?, al diablo,
+Dialogue: 0,0:00:47.06,0:00:48.24,P18,,0,0,0,,igual voy a seguir escribiendo,
+Dialogue: 0,0:00:48.24,0:00:50.06,P18,,0,0,0,,porque ese es mi trabajo.
+Dialogue: 0,0:00:50.06,0:00:51.32,P18,,0,0,0,,Y quiero que quede registrado
+Dialogue: 0,0:00:51.32,0:00:52.92,P18,,0,0,0,,hoy que yo aparecí
+Dialogue: 0,0:00:52.92,0:00:54.14,P18,,0,0,0,,para hacer mi parte del trabajo.

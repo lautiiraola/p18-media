@@ -1,0 +1,14 @@
+SELECCIÓN DE HISTORIAS
+
+Modo asignado: investigar el protagonista indicado y evaluar viabilidad antes de prometer producción.
+Modo autónomo: comparar candidatos mediante story-scorecard.yaml.
+
+Una historia necesita:
+- conflicto real;
+- decisión identificable;
+- fuentes confiables;
+- archivo auténtico suficiente;
+- afinidad con P18;
+- una idea final no genérica.
+
+Descartar o pausar cuando la evidencia sea insuficiente, el archivo sea jurídicamente inviable o la narrativa dependa de exagerar hechos.

@@ -1,0 +1,26 @@
+CLIP 01 — SI TE EQUIVOCÁS EN CÁMARA, DEJALO: ESO CONECTA
+
+Inicio:     03:22.5  (202.46 s)
+Fin:        04:14.3  (254.31 s)
+Duración:   51.8 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  SI TE EQUIVOCÁS EN CÁMARA, DEJALO: ESO CONECTA   (en el reel, en lima: DEJALO)
+Departamento:     Crear y comunicar
+Área:             Redes y contenido
+Tema:             Ser auténtico en redes
+Fuente:           30X - Felipe Martínez — "De repartir pizzas a crear marcas virales | Felipe Martínez, director creativo de Holii y 30X"
+                  https://www.youtube.com/watch?v=a0nhFmWtWug&t=202s
+
+Por qué lo elegí:
+Explica en simple por qué se comparte un contenido: humor y autenticidad. Si te equivocás en cámara y lo dejás, la gente siente que sos como ella. Útil para cualquiera que arranca a crear contenido.
+
+Gancho (primeros 3 s): Sabíamos que los memes eran el formato de contenido más compatible de las redes
+
+Notas para la revisión: Dice "si la cagamos dejamos la cagada" (mala palabra suave, colombiana). Transcripción con Whisper: revisar subtítulos.
+
+Transcripción del clip:
+sabíamos que los memes eran el formato de contenido más compartible de las redes y decidimos involucrarlos en los Reels, en los videos, en los TikToks, en todo ese tipo de cosas. Y la teoría pues funcionó porque mucha gente que ve los videos los comparte por los memes pero también los comparte por los chistes, las interacciones, más que también tratamos de ser muy auténticos. Entonces, si la cagamos, dejamos la cagada en los videos, por ejemplo. ¿Ah, sí? Ajá. Sí, porque es como si alguien la caga en cámara, es más relatable, ¿verdad? Porque entonces lo que pasa es que las personas lo ven y dicen como, pues pucha, pues son como yo, ¿no? Claro. Entonces lo comparten o les gusta o le dejan comentarios.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-12 - 30X - Felipe Martínez/01 - memes y autenticidad.mp4" "SI TE EQUIVOCÁS EN CÁMARA, *DEJALO*: ESO CONECTA" --fuente "30X - Felipe Martínez"

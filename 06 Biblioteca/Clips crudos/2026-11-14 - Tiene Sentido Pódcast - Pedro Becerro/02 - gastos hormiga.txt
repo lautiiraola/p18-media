@@ -1,0 +1,26 @@
+CLIP 02 — LOS GASTOS HORMIGA: CHIQUITOS SOLOS, ENORMES JUNTOS
+
+Inicio:     35:32.7  (2132.72 s)
+Fin:        36:25.9  (2185.88 s)
+Duración:   53.2 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LOS GASTOS HORMIGA: CHIQUITOS SOLOS, ENORMES JUNTOS   (en el reel, en lima: GASTOS HORMIGA)
+Departamento:     Finanzas y trabajo
+Área:             Finanzas personales
+Tema:             Gastos hormiga
+Fuente:           Tiene Sentido Pódcast - Pedro Becerro — "Experto en Finanzas: “¡dejar de hacer esto cada día puede ahorrarte 500€ al año!”"
+                  https://www.youtube.com/watch?v=i8PrcczmrSg&t=2132s
+
+Por qué lo elegí:
+Concepto simple y aplicable a un pibe de 18: el café diario o el kiosco suman cientos al año. Invita a mirar en qué se va la plata.
+
+Gancho (primeros 3 s): Los gastos hormiga. A mí el concepto me encanta
+
+Notas para la revisión: Menciona el tabaco como ejemplo de gasto (no lo promueve). Cifras en euros.
+
+Transcripción del clip:
+Los gastos hormigas. Eso, eso. O sea, a mí el concepto de gasto hormiga me encanta porque es, oye, es un gasto muy pequeñito, tú no lo ves, no eres consciente y cuando lo sumas todo de repente es un gasto muy grande. A mí me gusta poner el ejemplo de tomarse un café en un bar, es un euro y medio, dos euros, depende del sitio donde vayas. Ese euro y medio, esos dos euros, son dos euros, pero y si te lo tomas todos los días del año. Son 500 euros. El tabaco. Si alguien está intentando dejar de fumar. Si lo piensas desde el punto de vista económico, una cajetilla de tabaco, no sé cuánto vale porque no fumo, pero seis, siete euros. Oye, si te compras ocho cajetillas de tabaco al mes, son 50 euros también que se te están yendo. Entonces esos pequeños gastos que de por sí solos no valen nada, suman un montón.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-14 - Tiene Sentido Pódcast - Pedro Becerro/02 - gastos hormiga.mp4" "LOS *GASTOS HORMIGA*: CHIQUITOS SOLOS, ENORMES JUNTOS" --fuente "Tiene Sentido Pódcast - Pedro Becerro"

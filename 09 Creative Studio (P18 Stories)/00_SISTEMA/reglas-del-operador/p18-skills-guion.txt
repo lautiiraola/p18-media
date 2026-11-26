@@ -1,0 +1,11 @@
+Valentín lo fijó como obligatorio (2026-11-24): "las skills que vas a usar sí o sí a la hora de hacer los guiones en todos los videos son https://github.com/rediumvex/viral-hooks-skill.git y https://github.com/vyralcontent/content-skills.git".
+
+POR QUÉ: quiere hooks y guiones con mecánicas virales probadas en todos los videos de P18 (Reels/Story 9:16).
+
+CÓMO SE APLICA:
+- Instaladas en `P18_CREATIVE_STUDIO/.claude/skills` (origen y commits en `ORIGEN.txt`). La de rediumvex se renombró `viral-hooks-formulas` porque Vyral también trae `viral-hooks`.
+- En cada guion, cargarlas antes de escribir: viral-hooks-formulas (3 hooks de 100 fórmulas, leer hooks-database.md) + viral-hooks (crítica de tres capas) + viral-short-form + viral-instagram-reels. Según la distribución, también viral-tiktok-content y viral-youtube-shorts. En la entrega, viral-captions-and-ctas. En modo autónomo, viral-short-form-ideas.
+- Entregar los 3 hooks candidatos con su categoría y registrar en la bitácora qué skills se usaron.
+- Las reglas P18 (fact-check, sin exagerar, sin engagement bait, sin motivación genérica) mandan sobre las sugerencias de las skills.
+- Si las skills no aparecen cargadas en la sesión, leer los SKILL.md directamente desde `.claude/skills`.
+- La regla también está en `CLAUDE.txt` y en `03_SISTEMA_NARRATIVO/guion-y-retencion.txt`. Relacionado: p18-elevenlabs-gate, p18-formato-9-16, p18-process-log.

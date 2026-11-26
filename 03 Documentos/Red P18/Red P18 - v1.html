@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<title>Red P18 — Quién es quién</title>
+<style>
+@font-face { font-family: Manrope; font-weight: 500; src: url("../../02 Branding/Fuentes/Manrope-500.ttf"); }
+@font-face { font-family: Manrope; font-weight: 700; src: url("../../02 Branding/Fuentes/Manrope-700.ttf"); }
+@font-face { font-family: Manrope; font-weight: 800; src: url("../../02 Branding/Fuentes/Manrope-800.ttf"); }
+@page { size: A4; margin: 0; }
+:root {
+  --lime: #C2F542; --ink: #172019; --paper: #F5F5EB; --deep: #14251D; --blue: #8EC3E6;
+  --muted: #3A463D; --muted-dark: #CDD3C8; --line: rgba(23,32,25,.18); --line-dark: rgba(245,245,235,.22);
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { background: var(--paper); }
+body { font-family: Manrope, Arial, sans-serif; color: var(--ink); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+.page { width: 210mm; height: 297mm; padding: 16mm 16mm 14mm; position: relative; overflow: hidden; page-break-after: always; display: flex; flex-direction: column; }
+.page:last-child { page-break-after: auto; }
+
+.top { display: flex; justify-content: space-between; align-items: center; padding-bottom: 5mm; border-bottom: 1px solid var(--line); }
+.top img { height: 9mm; }
+.meta { font-size: 7.5pt; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+.foot { margin-top: auto; padding-top: 4mm; border-top: 1px solid var(--line); display: flex; justify-content: space-between; font-size: 7.5pt; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+
+h1 { font-size: 46pt; font-weight: 800; letter-spacing: -.055em; line-height: .95; margin-top: 8mm; }
+h1 .soft, h2 .soft { font-weight: 500; }
+.lead { font-size: 11pt; line-height: 1.55; color: var(--muted); max-width: 132mm; margin-top: 5mm; }
+h2 { font-size: 20pt; font-weight: 800; letter-spacing: -.04em; line-height: 1.05; }
+.kicker { font-size: 7.5pt; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; }
+
+/* Mapa */
+.map { display: grid; grid-template-columns: 1.15fr 1fr .85fr; gap: 4mm; margin-top: 7mm; }
+.col { border-radius: 5mm; padding: 6mm 5mm; display: flex; flex-direction: column; gap: 3mm; }
+.col.young { background: var(--deep); color: var(--paper); }
+.col.adult { background: var(--blue); }
+.col.biz { background: transparent; box-shadow: inset 0 0 0 1.2px var(--ink); }
+.col .kicker { margin-bottom: 1mm; }
+.col.young .kicker { color: var(--lime); }
+.step { border-radius: 3mm; padding: 3.2mm 3.5mm; }
+.young .step { background: rgba(245,245,235,.08); box-shadow: inset 0 0 0 1px var(--line-dark); }
+.young .step.hi { background: var(--lime); color: var(--ink); box-shadow: none; }
+.adult .step { background: rgba(245,245,235,.55); }
+.adult .step.hi { background: var(--ink); color: var(--paper); }
+.biz .step { background: var(--ink); color: var(--paper); }
+.step b { display: block; font-size: 12.5pt; font-weight: 800; letter-spacing: -.02em; }
+.step span { display: block; font-size: 8pt; line-height: 1.4; margin-top: .8mm; opacity: .85; }
+.arrow { text-align: center; font-size: 10pt; font-weight: 800; line-height: 1; opacity: .7; }
+.col .note { font-size: 7.8pt; line-height: 1.45; margin-top: auto; padding-top: 2mm; opacity: .8; }
+
+.core { margin-top: 4mm; border-radius: 5mm; background: var(--ink); color: var(--paper); padding: 5mm 6mm; display: flex; justify-content: space-between; align-items: center; gap: 6mm; }
+.core b { font-size: 13pt; font-weight: 800; }
+.core span { font-size: 8.5pt; color: var(--muted-dark); line-height: 1.45; }
+.core .kicker { color: var(--lime); }
+
+/* Lo que comprimimos */
+.merge { margin-top: 7mm; margin-bottom: 4mm; }
+.merge-list { margin-top: 4mm; display: grid; grid-template-columns: 1fr 1fr; gap: 0 8mm; }
+.merge-row { display: grid; grid-template-columns: 1fr auto 26mm; gap: 3mm; align-items: baseline; padding: 2.6mm 0; border-bottom: 1px solid var(--line); font-size: 9pt; }
+.merge-row .from { color: var(--muted); }
+.merge-row .to { font-weight: 800; }
+.merge-row .ar { font-weight: 800; color: var(--muted); }
+
+/* Fichas */
+.cards { display: grid; grid-template-columns: 1fr 1fr; gap: 3.5mm; margin-top: 6mm; }
+.card { border-radius: 4mm; padding: 4.5mm 5mm; box-shadow: inset 0 0 0 1px var(--line); background: #FBFBF4; break-inside: avoid; }
+.card-head { display: flex; justify-content: space-between; align-items: baseline; }
+.card h3 { font-size: 15pt; font-weight: 800; letter-spacing: -.03em; }
+.tag { font-size: 6.8pt; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; padding: 1mm 2.2mm; border-radius: 10mm; }
+.tag.y { background: var(--deep); color: var(--lime); }
+.tag.a { background: var(--blue); color: var(--ink); }
+.tag.b { background: var(--ink); color: var(--paper); }
+.card .one { font-size: 8.8pt; line-height: 1.45; margin-top: 1.5mm; color: var(--muted); }
+.card dl { margin-top: 2.5mm; display: grid; grid-template-columns: 17mm 1fr; gap: 1.4mm 2mm; font-size: 8.2pt; line-height: 1.4; }
+.card dt { font-weight: 800; }
+.card dd { color: var(--ink); }
+.tbd { font-weight: 800; color: #42791B; }
+.card.dark { background: var(--deep); color: var(--paper); box-shadow: none; }
+.card.dark .one, .card.dark dd { color: var(--muted-dark); }
+.card.dark .tbd { color: var(--lime); }
+
+.rules { margin-bottom: 4mm; margin-top: 5mm; display: grid; grid-template-columns: repeat(3, 1fr); gap: 4mm; }
+.rule { border-top: 2px solid var(--ink); padding-top: 2.5mm; font-size: 8.4pt; line-height: 1.45; }
+.rule b { display: block; font-size: 9.5pt; margin-bottom: .8mm; }
+</style></head>
+<body>
+
+<!-- ============ Página 1: el mapa ============ -->
+<section class="page">
+  <div class="top">
+    <img src="../../02 Branding/Logos/logo.svg" alt="P18">
+    <span class="meta">DOC-P18-02 · Red P18 · Nov 2026</span>
+  </div>
+
+  <h1>Red P18.<br><span class="soft">Quién es quién.</span></h1>
+  <p class="lead">Todas las personas que forman P18 entran en uno de estos siete roles. Los jóvenes avanzan de un rol al siguiente. Los adultos se suman según cuánto tiempo pueden dar.</p>
+
+  <div class="map">
+    <div class="col young">
+      <span class="kicker">Jóvenes · 17 a 19</span>
+      <div class="step"><b>Comunidad</b><span>Nos sigue en redes y está en el grupo.</span></div>
+      <div class="arrow">↓</div>
+      <div class="step"><b>Aprendices</b><span>Hacen un taller y mandan su idea.</span></div>
+      <div class="arrow">↓</div>
+      <div class="step hi"><b>Embajadores</b><span>Llevan P18 a su colegio o a su grupo.</span></div>
+    </div>
+    <div class="col adult">
+      <span class="kicker">Adultos · colaboradores</span>
+      <div class="step"><b>Speakers</b><span>Dan talleres y charlas. Hacen entrevistas y podcast.</span></div>
+      <div class="arrow">↓</div>
+      <div class="step hi"><b>Mentores</b><span>Acompañan de cerca las mejores ideas.</span></div>
+      <p class="note">"Colaboradores" es la forma de nombrar juntos a speakers y mentores.</p>
+    </div>
+    <div class="col biz">
+      <span class="kicker">Empresas</span>
+      <div class="step"><b>Aliados</b><span>Bancan P18 para que todo sea gratis.</span></div>
+      <p class="note">Hoy: Alpanel, Enjinia y Degalpones.</p>
+    </div>
+  </div>
+
+  <div class="core">
+    <div><span class="kicker">En el centro</span><br><b>Equipo P18</b></div>
+    <span>Lautaro, Mati y Valen. Coordinan el contenido, los talleres y la red, e invitan a cada rol.</span>
+  </div>
+
+  <div class="merge">
+    <h2>Lo que <span class="soft">unificamos.</span></h2>
+    <div class="merge-list">
+      <div class="merge-row"><span class="from">Invitados, talleristas, entrevistados</span><span class="ar">→</span><span class="to">Speakers</span></div>
+      <div class="merge-row"><span class="from">Seguidores, miembros del grupo</span><span class="ar">→</span><span class="to">Comunidad</span></div>
+      <div class="merge-row"><span class="from">Participantes, alumnos, egresados</span><span class="ar">→</span><span class="to">Aprendices</span></div>
+      <div class="merge-row"><span class="from">Sponsors, empresas amigas</span><span class="ar">→</span><span class="to">Aliados</span></div>
+      <div class="merge-row"><span class="from">Speakers + mentores</span><span class="ar">→</span><span class="to">Colaboradores</span></div>
+      <div class="merge-row"><span class="from">Todos los anteriores</span><span class="ar">→</span><span class="to">Red P18</span></div>
+    </div>
+  </div>
+
+  <div class="foot"><span>Proyecto 18 · Mentalidad emprendedora</span><span>01 / 02</span></div>
+</section>
+
+<!-- ============ Página 2: fichas ============ -->
+<section class="page">
+  <div class="top">
+    <img src="../../02 Branding/Logos/logo.svg" alt="P18">
+    <span class="meta">DOC-P18-02 · Red P18 · Nov 2026</span>
+  </div>
+
+  <div class="cards">
+    <div class="card">
+      <div class="card-head"><h3>Comunidad</h3><span class="tag y">Jóvenes</span></div>
+      <p class="one">La puerta de entrada. Es el rol más grande y no pide compromiso.</p>
+      <dl>
+        <dt>Hace</dt><dd>Mira, comenta, comparte y propone temas.</dd>
+        <dt>Recibe</dt><dd>Contenido gratis y aviso de cada taller.</dd>
+        <dt>Llega</dt><dd>Siguiendo a @proyecto18.ar o entrando al grupo.</dd>
+      </dl>
+    </div>
+    <div class="card">
+      <div class="card-head"><h3>Aprendices</h3><span class="tag y">Jóvenes</span></div>
+      <p class="one">El paso importante. Todo el contenido apunta a que alguien llegue acá.</p>
+      <dl>
+        <dt>Hace</dt><dd>Un taller virtual o presencial, con ejercicios. Antes de irse manda su idea.</dd>
+        <dt>Recibe</dt><dd>Herramientas concretas y la chance de que su idea tenga mentoría.</dd>
+        <dt>Llega</dt><dd>Anotándose en la web o desde el link de la bio.</dd>
+      </dl>
+    </div>
+    <div class="card">
+      <div class="card-head"><h3>Embajadores</h3><span class="tag y">Jóvenes</span></div>
+      <p class="one">Los aprendices que se ponen P18 al hombro. Es el rol más alto entre los jóvenes.</p>
+      <dl>
+        <dt>Hace</dt><dd>Lleva P18 a su colegio, arma grupos para los talleres y trae nuevos aprendices.</dd>
+        <dt>Recibe</dt><dd>Prioridad en los talleres y lugar en las redes de P18. <span class="tbd">Certificado: a definir.</span></dd>
+        <dt>Llega</dt><dd>Hizo un taller y el equipo lo invita. <span class="tbd">Criterio: a definir.</span></dd>
+      </dl>
+    </div>
+    <div class="card">
+      <div class="card-head"><h3>Speakers</h3><span class="tag a">Adultos</span></div>
+      <p class="one">Gente que ya arrancó algo propio y lo cuenta. Su compromiso es puntual.</p>
+      <dl>
+        <dt>Hace</dt><dd>Talleres virtuales y presenciales, charlas en colegios, entrevistas y podcast.</dd>
+        <dt>Recibe</dt><dd>Difusión en colaboración en las redes de P18 y llegada a jóvenes.</dd>
+        <dt>Llega</dt><dd>Por invitación del equipo o desde el formulario de la web.</dd>
+      </dl>
+    </div>
+    <div class="card">
+      <div class="card-head"><h3>Mentores</h3><span class="tag a">Adultos</span></div>
+      <p class="one">El rol adulto con más compromiso. No se le dice mentor a cualquiera que da una charla.</p>
+      <dl>
+        <dt>Hace</dt><dd>Acompaña una idea de un aprendiz durante un tiempo, con encuentros de seguimiento.</dd>
+        <dt>Recibe</dt><dd>Ser parte del núcleo de P18 y el reconocimiento como Mentor P18.</dd>
+        <dt>Llega</dt><dd>Invitación del equipo, casi siempre después de ser speaker. <span class="tbd">Duración: a definir.</span></dd>
+      </dl>
+    </div>
+    <div class="card">
+      <div class="card-head"><h3>Aliados</h3><span class="tag b">Empresas</span></div>
+      <p class="one">Gracias a ellos los talleres son gratis para los chicos.</p>
+      <dl>
+        <dt>Hace</dt><dd>Aporta recursos, espacios o contactos.</dd>
+        <dt>Recibe</dt><dd>Presencia de marca y vínculo con la próxima generación.</dd>
+        <dt>Llega</dt><dd>Acuerdo con el equipo P18.</dd>
+      </dl>
+    </div>
+    <div class="card dark" style="grid-column: 1 / -1;">
+      <div class="card-head"><h3>Equipo P18</h3><span class="tag" style="background:var(--lime);color:var(--ink)">Núcleo</span></div>
+      <p class="one">Lautaro, Mati y Valen. Coordinan el contenido y los talleres, invitan a speakers y mentores, eligen a los embajadores y cuidan a los aliados.</p>
+    </div>
+  </div>
+
+  <div class="rules">
+    <div class="rule"><b>Se puede tener más de un rol.</b>Un speaker puede ser mentor y un embajador sigue siendo aprendiz.</div>
+    <div class="rule"><b>Para los jóvenes, todo es gratis.</b>Ningún rol joven paga para entrar ni para avanzar.</div>
+    <div class="rule"><b>Siempre se usan estos nombres.</b>En la web, las captions, los formularios y las charlas.</div>
+  </div>
+
+  <div class="foot"><span>Proyecto 18 · Mentalidad emprendedora</span><span>02 / 02</span></div>
+</section>
+
+</body></html>

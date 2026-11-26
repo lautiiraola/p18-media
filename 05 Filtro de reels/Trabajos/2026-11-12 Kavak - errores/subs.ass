@@ -1,0 +1,48 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,548,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.04,P18,,0,0,0,,Primero que nada, creo que uno
+Dialogue: 0,0:00:01.04,0:00:02.04,P18,,0,0,0,,tiene que cometer errores.
+Dialogue: 0,0:00:02.04,0:00:02.76,P18,,0,0,0,,O sea, si tú no estás cometiendo
+Dialogue: 0,0:00:02.76,0:00:04.34,P18,,0,0,0,,errores, no estás construyendo.
+Dialogue: 0,0:00:04.34,0:00:06.78,P18,,0,0,0,,Entonces parte del proceso es
+Dialogue: 0,0:00:06.78,0:00:09.56,P18,,0,0,0,,entender que si vas a tomar
+Dialogue: 0,0:00:09.56,0:00:11.12,P18,,0,0,0,,decisiones, te vas a equivocar.
+Dialogue: 0,0:00:11.12,0:00:12.32,P18,,0,0,0,,Lo importante es que te pares al
+Dialogue: 0,0:00:12.32,0:00:14.56,P18,,0,0,0,,día siguiente, veas la data y
+Dialogue: 0,0:00:14.56,0:00:15.36,P18,,0,0,0,,cambias opinión.
+Dialogue: 0,0:00:15.76,0:00:17.36,P18,,0,0,0,,Si la decisión es mala y si la
+Dialogue: 0,0:00:17.36,0:00:19.26,P18,,0,0,0,,decisión es buena, le metas más
+Dialogue: 0,0:00:19.26,0:00:20.64,P18,,0,0,0,,recursos y sigas construyendo.
+Dialogue: 0,0:00:20.64,0:00:23.12,P18,,0,0,0,,Entonces no puedes construir nada
+Dialogue: 0,0:00:23.12,0:00:25.28,P18,,0,0,0,,en la vida sin cometer errores.
+Dialogue: 0,0:00:25.28,0:00:26.46,P18,,0,0,0,,En el micro tienes que estar
+Dialogue: 0,0:00:26.46,0:00:28.52,P18,,0,0,0,,perdiendo y calibrando y en el
+Dialogue: 0,0:00:28.52,0:00:30.06,P18,,0,0,0,,macro vas a estar ganando porque
+Dialogue: 0,0:00:30.06,0:00:31.24,P18,,0,0,0,,constantemente estás recalibrando
+Dialogue: 0,0:00:31.24,0:00:31.94,P18,,0,0,0,,y el riesgo
+Dialogue: 0,0:00:33.04,0:00:34.34,P18,,0,0,0,,percibido, o sea no funciona como
+Dialogue: 0,0:00:34.34,0:00:35.52,P18,,0,0,0,,funciona en los powerpoints y en
+Dialogue: 0,0:00:35.52,0:00:37.30,P18,,0,0,0,,los excel que te dicen que si
+Dialogue: 0,0:00:37.30,0:00:39.68,P18,,0,0,0,,haces A todo se va para el
+Dialogue: 0,0:00:39.68,0:00:41.64,P18,,0,0,0,,infierno, lo que estás descontando
+Dialogue: 0,0:00:41.64,0:00:42.50,P18,,0,0,0,,de eso es que yo me voy a parar
+Dialogue: 0,0:00:42.50,0:00:45.22,P18,,0,0,0,,todos los días a revisarlo y a
+Dialogue: 0,0:00:45.22,0:00:46.16,P18,,0,0,0,,asegurar de no terminar en el
+Dialogue: 0,0:00:46.16,0:00:47.40,P18,,0,0,0,,infierno, entonces todos los días
+Dialogue: 0,0:00:47.40,0:00:48.96,P18,,0,0,0,,alejas un poco como que ese
+Dialogue: 0,0:00:48.96,0:00:49.74,P18,,0,0,0,,resultado negativo.
+Dialogue: 0,0:00:50.84,0:00:52.18,P18,,0,0,0,,Primero ese es el mindset,
+Dialogue: 0,0:00:52.18,0:00:55.08,P18,,0,0,0,,o sea no puedes vivir la
+Dialogue: 0,0:00:55.08,0:00:56.48,P18,,0,0,0,,pensando en que va a salir mal.

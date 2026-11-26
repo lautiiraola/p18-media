@@ -1,0 +1,41 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+/* Historia P18 1080x1920. Zonas seguras de Instagram: arriba 250 px y abajo 340 px quedan libres (los tapa la app).
+   Fondo y colores de la plantilla de reels (v=3). Parámetros: tipo, t (texto, *clave* en lima), src (crédito), hueco (1 = espacio para sticker). */
+@font-face{font-family:M;src:url(Manrope-500.ttf);font-weight:500}
+@font-face{font-family:M;src:url(Manrope-700.ttf);font-weight:700}
+@font-face{font-family:M;src:url(Manrope-800.ttf);font-weight:800}
+:root{--lime:#C2F542;--ink:#172019;--paper:#F5F5EB;--deep:#14251D;--blue:#8EC3E6}
+*{margin:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;font-family:M;overflow:hidden;background:var(--deep)}
+.bg{position:absolute;inset:0;background:radial-gradient(520px 380px at 100% 0%,rgba(142,195,230,.22),transparent 70%),radial-gradient(600px 420px at 0% 100%,rgba(194,245,66,.10),transparent 70%),radial-gradient(rgba(245,245,235,.09) 1.6px,transparent 1.7px) 0 0/26px 26px,var(--deep)}
+.grid{position:absolute;inset:0;background:linear-gradient(rgba(245,245,235,.04) 2px,transparent 2px) 0 0/90px 90px,linear-gradient(90deg,rgba(245,245,235,.04) 2px,transparent 2px) 0 0/90px 90px}
+.big{position:absolute;right:-120px;bottom:-60px;font-weight:800;font-size:900px;line-height:.8;letter-spacing:-40px;color:transparent;-webkit-text-stroke:3px rgba(194,245,66,.13)}
+.glowA{position:absolute;width:700px;height:700px;border-radius:50%;right:-250px;top:-250px;background:radial-gradient(rgba(142,195,230,.3),transparent 65%)}
+.stripe{position:absolute;left:-200px;width:1600px;background:var(--lime);transform:rotate(-12deg);top:1840px;height:60px}
+.top{position:absolute;top:280px;left:80px;right:80px;display:flex;align-items:center;justify-content:space-between}
+.top img{height:60px}
+.chip{border:2px solid rgba(245,245,235,.35);color:var(--paper);border-radius:50px;padding:10px 24px;font-weight:700;font-size:26px}
+.main{position:absolute;left:80px;right:80px;top:470px;bottom:380px;display:flex;flex-direction:column;justify-content:center;gap:40px}
+.eyebrow{align-self:flex-start;background:var(--lime);color:var(--ink);font-weight:800;font-size:30px;letter-spacing:3px;text-transform:uppercase;border-radius:50px;padding:10px 26px}
+.txt{color:var(--paper);font-weight:800;font-size:84px;line-height:1.08;letter-spacing:-1px;text-wrap:balance}
+.txt b{color:var(--lime);font-weight:800}
+.t-dato .txt{font-size:64px;line-height:1.16}
+.t-texto .txt{font-size:92px}
+.hueco{height:340px;border-radius:28px;border:3px dashed rgba(245,245,235,.18)}
+.src{color:#AEB8AF;font-weight:500;font-size:26px;letter-spacing:1px;text-transform:uppercase}
+.src span{color:var(--lime)}
+</style></head><body>
+<div class="bg"><div class="grid"></div><div class="glowA"></div><div class="big">18</div><div class="stripe"></div></div>
+<div class="top"><img src="logo-lima.png" alt=""><div class="chip">proyecto18.com</div></div>
+<div class="main" id="main"></div>
+<script>
+const q=new URLSearchParams(location.search),tipo=(q.get('tipo')||'Texto'),k=tipo.toLowerCase();
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const t=esc(q.get('t')||'').replace(/\*(.+?)\*/g,'<b>$1</b>');
+const m=document.getElementById('main');m.className='main t-'+(k.startsWith('dato')?'dato':k.startsWith('encuesta')?'encuesta':'texto');
+m.innerHTML=`<div class="eyebrow">${esc(tipo)}</div><div class="txt" id="txt">${t}</div>`+(q.get('hueco')==='1'?'<div class="hueco"></div>':'')+(q.get('src')?`<div class="src"><span>Fuente:</span> ${esc(q.get('src'))}</div>`:'');
+// achica el texto si no entra
+const tx=document.getElementById('txt');let fs=parseFloat(getComputedStyle(tx).fontSize);
+while(m.scrollHeight>m.clientHeight+2&&fs>40){fs-=4;tx.style.fontSize=fs+'px'}
+window.LISTO=true;
+</script></body></html>

@@ -1,0 +1,13 @@
+COLA DE HISTORIAS
+
+Formato para agregar candidatos:
+
+Nombre:
+Por qué encaja con P18:
+Conflicto potencial:
+Decisión potencial:
+Fuentes conocidas:
+Archivo disponible:
+Estado: idea
+
+Claude puede agregar candidatos, pero no debe promoverlos a aprobadas sin completar story-scorecard.yaml y justificar la selección.

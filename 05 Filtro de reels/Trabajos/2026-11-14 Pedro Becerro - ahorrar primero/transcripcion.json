@@ -1,0 +1,645 @@
+{
+ "idioma": "es",
+ "duracion": 43.45,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 6.46,
+   "texto": "¿Por qué debería haber empezado? Porque he hecho algo erróneo, entre comillas, que es casi dejarlo",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.1,
+     "p": "¿Por"
+    },
+    {
+     "ini": 0.1,
+     "fin": 0.2,
+     "p": "qué"
+    },
+    {
+     "ini": 0.2,
+     "fin": 0.46,
+     "p": "debería"
+    },
+    {
+     "ini": 0.46,
+     "fin": 0.68,
+     "p": "haber"
+    },
+    {
+     "ini": 0.68,
+     "fin": 1.1,
+     "p": "empezado?"
+    },
+    {
+     "ini": 2.8,
+     "fin": 3.1,
+     "p": "Porque"
+    },
+    {
+     "ini": 3.1,
+     "fin": 3.38,
+     "p": "he"
+    },
+    {
+     "ini": 3.38,
+     "fin": 3.64,
+     "p": "hecho"
+    },
+    {
+     "ini": 3.64,
+     "fin": 4.22,
+     "p": "algo"
+    },
+    {
+     "ini": 4.22,
+     "fin": 4.58,
+     "p": "erróneo,"
+    },
+    {
+     "ini": 4.58,
+     "fin": 4.8,
+     "p": "entre"
+    },
+    {
+     "ini": 4.8,
+     "fin": 5.22,
+     "p": "comillas,"
+    },
+    {
+     "ini": 5.36,
+     "fin": 5.44,
+     "p": "que"
+    },
+    {
+     "ini": 5.44,
+     "fin": 5.86,
+     "p": "es"
+    },
+    {
+     "ini": 5.86,
+     "fin": 6.16,
+     "p": "casi"
+    },
+    {
+     "ini": 6.16,
+     "fin": 6.46,
+     "p": "dejarlo"
+    }
+   ]
+  },
+  {
+   "ini": 6.46,
+   "fin": 14.44,
+   "texto": "para el final. Y muchas veces es mejor empezar por el ahorro para evitarnos no hacerlo. Porque",
+   "palabras": [
+    {
+     "ini": 6.46,
+     "fin": 6.58,
+     "p": "para"
+    },
+    {
+     "ini": 6.58,
+     "fin": 6.7,
+     "p": "el"
+    },
+    {
+     "ini": 6.7,
+     "fin": 6.92,
+     "p": "final."
+    },
+    {
+     "ini": 7.6,
+     "fin": 7.76,
+     "p": "Y"
+    },
+    {
+     "ini": 7.76,
+     "fin": 7.9,
+     "p": "muchas"
+    },
+    {
+     "ini": 7.9,
+     "fin": 8.16,
+     "p": "veces"
+    },
+    {
+     "ini": 8.16,
+     "fin": 8.3,
+     "p": "es"
+    },
+    {
+     "ini": 8.3,
+     "fin": 8.56,
+     "p": "mejor"
+    },
+    {
+     "ini": 8.56,
+     "fin": 8.96,
+     "p": "empezar"
+    },
+    {
+     "ini": 8.96,
+     "fin": 9.24,
+     "p": "por"
+    },
+    {
+     "ini": 9.24,
+     "fin": 9.44,
+     "p": "el"
+    },
+    {
+     "ini": 9.44,
+     "fin": 9.74,
+     "p": "ahorro"
+    },
+    {
+     "ini": 9.74,
+     "fin": 9.96,
+     "p": "para"
+    },
+    {
+     "ini": 9.96,
+     "fin": 11.24,
+     "p": "evitarnos"
+    },
+    {
+     "ini": 11.24,
+     "fin": 13.7,
+     "p": "no"
+    },
+    {
+     "ini": 13.7,
+     "fin": 14.0,
+     "p": "hacerlo."
+    },
+    {
+     "ini": 14.18,
+     "fin": 14.44,
+     "p": "Porque"
+    }
+   ]
+  },
+  {
+   "ini": 14.44,
+   "fin": 19.48,
+   "texto": "si tú empiezas a reinar sobres, de repente se acaba y ni ahorras, ni inviertes, ni haces nada.",
+   "palabras": [
+    {
+     "ini": 14.44,
+     "fin": 14.66,
+     "p": "si"
+    },
+    {
+     "ini": 14.66,
+     "fin": 14.86,
+     "p": "tú"
+    },
+    {
+     "ini": 14.86,
+     "fin": 15.2,
+     "p": "empiezas"
+    },
+    {
+     "ini": 15.2,
+     "fin": 15.32,
+     "p": "a"
+    },
+    {
+     "ini": 15.32,
+     "fin": 15.6,
+     "p": "reinar"
+    },
+    {
+     "ini": 15.6,
+     "fin": 15.88,
+     "p": "sobres,"
+    },
+    {
+     "ini": 15.96,
+     "fin": 16.06,
+     "p": "de"
+    },
+    {
+     "ini": 16.06,
+     "fin": 16.24,
+     "p": "repente"
+    },
+    {
+     "ini": 16.24,
+     "fin": 16.46,
+     "p": "se"
+    },
+    {
+     "ini": 16.46,
+     "fin": 16.68,
+     "p": "acaba"
+    },
+    {
+     "ini": 16.68,
+     "fin": 16.84,
+     "p": "y"
+    },
+    {
+     "ini": 16.84,
+     "fin": 17.02,
+     "p": "ni"
+    },
+    {
+     "ini": 17.02,
+     "fin": 17.48,
+     "p": "ahorras,"
+    },
+    {
+     "ini": 18.0,
+     "fin": 18.34,
+     "p": "ni"
+    },
+    {
+     "ini": 18.34,
+     "fin": 18.8,
+     "p": "inviertes,"
+    },
+    {
+     "ini": 18.84,
+     "fin": 18.96,
+     "p": "ni"
+    },
+    {
+     "ini": 18.96,
+     "fin": 19.22,
+     "p": "haces"
+    },
+    {
+     "ini": 19.22,
+     "fin": 19.48,
+     "p": "nada."
+    }
+   ]
+  },
+  {
+   "ini": 19.7,
+   "fin": 24.6,
+   "texto": "Y entonces vas viviendo al día, lo cual puede estar bien, pero para el futuro no tienes como",
+   "palabras": [
+    {
+     "ini": 19.7,
+     "fin": 19.76,
+     "p": "Y"
+    },
+    {
+     "ini": 19.76,
+     "fin": 20.08,
+     "p": "entonces"
+    },
+    {
+     "ini": 20.08,
+     "fin": 20.4,
+     "p": "vas"
+    },
+    {
+     "ini": 20.4,
+     "fin": 20.8,
+     "p": "viviendo"
+    },
+    {
+     "ini": 20.8,
+     "fin": 20.98,
+     "p": "al"
+    },
+    {
+     "ini": 20.98,
+     "fin": 21.34,
+     "p": "día,"
+    },
+    {
+     "ini": 21.96,
+     "fin": 22.12,
+     "p": "lo"
+    },
+    {
+     "ini": 22.12,
+     "fin": 22.3,
+     "p": "cual"
+    },
+    {
+     "ini": 22.3,
+     "fin": 22.56,
+     "p": "puede"
+    },
+    {
+     "ini": 22.56,
+     "fin": 22.78,
+     "p": "estar"
+    },
+    {
+     "ini": 22.78,
+     "fin": 22.94,
+     "p": "bien,"
+    },
+    {
+     "ini": 22.96,
+     "fin": 23.2,
+     "p": "pero"
+    },
+    {
+     "ini": 23.2,
+     "fin": 23.44,
+     "p": "para"
+    },
+    {
+     "ini": 23.44,
+     "fin": 23.58,
+     "p": "el"
+    },
+    {
+     "ini": 23.58,
+     "fin": 23.88,
+     "p": "futuro"
+    },
+    {
+     "ini": 23.88,
+     "fin": 24.18,
+     "p": "no"
+    },
+    {
+     "ini": 24.18,
+     "fin": 24.38,
+     "p": "tienes"
+    },
+    {
+     "ini": 24.38,
+     "fin": 24.6,
+     "p": "como"
+    }
+   ]
+  },
+  {
+   "ini": 24.6,
+   "fin": 27.38,
+   "texto": "un colchón, una protección, digamos.",
+   "palabras": [
+    {
+     "ini": 24.6,
+     "fin": 24.82,
+     "p": "un"
+    },
+    {
+     "ini": 24.82,
+     "fin": 25.26,
+     "p": "colchón,"
+    },
+    {
+     "ini": 25.98,
+     "fin": 25.98,
+     "p": "una"
+    },
+    {
+     "ini": 25.98,
+     "fin": 26.94,
+     "p": "protección,"
+    },
+    {
+     "ini": 27.04,
+     "fin": 27.38,
+     "p": "digamos."
+    }
+   ]
+  },
+  {
+   "ini": 27.68,
+   "fin": 31.26,
+   "texto": "Es que cuesta entender que si no tengo para alimentarme, para pagar la vivienda y para",
+   "palabras": [
+    {
+     "ini": 27.68,
+     "fin": 27.8,
+     "p": "Es"
+    },
+    {
+     "ini": 27.8,
+     "fin": 27.96,
+     "p": "que"
+    },
+    {
+     "ini": 27.96,
+     "fin": 28.22,
+     "p": "cuesta"
+    },
+    {
+     "ini": 28.22,
+     "fin": 28.6,
+     "p": "entender"
+    },
+    {
+     "ini": 28.6,
+     "fin": 28.82,
+     "p": "que"
+    },
+    {
+     "ini": 28.82,
+     "fin": 29.0,
+     "p": "si"
+    },
+    {
+     "ini": 29.0,
+     "fin": 29.18,
+     "p": "no"
+    },
+    {
+     "ini": 29.18,
+     "fin": 29.34,
+     "p": "tengo"
+    },
+    {
+     "ini": 29.34,
+     "fin": 29.52,
+     "p": "para"
+    },
+    {
+     "ini": 29.52,
+     "fin": 30.02,
+     "p": "alimentarme,"
+    },
+    {
+     "ini": 30.2,
+     "fin": 30.28,
+     "p": "para"
+    },
+    {
+     "ini": 30.28,
+     "fin": 30.6,
+     "p": "pagar"
+    },
+    {
+     "ini": 30.6,
+     "fin": 30.78,
+     "p": "la"
+    },
+    {
+     "ini": 30.78,
+     "fin": 31.0,
+     "p": "vivienda"
+    },
+    {
+     "ini": 31.0,
+     "fin": 31.18,
+     "p": "y"
+    },
+    {
+     "ini": 31.18,
+     "fin": 31.26,
+     "p": "para"
+    }
+   ]
+  },
+  {
+   "ini": 31.26,
+   "fin": 32.92,
+   "texto": "pagar la luz, ¿cómo voy a ahorrar?",
+   "palabras": [
+    {
+     "ini": 31.26,
+     "fin": 31.52,
+     "p": "pagar"
+    },
+    {
+     "ini": 31.52,
+     "fin": 31.64,
+     "p": "la"
+    },
+    {
+     "ini": 31.64,
+     "fin": 31.8,
+     "p": "luz,"
+    },
+    {
+     "ini": 31.88,
+     "fin": 32.12,
+     "p": "¿cómo"
+    },
+    {
+     "ini": 32.12,
+     "fin": 32.38,
+     "p": "voy"
+    },
+    {
+     "ini": 32.38,
+     "fin": 32.46,
+     "p": "a"
+    },
+    {
+     "ini": 32.46,
+     "fin": 32.92,
+     "p": "ahorrar?"
+    }
+   ]
+  },
+  {
+   "ini": 33.52,
+   "fin": 42.08,
+   "texto": "Eso es... estoy totalmente de acuerdo, pero a veces dentro de eso vas metiendo gastos",
+   "palabras": [
+    {
+     "ini": 33.52,
+     "fin": 33.88,
+     "p": "Eso"
+    },
+    {
+     "ini": 33.88,
+     "fin": 34.98,
+     "p": "es..."
+    },
+    {
+     "ini": 34.98,
+     "fin": 35.08,
+     "p": "estoy"
+    },
+    {
+     "ini": 35.08,
+     "fin": 35.54,
+     "p": "totalmente"
+    },
+    {
+     "ini": 35.54,
+     "fin": 35.76,
+     "p": "de"
+    },
+    {
+     "ini": 35.76,
+     "fin": 36.14,
+     "p": "acuerdo,"
+    },
+    {
+     "ini": 37.42,
+     "fin": 37.48,
+     "p": "pero"
+    },
+    {
+     "ini": 37.48,
+     "fin": 37.66,
+     "p": "a"
+    },
+    {
+     "ini": 37.66,
+     "fin": 38.38,
+     "p": "veces"
+    },
+    {
+     "ini": 38.38,
+     "fin": 39.48,
+     "p": "dentro"
+    },
+    {
+     "ini": 39.48,
+     "fin": 39.76,
+     "p": "de"
+    },
+    {
+     "ini": 39.76,
+     "fin": 39.9,
+     "p": "eso"
+    },
+    {
+     "ini": 39.9,
+     "fin": 40.34,
+     "p": "vas"
+    },
+    {
+     "ini": 40.34,
+     "fin": 40.92,
+     "p": "metiendo"
+    },
+    {
+     "ini": 40.92,
+     "fin": 42.08,
+     "p": "gastos"
+    }
+   ]
+  },
+  {
+   "ini": 42.08,
+   "fin": 43.2,
+   "texto": "que no deberías.",
+   "palabras": [
+    {
+     "ini": 42.08,
+     "fin": 42.44,
+     "p": "que"
+    },
+    {
+     "ini": 42.44,
+     "fin": 42.7,
+     "p": "no"
+    },
+    {
+     "ini": 42.7,
+     "fin": 43.2,
+     "p": "deberías."
+    }
+   ]
+  }
+ ]
+}

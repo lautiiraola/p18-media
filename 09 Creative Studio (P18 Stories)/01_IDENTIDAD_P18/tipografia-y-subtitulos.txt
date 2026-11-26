@@ -1,0 +1,28 @@
+TIPOGRAFÍA Y SUBTÍTULOS
+
+Familia: Manrope.
+Tratamiento: Clean/Premium.
+Peso habitual: 600–750.
+Peso 800 reservado para cifras o una palabra decisiva.
+Hook: 62–82 px sobre lienzo 1080 × 1920.
+Texto narrativo: 50–62 px.
+Máximo habitual: dos líneas sincronizadas con la voz.
+Una unidad destacada por composición.
+El lima funciona como subrayado editorial, línea o acento.
+Evitar grandes rectángulos de color.
+Firma P18 sin fondo: lima sobre oscuro, tinta/verde sobre claro.
+
+SISTEMA TIPOGRÁFICO ROTATIVO — REGLA FIJA (operador, 2026-11-24)
+Reemplaza la regla anterior de "solo Manrope": un tratamiento único en todo el video parece hecho por IA.
+Familias P18, todas OFL, en 06_BIBLIOTECA_COMPARTIDA/fonts:
+- Manrope (base): narración y subtítulos editoriales.
+- Unbounded (display, geometría del logo P18): cifras, golpes y titulares cortos.
+- Instrument Serif itálica (editorial): citas y frases dichas por personas.
+- JetBrains Mono (documental): créditos, fuentes, fechas, rótulos de representación gráfica.
+Subtítulos: rotan por frase entre cuatro estilos y nunca repiten dos seguidos:
+- editorial: Manrope 700 con subrayado lima;
+- serif: itálica grande, con la palabra activa en Manrope 800 lima;
+- caps: Manrope 800 en mayúsculas;
+- punch: Unbounded centrado, solo para frases cortas.
+Variar tamaños y alineaciones entre escenas.
+Se mantiene: paleta P18, lima como acento, 1–2 líneas, una palabra activa, firma P18 sin fondo y cierre fijo outro3d.

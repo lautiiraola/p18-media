@@ -1,0 +1,135 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+/* P18 · Sistema "Editorial humano" (Manual Editorial Humano, nov 2026). Posts y carruseles 1080x1350.
+   La foto transmite, el diseño ordena. Cinco códigos: fotografía documental, titular breve, subrayado lima,
+   Manrope y firma P18 discreta. Una sola palabra subrayada por placa.
+   Query: tipo = portada | contexto | cita | idea | cierre | post ; t = titular (*clave* subrayada) ; c = bajada ;
+   kick = etiqueta (si falta, area) ; cta = texto del botón del cierre ; img = foto ; pos = object-position de la foto ;
+   variante (sólo post) = a (foto completa) | b (foto + papel) */
+@font-face{font-family:M;src:url(Manrope-500.ttf);font-weight:500}
+@font-face{font-family:M;src:url(Manrope-700.ttf);font-weight:600 700}
+@font-face{font-family:M;src:url(Manrope-800.ttf);font-weight:800}
+:root{--lima:#C2F542;--tinta:#172019;--papel:#F5F5EB;--prof:#14251D;--celeste:#8EC3E6;--m:72px}
+*{margin:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;font-family:M;-webkit-font-smoothing:antialiased}
+body{background:var(--prof);color:var(--papel);position:relative}
+.foto{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.sinfoto{position:absolute;inset:0;background:radial-gradient(rgba(245,245,235,.08) 1.6px,transparent 1.7px) 0 0/26px 26px,var(--prof)}
+.velo{position:absolute;inset:0}
+.tag{position:absolute;top:var(--m);left:var(--m);background:var(--lima);color:var(--tinta);font-weight:800;font-size:24px;letter-spacing:2px;text-transform:uppercase;padding:9px 16px;z-index:3;max-width:700px}
+.firma{position:absolute;top:var(--m);right:var(--m);z-index:3;line-height:0}
+.firma img{height:46px;width:auto;display:block}
+.abajo{position:absolute;left:var(--m);right:var(--m);bottom:var(--m);z-index:3;display:flex;flex-direction:column;gap:26px}
+.tit{font-weight:800;font-size:116px;line-height:.96;letter-spacing:-4px;text-wrap:balance}
+.tit b{font-weight:800;text-decoration:underline;text-decoration-color:var(--lima);text-decoration-thickness:11px;text-underline-offset:14px;text-decoration-skip-ink:none}
+.baj{font-weight:600;font-size:36px;line-height:1.3;max-width:880px;opacity:.92;text-wrap:pretty}
+.pill{align-self:flex-start;border:3px solid currentColor;border-radius:999px;font-weight:800;font-size:26px;padding:12px 26px;letter-spacing:.5px}
+
+/* A · portada / post a: foto completa */
+.A .velo{background:linear-gradient(to top,rgba(20,37,29,.95) 0%,rgba(20,37,29,.78) 32%,rgba(20,37,29,.25) 62%,rgba(20,37,29,.15) 100%)}
+.A .firma{color:var(--papel)}
+
+/* B · contexto / post b: foto arriba + papel */
+.B{background:var(--papel);color:var(--tinta)}
+.B .foto{height:800px;bottom:auto}
+.B .sinfoto{height:560px;bottom:auto}
+.B .velo{height:800px;background:linear-gradient(to bottom,rgba(20,37,29,.42) 0%,rgba(20,37,29,0) 26%,rgba(245,245,235,0) 52%,rgba(245,245,235,.82) 78%,var(--papel) 100%)}
+.B .firma{color:var(--papel)}
+.B .abajo{top:640px;bottom:auto;gap:30px}
+.B .barra{width:84px;height:10px;background:var(--lima)}
+.B .tit{font-size:124px}
+.B .baj{color:#3A463D;opacity:1}
+
+/* C · cita: retrato + cita */
+.C .velo{background:linear-gradient(to top,rgba(20,37,29,.92),rgba(20,37,29,.62) 55%,rgba(20,37,29,.35))}
+.C .firma{top:auto;bottom:var(--m);color:var(--papel)}
+.C .abajo{bottom:200px}
+.C .tit{font-size:104px;line-height:1}
+.C .tit b{text-decoration:none;color:var(--lima)}
+.C .kick{color:var(--lima);font-weight:800;font-size:34px;letter-spacing:1px;text-transform:uppercase;line-height:1.15}
+
+/* D · idea: lima + foto */
+.D{background:var(--lima);color:var(--tinta)}
+.D .foto{width:100%;height:860px;bottom:auto}
+.D .fade{position:absolute;left:0;right:0;top:0;height:860px;z-index:1;background:linear-gradient(to bottom,rgba(20,37,29,.35) 0%,rgba(194,245,66,0) 30%,rgba(194,245,66,.55) 62%,var(--lima) 92%)}
+.D .tag{background:var(--tinta);color:var(--lima)}
+.D .abajo{z-index:3}
+.D .abajo{bottom:230px;gap:28px}
+.D .tit{font-size:120px;line-height:.93;letter-spacing:-3px;text-transform:uppercase}
+.D .tit b{text-decoration-color:var(--tinta)}
+.D .baj{font-size:34px;max-width:760px}
+.D .banda{position:absolute;left:-120px;right:-120px;bottom:-40px;height:190px;background:var(--tinta);transform:rotate(-5deg);transform-origin:left bottom;z-index:2}
+.D .firma{top:auto;bottom:56px;left:var(--m);right:auto;color:var(--lima)}
+
+/* E · cierre: papel tipográfico */
+.E{background:var(--papel);color:var(--tinta)}
+.E.conimg .foto{height:760px;bottom:auto}
+.E .fade{position:absolute;left:0;right:0;top:0;height:760px;z-index:1;background:linear-gradient(to bottom,rgba(20,37,29,.4) 0%,rgba(245,245,235,0) 30%,rgba(245,245,235,.8) 72%,var(--papel) 100%)}
+.E.conimg .abajo{top:600px}
+.E.conimg .firma{color:var(--papel)}
+.E.conimg .cred{top:128px;bottom:auto;color:var(--papel);opacity:.9;text-shadow:0 1px 6px rgba(0,0,0,.45)}
+.E .circ{position:absolute;width:360px;height:360px;border-radius:50%;background:var(--celeste);right:-60px;top:250px;z-index:1;opacity:.9}
+.E .firma{color:var(--tinta)}
+.E .abajo{top:300px;bottom:auto;gap:34px}
+.E .tit{font-size:124px;line-height:.95;position:relative;z-index:2}
+.E .baj{color:#3A463D;opacity:1;font-size:34px}
+.E .banda{position:absolute;left:-100px;right:-100px;bottom:120px;height:120px;background:var(--lima);transform:rotate(-4deg);z-index:1}
+.cred{position:absolute;z-index:4;font-weight:600;font-size:19px;letter-spacing:.3px;color:var(--papel);opacity:.9;text-shadow:0 1px 6px rgba(0,0,0,.45)}
+.A .cred,.C .cred{top:128px;right:var(--m)}
+.B .cred{top:128px;right:var(--m)}
+.D .cred{top:128px;right:var(--m)}
+.E .cred{bottom:40px;right:var(--m);color:var(--tinta);text-shadow:none;opacity:.6}
+.E .pill{position:absolute;left:var(--m);bottom:150px;z-index:3;background:var(--papel)}
+
+/* F · seguir: última placa, invita a seguir la cuenta (fondo verde profundo, tarjeta de perfil con botón) */
+.F .abajo{top:330px;bottom:auto;gap:34px}
+.F .tit{font-size:124px;line-height:.95}
+.F .baj{font-size:36px}
+.F .perfil{position:absolute;left:var(--m);right:var(--m);bottom:150px;z-index:3;display:flex;align-items:center;gap:30px;background:#1E3128;border:2px solid rgba(245,245,235,.16);border-radius:30px;padding:30px 34px}
+.F .avatar{flex:none;width:124px;height:124px;border-radius:50%;background:var(--lima);display:flex;align-items:center;justify-content:center}
+.F .avatar img{width:80px;height:auto}
+.F .quien{display:flex;flex-direction:column;gap:6px;min-width:0}
+.F .handle{font-weight:800;font-size:40px;letter-spacing:-.5px}
+.F .sub{font-weight:600;font-size:26px;opacity:.7}
+.F .seguir{margin-left:auto;flex:none;background:var(--lima);color:var(--tinta);font-weight:800;font-size:34px;padding:20px 44px;border-radius:18px}
+.F .banda{position:absolute;left:-100px;right:-100px;bottom:-30px;height:110px;background:var(--lima);transform:rotate(-4deg);z-index:1}
+</style></head><body>
+<div id="raiz"></div>
+<script>
+const q=new URLSearchParams(location.search),tipo=(q.get('tipo')||'post').toLowerCase();
+const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=s=>esc(s).replace(/\*(.+?)\*/g,'<b>$1</b>').replace(/\n/g,'<br>');
+const V={portada:(q.get('variante')==='b'?'B':'A'),contexto:'B',cita:'C',idea:'D',cierre:'E',dato:'C',seguir:'F'}[tipo]||(q.get('variante')==='b'?'B':'A');
+document.body.className=V;
+const img=q.get('img'),pos=q.get('pos')||'center',tag=q.get('kick')||q.get('area')||'';
+let h='';
+if(V==='E'&&img){document.body.classList.add('conimg');h+=`<img class="foto" src="${esc(img)}" style="object-position:${esc(pos)}"><div class="fade"></div>`}
+if(V==='F')h+='<div class="sinfoto"></div><div class="banda"></div>';
+else if(V!=='E'){h+=img?`<img class="foto" src="${esc(img)}" style="object-position:${esc(pos)}">`:(V==='D'?'':'<div class="sinfoto"></div>');}
+if(V==='A'||V==='B'||V==='C')h+='<div class="velo"></div>';
+if(V==='D'&&img)h+='<div class="fade"></div>';
+if(V==='D')h+='<div class="banda"></div>';
+if(V==='E')h+=(img?'':'<div class="circ"></div>')+'<div class="banda"></div>';
+if(tag&&V!=='C'&&V!=='E')h+=`<div class="tag">${esc(tag)}</div>`;
+const LOGO=(V==='D')?'logo-lima.svg':(V==='E'&&!img)?'logo-tinta.svg':'logo-papel.svg';
+h+=`<div class="firma"><img src="${LOGO}" alt="P18"></div>`;
+if(q.get('cred'))h+=`<div class="cred">${esc(q.get('cred'))}</div>`;
+let a='';
+if(V==='B')a+='<div class="barra"></div>';
+const t=V==='C'?'“'+(q.get('t')||'').replace(/^["“]|["”]$/g,'')+'”':q.get('t');
+a+=`<div class="tit" id="tit">${fmt(t)}</div>`;
+if(V==='C'&&tag)a+=`<div class="kick">${esc(tag)}</div>`;
+if(q.get('c')&&V!=='C')a+=`<div class="baj" id="baj">${fmt(q.get('c'))}</div>`;
+if(tipo==='portada')a+=`<div class="pill">Deslizá →</div>`;
+h+=`<div class="abajo" id="abajo">${a}</div>`;
+if(V==='E')h+=`<div class="pill">${esc(q.get('cta')||'Guardá este post')} →</div>`;
+if(V==='F')h+=`<div class="perfil"><div class="avatar"><img src="logo-tinta.svg" alt=""></div><div class="quien"><div class="handle">${esc(q.get('handle')||'@proyecto18.ar')}</div><div class="sub">${esc(q.get('cta')||'Noticias de IA cada semana')}</div></div><div class="seguir">Seguir</div></div>`;
+document.getElementById('raiz').innerHTML=h;
+// achica el titular si no entra en su zona
+const ab=document.getElementById('abajo'),ti=document.getElementById('tit');
+const limite={A:1350-72,B:1350-72,C:1350-200,D:1350-230,E:1350-300,F:1350-370}[V];
+const topMin={A:300,B:640,C:200,D:660,E:img?600:300,F:330}[V];
+let fs=parseFloat(getComputedStyle(ti).fontSize);
+const mal=()=>{const r=ab.getBoundingClientRect();return r.top<topMin-1||r.bottom>limite+1};
+while(mal()&&fs>64){fs-=4;ti.style.fontSize=fs+'px'}
+window.DESBORDA=mal();window.LISTO=true;
+</script></body></html>

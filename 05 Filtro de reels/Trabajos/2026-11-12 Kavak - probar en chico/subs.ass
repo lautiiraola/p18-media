@@ -1,0 +1,49 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,612,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.60,0:00:02.06,P18,,0,0,0,,o sea nosotros hicimos también un
+Dialogue: 0,0:00:02.06,0:00:03.74,P18,,0,0,0,,experimento de ibitesteo,
+Dialogue: 0,0:00:03.74,0:00:05.42,P18,,0,0,0,,o sea dijimos en algún en un país
+Dialogue: 0,0:00:05.42,0:00:07.76,P18,,0,0,0,,vamos a ir vamos a agarrar y vamos
+Dialogue: 0,0:00:07.76,0:00:08.62,P18,,0,0,0,,a construir infraestructura desde
+Dialogue: 0,0:00:08.62,0:00:09.62,P18,,0,0,0,,el día 1 y vamos a entrar el
+Dialogue: 0,0:00:09.62,0:00:10.62,P18,,0,0,0,,recurso el día 1 y vamos a tratar
+Dialogue: 0,0:00:10.62,0:00:12.20,P18,,0,0,0,,de crecerlo lo más rápido posible
+Dialogue: 0,0:00:12.20,0:00:13.24,P18,,0,0,0,,con la información que tenemos.
+Dialogue: 0,0:00:13.68,0:00:15.18,P18,,0,0,0,,En otro país vamos a ir lentísimo
+Dialogue: 0,0:00:15.18,0:00:17.50,P18,,0,0,0,,y vamos a ver vamos a seguir el
+Dialogue: 0,0:00:17.50,0:00:19.58,P18,,0,0,0,,cliente, en otro país vamos a
+Dialogue: 0,0:00:19.58,0:00:21.24,P18,,0,0,0,,probar esta parte del producto,
+Dialogue: 0,0:00:21.24,0:00:22.60,P18,,0,0,0,,vamos a tratar de rotar el
+Dialogue: 0,0:00:22.60,0:00:23.92,P18,,0,0,0,,inventario lo más rápido posible.
+Dialogue: 0,0:00:24.78,0:00:25.48,P18,,0,0,0,,Entonces,
+Dialogue: 0,0:00:25.86,0:00:27.82,P18,,0,0,0,,una cosa que me encantó fue que
+Dialogue: 0,0:00:27.82,0:00:29.84,P18,,0,0,0,,construimos un laboratorio de
+Dialogue: 0,0:00:29.84,0:00:30.54,P18,,0,0,0,,pruebas,
+Dialogue: 0,0:00:31.12,0:00:32.32,P18,,0,0,0,,donde no tenías tanto,
+Dialogue: 0,0:00:32.80,0:00:34.60,P18,,0,0,0,,o sea, podías equivocarte con las
+Dialogue: 0,0:00:34.60,0:00:35.50,P18,,0,0,0,,diferentes pruebas y
+Dialogue: 0,0:00:35.50,0:00:37.92,P18,,0,0,0,,automáticamente ese laboratorio se
+Dialogue: 0,0:00:37.92,0:00:39.60,P18,,0,0,0,,convirtió en un benchmark para
+Dialogue: 0,0:00:39.60,0:00:40.60,P18,,0,0,0,,todos los diferentes países.
+Dialogue: 0,0:00:40.60,0:00:41.74,P18,,0,0,0,,Entonces, de repente, en un país
+Dialogue: 0,0:00:41.74,0:00:43.86,P18,,0,0,0,,aprendíamos, o sea, imagínate,
+Dialogue: 0,0:00:43.86,0:00:45.12,P18,,0,0,0,,una iniciativa que lanzamos en
+Dialogue: 0,0:00:45.12,0:00:47.80,P18,,0,0,0,,Chile que funcionaba y que no
+Dialogue: 0,0:00:47.80,0:00:49.02,P18,,0,0,0,,teníamos miedo de probarla ya
+Dialogue: 0,0:00:49.02,0:00:50.10,P18,,0,0,0,,porque éramos chiquitos,
+Dialogue: 0,0:00:50.60,0:00:51.60,P18,,0,0,0,,si yo luego la traía para
+Dialogue: 0,0:00:52.28,0:00:54.70,P18,,0,0,0,,o sea, era increíble poder lanzar
+Dialogue: 0,0:00:54.70,0:00:57.28,P18,,0,0,0,,una cosa acá y el retorno de ese
+Dialogue: 0,0:00:57.28,0:00:58.92,P18,,0,0,0,,tiempo era monumental.

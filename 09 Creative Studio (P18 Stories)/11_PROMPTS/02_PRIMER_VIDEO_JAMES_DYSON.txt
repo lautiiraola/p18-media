@@ -1,0 +1,241 @@
+PROMPT 02 — PRIMER VIDEO P18 STORIES: JAMES DYSON
+
+Usá este prompt después de haber ejecutado el prompt de configuración. Copiá y pegá todo el texto.
+
+────────────────────────────────────────────────────────────────────
+
+NUEVO VIDEO: James Dyson
+
+Quiero iniciar la primera producción real de P18 Stories tomando la historia de James Dyson como piloto del sistema.
+
+No produzcas el video inmediatamente. Cumplí el flujo completo del estudio y respetá especialmente el gate obligatorio de ElevenLabs: primero investigación, fact-check y guion; después me entregás el texto; luego te detenés hasta que yo genere y entregue la voz final.
+
+OBJETIVO EDITORIAL
+
+Contar una historia real sobre observación, iteración, rechazo y decisión. El video no debe presentar a Dyson como un “genio destinado al éxito”, ni sugerir que repetir ciegamente garantiza resultados. Debe mostrar que cada prototipo produjo información, que la idea surgió de un problema concreto y que hubo una decisión de continuar y buscar otro camino cuando los fabricantes rechazaron el producto.
+
+La idea que debería quedar resonando es cercana a:
+
+“Un intento no sirve solamente cuando funciona. También puede servir cuando revela qué cambiar.”
+
+No uses esa frase automáticamente como cierre. Evaluá si puede expresarse de una manera más humana, menos sentenciosa y más P18 después de investigar.
+
+REFERENCIA VISUAL, NO FUENTE ÚNICA
+
+Revisá completa la carpeta:
+
+02_REFERENCIAS/p18-stories/james-dyson-ejemplo
+
+Incluye frames aprobados y decisiones visuales. Usala como referencia de composición, tipografía, ritmo y tratamiento P18. No asumas que cada frase del boceto es un hecho definitivo. Volvé a verificar todo.
+
+También revisá las referencias de Noticias Explicadas para comprender hook, progresión causal, retención, cambios semánticos y visualización de cifras. No uses sus avatares ni copies su estética.
+
+INVESTIGACIÓN OBLIGATORIA
+
+Priorizá:
+
+- James Dyson Foundation;
+- sitio oficial de Dyson;
+- entrevistas directas con James Dyson;
+- material oficial sobre el desarrollo ciclónico;
+- fuentes periodísticas reputadas para contraste;
+- Wikimedia Commons u otros archivos con licencias verificables para material visual.
+
+Investigá y verificá al menos:
+
+1. qué problema observó en la aspiradora con bolsa;
+2. cuándo comenzó a trabajar en la solución;
+3. cómo influyó la tecnología ciclónica observada en un entorno industrial;
+4. qué era el primer prototipo de cartón y qué puede afirmarse realmente sobre él;
+5. cuántos prototipos desarrolló;
+6. durante cuánto tiempo trabajó en ellos;
+7. qué significa exactamente la cifra 5.127;
+8. qué fabricantes o mercados rechazaron o no licenciaron la idea;
+9. qué ocurrió con G-Force en Japón;
+10. cuándo y dónde se lanzó DC01;
+11. qué resultado puede atribuirse de forma verificable a esa decisión;
+12. qué partes de la historia suelen simplificarse o convertirse en mito.
+
+ATENCIÓN A POSIBLES CONTRADICCIONES
+
+Algunas fuentes oficiales describen el proceso como cuatro años y otras como cinco años. Algunas hablan de 5.127 prototipos totales y otras de 5.126 intentos fallidos antes del prototipo funcional. No ocultes estas diferencias. Determiná qué formulación está mejor respaldada y explicá la decisión en el fact-check.
+
+No conviertas automáticamente “todos los grandes fabricantes lo rechazaron” en una afirmación absoluta si no podés demostrar su alcance. Evitá una causalidad simplista entre un único rechazo y la empresa global posterior.
+
+ÁNGULO NARRATIVO RECOMENDADO
+
+Pregunta rectora provisional:
+
+¿Qué aprendió James Dyson durante los miles de intentos que no funcionaron?
+
+Hook provisional:
+
+“Antes de funcionar, esta idea había fallado miles de veces.”
+
+El número exacto, el verbo “fallar” y la relación con el prototipo 5.127 deben definirse después del fact-check. No uses una cifra espectacular si la formulación no es rigurosa.
+
+ESTRUCTURA DE TRABAJO
+
+HOOK
+Presentar la contradicción: miles de prototipos para resolver un problema cotidiano.
+
+CONTEXTO
+La aspiradora perdía succión porque el polvo obstruía la bolsa.
+
+OBSERVACIÓN
+Dyson reconoce una posible solución en la separación ciclónica de partículas.
+
+CONFLICTO
+La idea inicial funciona de forma rudimentaria, pero convertirla en un producto exige años de iteración.
+
+PROCESO
+Cada versión cambia algo; la cifra se representa como aprendizaje acumulado, no como martirio romántico.
+
+RECHAZO
+Los fabricantes no adoptan o licencian la idea en las condiciones esperadas.
+
+DECISIÓN
+Dyson busca otra vía para llevarla al mercado.
+
+RESULTADO
+Mostrar únicamente resultados respaldados y contextualizados.
+
+REFLEXIÓN
+Devolver la historia al espectador mediante una pregunta sobre cómo interpreta los intentos que todavía no funcionan.
+
+TONO
+
+- español rioplatense natural pero comprensible internacionalmente;
+- claro, humano y sobrio;
+- sin solemnidad artificial;
+- sin exageraciones;
+- sin “nunca te rindas”;
+- sin “si él pudo, vos también”;
+- sin describirlo como éxito instantáneo;
+- frases pensadas para voz en off;
+- una idea por oración.
+
+DURACIÓN
+
+Duración obligatoria vigente: 30–50 segundos, nunca más de 50. Trabajá con aproximadamente 75–108 palabras y elegí un ángulo suficientemente acotado para conservar respiración y claridad.
+
+No fuerces la historia a una duración fija. Estimá palabras usando una velocidad natural de ElevenLabs y conservá pausas. No aceleres la futura voz para encajar el montaje.
+
+ENTREGA OBLIGATORIA ANTES DE PRODUCIR
+
+Tu primera entrega debe incluir:
+
+1. VIDEO PROPUESTO
+- ID real asignado según ESTADO_DEL_ESTUDIO.txt y el filesystem
+- título de trabajo
+- pregunta rectora
+- ángulo
+- duración estimada
+- palabras estimadas
+
+2. DOSSIER VERIFICADO
+- cronología
+- hechos centrales
+- fuentes primarias
+- fuentes secundarias
+- contradicciones
+- afirmaciones descartadas
+- limitaciones visuales o legales
+
+3. FACT-CHECK
+- tabla de afirmaciones
+- clasificación: hecho, declaración, inferencia o interpretación P18
+- fuentes que respaldan cada afirmación
+- estado de verificación
+
+4. GUION ANOTADO
+- tiempo aproximado
+- función narrativa
+- texto de voz
+- intención emocional
+- todavía sin cerrar decisiones definitivas de assets o animación
+
+5. TEXTO LIMPIO PARA ELEVENLABS
+
+Entregalo en un bloque independiente que contenga únicamente la narración. Sin timestamps, instrucciones visuales, nombres de escenas, notas, encabezados ni SSML.
+
+6. GUÍA PARA ELEVENLABS
+- tono
+- ritmo
+- estabilidad sugerida si corresponde
+- pausas
+- énfasis
+- pronunciación de Dyson, G-Force, DC01 y otros términos
+- advertencia sobre cualquier número o nombre sensible a pronunciación
+
+7. SIGUIENTE ACCIÓN
+
+Pedime que genere la voz en ElevenLabs y la coloque en:
+
+09_VIDEOS_EN_PRODUCCION/<video_id-slug>/03_voiceover/inbox
+
+Después DETENETE.
+
+No avances al storyboard definitivo, no produzcas escenas, no renderices el video y no uses una voz sintética temporal como reemplazo final.
+
+DESPUÉS DE QUE YO ENTREGUE LA VOZ
+
+1. Compará la voz con el texto aprobado.
+2. Informá diferencias y duración real.
+3. Validá el archivo y movelo a approved sin borrar el original.
+4. Construí el audiovisual-script.csv usando la voz como reloj maestro.
+5. Investigá y registrá assets finales.
+6. Verificá que cada asset final tenga status approved.
+7. Diseñá el storyboard completo.
+8. Mostrame el plan de escenas antes del render master.
+9. Construí el video en el proyecto Remotion existente.
+10. Ejecutá preview, correcciones, QA y master.
+
+DIRECCIÓN VISUAL
+
+- Faceless: no presentador ni avatar.
+- Retratos y archivo reales.
+- Fotografías del producto, prototipos y documentos cuando los derechos lo permitan.
+- Gráficos abstractos cuando no exista archivo verificable.
+- 9:16, 1080 × 1920, 60 fps.
+- Sistema tipográfico vigente definido en CLAUDE.txt y 01_IDENTIDAD_P18/tipografia-y-subtitulos.txt, con rotación intencional de familias y tratamiento Clean/Premium.
+- Texto más limpio que el primer boceto.
+- Una unidad destacada por escena.
+- Lima como subrayado o acento fino.
+- Mayor espacio negativo.
+- Firma P18 sin fondo.
+- Verde profundo para intimidad.
+- Papel para documentos y reflexión.
+- Azul para explicación o evidencia.
+- Movimiento por frame en Remotion.
+- Sin Canva.
+
+USO DE LOS FRAMES DE REFERENCIA
+
+Los diez frames de James Dyson son una guía visual, no una orden de reproducir literalmente cada composición. Conservá:
+
+- limpieza;
+- jerarquía;
+- archivo real;
+- progresión;
+- paleta;
+- tipografía;
+- firma P18 sin fondo.
+
+Mejorá cualquier composición que se sienta estática, genérica o más cercana a una placa que a un video viral premium.
+
+ARCHIVO FINAL
+
+Cuando el video esté aprobado, su carpeta debe terminar dentro de:
+
+10_VIDEOS_TERMINADOS/<video_id-slug>
+
+Debe conservar investigación, fact-check, guion, texto ElevenLabs, voz aprobada, assets, licencias, storyboard, código Remotion, previews, master, QA e informe de producción.
+
+También debe incluir `10_social_assets/instagram-story-repost.png`, usando la plantilla compartida de P18. Esta imagen sirve para volver a compartir el Reel en Instagram Stories; no reemplaza el Reel ni su portada. La versión guide es únicamente interna.
+
+EMPEZÁ AHORA ÚNICAMENTE CON INVESTIGACIÓN, FACT-CHECK Y GUION. TU PRIMERA ENTREGA TERMINA EN EL GATE DE ELEVENLABS.
+
+────────────────────────────────────────────────────────────────────
+
+FIN DEL PROMPT JAMES DYSON

@@ -1,0 +1,25 @@
+Valentín (2026-11-24), rechazando la v03: "los textos siguen siendo genéricos. Tienen que tener movimiento, aparecer dinámicamente, etc. Fijate en todas las referencias que tenés."
+
+POR QUÉ: el texto que aparece de golpe y queda quieto se ve genérico y "de IA". Las referencias del estudio (Noticias Explicadas en brand-research.txt) dicen que la frase se construye palabra por palabra, que hay microanimación continua y que cada frase modifica el estado visual.
+
+CÓMO SE APLICA:
+- Usar el motor `05_REMOTION_DESIGN_SYSTEM/runtime/src/subtitles/Kinetic.tsx`:
+  - `KWord` con los movimientos rise, focus, slam, pop y type;
+  - `Marker`: barrido lima detrás de la palabra clave;
+  - `exitStyle`: salida animada;
+  - `LetterCascade`: titulares y kickers letra por letra.
+- Subtítulos (`NarrativeSubtitle`): cada palabra entra en su `t0` de voz. Rotan cuatro comportamientos y nunca dos iguales seguidos:
+  - editorial: rise + marker;
+  - serif: focus + palabra clave pop en Manrope lima;
+  - caps: slam con rebote;
+  - stack: frase chica + palabra clave gigante en Unbounded con pop.
+  La frase sale subiendo y desenfocándose, y deriva levemente mientras está en pantalla.
+- Citas en serif con foco palabra por palabra; titulares (BigLine) y kickers letra por letra; la pregunta final con rise.
+- Subtítulos que no se corten (Valentín, v04: "hay veces que se cortan, están raros"):
+  - cortes por frase con `chunk_captions()` de `runtime/scripts/p18_build.py`: nunca terminar en artículo, preposición, auxiliar ni «nunca/ya»; sumar `BREAKS` editoriales donde haga falta y revisar la lista impresa antes de renderizar;
+  - nada de máscaras que recorten letras, ni letterSpacing animado (mueve la línea), ni escalas que encimen palabras;
+  - la palabra clave siempre legible: resaltador lima detrás de toda la palabra;
+  - el stack respeta el orden de lectura (antes / clave / después);
+  - sin salida animada si el siguiente subtítulo entra enseguida.
+- Nunca más texto estático ni con fade simple. Se combina con p18-tipografia-rotativa.
+- Antes de renderizar, revisar secuencias cuadro a cuadro (stills cada 0,15–0,3 s dentro de una frase).

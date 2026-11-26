@@ -1,0 +1,24 @@
+DOSSIER — P18-003-steve-jobs (2026-11-24)
+Ángulo (pedido del operador): la empresa que fundó lo echó, y después lo fue a buscar para salvarse.
+
+CRONOLOGÍA VERIFICADA
+1976  Jobs y Wozniak fundan Apple ("the two of us in a garage", según Jobs, S01).
+1983  Jobs recluta a John Sculley, de Pepsi, como CEO.
+1985  Abril/mayo: el directorio respalda a Sculley y Jobs pierde la conducción del Macintosh (S03). Septiembre: renuncia y funda NeXT (S04). Tenía 30 años.
+1986  Compra a Lucasfilm el Graphics Group, que pasa a ser Pixar (S01, S06).
+1996  Año fiscal con pérdida de US$816 millones (S07). Apple busca un sistema operativo tras el fracaso de Copland. 20/12: anuncia la compra de NeXT por US$429 millones, y Jobs vuelve como asesor (S05, S06).
+1997  Año fiscal con pérdida de cerca de US$1.000 millones. Septiembre: Jobs es CEO interino. 6/10: Michael Dell dice que cerraría Apple (S09). Diciembre: primer trimestre con ganancia.
+1998  Año fiscal con ganancia de US$309 millones. Lanzamiento del iMac.
+2005  Discurso de Stanford: "getting fired from Apple was the best thing that could have ever happened to me" (S01).
+2011  10/08: Apple cierra como la empresa más valiosa del mundo (S10). 5/10: muere Jobs.
+
+DECISIONES DE GUION
+- Un solo arco: lo echan → no se rinde → Apple se hunde → lo van a buscar → vuelve a ganar → su lectura. iPod, iPhone y la frase de Dell quedan para placas visuales o para otro video.
+- Las frases de Jobs son traducciones propias del texto preparado de Stanford; se atribuyen ("Después diría").
+- "Para salvarse" es una síntesis interpretativa (C10), respaldada por el contexto de Copland y las pérdidas.
+
+MATERIAL VISUAL A BUSCAR (después de la voz, según el gate)
+- Commons: fotos de Jobs con licencia CC BY o PD (cuidado: muchas son CC BY-SA, que no se usan).
+- Patentes de EE.UU. con Jobs como inventor (dominio público): dibujos del Macintosh, del iMac y del iPod.
+- Gráficos propios: línea de tiempo 1976–1985–1996–1997, logo de NeXT (el logo de Paul Rand es marca: usar referencia tipográfica propia, no el logo).
+- Ninguna imagen repetida y galerías rotativas, según las reglas vigentes.

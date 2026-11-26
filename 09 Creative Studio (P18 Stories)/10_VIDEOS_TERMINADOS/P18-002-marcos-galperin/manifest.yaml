@@ -1,0 +1,26 @@
+schema_version: 1
+video_id: P18-002
+slug: marcos-galperin
+title: "19 de 20"
+protagonist: "Marcos Galperin"
+creation_mode: assigned
+status: archived  # producción autónoma completa (2026-11-24); master v01
+created_at: "2026-11-24"
+updated_at: "2026-11-24"
+duration_target_seconds: 46.76  # duración real de la voz aprobada (regla de 30–50 s)
+format: p18_story_vertical
+resolution: 1080x1920
+fps: 60
+voiceover_status: approved
+voiceover_file: 03_voiceover/approved/P18-002-marcos-galperin-voiceover-approved.wav
+voiceover_voice: "ElevenLabs - Brian - Warm, Smooth, Confident (pvc, s50, sim75, v4)"
+facts_verified: true  # ver 01_research/fact-check.csv
+assets_cleared: true
+storyboard_approved: true  # autónomo
+creative_review: approved  # autónomo, por instrucción del operador
+technical_review: passed
+final_render: 07_renders/final/P18-002-marcos-galperin-master-v05.mp4  # v05: sin imágenes repetidas y subtítulos por frase; reemplaza a la v04 a pedido del operador
+master_sha256: "4c5e5f9ddc3894f64ce5e5ecf36dd1e79c2a65bcb035ed8a34a5fbb7217a372a"
+duration_final_seconds: 49.86
+completed_at: "2026-11-24"
+master_version: v05

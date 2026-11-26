@@ -1,0 +1,69 @@
+{
+ "clips": [
+  {
+   "ini": 1749.8,
+   "fin": 1807.0,
+   "titulo": "SI NO TE ESTÁS *EQUIVOCANDO*, NO ESTÁS *CONSTRUYENDO*",
+   "departamento": "Crecimiento personal",
+   "area": "Mentalidad y adaptación",
+   "tema": "Equivocarse es parte del proceso",
+   "slug": "errores",
+   "gancho": "Primero que nada, creo que uno tiene que cometer errores.",
+   "porque": "Arranca con una frase fuerte y se entiende sola: equivocarse es parte de hacer cosas, lo importante es levantarse al otro día, mirar qué pasó y ajustar. Le saca el miedo al error a alguien que recién empieza. Encaja con el tema 'Errores' de la grilla (12/11).",
+   "notas": "Usa 'data' y menciona 'PowerPoints y Excel' de pasada; se entiende igual. No habla de plata.",
+   "n": 1
+  },
+  {
+   "ini": 1111.72,
+   "fin": 1168.9,
+   "titulo": "¿LA VIDA QUE ESTÁS ARMANDO ES LA QUE *QUERÉS*?",
+   "departamento": "Crecimiento personal",
+   "area": "Autoconocimiento",
+   "tema": "Diseñar una vida que te encante",
+   "slug": "una vida que te encante",
+   "gancho": "Una de las cosas que tenemos que tratar de garantizar es diseñar una vida que nos encante.",
+   "porque": "Habla directo a alguien de 17-19 que está tomando sus primeras decisiones grandes: pensá qué te gusta, decidí hacia ahí y revisá si vas bien, porque lo que elegís hoy te cambia los próximos años. Aclara él mismo que 'no es económico'. Idea completa y sin contexto.",
+   "notas": "Arranca justo en 'una de las cosas…' y termina antes de la pregunta del entrevistador.",
+   "n": 2
+  },
+  {
+   "ini": 2262.2,
+   "fin": 2320.6,
+   "titulo": "PROBÁ TUS IDEAS *EN CHICO* ANTES DE IR *EN GRANDE*",
+   "departamento": "Finanzas y trabajo",
+   "area": "Ideas, proyectos y ventas",
+   "tema": "Probar ideas",
+   "slug": "probar en chico",
+   "gancho": "Hicimos un experimento: en un país vamos rápido, en otro lentísimo…",
+   "porque": "Muestra cómo se prueban ideas en serio: varias pruebas chicas, donde equivocarse no cuesta tanto, y lo que funciona se lleva a lo grande. Aplica a cualquier proyecto, no sólo a empresas. Encaja con 'Probar ideas' de la grilla (13/11). No habla de plata ni de valuaciones.",
+   "notas": "Tiene palabras de negocio ('benchmark', 'rotar el inventario'); conviene que el título y el texto del posteo lo bajen a tierra.",
+   "n": 3
+  },
+  {
+   "ini": 3335.9,
+   "fin": 3384.9,
+   "titulo": "LA *PRESIÓN* ES UN *PRIVILEGIO*",
+   "departamento": "Deporte y mentalidad",
+   "area": "Presión y dificultad",
+   "tema": "Ver la presión como algo que te ganaste",
+   "slug": "la presion es un privilegio",
+   "gancho": "Si construir algo va a ser difícil por naturaleza…",
+   "porque": "Usa un ejemplo de deporte que cualquiera entiende (patear un penal en la final del mundial vs. un amistoso) para un concepto de vida: si sentís presión es porque estás haciendo algo que importa. Corto, claro y con remate.",
+   "notas": "Empieza con 'si construir algo…' porque la frase anterior ('O sea, al final del día') queda afuera.",
+   "n": 4
+  },
+  {
+   "ini": 6482.1,
+   "fin": 6532.6,
+   "titulo": "USAR LA *IA* SÓLO PARA PREGUNTAR ES TENER UN *IPHONE* Y USARLO DE NOKIA",
+   "departamento": "Crear y comunicar",
+   "area": "Inteligencia artificial",
+   "tema": "Aprender a usar la IA de verdad",
+   "slug": "ia nokia vs iphone",
+   "gancho": "Imagínate que tú tengas el Nokia de la culebrita…",
+   "porque": "Analogía simple y graciosa (Nokia de la culebrita vs. iPhone) para invitar a aprender IA a fondo y probarla uno mismo, no sólo preguntarle cosas al chat. Útil para chicos que recién la usan.",
+   "notas": "Dice 'esta tecnología' al principio: el título aclara que es la IA. Menciona 'montar tus propios robots' (agentes); se entiende.",
+   "n": 5
+  }
+ ]
+}

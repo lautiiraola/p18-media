@@ -1,0 +1,36 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,582,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.70,P18,,0,0,0,,Para mí,
+Dialogue: 0,0:00:01.20,0:00:02.96,P18,,0,0,0,,lo esencial es no quejarse en la
+Dialogue: 0,0:00:02.96,0:00:03.64,P18,,0,0,0,,vida.
+Dialogue: 0,0:00:03.64,0:00:06.64,P18,,0,0,0,,Además, yo he podido comprobar que
+Dialogue: 0,0:00:06.64,0:00:08.30,P18,,0,0,0,,la inmensa mayoría de gente que se
+Dialogue: 0,0:00:08.30,0:00:10.92,P18,,0,0,0,,acostumbra a quejarse es la gente
+Dialogue: 0,0:00:10.92,0:00:12.62,P18,,0,0,0,,que está menos dispuesta a hacer
+Dialogue: 0,0:00:12.62,0:00:15.30,P18,,0,0,0,,cosas para cambiar su situación.
+Dialogue: 0,0:00:15.82,0:00:18.78,P18,,0,0,0,,La gente que se acostumbra a no
+Dialogue: 0,0:00:18.78,0:00:21.86,P18,,0,0,0,,quejar es gente que entiende los
+Dialogue: 0,0:00:21.86,0:00:24.14,P18,,0,0,0,,problemas y que intenta buscar
+Dialogue: 0,0:00:24.14,0:00:25.18,P18,,0,0,0,,solución.
+Dialogue: 0,0:00:26.44,0:00:27.80,P18,,0,0,0,,Pues, cuando venía Rafael,
+Dialogue: 0,0:00:27.80,0:00:29.06,P18,,0,0,0,,yo que le decía a Rafael,
+Dialogue: 0,0:00:29.06,0:00:31.20,P18,,0,0,0,,tranquilo que no hay mal que 100
+Dialogue: 0,0:00:31.20,0:00:33.98,P18,,0,0,0,,años dure, nosotros tenemos que
+Dialogue: 0,0:00:33.98,0:00:35.64,P18,,0,0,0,,estar preparados para cuando
+Dialogue: 0,0:00:35.64,0:00:38.78,P18,,0,0,0,,volvamos a estar con la cabeza
+Dialogue: 0,0:00:38.78,0:00:40.94,P18,,0,0,0,,de manera positiva para estar bien
+Dialogue: 0,0:00:40.94,0:00:42.42,P18,,0,0,0,,y tranquilo que esto se va a
+Dialogue: 0,0:00:42.42,0:00:44.66,P18,,0,0,0,,solucionar, porque yo creo que en
+Dialogue: 0,0:00:44.66,0:00:46.18,P18,,0,0,0,,la vida casi siempre hay solución.

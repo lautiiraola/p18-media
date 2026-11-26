@@ -1,0 +1,585 @@
+{
+ "idioma": "en",
+ "duracion": 34.69,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 4.56,
+   "texto": "Of course, it was impossible to connect the dots looking forward when I was in college,",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.5,
+     "p": "Of"
+    },
+    {
+     "ini": 0.5,
+     "fin": 0.94,
+     "p": "course,"
+    },
+    {
+     "ini": 1.04,
+     "fin": 1.12,
+     "p": "it"
+    },
+    {
+     "ini": 1.12,
+     "fin": 1.36,
+     "p": "was"
+    },
+    {
+     "ini": 1.36,
+     "fin": 1.94,
+     "p": "impossible"
+    },
+    {
+     "ini": 1.94,
+     "fin": 2.18,
+     "p": "to"
+    },
+    {
+     "ini": 2.18,
+     "fin": 2.44,
+     "p": "connect"
+    },
+    {
+     "ini": 2.44,
+     "fin": 2.68,
+     "p": "the"
+    },
+    {
+     "ini": 2.68,
+     "fin": 2.84,
+     "p": "dots"
+    },
+    {
+     "ini": 2.84,
+     "fin": 3.18,
+     "p": "looking"
+    },
+    {
+     "ini": 3.18,
+     "fin": 3.52,
+     "p": "forward"
+    },
+    {
+     "ini": 3.52,
+     "fin": 3.7,
+     "p": "when"
+    },
+    {
+     "ini": 3.7,
+     "fin": 3.82,
+     "p": "I"
+    },
+    {
+     "ini": 3.82,
+     "fin": 3.96,
+     "p": "was"
+    },
+    {
+     "ini": 3.96,
+     "fin": 4.2,
+     "p": "in"
+    },
+    {
+     "ini": 4.2,
+     "fin": 4.56,
+     "p": "college,"
+    }
+   ]
+  },
+  {
+   "ini": 5.08,
+   "fin": 8.5,
+   "texto": "but it was very, very clear looking backwards ten years later.",
+   "palabras": [
+    {
+     "ini": 5.08,
+     "fin": 5.22,
+     "p": "but"
+    },
+    {
+     "ini": 5.22,
+     "fin": 5.26,
+     "p": "it"
+    },
+    {
+     "ini": 5.26,
+     "fin": 5.52,
+     "p": "was"
+    },
+    {
+     "ini": 5.52,
+     "fin": 5.9,
+     "p": "very,"
+    },
+    {
+     "ini": 5.9,
+     "fin": 6.32,
+     "p": "very"
+    },
+    {
+     "ini": 6.32,
+     "fin": 6.56,
+     "p": "clear"
+    },
+    {
+     "ini": 6.56,
+     "fin": 6.86,
+     "p": "looking"
+    },
+    {
+     "ini": 6.86,
+     "fin": 7.46,
+     "p": "backwards"
+    },
+    {
+     "ini": 7.46,
+     "fin": 7.8,
+     "p": "ten"
+    },
+    {
+     "ini": 7.8,
+     "fin": 8.08,
+     "p": "years"
+    },
+    {
+     "ini": 8.08,
+     "fin": 8.5,
+     "p": "later."
+    }
+   ]
+  },
+  {
+   "ini": 9.28,
+   "fin": 11.96,
+   "texto": "Again, you can't connect the dots looking forward.",
+   "palabras": [
+    {
+     "ini": 9.28,
+     "fin": 9.68,
+     "p": "Again,"
+    },
+    {
+     "ini": 10.1,
+     "fin": 10.24,
+     "p": "you"
+    },
+    {
+     "ini": 10.24,
+     "fin": 10.66,
+     "p": "can't"
+    },
+    {
+     "ini": 10.66,
+     "fin": 10.88,
+     "p": "connect"
+    },
+    {
+     "ini": 10.88,
+     "fin": 11.12,
+     "p": "the"
+    },
+    {
+     "ini": 11.12,
+     "fin": 11.28,
+     "p": "dots"
+    },
+    {
+     "ini": 11.28,
+     "fin": 11.56,
+     "p": "looking"
+    },
+    {
+     "ini": 11.56,
+     "fin": 11.96,
+     "p": "forward."
+    }
+   ]
+  },
+  {
+   "ini": 12.18,
+   "fin": 14.24,
+   "texto": "You can only connect them looking backwards.",
+   "palabras": [
+    {
+     "ini": 12.18,
+     "fin": 12.32,
+     "p": "You"
+    },
+    {
+     "ini": 12.32,
+     "fin": 12.52,
+     "p": "can"
+    },
+    {
+     "ini": 12.52,
+     "fin": 12.8,
+     "p": "only"
+    },
+    {
+     "ini": 12.8,
+     "fin": 13.06,
+     "p": "connect"
+    },
+    {
+     "ini": 13.06,
+     "fin": 13.44,
+     "p": "them"
+    },
+    {
+     "ini": 13.44,
+     "fin": 13.74,
+     "p": "looking"
+    },
+    {
+     "ini": 13.74,
+     "fin": 14.24,
+     "p": "backwards."
+    }
+   ]
+  },
+  {
+   "ini": 14.96,
+   "fin": 18.2,
+   "texto": "So you have to trust that the dots will somehow connect in your future.",
+   "palabras": [
+    {
+     "ini": 14.96,
+     "fin": 15.12,
+     "p": "So"
+    },
+    {
+     "ini": 15.12,
+     "fin": 15.28,
+     "p": "you"
+    },
+    {
+     "ini": 15.28,
+     "fin": 15.5,
+     "p": "have"
+    },
+    {
+     "ini": 15.5,
+     "fin": 15.74,
+     "p": "to"
+    },
+    {
+     "ini": 15.74,
+     "fin": 15.98,
+     "p": "trust"
+    },
+    {
+     "ini": 15.98,
+     "fin": 16.2,
+     "p": "that"
+    },
+    {
+     "ini": 16.2,
+     "fin": 16.38,
+     "p": "the"
+    },
+    {
+     "ini": 16.38,
+     "fin": 16.54,
+     "p": "dots"
+    },
+    {
+     "ini": 16.54,
+     "fin": 16.86,
+     "p": "will"
+    },
+    {
+     "ini": 16.86,
+     "fin": 17.18,
+     "p": "somehow"
+    },
+    {
+     "ini": 17.18,
+     "fin": 17.54,
+     "p": "connect"
+    },
+    {
+     "ini": 17.54,
+     "fin": 17.72,
+     "p": "in"
+    },
+    {
+     "ini": 17.72,
+     "fin": 17.92,
+     "p": "your"
+    },
+    {
+     "ini": 17.92,
+     "fin": 18.2,
+     "p": "future."
+    }
+   ]
+  },
+  {
+   "ini": 18.78,
+   "fin": 24.2,
+   "texto": "You have to trust in something, your gut, destiny, life, karma, whatever, because",
+   "palabras": [
+    {
+     "ini": 18.78,
+     "fin": 18.88,
+     "p": "You"
+    },
+    {
+     "ini": 18.88,
+     "fin": 19.08,
+     "p": "have"
+    },
+    {
+     "ini": 19.08,
+     "fin": 19.28,
+     "p": "to"
+    },
+    {
+     "ini": 19.28,
+     "fin": 19.44,
+     "p": "trust"
+    },
+    {
+     "ini": 19.44,
+     "fin": 19.72,
+     "p": "in"
+    },
+    {
+     "ini": 19.72,
+     "fin": 20.06,
+     "p": "something,"
+    },
+    {
+     "ini": 20.52,
+     "fin": 20.8,
+     "p": "your"
+    },
+    {
+     "ini": 20.8,
+     "fin": 21.02,
+     "p": "gut,"
+    },
+    {
+     "ini": 21.3,
+     "fin": 21.66,
+     "p": "destiny,"
+    },
+    {
+     "ini": 21.82,
+     "fin": 22.16,
+     "p": "life,"
+    },
+    {
+     "ini": 22.36,
+     "fin": 22.68,
+     "p": "karma,"
+    },
+    {
+     "ini": 22.76,
+     "fin": 23.2,
+     "p": "whatever,"
+    },
+    {
+     "ini": 23.82,
+     "fin": 24.2,
+     "p": "because"
+    }
+   ]
+  },
+  {
+   "ini": 24.2,
+   "fin": 28.68,
+   "texto": "believing that the dots will connect down the road will give you the confidence to",
+   "palabras": [
+    {
+     "ini": 24.2,
+     "fin": 24.58,
+     "p": "believing"
+    },
+    {
+     "ini": 24.58,
+     "fin": 24.82,
+     "p": "that"
+    },
+    {
+     "ini": 24.82,
+     "fin": 25.02,
+     "p": "the"
+    },
+    {
+     "ini": 25.02,
+     "fin": 25.18,
+     "p": "dots"
+    },
+    {
+     "ini": 25.18,
+     "fin": 25.5,
+     "p": "will"
+    },
+    {
+     "ini": 25.5,
+     "fin": 25.8,
+     "p": "connect"
+    },
+    {
+     "ini": 25.8,
+     "fin": 26.06,
+     "p": "down"
+    },
+    {
+     "ini": 26.06,
+     "fin": 26.26,
+     "p": "the"
+    },
+    {
+     "ini": 26.26,
+     "fin": 26.6,
+     "p": "road"
+    },
+    {
+     "ini": 26.6,
+     "fin": 27.44,
+     "p": "will"
+    },
+    {
+     "ini": 27.44,
+     "fin": 27.58,
+     "p": "give"
+    },
+    {
+     "ini": 27.58,
+     "fin": 27.8,
+     "p": "you"
+    },
+    {
+     "ini": 27.8,
+     "fin": 28.02,
+     "p": "the"
+    },
+    {
+     "ini": 28.02,
+     "fin": 28.36,
+     "p": "confidence"
+    },
+    {
+     "ini": 28.36,
+     "fin": 28.68,
+     "p": "to"
+    }
+   ]
+  },
+  {
+   "ini": 28.68,
+   "fin": 33.58,
+   "texto": "your heart even when it leads you off the well-worn path and that will make",
+   "palabras": [
+    {
+     "ini": 28.68,
+     "fin": 29.0,
+     "p": "your"
+    },
+    {
+     "ini": 29.0,
+     "fin": 29.5,
+     "p": "heart"
+    },
+    {
+     "ini": 29.5,
+     "fin": 30.24,
+     "p": "even"
+    },
+    {
+     "ini": 30.24,
+     "fin": 30.4,
+     "p": "when"
+    },
+    {
+     "ini": 30.4,
+     "fin": 30.62,
+     "p": "it"
+    },
+    {
+     "ini": 30.62,
+     "fin": 30.8,
+     "p": "leads"
+    },
+    {
+     "ini": 30.8,
+     "fin": 31.1,
+     "p": "you"
+    },
+    {
+     "ini": 31.1,
+     "fin": 31.26,
+     "p": "off"
+    },
+    {
+     "ini": 31.26,
+     "fin": 31.48,
+     "p": "the"
+    },
+    {
+     "ini": 31.48,
+     "fin": 31.7,
+     "p": "well"
+    },
+    {
+     "ini": 31.7,
+     "fin": 31.92,
+     "p": "-worn"
+    },
+    {
+     "ini": 31.92,
+     "fin": 32.34,
+     "p": "path"
+    },
+    {
+     "ini": 32.34,
+     "fin": 32.96,
+     "p": "and"
+    },
+    {
+     "ini": 32.96,
+     "fin": 33.16,
+     "p": "that"
+    },
+    {
+     "ini": 33.16,
+     "fin": 33.32,
+     "p": "will"
+    },
+    {
+     "ini": 33.32,
+     "fin": 33.58,
+     "p": "make"
+    }
+   ]
+  },
+  {
+   "ini": 33.58,
+   "fin": 34.32,
+   "texto": "all the difference.",
+   "palabras": [
+    {
+     "ini": 33.58,
+     "fin": 33.84,
+     "p": "all"
+    },
+    {
+     "ini": 33.84,
+     "fin": 34.02,
+     "p": "the"
+    },
+    {
+     "ini": 34.02,
+     "fin": 34.32,
+     "p": "difference."
+    }
+   ]
+  }
+ ]
+}

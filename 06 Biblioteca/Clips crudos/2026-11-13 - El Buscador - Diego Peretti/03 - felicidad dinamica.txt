@@ -1,0 +1,26 @@
+CLIP 03 — LA FELICIDAD NO ES UN ESTADO FIJO: ES DINÁMICA
+
+Inicio:     57:19.5  (3439.50 s)
+Fin:        58:07.5  (3487.47 s)
+Duración:   48.0 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LA FELICIDAD NO ES UN ESTADO FIJO: ES DINÁMICA   (en el reel, en lima: ES DINÁMICA)
+Departamento:     Salud
+Área:             Salud mental
+Tema:             Estados de ánimo pasajeros
+Fuente:           El Buscador - Diego Peretti — "DIEGO PERETTI: "El secreto de la vida es manejar los pensamientos y no que te manejen" | EL BUSCADOR"
+                  https://www.youtube.com/watch?v=hKY1xAQZnz0&t=3439s
+
+Por qué lo elegí:
+Explica algo simple y sano: los estados de ánimo cambian; hacer conscientes los momentos felices y recordar que los malos también pasan. Sin diagnósticos ni consejos médicos.
+
+Gancho (primeros 3 s): La felicidad no es un estado estático, es dinámico.
+
+Notas para la revisión: Salud mental: en p18 va con --salud-mental (cierra invitando a hablarlo con alguien de confianza o un profesional).
+
+Transcripción del clip:
+La felicidad no es un estado estático, es dinámico. La felicidad, digamos, los estados de ánimo son dinámicos. Y trato de ser consciente en los momentos de felicidad y me digo, en estos momentos estoy siendo feliz. Lo quiero hacer consciente para después acordármelo, que hay momentos de felicidad. Y cuando no estoy feliz, también lo llevo a conciente para que se impriman, que son estados de ánimos pasajeros. Entonces tengo momentos de felicidad, momentos muy felices, de gran placer, pero otros momentos en donde estoy muy, muy preocupado, angustiado.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - El Buscador - Diego Peretti/03 - felicidad dinamica.mp4" "LA FELICIDAD NO ES UN ESTADO FIJO: *ES DINÁMICA*" --fuente "El Buscador - Diego Peretti" --salud-mental

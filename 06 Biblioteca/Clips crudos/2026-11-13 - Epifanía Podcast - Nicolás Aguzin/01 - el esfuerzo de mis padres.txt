@@ -1,0 +1,28 @@
+CLIP 01 — "NO VAMOS A COMER SI ES NECESARIO, PERO VAN A ESTUDIAR"
+
+Inicio:     04:31.6  (271.60 s)
+Fin:        05:15.7  (315.67 s)
+Duración:   44.1 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  "NO VAMOS A COMER SI ES NECESARIO, PERO VAN A ESTUDIAR"   (en el reel, en lima: ESTUDIAR)
+Departamento:     Crecimiento personal
+Área:             Autoconocimiento
+Tema:             Valorar el esfuerzo de tu familia
+Fuente:           Epifanía Podcast - Nicolás Aguzin — "Nació en la provincia más pobre, pero llegó a CEO de JPMorgan | Nicolás Aguzin"
+                  https://www.youtube.com/watch?v=eAWLBxLpKEE&t=271s
+
+Por qué lo elegí:
+Arranca con una frase de sus padres que frena el scroll. Cuenta cómo a los 10 años lo mandaron pupilo a estudiar inglés lejos de casa, lo duro que fue para todos y por qué sus padres apostaron a la educación. Invita a mirar el esfuerzo que hay detrás de las oportunidades.
+
+Gancho (primeros 3 s): Entonces ellos decían: nosotros no vamos a comer si es necesario, pero nuestros hijos van a tener una buena educación
+
+Notas para la revisión: Ellos = sus padres (se entiende por la frase). Menciona el colegio San Jorge (Quilmes).
+
+Transcripción del clip:
+Entonces ellos decían yo nosotros no vamos a comer si es necesario, pero nuestros hijos van a tener una buena educación y él tenía este sueño de que aprenda a hablar inglés, así que me mandó al San Jorge. Yo no estaba muy contento porque tenía 10 años y la verdad que cuando fui extrañaba muchísimo, así que fue fue difícil. A veces cuando volvíamos, yo le decía, por favor, si puedo quedarme en Formosa sería bárbaro, pero lo charlábamos y él me explicaba que eso era muy importante para el futuro. Todo era muy duro para ellos también, porque obviamente ellos también me extrañaban muchísimo. O sea, que eso fue la primera parte,
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - Epifanía Podcast - Nicolás Aguzin/01 - el esfuerzo de mis padres.mp4" ""NO VAMOS A COMER SI ES NECESARIO, PERO VAN A *ESTUDIAR*"" --fuente "Epifanía Podcast - Nicolás Aguzin"
+
+Saturación aplicada al reel (regla 2026-11-23, sólo al video): eq=saturation=0.7 (media S 0.381, 23% px S>0.6)

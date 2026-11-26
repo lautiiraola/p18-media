@@ -1,0 +1,9 @@
+ANIMACIONES
+
+Todo movimiento deriva del frame actual.
+Entradas suaves: 6–14 frames.
+Transiciones principales: 10–20 frames cuando aporten continuidad.
+Zoom documental: lento y contenido.
+Parallax: máximo tres planos salvo justificación.
+No rebotes, glitches o giros sin función narrativa.
+La velocidad se adapta a la voz y al arco, no a una plantilla rígida.

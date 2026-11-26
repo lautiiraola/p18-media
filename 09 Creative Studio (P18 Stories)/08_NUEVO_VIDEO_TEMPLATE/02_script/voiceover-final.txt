@@ -1,0 +1,3 @@
+GUION DE VOZ APROBADO
+
+El texto final se escribe aquí después del fact-check. Este archivo debe contener solo palabras que serán narradas, sin instrucciones visuales.

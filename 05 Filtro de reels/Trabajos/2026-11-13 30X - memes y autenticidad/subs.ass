@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,646,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.82,P18,,0,0,0,,Sabíamos que los memes eran el
+Dialogue: 0,0:00:02.82,0:00:04.50,P18,,0,0,0,,formato de contenido más
+Dialogue: 0,0:00:04.50,0:00:07.30,P18,,0,0,0,,compartible de las redes
+Dialogue: 0,0:00:07.84,0:00:09.96,P18,,0,0,0,,y decidimos involucrarlos en los
+Dialogue: 0,0:00:09.96,0:00:11.10,P18,,0,0,0,,reels, en los videos, en los
+Dialogue: 0,0:00:11.10,0:00:12.46,P18,,0,0,0,,TikToks, en todo ese tipo de
+Dialogue: 0,0:00:12.46,0:00:13.16,P18,,0,0,0,,cosas.
+Dialogue: 0,0:00:15.04,0:00:17.72,P18,,0,0,0,,Y la teoría pues funcionó,
+Dialogue: 0,0:00:17.72,0:00:19.56,P18,,0,0,0,,porque mucha gente que ve los
+Dialogue: 0,0:00:19.56,0:00:21.82,P18,,0,0,0,,videos los comparte por los memes,
+Dialogue: 0,0:00:21.82,0:00:23.14,P18,,0,0,0,,pero también los comparte por los
+Dialogue: 0,0:00:23.14,0:00:23.84,P18,,0,0,0,,chistes,
+Dialogue: 0,0:00:24.34,0:00:26.92,P18,,0,0,0,,las interacciones, más que todo
+Dialogue: 0,0:00:26.92,0:00:28.12,P18,,0,0,0,,también tratamos de ser muy
+Dialogue: 0,0:00:28.12,0:00:28.72,P18,,0,0,0,,auténticos.
+Dialogue: 0,0:00:28.72,0:00:30.58,P18,,0,0,0,,Entonces, si la c***mos,
+Dialogue: 0,0:00:31.02,0:00:32.54,P18,,0,0,0,,dejamos la c***da en los videos,
+Dialogue: 0,0:00:32.54,0:00:33.34,P18,,0,0,0,,por ejemplo.
+Dialogue: 0,0:00:33.34,0:00:33.80,P18,,0,0,0,,Así.
+Dialogue: 0,0:00:33.80,0:00:34.24,P18,,0,0,0,,Ajá.
+Dialogue: 0,0:00:34.24,0:00:36.50,P18,,0,0,0,,Sí, porque es como si alguien la
+Dialogue: 0,0:00:36.50,0:00:39.66,P18,,0,0,0,,c*** en cámara, es más
+Dialogue: 0,0:00:39.66,0:00:40.92,P18,,0,0,0,,relatable, ¿verdad?
+Dialogue: 0,0:00:40.92,0:00:42.96,P18,,0,0,0,,Porque entonces lo que pasa es que
+Dialogue: 0,0:00:42.96,0:00:44.94,P18,,0,0,0,,las personas lo ven y dicen como,
+Dialogue: 0,0:00:44.94,0:00:45.64,P18,,0,0,0,,pues pucha,
+Dialogue: 0,0:00:46.06,0:00:47.48,P18,,0,0,0,,pues son como yo, ¿no?
+Dialogue: 0,0:00:47.48,0:00:48.18,P18,,0,0,0,,Claro.
+Dialogue: 0,0:00:48.28,0:00:50.44,P18,,0,0,0,,Entonces lo comparten o les gusta
+Dialogue: 0,0:00:50.44,0:00:51.46,P18,,0,0,0,,o dejan comentarios.

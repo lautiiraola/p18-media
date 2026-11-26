@@ -1,0 +1,28 @@
+CLIP 01 — SI TU PROBLEMA ES LA VERGÜENZA DE HACER VIDEOS, AGRADECÉ
+
+Inicio:     04:52.0  (292.02 s)
+Fin:        05:46.2  (346.23 s)
+Duración:   54.2 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  SI TU PROBLEMA ES LA VERGÜENZA DE HACER VIDEOS, AGRADECÉ   (en el reel, en lima: VERGÜENZA)
+Departamento:     Crear y comunicar
+Área:             Redes y contenido
+Tema:             Vergüenza de mostrarte en redes
+Fuente:           Epifanía Podcast - Beltrán Briones — "Lo que nadie sabe sobre Beltrán Briones"
+                  https://www.youtube.com/watch?v=JIvROLceFzI&t=292s
+
+Por qué lo elegí:
+Gancho directo a quien duda de subir videos; idea completa: la opinión de 30 personas pesa menos que llegar a miles, y grabar cuesta un celular y 5 minutos. Sirve a quien arranca en redes.
+
+Gancho (primeros 3 s): Yo lo hablo mucho con gente que es no, pero no me quiero exponer, hacer videos.
+
+Notas para la revisión: Dice 'redituable y rentable para tu compañía' y 'ganar plata' de pasada; no es el foco. Lenguaje coloquial (algún 'boludo' suelto no está en el tramo).
+
+Transcripción del clip:
+Yo lo hablo mucho con gente que es no, pero no me quiero exponer, hacer vídeos. Digo, si ese es tu problema, agradecé. Tenés el problema menos honesto de la historia. Literal. No sabes lo que hay gente que hace para ganar plata. No, y además a la gente le da vergüenza que su círculo íntimo de amigos y familia y gente con la que trabaja lo juzguen. Que ese grupo, como mucho, son 30 personas. Como mucho. Digo, vos a tu cumpleaños, ¿cuánta gente invitas? 30. Menos. Menos. Esa es la gente que te importa versus cientos de miles o incluso millones a los cuales puedes contactar, que te conozcan y que eventualmente te compren. Entonces uno deja de hacer algo sumamente reedituable y rentable para tu compañía por la opinión de 20 o 30. No tiene sentido si lo pensas de forma racional. Ahora, a nivel emocional te puede dar vergüenza, pero en términos racionales no tiene sentido no hacerlo, ya que además hacerlo tiene un costo muy bajo, digo la barrera de entrada que es tener un teléfono y cinco minutos que
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-20 - Epifanía Podcast - Beltrán Briones/01 - verguenza de hacer videos.mp4" "SI TU PROBLEMA ES LA *VERGÜENZA* DE HACER VIDEOS, AGRADECÉ" --fuente "Epifanía Podcast - Beltrán Briones"
+
+Saturación aplicada al reel (regla 2026-11-23, sólo al video): eq=saturation=0.7 (media S 0.415, 28% px S>0.6)

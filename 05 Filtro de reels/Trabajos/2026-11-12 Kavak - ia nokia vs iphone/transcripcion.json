@@ -1,0 +1,738 @@
+{
+ "idioma": "es",
+ "duracion": 50.63,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 6.38,
+   "texto": "tecnología es como, imagínate que tú tengas el Nokia, te acuerdas el Nokia la culebrita,",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.5,
+     "p": "tecnología"
+    },
+    {
+     "ini": 0.5,
+     "fin": 0.86,
+     "p": "es"
+    },
+    {
+     "ini": 0.86,
+     "fin": 1.62,
+     "p": "como,"
+    },
+    {
+     "ini": 1.94,
+     "fin": 2.06,
+     "p": "imagínate"
+    },
+    {
+     "ini": 2.06,
+     "fin": 2.16,
+     "p": "que"
+    },
+    {
+     "ini": 2.16,
+     "fin": 2.38,
+     "p": "tú"
+    },
+    {
+     "ini": 2.38,
+     "fin": 3.58,
+     "p": "tengas"
+    },
+    {
+     "ini": 3.58,
+     "fin": 4.6,
+     "p": "el"
+    },
+    {
+     "ini": 4.6,
+     "fin": 5.08,
+     "p": "Nokia,"
+    },
+    {
+     "ini": 5.32,
+     "fin": 5.46,
+     "p": "te"
+    },
+    {
+     "ini": 5.46,
+     "fin": 5.58,
+     "p": "acuerdas"
+    },
+    {
+     "ini": 5.58,
+     "fin": 5.68,
+     "p": "el"
+    },
+    {
+     "ini": 5.68,
+     "fin": 5.9,
+     "p": "Nokia"
+    },
+    {
+     "ini": 5.9,
+     "fin": 6.04,
+     "p": "la"
+    },
+    {
+     "ini": 6.04,
+     "fin": 6.38,
+     "p": "culebrita,"
+    }
+   ]
+  },
+  {
+   "ini": 6.46,
+   "fin": 13.86,
+   "texto": "tú llegaste a tener ese, y de repente salga el iphone 16 y que tú le des el iphone 16 a alguien",
+   "palabras": [
+    {
+     "ini": 6.46,
+     "fin": 6.52,
+     "p": "tú"
+    },
+    {
+     "ini": 6.52,
+     "fin": 6.72,
+     "p": "llegaste"
+    },
+    {
+     "ini": 6.72,
+     "fin": 6.86,
+     "p": "a"
+    },
+    {
+     "ini": 6.86,
+     "fin": 6.94,
+     "p": "tener"
+    },
+    {
+     "ini": 6.94,
+     "fin": 7.22,
+     "p": "ese,"
+    },
+    {
+     "ini": 8.28,
+     "fin": 8.74,
+     "p": "y"
+    },
+    {
+     "ini": 8.74,
+     "fin": 8.86,
+     "p": "de"
+    },
+    {
+     "ini": 8.86,
+     "fin": 9.04,
+     "p": "repente"
+    },
+    {
+     "ini": 9.04,
+     "fin": 9.32,
+     "p": "salga"
+    },
+    {
+     "ini": 9.32,
+     "fin": 9.52,
+     "p": "el"
+    },
+    {
+     "ini": 9.52,
+     "fin": 9.96,
+     "p": "iphone"
+    },
+    {
+     "ini": 9.96,
+     "fin": 10.46,
+     "p": "16"
+    },
+    {
+     "ini": 10.46,
+     "fin": 11.74,
+     "p": "y"
+    },
+    {
+     "ini": 11.74,
+     "fin": 11.88,
+     "p": "que"
+    },
+    {
+     "ini": 11.88,
+     "fin": 11.98,
+     "p": "tú"
+    },
+    {
+     "ini": 11.98,
+     "fin": 12.06,
+     "p": "le"
+    },
+    {
+     "ini": 12.06,
+     "fin": 12.14,
+     "p": "des"
+    },
+    {
+     "ini": 12.14,
+     "fin": 12.26,
+     "p": "el"
+    },
+    {
+     "ini": 12.26,
+     "fin": 12.48,
+     "p": "iphone"
+    },
+    {
+     "ini": 12.48,
+     "fin": 13.28,
+     "p": "16"
+    },
+    {
+     "ini": 13.28,
+     "fin": 13.68,
+     "p": "a"
+    },
+    {
+     "ini": 13.68,
+     "fin": 13.86,
+     "p": "alguien"
+    }
+   ]
+  },
+  {
+   "ini": 13.86,
+   "fin": 20.83,
+   "texto": "y le digas mira cuéntame cómo funciona esto, eso es lo que está pasando hoy, la gente está",
+   "palabras": [
+    {
+     "ini": 13.86,
+     "fin": 14.06,
+     "p": "y"
+    },
+    {
+     "ini": 14.06,
+     "fin": 14.2,
+     "p": "le"
+    },
+    {
+     "ini": 14.2,
+     "fin": 14.42,
+     "p": "digas"
+    },
+    {
+     "ini": 14.42,
+     "fin": 14.6,
+     "p": "mira"
+    },
+    {
+     "ini": 14.6,
+     "fin": 14.9,
+     "p": "cuéntame"
+    },
+    {
+     "ini": 14.9,
+     "fin": 15.12,
+     "p": "cómo"
+    },
+    {
+     "ini": 15.12,
+     "fin": 15.54,
+     "p": "funciona"
+    },
+    {
+     "ini": 15.54,
+     "fin": 16.1,
+     "p": "esto,"
+    },
+    {
+     "ini": 18.59,
+     "fin": 18.67,
+     "p": "eso"
+    },
+    {
+     "ini": 18.67,
+     "fin": 18.67,
+     "p": "es"
+    },
+    {
+     "ini": 18.67,
+     "fin": 18.79,
+     "p": "lo"
+    },
+    {
+     "ini": 18.79,
+     "fin": 18.87,
+     "p": "que"
+    },
+    {
+     "ini": 18.87,
+     "fin": 18.95,
+     "p": "está"
+    },
+    {
+     "ini": 18.95,
+     "fin": 19.23,
+     "p": "pasando"
+    },
+    {
+     "ini": 19.23,
+     "fin": 19.63,
+     "p": "hoy,"
+    },
+    {
+     "ini": 20.43,
+     "fin": 20.53,
+     "p": "la"
+    },
+    {
+     "ini": 20.53,
+     "fin": 20.67,
+     "p": "gente"
+    },
+    {
+     "ini": 20.67,
+     "fin": 20.83,
+     "p": "está"
+    }
+   ]
+  },
+  {
+   "ini": 20.83,
+   "fin": 25.29,
+   "texto": "agarrando y le está dando el iphone 16 a ver a alguien que le interprete digamos esta tecnología",
+   "palabras": [
+    {
+     "ini": 20.83,
+     "fin": 21.29,
+     "p": "agarrando"
+    },
+    {
+     "ini": 21.29,
+     "fin": 21.53,
+     "p": "y"
+    },
+    {
+     "ini": 21.53,
+     "fin": 21.67,
+     "p": "le"
+    },
+    {
+     "ini": 21.67,
+     "fin": 21.79,
+     "p": "está"
+    },
+    {
+     "ini": 21.79,
+     "fin": 21.95,
+     "p": "dando"
+    },
+    {
+     "ini": 21.95,
+     "fin": 22.41,
+     "p": "el"
+    },
+    {
+     "ini": 22.41,
+     "fin": 22.67,
+     "p": "iphone"
+    },
+    {
+     "ini": 22.67,
+     "fin": 22.95,
+     "p": "16"
+    },
+    {
+     "ini": 22.95,
+     "fin": 23.15,
+     "p": "a"
+    },
+    {
+     "ini": 23.15,
+     "fin": 23.31,
+     "p": "ver"
+    },
+    {
+     "ini": 23.31,
+     "fin": 23.45,
+     "p": "a"
+    },
+    {
+     "ini": 23.45,
+     "fin": 23.55,
+     "p": "alguien"
+    },
+    {
+     "ini": 23.55,
+     "fin": 23.71,
+     "p": "que"
+    },
+    {
+     "ini": 23.71,
+     "fin": 23.91,
+     "p": "le"
+    },
+    {
+     "ini": 23.91,
+     "fin": 24.25,
+     "p": "interprete"
+    },
+    {
+     "ini": 24.25,
+     "fin": 24.63,
+     "p": "digamos"
+    },
+    {
+     "ini": 24.63,
+     "fin": 24.79,
+     "p": "esta"
+    },
+    {
+     "ini": 24.79,
+     "fin": 25.29,
+     "p": "tecnología"
+    }
+   ]
+  },
+  {
+   "ini": 25.29,
+   "fin": 36.41,
+   "texto": "Y la versión de eso es usar chat GPT, o sea, el iPhone 16 es increíble, relativo al Nokia de la Culebrita.",
+   "palabras": [
+    {
+     "ini": 25.29,
+     "fin": 26.11,
+     "p": "Y"
+    },
+    {
+     "ini": 26.11,
+     "fin": 26.19,
+     "p": "la"
+    },
+    {
+     "ini": 26.19,
+     "fin": 26.49,
+     "p": "versión"
+    },
+    {
+     "ini": 26.49,
+     "fin": 26.67,
+     "p": "de"
+    },
+    {
+     "ini": 26.67,
+     "fin": 26.79,
+     "p": "eso"
+    },
+    {
+     "ini": 26.79,
+     "fin": 26.97,
+     "p": "es"
+    },
+    {
+     "ini": 26.97,
+     "fin": 27.17,
+     "p": "usar"
+    },
+    {
+     "ini": 27.17,
+     "fin": 27.39,
+     "p": "chat"
+    },
+    {
+     "ini": 27.39,
+     "fin": 29.29,
+     "p": "GPT,"
+    },
+    {
+     "ini": 29.59,
+     "fin": 29.61,
+     "p": "o"
+    },
+    {
+     "ini": 29.61,
+     "fin": 30.85,
+     "p": "sea,"
+    },
+    {
+     "ini": 31.35,
+     "fin": 31.41,
+     "p": "el"
+    },
+    {
+     "ini": 31.41,
+     "fin": 31.57,
+     "p": "iPhone"
+    },
+    {
+     "ini": 31.57,
+     "fin": 31.75,
+     "p": "16"
+    },
+    {
+     "ini": 31.75,
+     "fin": 31.99,
+     "p": "es"
+    },
+    {
+     "ini": 31.99,
+     "fin": 33.45,
+     "p": "increíble,"
+    },
+    {
+     "ini": 33.59,
+     "fin": 34.05,
+     "p": "relativo"
+    },
+    {
+     "ini": 34.05,
+     "fin": 35.21,
+     "p": "al"
+    },
+    {
+     "ini": 35.21,
+     "fin": 35.45,
+     "p": "Nokia"
+    },
+    {
+     "ini": 35.45,
+     "fin": 35.57,
+     "p": "de"
+    },
+    {
+     "ini": 35.57,
+     "fin": 35.67,
+     "p": "la"
+    },
+    {
+     "ini": 35.67,
+     "fin": 36.41,
+     "p": "Culebrita."
+    }
+   ]
+  },
+  {
+   "ini": 36.97,
+   "fin": 41.31,
+   "texto": "Entonces ahorita todo el mundo tiene que entrarle de una manera muy profunda y hacerlo ellos mismos",
+   "palabras": [
+    {
+     "ini": 36.97,
+     "fin": 37.13,
+     "p": "Entonces"
+    },
+    {
+     "ini": 37.13,
+     "fin": 37.45,
+     "p": "ahorita"
+    },
+    {
+     "ini": 37.45,
+     "fin": 37.73,
+     "p": "todo"
+    },
+    {
+     "ini": 37.73,
+     "fin": 37.83,
+     "p": "el"
+    },
+    {
+     "ini": 37.83,
+     "fin": 37.97,
+     "p": "mundo"
+    },
+    {
+     "ini": 37.97,
+     "fin": 38.15,
+     "p": "tiene"
+    },
+    {
+     "ini": 38.15,
+     "fin": 38.37,
+     "p": "que"
+    },
+    {
+     "ini": 38.37,
+     "fin": 38.85,
+     "p": "entrarle"
+    },
+    {
+     "ini": 38.85,
+     "fin": 38.99,
+     "p": "de"
+    },
+    {
+     "ini": 38.99,
+     "fin": 39.07,
+     "p": "una"
+    },
+    {
+     "ini": 39.07,
+     "fin": 39.21,
+     "p": "manera"
+    },
+    {
+     "ini": 39.21,
+     "fin": 39.51,
+     "p": "muy"
+    },
+    {
+     "ini": 39.51,
+     "fin": 39.79,
+     "p": "profunda"
+    },
+    {
+     "ini": 39.79,
+     "fin": 40.23,
+     "p": "y"
+    },
+    {
+     "ini": 40.23,
+     "fin": 40.53,
+     "p": "hacerlo"
+    },
+    {
+     "ini": 40.53,
+     "fin": 40.95,
+     "p": "ellos"
+    },
+    {
+     "ini": 40.95,
+     "fin": 41.31,
+     "p": "mismos"
+    }
+   ]
+  },
+  {
+   "ini": 41.31,
+   "fin": 44.95,
+   "texto": "y sentarte a estudiar y sentarte a montar tus propios robots",
+   "palabras": [
+    {
+     "ini": 41.31,
+     "fin": 41.81,
+     "p": "y"
+    },
+    {
+     "ini": 41.81,
+     "fin": 42.19,
+     "p": "sentarte"
+    },
+    {
+     "ini": 42.19,
+     "fin": 42.31,
+     "p": "a"
+    },
+    {
+     "ini": 42.31,
+     "fin": 43.13,
+     "p": "estudiar"
+    },
+    {
+     "ini": 43.13,
+     "fin": 43.39,
+     "p": "y"
+    },
+    {
+     "ini": 43.39,
+     "fin": 43.73,
+     "p": "sentarte"
+    },
+    {
+     "ini": 43.73,
+     "fin": 43.83,
+     "p": "a"
+    },
+    {
+     "ini": 43.83,
+     "fin": 44.03,
+     "p": "montar"
+    },
+    {
+     "ini": 44.03,
+     "fin": 44.21,
+     "p": "tus"
+    },
+    {
+     "ini": 44.21,
+     "fin": 44.53,
+     "p": "propios"
+    },
+    {
+     "ini": 44.53,
+     "fin": 44.95,
+     "p": "robots"
+    }
+   ]
+  },
+  {
+   "ini": 46.91,
+   "fin": 49.97,
+   "texto": "y explorarlo para que luego veas cómo eso puede aumentar tu vida.",
+   "palabras": [
+    {
+     "ini": 46.91,
+     "fin": 47.39,
+     "p": "y"
+    },
+    {
+     "ini": 47.39,
+     "fin": 47.83,
+     "p": "explorarlo"
+    },
+    {
+     "ini": 47.83,
+     "fin": 48.05,
+     "p": "para"
+    },
+    {
+     "ini": 48.05,
+     "fin": 48.15,
+     "p": "que"
+    },
+    {
+     "ini": 48.15,
+     "fin": 48.35,
+     "p": "luego"
+    },
+    {
+     "ini": 48.35,
+     "fin": 48.67,
+     "p": "veas"
+    },
+    {
+     "ini": 48.67,
+     "fin": 48.85,
+     "p": "cómo"
+    },
+    {
+     "ini": 48.85,
+     "fin": 49.07,
+     "p": "eso"
+    },
+    {
+     "ini": 49.07,
+     "fin": 49.19,
+     "p": "puede"
+    },
+    {
+     "ini": 49.19,
+     "fin": 49.59,
+     "p": "aumentar"
+    },
+    {
+     "ini": 49.59,
+     "fin": 49.75,
+     "p": "tu"
+    },
+    {
+     "ini": 49.75,
+     "fin": 49.97,
+     "p": "vida."
+    }
+   ]
+  }
+ ]
+}

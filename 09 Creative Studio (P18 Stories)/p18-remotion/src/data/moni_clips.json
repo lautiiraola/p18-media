@@ -1,0 +1,89 @@
+{
+ "clips": [
+  {
+   "n": 1,
+   "source": "moni/video_final.mp4",
+   "ranges": [
+    {
+     "ini": 100.42,
+     "fin": 139.7
+    }
+   ],
+   "titulo": "El mundo no es de los que saben: es de los *atrevidos*",
+   "departamento": "Crecimiento personal",
+   "area": "Mentalidad y adaptación",
+   "tema": "Coraje para animarse",
+   "slug": "atrevidos",
+   "gancho": "Hay que animarse. El coraje es la clave de todo.",
+   "porque": "Arranca con una afirmación corta y directa. Desarrolla una idea completa (el coraje pesa más que saber o tener) y cierra con una frase redonda: las posibilidades se dan a medida que las vas buscando. Le habla directo a un pibe de 17-19 que siente que le falta experiencia o contexto.",
+   "fuente": "Moni · Escalera Digital",
+   "dur_s": 39.28
+  },
+  {
+   "n": 2,
+   "source": "moni/video_final.mp4",
+   "ranges": [
+    {
+     "ini": 62.29,
+     "fin": 92.98
+    }
+   ],
+   "titulo": "Lo técnico se aprende. Lo difícil es la *mentalidad*",
+   "departamento": "Finanzas y trabajo",
+   "area": "Trabajo y oportunidades",
+   "tema": "Qué se mira en un primer trabajo",
+   "slug": "mentalidad",
+   "gancho": "Siento que siempre lo más importante es la mentalidad.",
+   "porque": "Responde una duda real de quien busca su primer laburo sin experiencia: lo técnico es cuestión de tiempo, lo que se mira es compromiso, curiosidad y ganas de aprender. Es útil, concreto y no depende de la pregunta (el titular da el contexto).",
+   "fuente": "Moni · Escalera Digital",
+   "dur_s": 30.69
+  },
+  {
+   "n": 3,
+   "source": "moni/video_final.mp4",
+   "ranges": [
+    {
+     "ini": 21.7,
+     "fin": 57.62
+    }
+   ],
+   "titulo": "18 años, cero capital y una compu: ¿por dónde *empezar*?",
+   "departamento": "Finanzas y trabajo",
+   "area": "Ideas, proyectos y ventas",
+   "tema": "Empezar un proyecto desde lo que te apasiona",
+   "slug": "por donde empezar",
+   "gancho": "Lo primero que haría es pensar cuál es mi pasión, en qué soy bueno…",
+   "porque": "Un paso a paso claro: pasión y fortalezas, ordenarlas con inteligencia artificial, pedir ayuda y convertirlo en un proyecto. Es accionable para alguien sin plata ni experiencia. No promete resultados económicos.",
+   "fuente": "Moni · Escalera Digital",
+   "dur_s": 35.92
+  },
+  {
+   "n": 4,
+   "source": "moni/video_final.mp4",
+   "ranges": [
+    {
+     "ini": 169.31,
+     "fin": 183.08
+    },
+    {
+     "ini": 186.12,
+     "fin": 193.12
+    },
+    {
+     "ini": 195.24,
+     "fin": 205.5
+    }
+   ],
+   "titulo": "Los fracasos también son *aprendizajes*",
+   "departamento": "Crecimiento personal",
+   "area": "Mentalidad y adaptación",
+   "tema": "Equivocarse y seguir",
+   "slug": "aprender del error",
+   "gancho": "Creo que el camino y el foco hay que tenerlo y ir para adelante.",
+   "porque": "Une tres respuestas que cuentan una misma idea: equivocaciones va a haber y los fracasos son aprendizajes; lo que pasó fue por algo y dejó un aprendizaje; y su frase de cabecera (Keep Moving Forward) cierra con aprender desde el error. Se sacaron las tarjetas de pregunta para que fluya como un solo mensaje, sin cambiar lo que dice.",
+   "notas": "Sin las tarjetas de pregunta 5 y 6 y sin \"No, no me arrepiento de nada\" (quedaba pegado a la tarjeta). El hilo queda: equivocaciones va a haber → los fracasos son aprendizajes → lo que pasó fue por algo → Keep Moving Forward.",
+   "fuente": "Moni · Escalera Digital",
+   "dur_s": 31.03
+  }
+ ]
+}

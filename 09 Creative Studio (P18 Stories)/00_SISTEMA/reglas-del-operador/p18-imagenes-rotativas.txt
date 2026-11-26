@@ -1,0 +1,11 @@
+Valentín (2026-11-24): "me gustaría que también se roten más imágenes (andá jugando con estilos de aparición y para cambiarla, sé creativo). Hay muchos lugares que quedan vacíos!!! Guardalo en la memoria para los demás videos."
+
+POR QUÉ: escenas con una sola imagen fija y mucho fondo vacío se ven pobres y de plantilla. Las referencias piden un cambio visual cada 1,5–3 s.
+
+CÓMO SE APLICA:
+- Buscar y descargar más archivo del necesario (ver p18-autonomia) y usarlo: 2–4 imágenes por escena larga, con un cambio cada 1,5–3 s.
+- Rotar las entradas y salidas de imágenes, sin repetir la misma dos veces seguidas: iris, barrido diagonal, persiana en tiras, polaroid que cae girando, zoom desde el fondo, deslizamiento con parallax y flip. Componentes del runtime: `ImageEnter` / `Gallery` (`src/components/Motion.tsx`).
+- Ocupar los espacios vacíos con tarjetas de archivo secundarias (collage, rotación leve, sombra) en zonas libres, sin tapar subtítulos, kicker ni safe zones. En escenas gráficas, sumar una capa de foto de fondo relacionada (desenfocada o en duotono).
+- NUNCA repetir una imagen dentro de un mismo video (ni como fondo, ni en galería, ni recortada de nuevo). Valentín (2026-11-24, v04): "hay imágenes que se repiten. Eso no puede pasar." `assert_unique_images()` de `runtime/scripts/p18_build.py` corta el build si pasa. Si falta material, buscar más antes que repetir.
+- Mantener la regla P18: todo el material con licencia registrada y crédito; las imágenes ilustran la frase exacta, nunca son B-roll genérico.
+- Se combina con p18-texto-cinetico, p18-tipografia-rotativa y p18-musica-rotativa.

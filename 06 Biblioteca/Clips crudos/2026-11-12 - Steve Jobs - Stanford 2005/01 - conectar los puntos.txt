@@ -1,0 +1,26 @@
+CLIP 01 — LOS PUNTOS SE CONECTAN MIRANDO PARA ATRÁS
+
+Inicio:     04:57.7  (297.68 s)
+Fin:        05:32.4  (332.37 s)
+Duración:   34.7 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LOS PUNTOS SE CONECTAN MIRANDO PARA ATRÁS   (en el reel, en lima: CONECTAN, ATRÁS)
+Departamento:     Crecimiento personal
+Área:             Autoconocimiento
+Tema:             Seguir la curiosidad
+Fuente:           Steve Jobs - Stanford 2005 — "Steve Jobs' 2005 Stanford Commencement Address"
+                  https://www.youtube.com/watch?v=UF8uR6Z6KLc&t=297s
+
+Por qué lo elegí:
+Para alguien de 17-19 que no sabe qué hacer: lo que hoy parece no servir (para Jobs, un curso de caligrafía) puede tener sentido más adelante. Confiar y seguir lo que te interesa.
+
+Gancho (primeros 3 s): Era imposible conectar los puntos mirando para adelante.
+
+Notas para la revisión: En inglés: va traducido. Crédito a Stanford University.
+
+Transcripción del clip:
+Of course, it was impossible to connect the dots looking forward when I was in college, but it was very, very clear looking backwards 10 years later. Again, you can't connect the dots looking forward. You can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something, your gut, destiny, life, karma, whatever, because believing that the dots will connect down the road will give you the confidence to follow your heart even when it leads you off the well -worn path, and that will make all the difference.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-12 - Steve Jobs - Stanford 2005/01 - conectar los puntos.mp4" "LOS PUNTOS SE *CONECTAN* MIRANDO PARA *ATRÁS*" --fuente "Steve Jobs - Stanford 2005"

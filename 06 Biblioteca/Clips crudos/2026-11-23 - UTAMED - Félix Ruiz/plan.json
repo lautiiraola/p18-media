@@ -1,0 +1,40 @@
+{
+ "clips": [
+  {
+   "ini": 1040.8,
+   "fin": 1082.2,
+   "titulo": "LA PERSONA QUE MÁS ME AYUDÓ LA CONOCÍ EN EL *COLEGIO*",
+   "departamento": "Finanzas y trabajo",
+   "area": "Trabajo y oportunidades",
+   "tema": "Armar tu red de contactos",
+   "slug": "red de contactos",
+   "gancho": "Yo creo que las relaciones, en mi caso, han sido algo clave",
+   "porque": "Historia en primera persona de cómo una amistad del colegio abrió su primera oportunidad y de ahí armó su propia red. Idea completa y cercana.",
+   "notas": "Sin cifras."
+  },
+  {
+   "ini": 146.8,
+   "fin": 196.9,
+   "titulo": "EMPRENDER ES *RESOLVER PROBLEMAS*, UNA BARRERA A LA VEZ",
+   "departamento": "Finanzas y trabajo",
+   "area": "Ideas, proyectos y ventas",
+   "tema": "Emprender es resolver problemas",
+   "slug": "resolver problemas",
+   "gancho": "Hombre, difícil es todo, ¿no?",
+   "porque": "Define emprender como resolver problemas y saltar barreras de a poco. Útil para quien empieza.",
+   "notas": "Dice 'gracias a Dios' una vez; es un comentario personal."
+  },
+  {
+   "ini": 300.4,
+   "fin": 342.2,
+   "titulo": "LA CLAVE: TRAERTE GENTE *MÁS FORMADA* QUE VOS",
+   "departamento": "Crecimiento personal",
+   "area": "Liderazgo",
+   "tema": "Rodearte de gente con talento",
+   "slug": "gente mas formada",
+   "gancho": "Yo al final siempre lo digo, la gente con la que trabajo está mucho más formada que yo",
+   "porque": "Una idea clara sobre rodearse de gente con más conocimiento y aprender de ella. Se entiende sola.",
+   "notas": "Menciona Tuenti como ejemplo; sin cifras."
+  }
+ ]
+}

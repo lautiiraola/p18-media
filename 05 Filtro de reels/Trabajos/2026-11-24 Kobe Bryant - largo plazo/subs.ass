@@ -1,0 +1,48 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,582,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.42,P18,,0,0,0,,Cuando volví a Estados Unidos,
+Dialogue: 0,0:00:01.42,0:00:02.90,P18,,0,0,0,,no era el más atlético.
+Dialogue: 0,0:00:03.26,0:00:04.86,P18,,0,0,0,,Era muy flaquito,
+Dialogue: 0,0:00:04.86,0:00:06.52,P18,,0,0,0,,re flaco, y tenía
+Dialogue: 0,0:00:06.52,0:00:08.14,P18,,0,0,0,,problemas en las rodillas
+Dialogue: 0,0:00:08.14,0:00:08.72,P18,,0,0,0,,porque estaba creciendo.
+Dialogue: 0,0:00:08.72,0:00:10.18,P18,,0,0,0,,Era el nerd con medias
+Dialogue: 0,0:00:10.18,0:00:12.18,P18,,0,0,0,,altas y rodilleras enormes.
+Dialogue: 0,0:00:12.18,0:00:13.14,P18,,0,0,0,,Hoy está de moda.
+Dialogue: 0,0:00:13.14,0:00:14.58,P18,,0,0,0,,Hoy está de moda,
+Dialogue: 0,0:00:14.58,0:00:15.72,P18,,0,0,0,,pero en esa época no.
+Dialogue: 0,0:00:15.72,0:00:19.08,P18,,0,0,0,,Así que tuve que pensar a largo plazo
+Dialogue: 0,0:00:19.08,0:00:20.30,P18,,0,0,0,,porque en ese momento
+Dialogue: 0,0:00:20.30,0:00:21.34,P18,,0,0,0,,no podía competir con
+Dialogue: 0,0:00:21.34,0:00:21.64,P18,,0,0,0,,esos chicos.
+Dialogue: 0,0:00:21.64,0:00:22.92,P18,,0,0,0,,Había pibes
+Dialogue: 0,0:00:22.92,0:00:25.32,P18,,0,0,0,,de 12 años con barba.
+Dialogue: 0,0:00:25.32,0:00:27.18,P18,,0,0,0,,No podía.
+Dialogue: 0,0:00:27.18,0:00:28.10,P18,,0,0,0,,¿Qué iba a hacer
+Dialogue: 0,0:00:28.10,0:00:28.26,P18,,0,0,0,,contra eso?
+Dialogue: 0,0:00:28.26,0:00:29.92,P18,,0,0,0,,Ellos hacían molinos
+Dialogue: 0,0:00:29.92,0:00:31.52,P18,,0,0,0,,y volcadas de espaldas, y yo feliz
+Dialogue: 0,0:00:31.52,0:00:32.80,P18,,0,0,0,,si tocaba el tablero,
+Dialogue: 0,0:00:32.80,0:00:33.10,P18,,0,0,0,,¿viste?
+Dialogue: 0,0:00:33.10,0:00:35.36,P18,,0,0,0,,Tuve que pensarlo a largo
+Dialogue: 0,0:00:35.36,0:00:36.56,P18,,0,0,0,,plazo, porque no iba
+Dialogue: 0,0:00:36.56,0:00:37.32,P18,,0,0,0,,a dejar el básquet.
+Dialogue: 0,0:00:37.70,0:00:38.98,P18,,0,0,0,,Entonces me dije: ok,
+Dialogue: 0,0:00:38.98,0:00:40.02,P18,,0,0,0,,este año voy a mejorar
+Dialogue: 0,0:00:40.02,0:00:40.72,P18,,0,0,0,,en esto.
+Dialogue: 0,0:00:41.30,0:00:43.22,P18,,0,0,0,,El año que viene, en esto,
+Dialogue: 0,0:00:43.22,0:00:43.88,P18,,0,0,0,,y así.
+Dialogue: 0,0:00:43.88,0:00:45.28,P18,,0,0,0,,Y con paciencia
+Dialogue: 0,0:00:45.28,0:00:45.98,P18,,0,0,0,,los alcancé.

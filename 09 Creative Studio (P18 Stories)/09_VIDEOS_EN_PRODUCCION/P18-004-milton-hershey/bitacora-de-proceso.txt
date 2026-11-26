@@ -1,0 +1,22 @@
+BITÁCORA DE PROCESO — P18-004-milton-hershey
+Registro cronológico de cómo se hizo este video.
+
+ETAPA 1 — SELECCIÓN (2026-11-25, corrida automática p18-historia-de-vida)
+Pasos: 09_VIDEOS_EN_PRODUCCION vacío; colección historias_vida de la Biblioteca viva vacía → modo autónomo.
+Decisiones: Milton Hershey (rubro comida, distinto de Dyson/Galperin/Jobs; tensión "soltar lo que funciona", no "me echaron").
+Scorecard 44/50 (ver 01_research/research-dossier.txt).
+
+ETAPA 2 — INVESTIGACIÓN Y FACT-CHECK (2026-11-25)
+Pasos: WebSearch + WebFetch del Hershey Community Archives (venta 1900, cita 1893), sitio oficial de la empresa, Wikipedia
+(contraste), Smithsonian. Britannica devolvió 403. Commons API para confirmar que hay archivo de época.
+Problemas: fechas inconsistentes entre fuentes (fin de Filadelfia, año de la Lancaster Caramel Co.): el guion no las dice.
+1.300 empleados sólo en Wikipedia: descartado.
+
+ETAPA 3 — GUION (2026-11-25)
+Skills: viral-hooks-formulas cargada (hooks-database.md, cat. 02/07/08/09); checklist de hook (viral-hooks) y de retención
+(viral-short-form / viral-instagram-reels) aplicados en guion-anotado.txt.
+Iteraciones: 115 → 107 → 101 palabras (se sacó "una vez", "unas", "sólo", "una feria").
+
+ETAPA 4 — VOZ: BLOQUEADA (2026-11-25)
+~/.config/p18/elevenlabs.env no existe. No se generó ninguna toma (0 caracteres gastados). Según el gate, se deja el guion
+listo y la historia en estado "guion" en la biblioteca. La próxima corrida retoma desde acá: --check, generar, validar.

@@ -1,0 +1,26 @@
+FORMATO P18 STORIES
+
+P18 Stories cuenta transformaciones reales a través de decisiones concretas.
+
+No es:
+- un video motivacional genérico;
+- una lista de logros;
+- una biografía cronológica completa;
+- un avatar contando una historia;
+- una presentación de Canva.
+
+Sí es:
+- una voz en off guiando una tensión real;
+- archivo auténtico que demuestra;
+- diseño que organiza y explica;
+- montaje que mantiene curiosidad;
+- una decisión que revela agencia;
+- una reflexión que el espectador completa.
+
+ESTRUCTURA BASE
+
+HOOK → CONTEXTO → CONFLICTO → DECISIÓN → DESARROLLO → RESULTADO → REFLEXIÓN
+
+FORMATO TÉCNICO
+
+Vertical 9:16 (Reel/Story). 1080 × 1920. 60 fps. DURACIÓN OBLIGATORIA: entre 30 y 50 segundos. NUNCA más de 50 s (regla del operador, 2026-11-24). Remotion como sistema de producción. H.264/AAC para entrega social.

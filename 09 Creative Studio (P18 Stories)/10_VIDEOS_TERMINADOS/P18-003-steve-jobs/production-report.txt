@@ -1,0 +1,28 @@
+PRODUCTION REPORT — P18-003-steve-jobs — "La empresa que lo echó"
+Fecha: 2026-11-25 · Master v01: 07_renders/final/P18-003-steve-jobs-master-v01.mp4
+Datos técnicos: 1080×1920 a 60 fps, 42,86 s (voz de 38,84 s, más 1 s de cola y 3 s de cierre outro3d), -14,4 LUFS, pico de -2,1 dBFS, sin cuadros negros.
+SHA-256: 16524f6d40caac8bc8820785e8d0718c141a04f7ca066c3799be84d076ef5b16
+
+ESTRUCTURA (12 escenas)
+S01 pregunta de Jobs (cita) · S02 retrato de 1984 · S03 Apple I · S04 Sculley y el directorio · S05 NeXT y Pixar · S06 816 millones de pérdida (año fiscal 1996) · S07 1996, once años después · S07b compra de NeXT y la vuelta · S08 iMac y +309 millones (año fiscal 1998) · S09 «Que me echaran…» · S10 pregunta final · OUTRO 3D: "11 años afuera" → 18.
+
+REGLAS APLICADAS
+- 9:16; 42,86 s (dentro de 30–50).
+- Cierre fijo outro3d.
+- Música rotativa: Kevin MacLeod, "On the Passing of Time", CC BY 3.0. No es cama_p18.
+- SFX nuevos de síntesis propia (golpe_grave, swell).
+- Tipografía rotativa y texto cinético.
+- Imágenes: 15 distintas, galerías en 9 escenas y ninguna repetida (assert_unique_images pasa). A06 se descartó porque era la misma foto que A02, recortada.
+- Subtítulos por frase (chunk_captions) con BREAKS editoriales; ningún subtítulo sigue después de un cambio de escena.
+
+QA
+- 2 rondas de hojas de cuadros (cada 0,6–0,75 s) y 3 cuadros por subtítulo.
+- Correcciones:
+  - la escena del año no tenía bg paper y los subtítulos salían blancos sobre papel;
+  - la escena 7 duraba 7,6 s con un solo elemento: se dividió en dos;
+  - la foto de Sculley cortaba la cara;
+  - la tarjeta del Macintosh tapaba el subtítulo;
+  - los subtítulos se leían mal sobre la foto clara del iMac: se oscureció la franja inferior de FullBleedPhoto, en el runtime.
+- Ninguna palabra cortada, encimada ni invisible.
+
+PARA PUBLICAR: atribución musical obligatoria en la descripción (ver 10_social_assets/caption.txt).

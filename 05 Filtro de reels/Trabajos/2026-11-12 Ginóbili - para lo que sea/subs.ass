@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,902,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,441,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.12,P18,,0,0,0,,Pero eso no sólo va con el básquet
+Dialogue: 0,0:00:03.12,0:00:04.00,P18,,0,0,0,,o al deporte.
+Dialogue: 0,0:00:04.92,0:00:06.66,P18,,0,0,0,,Si ustedes quieren ser dentistas,
+Dialogue: 0,0:00:06.66,0:00:08.34,P18,,0,0,0,,si quieren ser profesores,
+Dialogue: 0,0:00:08.34,0:00:10.34,P18,,0,0,0,,si quieren ser lo que sea,
+Dialogue: 0,0:00:10.34,0:00:11.24,P18,,0,0,0,,es para todo igual.
+Dialogue: 0,0:00:11.64,0:00:13.72,P18,,0,0,0,,Hay que esforzarse, romperse el
+Dialogue: 0,0:00:13.72,0:00:16.74,P18,,0,0,0,,culo, ser respetuoso tanto de los
+Dialogue: 0,0:00:16.74,0:00:18.98,P18,,0,0,0,,que te enseñan, como tus
+Dialogue: 0,0:00:18.98,0:00:21.08,P18,,0,0,0,,compañeros, como tus pares.
+Dialogue: 0,0:00:21.08,0:00:23.00,P18,,0,0,0,,Así que creo que esas son cosas
+Dialogue: 0,0:00:23.00,0:00:24.84,P18,,0,0,0,,que hoy por hoy se están perdiendo un
+Dialogue: 0,0:00:24.84,0:00:25.54,P18,,0,0,0,,poco.
+Dialogue: 0,0:00:26.68,0:00:28.54,P18,,0,0,0,,Y es una lástima, porque son las
+Dialogue: 0,0:00:28.54,0:00:30.64,P18,,0,0,0,,que te hacen llegar muy arriba.
+Dialogue: 0,0:00:31.06,0:00:32.90,P18,,0,0,0,,Así que no se bajoneen si
+Dialogue: 0,0:00:32.90,0:00:35.88,P18,,0,0,0,,no están jugando tan bien el
+Dialogue: 0,0:00:35.88,0:00:37.18,P18,,0,0,0,,básquet, si ven que esto no va a
+Dialogue: 0,0:00:37.18,0:00:38.34,P18,,0,0,0,,ser lo suyo.
+Dialogue: 0,0:00:38.34,0:00:39.14,P18,,0,0,0,,El hecho de jugar,
+Dialogue: 0,0:00:39.78,0:00:40.94,P18,,0,0,0,,de compartir un equipo y esas
+Dialogue: 0,0:00:40.94,0:00:43.46,P18,,0,0,0,,cosas te hace mejor persona.
+Dialogue: 0,0:00:43.46,0:00:44.88,P18,,0,0,0,,Te hace convivir, compartir cosas
+Dialogue: 0,0:00:44.88,0:00:46.08,P18,,0,0,0,,que de otra manera no lo harías.
+Dialogue: 0,0:00:46.74,0:00:48.44,P18,,0,0,0,,Y creo que es una gran escuela para
+Dialogue: 0,0:00:48.44,0:00:48.72,P18,,0,0,0,,todos.
+Dialogue: 0,0:00:48.72,0:00:50.10,P18,,0,0,0,,Así que si es con el básquet, bárbaro,
+Dialogue: 0,0:00:50.10,0:00:52.02,P18,,0,0,0,,si es con el estudio, igual de
+Dialogue: 0,0:00:52.02,0:00:53.06,P18,,0,0,0,,bien y en lo que sea.
+Dialogue: 0,0:00:53.06,0:00:56.18,P18,,0,0,0,,pónganle pasión, respeto y mátense
+Dialogue: 0,0:00:56.18,0:00:58.74,P18,,0,0,0,,por un objetivo, creo que es la
+Dialogue: 0,0:00:58.74,0:00:59.44,P18,,0,0,0,,forma de llegar.

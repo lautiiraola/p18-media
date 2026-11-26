@@ -1,0 +1,28 @@
+CLIP 02 — LA MAGIA PASA CUANDO SALÍS DE TU ZONA DE CONFORT
+
+Inicio:     13:59.2  (839.18 s)
+Fin:        14:47.9  (887.87 s)
+Duración:   48.7 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LA MAGIA PASA CUANDO SALÍS DE TU ZONA DE CONFORT   (en el reel, en lima: ZONA DE CONFORT)
+Departamento:     Crecimiento personal
+Área:             Mentalidad y adaptación
+Tema:             Animarse a lo incómodo
+Fuente:           Epifanía Podcast - Nicolás Aguzin — "Nació en la provincia más pobre, pero llegó a CEO de JPMorgan | Nicolás Aguzin"
+                  https://www.youtube.com/watch?v=eAWLBxLpKEE&t=839s
+
+Por qué lo elegí:
+Idea clara: cada vez que estaba cómodo (Formosa, Buenos Aires, su trabajo) apareció algo nuevo, y se animó. La magia ocurre cuando salís de la zona de confort. Le habla a quien está por dar un salto (mudarse, empezar a estudiar o trabajar).
+
+Gancho (primeros 3 s): Y eso genera unas oportunidades, si uno mantiene la mente abierta a esas nuevas experiencias
+
+Notas para la revisión: Nombra a JP Morgan y la bolsa de Hong Kong como lugares, no como logro de plata. El gancho arranca con "Y eso": si se siente cortado, revisar.
+
+Transcripción del clip:
+y eso genera unas oportunidades que si uno mantiene la mente abierta a esas nuevas experiencias y más importante, la mente abierta a sentirse incómodo porque muchas de estas partes yo estaba cómodo, obviamente estaba cómodo en Formosa cuando me tocó ir a Buenos Aires, estaba cómodo en Buenos Aires cuando estaba terminando la secundaria y cómodo cuando estaba manejando Latinoamérica y me tenía que ir a Asia y estaba cómodo en JP Morgan cuando se me presentó la oportunidad de manejar la bolsa de comercio de Hong Kong, pero ponernos un poquito en esa zona, fuera de la zona de confort, generalmente yo siempre digo que la magia ocurre cuando uno sale de fuera de la zona de confort.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - Epifanía Podcast - Nicolás Aguzin/02 - zona de confort.mp4" "LA MAGIA PASA CUANDO SALÍS DE TU *ZONA DE CONFORT*" --fuente "Epifanía Podcast - Nicolás Aguzin"
+
+Saturación aplicada al reel (regla 2026-11-23, sólo al video): eq=saturation=0.7 (media S 0.384, 23% px S>0.6)

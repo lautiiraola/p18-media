@@ -1,0 +1,45 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,582,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.26,P18,,0,0,0,,Mi mayor aprendizaje es que es muy
+Dialogue: 0,0:00:03.26,0:00:05.16,P18,,0,0,0,,importante hacer volumen y ser
+Dialogue: 0,0:00:05.16,0:00:05.86,P18,,0,0,0,,constante,
+Dialogue: 0,0:00:06.90,0:00:07.98,P18,,0,0,0,,ese es mi mayor aprendizaje.
+Dialogue: 0,0:00:07.98,0:00:09.50,P18,,0,0,0,,O sea, si te lo tengo que resumir,
+Dialogue: 0,0:00:09.50,0:00:11.12,P18,,0,0,0,,es volumen, gran cantidad,
+Dialogue: 0,0:00:11.58,0:00:13.60,P18,,0,0,0,,durante mucho tiempo, y a la larga
+Dialogue: 0,0:00:13.60,0:00:14.42,P18,,0,0,0,,salís a flote.
+Dialogue: 0,0:00:16.78,0:00:19.14,P18,,0,0,0,,Yo fui bastante, o sea,
+Dialogue: 0,0:00:19.14,0:00:20.80,P18,,0,0,0,,no fui pionero en la Argentina,
+Dialogue: 0,0:00:20.80,0:00:22.36,P18,,0,0,0,,pero en el método este de subir
+Dialogue: 0,0:00:22.36,0:00:23.76,P18,,0,0,0,,mucho volumen y darse a conocer
+Dialogue: 0,0:00:23.76,0:00:25.08,P18,,0,0,0,,por todos lados, fui,
+Dialogue: 0,0:00:26.02,0:00:27.20,P18,,0,0,0,,arranqué una especie de movimiento
+Dialogue: 0,0:00:27.20,0:00:28.52,P18,,0,0,0,,así de grabarse no más, medio
+Dialogue: 0,0:00:28.52,0:00:30.10,P18,,0,0,0,,orgánico. Y lo que me pasaba es
+Dialogue: 0,0:00:30.10,0:00:31.02,P18,,0,0,0,,que me escribía mucha gente y me
+Dialogue: 0,0:00:31.02,0:00:32.62,P18,,0,0,0,,decía estoy arrancando y yo veía
+Dialogue: 0,0:00:32.62,0:00:34.06,P18,,0,0,0,,que muchos desistían a los tres
+Dialogue: 0,0:00:34.06,0:00:35.72,P18,,0,0,0,,meses y los pocos que perduraron
+Dialogue: 0,0:00:35.72,0:00:36.98,P18,,0,0,0,,más de tres meses, porque yo los
+Dialogue: 0,0:00:36.98,0:00:38.62,P18,,0,0,0,,iba siguiendo, que me mandaban
+Dialogue: 0,0:00:38.62,0:00:40.00,P18,,0,0,0,,mirá cómo voy, mirá hoy metí un
+Dialogue: 0,0:00:40.00,0:00:40.90,P18,,0,0,0,,viral, mirá, mirá.
+Dialogue: 0,0:00:41.30,0:00:42.90,P18,,0,0,0,,Los que perduraban cuatro,
+Dialogue: 0,0:00:42.90,0:00:44.18,P18,,0,0,0,,cinco, seis, siete, en un momento
+Dialogue: 0,0:00:44.18,0:00:45.96,P18,,0,0,0,,despegaban y la curva es como
+Dialogue: 0,0:00:45.96,0:00:47.40,P18,,0,0,0,,exponencial, es como que cuesta
+Dialogue: 0,0:00:47.40,0:00:48.68,P18,,0,0,0,,arrancar y una vez que arrancás y
+Dialogue: 0,0:00:48.68,0:00:49.44,P18,,0,0,0,,te empezás a ir bien,
+Dialogue: 0,0:00:49.94,0:00:50.76,P18,,0,0,0,,no parás de subir.

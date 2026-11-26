@@ -1,0 +1,185 @@
+{
+ "carruseles": [
+  {
+   "id": "CARRUSEL_01",
+   "idea": "El coraje pesa más que saber o tener: animarse es la clave para no quedar como espectador.",
+   "slides": [
+    {
+     "tipo": "portada",
+     "foto": "carrusel/moni_238.jpg",
+     "focoY": 20,
+     "chip": "Crecimiento personal",
+     "titulo": "El mundo es de los *atrevidos*.",
+     "bajada": "Qué tendría que hacer un pibe de 18 en una mesa llena de emprendedores para no quedar como espectador. Responde Moni, de Escalera Digital."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/dupla_10.jpg",
+     "focoY": 22,
+     "etiqueta": "El mito",
+     "titulo": "Para hacerte lugar tenés que *saber* mucho o *tener* mucho.",
+     "texto": "Es lo que muchos sienten cuando están rodeados de gente con más experiencia. Moni lo ve distinto."
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/moni_167.jpg",
+     "focoY": 18,
+     "cita": "“El mundo no es de los que saben, el mundo no es de los que más tienen, el mundo es de los *atrevidos*.”",
+     "firma": "Moni · Escalera Digital"
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Lo que cambia",
+     "titulo": "No depende de dónde arrancás.",
+     "texto": "“Hay un montón de personas que nacieron de la nada, de no tener nada […] pero el *coraje* hizo que hoy estuvieran en otro lugar.”"
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Qué hacer",
+     "titulo": "Para no quedar como *espectador*:",
+     "lista": [
+      {
+       "n": "01",
+       "t": "Animate.",
+       "d": "“El coraje es la clave de todo.”"
+      },
+      {
+       "n": "02",
+       "t": "Sé curioso.",
+       "d": "“O sea, ser curioso, ser atrevido.”"
+      },
+      {
+       "n": "03",
+       "t": "Andá por lo que querés.",
+       "d": "“¿Querés algo? Andá y luchá por eso.”"
+      },
+      {
+       "n": "04",
+       "t": "Que un “no” no te frene.",
+       "d": "“No te quedes por la opinión de alguien que te diga que no.”"
+      }
+     ]
+    },
+    {
+     "tipo": "cierre",
+     "frase": "La vida es una sola y las posibilidades se dan a medida que las vas *buscando*.",
+     "pregunta": "¿Qué harías hoy si no tuvieras miedo de quedar como espectador?",
+     "accion": "Guardalo y mandáselo a alguien que lo necesite."
+    }
+   ]
+  },
+  {
+   "id": "CARRUSEL_02",
+   "idea": "Para un primer trabajo, lo técnico se aprende con tiempo; lo que se mira es la mentalidad.",
+   "slides": [
+    {
+     "tipo": "portada",
+     "foto": "carrusel/moni_50.jpg",
+     "focoY": 22,
+     "chip": "Trabajo y oportunidades",
+     "titulo": "Lo técnico es cuestión de *tiempo*.",
+     "bajada": "Qué le mira Moni, de Escalera Digital, a un pibe de 18 sin experiencia que busca su primer laburo."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/dupla_10.jpg",
+     "focoY": 22,
+     "etiqueta": "El mito",
+     "titulo": "Sin experiencia *nadie* te va a contratar.",
+     "texto": "Es la traba más común del primer laburo. Pero para quien contrata, la experiencia no es lo primero que mira."
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/moni_26.jpg",
+     "focoY": 16,
+     "cita": "“Lo más importante es la *mentalidad*. Todo lo que vos puedas aprender sobre lo técnico de algo es solo cuestión de tiempo.”",
+     "firma": "Moni · Escalera Digital"
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Lo que sí se mira",
+     "titulo": "Lo más difícil de aprender:",
+     "lista": [
+      {
+       "n": "01",
+       "t": "La mentalidad."
+      },
+      {
+       "n": "02",
+       "t": "El compromiso."
+      },
+      {
+       "n": "03",
+       "t": "Las ganas de superarte."
+      },
+      {
+       "n": "04",
+       "t": "Querer aprender lo que no sabés."
+      }
+     ]
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/moni_238.jpg",
+     "focoY": 20,
+     "cita": "“Lo que más me fijo es alguien que tenga esas ganas de desarrollarse, esa curiosidad, esa *inquietud* por hacer más cosas de las que saben.”",
+     "firma": "Moni · Escalera Digital"
+    },
+    {
+     "tipo": "cierre",
+     "frase": "La experiencia llega con el *tiempo*. Las ganas de aprender las traés vos.",
+     "pregunta": "¿Cuál de estas cuatro ya tenés? ¿Cuál querés entrenar?",
+     "accion": "Guardalo para tu próxima entrevista."
+    }
+   ]
+  },
+  {
+   "id": "CARRUSEL_03",
+   "idea": "Con 18, cero capital y una compu, el primer paso no es la plata: es saber qué te apasiona y ordenarlo.",
+   "slides": [
+    {
+     "tipo": "portada",
+     "foto": "carrusel/moni_167.jpg",
+     "focoY": 18,
+     "chip": "Ideas, proyectos y ventas",
+     "titulo": "18 años, cero capital y una *compu*.",
+     "bajada": "Le preguntamos a Moni, de Escalera Digital, qué haría. Este es su paso a paso."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/moni_26.jpg",
+     "focoY": 16,
+     "etiqueta": "Paso 1",
+     "titulo": "Pensá cuál es tu *pasión*.",
+     "texto": "En qué sos bueno, qué cosas te gustan, qué es lo que te atrae, con qué te sentís cómodo."
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Paso 2",
+     "titulo": "¿De qué podrías *charlar* horas?",
+     "texto": "Eso sobre lo que te podés sentar con alguien un montón de tiempo a contarle tus ideas. Ahí hay una pista."
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Paso 3",
+     "titulo": "Ordenalo con *inteligencia artificial*.",
+     "texto": "Estructuralo, llevalo a la IA y preguntale qué negocio podés hacer con eso y cómo armarlo."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/moni_50.jpg",
+     "focoY": 18,
+     "etiqueta": "Paso 4",
+     "titulo": "Buscá a alguien que te *ayude*.",
+     "texto": "Si no sabés cómo desarrollarlo, no hace falta hacerlo solo: buscá a alguien que te pueda ayudar."
+    },
+    {
+     "tipo": "cierre",
+     "frase": "“Convertir eso que me *apasiona* en un negocio.”",
+     "pregunta": "¿Cuál sería tu paso 1?",
+     "accion": "Contalo en los comentarios y guardalo para cuando arranques."
+    }
+   ]
+  }
+ ]
+}

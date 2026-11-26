@@ -1,0 +1,53 @@
+# P18 Stories — Reference Pack para Claude
+
+Este archivo es la lista breve que debe adjuntarse a cualquier sesión de dirección o construcción del sistema.
+
+## Objetivo
+
+Replicar la **gramática de montaje** de Noticias Explicadas para contar historias reales de superación con voz en off, fotografías, video, documentos y archivo auténtico. Aplicar la identidad cromática y comunicacional de Proyecto 18.
+
+## Referencias verificadas
+
+1. [Estudiante detenido por ICE](https://www.instagram.com/noticiasexplicadas/reel/DgHaJS7DiZt/) — contradicción en 0–4 s.
+2. [Satélite nuclear ruso](https://www.instagram.com/noticiasexplicadas/reel/DgHoOTDmVL0/) — consecuencia reconocible en 0–8 s.
+3. [BepiColombo llega a Mercurio](https://www.instagram.com/noticiasexplicadas/reel/DgGxAUlFG00/) — trayectoria y comparación.
+4. [Permiso por nacimiento](https://www.instagram.com/noticiasexplicadas/reel/DgH12m7gJc-/) — cifras convertidas en bloques y etapas.
+5. [Hipótesis de Riemann e IA](https://www.instagram.com/noticiasexplicadas/reel/DgF7DtMDUKe/) — abstracciones convertidas en acciones visuales.
+6. [Debate a ocho](https://www.instagram.com/noticiasexplicadas/reel/DgGo7F7E46x/) — una metáfora rectora.
+7. [Plus Ultra](https://www.instagram.com/noticiasexplicadas/reel/DgGHyAWnLyf/) — cifra, conflicto y consecuencia.
+
+## Imitar
+
+- hook en menos de tres segundos;
+- progresión causa → decisión → consecuencia;
+- cambio semántico visual cada 1,5–3 segundos;
+- subtítulos breves con una palabra activa;
+- datos y fechas espacializados;
+- continuidad mediante objetos y composiciones;
+- cierre rápido, sin outro larga.
+
+## No imitar
+
+- avatares;
+- personajes ilustrados;
+- fondos y gradientes de la cuenta;
+- paleta cromática;
+- assets propios;
+- duración rígida;
+- lenguaje de actualidad periodística.
+
+## Sustitución P18
+
+- personajes animados → archivo real del protagonista;
+- ilustración total → fotografía, video, documento y motion graphics;
+- colores de referencia → verde profundo, lima, papel y azul P18;
+- explicación de noticia → historia humana verificable;
+- conclusión informativa → pregunta o idea que permanece.
+
+## Prohibición central
+
+No generar, recrear ni alterar visualmente a una persona real para cubrir la falta de material. Si falta archivo, declarar la limitación y utilizar una metáfora abstracta claramente no documental.
+
+## Referencia visual P18
+
+Además de estudiar los Reels originales, Claude debe revisar la galería `p18-stories-dyson-frame-reference/index.html`. Sus diez frames demuestran cómo traducir esa gramática a una historia humana con archivo real y colores P18.

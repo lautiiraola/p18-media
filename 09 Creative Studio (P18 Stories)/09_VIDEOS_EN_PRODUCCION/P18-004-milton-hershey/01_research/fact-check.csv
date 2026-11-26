@@ -1,0 +1,12 @@
+claim_id,claim_text,claim_type,source_1,source_2,status,notes
+C01,"Su primera dulcería, en Filadelfia, quebró",fact,S03,S04,verified,"Abrió en 1876; la quiebra se fecha 1882 en varias fuentes. El guion no da el año."
+C02,"Volvió a Lancaster y se hizo rico con caramelos",fact,S03,S02,verified,"Vuelve 1883; Lancaster Caramel Company 1886; S02 describe los caramelos como el origen de su fortuna."
+C03,"En 1893, en Chicago, vio máquinas alemanas de hacer chocolate y las compró",fact,S02,S05,verified,"Exhibición de J. M. Lehmann (Dresde) en la Exposición Colombina; compró las máquinas de la exhibición y las mandó a Lancaster."
+C04,"«Los caramelos son una moda. El chocolate es permanente.»",quote,S02,,verified_attributed,"Traducción de 'Caramels are a fad but chocolate is permanent.' Atribuida por el Archivo Hershey (dicha a Frank Snavely, 1893). No hay grabación: en pantalla va con 'según el Archivo Hershey'."
+C05,"En 1900 vendió la fábrica de caramelos",fact,S01,S03,verified,"Acordada en primavera, cerrada el 10/08/1900."
+C06,"por un millón de dólares",figure,S01,,verified,"US$1.000.000 en efectivo (rechazó 900.000 + 100.000 en acciones)."
+C07,"y se quedó con el chocolate",fact,S01,,verified,"Conservó la Hershey Chocolate Company y toda la maquinaria de chocolate; alquiló un ala de la fábrica vendida."
+C08,"Ese año salió su primera barra",fact,S03,S04,verified,"'By the end of 1900 he had sold his very first Hershey bar' (S03)."
+C09,"En 1905 abrió su propia fábrica; el pueblo que creció alrededor hoy se llama Hershey",fact,S03,S06,verified,"Fábrica terminada en 1905 (S03); Derry Church renombrado Hershey en 1906 (S06)."
+X01,"La fábrica de caramelos tenía 1.300 empleados",figure,S04,,not_used,"Sólo en Wikipedia, sin confirmar en el archivo: no se usa."
+X02,"Fecha exacta de cierre de la dulcería de Filadelfia",date,,,not_used,"Las fuentes difieren (1882 o ~6 años): no se dice."

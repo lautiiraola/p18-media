@@ -1,0 +1,19 @@
+DIRECCIÓN DE VOZ — P18-003-steve-jobs
+Texto: 02_script/voiceover-final.txt (99 palabras; objetivo unos 40–41 s de voz; con el cierre, máximo 50 s)
+Voz del estudio: ElevenLabs "Brian - Warm, Smooth, Confident" (pvc, stability 50, similarity 75, v4). La misma de P18-001 y P18-002.
+Entrega: 09_VIDEOS_EN_PRODUCCION/P18-003-steve-jobs/03_voiceover/inbox
+
+INTENCIÓN: narrador sobrio que cuenta una ironía. Nada de épica ni de tono de coach.
+RITMO: natural, velocidad 1.0. NO acelerar. Si el audio pasa los 46 s, se recorta texto.
+EVOLUCIÓN: pregunta incrédula (hook) → seco (la caída) → levanta (NeXT/Pixar) → grave (Apple se hunde) → pausa y giro ("lo fue a buscar") → se abre (vuelve a ganar plata) → cálido (su frase) → cercano (pregunta final).
+PAUSAS CLAVE: después de la primera pregunta; antes de "lo fue a buscar"; antes de la pregunta final. ElevenLabs las deja en unos 0,5 s; las pausas dramáticas se hacen en la edición.
+ÉNFASIS: echar · fundaste · treinta · él mismo · afuera · hundía · buscar · plata · mejor · afuera.
+
+PRONUNCIACIÓN
+  Steve Jobs → "Stiv Yobs" (inglés). Si dice "Jobs" como en español ("Jobs" con j), regenerar.
+  Apple      → "Ápel".
+  NeXT       → "Next" (inglés). Si lo deletrea, probar escribiendo "Next".
+  Pixar      → "Píxar".
+SIGNOS: las comillas «» marcan sus palabras. Si la voz cambia de forma rara, probar sin comillas, pero NO cambiar ninguna palabra.
+
+AL RECIBIRLA voy a verificar: duración, formato, sample rate, canales, clipping y diferencias de palabras con voiceover-final.txt (whisper local).

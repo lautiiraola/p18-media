@@ -1,0 +1,25 @@
+DIRECCIÓN DEL VIDEO — P18-002-marcos-galperin — "19 de 20"
+Producción autónoma, por instrucción del operador ("trabajá libremente").
+Reloj: voz aprobada de 46,76 s; video de 47,79 s con 1 s de cierre. Formato 9:16, 1080x1920, 60 fps.
+
+Metáfora rectora:
+La grilla de 20 personas (19 con NO y 1 con SÍ) abre el video. Al cierre, "19 de 20 dijeron que no" vuelve sobre la escala actual (la camioneta).
+
+Escenas (los tiempos están en 06_remotion/p18-002.props.json):
+S01 0,0–5,0     20 personas → 19 de 20 dijeron NO (grilla). Texto en pantalla desde el cuadro 0.
+S03 5,0–11,7    Stanford desde el aire (2009) → navegador de época que escribe la URL de Mercado Libre.
+S04 11,7–16,2   La objeción como cita tipográfica sobre papel.
+S05 16,2–24,0   Galperin real (WEF 2017) más su frase sincronizada; subrayado en "la oportunidad".
+S06 24,0–26,6   Buenos Aires, 1999 (Puerto Madero, dominio público).
+S07 26,6–28,7   Gráfico real del Nasdaq: se revela y marca 1999 (nace) y 2000 (explota).
+S08 28,7–32,9   Votación "¿Cerrar la empresa?": la barra se frena en "CASI" (representación gráfica).
+S10 32,9–35,6   7 años: barras parejas hasta el equilibrio de 2006 (sin escala).
+S11 35,6–41,4   Nasdaq Times Square (septiembre de 2007) → diapositiva "Nuestra historia" de Mercado Libre, con zoom a NASDAQ.
+S12 41,4–44,0   Camioneta de Mercado Libre hoy y "19 de 20 dijeron que no".
+S13 44,0–47,8   Pregunta final sobre papel y firma P18.
+
+Sonido: cama a unos -20 dB bajo la voz. Impacto suave en "Diecinueve" (hook), riser hacia "Casi lo logran" y pop en Nasdaq. Uso medido.
+Decisiones:
+- Sin pausas insertadas: la voz queda intacta.
+- Sin material CC BY-SA ni con derechos sin licencia.
+- No se usó el prospecto de la SEC: el sitio exige declarar un contacto para descargas automáticas y no se usan datos del operador.

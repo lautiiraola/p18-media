@@ -1,0 +1,673 @@
+{
+ "idioma": "es",
+ "duracion": 48.69,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.68,
+   "fin": 10.76,
+   "texto": "y eso genera unas oportunidades que si uno mantiene la mente abierta a esas nuevas experiencias y más",
+   "palabras": [
+    {
+     "ini": 0.68,
+     "fin": 1.24,
+     "p": "y"
+    },
+    {
+     "ini": 1.24,
+     "fin": 1.8,
+     "p": "eso"
+    },
+    {
+     "ini": 1.8,
+     "fin": 2.62,
+     "p": "genera"
+    },
+    {
+     "ini": 2.62,
+     "fin": 3.46,
+     "p": "unas"
+    },
+    {
+     "ini": 3.46,
+     "fin": 4.6,
+     "p": "oportunidades"
+    },
+    {
+     "ini": 4.6,
+     "fin": 5.56,
+     "p": "que"
+    },
+    {
+     "ini": 5.56,
+     "fin": 5.76,
+     "p": "si"
+    },
+    {
+     "ini": 5.76,
+     "fin": 5.94,
+     "p": "uno"
+    },
+    {
+     "ini": 5.94,
+     "fin": 6.44,
+     "p": "mantiene"
+    },
+    {
+     "ini": 6.44,
+     "fin": 6.68,
+     "p": "la"
+    },
+    {
+     "ini": 6.68,
+     "fin": 7.2,
+     "p": "mente"
+    },
+    {
+     "ini": 7.2,
+     "fin": 8.14,
+     "p": "abierta"
+    },
+    {
+     "ini": 8.14,
+     "fin": 8.46,
+     "p": "a"
+    },
+    {
+     "ini": 8.46,
+     "fin": 8.92,
+     "p": "esas"
+    },
+    {
+     "ini": 8.92,
+     "fin": 9.4,
+     "p": "nuevas"
+    },
+    {
+     "ini": 9.4,
+     "fin": 9.96,
+     "p": "experiencias"
+    },
+    {
+     "ini": 9.96,
+     "fin": 10.16,
+     "p": "y"
+    },
+    {
+     "ini": 10.16,
+     "fin": 10.76,
+     "p": "más"
+    }
+   ]
+  },
+  {
+   "ini": 10.76,
+   "fin": 18.02,
+   "texto": "importante la mente abierta a sentirse incómodo porque muchas muchas de estas partes yo estaba",
+   "palabras": [
+    {
+     "ini": 10.76,
+     "fin": 11.58,
+     "p": "importante"
+    },
+    {
+     "ini": 11.58,
+     "fin": 14.22,
+     "p": "la"
+    },
+    {
+     "ini": 14.22,
+     "fin": 14.48,
+     "p": "mente"
+    },
+    {
+     "ini": 14.48,
+     "fin": 14.94,
+     "p": "abierta"
+    },
+    {
+     "ini": 14.94,
+     "fin": 15.14,
+     "p": "a"
+    },
+    {
+     "ini": 15.14,
+     "fin": 15.52,
+     "p": "sentirse"
+    },
+    {
+     "ini": 15.52,
+     "fin": 15.98,
+     "p": "incómodo"
+    },
+    {
+     "ini": 15.98,
+     "fin": 16.26,
+     "p": "porque"
+    },
+    {
+     "ini": 16.26,
+     "fin": 16.96,
+     "p": "muchas"
+    },
+    {
+     "ini": 16.96,
+     "fin": 17.14,
+     "p": "muchas"
+    },
+    {
+     "ini": 17.14,
+     "fin": 17.24,
+     "p": "de"
+    },
+    {
+     "ini": 17.24,
+     "fin": 17.38,
+     "p": "estas"
+    },
+    {
+     "ini": 17.38,
+     "fin": 17.62,
+     "p": "partes"
+    },
+    {
+     "ini": 17.62,
+     "fin": 17.84,
+     "p": "yo"
+    },
+    {
+     "ini": 17.84,
+     "fin": 18.02,
+     "p": "estaba"
+    }
+   ]
+  },
+  {
+   "ini": 18.02,
+   "fin": 22.86,
+   "texto": "cómodo, obviamente estaba cómodo en Formosa cuando me tocó ir a Buenos Aires, estaba cómodo en",
+   "palabras": [
+    {
+     "ini": 18.02,
+     "fin": 18.96,
+     "p": "cómodo,"
+    },
+    {
+     "ini": 19.24,
+     "fin": 19.4,
+     "p": "obviamente"
+    },
+    {
+     "ini": 19.4,
+     "fin": 19.72,
+     "p": "estaba"
+    },
+    {
+     "ini": 19.72,
+     "fin": 20.34,
+     "p": "cómodo"
+    },
+    {
+     "ini": 20.34,
+     "fin": 20.54,
+     "p": "en"
+    },
+    {
+     "ini": 20.54,
+     "fin": 20.8,
+     "p": "Formosa"
+    },
+    {
+     "ini": 20.8,
+     "fin": 21.0,
+     "p": "cuando"
+    },
+    {
+     "ini": 21.0,
+     "fin": 21.18,
+     "p": "me"
+    },
+    {
+     "ini": 21.18,
+     "fin": 21.36,
+     "p": "tocó"
+    },
+    {
+     "ini": 21.36,
+     "fin": 21.44,
+     "p": "ir"
+    },
+    {
+     "ini": 21.44,
+     "fin": 21.58,
+     "p": "a"
+    },
+    {
+     "ini": 21.58,
+     "fin": 21.8,
+     "p": "Buenos"
+    },
+    {
+     "ini": 21.8,
+     "fin": 22.08,
+     "p": "Aires,"
+    },
+    {
+     "ini": 22.26,
+     "fin": 22.4,
+     "p": "estaba"
+    },
+    {
+     "ini": 22.4,
+     "fin": 22.7,
+     "p": "cómodo"
+    },
+    {
+     "ini": 22.7,
+     "fin": 22.86,
+     "p": "en"
+    }
+   ]
+  },
+  {
+   "ini": 22.86,
+   "fin": 28.5,
+   "texto": "Buenos Aires cuando estaba terminando la secundaria y estaba cómodo cuando estaba",
+   "palabras": [
+    {
+     "ini": 22.86,
+     "fin": 23.1,
+     "p": "Buenos"
+    },
+    {
+     "ini": 23.1,
+     "fin": 23.38,
+     "p": "Aires"
+    },
+    {
+     "ini": 23.38,
+     "fin": 24.14,
+     "p": "cuando"
+    },
+    {
+     "ini": 24.14,
+     "fin": 24.4,
+     "p": "estaba"
+    },
+    {
+     "ini": 24.4,
+     "fin": 24.96,
+     "p": "terminando"
+    },
+    {
+     "ini": 24.96,
+     "fin": 25.4,
+     "p": "la"
+    },
+    {
+     "ini": 25.4,
+     "fin": 26.3,
+     "p": "secundaria"
+    },
+    {
+     "ini": 26.3,
+     "fin": 27.34,
+     "p": "y"
+    },
+    {
+     "ini": 27.34,
+     "fin": 27.58,
+     "p": "estaba"
+    },
+    {
+     "ini": 27.58,
+     "fin": 28.02,
+     "p": "cómodo"
+    },
+    {
+     "ini": 28.02,
+     "fin": 28.22,
+     "p": "cuando"
+    },
+    {
+     "ini": 28.22,
+     "fin": 28.5,
+     "p": "estaba"
+    }
+   ]
+  },
+  {
+   "ini": 28.5,
+   "fin": 35.56,
+   "texto": "manejando Latinoamérica y me tenía que ir a Asia y estaba cómodo en JP Morgan cuando se me presentó",
+   "palabras": [
+    {
+     "ini": 28.5,
+     "fin": 29.02,
+     "p": "manejando"
+    },
+    {
+     "ini": 29.02,
+     "fin": 29.9,
+     "p": "Latinoamérica"
+    },
+    {
+     "ini": 29.9,
+     "fin": 31.28,
+     "p": "y"
+    },
+    {
+     "ini": 31.28,
+     "fin": 31.46,
+     "p": "me"
+    },
+    {
+     "ini": 31.46,
+     "fin": 31.64,
+     "p": "tenía"
+    },
+    {
+     "ini": 31.64,
+     "fin": 31.78,
+     "p": "que"
+    },
+    {
+     "ini": 31.78,
+     "fin": 31.94,
+     "p": "ir"
+    },
+    {
+     "ini": 31.94,
+     "fin": 32.02,
+     "p": "a"
+    },
+    {
+     "ini": 32.02,
+     "fin": 32.18,
+     "p": "Asia"
+    },
+    {
+     "ini": 32.18,
+     "fin": 32.42,
+     "p": "y"
+    },
+    {
+     "ini": 32.42,
+     "fin": 32.6,
+     "p": "estaba"
+    },
+    {
+     "ini": 32.6,
+     "fin": 33.02,
+     "p": "cómodo"
+    },
+    {
+     "ini": 33.02,
+     "fin": 33.12,
+     "p": "en"
+    },
+    {
+     "ini": 33.12,
+     "fin": 33.36,
+     "p": "JP"
+    },
+    {
+     "ini": 33.36,
+     "fin": 33.68,
+     "p": "Morgan"
+    },
+    {
+     "ini": 33.68,
+     "fin": 34.16,
+     "p": "cuando"
+    },
+    {
+     "ini": 34.16,
+     "fin": 35.04,
+     "p": "se"
+    },
+    {
+     "ini": 35.04,
+     "fin": 35.26,
+     "p": "me"
+    },
+    {
+     "ini": 35.26,
+     "fin": 35.56,
+     "p": "presentó"
+    }
+   ]
+  },
+  {
+   "ini": 35.56,
+   "fin": 41.14,
+   "texto": "la oportunidad de manejar la bolsa de comercio de Hong Kong, pero ponernos un poquito en esa zona",
+   "palabras": [
+    {
+     "ini": 35.56,
+     "fin": 35.66,
+     "p": "la"
+    },
+    {
+     "ini": 35.66,
+     "fin": 36.18,
+     "p": "oportunidad"
+    },
+    {
+     "ini": 36.18,
+     "fin": 36.48,
+     "p": "de"
+    },
+    {
+     "ini": 36.48,
+     "fin": 36.86,
+     "p": "manejar"
+    },
+    {
+     "ini": 36.86,
+     "fin": 37.0,
+     "p": "la"
+    },
+    {
+     "ini": 37.0,
+     "fin": 37.22,
+     "p": "bolsa"
+    },
+    {
+     "ini": 37.22,
+     "fin": 37.36,
+     "p": "de"
+    },
+    {
+     "ini": 37.36,
+     "fin": 37.68,
+     "p": "comercio"
+    },
+    {
+     "ini": 37.68,
+     "fin": 37.78,
+     "p": "de"
+    },
+    {
+     "ini": 37.78,
+     "fin": 38.0,
+     "p": "Hong"
+    },
+    {
+     "ini": 38.0,
+     "fin": 38.44,
+     "p": "Kong,"
+    },
+    {
+     "ini": 38.78,
+     "fin": 38.94,
+     "p": "pero"
+    },
+    {
+     "ini": 38.94,
+     "fin": 39.42,
+     "p": "ponernos"
+    },
+    {
+     "ini": 39.42,
+     "fin": 39.62,
+     "p": "un"
+    },
+    {
+     "ini": 39.62,
+     "fin": 39.96,
+     "p": "poquito"
+    },
+    {
+     "ini": 39.96,
+     "fin": 40.34,
+     "p": "en"
+    },
+    {
+     "ini": 40.34,
+     "fin": 40.62,
+     "p": "esa"
+    },
+    {
+     "ini": 40.62,
+     "fin": 41.14,
+     "p": "zona"
+    }
+   ]
+  },
+  {
+   "ini": 41.14,
+   "fin": 46.52,
+   "texto": "fuera de la zona de confort, generalmente yo siempre digo que la magia ocurre cuando uno sale",
+   "palabras": [
+    {
+     "ini": 41.14,
+     "fin": 41.92,
+     "p": "fuera"
+    },
+    {
+     "ini": 41.92,
+     "fin": 42.06,
+     "p": "de"
+    },
+    {
+     "ini": 42.06,
+     "fin": 42.18,
+     "p": "la"
+    },
+    {
+     "ini": 42.18,
+     "fin": 42.38,
+     "p": "zona"
+    },
+    {
+     "ini": 42.38,
+     "fin": 42.62,
+     "p": "de"
+    },
+    {
+     "ini": 42.62,
+     "fin": 43.14,
+     "p": "confort,"
+    },
+    {
+     "ini": 43.72,
+     "fin": 44.1,
+     "p": "generalmente"
+    },
+    {
+     "ini": 44.1,
+     "fin": 44.36,
+     "p": "yo"
+    },
+    {
+     "ini": 44.36,
+     "fin": 44.6,
+     "p": "siempre"
+    },
+    {
+     "ini": 44.6,
+     "fin": 44.74,
+     "p": "digo"
+    },
+    {
+     "ini": 44.74,
+     "fin": 44.94,
+     "p": "que"
+    },
+    {
+     "ini": 44.94,
+     "fin": 45.1,
+     "p": "la"
+    },
+    {
+     "ini": 45.1,
+     "fin": 45.4,
+     "p": "magia"
+    },
+    {
+     "ini": 45.4,
+     "fin": 45.72,
+     "p": "ocurre"
+    },
+    {
+     "ini": 45.72,
+     "fin": 45.92,
+     "p": "cuando"
+    },
+    {
+     "ini": 45.92,
+     "fin": 46.12,
+     "p": "uno"
+    },
+    {
+     "ini": 46.12,
+     "fin": 46.52,
+     "p": "sale"
+    }
+   ]
+  },
+  {
+   "ini": 46.52,
+   "fin": 48.16,
+   "texto": "de fuera de la zona de confort.",
+   "palabras": [
+    {
+     "ini": 46.52,
+     "fin": 46.92,
+     "p": "de"
+    },
+    {
+     "ini": 46.92,
+     "fin": 47.1,
+     "p": "fuera"
+    },
+    {
+     "ini": 47.1,
+     "fin": 47.26,
+     "p": "de"
+    },
+    {
+     "ini": 47.26,
+     "fin": 47.36,
+     "p": "la"
+    },
+    {
+     "ini": 47.36,
+     "fin": 47.56,
+     "p": "zona"
+    },
+    {
+     "ini": 47.56,
+     "fin": 47.8,
+     "p": "de"
+    },
+    {
+     "ini": 47.8,
+     "fin": 48.16,
+     "p": "confort."
+    }
+   ]
+  }
+ ]
+}

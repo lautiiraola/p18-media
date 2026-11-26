@@ -1,0 +1,48 @@
+{
+ "fecha": "2026-11-17",
+ "revisado": {
+  "grilla_version": 17,
+  "fecha_hora": "2026-11-16"
+ },
+ "items": [
+  {
+   "id": "17-reel1-subs",
+   "pieza": "Reel 1 · Toni Nadal - aceptar la realidad",
+   "tipo": "subtitulos",
+   "clip_id": "lclo55crx9c2guqjudry-05",
+   "slot": 0,
+   "problema": "Nombres propios mal escritos en pantalla: 'jojkovic', 'Siner' y 'nike' (Djokovic, Sinner, Nike).",
+   "correccion": "'jojkovic' → 'Djokovic'; 'Siner' → 'Sinner'; 'nike' → 'Nike' (subs.json de '2026-11-14 Toni Nadal - aceptar la realidad'; re-render con los mismos parámetros y rehacer la historia de repost si usa ese video)",
+   "estado": "ok",
+   "ronda": 1,
+   "nota_revisor": "",
+   "nota_preparador": "Subs.json corregido (Djokovic, Sinner, Nike) y reel re-renderizado con los mismos parametros (sin args.json: deducidos del crudo; resalte FALLA, fuente Nude Project). Nuevo: 04 Instagram/Reels listos para subir/2026-11-14 Toni Nadal - aceptar la realidad.mp4 (original archivado en 99 Archivo/Correcciones/2026-11-17). Historia repost 01 rehecha. Carpeta del dia rearmada."
+  },
+  {
+   "id": "17-reel1-justdoit",
+   "pieza": "Reel 1 · Toni Nadal - aceptar la realidad (subtítulo ~14-16 s)",
+   "tipo": "subtitulos",
+   "clip_id": "lclo55crx9c2guqjudry-05",
+   "slot": 0,
+   "problema": "Subtítulo 'es el jazz duet o lo que nos' (Whisper): Toni dice 'Just do it'. Se ve en pantalla y no tiene sentido.",
+   "correccion": "'es el jazz duet o lo que nos' → 'es el Just do it o lo que nos' (subs.json frase 14.26-16.66; re-render)",
+   "estado": "ok",
+   "ronda": 2,
+   "nota_revisor": "Verificado el pedido 17-reel1-subs: Djokovic/Sinner/Nike OK en subs.json y reel; historia 01 coherente. Detectado este error nuevo en la última vuelta: pasa a persona. Título FALLA vs HACERLO MAL: no importa.",
+   "nota_preparador": "2026-11-16: la persona aprobó la corrección; 'jazz duet' → 'Just do it', reel re-renderizado con args.json (mismo nombre de archivo) e historia repost 01 rehecha. Viejos en 99 Archivo/Correcciones/2026-11-17."
+  },
+  {
+   "id": "17-carrusel-palabra",
+   "pieza": "Carrusel 07 · Autenticidad (30X)",
+   "tipo": "carrusel",
+   "clip_id": "yrevauqvzff4oe2ko1iy-01",
+   "slot": 6,
+   "problema": "En el video se dice 'cagamos', 'cagada' y 'caga' (el subtítulo las muestra con asteriscos).",
+   "correccion": "Ninguna: la persona decidió el 2026-11-16 dejarlo como está (audio y subtítulos originales). No volver a marcarlo.",
+   "estado": "ok",
+   "ronda": 1,
+   "nota_revisor": "",
+   "nota_preparador": ""
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+Origen de las skills (instaladas 2026-11-24 a pedido del operador):
+- viral-hooks-formulas: https://github.com/rediumvex/viral-hooks-skill (commit e26b339, MIT). Renombrada de 'viral-hooks' para no chocar con la de Vyral.
+- viral-hooks, viral-short-form, viral-instagram-reels, viral-tiktok-content, viral-youtube-shorts, viral-captions-and-ctas, viral-short-form-ideas: https://github.com/vyralcontent/content-skills (commit 349e495, MIT).
+Revisadas antes de instalar: solo markdown/HTML, sin scripts ejecutables.

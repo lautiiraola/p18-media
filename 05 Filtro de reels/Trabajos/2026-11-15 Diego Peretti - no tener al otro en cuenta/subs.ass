@@ -1,0 +1,33 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1074,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,613,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.02,0:00:02.26,P18,,0,0,0,,Me da vergüenza
+Dialogue: 0,0:00:02.26,0:00:05.36,P18,,0,0,0,,la desubicación, sobre todo,
+Dialogue: 0,0:00:06.08,0:00:07.56,P18,,0,0,0,,de algunas personas,
+Dialogue: 0,0:00:08.82,0:00:11.04,P18,,0,0,0,,la impunidad de no tener al otro
+Dialogue: 0,0:00:11.04,0:00:14.38,P18,,0,0,0,,en cuenta cuando se dice algo o se
+Dialogue: 0,0:00:14.38,0:00:15.70,P18,,0,0,0,,acciona de alguna manera,
+Dialogue: 0,0:00:16.34,0:00:18.06,P18,,0,0,0,,esa cosa muy egoísta.
+Dialogue: 0,0:00:21.02,0:00:22.72,P18,,0,0,0,,Y a veces las personas eso lo
+Dialogue: 0,0:00:22.72,0:00:24.24,P18,,0,0,0,,hacen sin intencionalidad,
+Dialogue: 0,0:00:24.24,0:00:26.94,P18,,0,0,0,,pero cuando lo veo en alguna
+Dialogue: 0,0:00:26.94,0:00:29.32,P18,,0,0,0,,situación me provoca vergüenza
+Dialogue: 0,0:00:29.32,0:00:30.72,P18,,0,0,0,,ajena, vergüenza propia,
+Dialogue: 0,0:00:31.22,0:00:33.66,P18,,0,0,0,,cuando caigo en una situación así
+Dialogue: 0,0:00:33.66,0:00:35.68,P18,,0,0,0,,y no me doy cuenta.
+Dialogue: 0,0:00:41.02,0:00:42.84,P18,,0,0,0,,Mucha impunidad en no tener en
+Dialogue: 0,0:00:42.84,0:00:44.42,P18,,0,0,0,,cuenta al otro, en cualquier
+Dialogue: 0,0:00:44.42,0:00:46.34,P18,,0,0,0,,situación eso me da, me causa
+Dialogue: 0,0:00:46.34,0:00:49.00,P18,,0,0,0,,vergüenza ajena y propia cuando me
+Dialogue: 0,0:00:49.00,0:00:49.70,P18,,0,0,0,,ocurre.

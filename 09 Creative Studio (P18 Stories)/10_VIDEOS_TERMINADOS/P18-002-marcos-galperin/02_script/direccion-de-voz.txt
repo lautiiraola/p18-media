@@ -1,0 +1,26 @@
+DIRECCIÓN DE VOZ — P18-002-marcos-galperin
+Texto: 02_script/voiceover-final.txt (112 palabras; objetivo unos 46 s, máximo 50 s)
+Voz de referencia del estudio: ElevenLabs "Brian - Warm, Smooth, Confident" (pvc, stability 50, similarity 75, v4). Mantenerla para que la serie sea consistente.
+Entrega: 09_VIDEOS_EN_PRODUCCION/P18-002-marcos-galperin/03_voiceover/inbox
+
+INTENCIÓN: narrador cercano y sobrio que cuenta algo que lo impresiona. Más inspirador que P18-001, pero sin tono de coach ni épica.
+RITMO: natural, velocidad 1.0. NO acelerar. Si el audio pasa los 50 s, se recorta texto.
+EVOLUCIÓN: seco (hook) → narrativo (contexto) → escéptico (objeción) → cálido y firme (su frase) → tenso (crisis) → sobrio (costo) → se abre (Nasdaq) → cercano (pregunta final).
+PAUSAS CLAVE:
+- después de "Veinte personas.";
+- después de "Casi lo logran.";
+- antes de la pregunta final.
+ÉNFASIS: no · Stanford · vio / tocó · oportunidad · cocheras · cerrarla · siete · Nasdaq · caso.
+
+PRONUNCIACIÓN
+  Marcos Galperin → "Márcos Galperín" (acento en la última, como se lo nombra en Argentina). Si ElevenLabs lo dice grave ("Galpérin"), regenerar.
+  Stanford        → "Stánford" (inglés).
+  Nasdaq          → "Násdak".
+  online          → "onláin".
+  noventa y nueve → se refiere a 1999. Escrito así a propósito, porque suena natural en rioplatense.
+  dos mil siete   → 2007.
+
+CIFRAS: todas van escritas en palabras ("veinte", "diecinueve", "siete", "dos mil siete").
+SIGNOS: las comillas «» marcan la cita de Galperin. Si la voz cambia de forma rara, probar sin comillas, pero NO cambiar ninguna palabra.
+
+AL RECIBIRLA voy a verificar: duración (tiene que quedar entre 30 y 50 s), formato, sample rate, canales, clipping y diferencias de palabras con voiceover-final.txt.

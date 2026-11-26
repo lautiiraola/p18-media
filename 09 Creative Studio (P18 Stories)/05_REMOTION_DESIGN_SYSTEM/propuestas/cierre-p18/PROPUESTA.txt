@@ -1,0 +1,51 @@
+PROPUESTA DE CIERRE FIJO — P18 STORIES
+"El número que se vuelve 18"
+Estado: PROPUESTA (2026-11-24). Todavía no se aplicó a los videos archivados.
+
+IDEA
+Cada historia P18 tiene un número que la resume: 5.127 prototipos (Dyson), 19 de 20 que dijeron que no (Galperin).
+En el cierre, ese número gira como un odómetro y cae en 18. Es la edad en la que P18 trabaja y su propia idea institucional: "Los 18 son un punto de quiebre, no un límite."
+La historia de otro termina convertida en el punto de partida del espectador, sin decirle "vos también podés".
+
+POR QUÉ NO ES GENÉRICO
+- Cambia en cada video: el número de origen y su etiqueta salen de la historia ("19 · dijeron que no", "5127 · prototipos").
+- Es reconocible como serie: el gesto del odómetro que cae en 18 es siempre el mismo y queda asociado a P18.
+- Explica quién es P18 en una línea: "Proyecto 18 · Talleres gratuitos para jóvenes".
+- Da dos acciones concretas, una por objetivo:
+  · SEGUÍ LAS HISTORIAS → @proyecto18.ar (seguir la cuenta)
+  · CONOCÉ LOS TALLERES → proyecto18.com (conocer la fundación)
+- Respeta las reglas de la marca: sin moraleja, sin "vos también podés", firma P18 sin fondo, lima solo como acento y subrayado, Manrope.
+
+SECUENCIA (3,0 s, sin voz; la voz queda intacta)
+0,00–0,95  El número de la historia, con su etiqueta en clay, gira como odómetro. Ticks suaves.
+0,95–1,15  Cae en 18. La etiqueta cambia a "AÑOS" y se dibuja una línea lima debajo. Pop.
+0,90–1,70  "Los 18 son un punto de quiebre, no un límite." Subrayado lima en "punto de quiebre".
+1,45–1,85  Firma: P18 (lima) + "PROYECTO 18 · TALLERES GRATUITOS PARA JÓVENES".
+1,70–2,30  "SEGUÍ LAS HISTORIAS @proyecto18.ar" / "CONOCÉ LOS TALLERES proyecto18.com".
+2,30–3,00  Plano completo quieto para leer. La cama musical cierra.
+Todo queda en la mitad superior y el centro: el borde inferior queda libre para la interfaz de Reels/TikTok.
+
+IMPACTO EN LA DURACIÓN (regla de 30–50 s)
+- El cierre ocupa 3,0 s y reemplaza el segundo de cola actual.
+- P18-002 con cierre: 49,85 s (entra).
+- Para los próximos videos, la voz tiene que terminar antes de los 46,9 s, o sea unas 108 palabras de guion como máximo (hoy el tope es 115).
+- P18-001 (Dyson) ya excede la regla (2:01); el cierre lo lleva a 2:03,4.
+
+PREVIEWS (los últimos 8–9 s de cada video, con el cierre)
+- preview-cierre-P18-002-galperin.mp4
+- preview-cierre-P18-001-dyson.mp4
+Los props de prueba están en esta carpeta. Los videos archivados no se tocaron.
+
+IMPLEMENTACIÓN
+- Componente: 05_REMOTION_DESIGN_SYSTEM/runtime/src/components/Outro.tsx (P18Outro). Tipo de escena: "outro".
+- Por video solo cambian dos campos: fromNumber ("19", "5127") y fromLabel ("dijeron que no", "prototipos").
+- Fijos: handle @proyecto18.ar · web proyecto18.com · tagline "Talleres gratuitos para jóvenes".
+
+SI SE APRUEBA
+1. Agregarlo a P18-001 y P18-002 como master v02, sin pisar los v01.
+2. Fijarlo en CLAUDE.txt, story-format.txt, la plantilla, el checklist y la memoria como cierre obligatorio.
+3. Bajar el tope del guion a 108 palabras.
+
+PARA VERIFICAR ANTES DE FIJARLO
+- Que "talleres gratuitos para jóvenes" siga siendo la descripción vigente (sale de brand-research.txt, observado en proyecto18.com).
+- Que @proyecto18.ar y proyecto18.com sean los canales que P18 quiere comunicar.

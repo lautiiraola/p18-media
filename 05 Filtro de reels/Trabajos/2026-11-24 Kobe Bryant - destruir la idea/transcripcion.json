@@ -1,0 +1,703 @@
+{
+ "idioma": "en",
+ "duracion": 36.6,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 2.82,
+   "texto": "What I try to do is shoot the idea down",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.4,
+     "p": "What"
+    },
+    {
+     "ini": 0.4,
+     "fin": 0.54,
+     "p": "I"
+    },
+    {
+     "ini": 0.54,
+     "fin": 0.68,
+     "p": "try"
+    },
+    {
+     "ini": 0.68,
+     "fin": 0.84,
+     "p": "to"
+    },
+    {
+     "ini": 0.84,
+     "fin": 0.92,
+     "p": "do"
+    },
+    {
+     "ini": 0.92,
+     "fin": 1.08,
+     "p": "is"
+    },
+    {
+     "ini": 1.08,
+     "fin": 1.28,
+     "p": "shoot"
+    },
+    {
+     "ini": 1.28,
+     "fin": 1.52,
+     "p": "the"
+    },
+    {
+     "ini": 1.52,
+     "fin": 1.8,
+     "p": "idea"
+    },
+    {
+     "ini": 1.8,
+     "fin": 2.82,
+     "p": "down"
+    }
+   ]
+  },
+  {
+   "ini": 2.82,
+   "fin": 5.18,
+   "texto": "and figure out everything that's wrong with the idea.",
+   "palabras": [
+    {
+     "ini": 2.82,
+     "fin": 3.38,
+     "p": "and"
+    },
+    {
+     "ini": 3.38,
+     "fin": 3.5,
+     "p": "figure"
+    },
+    {
+     "ini": 3.5,
+     "fin": 3.72,
+     "p": "out"
+    },
+    {
+     "ini": 3.72,
+     "fin": 4.0,
+     "p": "everything"
+    },
+    {
+     "ini": 4.0,
+     "fin": 4.32,
+     "p": "that's"
+    },
+    {
+     "ini": 4.32,
+     "fin": 4.52,
+     "p": "wrong"
+    },
+    {
+     "ini": 4.52,
+     "fin": 4.72,
+     "p": "with"
+    },
+    {
+     "ini": 4.72,
+     "fin": 4.9,
+     "p": "the"
+    },
+    {
+     "ini": 4.9,
+     "fin": 5.18,
+     "p": "idea."
+    }
+   ]
+  },
+  {
+   "ini": 5.26,
+   "fin": 5.78,
+   "texto": "Ooh, okay.",
+   "palabras": [
+    {
+     "ini": 5.26,
+     "fin": 5.44,
+     "p": "Ooh,"
+    },
+    {
+     "ini": 5.48,
+     "fin": 5.78,
+     "p": "okay."
+    }
+   ]
+  },
+  {
+   "ini": 6.04,
+   "fin": 8.46,
+   "texto": "This show won't work because,",
+   "palabras": [
+    {
+     "ini": 6.04,
+     "fin": 6.44,
+     "p": "This"
+    },
+    {
+     "ini": 6.44,
+     "fin": 6.82,
+     "p": "show"
+    },
+    {
+     "ini": 6.82,
+     "fin": 7.26,
+     "p": "won't"
+    },
+    {
+     "ini": 7.26,
+     "fin": 7.68,
+     "p": "work"
+    },
+    {
+     "ini": 7.68,
+     "fin": 8.46,
+     "p": "because,"
+    }
+   ]
+  },
+  {
+   "ini": 8.78,
+   "fin": 9.44,
+   "texto": "like detail for example,",
+   "palabras": [
+    {
+     "ini": 8.78,
+     "fin": 8.86,
+     "p": "like"
+    },
+    {
+     "ini": 8.86,
+     "fin": 9.08,
+     "p": "detail"
+    },
+    {
+     "ini": 9.08,
+     "fin": 9.28,
+     "p": "for"
+    },
+    {
+     "ini": 9.28,
+     "fin": 9.44,
+     "p": "example,"
+    }
+   ]
+  },
+  {
+   "ini": 9.58,
+   "fin": 12.6,
+   "texto": "this show won't work because it's not for fans.",
+   "palabras": [
+    {
+     "ini": 9.58,
+     "fin": 9.78,
+     "p": "this"
+    },
+    {
+     "ini": 9.78,
+     "fin": 10.06,
+     "p": "show"
+    },
+    {
+     "ini": 10.06,
+     "fin": 10.28,
+     "p": "won't"
+    },
+    {
+     "ini": 10.28,
+     "fin": 10.58,
+     "p": "work"
+    },
+    {
+     "ini": 10.58,
+     "fin": 10.9,
+     "p": "because"
+    },
+    {
+     "ini": 10.9,
+     "fin": 11.18,
+     "p": "it's"
+    },
+    {
+     "ini": 11.18,
+     "fin": 11.44,
+     "p": "not"
+    },
+    {
+     "ini": 11.44,
+     "fin": 12.14,
+     "p": "for"
+    },
+    {
+     "ini": 12.14,
+     "fin": 12.6,
+     "p": "fans."
+    }
+   ]
+  },
+  {
+   "ini": 13.26,
+   "fin": 14.94,
+   "texto": "It's for the 1% athlete.",
+   "palabras": [
+    {
+     "ini": 13.26,
+     "fin": 13.66,
+     "p": "It's"
+    },
+    {
+     "ini": 13.66,
+     "fin": 13.8,
+     "p": "for"
+    },
+    {
+     "ini": 13.8,
+     "fin": 13.98,
+     "p": "the"
+    },
+    {
+     "ini": 13.98,
+     "fin": 14.18,
+     "p": "1"
+    },
+    {
+     "ini": 14.18,
+     "fin": 14.52,
+     "p": "%"
+    },
+    {
+     "ini": 14.52,
+     "fin": 14.94,
+     "p": "athlete."
+    }
+   ]
+  },
+  {
+   "ini": 15.06,
+   "fin": 15.26,
+   "texto": "Yeah.",
+   "palabras": [
+    {
+     "ini": 15.06,
+     "fin": 15.26,
+     "p": "Yeah."
+    }
+   ]
+  },
+  {
+   "ini": 15.64,
+   "fin": 17.96,
+   "texto": "All right, well, will it be successful?",
+   "palabras": [
+    {
+     "ini": 15.64,
+     "fin": 15.8,
+     "p": "All"
+    },
+    {
+     "ini": 15.8,
+     "fin": 16.06,
+     "p": "right,"
+    },
+    {
+     "ini": 16.32,
+     "fin": 16.74,
+     "p": "well,"
+    },
+    {
+     "ini": 16.74,
+     "fin": 17.2,
+     "p": "will"
+    },
+    {
+     "ini": 17.2,
+     "fin": 17.3,
+     "p": "it"
+    },
+    {
+     "ini": 17.3,
+     "fin": 17.5,
+     "p": "be"
+    },
+    {
+     "ini": 17.5,
+     "fin": 17.96,
+     "p": "successful?"
+    }
+   ]
+  },
+  {
+   "ini": 18.04,
+   "fin": 19.02,
+   "texto": "People connect to it.",
+   "palabras": [
+    {
+     "ini": 18.04,
+     "fin": 18.24,
+     "p": "People"
+    },
+    {
+     "ini": 18.24,
+     "fin": 18.66,
+     "p": "connect"
+    },
+    {
+     "ini": 18.66,
+     "fin": 18.9,
+     "p": "to"
+    },
+    {
+     "ini": 18.9,
+     "fin": 19.02,
+     "p": "it."
+    }
+   ]
+  },
+  {
+   "ini": 19.16,
+   "fin": 20.94,
+   "texto": "You start unpacking every little thing.",
+   "palabras": [
+    {
+     "ini": 19.16,
+     "fin": 19.5,
+     "p": "You"
+    },
+    {
+     "ini": 19.5,
+     "fin": 19.8,
+     "p": "start"
+    },
+    {
+     "ini": 19.8,
+     "fin": 20.42,
+     "p": "unpacking"
+    },
+    {
+     "ini": 20.42,
+     "fin": 20.62,
+     "p": "every"
+    },
+    {
+     "ini": 20.62,
+     "fin": 20.8,
+     "p": "little"
+    },
+    {
+     "ini": 20.8,
+     "fin": 20.94,
+     "p": "thing."
+    }
+   ]
+  },
+  {
+   "ini": 20.96,
+   "fin": 21.8,
+   "texto": "How will we shoot it?",
+   "palabras": [
+    {
+     "ini": 20.96,
+     "fin": 21.12,
+     "p": "How"
+    },
+    {
+     "ini": 21.12,
+     "fin": 21.28,
+     "p": "will"
+    },
+    {
+     "ini": 21.28,
+     "fin": 21.52,
+     "p": "we"
+    },
+    {
+     "ini": 21.52,
+     "fin": 21.7,
+     "p": "shoot"
+    },
+    {
+     "ini": 21.7,
+     "fin": 21.8,
+     "p": "it?"
+    }
+   ]
+  },
+  {
+   "ini": 21.82,
+   "fin": 23.48,
+   "texto": "Can I even get Peyton Manning to do it?",
+   "palabras": [
+    {
+     "ini": 21.82,
+     "fin": 21.96,
+     "p": "Can"
+    },
+    {
+     "ini": 21.96,
+     "fin": 22.02,
+     "p": "I"
+    },
+    {
+     "ini": 22.02,
+     "fin": 22.36,
+     "p": "even"
+    },
+    {
+     "ini": 22.36,
+     "fin": 22.64,
+     "p": "get"
+    },
+    {
+     "ini": 22.64,
+     "fin": 22.92,
+     "p": "Peyton"
+    },
+    {
+     "ini": 22.92,
+     "fin": 23.08,
+     "p": "Manning"
+    },
+    {
+     "ini": 23.08,
+     "fin": 23.28,
+     "p": "to"
+    },
+    {
+     "ini": 23.28,
+     "fin": 23.4,
+     "p": "do"
+    },
+    {
+     "ini": 23.4,
+     "fin": 23.48,
+     "p": "it?"
+    }
+   ]
+  },
+  {
+   "ini": 23.5,
+   "fin": 25.44,
+   "texto": "Could I get, you know?",
+   "palabras": [
+    {
+     "ini": 23.5,
+     "fin": 23.58,
+     "p": "Could"
+    },
+    {
+     "ini": 23.58,
+     "fin": 23.86,
+     "p": "I"
+    },
+    {
+     "ini": 23.86,
+     "fin": 24.16,
+     "p": "get,"
+    },
+    {
+     "ini": 24.54,
+     "fin": 25.44,
+     "p": "you"
+    },
+    {
+     "ini": 25.44,
+     "fin": 25.44,
+     "p": "know?"
+    }
+   ]
+  },
+  {
+   "ini": 25.46,
+   "fin": 26.84,
+   "texto": "And you start shooting them down.",
+   "palabras": [
+    {
+     "ini": 25.46,
+     "fin": 25.86,
+     "p": "And"
+    },
+    {
+     "ini": 25.86,
+     "fin": 26.1,
+     "p": "you"
+    },
+    {
+     "ini": 26.1,
+     "fin": 26.28,
+     "p": "start"
+    },
+    {
+     "ini": 26.28,
+     "fin": 26.46,
+     "p": "shooting"
+    },
+    {
+     "ini": 26.46,
+     "fin": 26.68,
+     "p": "them"
+    },
+    {
+     "ini": 26.68,
+     "fin": 26.84,
+     "p": "down."
+    }
+   ]
+  },
+  {
+   "ini": 26.9,
+   "fin": 27.76,
+   "texto": "Same thing with the novels,",
+   "palabras": [
+    {
+     "ini": 26.9,
+     "fin": 27.06,
+     "p": "Same"
+    },
+    {
+     "ini": 27.06,
+     "fin": 27.16,
+     "p": "thing"
+    },
+    {
+     "ini": 27.16,
+     "fin": 27.3,
+     "p": "with"
+    },
+    {
+     "ini": 27.3,
+     "fin": 27.46,
+     "p": "the"
+    },
+    {
+     "ini": 27.46,
+     "fin": 27.76,
+     "p": "novels,"
+    }
+   ]
+  },
+  {
+   "ini": 27.94,
+   "fin": 29.64,
+   "texto": "like characters and plots and stories.",
+   "palabras": [
+    {
+     "ini": 27.94,
+     "fin": 28.24,
+     "p": "like"
+    },
+    {
+     "ini": 28.24,
+     "fin": 28.5,
+     "p": "characters"
+    },
+    {
+     "ini": 28.5,
+     "fin": 28.8,
+     "p": "and"
+    },
+    {
+     "ini": 28.8,
+     "fin": 29.04,
+     "p": "plots"
+    },
+    {
+     "ini": 29.04,
+     "fin": 29.32,
+     "p": "and"
+    },
+    {
+     "ini": 29.32,
+     "fin": 29.64,
+     "p": "stories."
+    }
+   ]
+  },
+  {
+   "ini": 29.64,
+   "fin": 36.44,
+   "texto": "does this make any sense? No, here's why. I felt like that really helps me.",
+   "palabras": [
+    {
+     "ini": 29.64,
+     "fin": 30.0,
+     "p": "does"
+    },
+    {
+     "ini": 30.0,
+     "fin": 30.18,
+     "p": "this"
+    },
+    {
+     "ini": 30.18,
+     "fin": 30.38,
+     "p": "make"
+    },
+    {
+     "ini": 30.38,
+     "fin": 30.56,
+     "p": "any"
+    },
+    {
+     "ini": 30.56,
+     "fin": 30.98,
+     "p": "sense?"
+    },
+    {
+     "ini": 31.26,
+     "fin": 31.44,
+     "p": "No,"
+    },
+    {
+     "ini": 31.62,
+     "fin": 31.9,
+     "p": "here's"
+    },
+    {
+     "ini": 31.9,
+     "fin": 32.08,
+     "p": "why."
+    },
+    {
+     "ini": 34.18,
+     "fin": 34.7,
+     "p": "I"
+    },
+    {
+     "ini": 34.7,
+     "fin": 35.24,
+     "p": "felt"
+    },
+    {
+     "ini": 35.24,
+     "fin": 35.5,
+     "p": "like"
+    },
+    {
+     "ini": 35.5,
+     "fin": 35.7,
+     "p": "that"
+    },
+    {
+     "ini": 35.7,
+     "fin": 35.9,
+     "p": "really"
+    },
+    {
+     "ini": 35.9,
+     "fin": 36.18,
+     "p": "helps"
+    },
+    {
+     "ini": 36.18,
+     "fin": 36.44,
+     "p": "me."
+    }
+   ]
+  }
+ ]
+}

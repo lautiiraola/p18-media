@@ -1,0 +1,37 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,902,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,441,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.60,P18,,0,0,0,,A veces la vida te va a pegar
+Dialogue: 0,0:00:01.60,0:00:02.36,P18,,0,0,0,,un ladrillazo en la cabeza.
+Dialogue: 0,0:00:02.98,0:00:03.92,P18,,0,0,0,,No pierdas la fe.
+Dialogue: 0,0:00:04.84,0:00:06.08,P18,,0,0,0,,Estoy convencido de que lo único
+Dialogue: 0,0:00:06.08,0:00:07.64,P18,,0,0,0,,que me hizo seguir fue que
+Dialogue: 0,0:00:07.64,0:00:08.42,P18,,0,0,0,,amaba lo que hacía.
+Dialogue: 0,0:00:08.94,0:00:10.92,P18,,0,0,0,,Tenés que encontrar lo que amás.
+Dialogue: 0,0:00:10.92,0:00:13.00,P18,,0,0,0,,Y eso vale para el trabajo
+Dialogue: 0,0:00:13.00,0:00:13.82,P18,,0,0,0,,tanto como para el amor.
+Dialogue: 0,0:00:14.80,0:00:16.24,P18,,0,0,0,,Tu trabajo va a ocupar una gran
+Dialogue: 0,0:00:16.24,0:00:17.76,P18,,0,0,0,,parte de tu vida, y la única
+Dialogue: 0,0:00:17.76,0:00:19.80,P18,,0,0,0,,forma de estar satisfecho es hacer
+Dialogue: 0,0:00:19.80,0:00:21.66,P18,,0,0,0,,lo que creés que es un gran trabajo.
+Dialogue: 0,0:00:21.66,0:00:23.44,P18,,0,0,0,,Y la única forma de hacer un gran trabajo
+Dialogue: 0,0:00:23.44,0:00:25.14,P18,,0,0,0,,es amar lo que hacés.
+Dialogue: 0,0:00:25.78,0:00:27.10,P18,,0,0,0,,Si todavía no lo encontraste,
+Dialogue: 0,0:00:27.10,0:00:29.58,P18,,0,0,0,,seguí buscando. No te conformes.
+Dialogue: 0,0:00:30.44,0:00:31.90,P18,,0,0,0,,Como con todo lo del corazón,
+Dialogue: 0,0:00:32.28,0:00:34.14,P18,,0,0,0,,te vas a dar cuenta cuando lo encuentres.
+Dialogue: 0,0:00:34.14,0:00:35.88,P18,,0,0,0,,Y como toda gran relación,
+Dialogue: 0,0:00:35.88,0:00:37.66,P18,,0,0,0,,se pone cada vez mejor
+Dialogue: 0,0:00:37.66,0:00:38.86,P18,,0,0,0,,con los años.
+Dialogue: 0,0:00:38.86,0:00:41.10,P18,,0,0,0,,Así que seguí buscando. No te conformes.

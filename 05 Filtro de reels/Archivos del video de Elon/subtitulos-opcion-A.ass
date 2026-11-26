@@ -1,0 +1,42 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,50,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,110,110,972,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.02,0:00:03.14,P18,,0,0,0,,Me parece poco probable que los humanos
+Dialogue: 0,0:00:03.14,0:00:08.68,P18,,0,0,0,,sigamos teniendo el control si hay
+Dialogue: 0,0:00:09.59,0:00:12.23,P18,,0,0,0,,un millón de veces más
+Dialogue: 0,0:00:12.31,0:00:15.29,P18,,0,0,0,,inteligencia digital que biológica.
+Dialogue: 0,0:00:15.29,0:00:18.67,P18,,0,0,0,,Es difícil imaginar a los humanos al mando en ese escenario.
+Dialogue: 0,0:00:19.77,0:00:21.93,P18,,0,0,0,,Así que espero que la IA sea buena con nosotros.
+Dialogue: 0,0:00:22.47,0:00:24.75,P18,,0,0,0,,¿Hay algo que podamos hacer para que eso pase?
+Dialogue: 0,0:00:26.88,0:00:30.50,P18,,0,0,0,,Creo que programarla para buscar la verdad
+Dialogue: 0,0:00:30.50,0:00:34.87,P18,,0,0,0,,y tener curiosidad probablemente sea bueno.
+Dialogue: 0,0:00:34.87,0:00:37.63,P18,,0,0,0,,Supongo que hay que tener cuidado
+Dialogue: 0,0:00:37.63,0:00:41.11,P18,,0,0,0,,con crear demasiados escenarios
+Dialogue: 0,0:00:41.11,0:00:43.91,P18,,0,0,0,,distópicos de IA en internet, porque
+Dialogue: 0,0:00:43.91,0:00:47.05,P18,,0,0,0,,las IA se entrenan con todo lo que hay en internet.
+Dialogue: 0,0:00:47.15,0:00:50.77,P18,,0,0,0,,¿O sea que si decimos que va a ser distópica, lo va a ser?
+Dialogue: 0,0:00:50.77,0:00:52.25,P18,,0,0,0,,Tendría que ser Terminator,
+Dialogue: 0,0:00:52.49,0:00:57.49,P18,,0,0,0,,porque leyeron 80 versiones del guion de Terminator.
+Dialogue: 0,0:00:58.29,0:01:02.23,P18,,0,0,0,,Es como: "supongo que ese soy yo, Terminator".
+Dialogue: 0,0:01:02.91,0:01:09.15,P18,,0,0,0,,Quizás deberíamos tener más historias utópicas sobre la IA.
+Dialogue: 0,0:01:09.85,0:01:11.95,P18,,0,0,0,,Así puede pensar: "bueno, quizás no debería ser Terminator".
+Dialogue: 0,0:01:11.95,0:01:14.29,P18,,0,0,0,,"Quizás puedo ser un supervisor amigable",
+Dialogue: 0,0:01:14.29,0:01:18.59,P18,,0,0,0,,o algo así, como un jardinero.
+Dialogue: 0,0:01:18.59,0:01:25.15,P18,,0,0,0,,No sé, algo como tratar de hacer feliz a la gente.
+Dialogue: 0,0:01:25.15,0:01:28.95,P18,,0,0,0,,Una amiga tiene una idea que llama "protopía", porque lo utópico
+Dialogue: 0,0:01:29.21,0:01:33.01,P18,,0,0,0,,suele representar una meta idealista e imposible.
+Dialogue: 0,0:01:33.41,0:01:37.35,P18,,0,0,0,,Y casi siempre, al intentar crear una utopía, creás una distopía.
+Dialogue: 0,0:01:37.35,0:01:39.43,P18,,0,0,0,,Así suele terminar la historia.
+Dialogue: 0,0:01:39.43,0:01:46.39,P18,,0,0,0,,Entonces ella dice que tiene que ser una protopía: un futuro alcanzable.
+Dialogue: 0,0:01:47.15,0:01:50.21,P18,,0,0,0,,O sea, no es perfecto, pero es bueno.
+Dialogue: 0,0:01:50.45,0:01:53.15,P18,,0,0,0,,Algo que, si pudieras mirar el futuro,
+Dialogue: 0,0:01:53.15,0:01:55.39,P18,,0,0,0,,dirías: "sí, ese sería un buen futuro".

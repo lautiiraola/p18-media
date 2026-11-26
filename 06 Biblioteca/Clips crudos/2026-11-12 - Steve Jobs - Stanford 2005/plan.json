@@ -1,0 +1,30 @@
+{
+ "clips": [
+  {
+   "n": 1,
+   "ini": 298.2,
+   "fin": 334.5,
+   "titulo": "LOS PUNTOS SE *CONECTAN* MIRANDO PARA *ATRÁS*",
+   "departamento": "Crecimiento personal",
+   "area": "Autoconocimiento",
+   "tema": "Seguir la curiosidad",
+   "slug": "conectar los puntos",
+   "gancho": "Era imposible conectar los puntos mirando para adelante.",
+   "porque": "Para alguien de 17-19 que no sabe qué hacer: lo que hoy parece no servir (para Jobs, un curso de caligrafía) puede tener sentido más adelante. Confiar y seguir lo que te interesa.",
+   "notas": "En inglés: va traducido. Crédito a Stanford University."
+  },
+  {
+   "n": 2,
+   "ini": 492.9,
+   "fin": 536.9,
+   "titulo": "SI TODAVÍA NO LO ENCONTRASTE, *SEGUÍ BUSCANDO*",
+   "departamento": "Crecimiento personal",
+   "area": "Autoconocimiento",
+   "tema": "Hacer lo que te gusta",
+   "slug": "segui buscando",
+   "gancho": "A veces la vida te pega un ladrillazo en la cabeza.",
+   "porque": "Después de que lo echaran de su propia empresa: no perder la fe, buscar lo que amás hacer y no conformarte. Mensaje claro para quien está eligiendo qué estudiar o en qué trabajar.",
+   "notas": "En inglés: va traducido. Crédito a Stanford University."
+  }
+ ]
+}

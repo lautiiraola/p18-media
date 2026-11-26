@@ -1,0 +1,98 @@
+{
+ "clips": [
+  {
+   "n": 1,
+   "ranges": [
+    {
+     "ini": 20.78,
+     "fin": 68.66
+    }
+   ],
+   "titulo": "El mundo cambia muy *rápido*: ¿por dónde arrancar?",
+   "departamento": "Crecimiento personal",
+   "area": "Mentalidad y adaptación",
+   "tema": "Arrancar en un mundo que cambia",
+   "gancho": "Chicos, esto es así. El mundo está cambiando muy, muy rápido.",
+   "porque": "Gancho directo a cámara y un mensaje claro para alguien de 18: el formato viejo de estudiar y quedarse 20 años en una empresa no existe más; hay que moverse rápido, conocer gente y buscar algo que te apasione tanto que te quedes pensando hasta las 3 de la mañana.",
+   "source": "tom/video_final.mp4",
+   "fuente": "Tom · Café IA",
+   "slug": "Arrancar en un mundo que cambia",
+   "def": [
+    {
+     "bloques": "r1a-r1d"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "ranges": [
+    {
+     "ini": 87.24,
+     "fin": 132.76
+    }
+   ],
+   "titulo": "¿Querés aprender IA? Invitá un *café* a quien ya la usa",
+   "departamento": "Crear y comunicar",
+   "area": "Vínculos y comunicación",
+   "tema": "Aprender de otros",
+   "gancho": "Primero, vean los que ya lo están usando. Pregúntenles.",
+   "porque": "Desarma un miedo común (que la gente que sabe no comparte) con su experiencia: a la gente le encanta contar lo que hace. Cierra con una idea accionable: la IA es una habilidad que se practica.",
+   "source": "tom/video_final.mp4",
+   "fuente": "Tom · Café IA",
+   "slug": "Aprender de otros",
+   "def": [
+    {
+     "bloques": "r2a-r2b"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "ranges": [
+    {
+     "ini": 141.78,
+     "fin": 199.12
+    }
+   ],
+   "titulo": "Al contratarte miran si sabés *adaptarte*",
+   "departamento": "Finanzas y trabajo",
+   "area": "Trabajo y oportunidades",
+   "tema": "Adaptación y pensar fuera de la caja",
+   "gancho": "La capacidad de adaptarse, la flexibilidad y la capacidad de salir de su zona de confort.",
+   "porque": "Dos ejemplos concretos (animarse a hablar en público, pensar qué afecta un precio sin saber del tema) muestran qué se evalúa en alguien sin experiencia: flexibilidad y pensar rápido, no un conocimiento específico.",
+   "notas": "Dura 57 s, cerca del máximo.",
+   "source": "tom/video_final.mp4",
+   "fuente": "Tom · Café IA",
+   "slug": "Adaptación y pensar fuera de la caja",
+   "def": [
+    {
+     "bloques": "r3a-r3b"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "ranges": [
+    {
+     "ini": 260.64,
+     "fin": 314.26
+    }
+   ],
+   "titulo": "La *confianza* también es un activo",
+   "departamento": "Finanzas y trabajo",
+   "area": "Finanzas personales",
+   "tema": "Qué vale cuando la IA resuelve problemas",
+   "gancho": "Antes se pagaba a la gente que sabía resolver los problemas.",
+   "porque": "Plantea un cambio de época fácil de entender (hoy la IA resuelve problemas) y propone construir activos: marca personal, emprendimiento, confianza. Cierra con una advertencia útil contra las promesas de rendimientos rápidos.",
+   "notas": "Habla de inversión sin recomendar productos ni prometer ganancias: advierte que nadie se hace rico de un día para otro.",
+   "source": "tom/video_final.mp4",
+   "fuente": "Tom · Café IA",
+   "slug": "Qué vale cuando la IA resuelve problemas",
+   "def": [
+    {
+     "bloques": "r5a-r5b"
+    }
+   ]
+  }
+ ]
+}

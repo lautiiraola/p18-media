@@ -1,0 +1,30 @@
+{
+ "clips": [
+  {
+   "ini": 1111.72,
+   "fin": 1168.9,
+   "titulo": "¿LA VIDA QUE ESTÁS ARMANDO ES LA QUE *QUERÉS*?",
+   "departamento": "Crecimiento personal",
+   "area": "Autoconocimiento",
+   "tema": "Diseñar una vida que te encante",
+   "slug": "una vida que te encante",
+   "gancho": "Una de las cosas que tenemos que tratar de garantizar es diseñar una vida que nos encante.",
+   "porque": "Habla directo a alguien de 17-19 que está tomando sus primeras decisiones grandes: pensá qué te gusta, decidí hacia ahí y revisá si vas bien, porque lo que elegís hoy te cambia los próximos años. Aclara él mismo que 'no es económico'. Idea completa y sin contexto.",
+   "notas": "Arranca justo en 'una de las cosas…' y termina antes de la pregunta del entrevistador.",
+   "n": 2
+  },
+  {
+   "ini": 6482.1,
+   "fin": 6532.6,
+   "titulo": "USAR LA *IA* SÓLO PARA PREGUNTAR ES TENER UN *IPHONE* Y USARLO DE NOKIA",
+   "departamento": "Crear y comunicar",
+   "area": "Inteligencia artificial",
+   "tema": "Aprender a usar la IA de verdad",
+   "slug": "ia nokia vs iphone",
+   "gancho": "Imagínate que tú tengas el Nokia de la culebrita…",
+   "porque": "Analogía simple y graciosa (Nokia de la culebrita vs. iPhone) para invitar a aprender IA a fondo y probarla uno mismo, no sólo preguntarle cosas al chat. Útil para chicos que recién la usan.",
+   "notas": "Dice 'esta tecnología' al principio: el título aclara que es la IA. Menciona 'montar tus propios robots' (agentes); se entiende.",
+   "n": 5
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+Valentín (2026-11-24): le gusta la música de fondo de P18-001 y P18-002, pero "siempre está ese sonidito de fondo". Quiere que vaya rotando y probando otras camas y sonidos para que no sea repetitivo. Aclaró que "igualmente está perfecto".
+
+POR QUÉ: en una serie, la misma cama en todos los videos se vuelve repetitiva y resta frescura.
+
+CÓMO SE APLICA:
+- No usar `cama_p18.wav` en dos videos seguidos. Elegir o crear una cama distinta para cada video, acorde a su tono, y registrar en la bitácora cuál se usó.
+- Fuentes válidas, siempre con licencia clara y registrada en `06_BIBLIOTECA_COMPARTIDA/licenses/asset-registry.csv`:
+  - música CC0, dominio público o CC BY (Wikimedia Commons, Free Music Archive, Kevin MacLeod CC BY);
+  - camas originales sintetizadas por el estudio.
+  - Nunca CC BY-SA ni música con derechos.
+- También variar los SFX (whoosh, ticks): no repetir siempre el mismo set.
+- Llevar en la biblioteca un registro de "última cama usada" para rotar.
+- Relacionado: p18-autonomia, p18-process-log.

@@ -1,0 +1,1311 @@
+# La mente detrás de Rafael Nadal, Toni Nadal — Nude Project - Toni Nadal
+# idioma: es · duración: 1:27:33.6 · texto: faster-whisper medium
+# formato: [inicio – fin] (segundos para plan.json) texto
+
+[00:00.2 – 00:09.2] (0.2–9.2) Rafael es, probablemente, el único jugador de la historia que acabó su carrera sin romper nunca una raqueta.
+[00:11.5 – 00:15.7] (11.5–15.7) El talento se construye en la calma, el carácter se construye en la tempestad.
+[00:16.2 – 00:18.8] (16.2–18.8) Mi tío, ¿qué es la razón por la que empecé a jugar a tenis?
+[00:19.1 – 00:24.0] (19.1–24.0) Con tres años, tú empezaste a entrenar a Rafa. A un chaval de tres años tú le puedes ver y decir,
+[00:24.1 – 00:26.2] (24.1–26.2) oye, este chaval es el futuro del mundo.
+[00:26.2 – 00:30.4] (26.2–30.4) No. Cuando Rafael venía a entrenar de pequeño, yo le decía, lo primero, buena cara.
+[00:30.6 – 00:35.9] (30.6–35.9) Si no eres capaz de derrotar a tu rival, al menos no le ayudes a que te derrote.
+[00:38.7 – 00:41.6] (38.7–41.6) El mejor partido de la historia del tenis.
+[00:41.8 – 00:43.4] (41.8–43.4) Nathan Leeds, Chiquén Ciro.
+[00:44.1 – 00:47.3] (44.1–47.3) En el quinto set, me creía que Rafael estaría afectado.
+[00:47.5 – 00:50.5] (47.5–50.5) Levantó la cabeza y me dijo, tranquilo, que yo no voy a perder.
+[00:50.9 – 00:54.9] (50.9–54.9) A lo mejor Federer me va a ganar, pero yo no perderé.
+[01:09.1 – 01:13.6] (69.1–73.6) ¿Cómo calibrabas la exigencia y el afecto que le tenías?
+[01:13.7 – 01:15.3] (73.7–75.3) A ver, yo era un tío duro.
+[01:15.5 – 01:17.7] (75.5–77.7) Yo era duro porque vi a un chico
+[01:17.7 – 01:19.9] (77.7–79.9) que estuvo dispuesto a soportar esa dureza.
+[01:20.1 – 01:22.3] (80.1–82.3) ¿Es verdad que tú nunca le dijiste a Rafa que era bueno?
+[01:22.8 – 01:25.9] (82.8–85.9) A mi sobrino no le decía nunca que era muy bueno,
+[01:25.9 – 01:27.9] (85.9–87.9) pero siempre le dije que lo iba a hacer.
+[02:00.9 – 02:01.7] (120.9–121.7) Qué locura, ¿no?
+[02:01.7 – 02:03.0] (121.7–123.0) Es la primera vez que hacemos podcast con público.
+[02:04.0 – 02:05.8] (124.0–125.8) ¿Estamos en directo? Sí.
+[02:05.9 – 02:08.0] (125.9–128.0) Se me escucha bien, ¿no? Se me escucha altísimo.
+[02:08.0 – 02:08.6] (128.0–128.6) Tú, ¿qué pasará?
+[02:08.8 – 02:10.3] (128.8–130.3) Antes de introducirte, quiero entender
+[02:10.9 – 02:14.1] (130.9–134.1) a quién tenemos enfrente, aunque hay alguna cara reconocida,
+[02:14.2 – 02:15.7] (134.2–135.7) que eso ya me hace sentir más en casa.
+[02:16.8 – 02:17.2] (136.8–137.2) Eh...
+[02:17.2 – 02:21.4] (137.2–141.4) Más o menos la edad que tenemos aquí es entre 18 y 24.
+[02:22.0 – 02:22.8] (142.0–142.8) Sí, ¿no?
+[02:22.9 – 02:24.9] (142.9–144.9) Me afirmáis así con la cara, de puta madre.
+[02:25.6 – 02:28.7] (145.6–148.7) Vale, y aquí, ¿de cuántos de vosotros conocéis...
+[02:28.7 – 02:31.6] (148.7–151.6) Primero, Nudeproject, la marca de ropa, levantar la mano...
+[02:32.3 – 02:33.9] (152.3–153.9) Hostias, vale, no estamos haciendo las cosas mal.
+[02:34.2 – 02:35.8] (154.2–155.8) Tienes muchos clientes, veo.
+[02:36.8 – 02:41.4] (156.8–161.4) Aquí estamos estirándolo. Después a Toni Nadal, cuantos conocéis, levantad la mano.
+[02:42.5 – 02:46.3] (162.5–166.3) Vale, Toni, hoy estamos ampliando mercado, ha habido alguna así más tímida. Y después
+[02:46.3 – 02:52.8] (166.3–172.8) a Rafa Nadal, levantad la mano. Hostia puta, vale. Pues bueno, hoy emocionante porque
+[02:52.8 – 02:59.1] (172.8–179.1) tenemos al artífice detrás de todo, ¿sabes? Entonces, iba a empezar por introducirte,
+[02:59.3 – 03:02.1] (179.3–182.1) pero bueno, primero de todo, nosotros nos acabamos de conocer, entonces la conversación
+[03:02.1 – 03:06.0] (182.1–186.0) que vamos a tener hoy va a ser una manera de conocernos un poco más en detalle. A nosotros
+[03:06.0 – 03:11.6] (186.0–191.6) nos encanta el poder sentarnos con gente que nos inspire, gente que ha hecho las cosas de
+[03:11.6 – 03:17.5] (191.6–197.5) una manera diferente y que a su manera o su perspectiva ha podido crear un nuevo mundo.
+[03:17.9 – 03:24.2] (197.9–204.2) Y creo que tú con la carrera que ha hecho Rafa y tú has estado 27 años trabajando
+[03:24.2 – 03:24.5] (204.2–204.5) con Rafa.
+[03:24.5 – 03:29.8] (204.5–209.8) Estuve bastante tiempo, pero no creo que inspire a nadie.
+[03:30.5 – 03:34.9] (210.5–214.9) Yo ni mucho menos tengo la pretensión de crear un nuevo mundo.
+[03:35.1 – 03:37.5] (215.1–217.5) Yo hice las cosas de una determinada manera
+[03:37.5 – 03:40.7] (217.5–220.7) y esto es lo que apliqué y esto es lo que puedo contar.
+[03:41.1 – 03:42.4] (221.1–222.4) Pues vamos a hablar exactamente de eso.
+[03:42.6 – 03:44.3] (222.6–224.3) Tú has estado 27 años con Rafa.
+[03:44.4 – 03:47.0] (224.4–227.0) Estuviste desde que él tenía tres años, si no me equivoco.
+[03:48.5 – 03:49.9] (228.5–229.9) Yo estuve mucho tiempo con él
+[03:51.2 – 03:55.3] (231.2–235.3) porque yo era el entrenador más barato del circuito profesional.
+[03:56.7 – 03:59.7] (236.7–239.7) Y mi sobrino decía, por lo que me cuesta, a mi tío que siga.
+[04:00.2 – 04:02.1] (240.2–242.1) Por esto estuve tanto tiempo con él.
+[04:02.3 – 04:04.4] (242.3–244.4) Y de eso, que ya no está mal,
+[04:05.8 – 04:07.9] (245.8–247.9) ahora estás dando charlas por todas partes
+[04:08.5 – 04:11.1] (248.5–251.1) y ya has pasado a esta próxima parte en tu vida.
+[04:11.6 – 04:14.8] (251.6–254.8) Entonces, yo, primero de todo, quería empezar preguntando
+[04:15.7 – 04:18.6] (255.7–258.6) cómo haces para cuando te preparas una de estas charlas
+[04:18.6 – 04:21.0] (258.6–261.0) ¿Qué es lo primero que dices en una charla pública?
+[04:21.1 – 04:22.2] (261.1–262.2) ¿Cómo sueles empezar tú?
+[04:22.4 – 04:24.0] (262.4–264.0) Lo primero, pues, normal.
+[04:24.2 – 04:26.8] (264.2–266.8) Me presento, digo quién soy,
+[04:28.1 – 04:29.1] (268.1–269.1) digo por qué estoy aquí.
+[04:29.1 – 04:34.2] (269.1–274.2) Al final, yo no pretendo ser un coach para nada.
+[04:34.5 – 04:35.2] (274.5–275.2) Yo no lo soy.
+[04:35.8 – 04:40.7] (275.8–280.7) Yo me limito a contar mi manera de entender el mundo
+[04:40.7 – 04:44.4] (280.7–284.4) y mi manera de entender, en nuestro caso, el reto
+[04:44.4 – 04:46.7] (284.4–286.7) o los retos que nos propusimos.
+[04:47.3 – 04:51.9] (287.3–291.9) la manera que yo entendí que sería más fácil alcanzarlos
+[04:51.9 – 04:55.9] (291.9–295.9) y eso es lo que explico, es decir, me presento
+[04:55.9 – 05:01.8] (295.9–301.8) y a partir de aquí cuento un poco mi visión tanto del deporte,
+[05:02.6 – 05:06.7] (302.6–306.7) porque al final yo no hice nunca en una pista de tenis
+[05:06.7 – 05:10.4] (306.7–310.4) nada que no hubiera aplicado fuera de una pista de tenis.
+[05:10.5 – 05:15.0] (310.5–315.0) En la vida, yo creo que te muevas en casi todos los ámbitos,
+[05:15.0 – 05:16.6] (315.0–316.6) Es exactamente lo mismo,
+[05:17.3 – 05:21.6] (317.3–321.6) menos en el ámbito político, que se rique por otros principios.
+[05:22.4 – 05:24.2] (322.4–324.2) En el ámbito normal,
+[05:24.9 – 05:27.9] (324.9–327.9) cuanto más te preparas, más opciones tienes de éxito.
+[05:28.3 – 05:32.2] (328.3–332.2) Y eso es lo que yo procuré aplicar con Rafael.
+[05:32.6 – 05:35.0] (332.6–335.0) Hoy, Toni, nervioso no pareces.
+[05:35.7 – 05:37.9] (335.7–337.9) Te vamos a preguntar cómo haces para no estar nervioso,
+[05:38.2 – 05:39.9] (338.2–339.9) especialmente delante de tanta gente.
+[05:40.1 – 05:43.4] (340.1–343.4) Cuando hablas, no sé, en las grandes finales,
+[05:43.4 – 05:44.3] (343.4–344.3) Antes de un gran slam, estaba nervioso.
+[05:45.1 – 05:48.1] (345.1–348.1) Era diferente. Ahí me jugaba mucho más.
+[05:48.7 – 05:52.5] (348.7–352.5) Pero aparte, yo no estoy muy nervioso para hablar
+[05:52.5 – 05:57.1] (352.5–357.1) porque de lo que voy a hablar es una cosa que la tengo bastante meditada.
+[05:57.9 – 06:01.8] (357.9–361.8) No es que vaya a dar un mensaje que me tenga que inventar
+[06:01.8 – 06:04.2] (361.8–364.2) o un mensaje diferente.
+[06:04.5 – 06:07.4] (364.5–367.4) No, yo vengo a hablar de lo que yo ya conozco.
+[06:07.6 – 06:11.4] (367.6–371.4) Es decir, no vengo a ver si me haces una pregunta
+[06:11.4 – 06:14.9] (371.4–374.9) de física cuántica, que sí que me pondré nervioso.
+[06:15.3 – 06:17.3] (375.3–377.3) Pero Rafa de tenis también sabe muchísimo,
+[06:17.4 – 06:20.1] (377.4–380.1) y antes de la final de Wimbledon estaría un poco cagado.
+[06:20.4 – 06:24.1] (380.4–384.1) ¿Algún consejo para transformar esos nervios en ilusión?
+[06:24.6 – 06:27.4] (384.6–387.4) Es que todo el mundo se pone nervioso.
+[06:27.5 – 06:31.9] (387.5–391.9) Yo creo que todos estos jóvenes, cuando se presentan a un examen,
+[06:32.2 – 06:35.6] (392.2–395.6) cuando a ti te importa lo que estás haciendo
+[06:35.6 – 06:38.5] (395.6–398.5) y lo quieres hacer bien, claro que te pones nervioso.
+[06:38.9 – 06:41.0] (398.9–401.0) En el mundo del deporte, todavía más,
+[06:41.0 – 06:43.4] (401.0–403.4) porque por mucho que te prepares,
+[06:44.1 – 06:46.2] (404.1–406.2) no sabes lo que se ha preparado tu rival.
+[06:46.6 – 06:48.5] (406.6–408.5) Tú puedes estar muy bien preparado,
+[06:48.6 – 06:51.3] (408.6–411.3) pero si a tu rival le sale un gran partido
+[06:52.6 – 06:54.6] (412.6–414.6) o simplemente juega mejor que tú,
+[06:54.6 – 06:55.7] (414.6–415.7) es probable que tú pierdas.
+[06:55.9 – 06:58.6] (415.9–418.6) Entonces, claro, tú te pones nervioso.
+[06:59.1 – 07:03.2] (419.1–423.2) Pero la gente que tiene la capacidad esta
+[07:03.2 – 07:08.1] (423.2–428.1) de asumir los nervios y transformarlos de manera positiva
+[07:08.1 – 07:14.6] (428.1–434.6) En el mundo del deporte, es la gente que normalmente triunfa en este mundo.
+[07:14.7 – 07:17.1] (434.7–437.1) Vamos a empezar un poco por tu historia, ¿no?
+[07:17.2 – 07:21.9] (437.2–441.9) Tú, si no me equivoco, viniste a Barcelona a estudiar Derecho.
+[07:22.4 – 07:25.3] (442.4–445.3) No, yo vine a Barcelona a jugar al tenis y a estudiar,
+[07:25.4 – 07:30.8] (445.4–450.8) porque mi padre no me hubiera dejado jugar solo a tenis.
+[07:31.6 – 07:35.6] (451.6–455.6) Hice primero Historia, después me pasé a Derecho.
+[07:36.1 – 07:39.5] (456.1–459.5) Fui un no muy buen estudiante y no acabé ni una ni otra.
+[07:40.3 – 07:43.4] (460.3–463.4) Y al final me dediqué a lo que a mí toda la vida me gustó,
+[07:43.4 – 07:46.0] (463.4–466.0) que es el deporte, y entrenar.
+[07:46.5 – 07:50.6] (466.5–470.6) Y eso, pues, estuve seis años viviendo no muy lejos de aquí.
+[07:50.9 – 07:53.9] (470.9–473.9) Vivía en la calle Caspe, entre el Paseo de Gracia
+[07:53.9 – 07:58.6] (473.9–478.6) y lo que hoy es Pau Claris, en aquel tiempo era vía la Ayetana.
+[08:00.1 – 08:03.6] (480.1–483.6) Y, bueno, estuve seis años aquí, que me lo pasé muy bien.
+[08:04.9 – 08:06.2] (484.9–486.2) Y esto es lo que hice.
+[08:06.5 – 08:07.7] (486.5–487.7) ¿Y por qué no acabaste la carrera?
+[08:08.6 – 08:11.6] (488.6–491.6) Porque no me motivó más de dar cuenta a mí.
+[08:12.5 – 08:17.3] (492.5–497.3) Historia me gustaba, pero el derecho no.
+[08:17.6 – 08:21.6] (497.6–501.6) Y a mí, realmente, si uno tiene la oportunidad de elegir
+[08:21.6 – 08:26.4] (501.6–506.4) aquello que puedes hacer, creo que va mucho mejor.
+[08:26.8 – 08:29.7] (506.8–509.7) Te lo pasas mucho mejor, estás mucho más motivado.
+[08:30.9 – 08:36.8] (510.9–516.8) y al final yo me dediqué a algo que realmente me apasionaba que era el deporte.
+[08:37.0 – 08:38.0] (517.0–518.0) ¿Y por qué para ti el tenis?
+[08:38.4 – 08:40.9] (518.4–520.9) Porque a mí me gustaban todos los deportes.
+[08:41.2 – 08:46.3] (521.2–526.3) Yo jugué a fútbol, jugué a ping-pong, nadaba y jugaba al tenis.
+[08:46.7 – 08:50.5] (526.7–530.5) Y desde que vi una competición que se jugó en Barcelona,
+[08:51.1 – 08:57.6] (531.1–537.6) donde vi a un jugador que a mí me transmitió mucho, que era Illin Astaz,
+[08:57.6 – 08:59.8] (537.6–539.8) pues empecé a jugar al tenis
+[08:59.8 – 09:04.0] (539.8–544.0) y empezó a gustarme más el tenis que otros deportes.
+[09:04.5 – 09:07.9] (544.5–547.9) Pero, a ver, yo soy un entrenador de tenis
+[09:07.9 – 09:13.2] (547.9–553.2) que yo nunca di una gran importancia al deporte en sí.
+[09:13.5 – 09:16.9] (553.5–556.9) Hoy vivimos en un mundo que hablamos de los deportistas
+[09:16.9 – 09:19.4] (556.9–559.4) como si fueran semidioses, para mí no.
+[09:19.9 – 09:22.1] (559.9–562.1) Para mí el valor del deporte
+[09:22.1 – 09:25.6] (562.1–565.6) es el valor de la superación personal.
+[09:25.6 – 09:33.5] (565.6–573.5) Esto es lo que para mí tiene de importante el deporte.
+[09:34.0 – 09:36.8] (574.0–576.8) Es verdad que hay una cuestión también de habilidad,
+[09:37.8 – 09:43.1] (577.8–583.1) una cuestión estética, pero para mí el trasfondo inicial,
+[09:43.6 – 09:47.2] (583.6–587.2) el trasfondo importante es la superación personal,
+[09:47.4 – 09:52.0] (587.4–592.0) que esto es lo que a mí me motivó en el deporte,
+[09:53.4 – 09:55.9] (593.4–595.9) Ponernos retos e intentar alcanzarlos.
+[09:56.3 – 09:58.4] (596.3–598.4) Esto fue lo principal.
+[09:58.8 – 10:01.4] (598.8–601.4) Es decir, que el reto principal en la vida,
+[10:01.9 – 10:03.5] (601.9–603.5) que yo marqué a mi sobrino,
+[10:03.5 – 10:06.4] (603.5–606.4) no fue tanto ganar Roland Garros o Wimbledon,
+[10:06.6 – 10:08.9] (606.6–608.9) sino que fue, por encima de todo, mejorar.
+[10:09.6 – 10:12.0] (609.6–612.0) Porque el ganar no depende solo de ti.
+[10:12.6 – 10:16.5] (612.6–616.5) El ganar, yo no sé si me va a tocar convivir con un Federer
+[10:16.5 – 10:19.5] (616.5–619.5) o con dos o tres o si me va a tocar convivir
+[10:19.5 – 10:21.9] (619.5–621.9) con un Djokovic o cuatro o cinco, no lo sé.
+[10:22.1 – 10:25.1] (622.1–625.1) Con tres años, tú empezaste a entrenar a Rafa.
+[10:25.5 – 10:25.9] (625.5–625.9) Sí.
+[10:25.9 – 10:27.6] (625.9–627.6) A un chaval de tres años tú le puedes ver y decir,
+[10:27.6 – 10:29.8] (627.6–629.8) este chaval es el futuro del mundo.
+[10:29.9 – 10:32.0] (629.9–632.0) No. No, con tres años no.
+[10:32.2 – 10:33.8] (632.2–633.8) Pero yo sí, con tres años dije,
+[10:35.0 – 10:37.7] (635.0–637.7) este tipo tiene condiciones,
+[10:37.9 – 10:41.6] (637.9–641.6) porque lo que hizo la primera vez que le tiré la pelota
+[10:42.2 – 10:45.0] (642.2–645.0) ya me demostró que coordinación tenía,
+[10:45.9 – 10:47.6] (645.9–647.6) evidentemente tú no sabes con tres años
+[10:47.6 – 10:49.7] (647.6–649.7) si un niño va a ser un buen jugador o no.
+[10:50.2 – 10:52.6] (650.2–652.6) Pero con siete años yo le dije a mi hermano
+[10:53.9 – 10:56.1] (653.9–656.1) que su hijo sería campeón de España.
+[10:56.7 – 10:57.1] (656.7–657.1) Joder.
+[10:57.1 – 10:59.8] (657.1–659.8) Con siete años solo se lo dije a mi hermano.
+[11:00.4 – 11:01.4] (660.4–661.4) No lo dije a otros,
+[11:01.6 – 11:03.5] (661.6–663.5) porque si no me habrían dicho este tío es tonto.
+[11:07.3 – 11:09.2] (667.3–669.2) Claro, yo ya vi unas condiciones.
+[11:09.4 – 11:11.8] (669.4–671.8) Yo tenía otro chico antes que entrenaba
+[11:11.8 – 11:13.9] (671.8–673.9) que era el segundo mejor de España
+[11:13.9 – 11:16.1] (673.9–676.1) y pensaba, si este es el segundo,
+[11:16.1 – 11:20.3] (676.1–680.3) mi sobrino tiene más condiciones, entonces, sea el primero.
+[11:21.6 – 11:24.8] (681.6–684.8) Y después, la realidad es que cada año
+[11:24.8 – 11:29.2] (684.8–689.2) mi sobrino iba cumpliendo las expectativas que él tenía.
+[11:29.4 – 11:32.9] (689.4–692.9) Entonces, claro, con cada año que pasa,
+[11:33.1 – 11:37.1] (693.1–697.1) te vas dando cuenta que él sí que puede llegar a ser un gran jugador.
+[11:37.4 – 11:42.2] (697.4–702.2) Y al margen de los entrenamientos físicos y técnicos,
+[11:42.2 – 11:46.6] (702.2–706.6) Me interesa mucho saber cómo preparabas toda la parte mental de Rafa.
+[11:46.8 – 11:48.2] (706.8–708.2) Es que esto es un bulo.
+[11:48.4 – 11:51.4] (708.4–711.4) Hoy que hablamos tanto de los bulos o que hablas según quién.
+[11:51.9 – 11:52.8] (711.9–712.8) De bulos, nada.
+[11:54.4 – 11:57.8] (714.4–717.8) El tema mental no se prepara tan específicamente.
+[11:58.8 – 12:01.4] (718.8–721.4) O yo no conozco la forma.
+[12:01.9 – 12:06.0] (721.9–726.0) En la vida, tú te preparas para asumir las cosas.
+[12:06.2 – 12:10.2] (726.2–730.2) Tú te preparas yendo cada día al límite.
+[12:10.2 – 12:13.0] (730.2–733.0) y esto es lo que te prepara mentalmente.
+[12:13.9 – 12:16.6] (733.9–736.6) Hace años yo vi una película
+[12:17.7 – 12:23.5] (737.7–743.5) de Sinconer y Dustin Hoffman y Matthew Broderick, creo.
+[12:23.5 – 12:26.4] (743.5–746.4) Negocios de familia planeaban un robo.
+[12:26.9 – 12:28.9] (746.9–748.9) Eran abuelo, padre y hijo.
+[12:30.2 – 12:34.4] (750.2–754.4) Y planeaban el robo.
+[12:34.5 – 12:37.7] (754.5–757.7) Al final pillaron al abuelo, lo metieron en prisión
+[12:37.7 – 12:41.2] (757.7–761.2) Y cuando el nieto va a pesadumbrado a hablar con su abuelo,
+[12:41.4 – 12:43.2] (761.4–763.2) porque es el único que está en prisión,
+[12:43.5 – 12:46.3] (763.5–766.3) sin coner y le dice a su nieto...
+[12:48.1 – 12:49.0] (768.1–769.0) No, no estés así.
+[12:49.1 – 12:52.1] (769.1–772.1) Si no estás preparado para asumir la condena,
+[12:52.3 – 12:53.6] (772.3–773.6) no cometas el delito.
+[12:54.0 – 12:55.4] (774.0–775.4) Y esta es la realidad.
+[12:56.1 – 12:58.0] (776.1–778.0) Y esto es lo que yo le he trasladado a Rafael.
+[12:58.1 – 13:01.8] (778.1–781.8) Si no estás preparado para asumir la derrota, no juegues.
+[13:02.3 – 13:06.6] (782.3–786.6) La fortaleza mental viene de asumir la adversidad,
+[13:06.6 – 13:13.7] (786.6–793.7) de asumir que las cosas pueden ir mal y después cómo se prepara uno mentalmente, lo mismo
+[13:13.7 – 13:22.0] (793.7–802.0) que se prepara físicamente, que es haciendo aquello los hábitos. No sé si os lo escuché
+[13:22.0 – 13:27.9] (802.0–807.9) a vosotros cuando hablabais con Segarra. ¿Puede ser? Con el doctor, una frase de
+[13:29.7 – 13:35.4] (809.7–815.4) Aristóteles, que los hábitos crean el carácter, un hábito continuado y eso
+[13:35.4 – 13:41.6] (815.4–821.6) es así. Si tú cuando vas a entrenar, cuando Rafael venía a entrenar de pequeño, yo le
+[13:41.6 – 13:48.2] (821.6–828.2) decía lo primero buena cara, después aceptar el error, aceptar que las cosas pueden ir
+[13:48.2 – 13:55.0] (828.2–835.0) mal es fundamental en la vida. A partir de aquí yo le decía si no eres capaz de derrotar
+[13:55.0 – 14:03.3] (835.0–843.3) a tu rival al menos no le ayudes a que te derrote. Pues todo esto si algún día
+[14:03.3 – 14:05.0] (843.3–845.0) Rafael ponía mala cara y yo le decía,
+[14:05.3 – 14:08.6] (845.3–848.6) ¿tú qué crees que quiere tu oponente, verte con mala cara o con buena?
+[14:10.7 – 14:12.1] (850.7–852.1) Con mala, ¿no?
+[14:12.6 – 14:16.1] (852.6–856.1) Entonces, no le ayudes, no hagas esto porque le vas a ayudar.
+[14:16.6 – 14:20.0] (856.6–860.0) Y después, mentalmente, ¿cómo te preparas?
+[14:20.0 – 14:22.3] (860.0–862.3) ¿Cuál es el problema de la mentalidad?
+[14:22.4 – 14:23.6] (862.4–863.6) Es la frustración.
+[14:24.4 – 14:26.1] (864.4–866.1) ¿De dónde viene la frustración?
+[14:26.4 – 14:30.1] (866.4–870.1) Que es lo que hoy en día más se repite entre...
+[14:30.1 – 14:31.9] (870.1–871.9) probablemente entre los jóvenes,
+[14:31.9 – 14:35.1] (871.9–875.1) es porque hay menos capacidad de aguantar.
+[14:35.3 – 14:37.5] (875.3–877.5) Por varias razones, a mi modo de ver.
+[14:37.9 – 14:40.4] (877.9–880.4) Primero, porque vivimos en un mundo
+[14:41.0 – 14:43.5] (881.0–883.5) que el bien principal es pasárnoslo bien.
+[14:44.3 – 14:48.9] (884.3–888.9) Al final, llegamos a detestar todo aquello que nos molesta.
+[14:50.0 – 14:52.1] (890.0–892.1) Después, vivimos en un mundo
+[14:52.1 – 14:55.6] (892.1–895.6) que las cosas se tienen que conseguir rápidamente.
+[14:56.6 – 14:57.9] (896.6–897.9) También tenemos un problema.
+[14:57.9 – 15:02.4] (897.9–902.4) Y después, lo definitivo, vivimos en un mundo
+[15:02.4 – 15:05.9] (902.4–905.9) que a la gente le tenemos que decir siempre aquello que le gusta.
+[15:07.0 – 15:12.5] (907.0–912.5) Es decir, esto al final te causa una sobrevaloración personal.
+[15:13.4 – 15:19.5] (913.4–919.5) Claro, cuando tú crees que eres mejor de lo que en realidad eres,
+[15:20.2 – 15:22.0] (920.2–922.0) al final, ¿qué pasa? Tienes que salir.
+[15:23.9 – 15:25.3] (923.9–925.3) Tienes que salir a jugar.
+[15:25.3 – 15:27.8] (925.3–927.8) Y yo ya le puedo decir a mi hijo que es muy bueno.
+[15:28.5 – 15:31.7] (928.5–931.7) O es muy bueno, pero si sale a jugar y le meten una paliza.
+[15:32.3 – 15:34.3] (932.3–934.3) Entonces, ¿qué quieres que haga?
+[15:34.6 – 15:36.5] (934.6–936.5) Decías incluso que alguna vez,
+[15:36.5 – 15:38.8] (936.5–938.8) no sé si voy a enfrentar Rafa contra Federer,
+[15:39.0 – 15:40.7] (939.0–940.7) decías, mira, tiene mejor derecha que tú,
+[15:41.2 – 15:42.1] (941.2–942.1) saca mejor que tú,
+[15:42.7 – 15:45.6] (942.7–945.6) el revés también es mejor, y ya Rafa estaba ya hundido.
+[15:45.8 – 15:47.5] (945.8–947.5) Pero esto hablaba mucho de lo que estabas explicando ahora.
+[15:47.5 – 15:51.0] (947.5–951.0) No estaba hundido, Rafa, porque Rafa aceptaba las cosas.
+[15:51.9 – 15:54.3] (951.9–954.3) Y esto era en una final de Monte Carlo,
+[15:54.3 – 15:56.6] (954.3–956.6) que me dijo, Toni, ¿cómo ves el partido de hoy?
+[15:56.8 – 15:59.7] (956.8–959.7) Y yo le dije, ¿cómo lo veo? Pues lo veo bastante complicado.
+[15:59.8 – 16:01.6] (959.8–961.6) Faltaba una hora para salir a jugar.
+[16:02.4 – 16:07.8] (962.4–967.8) Lo veo complicado porque Federer tiene el drag mejor que tú,
+[16:07.8 – 16:10.4] (967.8–970.4) el revés es mejor, la volea es mucho mejor.
+[16:10.8 – 16:12.8] (970.8–972.8) Y cuando empecé con el saque,
+[16:13.1 – 16:15.2] (973.1–975.2) mi sobrino me dijo, para, para, para.
+[16:15.4 – 16:18.1] (975.4–978.1) Vaya moral que me das para salir a la pista.
+[16:18.2 – 16:20.3] (978.2–980.3) Yo le dije, si quieres, yo te puedo engañar.
+[16:20.5 – 16:22.4] (980.5–982.4) Pero en una hora el Suizo no nos va a engañar.
+[16:22.4 – 16:26.9] (982.4–986.9) ahora vayamos a buscar la solución porque yo creo que en la vida siempre hay
+[16:26.9 – 16:32.9] (986.9–992.9) solución el tema es muy fácil yo parto de principios muy simples para
+[16:32.9 – 16:38.2] (992.9–998.2) diseñar una buena estrategia hay que aceptar la realidad a partir de aquí
+[16:38.2 – 16:43.6] (998.2–1003.6) cuando yo acepto la realidad la mía y la de mi jugador pues a partir de aquí
+[16:43.6 – 16:49.0] (1003.6–1009.0) puedo diseñar una buena estrategia no ahora si yo parto de un principio
+[16:49.0 – 16:56.4] (1009.0–1016.4) equivocado si yo quiero ir a Madrid. No es lo mismo si estoy en Barcelona que si estoy
+[16:56.4 – 17:02.1] (1016.4–1022.1) en Sevilla. Si estoy en Barcelona tengo que tomar una dirección si estoy en Sevilla ahora
+[17:02.1 – 17:09.0] (1022.1–1029.0) y tengo que saberlo. Pues esto tan simple hoy en día es muy difícil aplicarlo porque
+[17:09.0 – 17:15.1] (1029.0–1035.1) entre lo políticamente correcto, que no le podemos decir a nadie la realidad porque
+[17:15.1 – 17:22.5] (1035.1–1042.5) se nos va a ofender. Es complicado entre lo políticamente correcto y después no sé si
+[17:22.5 – 17:30.9] (1042.5–1050.9) aquí hay algún psicólogo pero a veces tengo bueno informaciones de psicólogos que nos dicen
+[17:30.9 – 17:37.8] (1050.9–1057.8) que o consejos de psicólogos que nos dicen nos dicen que siempre tenemos que dar mensajes
+[17:37.8 – 17:45.0] (1057.8–1065.0) positivos, mensajes que eleven la autoestima del jugador, mensajes que eleven su autoconfianza
+[17:45.0 – 17:50.0] (1065.0–1070.0) Yo creo que este tipo de mensajes lo que le van es la auto engaña, con la auto engaña
+[17:50.0 – 17:51.1] (1070.0–1071.1) no se va a ningún sitio.
+[17:51.8 – 17:59.0] (1071.8–1079.0) La vida yo tengo que ser lo suficientemente valiente para aceptar la realidad y lo suficientemente
+[17:59.0 – 18:02.7] (1079.0–1082.7) decidido para intentar modificar esta realidad.
+[18:04.2 – 18:10.2] (1084.2–1090.2) Y sabiendo siempre, no es el just do it o lo que nos decían los de Nike, si quieres
+[18:10.2 – 18:19.2] (1090.2–1099.2) tú puedes. No, si quieres no necesariamente puedes. Si Jokovic quiere o Alcaraz quiere
+[18:19.2 – 18:26.0] (1099.2–1106.0) ganar Roland Garros y Siner también, uno de los dos no va a poder, seguro. Entonces
+[18:26.0 – 18:33.8] (1106.0–1113.8) si quieres no puedes. Es una frase que yo le repetí a Rafael. Hacer las cosas bien
+[18:33.8 – 18:39.7] (1113.8–1119.7) no nos va a garantizar el éxito, hacerlas mal casi siempre te garantiza el
+[18:39.7 – 18:46.8] (1119.7–1126.8) fracaso, puestos a elegir elige hacerlas bien pues esta es la realidad a mi modo
+[18:46.8 – 18:51.8] (1126.8–1131.8) de ver de la vida. Rafa cuando debuta tiene 16 años no? Sí cuando
+[18:51.8 – 18:57.1] (1131.8–1137.1) debuta en el circuito profesional sí, no 15 cuando juega su primer partido
+[18:57.1 – 19:02.4] (1137.1–1142.4) pero cuando se mete entre los 100 primeros tiene 16 años. Un chaval de
+[19:02.4 – 19:04.8] (1142.4–1144.8) 16 años está preparado para llevar todo esto?
+[19:05.5 – 19:07.5] (1145.5–1147.5) Mira, sí lo estaba, que él lo estuvo.
+[19:08.4 – 19:11.1] (1148.4–1151.1) ¿Sabes? Al final, hay gente que no.
+[19:11.7 – 19:14.6] (1151.7–1154.6) Pero mi sobrino, mi sobrino toda la vida ha sabido
+[19:14.6 – 19:18.7] (1154.6–1158.7) que él se dedicaba a pasar una pelota por encima de una red.
+[19:19.2 – 19:22.3] (1159.2–1162.3) Es verdad que hay gente que se destornilla,
+[19:23.1 – 19:26.9] (1163.1–1166.9) que dimensiona su ego cuando tiene un poco de éxito en algo.
+[19:28.1 – 19:30.5] (1168.1–1170.5) Pero en el caso de mi sobrino,
+[19:30.5 – 19:33.5] (1170.5–1173.5) Mi sobrino entendió toda la vida que él era un tipo normal,
+[19:34.2 – 19:37.3] (1174.2–1177.3) que se dedicaba a una actividad,
+[19:37.5 – 19:40.9] (1177.5–1180.9) que era pasar una pelota por encima de una red, que lo hacía bien,
+[19:41.5 – 19:46.3] (1181.5–1186.3) pero que cuando salía de la pista no dejaba de ser lo que era,
+[19:46.5 – 19:47.4] (1186.5–1187.4) un tipo normal.
+[19:47.6 – 19:50.2] (1187.6–1190.2) Es que justo me estaba viendo anoche,
+[19:50.3 – 19:51.8] (1190.3–1191.8) preparándome para este momento un poco,
+[19:51.9 – 19:54.8] (1191.9–1194.8) me estaba viendo, que no va muy a cuento,
+[19:55.2 – 19:56.1] (1195.2–1196.1) pero que a mí me apetecía,
+[19:56.2 – 19:57.4] (1196.2–1197.4) me estaba viendo el documental de Alcaraz,
+[19:57.6 – 19:58.6] (1197.6–1198.6) que acaba de salir en Netflix.
+[19:59.2 – 20:01.2] (1199.2–1201.2) Vale, pues bueno, yo te cuento un poco.
+[20:01.8 – 20:03.2] (1201.8–1203.2) Dentro del documental, veías al Karad,
+[20:03.3 – 20:05.2] (1203.3–1205.2) que creo que tiene nuestra edad, si no es más joven,
+[20:05.2 – 20:07.5] (1205.2–1207.5) de 21 o 22 años.
+[20:08.3 – 20:12.4] (1208.3–1212.4) Y hay un duelo constante entre el querer ser el número uno en el tenis,
+[20:12.6 – 20:15.6] (1212.6–1215.6) pero a la vez lo difícil que eso es mentalmente
+[20:15.6 – 20:18.4] (1215.6–1218.4) y lo que él también quiere estar presente en su vida personal.
+[20:19.0 – 20:20.0] (1219.0–1220.0) Que no es verdad.
+[20:20.6 – 20:21.6] (1220.6–1221.6) Vale, dame un segundo.
+[20:23.2 – 20:25.0] (1223.2–1225.0) Quiere estar en casa, quiere estar con su familia,
+[20:25.2 – 20:26.3] (1225.2–1226.3) quiere comer con ellos,
+[20:26.3 – 20:30.6] (1226.3–1230.6) quiere vivir una vida de un chaval bastante normal,
+[20:30.8 – 20:33.4] (1230.8–1233.4) pero siente que el circuito y todo lo que conlleva,
+[20:33.4 – 20:35.7] (1233.4–1235.7) que él solo puede estar pasando dos meses del año en casa,
+[20:36.1 – 20:38.8] (1236.1–1238.8) le impiden vivir eso y dice que es casi...
+[20:40.0 – 20:43.8] (1240.0–1243.8) Necesita un esfuerzo exclusivo a, como tú dices,
+[20:43.8 – 20:45.4] (1243.8–1245.4) pegar la pelota por encima de una red.
+[20:45.8 – 20:48.3] (1245.8–1248.3) Entonces, eso le agobia.
+[20:48.6 – 20:50.6] (1248.6–1250.6) Yo ya te veo preparado para responder a tope.
+[20:50.9 – 20:52.2] (1250.9–1252.2) Entonces, no voy a hacer ni la pregunta. Dime.
+[20:52.3 – 20:55.7] (1252.3–1255.7) No, pues si le agobia, pues que deje el tenis.
+[20:55.7 – 20:57.7] (1255.7–1257.7) ¿Qué quieres que te diga?
+[20:58.0 – 20:60.0] (1258.0–1260.0) Yo, al final...
+[20:60.0 – 21:01.1] (1260.0–1261.1) A ver, yo creo que exagerar...
+[21:01.1 – 21:03.7] (1261.1–1263.7) Me freeba el público, porque ha habido respuestas como de...
+[21:03.7 – 21:05.8] (1263.7–1265.8) ¿Cómo me dices eso, Toni? ¿Estás loco?
+[21:05.8 – 21:09.0] (1265.8–1269.0) No, es que yo entiendo las cosas
+[21:09.8 – 21:13.0] (1269.8–1273.0) de manera diferente en la vida, ¿entiendes?
+[21:13.0 – 21:14.9] (1273.0–1274.9) Yo, al final...
+[21:14.9 – 21:17.3] (1274.9–1277.3) Claro, es que en el mundo del deporte
+[21:17.3 – 21:19.1] (1277.3–1279.1) se tiende a exagerarlo todo.
+[21:19.9 – 21:23.7] (1279.9–1283.7) Yo he oído hablar muchas veces del sacrificio del deporte,
+[21:23.7 – 21:29.2] (1283.7–1289.2) del sacrificio, un día que estaba en el Santiago Bernabéu
+[21:29.2 – 21:33.5] (1289.2–1293.5) y me decía en el sacrificio que hacían los deportistas,
+[21:33.5 – 21:35.6] (1293.5–1295.6) los jugadores del Real Madrid, yo decía,
+[21:36.3 – 21:40.8] (1296.3–1300.8) sacrificio, y el estudiante que durante...
+[21:40.8 – 21:43.0] (1300.8–1303.0) Yo tengo a mi hijo que estudia aquí en Barcelona.
+[21:44.1 – 21:46.8] (1304.1–1306.8) Y viene aquí y está todo el año en Barcelona
+[21:48.0 – 21:50.8] (1308.0–1310.8) y dice, bueno, es que si te quieres sacar la carrera,
+[21:50.8 – 21:52.4] (1310.8–1312.4) que no está en Mallorca,
+[21:52.4 – 21:55.7] (1312.4–1315.7) pues sabes que tienes que pagar un precio.
+[21:56.3 – 22:00.1] (1316.3–1320.1) Es que en la vida es un tema de renuncias, siempre.
+[22:00.1 – 22:03.3] (1320.1–1323.3) No es un tema solo de hacer lo que yo quiero.
+[22:03.7 – 22:05.0] (1323.7–1325.0) Tú tienes que renunciar.
+[22:06.8 – 22:09.5] (1326.8–1329.5) A veces a la gente le compensa y a veces no.
+[22:10.4 – 22:15.5] (1330.4–1335.5) Sabes, si no te compensa, pues mejor que cambies de trabajo.
+[22:15.7 – 22:19.5] (1335.7–1339.5) Espero que Alcaraz no lo cambie, evidentemente,
+[22:19.5 – 22:23.0] (1339.5–1343.0) porque es uno de los mejores del mundo,
+[22:24.2 – 22:26.3] (1344.2–1346.3) pero uno tiene que asumir,
+[22:27.4 – 22:32.0] (1347.4–1352.0) el reto tiene que asumir que lo que uno está haciendo en la vida
+[22:32.0 – 22:38.3] (1352.0–1358.3) va a comportar una serie de renuncias.
+[22:38.7 – 22:40.0] (1358.7–1360.0) Yo no hablo de sacrificios,
+[22:40.3 – 22:44.2] (1360.3–1364.2) porque el sacrificio entiendo que es lo que tú haces por otro.
+[22:44.9 – 22:47.6] (1364.9–1367.6) El sacrificio que hizo Jesucristo, teóricamente,
+[22:48.5 – 22:50.0] (1368.5–1370.0) lo hizo por otros.
+[22:50.5 – 22:54.1] (1370.5–1374.1) Cuando tú lo haces por ti, es el precio que tienes que pagar.
+[22:55.0 – 22:58.4] (1375.0–1378.4) Lo que yo sé es que al final Alcaraz,
+[22:59.5 – 23:01.8] (1379.5–1381.8) siendo un gran jugador de tenis,
+[23:04.1 – 23:06.9] (1384.1–1386.9) pues, aparte, es verdad que paga un precio,
+[23:07.8 – 23:10.4] (1387.8–1390.4) el tenerse que ir a Australia, a lo mejor en Navidad,
+[23:10.5 – 23:13.7] (1390.5–1393.7) lo mismo que hacía Rafael, pero por otra parte,
+[23:14.0 – 23:15.6] (1394.0–1395.6) pues gana mucho más dinero
+[23:15.6 – 23:18.3] (1395.6–1398.3) y la inmensa mayoría de jóvenes de su edad,
+[23:19.6 – 23:22.8] (1399.6–1402.8) pues tiene un reconocimiento social también mucho mayor,
+[23:23.2 – 23:27.6] (1403.2–1407.6) vive unas experiencias que poca gente vive,
+[23:28.5 – 23:31.4] (1408.5–1411.4) tú lo pones en una balanza, ¿te compensa o no?
+[23:31.8 – 23:36.2] (1411.8–1416.2) Si no te compensa, pues mejor tomar otra decisión.
+[23:36.5 – 23:41.3] (1416.5–1421.3) Yo entiendo que compensa, ¿sabes?, porque al final compensa.
+[23:42.0 – 23:44.3] (1422.0–1424.3) Pues, lo que pasa es que, claro,
+[23:45.2 – 23:48.6] (1425.2–1428.6) el no querer pagar el precio es algo...
+[23:48.6 – 23:50.1] (1428.6–1430.1) El precio lo paga todo el mundo.
+[23:50.4 – 23:54.6] (1430.4–1434.6) Yo veía al carácter... Hablábamos en ese momento de duda de...
+[23:54.6 – 23:57.2] (1434.6–1437.2) Quiero ser mejor de la historia, al que dice el documental.
+[23:57.8 – 23:59.1] (1437.8–1439.1) Mejor que no lo sea.
+[23:59.4 – 24:00.3] (1439.4–1440.3) Y al final...
+[24:00.3 – 24:02.5] (1440.3–1442.5) El sitio de Rafaela, Jokovic ya...
+[24:03.8 – 24:06.7] (1443.8–1446.7) Acaba diciendo que a García Ligualdo le importaba más
+[24:06.7 – 24:09.0] (1446.7–1449.0) la felicidad y el éxito en esa balanza que describías.
+[24:09.0 – 24:15.1] (1449.0–1455.1) ¿Tú crees que Rafael no fue feliz cuando jugó al tenis?
+[24:15.8 – 24:19.2] (1455.8–1459.2) Joder, Rafael fue feliz cuando jugó al tenis, hace años.
+[24:20.1 – 24:24.3] (1460.1–1464.3) Estábamos jugando el campeonato de Europa infantil.
+[24:24.4 – 24:27.1] (1464.4–1467.1) Estábamos en Oré, en una ciudad de Francia,
+[24:27.8 – 24:34.2] (1467.8–1474.2) y recuerdo que estábamos esperando para salir a jugar
+[24:35.3 – 24:41.0] (1475.3–1481.0) y estábamos jugando él y yo en una de estas maquinitas de no sé cómo se
+[24:41.0 – 24:46.8] (1481.0–1486.8) llaman play-ball o no sé cómo se llama esto que pinball o pinball bueno
+[24:47.4 – 24:54.9] (1487.4–1494.9) estábamos jugando esperando el turno y en un momento Rafael le alzó la vista
+[24:54.9 – 25:01.1] (1494.9–1501.1) y había un reloj y ponía las 12 me recuerdo las 12 y mi sobrino dijo
+[25:01.1 – 25:04.3] (1501.1–1504.3) Ostras, ahora mis amigos están en clase de matemáticas
+[25:04.3 – 25:08.2] (1504.3–1508.2) y yo aquí jugando a las maquinitas y él tenía 12 años.
+[25:08.8 – 25:09.4] (1508.8–1509.4) Bueno...
+[25:09.4 – 25:13.7] (1509.4–1513.7) Ya, yo a veces cuestiono si en una realidad tan extrema
+[25:13.7 – 25:15.7] (1513.7–1515.7) se puede ser pleno y feliz, ¿no?
+[25:16.0 – 25:19.6] (1516.0–1519.6) Porque mucho se habla de que la mayor felicidad
+[25:19.6 – 25:22.8] (1519.6–1522.8) o la mayor plenitud o paz interior te la dan las pequeñas cosas.
+[25:23.1 – 25:25.4] (1523.1–1525.4) El estar con tu familia, el estar cerca del mar,
+[25:25.8 – 25:29.1] (1525.8–1529.1) en Mallorca, que tendrá unas playas maravillosas, etcétera.
+[25:30.5 – 25:35.0] (1530.5–1535.0) El estar constantemente obsesionado con el ser número uno.
+[25:35.1 – 25:36.7] (1535.1–1536.7) Número uno. Número uno.
+[25:36.7 – 25:39.0] (1536.7–1539.0) No se está obsesionado con el ser el número uno.
+[25:39.0 – 25:40.7] (1539.0–1540.7) Para serlo, tendrás que estar obsesionado.
+[25:40.8 – 25:43.8] (1540.8–1543.8) Mi sobrino no estuvo nunca obsesionado con el número uno.
+[25:44.5 – 25:45.2] (1544.5–1545.2) ¿El que decía?
+[25:45.8 – 25:48.6] (1545.8–1548.6) Él estaba obsesionado con jugar bien al tenis.
+[25:49.4 – 25:52.5] (1549.4–1552.5) ¿Sabes? Y esto es lo que le daba la satisfacción personal.
+[25:53.8 – 25:58.0] (1553.8–1558.0) Yo le digo, les he dicho muchas veces a los chicos de la academia,
+[25:58.0 – 26:01.3] (1558.0–1561.3) que tiene Rafael en Maracor, yo les digo, a ver,
+[26:02.2 – 26:06.6] (1562.2–1566.6) si tú no encuentras satisfacción en el proceso,
+[26:07.4 – 26:11.2] (1567.4–1571.2) difícilmente vas a encontrar satisfacción en el resultado final.
+[26:12.4 – 26:14.4] (1572.4–1574.4) Mi sobrino pasó gusto del proceso.
+[26:15.0 – 26:18.8] (1575.0–1578.8) Yo pasé, como entrenador, casi más gusto del proceso
+[26:18.8 – 26:20.5] (1578.8–1580.5) que del resultado final.
+[26:20.7 – 26:24.0] (1580.7–1584.0) A mí, el resultado final, claro que me importó
+[26:24.0 – 26:26.8] (1584.0–1586.8) ver ganar a mi sobrino en Roland Garros o en Wimbledon,
+[26:26.8 – 26:30.8] (1586.8–1590.8) pero a mí lo que realmente me proporcionó la felicidad
+[26:31.5 – 26:36.3] (1591.5–1596.3) fue la lucha diaria de intentar hacer las cosas
+[26:36.3 – 26:38.0] (1596.3–1598.0) cada día un poco mejor.
+[26:38.4 – 26:40.2] (1598.4–1600.2) Yo leía el otro, no hace mucho,
+[26:42.3 – 26:45.5] (1602.3–1605.5) un libro de Victor Frank,
+[26:46.0 – 26:50.4] (1606.0–1610.4) creo que se llama un psiquiatra importante,
+[26:51.4 – 26:56.0] (1611.4–1616.0) y él decía que no es higiénico mentalmente,
+[26:56.0 – 27:05.0] (1616.0–1625.0) no tener problemas en la vida, esto de que hacer la vida totalmente pausada y esto decía que higiénicamente
+[27:05.7 – 27:14.4] (1625.7–1634.4) mental, no era una buena higiene mental hacerlo, uno tiene que tener algún problema, tiene que marcarse objetivos,
+[27:16.0 – 27:24.5] (1636.0–1644.5) intentar solventarlos o intentar alcanzarlos, tiene que hacer cosas que entre lo que es y lo que quiere llegar a ser
+[27:24.5 – 27:26.0] (1644.5–1646.0) pues, le cueste algo.
+[27:27.7 – 27:30.8] (1647.7–1650.8) Esto es lo que procuró hacer mi sobrino toda la vida.
+[27:31.7 – 27:32.9] (1651.7–1652.9) Y ahora, cambiando un poco de tema,
+[27:33.5 – 27:36.3] (1653.5–1656.3) alguna curiosidad que tengo de Rafa como tenista,
+[27:36.6 – 27:39.1] (1656.6–1659.1) el tema de la rutina milimétrica que él seguía, por ejemplo,
+[27:39.3 – 27:40.9] (1659.3–1660.9) ¿por qué es? ¿Rutina cuál?
+[27:40.9 – 27:43.8] (1660.9–1663.8) ¿Cuándo iba a sacar todos los gestos que tenía
+[27:43.8 – 27:46.2] (1663.8–1666.2) que se podía haber inventado algo un poco más sencillo,
+[27:46.2 – 27:47.1] (1666.2–1667.1) porque no paraba el tiempo?
+[27:48.0 – 27:49.6] (1668.0–1669.6) No, a ver,
+[27:50.4 – 27:51.9] (1670.4–1671.9) estos son cosas...
+[27:51.9 – 27:54.5] (1671.9–1674.5) Pues los psicólogos le han dado una interpretación
+[27:54.5 – 27:58.1] (1674.5–1678.1) que él mismo se ha creído, que es...
+[27:59.9 – 28:04.3] (1679.9–1684.3) Yo he escuchado a psicólogos que decían que todas estas manías,
+[28:04.8 – 28:06.4] (1684.8–1686.4) todas estas cosas que hacía Rafael,
+[28:07.2 – 28:10.0] (1687.2–1690.0) le ayudaban a una mejor concentración.
+[28:11.5 – 28:14.2] (1691.5–1694.2) Y él, ya que hablábamos de eso, me dijo, sí, sí, es verdad.
+[28:14.3 – 28:17.0] (1694.3–1697.0) Y yo le dije, a ver, es decir, que tú,
+[28:17.1 – 28:19.6] (1697.1–1699.6) cuando no las hacías, no te concentrabas.
+[28:19.6 – 28:22.8] (1699.6–1702.8) Claro que se concentra exactamente igual.
+[28:23.3 – 28:25.4] (1703.3–1705.4) Lo que si tú te creas una necesidad,
+[28:26.3 – 28:28.9] (1706.3–1708.9) al final, esto se convierte en necesario.
+[28:29.3 – 28:34.0] (1709.3–1714.0) Si tú te creas la necesidad de colocarte la botella aquí o aquí,
+[28:34.5 – 28:37.8] (1714.5–1717.8) pues claro, al final, necesitas hacerlo.
+[28:38.5 – 28:40.6] (1718.5–1720.6) Yo recuerdo que hace años, una vez,
+[28:42.0 – 28:43.7] (1722.0–1723.7) mi sobrino vio una película
+[28:45.3 – 28:48.7] (1725.3–1728.7) mejor imposible, es de hace muchos años.
+[28:48.7 – 28:51.7] (1728.7–1731.7) no sé si la conocéis, es de John Nicholson.
+[28:52.0 – 28:56.1] (1732.0–1736.1) Ganó el Oscar por esta película y era de un tipo muy maniático.
+[28:56.8 – 29:01.5] (1736.8–1741.5) Y mi sobrino me dijo, vaya, tío, más maniático que haces esto,
+[29:01.5 – 29:02.8] (1741.5–1742.8) lo otro, no pisaba líneas.
+[29:02.8 – 29:05.7] (1742.8–1745.7) Y yo le dije, joder, igual de maniático que tú.
+[29:06.8 – 29:08.9] (1746.8–1748.9) Y él me dijo, yo, que no tengo ninguna.
+[29:09.5 – 29:11.7] (1749.5–1751.7) Y yo le dije, mira, todo lo que haces en la pista.
+[29:12.8 – 29:15.9] (1752.8–1755.9) Y él me dijo, pues, si quieres, dejo de hacerlo.
+[29:15.9 – 29:23.7] (1755.9–1763.7) y yo le dije pues deja de hacerlo que hacemos el ridículo y él me dijo pues
+[29:23.7 – 29:29.8] (1763.7–1769.8) el próximo torneo no lo voy a hacer y el próximo torneo era Wimbledon y le
+[29:29.8 – 29:34.6] (1769.8–1774.6) dije espérate al otro no sea cosa que ahora fallemos en Wimbledon al final
+[29:35.3 – 29:40.2] (1775.3–1780.2) son son cosas que él iba añadiendo supongo que por tensión pues iba
+[29:40.2 – 29:45.1] (1780.2–1785.1) haciendo y añadía cada vez unas cuantas más y en tierra batida por qué
+[29:45.1 – 29:53.5] (1785.1–1793.5) era tan bueno? Porque se daban las condiciones justas de su especialidad tenística. Es decir,
+[29:53.7 – 30:01.8] (1793.7–1801.8) en tierra batida, nosotros nos entrenamos siempre en tierra batida de joven, o prácticamente
+[30:01.8 – 30:11.8] (1801.8–1811.8) siempre. Entonces, él hacía lo que creo que se adaptaba muy bien a este tipo de
+[30:11.8 – 30:15.9] (1811.8–1815.9) él se movía siempre hacia atrás y hacia delante,
+[30:16.1 – 30:18.5] (1816.1–1818.5) él daba mucho efecto a la pelota
+[30:18.5 – 30:23.2] (1818.5–1823.2) porque él tenía una gran velocidad en la muñeca y en el brazo,
+[30:23.3 – 30:24.8] (1823.3–1824.8) entonces daba mucho efecto.
+[30:25.6 – 30:30.0] (1825.6–1830.0) Claro, esto se ajustaba muy bien a la pista de tierra.
+[30:30.9 – 30:35.9] (1830.9–1835.9) Mentalmente, también es una pista que te obliga a hacer...
+[30:35.9 – 30:41.0] (1835.9–1841.0) a tener mayor concentración, a ser más constante,
+[30:42.1 – 30:47.4] (1842.1–1847.4) y tenía muchos puntos más largos, todo esto se le ajustaba muy bien a él.
+[30:48.3 – 30:52.2] (1848.3–1852.2) Por eso le fue muy bien jugar en pistas de tierra.
+[30:52.7 – 30:57.6] (1852.7–1857.6) Creo que también haber escuchado o leído que Moya, el que fue entrenador de Rafa después de ti
+[30:57.6 – 31:03.6] (1857.6–1863.6) y después también un gran tenista, creo recordar que decía que nunca había visto
+[31:03.6 – 31:06.8] (1863.6–1866.8) una persona con ambición así o que Rafa tenía una ambición mucho mayor.
+[31:06.8 – 31:07.0] (1866.8–1867.0) Cien veces más.
+[31:07.1 – 31:08.4] (1867.1–1868.4) Sí, cien veces más que él.
+[31:08.4 – 31:12.4] (1868.4–1872.4) Yo creo que tenía mejores golpes que yo.
+[31:13.3 – 31:19.0] (1873.3–1879.0) Porque al final, solo ambición tampoco te lleva a ganar tanto.
+[31:19.8 – 31:23.5] (1879.8–1883.5) Evidentemente, si tú tienes una gran ambición
+[31:24.2 – 31:30.5] (1884.2–1890.5) y esto te lleva a tener una mayor motivación.
+[31:31.6 – 31:32.9] (1891.6–1892.9) Pero vuelvo a decir lo mismo.
+[31:33.1 – 31:36.9] (1893.1–1896.9) La ambición de Rafael no era solo por ganar,
+[31:36.9 – 31:40.8] (1896.9–1900.8) era por mejorar, claro, y sabía que sí.
+[31:41.0 – 31:43.5] (1901.0–1903.5) En el deporte tienes que superarte a ti mismo,
+[31:43.7 – 31:46.2] (1903.7–1906.2) es el primer paso para superar a los demás,
+[31:46.3 – 31:48.3] (1906.3–1908.3) pero cuando quieres superar a los demás,
+[31:48.6 – 31:50.2] (1908.6–1910.2) tú sabes de la dificultad.
+[31:50.4 – 31:54.3] (1910.4–1914.3) Es que mi sobrino, además, tuvo la mala suerte de convivir
+[31:54.3 – 31:56.5] (1914.3–1916.5) con dos de los mejores de la historia,
+[31:57.0 – 31:59.2] (1917.0–1919.2) Jokovic y Federer, en su mejor momento.
+[31:59.7 – 32:03.5] (1919.7–1923.5) Claro, al final no le quedó más remedio que ir al límite,
+[32:03.5 – 32:07.6] (1923.5–1927.6) Lo mismo, que no le quedó más remedio que ir al límite
+[32:07.6 – 32:09.0] (1927.6–1929.0) a Jokovic y a Federer.
+[32:09.6 – 32:15.3] (1929.6–1935.3) Pues es verdad que mi sobrino tenía una gran ambición,
+[32:16.8 – 32:21.0] (1936.8–1941.0) pero yo creo que el factor determinante,
+[32:21.2 – 32:22.5] (1941.2–1942.5) en el caso de...
+[32:22.5 – 32:27.5] (1942.5–1947.5) Creo que él era tenísticamente también era mejor que Carlos Moya.
+[32:28.0 – 32:28.4] (1948.0–1948.4) Creo yo.
+[32:29.4 – 32:33.2] (1949.4–1953.2) ¿Y cómo llevabas la parte de la relación familiar?
+[32:33.2 – 32:37.5] (1953.2–1957.5) O sea, ¿cómo calibrabas la exigencia y el afecto que le tenías?
+[32:37.6 – 32:39.0] (1957.6–1959.0) Esto es lo más difícil.
+[32:39.3 – 32:43.9] (1959.3–1963.9) Esto es lo más difícil porque, a ver, yo era un tío duro.
+[32:44.0 – 32:47.1] (1964.0–1967.1) Yo era un tipo duro, a veces demasiado,
+[32:47.5 – 32:48.7] (1967.5–1968.7) yo era un tipo duro,
+[32:48.8 – 32:51.6] (1968.8–1971.6) pero era un tipo duro básicamente por tres razones.
+[32:51.7 – 32:56.7] (1971.7–1976.7) La primera, porque el reto que nos propusimos era muy elevado,
+[32:57.3 – 33:00.6] (1977.3–1980.6) luego no queda más remedio que asumir una cierta dureza,
+[33:00.6 – 33:09.1] (1980.6–1989.1) una gran dosis de exigencia, después yo era duro porque vi a un chico que estuvo dispuesto
+[33:09.1 – 33:15.2] (1989.1–1995.2) a soportar esa dureza y después, sobre todo, yo fui duro porque le tenía una gran estima.
+[33:15.4 – 33:20.6] (1995.4–2000.6) Yo nunca sería duro con alguien por el que no siento un gran aprecio o una gran estima.
+[33:21.6 – 33:26.6] (2001.6–2006.6) Yo, cuando era el director de la academia de Rafael Nadal, yo le decía a los entrenadores
+[33:26.6 – 33:32.0] (2006.6–2012.0) sed muy exigentes, pero al mismo tiempo los chicos tienen que notar en vosotros
+[33:32.7 – 33:37.3] (2012.7–2017.3) vuestro aprecio, vuestra estima. Yo no sería nunca duro con alguien por el que
+[33:37.3 – 33:42.8] (2017.3–2022.8) no siento aprecio, a mí me daría igual. Si tuviera un chico que
+[33:44.2 – 33:49.3] (2024.2–2029.3) es un mal educado que es esto y lo otro, que haga lo que quiera. Yo procuro
+[33:49.3 – 33:53.5] (2029.3–2033.5) ser exigente con la gente que me importa. Yo nací en un mundo que te
+[33:53.5 – 33:56.3] (2033.5–2036.3) decían, quien bien te quiere te hará llorar.
+[33:57.3 – 33:59.7] (2037.3–2039.7) Yo no sé, hoy en día esto está desfasado.
+[34:00.8 – 34:03.4] (2040.8–2043.4) Porque sí que estoy seguro que quien bien te quiere
+[34:03.4 – 34:05.4] (2043.4–2045.4) no te hace reír siempre.
+[34:05.9 – 34:07.8] (2045.9–2047.8) Tony, cuando dices ser duro, ¿qué es ser duro?
+[34:08.9 – 34:11.3] (2048.9–2051.3) Ser duro es...
+[34:12.0 – 34:14.4] (2052.0–2054.4) Pues poner exigencia en cada entreno.
+[34:14.6 – 34:16.5] (2054.6–2056.5) ¿Tienes algún ejemplo en concreto que te acuerdes?
+[34:16.9 – 34:19.1] (2056.9–2059.1) No, no es... Es un tema de...
+[34:20.8 – 34:21.6] (2060.8–2061.6) Es simple.
+[34:21.6 – 34:26.6] (2061.6–2066.6) es entrenar siempre buscando algo más, ¿sabes?
+[34:27.0 – 34:31.1] (2067.0–2071.1) Yo cuando empecé a entrenar a mi sobrino, cuando vislumbré
+[34:31.1 – 34:34.1] (2071.1–2074.1) que mi sobrino podía llegar a ser un gran jugador, ¿qué hice?
+[34:35.0 – 34:38.8] (2075.0–2078.8) Pues yo entendía que a lo que aspirábamos sería difícil.
+[34:39.8 – 34:42.6] (2079.8–2082.6) Luego, si a lo que aspirábamos es difícil,
+[34:42.7 – 34:45.2] (2082.7–2085.2) me tengo que preparar para la dificultad.
+[34:45.4 – 34:49.5] (2085.4–2089.5) ¿Cómo se me preparo para la dificultad?
+[34:49.5 – 34:51.1] (2089.5–2091.1) Pues yendo al límite.
+[34:51.6 – 34:59.2] (2091.6–2099.2) viendo al límite de entrenos exigentes de no, cuando ya no puedo más, siempre un poco más.
+[35:00.4 – 35:04.4] (2100.4–2104.4) Y uno cómo se prepara para la dificultad, fortaleciendo el carácter.
+[35:05.6 – 35:09.7] (2105.6–2109.7) ¿Y cómo se fortalece el carácter? Y eso no es una frase mía, mira.
+[35:10.9 – 35:17.9] (2110.9–2117.9) El Goethe, el escritor alemán, uno de los más importantes de su historia, decía,
+[35:17.9 – 35:24.6] (2117.9–2124.6) el talento se construye en la calma, el carácter se educa o se construye en la
+[35:24.6 – 35:29.0] (2124.6–2129.0) tempestad. Para conseguir un carácter fuerte se
+[35:29.0 – 35:35.9] (2129.0–2135.9) necesitan hechos y es incuestionable. San Agustín decía
+[35:35.9 – 35:41.0] (2135.9–2141.0) es malo sufrir, es muy bueno haber sufrido y también es una realidad.
+[35:41.4 – 35:46.0] (2141.4–2146.0) Nosotros queremos inventar un mundo nuevo, es que el ser humano para
+[35:46.0 – 35:54.0] (2146.0–2154.0) avanzar necesita incomodidades, necesita que las cosas sean complicadas y necesita ir al límite.
+[35:54.3 – 36:03.8] (2154.3–2163.8) Si yo cuando he entrenado dos horas y ya tengo los primeros síntomas de que no puedo más,
+[36:05.0 – 36:15.4] (2165.0–2175.4) me paro, pues difícilmente voy a superar este nivel. Claro, la tendencia de todos y de mi
+[36:15.4 – 36:23.1] (2175.4–2183.1) de hecho, bueno, pues un poco más, este poco más te lleva a una capacidad de aguante superior
+[36:23.1 – 36:26.4] (2183.1–2186.4) y eso es lo que marca casi siempre la diferencia.
+[36:26.7 – 36:28.8] (2186.7–2188.8) ¿Es verdad que tú nunca le dijiste a Rafa que era bueno?
+[36:29.4 – 36:34.7] (2189.4–2194.7) Yo no le decía nunca que era bueno, porque a mí no me gusta el halago.
+[36:35.5 – 36:36.5] (2195.5–2196.5) ¿El refuerzo positivo?
+[36:36.7 – 36:42.3] (2196.7–2202.3) Es que no es un refuerzo, a ver, yo le decía a Rafael, cuando las cosas iban
+[36:42.3 – 36:48.5] (2202.3–2208.5) muy bien, yo no le decía que era bueno. Cuando las cosas un año no iban muy bien,
+[36:48.7 – 36:54.1] (2208.7–2214.1) sí que le decía lo bueno que era. Mi sobrino no hacía falta que le dijera yo
+[36:54.1 – 36:58.7] (2214.1–2218.7) que era muy bueno porque ya ganaba suficiente. Cuando uno ha ganado muchas
+[36:58.7 – 37:03.5] (2218.7–2223.5) veces Roland Garros y lleva tantos años entre los mejores, no hace falta que se
+[37:03.5 – 37:08.9] (2223.5–2228.9) lo diga. Yo a mi sobrino no le decía nunca que es muy bueno, pero
+[37:08.9 – 37:12.1] (2228.9–2232.1) Siempre le dicen, lo vas a hacer, tranquilo, lo vas a hacer.
+[37:12.6 – 37:16.4] (2232.6–2236.4) ¿Y no crees que hay dentro del hacer algo que te guste
+[37:17.7 – 37:20.4] (2237.7–2240.4) y que sea algo de propósito para ti también,
+[37:20.7 – 37:22.2] (2240.7–2242.2) hay algo muy importante, o al menos en mi plano,
+[37:22.4 – 37:23.7] (2242.4–2243.7) que es el reconocimiento, ¿no?
+[37:24.1 – 37:26.4] (2244.1–2246.4) Lo he visto tanto en una empresa como en un plano personal.
+[37:27.0 – 37:28.3] (2247.0–2248.3) Todo lo que hacemos nosotros,
+[37:28.7 – 37:32.7] (2248.7–2252.7) a mí cuando mi padre o mi madre me reconocen públicamente
+[37:32.7 – 37:37.1] (2252.7–2257.1) puede ser por equiché, por irea, que están orgullosos de mí,
+[37:37.3 – 37:38.6] (2257.3–2258.6) es algo que me hace sentir bien,
+[37:38.9 – 37:41.2] (2258.9–2261.2) En este caso, hubiera sido Rafael
+[37:41.2 – 37:44.7] (2261.2–2264.7) que tendría que haber tenido el reconocimiento conmigo.
+[37:45.9 – 37:46.4] (2265.9–2266.4) Claro.
+[37:47.4 – 37:48.2] (2267.4–2268.2) Es que...
+[37:48.2 – 37:48.7] (2268.2–2268.7) ¿Lo tuvo?
+[37:49.3 – 37:49.9] (2269.3–2269.9) No.
+[37:51.6 – 37:54.2] (2271.6–2274.2) A ver, es que hay una cosa...
+[37:54.2 – 37:57.3] (2274.2–2277.3) Es que el jefe era Rafael, el jefe no era yo.
+[37:58.1 – 37:58.7] (2278.1–2278.7) ¿Entiendes?
+[38:00.8 – 38:04.9] (2280.8–2284.9) En el mundo del tenis, el jefe es el...
+[38:05.9 – 38:08.2] (2285.9–2288.2) Es el jugador que te contrata a ti.
+[38:08.2 – 38:11.1] (2288.2–2291.1) Entonces, el reconocimiento, en todo caso,
+[38:11.2 – 38:15.4] (2291.2–2295.4) debería ser de Rafael hacia mí, no tanto de yo hacia él.
+[38:15.9 – 38:19.9] (2295.9–2299.9) Cuando era joven, a ver, se exagera porque yo sí que...
+[38:19.9 – 38:22.3] (2299.9–2302.3) Yo no le decía con estas palabras que eres muy bueno,
+[38:22.4 – 38:24.5] (2302.4–2304.5) pero decía muy bien, Pascua, muy bien,
+[38:24.9 – 38:26.9] (2304.9–2306.9) o que bien que esto está saliendo.
+[38:26.9 – 38:28.3] (2306.9–2308.3) Dale, chaval. ¿Entiendes?
+[38:28.4 – 38:30.2] (2308.4–2310.2) Pero sobre todo...
+[38:30.7 – 38:32.8] (2310.7–2312.8) ¿Apreciarías unas palabras públicas por parte de Rafa?
+[38:33.2 – 38:37.3] (2313.2–2317.3) No, no, no, él las ha dicho a veces...
+[38:37.3 – 38:44.9] (2317.3–2324.9) en Roland Garros o en algún sitio cuando ganó pero a ver Tony quiero que sepas que mi gratitud
+[38:44.9 – 38:52.4] (2324.9–2332.4) por haber sacrificado tanto por mí es infinita ha sido sin ninguna duda el mejor entrenador que
+[38:52.4 – 38:59.5] (2332.4–2339.5) jamás hubiera podido tener yo no necesito que me lo digan mucho sabes al final también
+[38:59.5 – 39:09.4] (2339.5–2349.4) vivimos en un mundo que confundimos la representación con la realidad, ¿sabes? Al final parece
+[39:09.4 – 39:17.2] (2349.4–2357.2) que si te dan, te dicen el reconocimiento, no, tú sabes cuando alguien está orgulloso
+[39:17.2 – 39:22.3] (2357.2–2362.3) de tu trabajo, cuando alguien cree que tu trabajo es positivo, no hace falta que me
+[39:22.3 – 39:29.4] (2362.3–2369.4) lo digan tanto. Hablemos ahora del mejor partido de la historia del tenis, la final
+[39:29.4 – 39:37.8] (2369.4–2377.8) Wimbledon de 2008, que fue magia pura. Además, por cómo presentaban los tenistas ese estilo
+[39:37.8 – 39:43.8] (2377.8–2383.8) tan distinto. Federer elegante, con clase Nadal, con la pura garra. O sea, es que
+[39:43.8 – 39:47.8] (2383.8–2387.8) hasta nosotros, fijándonos en la moda, uno iba con cardigan perfecto y el otro sin
+[39:47.8 – 39:52.8] (2387.8–2392.8) mangas con la banda. Bueno, fue un espectáculo. ¿Qué recuerdas de aquel partido?
+[39:52.8 – 39:58.3] (2392.8–2398.3) Hombre, recuerdo lo primero que fue las peores horas
+[39:58.3 – 40:00.1] (2398.3–2400.1) que he pasado casi en mi vida.
+[40:00.8 – 40:03.2] (2400.8–2403.2) Las peores dentro de una pista de tenis, seguro.
+[40:05.2 – 40:10.1] (2405.2–2410.1) Porque recuerdo que nosotros llegamos a una situación
+[40:10.1 – 40:14.1] (2410.1–2414.1) donde Rafael había derrotado fácilmente a Federer
+[40:14.7 – 40:17.4] (2414.7–2417.4) en la final de Roland Garros.
+[40:17.6 – 40:19.9] (2417.6–2419.9) Un mes después jugábamos de Wimbledon.
+[40:20.4 – 40:22.6] (2420.4–2422.6) Rafael era el número dos del mundo.
+[40:22.6 – 40:28.6] (2422.6–2428.6) a Federer el número uno, estábamos muy cerca ya, sabíamos que este partido
+[40:28.6 – 40:36.5] (2428.6–2436.5) cambiaba la historia, cambiaba de número uno prácticamente, después el año
+[40:36.5 – 40:41.7] (2436.5–2441.7) anterior Rafael había perdido de manera muy ajustada con Federer porque
+[40:41.7 – 40:48.3] (2441.7–2448.3) era otra oportunidad y bueno y después cómo se dio el partido fue un partido
+[40:48.3 – 40:59.0] (2448.3–2459.0) de una alta intensidad. Recuerdo que Rafael se adelantó dos sets a cero, creo que ganó
+[40:59.0 – 41:07.2] (2459.0–2467.2) los dos primeros sets de manera clara, 6-4, 6-4. El tercero fue un poco más ajustado,
+[41:07.4 – 41:13.8] (2467.4–2473.8) Rafael tuvo sus oportunidades para acabar el partido. Al final perdió el tercer set,
+[41:13.8 – 41:18.0] (2473.8–2478.0) hubo varias interrupciones en el cuarto, lluvia,
+[41:19.1 – 41:24.9] (2479.1–2484.9) fuimos al vestuario, todo complicado, en el cuarto...
+[41:24.9 – 41:26.2] (2484.9–2486.2) ¿Qué le dijiste en el vestuario?
+[41:26.3 – 41:28.0] (2486.3–2488.0) ¿Se pone a llover en Londres, en Wimbledon?
+[41:28.0 – 41:31.2] (2488.0–2491.2) No, bueno, es que hubo unas cuantas interrupciones.
+[41:31.7 – 41:35.4] (2491.7–2495.4) En una, fruto de la tensión que yo tenía,
+[41:36.6 – 41:38.2] (2496.6–2498.2) pues me quedé dormido.
+[41:40.4 – 41:42.7] (2500.4–2502.7) Es algo curioso, dormido,
+[41:42.7 – 41:47.3] (2502.7–2507.3) Porque hubo la interrupción por lluvia, él tenía un problema en el pie,
+[41:47.5 – 41:52.7] (2507.5–2512.7) se tuvo que poner una inyección en el pie.
+[41:53.3 – 41:54.3] (2513.3–2514.3) ¿Él sabía que tú estabas dormido?
+[41:54.4 – 41:58.4] (2514.4–2518.4) Sí, porque en la siguiente interrupción me dijo,
+[41:58.9 – 42:00.3] (2518.9–2520.3) ahora no te duermas.
+[42:00.8 – 42:01.8] (2520.8–2521.8) Fue lo primero que me dijo.
+[42:02.9 – 42:06.0] (2522.9–2526.0) Yo no sé si me generaría angustia o quizás más tranquilidad.
+[42:06.4 – 42:12.0] (2526.4–2532.0) Yo estaba en el vestuario y ya no podía más de tensión y me dormí.
+[42:12.0 – 42:15.5] (2532.0–2535.5) pero también porque no quería ver la inyección que le ponían,
+[42:15.8 – 42:21.3] (2535.8–2541.3) que era una angoja profunda para dormirle el pie.
+[42:21.9 – 42:25.5] (2541.9–2545.5) Después hubo otras interrupciones
+[42:26.1 – 42:28.1] (2546.1–2548.1) y hubo la última interrupción.
+[42:28.4 – 42:31.6] (2548.4–2551.6) En la última interrupción, Rafael había pasado
+[42:31.6 – 42:36.4] (2551.6–2556.4) de dominar claramente el partido a que el partido se había igualado.
+[42:36.6 – 42:39.5] (2556.6–2559.5) Había tenido varios match points,
+[42:39.5 – 42:43.6] (2559.5–2563.6) Es decir, con un golpe, él podía haber ganado el partido.
+[42:45.1 – 42:47.3] (2565.1–2567.3) Tuvo el partido prácticamente ganado,
+[42:47.4 – 42:50.5] (2567.4–2570.5) lo perdimos en aquel momento o lo dejamos de ganar.
+[42:51.4 – 42:53.7] (2571.4–2573.7) Y cuando llegamos a la última interrupción,
+[42:53.8 – 42:57.4] (2573.8–2577.4) que fue con 2-2 en el quinto set,
+[42:59.2 – 43:01.0] (2579.2–2581.0) pues yo todo el tiempo estuve pensando
+[43:01.0 – 43:03.2] (2581.0–2583.2) que le digo a mi sobrino, yo me creí
+[43:03.2 – 43:06.9] (2583.2–2586.9) que me encontraría a mi sobrino a pesar de un brado
+[43:06.9 – 43:15.5] (2586.9–2595.5) en el vestuario pensando en todas las oportunidades perdidas,
+[43:16.2 – 43:20.1] (2596.2–2600.1) me lo encontré y me dije, a ver, ¿qué le explico?
+[43:20.4 – 43:22.8] (2600.4–2602.8) Y yo recuerdo que le dije, mira, Rafael,
+[43:22.9 – 43:25.8] (2602.9–2605.8) no pienses en las oportunidades perdidas,
+[43:27.1 – 43:30.3] (2607.1–2610.3) intenta hacer un esfuerzo para llegar al 4-4
+[43:30.6 – 43:33.4] (2610.6–2613.4) y en el 4-4 Dios decidirá.
+[43:33.4 – 43:37.2] (2613.4–2617.2) Dice, será una cuestión de suerte, a ver si la tenemos,
+[43:38.9 – 43:42.5] (2618.9–2622.5) pero ya te digo, yo me creía que a Rafael estaría afectado
+[43:42.5 – 43:47.3] (2622.5–2627.3) y Rafael me dijo, cuando yo le expliqué el gesto,
+[43:47.5 – 43:50.5] (2627.5–2630.5) levantó la cabeza y me dijo, tranquilo, que yo no voy a perder.
+[43:51.7 – 43:52.8] (2631.7–2632.8) Yo no voy a perder.
+[43:53.8 – 43:55.5] (2633.8–2635.5) Y después rectificó y me dijo,
+[43:57.2 – 44:01.0] (2637.2–2641.0) a lo mejor Federer me va a ganar, pero yo no perderé.
+[44:01.0 – 44:08.0] (2641.0–2648.0) Me dijo y si el año y si pierdo si Federer me gana el año que viene yo
+[44:08.0 – 44:13.1] (2648.0–2653.1) volveré a estar aquí en la final. Un año antes me había dicho después de la
+[44:13.1 – 44:18.7] (2653.1–2658.7) final yo no sé si estaré nunca más aquí y aquel día me dijo tranquilo el
+[44:18.7 – 44:24.0] (2658.7–2664.0) año que viene si no lo volveré a intentar pero claro cómo responde él de
+[44:24.0 – 44:28.7] (2664.0–2668.7) esta manera en una situación tan adversa pues yo creo que por
+[44:28.7 – 44:36.9] (2668.7–2676.9) educación por cómo se formó, por cómo entendió el deporte y en parte también por la alta
+[44:36.9 – 44:44.0] (2676.9–2684.0) exigencia que mantuvo toda la vida. Rafael es probablemente el único jugador de la historia
+[44:44.8 – 44:50.7] (2684.8–2690.7) que acabó su carrera sin romper nunca una raqueta, porque esto es entrar en el desánimo.
+[44:51.0 – 44:57.3] (2691.0–2697.3) Entonces él se acostumbró a que cuando las cosas no iban bien, me aguanto y aguanto
+[44:57.3 – 45:04.4] (2697.3–2704.4) poco más pues esto es lo mismo que hizo aquel día en la final de Wimbledon. ¿Cuál fue el momento más
+[45:04.4 – 45:12.1] (2704.4–2712.1) duro en la carrera de Rafa? Hubo alguna derrota muy dura como la de Soderlin en París, la primera
+[45:12.1 – 45:22.7] (2712.1–2722.7) vez que él pierde en Roland Garros o sobre todo la final de Australia contra Djokovic en el 2012
+[45:22.7 – 45:31.5] (2722.7–2731.5) en los momentos más duros fueron los de la lesión. En el 2005 se le detectó un
+[45:31.5 – 45:38.7] (2731.5–2738.7) problema a Rafael en un hueso del pie y cuando bueno al final encontramos un
+[45:40.7 – 45:45.1] (2740.7–2745.1) especialista y este especialista en Madrid nos dijo prácticamente que la
+[45:45.1 – 45:50.3] (2745.1–2750.3) carrera de Rafael estaba terminada, que con lo que tenía Rafael era
+[45:50.3 – 45:56.5] (2750.3–2756.5) prácticamente imposible hacer deporte de nivel o de alto nivel porque los otros
+[45:56.5 – 46:01.3] (2756.5–2761.3) pacientes que tenían lo mismo una rara enfermedad en un hueso de un
+[46:01.3 – 46:08.0] (2761.3–2768.0) pie pues hacían deporte muy light a partir del 2005 mi sobrino fue incapaz
+[46:08.0 – 46:14.7] (2768.0–2774.7) de acabar en muchas ocasiones sus entrenamientos no pudo jugar casi
+[46:14.7 – 46:19.3] (2774.7–2779.3) nunca un torneo del gran slam esto es de larga duración sin tomarse un
+[46:20.3 – 46:28.1] (2780.3–2788.1) pues estos fueron los momentos más duros, las lesiones que al final como le tuvieron que poner
+[46:28.1 – 46:35.6] (2788.1–2795.6) unas plantillas para aliviar el tema del pie, pero claro las plantillas pues le trastocaron todo
+[46:35.6 – 46:45.2] (2795.6–2805.2) el resto y al final pues tuvo distintos problemas. Para un deportista los peores momentos son los
+[46:45.2 – 46:49.9] (2805.2–2809.9) momentos de lesión porque tú al final eres un deportista y aceptas que tu
+[46:49.9 – 46:55.3] (2809.9–2815.3) rival te gane. Ahora no poder competir es... ¿Y cómo los enfrentas esos momentos?
+[46:55.8 – 47:00.6] (2815.8–2820.6) ¿Cuándo pierdes? No, cuando estás lesionado. Ah, cuando estás lesionado. Pues otra
+[47:00.6 – 47:05.9] (2820.6–2825.9) vez con normalidad. Yo le decía a Rafael, siempre mira, cuando él, pocas
+[47:05.9 – 47:12.1] (2825.9–2832.1) veces, él me vino a contar lo que tenía porque yo no fui nunca un
+[47:12.1 – 47:20.8] (2832.1–2840.8) entrenador complaciente. Era su tío y lo hacía porque yo le quería, sino porque es
+[47:20.8 – 47:26.8] (2840.8–2846.8) muy fácil dar un toque. Yo creía que era la mejor manera de ayudarlo, era no hablar
+[47:26.8 – 47:33.3] (2846.8–2853.3) mucho de la lesión. Cuando Rafael venía, las pocas veces que vino a hacerlo, pues
+[47:33.3 – 47:41.3] (2853.3–2861.3) yo le recuerdo que le decía, Rafael, no nos quejemos, no nos quejemos que la
+[47:41.3 – 47:44.5] (2861.3–2864.5) nos ha tratado mucho mejor de lo que esperábamos,
+[47:45.0 – 47:46.5] (2865.0–2866.5) mucho mejor de lo que merecíamos.
+[47:46.7 – 47:50.2] (2866.7–2870.2) Hay mucha gente en la vida que se esfuerza,
+[47:51.6 – 47:54.2] (2871.6–2874.2) que no le queda más remedio que hacer,
+[47:54.3 – 47:57.9] (2874.3–2877.9) bueno, de tripas corazón, hay mucha gente
+[47:57.9 – 48:00.8] (2877.9–2880.8) y que no tienen la suerte que nosotros tuvimos.
+[48:01.3 – 48:06.2] (2881.3–2886.2) Entonces, para mí, lo esencial es no quejarse en la vida.
+[48:06.6 – 48:08.7] (2886.6–2888.7) Además, yo he podido comprobar
+[48:08.7 – 48:13.1] (2888.7–2893.1) que la inmensa mayoría de gente que se acostumbra a quejarse
+[48:13.1 – 48:16.1] (2893.1–2896.1) es la gente que está menos dispuesta a hacer cosas
+[48:16.1 – 48:18.2] (2896.1–2898.2) para cambiar su situación.
+[48:18.8 – 48:22.6] (2898.8–2902.6) La gente que se acostumbra a no quejar
+[48:22.6 – 48:25.2] (2902.6–2905.2) es gente que entiende los problemas
+[48:25.2 – 48:28.1] (2905.2–2908.1) y que intenta buscar solución.
+[48:29.4 – 48:31.9] (2909.4–2911.9) Pues, cuando venía Rafael, yo que le decía a Rafael,
+[48:32.4 – 48:34.8] (2912.4–2914.8) tranquilo, que no hay mal, que 100 años dure.
+[48:35.8 – 48:43.1] (2915.8–2923.1) Nosotros tenemos que estar preparados para cuando volvamos a estar con la cabeza de manera positiva
+[48:43.1 – 48:49.3] (2923.1–2929.3) para estar bien y tranquilo que esto se va a solucionar. Porque yo creo que en la vida casi siempre hay solución.
+[48:49.3 – 48:50.8] (2929.3–2930.8) ¿Por qué dejaste de entrenar a Rafa?
+[48:51.1 – 48:57.8] (2931.1–2937.8) Porque entendí que mi concurso ya no era necesario.
+[48:57.8 – 49:08.9] (2937.8–2948.9) Llegó un momento que incorporamos en el equipo a Carlos Moya y que Carlos Moya
+[49:08.9 – 49:18.9] (2948.9–2958.9) pues hacía el trabajo bien tal que yo entendí bueno yo no mi aportación es
+[49:18.9 – 49:24.5] (2958.9–2964.5) totalmente prescindible a mí no me gusta estar en un sitio donde yo no donde yo
+[49:24.5 – 49:30.3] (2964.5–2970.3) que no aporto demasiado, entonces decidí dejarlo.
+[49:30.7 – 49:35.7] (2970.7–2975.7) Ahora había, en aquel momento Rafael había montado la academia y pensé
+[49:35.7 – 49:41.0] (2975.7–2981.0) bueno yo puedo hacer un trabajo más satisfactorio en la academia, por eso
+[49:41.0 – 49:46.8] (2981.0–2986.8) dejé de entrenarlo. Yo sabía que dejando de entrenar a Rafael, a mi
+[49:46.8 – 49:53.2] (2986.8–2993.2) sobrino no le no le causaba ningún problema. Si yo hubiera podido
+[49:53.2 – 49:58.5] (2993.2–2998.5) imaginar que si yo me iba le hubiera causado un problema no me hubiera ido
+[49:58.5 – 50:05.9] (2998.5–3005.9) pero como entendía que no le causaba ningún más mínimo trastorno pues por
+[50:05.9 – 50:12.5] (3005.9–3012.5) eso. ¿Y por qué se retiró Rafa? Porque vio que el cuerpo no respondía. Aquí el
+[50:12.5 – 50:16.7] (3012.5–3016.7) tema no es por qué se retiró sino es por qué tardó tanto en retirarse.
+[50:17.2 – 50:21.7] (3017.2–3021.7) ¿Por qué tardó tanto en retirarse? Porque muchos periodistas me lo
+[50:21.7 – 50:22.4] (3021.7–3022.4) preguntaron.
+[50:22.8 – 50:27.2] (3022.8–3027.2) Claro, en la vida es difícil dejar de hacer aquello que te gusta
+[50:27.2 – 50:30.8] (3027.2–3030.8) y aquello por lo que has sentido...
+[50:31.5 – 50:33.1] (3031.5–3033.1) Bueno, has tenido éxito
+[50:33.6 – 50:37.2] (3033.6–3037.2) y que te ha proporcionado en nada una gran satisfacción personal.
+[50:38.9 – 50:41.2] (3038.9–3041.2) Es dejarlo de hacer no es fácil.
+[50:41.6 – 50:45.7] (3041.6–3045.7) Mi sobrino se acostumbró durante años a tener problemas...
+[50:46.9 – 50:50.0] (3046.9–3050.0) físicos, y siempre pensaba, bueno,
+[50:50.6 – 50:53.9] (3050.6–3053.9) El cuerpo, al final, haciendo esto o lo otro,
+[50:54.3 – 50:56.4] (3054.3–3056.4) pues acaba respondiendo.
+[50:57.1 – 50:59.1] (3057.1–3059.1) Y como se acostumbró a eso,
+[50:60.0 – 51:03.0] (3060.0–3063.0) pues creyó que el cuerpo le volvería a responder.
+[51:03.1 – 51:05.4] (3063.1–3065.4) Y él esperaba y quería retirarse.
+[51:05.7 – 51:10.5] (3065.7–3070.5) Quería retirarse después de tener una temporada normal de juego.
+[51:11.4 – 51:14.0] (3071.4–3074.0) Pero al final, esperando y esperando,
+[51:14.8 – 51:18.1] (3074.8–3078.1) llegó a la conclusión que el cuerpo ya no lo respondía
+[51:18.1 – 51:19.9] (3078.1–3079.9) para jugar a un alto nivel
+[51:20.7 – 51:25.4] (3080.7–3085.4) y pensó, bueno, ya no me queda más remedio que aceptarlo y marcharme.
+[51:25.7 – 51:27.2] (3085.7–3087.2) ¿Y él cómo te lo contó a ti? ¿Te llamó?
+[51:27.4 – 51:32.8] (3087.4–3092.8) Sí, bueno, él me lo dijo, me dijo, bueno, he tomado la decisión de retirarme,
+[51:32.9 – 51:39.7] (3092.9–3099.7) me voy a retirar en Málaga, me lo dijo dos o tres meses antes cuando tomó la decisión
+[51:40.6 – 51:46.5] (3100.6–3106.5) y después me enteré el día, nos envió, el día que anunciaba la retirada,
+[51:46.5 – 51:50.0] (3106.5–3110.0) me envió al chat familiar que tenemos
+[51:50.0 – 51:54.2] (3110.0–3114.2) un mensaje de que anunciaba en un vídeo su retirada.
+[51:54.6 – 51:56.2] (3114.6–3116.2) Me retiro del tenis profesional.
+[52:00.1 – 52:02.7] (3120.1–3122.7) Es una decisión que, evidentemente, es difícil,
+[52:02.8 – 52:05.7] (3122.8–3125.7) que me ha llevado tiempo tomarla.
+[52:06.6 – 52:07.9] (3126.6–3127.9) Eso es...
+[52:07.9 – 52:10.2] (3127.9–3130.2) Yo no he visto nunca ese vídeo,
+[52:11.0 – 52:13.0] (3131.0–3133.0) porque no acostumbraba a ver nunca nada.
+[52:14.3 – 52:19.4] (3134.3–3139.4) pero aquel día pues supe que era el día. Fue un día emotivo para ti. Hombre claro,
+[52:19.8 – 52:25.9] (3139.8–3145.9) tú piensas que al final pues yo tuve una ilusión en mi vida muy grande que es que
+[52:25.9 – 52:31.4] (3145.9–3151.4) mi sobrino fuera un gran jugador y cuando llega el momento del final pues
+[52:31.4 – 52:37.8] (3151.4–3157.8) tú piensas un poco con todo lo que has vivido, todas las muchas
+[52:37.8 – 52:40.6] (3157.8–3160.6) situaciones, torneos y eso.
+[52:42.9 – 52:43.5] (3162.9–3163.5) Pero...
+[52:43.5 – 52:47.0] (3163.5–3167.0) A ver, es un momento emocionante, claro.
+[52:47.3 – 52:48.8] (3167.3–3168.8) Ver a mi sobrino...
+[52:50.5 – 52:51.1] (3170.5–3171.1) pues...
+[52:51.1 – 52:53.9] (3171.1–3173.9) que toma la decisión, que va a dejar de hacer aquello.
+[52:55.2 – 52:58.7] (3175.2–3178.7) Además, familiarmente, mi sobrino era un gran entretenimiento
+[52:58.7 – 53:00.0] (3178.7–3180.0) para toda la familia.
+[53:00.7 – 53:01.4] (3180.7–3181.4) Todos estábamos...
+[53:02.0 – 53:03.5] (3182.0–3183.5) Otros que bien, hoy juega Rafael.
+[53:04.3 – 53:06.1] (3184.3–3186.1) Tenemos el día ocupado.
+[53:06.1 – 53:09.5] (3186.1–3189.5) o vamos a verlo en un torneo o en otro,
+[53:10.2 – 53:13.5] (3190.2–3193.5) pues, claro, esto sabíamos que pasaba a mejor vida.
+[53:14.1 – 53:16.1] (3194.1–3196.1) Claro que es un día emocionante.
+[53:16.2 – 53:17.8] (3196.2–3197.8) ¿Y por qué no te ves el vídeo y dices...?
+[53:17.8 – 53:20.4] (3197.8–3200.4) No he leído nunca mucho o casi nada
+[53:20.4 – 53:23.3] (3200.4–3203.3) de lo que han escrito de Rafael, ni para bien ni para mal.
+[53:25.3 – 53:26.9] (3205.3–3206.9) No acostumbro a verlo.
+[53:27.0 – 53:30.0] (3207.0–3210.0) Vale, ahora queríamos dedicar un momento
+[53:30.0 – 53:32.0] (3210.0–3212.0) a sus principales competidores.
+[53:32.3 – 53:32.5] (3212.3–3212.5) Sí.
+[53:33.0 – 53:34.3] (3213.0–3214.3) Federer, Djokovic.
+[53:35.0 – 53:39.4] (3215.0–3219.4) Quiero que me hables un poquito de cada uno, que se te viene a la cabeza cuando hablamos del suizo.
+[53:39.7 – 53:42.1] (3219.7–3222.1) Cuando me viene la percepción.
+[53:43.6 – 53:56.3] (3223.6–3236.3) Federer consiguió elevar el nivel del tenis, es decir, consiguió que el nivel fuera increíble o que fuera altísimo,
+[53:57.3 – 54:00.6] (3237.3–3240.6) sin perder un ápice de elegancia.
+[54:00.6 – 54:09.3] (3240.6–3249.3) Esto es muy difícil. Lo que hizo Federer para mí es dificilísimo combinar una alta
+[54:09.3 – 54:17.9] (3249.3–3257.9) exigencia, combinar una alta efectividad con una altísima elegancia. Creo que no hay ningún
+[54:17.9 – 54:25.4] (3257.9–3265.4) deportista en ningún ámbito, ni en el basquén, ni Michael Jordan, ni Messi, nadie que haya
+[54:25.4 – 54:31.7] (3265.4–3271.7) podido combinar la efectividad con la elegancia. Creo que muchas veces te
+[54:31.7 – 54:34.0] (3271.7–3274.0) preguntan quién es el mejor de la historia.
+[54:34.6 – 54:39.8] (3274.6–3279.8) Federer Jokovic, claro, por títulos es Jokovic. Por elevación de juego creo
+[54:39.8 – 54:44.7] (3279.8–3284.7) que es Federer. Si Rafael no hubiera tenido todas las lesiones probablemente
+[54:44.7 – 54:51.3] (3284.7–3291.3) hubiera sido Rafael el mejor. No las tuvo las lesiones luego no puede serlo
+[54:51.3 – 54:55.2] (3291.3–3295.2) Pero, claro, Federer, para mí, es el jugador que...
+[54:56.2 – 54:57.7] (3296.2–3297.7) A mí me gustaba ver a mi sobrino,
+[54:57.9 – 55:01.0] (3297.9–3301.0) porque a mí me gusta alguien que ponga pasión en lo que hace.
+[55:01.5 – 55:02.6] (3301.5–3302.6) Y mi sobrino lo hacía.
+[55:03.5 – 55:05.9] (3303.5–3305.9) Pero a mí me gustaba mucho ver a Federer.
+[55:06.0 – 55:09.3] (3306.0–3309.3) Yo tengo un hijo que es un fan de Federer.
+[55:09.6 – 55:11.6] (3309.6–3311.6) Evidentemente quería que ganara a Rafael,
+[55:12.3 – 55:14.2] (3312.3–3314.2) pero es un fan total de Federer.
+[55:14.8 – 55:20.5] (3314.8–3320.5) Al final, Federer, para mí, es un jugador especial.
+[55:20.5 – 55:28.3] (3320.5–3328.3) En el caso de Djokovic, es buenísimo y es el jugador que ha estado más dispuesto a
+[55:28.3 – 55:34.9] (3328.3–3334.9) hacer todo lo necesario para estar allí el máximo tiempo posible. Se cuidó más
+[55:34.9 – 55:43.9] (3334.9–3343.9) que nadie, comió todo lo que tuvo la exigencia no solo dentro sino también fuera, pero
+[55:43.9 – 55:49.7] (3343.9–3349.7) aparte es un jugador... es más completo que Federer. Federer es un jugador más
+[55:49.7 – 55:57.1] (3349.7–3357.1) de ataque, Jokovic ataca y defiende, es más completo. A mí es menos apasionante verle
+[55:57.1 – 56:07.3] (3357.1–3367.3) a él. Para mí es un juego más igual, pero le reconozco que tiene una capacidad de entendimiento
+[56:07.3 – 56:15.6] (3367.3–3375.6) del juego grandísima, en una facilidad para coordinar, para colocarse con pocos pasos
+[56:15.6 – 56:20.6] (3375.6–3380.6) bien en la pelota, entonces un jugador buenísimo.
+[56:21.8 – 56:24.3] (3381.8–3384.3) Y Djokovic también hablaba mucho de la meditación,
+[56:24.4 – 56:27.0] (3384.4–3387.0) de las respiraciones y tal, ¿tú con Nadal estabas ahí
+[56:27.0 – 56:28.3] (3387.0–3388.3) respirando antes del partido o no?
+[56:28.4 – 56:32.9] (3388.4–3392.9) Yo no, yo respiraba lo normal, lo mismo que respiro ahora aquí,
+[56:33.3 – 56:37.1] (3393.3–3397.1) no, otra cosa es que me ponga nervioso, no.
+[56:37.9 – 56:40.2] (3397.9–3400.2) Yo ya sé que la meditación va bien,
+[56:40.8 – 56:44.2] (3400.8–3404.2) pero yo creo que no te hace ganar la meditación.
+[56:44.2 – 56:47.4] (3404.2–3407.4) lo que te hace ganar es el drive y al revés.
+[56:47.6 – 56:49.5] (3407.6–3409.5) Y correr y luchar
+[56:50.2 – 56:52.3] (3410.2–3412.3) y tener una alta exigencia.
+[56:52.4 – 56:55.3] (3412.4–3415.3) Después la meditación va bien para la vida, a lo mejor,
+[56:55.4 – 56:58.6] (3415.4–3418.6) pero para jugar al tenis lo que va bien es
+[56:59.7 – 57:01.1] (3419.7–3421.1) es pegarle bien de drive.
+[57:01.9 – 57:03.6] (3421.9–3423.6) Yo soy una persona que...
+[57:04.9 – 57:05.4] (3424.9–3425.4) lógica.
+[57:05.9 – 57:08.2] (3425.9–3428.2) Yo si viera que todo el mundo que es muy bueno
+[57:08.2 – 57:11.0] (3428.2–3431.0) hace meditación, haría meditación.
+[57:11.0 – 57:15.1] (3431.0–3435.1) Yo lo que veo es que todo el mundo que es muy bueno en el tenis
+[57:15.1 – 57:18.7] (3435.1–3438.7) le pega bien de drive, luego tengo que pegarle bien de drive.
+[57:19.1 – 57:22.7] (3439.1–3442.7) Hay cosas que son imprescindibles y cosas que no lo son tanto.
+[57:23.4 – 57:26.1] (3443.4–3446.1) Yo fui una persona que di mucha importancia
+[57:26.1 – 57:28.5] (3446.1–3448.5) siempre a lo que consideraba muy importante
+[57:29.2 – 57:32.2] (3449.2–3452.2) y di menos importancia a lo secundario.
+[57:32.6 – 57:36.8] (3452.6–3456.8) O mejor dicho, nunca presté atención a lo secundario
+[57:36.8 – 57:39.5] (3456.8–3459.5) si en lo que era realmente esencial
+[57:39.5 – 57:45.1] (3459.5–3465.1) no sabía que no podíamos ir más allá, esto es para mí.
+[57:45.5 – 57:49.1] (3465.5–3469.1) Y si tuvieses que ahora volver al mundo del tenis a tope
+[57:49.1 – 57:51.5] (3469.1–3471.5) y ponerte a entrenar al nuevo jovencillo que lo está reventando,
+[57:51.6 – 57:54.1] (3471.6–3474.1) ¿hay algo que cambiarías de la forma en que entrenabas a Nadal?
+[57:54.9 – 57:56.1] (3474.9–3476.1) Claro, forzosamente.
+[57:56.8 – 58:00.8] (3476.8–3480.8) Lo primero es que yo no hubiera entrenado nunca igual a Nadal
+[58:01.3 – 58:02.4] (3481.3–3482.4) que a Federer.
+[58:03.1 – 58:06.8] (3483.1–3486.8) Por ejemplo, uno tiene que analizar las características
+[58:06.8 – 58:09.5] (3486.8–3489.5) físico, técnicas y mentales de su jugador,
+[58:09.6 – 58:10.6] (3489.6–3490.6) y a partir de aquí,
+[58:11.0 – 58:15.5] (3491.0–3495.5) diseñar una estrategia de juego y una estrategia de entrenamiento.
+[58:16.2 – 58:17.8] (3496.2–3497.8) Esto es lo primero. Lo segundo.
+[58:18.8 – 58:21.2] (3498.8–3501.2) A mí me sorprende cuando escucho a gente que dice
+[58:21.2 – 58:24.5] (3501.2–3504.5) que si volvieran a hacer, haría exactamente lo mismo.
+[58:24.8 – 58:27.8] (3504.8–3507.8) Y yo pienso que este tipo debe ser muy tonto,
+[58:27.9 – 58:30.9] (3507.9–3510.9) porque esto significa, si no quiere cambiar nada,
+[58:31.1 – 58:34.4] (3511.1–3514.4) o bien que lo ha hecho perfecto, que no es mi caso,
+[58:34.4 – 58:36.7] (3514.4–3516.7) o bien que no ha aprendido nada.
+[58:37.2 – 58:40.7] (3517.2–3520.7) Yo creo que en la vida siempre cambiaríamos algo,
+[58:41.3 – 58:44.1] (3521.3–3524.1) porque si tú volvieras a empezar con la empresa
+[58:44.1 – 58:45.8] (3524.1–3525.8) lo harías exactamente igual.
+[58:46.6 – 58:50.3] (3526.6–3530.3) No, supongo que en donde te equivocaste
+[58:50.3 – 58:51.6] (3530.3–3531.6) pues algo cambiarías,
+[58:51.8 – 58:53.6] (3531.8–3533.6) pues lo mismo que yo,
+[58:53.7 – 58:57.4] (3533.7–3537.4) pues hubiera cambiado alguna cosa de las que hicimos,
+[58:58.0 – 58:59.8] (3538.0–3539.8) pues claro que la hubiera cambiado.
+[59:00.5 – 59:03.2] (3540.5–3543.2) Sí, no, y a eso se podría decir que yo creo
+[59:03.2 – 59:06.5] (3543.2–3546.5) se menciona el que hubieras hecho todo igual,
+[59:06.6 – 59:08.7] (3546.6–3548.7) es porque aprendes de esas cosas donde la cagas
+[59:08.7 – 59:09.9] (3548.7–3549.9) y si no la cagas no aprendes,
+[59:10.1 – 59:12.6] (3550.1–3552.6) entonces es un ciclo virtuoso de aprendizaje.
+[59:12.9 – 59:13.6] (3552.9–3553.6) Esto no es cierto,
+[59:14.5 – 59:18.7] (3554.5–3558.7) porque la gente dice que se prende más de las derrotas
+[59:18.7 – 59:20.2] (3558.7–3560.2) que de las victorias.
+[59:21.0 – 59:23.1] (3561.0–3563.1) Yo creo que no es necesariamente así
+[59:23.1 – 59:25.8] (3563.1–3565.8) porque uno no tiene que esperar a perder
+[59:26.7 – 59:28.2] (3566.7–3568.2) para dedicarse a aprender.
+[59:29.6 – 59:33.0] (3569.6–3573.0) Porque muchas veces las derrotas son por dos o tres puntos.
+[59:33.2 – 59:40.1] (3573.2–3580.1) de diferencias, lo mismo que dos o tres puntos te marcan la diferencia en la victoria.
+[59:40.8 – 59:44.7] (3580.8–3584.7) Tú tienes que esperar a perder estos dos o tres puntos, yo nunca esperé.
+[59:45.1 – 59:53.2] (3585.1–3593.2) Yo analicé la situación y dije, tenemos que hacer esto mejor, esto, esto y esto.
+[59:53.5 – 59:56.7] (3593.5–3596.7) Y no esperé a perder para saber lo que tenía que mejorar.
+[59:57.4 – 1:00:00.6] (3597.4–3600.6) Porque entendía que el proceso era continuo.
+[1:00:00.6 – 1:00:05.7] (3600.6–3605.7) La mejora, la voluntad de mejora tiene que ser contínua siempre.
+[1:00:05.9 – 1:00:08.3] (3605.9–3608.3) ¿Tú cómo ves ahora el fenómeno de Carlos Alcaraz?
+[1:00:09.2 – 1:00:12.8] (3609.2–3612.8) Tenísticamente me parece buenísimo.
+[1:00:14.5 – 1:00:16.1] (3614.5–3616.1) Lo hace todo y todo lo hace bien.
+[1:00:16.8 – 1:00:17.8] (3616.8–3617.8) Es el más rápido.
+[1:00:20.5 – 1:00:24.0] (3620.5–3624.0) Tiene unos golpes demoledores, tanto de drive, de revés.
+[1:00:25.0 – 1:00:28.8] (3625.0–3628.8) Tiene el saque que es tal vez lo menos bueno,
+[1:00:28.8 – 1:00:37.4] (3628.8–3637.4) pero creo que también tiene un buen saque, es habilidoso, le falla un poco a veces no
+[1:00:37.4 – 1:00:44.5] (3637.4–3644.5) sé si se despista o tácticamente, pero es buenísimo. Para mí, a mí me gusta más
+[1:00:44.5 – 1:00:50.8] (3644.5–3650.8) Alcaraz que Siner, pero hoy en día pues Siner es algo más fiable que él, pero
+[1:00:51.5 – 1:00:56.6] (3651.5–3656.6) Alcaraz me parece, ya te digo, un jugador extraordinario.
+[1:00:56.6 – 1:00:59.7] (3656.6–3659.7) Si él te llama ahora mismo para que la entrenes, ¿la entrenarías?
+[1:01:00.4 – 1:01:06.2] (3660.4–3666.2) Seguro que no me va a llamar. Creo que tiene suficientes buenos entrenadores. Creo que no
+[1:01:06.2 – 1:01:17.6] (3666.2–3677.6) necesita para nada mi ayuda. Y si me llamara, pues a mí no me gustaría que él sobrepasara
+[1:01:17.6 – 1:01:21.8] (3677.6–3681.8) a Rafael. Si es que tendría un problema.
+[1:01:22.7 – 1:01:28.0] (3682.7–3688.0) ¿Y cómo ves tú el tenis ahora versus el que tú estuviste compitiendo muchos años
+[1:01:28.0 – 1:01:28.1] (3688.0–3688.1) con él?
+[1:01:28.1 – 1:01:32.9] (3688.1–3692.9) Hay unas ciertas diferencias que a mí no me atrae, a mí me gusta el deporte cuando
+[1:01:32.9 – 1:01:41.8] (3692.9–3701.8) es de pelota o cuando no es solo correr o nadar o ir más rápido o saltar un poco
+[1:01:41.8 – 1:01:42.3] (3701.8–3702.3) más.
+[1:01:42.3 – 1:01:49.6] (3702.3–3709.6) A mí me gusta el deporte cuando va unido a la mente también.
+[1:01:50.2 – 1:01:57.5] (3710.2–3717.5) Tanto a nivel táctico como a nivel de resiliencia, esto es lo que a mí me gusta del deporte.
+[1:01:58.7 – 1:02:03.3] (3718.7–3723.3) Hoy en día, esto ha pasado un poco a mejor vida en el mundo del tenis,
+[1:02:04.6 – 1:02:10.2] (3724.6–3730.2) pues como se le pega tan fuerte a la pelota, pues prácticamente ya no hay táctica,
+[1:02:10.2 – 1:02:16.5] (3730.2–3736.5) es pegarle lo más fuerte que puedas da igual donde la tires claro a mí esto me
+[1:02:16.5 – 1:02:21.8] (3736.5–3741.8) gusta menos a mí me gustaba más del juego que era de pensar un poco más el
+[1:02:21.8 – 1:02:26.9] (3741.8–3746.9) deporte lo he dicho antes el deporte para mí tiene sentido si si aplicas un
+[1:02:26.9 – 1:02:36.3] (3746.9–3756.3) poco de táctica si si tú pues bueno hay una serie de valores que los
+[1:02:37.0 – 1:02:43.5] (3757.0–3763.5) potencias, claro, hoy en día pues hemos entrado en un mundo donde todo está tan
+[1:02:43.5 – 1:02:48.4] (3763.5–3768.4) estudiado tanto a nivel no solo tenístico en el mundo del fútbol en
+[1:02:48.4 – 1:02:55.5] (3768.4–3775.5) todo que esto va en detrimento de la creatividad, claro, eso a mí me
+[1:02:55.5 – 1:03:01.5] (3775.5–3781.5) apasiona menos, a mí prefiero más ver un juego algo inferior pero más
+[1:03:01.5 – 1:03:07.0] (3781.5–3787.0) racional, más táctico, hoy en día casi no hay espacio para eso.
+[1:03:07.2 – 1:03:10.5] (3787.2–3790.5) Pues antes de terminar, Toni, y dejar que todos los estudiantes
+[1:03:10.5 – 1:03:12.4] (3790.5–3792.4) que nos acompañan te hagan preguntas,
+[1:03:12.6 – 1:03:13.8] (3792.6–3793.8) que se les hayan quedado pendientes,
+[1:03:14.6 – 1:03:17.7] (3794.6–3797.7) nos gustaría repasar un par de casos de éxito
+[1:03:17.7 – 1:03:20.3] (3797.7–3800.3) para saber un poco tu opinión.
+[1:03:21.5 – 1:03:27.1] (3801.5–3807.1) Creo que voy a dejarle a Bruno empezar con su golfista favorito.
+[1:03:27.5 – 1:03:29.8] (3807.5–3809.8) Bueno, no soy golfista favorito, eso me posiciona un poco.
+[1:03:29.8 – 1:03:30.6] (3809.8–3810.6) ¿Juegas a golf?
+[1:03:30.9 – 1:03:33.3] (3810.9–3813.3) Sí, estoy empezando, pero soy muy malo.
+[1:03:33.6 – 1:03:35.8] (3813.6–3815.8) Necesito ti en mi vida, a ver si te vas a ayudar un poco.
+[1:03:35.9 – 1:03:38.1] (3815.9–3818.1) No sé si te voy a dar muy buenos consejos.
+[1:03:39.1 – 1:03:42.0] (3819.1–3822.0) Hay el caso, primero, de Tiger Woods, ¿vale?
+[1:03:42.2 – 1:03:42.5] (3822.2–3822.5) Sí.
+[1:03:42.9 – 1:03:45.9] (3822.9–3825.9) No sé si tú, como de cercana, tienes su carrera o no.
+[1:03:46.0 – 1:03:48.6] (3826.0–3828.6) Sí, sí, yo juego a golf y sigo.
+[1:03:48.8 – 1:03:49.3] (3828.8–3829.3) Fantástico.
+[1:03:49.4 – 1:03:52.3] (3829.4–3832.3) Yo me vi hace unos años un documental suyo
+[1:03:52.3 – 1:03:54.0] (3832.3–3834.0) que me llamó especial atención,
+[1:03:54.5 – 1:03:56.1] (3834.5–3836.1) que hablaba de la carrera de Tiger Woods
+[1:03:56.1 – 1:03:59.4] (3836.1–3839.4) y cómo Earl Woods, su padre, había tenido una presencia máxima.
+[1:03:59.4 – 1:04:04.1] (3839.4–3844.1) Es el que le educó a jugar al golf desde que tenía dos años Tiger.
+[1:04:04.6 – 1:04:06.6] (3844.6–3846.6) Es el que le pone...
+[1:04:06.6 – 1:04:10.3] (3846.6–3850.3) le mete en su cabeza este instinto casi como de ganador
+[1:04:10.3 – 1:04:12.8] (3850.3–3852.8) o de ser algo más allá del golf.
+[1:04:13.0 – 1:04:17.7] (3853.0–3857.7) Creo que hasta una rueda de prensa dice que su hijo va a llegar
+[1:04:17.7 – 1:04:19.6] (3857.7–3859.6) más lejos que solo será el mejor golfista del mundo,
+[1:04:19.7 – 1:04:22.1] (3859.7–3862.1) sino que va a ser alguien como Gandhi,
+[1:04:22.3 – 1:04:24.0] (3862.3–3864.0) que va a ser un ser superior.
+[1:04:24.8 – 1:04:28.0] (3864.8–3868.0) Entonces, engrandecía mucho el mensaje de Tiger Woods
+[1:04:28.0 – 1:04:30.0] (3868.0–3870.0) Y así es como le educó.
+[1:04:30.3 – 1:04:32.2] (3870.3–3872.2) También me acuerdo que en los entrenamientos,
+[1:04:32.7 – 1:04:34.7] (3872.7–3874.7) el golf, que es un deporte como súper silencioso,
+[1:04:34.8 – 1:04:35.4] (3874.8–3875.4) y que tienes que estar...
+[1:04:35.4 – 1:04:39.8] (3875.4–3879.8) Él iba hablando y le iba diciendo cosas para joderle mediante el golpe.
+[1:04:40.4 – 1:04:42.6] (3880.4–3882.6) Y era como, joder, este fenómeno de padre-hijo,
+[1:04:42.7 – 1:04:46.2] (3882.7–3886.2) una alianza absoluta, absolutamente obsesiva,
+[1:04:46.7 – 1:04:49.7] (3886.7–3889.7) y casi uno podría llegar a decir tóxica en cierta manera.
+[1:04:49.9 – 1:04:52.5] (3889.9–3892.5) ¿Tú cómo ves ese caso y qué opinas?
+[1:04:52.8 – 1:04:55.3] (3892.8–3895.3) Sé cosas, porque las he leído.
+[1:04:56.8 – 1:05:02.3] (3896.8–3902.3) Evidentemente tú si quieres llegar muy arriba tienes que tener una exigencia muy alta, no
+[1:05:02.3 – 1:05:08.2] (3902.3–3908.2) queda más remedio, hay distintos caminos, creo que no sé el caso de McIlroy que también
+[1:05:08.2 – 1:05:15.4] (3908.2–3915.4) es un gran jugador, pero yo creo que al final cada uno de nosotros los que estamos con
+[1:05:15.4 – 1:05:23.4] (3915.4–3923.4) jóvenes, creo que el entrenador igual que un profesor tiene que adaptar la enseñanza
+[1:05:23.4 – 1:05:31.4] (3923.4–3931.4) a la capacidad de su jugador o de su alumno y, adaptándola,
+[1:05:31.4 – 1:05:35.0] (3931.4–3935.0) tiene que conseguir que este alumno vaya mejorando.
+[1:05:35.2 – 1:05:38.5] (3935.2–3938.5) Claro, en el caso del padre de Tiger Woods,
+[1:05:39.0 – 1:05:42.8] (3939.0–3942.8) hacía esto y Tiger respondía bien.
+[1:05:43.0 – 1:05:45.1] (3943.0–3945.1) Si Tiger no hubiera respondido bien,
+[1:05:45.7 – 1:05:47.8] (3945.7–3947.8) todo lo que hacía no hubiera servido.
+[1:05:48.1 – 1:05:52.4] (3948.1–3952.4) En el caso de mi sobrino, pues lo mismo,
+[1:05:52.4 – 1:05:55.1] (3952.4–3955.1) Yo hacía una serie de cosas
+[1:05:55.7 – 1:06:00.6] (3955.7–3960.6) y, en el caso de yo que veía, aquí él respondía bien.
+[1:06:00.8 – 1:06:04.3] (3960.8–3964.3) A lo mejor, con otros, procuré hacer cosas parecidas
+[1:06:04.3 – 1:06:05.6] (3964.3–3965.6) y no respondió, claro.
+[1:06:06.0 – 1:06:07.8] (3966.0–3967.8) Cuando tú has tenido mucho éxito,
+[1:06:08.4 – 1:06:10.3] (3968.4–3970.3) el éxito de un Tiger Woods,
+[1:06:10.7 – 1:06:15.2] (3970.7–3975.2) parece ser que todo es perfecto,
+[1:06:15.3 – 1:06:17.9] (3975.3–3977.9) pero, claro, no puedo opinar más de eso.
+[1:06:18.5 – 1:06:20.4] (3978.5–3980.4) Sí que creo que hay cosas que están bien.
+[1:06:20.4 – 1:06:23.8] (3980.4–3983.8) Es decir, para que uno sea un gran jugador de tenis,
+[1:06:24.1 – 1:06:26.0] (3984.1–3986.0) como para la inmensa mayoría de cosas,
+[1:06:26.5 – 1:06:30.0] (3986.5–3990.0) tú tienes que tener una condición, más que ser muy inteligente,
+[1:06:30.2 – 1:06:32.1] (3990.2–3992.1) tienes que tener una gran atención.
+[1:06:32.9 – 1:06:35.4] (3992.9–3995.4) El padre de Tiger Woods logró eso.
+[1:06:35.8 – 1:06:38.1] (3995.8–3998.1) Logró que él tuviera esta determinación.
+[1:06:38.2 – 1:06:41.0] (3998.2–4001.0) Tú le ves la cara, los ojos a Tiger,
+[1:06:41.7 – 1:06:43.0] (4001.7–4003.0) cuando jugaba bien,
+[1:06:43.8 – 1:06:45.7] (4003.8–4005.7) cuando iba a pegar un pato o un golpe,
+[1:06:45.9 – 1:06:47.2] (4005.9–4007.2) tú decías, la va a meter.
+[1:06:48.2 – 1:06:51.5] (4008.2–4011.5) porque tú te trasladaba esta sensación
+[1:06:52.1 – 1:06:56.7] (4012.1–4016.7) de que él tenía la determinación y la voluntad de hacerlo,
+[1:06:57.1 – 1:06:58.8] (4017.1–4018.8) pero no conozco mucho más que eso.
+[1:06:59.1 – 1:07:01.5] (4019.1–4021.5) Luego está el caso de las hermanas Williams
+[1:07:01.5 – 1:07:06.5] (4021.5–4026.5) y he oído que su padre escribió un documento de 78 páginas
+[1:07:06.5 – 1:07:08.9] (4026.5–4028.9) con un plan maestro, antes de que ellas naciesen,
+[1:07:09.5 – 1:07:12.2] (4029.5–4032.2) de cómo ellas se van a convertir en las mejores de la historia.
+[1:07:12.8 – 1:07:16.6] (4032.8–4036.6) Me parece extraño, porque antes de nacer
+[1:07:16.6 – 1:07:20.9] (4036.6–4040.9) no sabes si una tendrá, si saldrá de una manera o de la otra.
+[1:07:21.4 – 1:07:21.7] (4041.4–4041.7) Imagínate.
+[1:07:21.9 – 1:07:25.2] (4041.9–4045.2) ¿Tú tienes un plan escrito ahí que hiciste en su día de Rafa?
+[1:07:25.8 – 1:07:27.0] (4045.8–4047.0) Yo no tengo plan.
+[1:07:27.6 – 1:07:30.2] (4047.6–4050.2) Yo no seguí nunca un método, yo seguí mi lógica,
+[1:07:30.3 – 1:07:31.3] (4050.3–4051.3) mi sentido común.
+[1:07:32.1 – 1:07:37.4] (4052.1–4057.4) Y después hay mucha, mucha literatura alrededor.
+[1:07:37.6 – 1:07:38.5] (4057.6–4058.5) Yo las Williams,
+[1:07:39.3 – 1:07:43.1] (4059.3–4063.1) conviví con ellas en el circuito en muchas ocasiones.
+[1:07:43.8 – 1:07:47.2] (4063.8–4067.2) de la película a la realidad, hay bastante diferencia.
+[1:07:47.4 – 1:07:47.7] (4067.4–4067.7) Ya.
+[1:07:48.0 – 1:07:52.8] (4068.0–4072.8) Entonces, claro, yo no sé si él escribió un documento
+[1:07:52.8 – 1:07:56.6] (4072.8–4076.6) de 78 hojas, no sé para quién era el documento,
+[1:07:56.6 – 1:08:00.4] (4076.6–4080.4) porque si era suyo ya lo tenía en la cabeza,
+[1:08:00.5 – 1:08:01.9] (4080.5–4081.9) no hacía falta escribirlo.
+[1:08:02.2 – 1:08:06.1] (4082.2–4086.1) Si lo quería trasladar a alguien, pues que lo publique
+[1:08:06.1 – 1:08:08.7] (4086.1–4088.7) y otros tomarían el ejemplo.
+[1:08:08.9 – 1:08:11.8] (4088.9–4091.8) Pero la realidad es que tú no sabes...
+[1:08:11.8 – 1:08:16.5] (4091.8–4096.5) Si tú no tienes un buen elemento, es difícil que...
+[1:08:18.0 – 1:08:21.0] (4098.0–4101.0) que con tu aportación
+[1:08:22.4 – 1:08:24.5] (4102.4–4104.5) consigas un éxito muy elevado.
+[1:08:25.2 – 1:08:28.5] (4105.2–4108.5) Y después, el último caso que tenemos es el de Topuria.
+[1:08:28.8 – 1:08:29.6] (4108.8–4109.6) Noilea Topuria.
+[1:08:29.7 – 1:08:31.1] (4109.7–4111.1) No lo conozco en absoluto.
+[1:08:31.2 – 1:08:36.3] (4111.2–4116.3) La verdad es que sé que se le da bastante a Topuria.
+[1:08:36.3 – 1:08:38.4] (4116.3–4118.4) Pero ¿sabes quién es? Sí, sé quién es.
+[1:08:39.1 – 1:08:41.2] (4119.1–4121.2) Pero a veces, cuando miro vídeos,
+[1:08:41.8 – 1:08:48.3] (4121.8–4128.3) Ya es, y me pasa un vídeo de estos que se pegan de esa manera,
+[1:08:48.4 – 1:08:49.6] (4128.4–4129.6) prefiero más no verlo yo.
+[1:08:50.3 – 1:08:55.7] (4130.3–4135.7) La verdad es que darse patadas y eso no es una cosa que me guste,
+[1:08:55.8 – 1:08:58.8] (4135.8–4138.8) a ver, no le quito ningún mérito a él,
+[1:08:59.7 – 1:09:06.5] (4139.7–4146.5) pero no entra dentro de mi razonamiento trasío.
+[1:09:06.9 – 1:09:09.3] (4146.9–4149.3) No, pero todavía por unas enloquidas puedes razonar.
+[1:09:09.3 – 1:09:12.3] (4149.3–4152.3) él, algo que le ha hecho como muy icónico
+[1:09:12.3 – 1:09:16.4] (4152.3–4156.4) es más que solo su pelea, es su forma de ser ante la pelea.
+[1:09:16.7 – 1:09:18.5] (4156.7–4158.5) Y creo que en su última pelea, si no me equivoco,
+[1:09:19.0 – 1:09:20.8] (4159.0–4160.8) él tenía en su descripción de Instagram
+[1:09:20.8 – 1:09:24.1] (4160.8–4164.1) un número de 14-0, que era la cantidad de peleas que había ganado,
+[1:09:24.3 – 1:09:26.9] (4164.3–4166.9) y el día antes de la pelea se lo cambió a 15-0.
+[1:09:27.3 – 1:09:30.7] (4167.3–4170.7) Como de alguna manera manifestando lo que estaba a punto de suceder.
+[1:09:31.7 – 1:09:34.8] (4171.7–4174.8) Y en tu caso, quería ver si vosotros, en el caso de Rafa,
+[1:09:35.1 – 1:09:38.3] (4175.1–4178.3) habíais aplicado esta lógica de visualizar
+[1:09:38.3 – 1:09:39.5] (4178.3–4179.5) ¿Un win?
+[1:09:39.9 – 1:09:42.2] (4179.9–4182.2) No, y aparte, no lo diría yo.
+[1:09:43.5 – 1:09:45.4] (4183.5–4185.4) Esto es como si Amancio...
+[1:09:45.4 – 1:09:48.6] (4185.4–4188.6) ¿No has visto ningún tuit de que iba a ganar un win el día antes?
+[1:09:49.0 – 1:09:53.7] (4189.0–4193.7) No, nunca en la vida porque, además, no es mi manera de ser.
+[1:09:54.6 – 1:09:54.9] (4194.6–4194.9) No...
+[1:09:54.9 – 1:09:59.2] (4194.9–4199.2) Es como si Amancio Ortega se pusiera billetes de 1.000 o de 500
+[1:09:59.2 – 1:10:01.4] (4199.2–4201.4) para demostrar que tiene mucho dinero.
+[1:10:01.5 – 1:10:03.2] (4201.5–4203.2) Ya lo tiene, no hace falta que lo demuestre.
+[1:10:03.8 – 1:10:06.2] (4203.8–4206.2) Las 14 victorias, las tiene.
+[1:10:06.2 – 1:10:14.2] (4206.2–4214.2) no hace falta se lo diga la gente entiendo yo a ver cada cual que haga lo que haga y que el y
+[1:10:14.2 – 1:10:21.5] (4214.2–4221.5) perfecto y no no le no le recrimió ni le reprocha nada yo lo único que digo es que yo no lo haría
+[1:10:23.0 – 1:10:30.4] (4223.0–4230.4) porque no porque no sé lo que va a pasar en la quinceava la decimo quinta no sé si voy a
+[1:10:30.4 – 1:10:32.9] (4230.4–4232.9) entonces no lo escribo.
+[1:10:33.0 – 1:10:36.1] (4233.0–4236.1) Vale, ahora sí que ya vamos a lo último,
+[1:10:36.4 – 1:10:39.9] (4236.4–4239.9) antes de que nos hagan todas las preguntas estos jóvenes aquí,
+[1:10:40.1 – 1:10:41.6] (4240.1–4241.6) que estoy seguro que tendrán alguna,
+[1:10:42.1 – 1:10:45.5] (4242.1–4245.5) que es un consejo que tú darías para la juventud de hoy en día.
+[1:10:45.8 – 1:10:48.2] (4245.8–4248.2) Es que hagan aquello que...
+[1:10:48.2 – 1:10:51.8] (4248.2–4251.8) No aquello de que hagan lo que les guste,
+[1:10:52.1 – 1:10:53.6] (4252.1–4253.6) sino que les guste lo que hacen.
+[1:10:54.4 – 1:10:57.7] (4254.4–4257.7) Hay una cosa que entiendo fundamental en la vida
+[1:10:57.7 – 1:10:59.2] (4257.7–4259.2) que es el compromiso.
+[1:10:60.0 – 1:11:03.2] (4260.0–4263.2) Todos tenemos que estar dispuestos a comprometernos
+[1:11:03.8 – 1:11:07.0] (4263.8–4267.0) a hacer aquello por lo que hemos sido requeridos
+[1:11:07.0 – 1:11:08.8] (4267.0–4268.8) de la mejor manera posible.
+[1:11:09.0 – 1:11:11.8] (4269.0–4271.8) El compromiso crea confianza.
+[1:11:12.1 – 1:11:14.4] (4272.1–4274.4) Esto es algo que yo le repetí a Rafael.
+[1:11:14.9 – 1:11:18.6] (4274.9–4278.6) Cuando vamos al médico, tú quieres su máximo compromiso.
+[1:11:19.7 – 1:11:25.8] (4279.7–4285.8) Luego, cuando tú eres el que te tienes que comprometer,
+[1:11:26.5 – 1:11:28.4] (4286.5–4288.4) tienes que hacer las cosas exactamente igual.
+[1:11:28.4 – 1:11:34.7] (4288.4–4294.7) cuando la gente que vio jugar a rafael pues yo creo que rafael les trasladó
+[1:11:34.7 – 1:11:39.3] (4294.7–4299.3) esta confianza porque se la trasladó no no solo
+[1:11:39.3 – 1:11:44.0] (4299.3–4304.0) porque ganara muchas veces sino porque la gente que lo veía jugar sabía que
+[1:11:44.0 – 1:11:48.5] (4304.0–4308.5) rafael lucharía hasta el final que haría las cosas de la mejor manera
+[1:11:48.5 – 1:11:55.1] (4308.5–4315.1) posible y esto no depende sólo de tener la suerte de hacer un trabajo
+[1:11:55.8 – 1:12:06.4] (4315.8–4326.4) extraordinario. El otro día yo veía un vídeo en internet, estoy entrando en youtube y eran
+[1:12:06.4 – 1:12:16.4] (4326.4–4336.4) unos que descargaban las maletas en el aeropuerto. Salía en México, en Estados Unidos, no sé
+[1:12:16.4 – 1:12:26.8] (4336.4–4346.8) dónde más, y tiraban las maletas de cualquier manera, sin prestar ninguna atención, maltratándolas.
+[1:12:26.8 – 1:12:34.5] (4346.8–4354.5) Después había el mismo trabajo, hecho en Japón, en China, en Singapur y tú veías
+[1:12:34.5 – 1:12:43.5] (4354.5–4363.5) cómo la gente cuidaba las maletas, las colocaban pacientemente y ordenadamente, sin maltratarlas.
+[1:12:43.7 – 1:12:48.1] (4363.7–4368.1) Al final, hagas lo que hagas en la vida, tienes que intentar hacerlo bien.
+[1:12:48.6 – 1:12:52.7] (4368.6–4372.7) Yo sé que hay trabajos no muy estimulantes.
+[1:12:52.7 – 1:13:00.6] (4372.7–4380.6) Lo que pasa es que tú tienes la posibilidad de comprometer, de comprometerte a hacerlo bien.
+[1:13:01.1 – 1:13:03.7] (4381.1–4383.7) Y eso es lo que creo que tiene que hacer la gente.
+[1:13:04.2 – 1:13:13.1] (4384.2–4393.1) Porque una sociedad no puede funcionar nunca bien si cada uno de nosotros no nos comprometemos a hacer las cosas
+[1:13:13.1 – 1:13:20.8] (4393.1–4400.8) bien para lo que hemos sido requeridos. Y esto yo creo que es fundamental a nivel de trabajo.
+[1:13:20.8 – 1:13:26.9] (4400.8–4406.9) Después, en la vida, por encima de todo, uno tiene que ser buena gente.
+[1:13:28.1 – 1:13:30.5] (4408.1–4410.5) Hay que desconfiar de la mala gente siempre.
+[1:13:31.2 – 1:13:34.3] (4411.2–4414.3) Hay que intentar que a la mala gente no le vaya muy bien.
+[1:13:35.4 – 1:13:35.9] (4415.4–4415.9) Siempre.
+[1:13:37.5 – 1:13:40.5] (4417.5–4420.5) Uno tiene que intentar, por encima de todo, ser buena gente.
+[1:13:41.6 – 1:13:44.9] (4421.6–4424.9) Porque con los años te das cuenta que, por encima de todo,
+[1:13:45.5 – 1:13:46.5] (4425.5–4426.5) eso es lo esencial.
+[1:13:47.3 – 1:13:48.2] (4427.3–4428.2) Muy bien, Toni.
+[1:13:48.2 – 1:13:51.4] (4428.2–4431.4) Pues, un honor tenerte aquí junto a nosotros.
+[1:13:51.7 – 1:13:54.0] (4431.7–4434.0) Ah, no, no. Me estaba yendo ya. No nos vamos a ir.
+[1:13:54.6 – 1:13:58.7] (4434.6–4438.7) Antes de que nos vayamos, vamos a aprovechar para ver
+[1:13:59.3 – 1:14:01.8] (4439.3–4441.8) si alguien más tiene una pregunta de la audiencia.
+[1:14:02.6 – 1:14:04.5] (4442.6–4444.5) Bueno, vale, tenemos nuestra primera de puta madre.
+[1:14:05.6 – 1:14:07.2] (4445.6–4447.2) ¿Hay algún micrófono? Sí, genial.
+[1:14:07.8 – 1:14:09.2] (4447.8–4449.2) Hola. Hola.
+[1:14:09.9 – 1:14:11.3] (4449.9–4451.3) Bueno, yo quería preguntar.
+[1:14:11.3 – 1:14:14.2] (4451.3–4454.2) Yo he visto a Rafa desde bien pequeña
+[1:14:14.2 – 1:14:17.3] (4454.2–4457.3) y le he visto ganar mucho, pero también
+[1:14:18.2 – 1:14:21.1] (4458.2–4461.1) ha tenido muchas lesiones y le he visto realmente sufrir.
+[1:14:21.1 – 1:14:22.3] (4461.1–4462.3) Hasta yo he sufrido a veces.
+[1:14:23.2 – 1:14:26.7] (4463.2–4466.7) Entonces, mi pregunta es cómo se mantiene esa motivación,
+[1:14:27.1 – 1:14:29.1] (4467.1–4469.1) las ganas y, sobre todo, la ilusión
+[1:14:29.6 – 1:14:31.3] (4469.6–4471.3) en los momentos más difíciles.
+[1:14:31.8 – 1:14:33.4] (4471.8–4473.4) Bueno, porque uno, al final,
+[1:14:33.8 – 1:14:36.6] (4473.8–4476.6) entiende la globalidad de lo que haces.
+[1:14:37.1 – 1:14:39.2] (4477.1–4479.2) Tú sabes que en la vida lo que estás haciendo
+[1:14:39.2 – 1:14:42.9] (4479.2–4482.9) tiene momentos duros, momentos agradables.
+[1:14:43.5 – 1:14:46.2] (4483.5–4486.2) Tú no puedes esperar que todo te salga a pedir de boca.
+[1:14:46.9 – 1:14:48.1] (4486.9–4488.1) Decía que Bedo...
+[1:14:49.5 – 1:14:52.0] (4489.5–4492.0) Quien esta vida espere que todo esté a su gusto
+[1:14:52.0 – 1:14:53.7] (4492.0–4493.7) se llevará a muchos disgustos.
+[1:14:53.9 – 1:14:54.9] (4493.9–4494.9) Pedro Dominguez que Bedo.
+[1:14:55.3 – 1:14:57.3] (4495.3–4497.3) Sí, más o menos.
+[1:14:57.9 – 1:15:01.0] (4497.9–4501.0) Pues esta es una realidad.
+[1:15:01.7 – 1:15:04.2] (4501.7–4504.2) Al final, Rafael entendió que en la vida,
+[1:15:04.6 – 1:15:07.2] (4504.6–4507.2) bueno, había momentos para disfrutar,
+[1:15:07.4 – 1:15:10.9] (4507.4–4510.9) momentos que tenía que soportar esa dureza,
+[1:15:10.9 – 1:15:13.9] (4510.9–4513.9) pero por encima de todo estaba
+[1:15:13.9 – 1:15:18.9] (4513.9–4518.9) la satisfacción personal de haber cumplido esto
+[1:15:18.9 – 1:15:23.4] (4518.9–4523.4) y después la voluntad de ir creciendo, de ir mejorando
+[1:15:23.4 – 1:15:26.8] (4523.4–4526.8) y eso es lo que le motivaba a seguir aguantando.
+[1:15:27.3 – 1:15:28.3] (4527.3–4528.3) Gracias. Hola.
+[1:15:29.0 – 1:15:32.1] (4529.0–4532.1) Yo ya no soy estudiante pero bueno, voy a activar el modo intenso.
+[1:15:32.6 – 1:15:34.3] (4532.6–4534.3) A mí me pasa mucho que yo en mi trabajo
+[1:15:34.3 – 1:15:36.4] (4534.3–4536.4) como que me implico demasiado emocionalmente
+[1:15:36.4 – 1:15:39.6] (4536.4–4539.6) y quiero saber si hay algún tip o algún consejo
+[1:15:39.6 – 1:15:42.8] (4539.6–4542.8) para separar o encontrar el equilibrio y no quemarme
+[1:15:42.8 – 1:15:44.2] (4542.8–4544.2) porque siento que a veces quemo.
+[1:15:44.2 – 1:15:46.9] (4544.2–4546.9) Que es implicarse demasiado emocionalmente.
+[1:15:47.4 – 1:15:50.2] (4547.4–4550.2) Pues que igual un día mi trabajo depende de mi estado de ánimo
+[1:15:50.2 – 1:15:51.3] (4550.2–4551.3) y al revés.
+[1:15:51.4 – 1:15:53.1] (4551.4–4553.1) Pues tienes que procurar que no pase,
+[1:15:53.4 – 1:15:56.4] (4553.4–4556.4) porque si no es imposible trabajar muy bien.
+[1:15:58.0 – 1:16:02.2] (4558.0–4562.2) Al final, a ver, las cosas hay que entenderlas
+[1:16:02.2 – 1:16:03.2] (4562.2–4563.2) de manera relativa,
+[1:16:03.6 – 1:16:05.7] (4563.6–4565.7) entendiendo que uno tiene que hacer las cosas
+[1:16:05.7 – 1:16:07.9] (4565.7–4567.9) de la mejor manera posible,
+[1:16:07.9 – 1:16:11.5] (4567.9–4571.5) pero también sabiendo que, primero, no siempre
+[1:16:11.5 – 1:16:13.6] (4571.5–4573.6) vamos a rendir al máximo nivel,
+[1:16:13.9 – 1:16:19.1] (4573.9–4579.1) tenemos que intentar ir la mayor parte de las veces allí
+[1:16:19.1 – 1:16:22.3] (4579.1–4582.3) y también entender que nosotros somos seres humanos,
+[1:16:22.5 – 1:16:24.0] (4582.5–4584.0) nosotros no somos máquinas.
+[1:16:24.4 – 1:16:27.0] (4584.4–4587.0) A veces, pues, vamos a fallar.
+[1:16:27.3 – 1:16:30.2] (4587.3–4590.2) Rafael jugó no sé cuántos partidos en su vida,
+[1:16:30.7 – 1:16:32.3] (4590.7–4592.3) cuántos hizo muy buenos.
+[1:16:33.0 – 1:16:35.1] (4593.0–4595.1) Pues, menos de la mitad, supongo.
+[1:16:36.3 – 1:16:39.9] (4596.3–4599.9) Pero aún en los días que él,
+[1:16:40.2 – 1:16:42.3] (4600.2–4602.3) las cosas no salían como él quería,
+[1:16:42.8 – 1:16:44.5] (4602.8–4604.5) pues su mente estaba allí,
+[1:16:45.0 – 1:16:47.1] (4605.0–4607.1) esto es lo que creo que uno tiene que intentar.
+[1:16:47.6 – 1:16:48.8] (4607.6–4608.8) Después, ¿cómo hacerlo?
+[1:16:49.9 – 1:16:52.2] (4609.9–4612.2) Pues yo creo que las cosas solo hay...
+[1:16:52.2 – 1:16:53.6] (4612.2–4613.6) Yo no creo en milagros.
+[1:16:54.1 – 1:16:57.0] (4614.1–4617.0) Yo creo que las cosas se hacen haciéndolas.
+[1:16:57.9 – 1:17:00.4] (4617.9–4620.4) ¿Sabes? Ah, no, yo tengo que hacerlo, tengo que hacerlo.
+[1:17:01.1 – 1:17:04.8] (4621.1–4624.8) No hay... Ya te pueden dar consejos, esto, lo otro.
+[1:17:06.6 – 1:17:07.9] (4626.6–4627.9) Yo milagros no creo.
+[1:17:08.0 – 1:17:11.3] (4628.0–4631.3) Yo lo que creo es, escúchame, esto es lo que tengo que hacer, vamos.
+[1:17:11.3 – 1:17:13.1] (4631.3–4633.1) pues voy a hacerlo.
+[1:17:13.5 – 1:17:15.3] (4633.5–4635.3) ¿Algún más? Mira, detrás tuyo,
+[1:17:16.2 – 1:17:17.5] (4636.2–4637.5) el chico de las gafas.
+[1:17:17.6 – 1:17:19.8] (4637.6–4639.8) Hola, ¿has hablado antes
+[1:17:19.8 – 1:17:21.4] (4639.8–4641.4) de cómo gestionaba,
+[1:17:21.4 – 1:17:22.9] (4641.4–4642.9) bueno, cómo gestionaba tú y Rafa
+[1:17:22.9 – 1:17:25.4] (4642.9–4645.4) los momentos más de fracaso?
+[1:17:25.6 – 1:17:26.6] (4645.6–4646.6) Bueno, no fracaso, pero...
+[1:17:27.2 – 1:17:28.3] (4647.2–4648.3) Perder no es un fracaso.
+[1:17:28.3 – 1:17:30.8] (4648.3–4650.8) Sí, no, no sé, momentos de lesión o donde
+[1:17:31.6 – 1:17:32.6] (4651.6–4652.6) más peor ha estado.
+[1:17:32.8 – 1:17:34.4] (4652.8–4654.4) Pero yo quería saber y quería preguntarte
+[1:17:34.4 – 1:17:36.3] (4654.4–4656.3) en los momentos de mayor éxito
+[1:17:36.3 – 1:17:38.0] (4656.3–4658.0) cómo has ayudado tú a Rafa
+[1:17:38.7 – 1:17:41.4] (4658.7–4661.4) a gestionarlo y a combinarlo con la exigencia
+[1:17:41.4 – 1:17:42.9] (4661.4–4662.9) que supone estar en el máximo nivel.
+[1:17:43.1 – 1:17:47.4] (4663.1–4667.4) Porque yo nunca di una gran importancia al éxito.
+[1:17:47.5 – 1:17:49.9] (4667.5–4669.9) Yo no hice tragedias de las derrotas,
+[1:17:50.3 – 1:17:52.8] (4670.3–4672.8) no hice exageraciones de las victorias.
+[1:17:53.2 – 1:17:57.0] (4673.2–4677.0) Pero a mí siempre entendí que todo formaba parte del proceso.
+[1:17:57.6 – 1:18:00.7] (4677.6–4680.7) Y a mí lo que me importaba era seguir avanzando.
+[1:18:00.9 – 1:18:02.1] (4680.9–4682.1) ¿Sabes? Yo toda la vida.
+[1:18:02.7 – 1:18:05.2] (4682.7–4685.2) Incluso cuando ganaba, gano más,
+[1:18:05.2 – 1:18:09.3] (4685.2–4689.3) pues yo le decía, bueno, tenemos que seguir trabajando un poco más,
+[1:18:09.3 – 1:18:10.5] (4689.3–4690.5) trabajar un poco más.
+[1:18:10.9 – 1:18:13.0] (4690.9–4693.0) Y después, desde la normalidad,
+[1:18:13.6 – 1:18:18.7] (4693.6–4698.7) yo nunca dejé de saber que mi sobrino se dedicaba
+[1:18:18.7 – 1:18:23.8] (4698.7–4703.8) a algo muy simple, que es pegarle con una raqueta una pelota.
+[1:18:24.4 – 1:18:27.8] (4704.4–4707.8) Entonces, entendí aquello como algo normal
+[1:18:28.4 – 1:18:32.9] (4708.4–4712.9) y no le di nunca una gran importancia ni un gran valor.
+[1:18:32.9 – 1:18:40.0] (4712.9–4720.0) Entonces, bueno, vayamos a hacer las cosas de la mejor manera posible, pero sin desmesurar
+[1:18:40.0 – 1:18:43.5] (4720.0–4723.5) el éxito ni el reconocimiento ni nada.
+[1:18:44.6 – 1:18:50.8] (4724.6–4730.8) Y ligado a esta pregunta, has hablado antes también de que tuvo mala suerte al encontrarse
+[1:18:50.8 – 1:18:56.7] (4730.8–4736.7) en su casa con Djokovic y Federer, pero no crees que realmente le ayudó encontrarse
+[1:18:56.7 – 1:19:02.6] (4736.7–4742.6) con gente de, a lo mejor, un nivel superior en ciertos momentos, un nivel igual, a
+[1:19:02.6 – 1:19:06.0] (4742.6–4746.0) tenerse en ese nivel y a no relajarse,
+[1:19:06.3 – 1:19:08.8] (4746.3–4748.8) incluso en esos momentos donde se veía como el número uno.
+[1:19:09.6 – 1:19:10.1] (4749.6–4750.1) Yo no.
+[1:19:10.7 – 1:19:15.2] (4750.7–4755.2) Yo hubiera preferido encontrarme con Federico y con Djokovic.
+[1:19:15.5 – 1:19:18.5] (4755.5–4758.5) ¿Sabes? Al final, evidentemente,
+[1:19:19.1 – 1:19:22.2] (4759.1–4762.2) que ellos le ayudaron a superarse.
+[1:19:22.9 – 1:19:25.0] (4762.9–4765.0) Le forzaron a superarse,
+[1:19:25.3 – 1:19:28.0] (4765.3–4768.0) pero también le quitaron muchos títulos.
+[1:19:28.4 – 1:19:31.6] (4768.4–4771.6) ¿Sabes? Yo prefiero más encontrarme con el Djokovic actual
+[1:19:31.6 – 1:19:42.8] (4771.6–4782.8) que con el Djokovic del 2015, 2011 o con el del 2013 o de otros años, sabes, al final
+[1:19:42.8 – 1:19:51.3] (4782.8–4791.3) quiero encontrarme con un rival que me quita torneos, no, si Rafael no hubiera jugado con Federer
+[1:19:51.3 – 1:19:57.2] (4791.3–4797.2) a lo mejor ahora tendría cuatro Wimbledons, si no se hubiera encontrado con Djokovic
+[1:19:57.2 – 1:20:01.9] (4797.2–4801.9) a lo mejor tendría alguna Australia más o...
+[1:20:01.9 – 1:20:07.1] (4801.9–4807.1) Bueno, evidentemente que ellos le obligaron a elevar su juego.
+[1:20:07.4 – 1:20:12.0] (4807.4–4812.0) Igual que Djokovic y Rafael lo hicieron con Federer
+[1:20:12.0 – 1:20:14.6] (4812.0–4814.6) o Federer y Rafael lo hicieron con Djokovic.
+[1:20:15.2 – 1:20:20.3] (4815.2–4820.3) Pero en el deporte una cosa es que yo quiera mejorar
+[1:20:20.3 – 1:20:24.3] (4820.3–4824.3) y la otra es que alguien me lleve al límite
+[1:20:24.3 – 1:20:32.5] (4824.3–4832.5) y me haga perder, eso no, prefiero más que no pase. Gracias. ¿Alguna más que nos queda?
+[1:20:33.3 – 1:20:38.7] (4833.3–4838.7) ¿Nos queda alguno más? No, estoy mirando alrededor, hay algún tímido, no. Mira,
+[1:20:38.9 – 1:20:45.2] (4838.9–4845.2) mira, han salido todo, puta madre. Vale, vamos allá, la chica. Bueno, la última pregunta,
+[1:20:45.7 – 1:20:53.9] (4845.7–4853.9) me gustaría preguntar qué hace, o sea, qué tiene que tener un entrenador para ser un
+[1:20:53.9 – 1:20:59.6] (4853.9–4859.6) entrenador? Bueno, yo creo que un buen entrenador es un líder. El líder no es
+[1:20:59.6 – 1:21:05.3] (4859.6–4865.3) sólo lo que dice, es cómo lo dice y cuándo lo dice. Evidentemente también
+[1:21:06.7 – 1:21:10.6] (4866.7–4870.6) es quién lo dice, quién marca la diferencia. No es lo mismo que yo te
+[1:21:10.6 – 1:21:15.8] (4870.6–4875.8) diga algo a que te lo diga John McEnroe. Si te lo dice John McEnroe te lo
+[1:21:15.8 – 1:21:23.8] (4875.8–4883.8) vas a creer más que si te lo digo yo. Entonces esto... Pero un buen
+[1:21:23.8 – 1:21:34.3] (4883.8–4894.3) marcar bien el camino y, por encima de todo, motivarte a que tú trabajes lo máximo posible.
+[1:21:34.4 – 1:21:39.9] (4894.4–4899.9) Al final, yo que hice como entrenador, yo no sé si soy un muy buen entrenador, pero
+[1:21:39.9 – 1:21:46.9] (4899.9–4906.9) yo hice una cosa muy simple. Yo procuré toda la vida que Rafael quisiera hacer aquello
+[1:21:46.9 – 1:21:53.1] (4906.9–4913.1) que yo creía que tenía que hacer. ¿Sabes? Yo no intenté imponerme, yo intenté convencer
+[1:21:53.1 – 1:22:00.9] (4913.1–4920.9) mi sobrino, hacerle sentir la necesidad de que él hiciera todo lo aquello. Yo leía
+[1:22:00.9 – 1:22:08.7] (4920.9–4928.7) hace muchos años un libro de Javier Cercas que soldados de Salamina y
+[1:22:08.7 – 1:22:14.5] (4928.7–4934.5) recuerdo que en un momento dado el libro él dice la guerra la hacen los
+[1:22:14.5 – 1:22:20.6] (4934.5–4940.6) poetas y es cierto la guerra la hace el que te induce a ir a la guerra
+[1:22:20.6 – 1:22:26.1] (4940.6–4946.1) entonces es decir, es el poeta el que te induce, el buen entrenador igual que un
+[1:22:26.1 – 1:22:31.8] (4946.1–4951.8) buen profesor te tiene que inducir a que tú quieras hacer aquello, te tiene que
+[1:22:31.8 – 1:22:36.5] (4951.8–4956.5) trasladar confianza pero también tiene que tener un buen entendimiento del
+[1:22:36.5 – 1:22:42.2] (4956.5–4962.2) juego de lo que se necesita porque si te traslada confianza pero no aplica
+[1:22:42.8 – 1:22:49.5] (4962.8–4969.5) unos buenos criterios al final no va a salir y nunca uno puede ser un
+[1:22:49.5 – 1:22:53.2] (4969.5–4973.2) líder, ni un buen entrenador, si no es buena gente.
+[1:22:53.6 – 1:22:54.3] (4973.6–4974.3) Vale, gracias.
+[1:22:54.6 – 1:22:59.1] (4974.6–4979.1) Y vamos a hacer una más que creo que he visto antes alguien ahí, mira, genial el chico ese
+[1:22:59.1 – 1:22:59.6] (4979.1–4979.6) del fondo.
+[1:22:60.0 – 1:23:00.9] (4980.0–4980.9) Hola, buenas tardes.
+[1:23:01.0 – 1:23:01.5] (4981.0–4981.5) Hola, ¿qué tal?
+[1:23:02.1 – 1:23:08.2] (4982.1–4988.2) Yo quería preguntarte si crees que sin ti como entrenador, Rafa hubiera llegado igual
+[1:23:08.2 – 1:23:11.6] (4988.2–4991.6) de lejos o más o menos, ¿qué es lo que piensas?
+[1:23:11.9 – 1:23:17.5] (4991.9–4997.5) Seguro que probablemente se hubiera dedicado al fútbol lo primero, porque a él toda
+[1:23:17.5 – 1:23:24.0] (4997.5–5004.0) la vida le gustó más el fútbol que el tenis, curiosamente de fútbol entiende poco, es
+[1:23:24.0 – 1:23:28.8] (5004.0–5008.8) aficionado de un equipo que va de blanco en lugar de ser aficionado de un equipo que
+[1:23:28.8 – 1:23:38.4] (5008.8–5018.4) está por aquí cerca, pero en fin, yo creo que hubiera ganado parecido, porque al
+[1:23:38.4 – 1:23:48.0] (5018.4–5028.0) Al final, decir lo que yo dije es fácil, lo difícil es hacerlo, trasladar bien el
+[1:23:48.6 – 1:23:55.7] (5028.6–5035.7) mensaje creo que es fácil, lo difícil es aplicarlo y Rafael lo hubiera aplicado con
+[1:23:55.7 – 1:24:00.7] (5035.7–5040.7) cualquiera, yo no sé si habría ganado igual, más o menos, no lo sé, pero creo
+[1:24:00.7 – 1:24:06.4] (5040.7–5046.4) que habría sido un gran jugador igualmente, pero es verdad también, por otra parte,
+[1:24:06.4 – 1:24:10.2] (5046.4–5050.2) que yo le acostumbré a entrenar cada día
+[1:24:10.2 – 1:24:11.8] (5050.2–5051.8) como si fuera un día especial.
+[1:24:12.0 – 1:24:17.4] (5052.0–5057.4) A entrenar cada día como si fuera el último,
+[1:24:17.6 – 1:24:19.4] (5057.6–5059.4) como si fuera el más importante.
+[1:24:19.9 – 1:24:21.3] (5059.9–5061.3) Pues ahora, Toni, antes de terminar,
+[1:24:21.6 – 1:24:24.8] (5061.6–5064.8) vamos con una sección que es la de preguntas rápidas.
+[1:24:25.2 – 1:24:26.8] (5065.2–5066.8) ¿Cuál es el sentido en tu vida?
+[1:24:26.9 – 1:24:30.7] (5066.9–5070.7) El sentido es moverme, es tener una ilusión.
+[1:24:31.0 – 1:24:32.6] (5071.0–5072.6) ¿El mejor jugador de tenis de la historia?
+[1:24:33.3 – 1:24:33.8] (5073.3–5073.8) Djokovic.
+[1:24:33.8 – 1:24:37.2] (5073.8–5077.2) ¿Y el mejor deportista de todos los tiempos?
+[1:24:37.2 – 1:24:37.6] (5077.2–5077.6) Messi
+[1:24:37.6 – 1:24:40.0] (5077.6–5080.0) ¿Un partido de Rafa que tengas guardado en tu memoria?
+[1:24:40.9 – 1:24:49.0] (5080.9–5089.0) Tengo muchos, pero desde la final de Monte Carlo, París o Wimbledon
+[1:24:49.5 – 1:24:51.1] (5089.5–5091.1) ¿La peor de sus derrotas?
+[1:24:51.4 – 1:24:56.1] (5091.4–5096.1) La de 2012 ante Novak Djokovic en Australia
+[1:24:56.5 – 1:24:58.2] (5096.5–5098.2) ¿Puedes recomendarnos un libro para la vida?
+[1:24:58.2 – 1:25:07.6] (5098.2–5107.6) Yo recomendaría uno, que es la civilización del espectáculo de Margas Llosa, que curiosamente también se murió creo que la semana pasada.
+[1:25:07.7 – 1:25:08.9] (5107.7–5108.9) ¿Sigues viendo tenis?
+[1:25:09.5 – 1:25:21.9] (5109.5–5121.9) Sí, no todo, pero veo trozos. Ayer vi un trozo del Casper Ruth, ya que Casper Ruth ha entrenado en nuestra academia y está con un entrenador de la academia.
+[1:25:23.8 – 1:25:26.3] (5123.8–5126.3) Pues sí, veo, pero no como antes.
+[1:25:26.9 – 1:25:28.7] (5126.9–5128.7) Alcaraz. ¿Ganará más títulos que Rafa?
+[1:25:29.7 – 1:25:31.6] (5129.7–5131.6) Espero y deseo que no.
+[1:25:34.2 – 1:25:35.7] (5134.2–5135.7) Espero que no, pero...
+[1:25:37.0 – 1:25:40.6] (5137.0–5140.6) es muy, muy bueno y puede ganar lo que haga falta.
+[1:25:41.7 – 1:25:43.2] (5141.7–5143.2) ¿El valor más importante en el deporte?
+[1:25:43.9 – 1:25:47.9] (5143.9–5147.9) Para mí es la suplegación, es el reto de marcarte un objetivo
+[1:25:48.6 – 1:25:50.5] (5148.6–5150.5) y luchar para conseguirlo.
+[1:25:50.8 – 1:25:53.1] (5150.8–5153.1) ¿Una frase o un principio que guíe tu vida?
+[1:25:53.4 – 1:25:54.9] (5153.4–5154.9) No hay solo uno, hay muchos.
+[1:25:56.3 – 1:26:02.4] (5156.3–5162.4) Y a mi vida lo que buscamos todos es ser felices, pero ¿cómo lo conseguimos?
+[1:26:02.4 – 1:26:09.4] (5162.4–5169.4) Yo creo que es más fácil llevando una vida normal, una vida donde tengas un objetivo,
+[1:26:09.5 – 1:26:11.5] (5169.5–5171.5) donde quieras superarte.
+[1:26:11.6 – 1:26:14.4] (5171.6–5174.4) ¿Una manía que tenía Rafa antes de los partidos?
+[1:26:15.7 – 1:26:23.5] (5175.7–5183.5) Tenía bastantes. Bueno, la manía antes de los partidos era correr como un loco en el vestuario.
+[1:26:23.7 – 1:26:25.5] (5183.7–5185.5) Tanto que un día saltando para arriba se dio la cabeza.
+[1:26:25.5 – 1:26:31.4] (5185.5–5191.4) una cosa hacía cosas de estas algo que no se puede entrenar
+[1:26:31.4 – 1:26:36.9] (5191.4–5196.9) yo creo que todo se puede todo en la vida es susceptible de mejor cuál es el
+[1:26:36.9 – 1:26:43.9] (5196.9–5203.9) rival que más respeto le generaba es que todos los rivales es que esto está
+[1:26:43.9 – 1:26:50.1] (5203.9–5210.1) confundido el respeto es hacia todo el mundo indistintamente que sea un gran
+[1:26:50.1 – 1:26:54.7] (5210.1–5214.7) rival o un pequeño rival entonces el que más temía el que más temía
+[1:26:54.7 – 1:27:02.0] (5214.7–5222.0) y un defecto que nunca logró corregir un defecto pues el saquen no logró
+[1:27:02.0 – 1:27:07.0] (5222.0–5227.0) mejorarlo mucho pero más o menos intentó corregirlo
+[1:27:10.2 – 1:27:14.4] (5230.2–5234.4) pues tony ahí vamos a concluir muchísimas gracias por pasar hoy el
+[1:27:14.4 – 1:27:18.5] (5234.4–5238.5) rato con nosotros que eres un tío que tiene mucho lío y mucha cosa que hacer
+[1:27:18.5 – 1:27:22.0] (5238.5–5242.0) por delante entonces un honor tenerte aquí hoy un honor poder compartirlo
+[1:27:22.0 – 1:27:26.7] (5242.0–5246.7) todos estos jóvenes ilusionados y nos vamos a sacar una foto que me hace muchísima ilusión.

@@ -1,0 +1,86 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+/* Pieza de feed P18 1080x1350 (4:5), estilo del perfil: fondo plano (oscuro | lima | papel), etiqueta de área arriba,
+   título enorme, P18 abajo a la izquierda y el tipo abajo a la derecha. Adorno opcional: flecha o número grande.
+   Query: tipo = post | portada | idea | dato | cierre ; t = título (*clave* resaltada) ; c = texto chico ;
+   area ; fondo = oscuro | lima | papel ; adorno = flecha | numero | nada ; n = "01" ; etq = texto abajo a la derecha ;
+   pag = "2/6" ; src = crédito ; cta = botón del cierre */
+@font-face{font-family:M;src:url(Manrope-500.ttf);font-weight:500}
+@font-face{font-family:M;src:url(Manrope-700.ttf);font-weight:700}
+@font-face{font-family:M;src:url(Manrope-800.ttf);font-weight:800}
+:root{--lime:#C2F542;--ink:#172019;--paper:#F5F5EB;--deep:#14251D}
+*{margin:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;font-family:M;overflow:hidden}
+body{background:var(--bg);color:var(--fg)}
+.oscuro{--bg:var(--deep);--fg:var(--lime);--tx:var(--paper);--tagbg:var(--lime);--tagfg:var(--ink)}
+.lima{--bg:var(--lime);--fg:var(--ink);--tx:var(--ink);--tagbg:var(--ink);--tagfg:var(--lime)}
+.papel{--bg:var(--paper);--fg:var(--ink);--tx:var(--ink);--tagbg:var(--lime);--tagfg:var(--ink)}
+.tag{position:absolute;top:70px;left:70px;background:var(--tagbg);color:var(--tagfg);font-weight:800;font-size:28px;letter-spacing:2px;text-transform:uppercase;padding:8px 16px}
+.main{position:absolute;left:70px;right:70px;top:170px;bottom:250px;display:flex;flex-direction:column;gap:34px}
+.txt{color:var(--fg);font-weight:800;font-size:132px;line-height:.98;letter-spacing:-3px;text-wrap:balance}
+.txt b{font-weight:800}
+.oscuro .txt b{color:var(--paper)}
+.lima .txt b,.papel .txt b{text-decoration:underline;text-decoration-thickness:9px;text-underline-offset:.2em;text-decoration-color:var(--tagbg);text-decoration-skip-ink:all}
+.c{color:var(--tx);font-weight:500;font-size:42px;line-height:1.3;max-width:900px;opacity:.9;text-wrap:pretty}
+.c b{font-weight:800}
+.src{color:var(--tx);opacity:.65;font-weight:700;font-size:26px;letter-spacing:1px;text-transform:uppercase}
+.btn{align-self:flex-start;background:var(--tagbg);color:var(--tagfg);font-weight:800;font-size:36px;padding:18px 34px;border-radius:999px}
+.pie{position:absolute;left:70px;right:70px;bottom:62px;display:flex;justify-content:space-between;align-items:flex-end}
+.pie .logo{font-weight:800;font-size:58px;color:var(--fg);letter-spacing:-1px}
+.pie .tipo{font-weight:800;font-size:26px;letter-spacing:4px;text-transform:uppercase;color:var(--tx)}
+.flecha{position:absolute;left:70px;right:60px;bottom:170px;height:200px}
+.numero{position:absolute;right:50px;bottom:150px;font-weight:800;font-style:italic;font-size:300px;line-height:1;letter-spacing:-12px;color:var(--fg)}
+.dato .txt{font-size:84px;line-height:1.08}
+
+.idea .txt,.cierre .txt{font-size:104px}
+/* ---- carrusel: fondo con textura, progreso, paneles ---- */
+.deco{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.carr .deco .dots{position:absolute;inset:0;background:radial-gradient(color-mix(in srgb,var(--fg) 22%,transparent) 2px,transparent 2.4px) 0 0/34px 34px;-webkit-mask:linear-gradient(160deg,transparent 30%,#000 75%);mask:linear-gradient(160deg,transparent 30%,#000 75%)}
+.carr .deco .big{position:absolute;right:-90px;bottom:-140px;font-weight:800;font-size:760px;line-height:.8;letter-spacing:-40px;color:transparent;-webkit-text-stroke:4px color-mix(in srgb,var(--fg) 26%,transparent)}
+.carr .deco .band{position:absolute;left:-120px;bottom:300px;width:1400px;height:70px;background:var(--tagbg);opacity:.95;transform:rotate(-14deg)}
+.carr .deco .band2{position:absolute;left:-120px;bottom:250px;width:1400px;height:18px;background:color-mix(in srgb,var(--fg) 40%,transparent);transform:rotate(-14deg)}
+.carr .deco .ring{position:absolute;left:-220px;bottom:-260px;width:620px;height:620px;border-radius:50%;border:4px solid color-mix(in srgb,var(--fg) 20%,transparent)}
+.prog{position:absolute;top:84px;right:70px;display:flex;gap:10px}
+.prog i{width:46px;height:10px;border-radius:10px;background:color-mix(in srgb,var(--tx) 22%,transparent)}
+.prog i.on{background:var(--tagbg)}
+.carr .main{top:190px;bottom:470px;justify-content:center;z-index:2}.carr.esPost .main{justify-content:flex-start}.tag,.pie,.prog{z-index:3}
+.kick{align-self:flex-start;font-weight:800;font-size:28px;letter-spacing:3px;text-transform:uppercase;color:var(--tx);display:flex;align-items:center;gap:14px}
+.kick:before{content:"";width:46px;height:8px;border-radius:8px;background:var(--tagbg)}
+.carr .c{background:color-mix(in srgb,var(--bg) 70%,var(--tx) 8%);border-left:10px solid var(--tagbg);padding:30px 34px;border-radius:0 22px 22px 0;max-width:none;opacity:1;backdrop-filter:blur(2px)}
+.panel-lbl{font-weight:800;font-size:24px;letter-spacing:3px;text-transform:uppercase;color:var(--tx);opacity:.7;margin-bottom:-18px}
+.swipe{align-self:flex-start;display:flex;align-items:center;gap:14px;border:3px solid var(--fg);color:var(--fg);font-weight:800;font-size:30px;padding:14px 28px;border-radius:999px}
+.portada .txt{font-size:140px}
+</style></head><body>
+<div class="deco" id="deco"></div>
+<div id="tag" class="tag"></div>
+<div class="prog" id="prog"></div>
+<div class="main" id="main"></div>
+<div id="extra"></div>
+<div class="pie"><span class="logo">P18</span><span class="tipo" id="tipo"></span></div>
+<script>
+const q=new URLSearchParams(location.search),k=(q.get('tipo')||'post').toLowerCase();
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=s=>esc(s||'').replace(/\*(.+?)\*/g,'<b>$1</b>').replace(/\n/g,'<br>');
+document.body.className=(q.get('fondo')||'oscuro');
+const carr=true;if(k==='post')document.body.classList.add('esPost');if(carr){document.body.classList.add('carr');document.getElementById('deco').innerHTML='<div class="dots"></div><div class="ring"></div><div class="band"></div><div class="band2"></div><div class="big">18</div>'}
+const tg=document.getElementById('tag');q.get('area')?tg.textContent=q.get('area'):tg.remove();
+const m=document.getElementById('main');m.classList.add(k);
+let h=q.get('kick')?`<div class="kick">${esc(q.get('kick'))}</div>`:'';
+h+=`<div class="txt" id="txt">${fmt(q.get('t'))}</div>`;
+if(k==='cierre'&&q.get('c'))h+=`<div class="panel-lbl">Para esta semana</div>`;
+if(q.get('c'))h+=`<div class="c" id="c">${fmt(q.get('c'))}</div>`;
+if(k==='portada')h+=`<div class="swipe">Deslizá <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>`;
+if(k==='cierre')h+=`<div class="btn">${esc(q.get('cta')||'Guardalo para esta semana')}</div>`;
+if(q.get('src'))h+=`<div class="src">Fuente: ${esc(q.get('src'))}</div>`;
+m.innerHTML=h;
+const pag=q.get('pag');
+if(carr&&pag){const [a,b]=pag.split('/').map(Number);document.getElementById('prog').innerHTML=Array.from({length:b},(_,i)=>`<i class="${i<a?'on':''}"></i>`).join('')}
+document.getElementById('tipo').textContent=q.get('etq')||(pag?pag:'');
+const ad=q.get('adorno')||'nada',ex=document.getElementById('extra');
+if(ad==='flecha'&&!carr){ex.innerHTML='<svg class="flecha" viewBox="0 0 950 200" fill="none" stroke="currentColor" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" style="color:var(--fg)"><path d="M10 150 C 220 40, 380 40, 480 110 S 760 200, 900 40"/><path d="M800 40 L905 35 L885 140"/></svg>';m.style.bottom='390px'}
+if(ad==='numero'&&(q.get('n')||'')){ex.innerHTML=`<div class="numero">${esc(q.get('n'))}</div>`;m.style.bottom='470px'}
+// achica si no entra
+const tx=document.getElementById('txt'),cc=document.getElementById('c');let fs=parseFloat(getComputedStyle(tx).fontSize),fc=cc?parseFloat(getComputedStyle(cc).fontSize):0;
+while(m.scrollHeight>m.clientHeight+2&&fs>48){fs-=4;tx.style.fontSize=fs+'px';if(cc&&fc>28){fc-=1;cc.style.fontSize=fc+'px'}}
+window.DESBORDA=m.scrollHeight>m.clientHeight+2;
+window.LISTO=true;
+</script></body></html>

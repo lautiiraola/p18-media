@@ -1,0 +1,736 @@
+{
+ "idioma": "es",
+ "duracion": 51.25,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 3.24,
+   "texto": "Yo era un tipo duro, a veces demasiado.",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.3,
+     "p": "Yo"
+    },
+    {
+     "ini": 0.3,
+     "fin": 0.44,
+     "p": "era"
+    },
+    {
+     "ini": 0.44,
+     "fin": 0.62,
+     "p": "un"
+    },
+    {
+     "ini": 0.62,
+     "fin": 0.86,
+     "p": "tipo"
+    },
+    {
+     "ini": 0.86,
+     "fin": 1.92,
+     "p": "duro,"
+    },
+    {
+     "ini": 1.92,
+     "fin": 2.22,
+     "p": "a"
+    },
+    {
+     "ini": 2.22,
+     "fin": 2.5,
+     "p": "veces"
+    },
+    {
+     "ini": 2.5,
+     "fin": 3.24,
+     "p": "demasiado."
+    }
+   ]
+  },
+  {
+   "ini": 3.62,
+   "fin": 4.76,
+   "texto": "Yo era un tipo duro,",
+   "palabras": [
+    {
+     "ini": 3.62,
+     "fin": 3.62,
+     "p": "Yo"
+    },
+    {
+     "ini": 3.62,
+     "fin": 3.78,
+     "p": "era"
+    },
+    {
+     "ini": 3.78,
+     "fin": 3.88,
+     "p": "un"
+    },
+    {
+     "ini": 3.88,
+     "fin": 4.06,
+     "p": "tipo"
+    },
+    {
+     "ini": 4.06,
+     "fin": 4.76,
+     "p": "duro,"
+    }
+   ]
+  },
+  {
+   "ini": 4.92,
+   "fin": 7.7,
+   "texto": "pero era un tipo duro básicamente por tres razones.",
+   "palabras": [
+    {
+     "ini": 4.92,
+     "fin": 5.08,
+     "p": "pero"
+    },
+    {
+     "ini": 5.08,
+     "fin": 5.3,
+     "p": "era"
+    },
+    {
+     "ini": 5.3,
+     "fin": 5.48,
+     "p": "un"
+    },
+    {
+     "ini": 5.48,
+     "fin": 5.66,
+     "p": "tipo"
+    },
+    {
+     "ini": 5.66,
+     "fin": 5.94,
+     "p": "duro"
+    },
+    {
+     "ini": 5.94,
+     "fin": 6.6,
+     "p": "básicamente"
+    },
+    {
+     "ini": 6.6,
+     "fin": 6.92,
+     "p": "por"
+    },
+    {
+     "ini": 6.92,
+     "fin": 7.16,
+     "p": "tres"
+    },
+    {
+     "ini": 7.16,
+     "fin": 7.7,
+     "p": "razones."
+    }
+   ]
+  },
+  {
+   "ini": 7.78,
+   "fin": 12.84,
+   "texto": "La primera, porque el reto que nos propusimos era muy elevado.",
+   "palabras": [
+    {
+     "ini": 7.78,
+     "fin": 8.04,
+     "p": "La"
+    },
+    {
+     "ini": 8.04,
+     "fin": 8.42,
+     "p": "primera,"
+    },
+    {
+     "ini": 9.42,
+     "fin": 9.9,
+     "p": "porque"
+    },
+    {
+     "ini": 9.9,
+     "fin": 10.1,
+     "p": "el"
+    },
+    {
+     "ini": 10.1,
+     "fin": 10.38,
+     "p": "reto"
+    },
+    {
+     "ini": 10.38,
+     "fin": 10.54,
+     "p": "que"
+    },
+    {
+     "ini": 10.54,
+     "fin": 10.9,
+     "p": "nos"
+    },
+    {
+     "ini": 10.9,
+     "fin": 11.5,
+     "p": "propusimos"
+    },
+    {
+     "ini": 11.5,
+     "fin": 11.7,
+     "p": "era"
+    },
+    {
+     "ini": 11.7,
+     "fin": 11.94,
+     "p": "muy"
+    },
+    {
+     "ini": 11.94,
+     "fin": 12.84,
+     "p": "elevado."
+    }
+   ]
+  },
+  {
+   "ini": 13.4,
+   "fin": 16.66,
+   "texto": "Luego, no queda más remedio que asumir una cierta dureza,",
+   "palabras": [
+    {
+     "ini": 13.4,
+     "fin": 13.4,
+     "p": "Luego,"
+    },
+    {
+     "ini": 13.54,
+     "fin": 13.74,
+     "p": "no"
+    },
+    {
+     "ini": 13.74,
+     "fin": 13.92,
+     "p": "queda"
+    },
+    {
+     "ini": 13.92,
+     "fin": 14.14,
+     "p": "más"
+    },
+    {
+     "ini": 14.14,
+     "fin": 15.02,
+     "p": "remedio"
+    },
+    {
+     "ini": 15.02,
+     "fin": 15.34,
+     "p": "que"
+    },
+    {
+     "ini": 15.34,
+     "fin": 15.72,
+     "p": "asumir"
+    },
+    {
+     "ini": 15.72,
+     "fin": 15.94,
+     "p": "una"
+    },
+    {
+     "ini": 15.94,
+     "fin": 16.3,
+     "p": "cierta"
+    },
+    {
+     "ini": 16.3,
+     "fin": 16.66,
+     "p": "dureza,"
+    }
+   ]
+  },
+  {
+   "ini": 17.32,
+   "fin": 18.92,
+   "texto": "una gran dosis de exigencia.",
+   "palabras": [
+    {
+     "ini": 17.32,
+     "fin": 17.4,
+     "p": "una"
+    },
+    {
+     "ini": 17.4,
+     "fin": 17.66,
+     "p": "gran"
+    },
+    {
+     "ini": 17.66,
+     "fin": 18.04,
+     "p": "dosis"
+    },
+    {
+     "ini": 18.04,
+     "fin": 18.24,
+     "p": "de"
+    },
+    {
+     "ini": 18.24,
+     "fin": 18.92,
+     "p": "exigencia."
+    }
+   ]
+  },
+  {
+   "ini": 20.3,
+   "fin": 24.22,
+   "texto": "Después, yo era duro porque vi a un chico",
+   "palabras": [
+    {
+     "ini": 20.3,
+     "fin": 20.86,
+     "p": "Después,"
+    },
+    {
+     "ini": 22.12,
+     "fin": 22.2,
+     "p": "yo"
+    },
+    {
+     "ini": 22.2,
+     "fin": 22.4,
+     "p": "era"
+    },
+    {
+     "ini": 22.4,
+     "fin": 22.78,
+     "p": "duro"
+    },
+    {
+     "ini": 22.78,
+     "fin": 23.42,
+     "p": "porque"
+    },
+    {
+     "ini": 23.42,
+     "fin": 23.7,
+     "p": "vi"
+    },
+    {
+     "ini": 23.7,
+     "fin": 23.84,
+     "p": "a"
+    },
+    {
+     "ini": 23.84,
+     "fin": 23.98,
+     "p": "un"
+    },
+    {
+     "ini": 23.98,
+     "fin": 24.22,
+     "p": "chico"
+    }
+   ]
+  },
+  {
+   "ini": 24.22,
+   "fin": 27.2,
+   "texto": "que estuvo dispuesto a soportar esa dureza.",
+   "palabras": [
+    {
+     "ini": 24.22,
+     "fin": 24.4,
+     "p": "que"
+    },
+    {
+     "ini": 24.4,
+     "fin": 24.7,
+     "p": "estuvo"
+    },
+    {
+     "ini": 24.7,
+     "fin": 25.16,
+     "p": "dispuesto"
+    },
+    {
+     "ini": 25.16,
+     "fin": 25.72,
+     "p": "a"
+    },
+    {
+     "ini": 25.72,
+     "fin": 26.2,
+     "p": "soportar"
+    },
+    {
+     "ini": 26.2,
+     "fin": 26.42,
+     "p": "esa"
+    },
+    {
+     "ini": 26.42,
+     "fin": 27.2,
+     "p": "dureza."
+    }
+   ]
+  },
+  {
+   "ini": 27.2,
+   "fin": 31.2,
+   "texto": "Y después, sobre todo, yo fui duro porque le tenía una gran estima.",
+   "palabras": [
+    {
+     "ini": 27.2,
+     "fin": 27.8,
+     "p": "Y"
+    },
+    {
+     "ini": 27.8,
+     "fin": 28.02,
+     "p": "después,"
+    },
+    {
+     "ini": 28.12,
+     "fin": 28.28,
+     "p": "sobre"
+    },
+    {
+     "ini": 28.28,
+     "fin": 28.56,
+     "p": "todo,"
+    },
+    {
+     "ini": 28.64,
+     "fin": 28.72,
+     "p": "yo"
+    },
+    {
+     "ini": 28.72,
+     "fin": 28.88,
+     "p": "fui"
+    },
+    {
+     "ini": 28.88,
+     "fin": 29.16,
+     "p": "duro"
+    },
+    {
+     "ini": 29.16,
+     "fin": 29.56,
+     "p": "porque"
+    },
+    {
+     "ini": 29.56,
+     "fin": 29.82,
+     "p": "le"
+    },
+    {
+     "ini": 29.82,
+     "fin": 30.02,
+     "p": "tenía"
+    },
+    {
+     "ini": 30.02,
+     "fin": 30.32,
+     "p": "una"
+    },
+    {
+     "ini": 30.32,
+     "fin": 30.48,
+     "p": "gran"
+    },
+    {
+     "ini": 30.48,
+     "fin": 31.2,
+     "p": "estima."
+    }
+   ]
+  },
+  {
+   "ini": 31.52,
+   "fin": 36.7,
+   "texto": "Yo nunca sería duro con alguien por el que no siento un gran aprecio, una gran estima.",
+   "palabras": [
+    {
+     "ini": 31.52,
+     "fin": 31.66,
+     "p": "Yo"
+    },
+    {
+     "ini": 31.66,
+     "fin": 31.94,
+     "p": "nunca"
+    },
+    {
+     "ini": 31.94,
+     "fin": 32.34,
+     "p": "sería"
+    },
+    {
+     "ini": 32.34,
+     "fin": 33.16,
+     "p": "duro"
+    },
+    {
+     "ini": 33.16,
+     "fin": 33.58,
+     "p": "con"
+    },
+    {
+     "ini": 33.58,
+     "fin": 33.92,
+     "p": "alguien"
+    },
+    {
+     "ini": 33.92,
+     "fin": 34.18,
+     "p": "por"
+    },
+    {
+     "ini": 34.18,
+     "fin": 34.3,
+     "p": "el"
+    },
+    {
+     "ini": 34.3,
+     "fin": 34.4,
+     "p": "que"
+    },
+    {
+     "ini": 34.4,
+     "fin": 34.62,
+     "p": "no"
+    },
+    {
+     "ini": 34.62,
+     "fin": 34.88,
+     "p": "siento"
+    },
+    {
+     "ini": 34.88,
+     "fin": 35.12,
+     "p": "un"
+    },
+    {
+     "ini": 35.12,
+     "fin": 35.34,
+     "p": "gran"
+    },
+    {
+     "ini": 35.34,
+     "fin": 35.84,
+     "p": "aprecio,"
+    },
+    {
+     "ini": 35.94,
+     "fin": 36.1,
+     "p": "una"
+    },
+    {
+     "ini": 36.1,
+     "fin": 36.32,
+     "p": "gran"
+    },
+    {
+     "ini": 36.32,
+     "fin": 36.7,
+     "p": "estima."
+    }
+   ]
+  },
+  {
+   "ini": 37.7,
+   "fin": 44.38,
+   "texto": "Yo cuando era el director de la academia de Rafael Nadal, yo le decía a los entrenadores sed muy exigentes,",
+   "palabras": [
+    {
+     "ini": 37.7,
+     "fin": 38.0,
+     "p": "Yo"
+    },
+    {
+     "ini": 38.0,
+     "fin": 38.42,
+     "p": "cuando"
+    },
+    {
+     "ini": 38.42,
+     "fin": 38.6,
+     "p": "era"
+    },
+    {
+     "ini": 38.6,
+     "fin": 38.82,
+     "p": "el"
+    },
+    {
+     "ini": 38.82,
+     "fin": 39.1,
+     "p": "director"
+    },
+    {
+     "ini": 39.1,
+     "fin": 39.3,
+     "p": "de"
+    },
+    {
+     "ini": 39.3,
+     "fin": 39.44,
+     "p": "la"
+    },
+    {
+     "ini": 39.44,
+     "fin": 39.84,
+     "p": "academia"
+    },
+    {
+     "ini": 39.84,
+     "fin": 40.12,
+     "p": "de"
+    },
+    {
+     "ini": 40.12,
+     "fin": 40.38,
+     "p": "Rafael"
+    },
+    {
+     "ini": 40.38,
+     "fin": 40.92,
+     "p": "Nadal,"
+    },
+    {
+     "ini": 41.3,
+     "fin": 41.34,
+     "p": "yo"
+    },
+    {
+     "ini": 41.34,
+     "fin": 41.56,
+     "p": "le"
+    },
+    {
+     "ini": 41.56,
+     "fin": 41.68,
+     "p": "decía"
+    },
+    {
+     "ini": 41.68,
+     "fin": 41.86,
+     "p": "a"
+    },
+    {
+     "ini": 41.86,
+     "fin": 42.04,
+     "p": "los"
+    },
+    {
+     "ini": 42.04,
+     "fin": 42.66,
+     "p": "entrenadores"
+    },
+    {
+     "ini": 42.66,
+     "fin": 43.12,
+     "p": "sed"
+    },
+    {
+     "ini": 43.12,
+     "fin": 43.52,
+     "p": "muy"
+    },
+    {
+     "ini": 43.52,
+     "fin": 44.38,
+     "p": "exigentes,"
+    }
+   ]
+  },
+  {
+   "ini": 45.06,
+   "fin": 50.54,
+   "texto": "pero al mismo tiempo los chicos tienen que notar en vosotros vuestro aprecio, vuestra estima.",
+   "palabras": [
+    {
+     "ini": 45.06,
+     "fin": 45.16,
+     "p": "pero"
+    },
+    {
+     "ini": 45.16,
+     "fin": 45.38,
+     "p": "al"
+    },
+    {
+     "ini": 45.38,
+     "fin": 45.72,
+     "p": "mismo"
+    },
+    {
+     "ini": 45.72,
+     "fin": 46.08,
+     "p": "tiempo"
+    },
+    {
+     "ini": 46.08,
+     "fin": 46.42,
+     "p": "los"
+    },
+    {
+     "ini": 46.42,
+     "fin": 46.68,
+     "p": "chicos"
+    },
+    {
+     "ini": 46.68,
+     "fin": 47.06,
+     "p": "tienen"
+    },
+    {
+     "ini": 47.06,
+     "fin": 47.24,
+     "p": "que"
+    },
+    {
+     "ini": 47.24,
+     "fin": 47.6,
+     "p": "notar"
+    },
+    {
+     "ini": 47.6,
+     "fin": 47.72,
+     "p": "en"
+    },
+    {
+     "ini": 47.72,
+     "fin": 48.64,
+     "p": "vosotros"
+    },
+    {
+     "ini": 48.64,
+     "fin": 49.2,
+     "p": "vuestro"
+    },
+    {
+     "ini": 49.2,
+     "fin": 49.7,
+     "p": "aprecio,"
+    },
+    {
+     "ini": 49.92,
+     "fin": 50.14,
+     "p": "vuestra"
+    },
+    {
+     "ini": 50.14,
+     "fin": 50.54,
+     "p": "estima."
+    }
+   ]
+  }
+ ]
+}

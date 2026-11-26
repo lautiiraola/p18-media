@@ -1,0 +1,112 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+/* Historia P18 1080x1920. Zonas que tapa Instagram: arriba 250 px y abajo 340 px (no va texto ahí).
+   Parámetros: tipo = fondo (imagen para compartir el reel a la historia) | repost | encuesta | pregunta | quiz | canal | dato | texto
+   t = texto principal (*clave* en lima) ; s = texto secundario ; area = tema/área (chip) ; src = crédito ;
+   n = "1/3" (número de reel del día, para repost) ; items = "Talleres|Novedades|Material" (canal).
+   El hueco de video (repost) y los huecos de sticker quedan marcados con id="hueco": el script lee su posición. */
+@font-face{font-family:M;src:url(Manrope-500.ttf);font-weight:500}
+@font-face{font-family:M;src:url(Manrope-700.ttf);font-weight:700}
+@font-face{font-family:M;src:url(Manrope-800.ttf);font-weight:800}
+:root{--lime:#C2F542;--ink:#172019;--paper:#F5F5EB;--deep:#14251D;--blue:#8EC3E6;--muted:#AEB8AF}
+*{margin:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;font-family:M;overflow:hidden;background:var(--deep)}
+.bg{position:absolute;inset:0;background:radial-gradient(560px 420px at 100% 0%,rgba(142,195,230,.24),transparent 70%),radial-gradient(640px 460px at 0% 100%,rgba(194,245,66,.12),transparent 70%),radial-gradient(rgba(245,245,235,.09) 1.6px,transparent 1.7px) 0 0/26px 26px,var(--deep)}
+.grid{position:absolute;inset:0;background:linear-gradient(rgba(245,245,235,.04) 2px,transparent 2px) 0 0/90px 90px,linear-gradient(90deg,rgba(245,245,235,.04) 2px,transparent 2px) 0 0/90px 90px}
+.big{position:absolute;right:-140px;bottom:120px;font-weight:800;font-size:900px;line-height:.8;letter-spacing:-40px;color:transparent;-webkit-text-stroke:3px rgba(194,245,66,.12)}
+.stripe{position:absolute;left:-200px;width:1600px;background:var(--lime);transform:rotate(-8deg);top:1700px;height:46px;opacity:.9}
+.stripe2{position:absolute;left:-200px;width:1600px;background:var(--blue);transform:rotate(-8deg);top:1770px;height:16px;opacity:.6}
+.top{position:absolute;top:270px;left:72px;right:72px;display:flex;align-items:center;justify-content:space-between}
+.top img{height:58px}
+.chip{border:2px solid rgba(245,245,235,.35);color:var(--paper);border-radius:50px;padding:10px 22px;font-weight:700;font-size:25px}
+.main{position:absolute;left:72px;right:72px;top:380px;bottom:360px;display:flex;flex-direction:column;justify-content:center;gap:34px}
+.kick{display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+.eyebrow{background:var(--lime);color:var(--ink);font-weight:800;font-size:28px;letter-spacing:3px;text-transform:uppercase;border-radius:50px;padding:10px 24px}
+.tag{border:2px solid var(--lime);color:var(--lime);font-weight:700;font-size:25px;border-radius:50px;padding:8px 20px}
+.txt{color:var(--paper);font-weight:800;font-size:84px;line-height:1.06;letter-spacing:-1px;text-wrap:balance}
+.txt b{color:var(--lime);font-weight:800}
+.sub{color:#DCE3D8;font-weight:500;font-size:38px;line-height:1.3;text-wrap:pretty}
+.sub b{color:var(--lime);font-weight:700}
+/* tarjeta clara (encuesta, pregunta, quiz): parece un sticker grande */
+.card{background:var(--paper);border-radius:44px;padding:52px 48px 48px;display:flex;flex-direction:column;gap:30px;box-shadow:0 30px 80px rgba(0,0,0,.35);position:relative}
+.card .txt{color:var(--ink);font-size:70px}
+.card .txt b{color:var(--ink);background:linear-gradient(transparent 58%,var(--lime) 58%,var(--lime) 92%,transparent 92%)}
+.card .lbl{position:absolute;top:-26px;left:44px}
+.hueco{border-radius:30px;border:4px dashed rgba(23,32,25,.22);display:grid;place-items:center;color:rgba(23,32,25,.4);font-weight:700;font-size:26px;letter-spacing:2px;text-transform:uppercase}
+.main>.hueco{border-color:rgba(245,245,235,.28);color:rgba(245,245,235,.4)}
+/* repost: el reel va adentro del marco */
+.marco{position:relative;align-self:center;border-radius:34px;border:6px solid var(--lime);background:#0c1712;overflow:hidden;box-shadow:0 30px 90px rgba(0,0,0,.45),0 0 0 14px rgba(194,245,66,.12)}
+.play{position:absolute;inset:0;display:grid;place-items:center;color:rgba(245,245,235,.35);font-size:30px;font-weight:700;letter-spacing:2px}
+.num{display:none!important}
+.t-repost .main{gap:26px}
+.t-fondo{gap:22px}
+body.fondo .top{top:150px}
+body.fondo .main{top:240px;bottom:150px;justify-content:flex-start}.t-fondo .txt{font-size:64px;text-align:center;min-height:2.12em}.t-fondo .kick{justify-content:center}
+.marco.vacio{background:rgba(12,23,18,.55);border-style:solid}
+.t-repost .txt{font-size:64px;text-align:center}
+.t-repost .kick{justify-content:center}
+.cta{align-self:center;display:flex;align-items:center;gap:14px;background:var(--lime);color:var(--ink);font-weight:800;font-size:32px;border-radius:50px;padding:16px 30px}
+.cta svg{width:34px;height:34px}
+/* canal */
+.lista{display:grid;gap:18px}
+.li{display:flex;gap:20px;align-items:center;color:var(--paper);font-weight:700;font-size:40px}
+.li i{flex:none;width:56px;height:56px;border-radius:18px;background:var(--lime);display:grid;place-items:center}
+.li i svg{width:30px;height:30px}
+.burbuja{align-self:flex-start;width:120px;height:120px;border-radius:36px;background:var(--lime);display:grid;place-items:center}
+.burbuja svg{width:70px;height:70px}
+.flecha{display:flex;align-items:center;gap:16px;color:var(--lime);font-weight:800;font-size:34px}
+.flecha svg{width:44px;height:44px;flex:none}
+.src{color:var(--muted);font-weight:500;font-size:26px;letter-spacing:1px;text-transform:uppercase}
+.src span{color:var(--lime)}
+.t-dato .txt{font-size:62px;line-height:1.15}
+
+.t-texto .txt{font-size:92px}
+/* frase del día: comillas lima colgadas del texto, centrado vertical, firma alineada */
+.t-frase{gap:56px}
+.t-frase .txt{font-size:94px;line-height:1.08;letter-spacing:-2px}
+.t-frase .txt .q{color:var(--lime)}
+.t-frase .txt b{color:var(--lime)}
+.t-frase .firma{display:flex;align-items:center;gap:18px;color:var(--muted);font-weight:700;font-size:30px;letter-spacing:1px}
+.t-frase .firma i{width:70px;height:6px;border-radius:6px;background:var(--lime)}
+</style></head><body>
+<div class="bg"><div class="grid"></div><div class="big">18</div><div class="stripe"></div><div class="stripe2"></div></div>
+<div class="top"><img src="logo-lima.png" alt=""><div class="chip">proyecto18.com</div></div>
+<div class="main" id="main"></div>
+<script>
+const q=new URLSearchParams(location.search),k=(q.get('tipo')||'texto').toLowerCase();
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=s=>esc(s||'').replace(/\*(.+?)\*/g,'<b>$1</b>').replace(/\n/g,'<br>');
+const t=fmt(q.get('t')),s=q.get('s')?`<div class="sub">${fmt(q.get('s'))}</div>`:'',area=q.get('area');
+const ICO={chat:'<svg viewBox="0 0 24 24" fill="none" stroke="#172019" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20.5l1.5-5A8 8 0 1 1 21 12z"/></svg>',
+ ok:'<svg viewBox="0 0 24 24" fill="none" stroke="#172019" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>',
+ up:'<svg viewBox="0 0 24 24" fill="none" stroke="#172019" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>',
+ down:'<svg viewBox="0 0 24 24" fill="none" stroke="#C2F542" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12l7 7 7-7"/></svg>'};
+const ETQ={fondo:'Nuevo reel',encuesta:'Encuesta',pregunta:'Contanos',quiz:'Quiz',dato:'Dato',texto:'Para pensar',canal:'Canal de WhatsApp',repost:'Nuevo reel'};
+const m=document.getElementById('main');m.className='main t-'+k;document.body.classList.add(k);let h='';
+const kick=`<div class="kick"><div class="eyebrow">${esc(q.get('etq')||ETQ[k]||k)}</div>${area?`<div class="tag">${esc(area)}</div>`:''}</div>`;
+if(k==='fondo'){
+  // fondo para compartir el reel a la historia desde la app: el hueco queda vacío y ahí se apoya la tarjeta del reel
+  h=kick+`<div class="txt" id="txt">${t}</div><div class="marco vacio" id="marco" style="height:${Math.round(((+q.get('ancho')||600)-12)*16/9)+12}px;width:${+q.get('ancho')||600}px"><div id="hueco"></div>${q.get('n')?`<div class="num eyebrow">${esc(q.get('n'))}</div>`:''}</div><div class="cta">${ICO.up}${esc(q.get('s')||'Tocá el reel para verlo')}</div>`;
+}else if(k==='repost'){
+  // marco 9:16 para el reel: alto fijo, el script pone el video exactamente en el hueco
+  h=kick+`<div class="txt" id="txt">${t}</div><div class="marco" id="marco" style="height:820px;width:${Math.round(820*9/16)}px"><div class="play" id="hueco">REEL</div>${q.get('n')?`<div class="num eyebrow">${esc(q.get('n'))}</div>`:''}</div><div class="cta">${ICO.up}${esc(q.get('s')||'Mirá el reel completo')}</div>`;
+}else if(k==='encuesta'||k==='pregunta'||k==='quiz'){
+  const alto={encuesta:300,pregunta:300,quiz:420}[k];
+  h=`<div class="card"><div class="lbl">${kick}</div><div class="txt" id="txt">${t}</div>${q.get('s')?`<div class="sub" style="color:#3c4a40">${fmt(q.get('s'))}</div>`:''}<div class="hueco" id="hueco" style="height:${alto}px">sticker</div></div>`;
+}else if(k==='canal'){
+  const items=(q.get('items')||'Próximos talleres|Novedades de P18|Material extra').split('|');
+  h=`<div class="burbuja">${ICO.chat}</div>${kick}<div class="txt" id="txt">${t}</div>${s}<div class="lista">${items.map(x=>`<div class="li"><i>${ICO.ok}</i>${esc(x)}</div>`).join('')}</div><div class="flecha">${ICO.down} Tocá el link para sumarte</div><div class="hueco" id="hueco" style="height:150px">link</div>`;
+}else if(k==='frase'){
+  h=`<div class="txt" id="txt">${t}</div>${s}<div class="firma"><i></i>${esc(q.get('src')||'Proyecto 18')}</div>`;
+}else{
+  h=kick+`<div class="txt" id="txt">${t}</div>`+s+(q.get('src')?`<div class="src"><span>Fuente:</span> ${esc(q.get('src'))}</div>`:'');
+}
+m.innerHTML=h;
+// achica el texto si no entra
+const tx=document.getElementById('txt');let fs=parseFloat(getComputedStyle(tx).fontSize);
+while(m.scrollHeight>m.clientHeight+2&&fs>40){fs-=4;tx.style.fontSize=fs+'px'}
+if(k==='repost'){const mc=document.getElementById('marco');let hh=parseFloat(mc.style.height);while(m.scrollHeight>m.clientHeight+2&&hh>560){hh-=20;mc.style.height=hh+'px';mc.style.width=Math.round(hh*9/16)+'px'}}
+window.DESBORDA=m.scrollHeight>m.clientHeight+2;
+const hu=document.getElementById('hueco');
+if(hu){const r=((k==='repost'||k==='fondo')?document.getElementById('marco'):hu).getBoundingClientRect();window.HUECO={x:Math.round(r.left+((k==='repost'||k==='fondo')?6:0)),y:Math.round(r.top+((k==='repost'||k==='fondo')?6:0)),w:Math.round(r.width-((k==='repost'||k==='fondo')?12:0)),h:Math.round(r.height-((k==='repost'||k==='fondo')?12:0))}}
+window.LISTO=true;
+</script></body></html>

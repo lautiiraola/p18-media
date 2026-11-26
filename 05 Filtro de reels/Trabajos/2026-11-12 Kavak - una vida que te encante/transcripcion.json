@@ -1,0 +1,1147 @@
+{
+ "idioma": "es",
+ "duracion": 57.73,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 3.0,
+   "texto": "una de las cosas que tenemos que tratar de garantizar es diseñar una vida que nos encante.",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.18,
+     "p": "una"
+    },
+    {
+     "ini": 0.18,
+     "fin": 0.32,
+     "p": "de"
+    },
+    {
+     "ini": 0.32,
+     "fin": 0.38,
+     "p": "las"
+    },
+    {
+     "ini": 0.38,
+     "fin": 0.5,
+     "p": "cosas"
+    },
+    {
+     "ini": 0.5,
+     "fin": 0.62,
+     "p": "que"
+    },
+    {
+     "ini": 0.62,
+     "fin": 0.84,
+     "p": "tenemos"
+    },
+    {
+     "ini": 0.84,
+     "fin": 1.04,
+     "p": "que"
+    },
+    {
+     "ini": 1.04,
+     "fin": 1.2,
+     "p": "tratar"
+    },
+    {
+     "ini": 1.2,
+     "fin": 1.36,
+     "p": "de"
+    },
+    {
+     "ini": 1.36,
+     "fin": 1.72,
+     "p": "garantizar"
+    },
+    {
+     "ini": 1.72,
+     "fin": 1.9,
+     "p": "es"
+    },
+    {
+     "ini": 1.9,
+     "fin": 2.2,
+     "p": "diseñar"
+    },
+    {
+     "ini": 2.2,
+     "fin": 2.32,
+     "p": "una"
+    },
+    {
+     "ini": 2.32,
+     "fin": 2.4,
+     "p": "vida"
+    },
+    {
+     "ini": 2.4,
+     "fin": 2.52,
+     "p": "que"
+    },
+    {
+     "ini": 2.52,
+     "fin": 2.7,
+     "p": "nos"
+    },
+    {
+     "ini": 2.7,
+     "fin": 3.0,
+     "p": "encante."
+    }
+   ]
+  },
+  {
+   "ini": 4.22,
+   "fin": 10.1,
+   "texto": "Y esto no es económico, esto tiene un montón de variables, pero yo creo que gran parte de todos",
+   "palabras": [
+    {
+     "ini": 4.22,
+     "fin": 4.3,
+     "p": "Y"
+    },
+    {
+     "ini": 4.3,
+     "fin": 4.38,
+     "p": "esto"
+    },
+    {
+     "ini": 4.38,
+     "fin": 4.48,
+     "p": "no"
+    },
+    {
+     "ini": 4.48,
+     "fin": 4.66,
+     "p": "es"
+    },
+    {
+     "ini": 4.66,
+     "fin": 5.1,
+     "p": "económico,"
+    },
+    {
+     "ini": 6.04,
+     "fin": 6.34,
+     "p": "esto"
+    },
+    {
+     "ini": 6.34,
+     "fin": 6.56,
+     "p": "tiene"
+    },
+    {
+     "ini": 6.56,
+     "fin": 6.84,
+     "p": "un"
+    },
+    {
+     "ini": 6.84,
+     "fin": 7.02,
+     "p": "montón"
+    },
+    {
+     "ini": 7.02,
+     "fin": 7.56,
+     "p": "de"
+    },
+    {
+     "ini": 7.56,
+     "fin": 7.9,
+     "p": "variables,"
+    },
+    {
+     "ini": 8.7,
+     "fin": 8.8,
+     "p": "pero"
+    },
+    {
+     "ini": 8.8,
+     "fin": 9.18,
+     "p": "yo"
+    },
+    {
+     "ini": 9.18,
+     "fin": 9.3,
+     "p": "creo"
+    },
+    {
+     "ini": 9.3,
+     "fin": 9.46,
+     "p": "que"
+    },
+    {
+     "ini": 9.46,
+     "fin": 9.58,
+     "p": "gran"
+    },
+    {
+     "ini": 9.58,
+     "fin": 9.84,
+     "p": "parte"
+    },
+    {
+     "ini": 9.84,
+     "fin": 10.1,
+     "p": "de"
+    },
+    {
+     "ini": 10.1,
+     "fin": 10.1,
+     "p": "todos"
+    }
+   ]
+  },
+  {
+   "ini": 10.1,
+   "fin": 13.7,
+   "texto": "los seres humanos es, tienes que diseñar una vida que te encante. Si tú no estás diseñando una",
+   "palabras": [
+    {
+     "ini": 10.1,
+     "fin": 10.22,
+     "p": "los"
+    },
+    {
+     "ini": 10.22,
+     "fin": 10.34,
+     "p": "seres"
+    },
+    {
+     "ini": 10.34,
+     "fin": 10.66,
+     "p": "humanos"
+    },
+    {
+     "ini": 10.66,
+     "fin": 10.94,
+     "p": "es,"
+    },
+    {
+     "ini": 10.94,
+     "fin": 11.12,
+     "p": "tienes"
+    },
+    {
+     "ini": 11.12,
+     "fin": 11.26,
+     "p": "que"
+    },
+    {
+     "ini": 11.26,
+     "fin": 11.4,
+     "p": "diseñar"
+    },
+    {
+     "ini": 11.4,
+     "fin": 11.56,
+     "p": "una"
+    },
+    {
+     "ini": 11.56,
+     "fin": 11.62,
+     "p": "vida"
+    },
+    {
+     "ini": 11.62,
+     "fin": 11.74,
+     "p": "que"
+    },
+    {
+     "ini": 11.74,
+     "fin": 11.94,
+     "p": "te"
+    },
+    {
+     "ini": 11.94,
+     "fin": 12.34,
+     "p": "encante."
+    },
+    {
+     "ini": 12.88,
+     "fin": 13.02,
+     "p": "Si"
+    },
+    {
+     "ini": 13.02,
+     "fin": 13.16,
+     "p": "tú"
+    },
+    {
+     "ini": 13.16,
+     "fin": 13.24,
+     "p": "no"
+    },
+    {
+     "ini": 13.24,
+     "fin": 13.32,
+     "p": "estás"
+    },
+    {
+     "ini": 13.32,
+     "fin": 13.52,
+     "p": "diseñando"
+    },
+    {
+     "ini": 13.52,
+     "fin": 13.7,
+     "p": "una"
+    }
+   ]
+  },
+  {
+   "ini": 13.7,
+   "fin": 22.46,
+   "texto": "vida que te encante, tú te estás proponiendo vivir algo que no vas a disfrutar. Y diseñar",
+   "palabras": [
+    {
+     "ini": 13.7,
+     "fin": 13.78,
+     "p": "vida"
+    },
+    {
+     "ini": 13.78,
+     "fin": 13.94,
+     "p": "que"
+    },
+    {
+     "ini": 13.94,
+     "fin": 14.16,
+     "p": "te"
+    },
+    {
+     "ini": 14.16,
+     "fin": 15.24,
+     "p": "encante,"
+    },
+    {
+     "ini": 17.22,
+     "fin": 17.48,
+     "p": "tú"
+    },
+    {
+     "ini": 17.48,
+     "fin": 18.26,
+     "p": "te"
+    },
+    {
+     "ini": 18.26,
+     "fin": 18.42,
+     "p": "estás"
+    },
+    {
+     "ini": 18.42,
+     "fin": 18.9,
+     "p": "proponiendo"
+    },
+    {
+     "ini": 18.9,
+     "fin": 19.22,
+     "p": "vivir"
+    },
+    {
+     "ini": 19.22,
+     "fin": 20.08,
+     "p": "algo"
+    },
+    {
+     "ini": 20.08,
+     "fin": 20.46,
+     "p": "que"
+    },
+    {
+     "ini": 20.46,
+     "fin": 20.68,
+     "p": "no"
+    },
+    {
+     "ini": 20.68,
+     "fin": 20.82,
+     "p": "vas"
+    },
+    {
+     "ini": 20.82,
+     "fin": 20.96,
+     "p": "a"
+    },
+    {
+     "ini": 20.96,
+     "fin": 21.54,
+     "p": "disfrutar."
+    },
+    {
+     "ini": 22.14,
+     "fin": 22.28,
+     "p": "Y"
+    },
+    {
+     "ini": 22.28,
+     "fin": 22.46,
+     "p": "diseñar"
+    }
+   ]
+  },
+  {
+   "ini": 22.46,
+   "fin": 27.32,
+   "texto": "una vida que te encante requiere de que tú pienses un poco qué te gusta, tomes decisiones",
+   "palabras": [
+    {
+     "ini": 22.46,
+     "fin": 22.58,
+     "p": "una"
+    },
+    {
+     "ini": 22.58,
+     "fin": 22.64,
+     "p": "vida"
+    },
+    {
+     "ini": 22.64,
+     "fin": 22.78,
+     "p": "que"
+    },
+    {
+     "ini": 22.78,
+     "fin": 22.98,
+     "p": "te"
+    },
+    {
+     "ini": 22.98,
+     "fin": 23.3,
+     "p": "encante"
+    },
+    {
+     "ini": 23.3,
+     "fin": 23.74,
+     "p": "requiere"
+    },
+    {
+     "ini": 23.74,
+     "fin": 23.9,
+     "p": "de"
+    },
+    {
+     "ini": 23.9,
+     "fin": 23.98,
+     "p": "que"
+    },
+    {
+     "ini": 23.98,
+     "fin": 24.52,
+     "p": "tú"
+    },
+    {
+     "ini": 24.52,
+     "fin": 24.9,
+     "p": "pienses"
+    },
+    {
+     "ini": 24.9,
+     "fin": 25.08,
+     "p": "un"
+    },
+    {
+     "ini": 25.08,
+     "fin": 25.38,
+     "p": "poco"
+    },
+    {
+     "ini": 25.38,
+     "fin": 25.68,
+     "p": "qué"
+    },
+    {
+     "ini": 25.68,
+     "fin": 25.94,
+     "p": "te"
+    },
+    {
+     "ini": 25.94,
+     "fin": 26.34,
+     "p": "gusta,"
+    },
+    {
+     "ini": 26.8,
+     "fin": 26.96,
+     "p": "tomes"
+    },
+    {
+     "ini": 26.96,
+     "fin": 27.32,
+     "p": "decisiones"
+    }
+   ]
+  },
+  {
+   "ini": 27.32,
+   "fin": 31.7,
+   "texto": "para ir hacia allá y recalibre si lo que las decisiones y la vida que te estás",
+   "palabras": [
+    {
+     "ini": 27.32,
+     "fin": 27.44,
+     "p": "para"
+    },
+    {
+     "ini": 27.44,
+     "fin": 27.58,
+     "p": "ir"
+    },
+    {
+     "ini": 27.58,
+     "fin": 27.82,
+     "p": "hacia"
+    },
+    {
+     "ini": 27.82,
+     "fin": 28.38,
+     "p": "allá"
+    },
+    {
+     "ini": 28.38,
+     "fin": 29.12,
+     "p": "y"
+    },
+    {
+     "ini": 29.12,
+     "fin": 29.62,
+     "p": "recalibre"
+    },
+    {
+     "ini": 29.62,
+     "fin": 30.22,
+     "p": "si"
+    },
+    {
+     "ini": 30.22,
+     "fin": 30.4,
+     "p": "lo"
+    },
+    {
+     "ini": 30.4,
+     "fin": 30.52,
+     "p": "que"
+    },
+    {
+     "ini": 30.52,
+     "fin": 30.68,
+     "p": "las"
+    },
+    {
+     "ini": 30.68,
+     "fin": 31.08,
+     "p": "decisiones"
+    },
+    {
+     "ini": 31.08,
+     "fin": 31.16,
+     "p": "y"
+    },
+    {
+     "ini": 31.16,
+     "fin": 31.24,
+     "p": "la"
+    },
+    {
+     "ini": 31.24,
+     "fin": 31.32,
+     "p": "vida"
+    },
+    {
+     "ini": 31.32,
+     "fin": 31.48,
+     "p": "que"
+    },
+    {
+     "ini": 31.48,
+     "fin": 31.6,
+     "p": "te"
+    },
+    {
+     "ini": 31.6,
+     "fin": 31.7,
+     "p": "estás"
+    }
+   ]
+  },
+  {
+   "ini": 32.52,
+   "fin": 35.8,
+   "texto": "construyendo es exactamente lo que querías o no es lo que quería y que",
+   "palabras": [
+    {
+     "ini": 32.52,
+     "fin": 32.86,
+     "p": "construyendo"
+    },
+    {
+     "ini": 32.86,
+     "fin": 33.2,
+     "p": "es"
+    },
+    {
+     "ini": 33.2,
+     "fin": 33.62,
+     "p": "exactamente"
+    },
+    {
+     "ini": 33.62,
+     "fin": 33.8,
+     "p": "lo"
+    },
+    {
+     "ini": 33.8,
+     "fin": 33.96,
+     "p": "que"
+    },
+    {
+     "ini": 33.96,
+     "fin": 34.16,
+     "p": "querías"
+    },
+    {
+     "ini": 34.16,
+     "fin": 34.3,
+     "p": "o"
+    },
+    {
+     "ini": 34.3,
+     "fin": 34.4,
+     "p": "no"
+    },
+    {
+     "ini": 34.4,
+     "fin": 34.46,
+     "p": "es"
+    },
+    {
+     "ini": 34.46,
+     "fin": 34.6,
+     "p": "lo"
+    },
+    {
+     "ini": 34.6,
+     "fin": 34.76,
+     "p": "que"
+    },
+    {
+     "ini": 34.76,
+     "fin": 34.94,
+     "p": "quería"
+    },
+    {
+     "ini": 34.94,
+     "fin": 35.54,
+     "p": "y"
+    },
+    {
+     "ini": 35.54,
+     "fin": 35.8,
+     "p": "que"
+    }
+   ]
+  },
+  {
+   "ini": 35.8,
+   "fin": 39.4,
+   "texto": "pienses hacia adelante. O sea, cuando tomas una decisión hoy de hacer algo, a",
+   "palabras": [
+    {
+     "ini": 35.8,
+     "fin": 36.1,
+     "p": "pienses"
+    },
+    {
+     "ini": 36.1,
+     "fin": 36.38,
+     "p": "hacia"
+    },
+    {
+     "ini": 36.38,
+     "fin": 36.66,
+     "p": "adelante."
+    },
+    {
+     "ini": 36.86,
+     "fin": 36.9,
+     "p": "O"
+    },
+    {
+     "ini": 36.9,
+     "fin": 37.0,
+     "p": "sea,"
+    },
+    {
+     "ini": 37.0,
+     "fin": 37.24,
+     "p": "cuando"
+    },
+    {
+     "ini": 37.24,
+     "fin": 37.46,
+     "p": "tomas"
+    },
+    {
+     "ini": 37.46,
+     "fin": 37.62,
+     "p": "una"
+    },
+    {
+     "ini": 37.62,
+     "fin": 37.9,
+     "p": "decisión"
+    },
+    {
+     "ini": 37.9,
+     "fin": 38.28,
+     "p": "hoy"
+    },
+    {
+     "ini": 38.28,
+     "fin": 38.88,
+     "p": "de"
+    },
+    {
+     "ini": 38.88,
+     "fin": 39.08,
+     "p": "hacer"
+    },
+    {
+     "ini": 39.08,
+     "fin": 39.3,
+     "p": "algo,"
+    },
+    {
+     "ini": 39.4,
+     "fin": 39.4,
+     "p": "a"
+    }
+   ]
+  },
+  {
+   "ini": 39.4,
+   "fin": 42.24,
+   "texto": "lo mejor la decisión que estoy tomando hoy, ya tú sabes que va a cambiar tu vida los próximos dos",
+   "palabras": [
+    {
+     "ini": 39.4,
+     "fin": 39.48,
+     "p": "lo"
+    },
+    {
+     "ini": 39.48,
+     "fin": 39.54,
+     "p": "mejor"
+    },
+    {
+     "ini": 39.54,
+     "fin": 39.6,
+     "p": "la"
+    },
+    {
+     "ini": 39.6,
+     "fin": 39.76,
+     "p": "decisión"
+    },
+    {
+     "ini": 39.76,
+     "fin": 39.8,
+     "p": "que"
+    },
+    {
+     "ini": 39.8,
+     "fin": 39.92,
+     "p": "estoy"
+    },
+    {
+     "ini": 39.92,
+     "fin": 40.22,
+     "p": "tomando"
+    },
+    {
+     "ini": 40.22,
+     "fin": 40.4,
+     "p": "hoy,"
+    },
+    {
+     "ini": 40.48,
+     "fin": 40.56,
+     "p": "ya"
+    },
+    {
+     "ini": 40.56,
+     "fin": 40.78,
+     "p": "tú"
+    },
+    {
+     "ini": 40.78,
+     "fin": 40.94,
+     "p": "sabes"
+    },
+    {
+     "ini": 40.94,
+     "fin": 41.06,
+     "p": "que"
+    },
+    {
+     "ini": 41.06,
+     "fin": 41.18,
+     "p": "va"
+    },
+    {
+     "ini": 41.18,
+     "fin": 41.24,
+     "p": "a"
+    },
+    {
+     "ini": 41.24,
+     "fin": 41.42,
+     "p": "cambiar"
+    },
+    {
+     "ini": 41.42,
+     "fin": 41.6,
+     "p": "tu"
+    },
+    {
+     "ini": 41.6,
+     "fin": 41.64,
+     "p": "vida"
+    },
+    {
+     "ini": 41.64,
+     "fin": 41.78,
+     "p": "los"
+    },
+    {
+     "ini": 41.78,
+     "fin": 42.1,
+     "p": "próximos"
+    },
+    {
+     "ini": 42.1,
+     "fin": 42.24,
+     "p": "dos"
+    }
+   ]
+  },
+  {
+   "ini": 42.24,
+   "fin": 45.26,
+   "texto": "años, piensa bien si esa es la vida que quieres.",
+   "palabras": [
+    {
+     "ini": 42.24,
+     "fin": 42.64,
+     "p": "años,"
+    },
+    {
+     "ini": 43.08,
+     "fin": 43.26,
+     "p": "piensa"
+    },
+    {
+     "ini": 43.26,
+     "fin": 43.6,
+     "p": "bien"
+    },
+    {
+     "ini": 43.6,
+     "fin": 43.74,
+     "p": "si"
+    },
+    {
+     "ini": 43.74,
+     "fin": 43.88,
+     "p": "esa"
+    },
+    {
+     "ini": 43.88,
+     "fin": 43.98,
+     "p": "es"
+    },
+    {
+     "ini": 43.98,
+     "fin": 44.06,
+     "p": "la"
+    },
+    {
+     "ini": 44.06,
+     "fin": 44.16,
+     "p": "vida"
+    },
+    {
+     "ini": 44.16,
+     "fin": 44.34,
+     "p": "que"
+    },
+    {
+     "ini": 44.34,
+     "fin": 45.26,
+     "p": "quieres."
+    }
+   ]
+  },
+  {
+   "ini": 46.24,
+   "fin": 49.76,
+   "texto": "El costo que estás dispuesto a pagar. Claro, porque si tú no",
+   "palabras": [
+    {
+     "ini": 46.24,
+     "fin": 46.4,
+     "p": "El"
+    },
+    {
+     "ini": 46.4,
+     "fin": 46.68,
+     "p": "costo"
+    },
+    {
+     "ini": 46.68,
+     "fin": 46.84,
+     "p": "que"
+    },
+    {
+     "ini": 46.84,
+     "fin": 46.98,
+     "p": "estás"
+    },
+    {
+     "ini": 46.98,
+     "fin": 47.3,
+     "p": "dispuesto"
+    },
+    {
+     "ini": 47.3,
+     "fin": 47.44,
+     "p": "a"
+    },
+    {
+     "ini": 47.44,
+     "fin": 47.72,
+     "p": "pagar."
+    },
+    {
+     "ini": 47.84,
+     "fin": 48.18,
+     "p": "Claro,"
+    },
+    {
+     "ini": 48.38,
+     "fin": 48.5,
+     "p": "porque"
+    },
+    {
+     "ini": 48.5,
+     "fin": 49.08,
+     "p": "si"
+    },
+    {
+     "ini": 49.08,
+     "fin": 49.66,
+     "p": "tú"
+    },
+    {
+     "ini": 49.66,
+     "fin": 49.76,
+     "p": "no"
+    }
+   ]
+  },
+  {
+   "ini": 49.76,
+   "fin": 52.34,
+   "texto": "haces ese trabajo al principio tomas un montón de decisiones y terminas",
+   "palabras": [
+    {
+     "ini": 49.76,
+     "fin": 49.92,
+     "p": "haces"
+    },
+    {
+     "ini": 49.92,
+     "fin": 50.06,
+     "p": "ese"
+    },
+    {
+     "ini": 50.06,
+     "fin": 50.24,
+     "p": "trabajo"
+    },
+    {
+     "ini": 50.24,
+     "fin": 50.38,
+     "p": "al"
+    },
+    {
+     "ini": 50.38,
+     "fin": 50.56,
+     "p": "principio"
+    },
+    {
+     "ini": 50.56,
+     "fin": 50.84,
+     "p": "tomas"
+    },
+    {
+     "ini": 50.84,
+     "fin": 50.92,
+     "p": "un"
+    },
+    {
+     "ini": 50.92,
+     "fin": 51.04,
+     "p": "montón"
+    },
+    {
+     "ini": 51.04,
+     "fin": 51.24,
+     "p": "de"
+    },
+    {
+     "ini": 51.24,
+     "fin": 51.68,
+     "p": "decisiones"
+    },
+    {
+     "ini": 51.68,
+     "fin": 51.82,
+     "p": "y"
+    },
+    {
+     "ini": 51.82,
+     "fin": 52.34,
+     "p": "terminas"
+    }
+   ]
+  },
+  {
+   "ini": 52.34,
+   "fin": 56.58,
+   "texto": "los siguientes tres, cuatro años construyendo una vida que no era la",
+   "palabras": [
+    {
+     "ini": 52.34,
+     "fin": 52.44,
+     "p": "los"
+    },
+    {
+     "ini": 52.44,
+     "fin": 53.44,
+     "p": "siguientes"
+    },
+    {
+     "ini": 53.44,
+     "fin": 53.84,
+     "p": "tres,"
+    },
+    {
+     "ini": 53.94,
+     "fin": 54.18,
+     "p": "cuatro"
+    },
+    {
+     "ini": 54.18,
+     "fin": 54.88,
+     "p": "años"
+    },
+    {
+     "ini": 54.88,
+     "fin": 55.8,
+     "p": "construyendo"
+    },
+    {
+     "ini": 55.8,
+     "fin": 55.98,
+     "p": "una"
+    },
+    {
+     "ini": 55.98,
+     "fin": 56.16,
+     "p": "vida"
+    },
+    {
+     "ini": 56.16,
+     "fin": 56.32,
+     "p": "que"
+    },
+    {
+     "ini": 56.32,
+     "fin": 56.4,
+     "p": "no"
+    },
+    {
+     "ini": 56.4,
+     "fin": 56.48,
+     "p": "era"
+    },
+    {
+     "ini": 56.48,
+     "fin": 56.58,
+     "p": "la"
+    }
+   ]
+  },
+  {
+   "ini": 56.58,
+   "fin": 57.5,
+   "texto": "¡Gracias por ver el vídeo!",
+   "palabras": [
+    {
+     "ini": 56.58,
+     "fin": 56.9,
+     "p": "¡Gracias"
+    },
+    {
+     "ini": 56.9,
+     "fin": 56.9,
+     "p": "por"
+    },
+    {
+     "ini": 56.9,
+     "fin": 56.9,
+     "p": "ver"
+    },
+    {
+     "ini": 56.9,
+     "fin": 57.5,
+     "p": "el"
+    },
+    {
+     "ini": 57.5,
+     "fin": 57.5,
+     "p": "vídeo!"
+    }
+   ]
+  },
+  {
+   "ini": 57.52,
+   "fin": 57.7,
+   "texto": "¡Hasta la próxima!",
+   "palabras": [
+    {
+     "ini": 57.52,
+     "fin": 57.7,
+     "p": "¡Hasta"
+    },
+    {
+     "ini": 57.7,
+     "fin": 57.7,
+     "p": "la"
+    },
+    {
+     "ini": 57.7,
+     "fin": 57.7,
+     "p": "próxima!"
+    }
+   ]
+  }
+ ]
+}

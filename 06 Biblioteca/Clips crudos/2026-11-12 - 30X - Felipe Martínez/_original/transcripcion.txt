@@ -1,0 +1,951 @@
+# De repartir pizzas a crear marcas virales | Felipe Martínez, director creativo de Holii y 30X — 30X - Felipe Martínez
+# idioma: es · duración: 1:09:46.7 · texto: faster-whisper medium
+# formato: [inicio – fin] (segundos para plan.json) texto
+
+[00:00.0 – 00:05.0] (0.0–5.0) Yo llegué a la conclusión de que lo mejor que una marca puede hacer es adueñarse de un saludo.
+[00:05.2 – 00:08.9] (5.2–8.9) Yo tengo una amiga abogada y le dije, como oye, revisa si alguien es dueño de Oli.
+[00:10.1 – 00:10.9] (10.1–10.9) Del trademark.
+[00:11.5 – 00:12.0] (11.5–12.0) Y me dice...
+[00:12.0 – 00:15.7] (12.0–15.7) No, vos sos dueño del fucking trademark de Oli, no te creo.
+[00:16.0 – 00:16.8] (16.0–16.8) ¿El peor consejo que te han dado?
+[00:17.4 – 00:18.4] (17.4–18.4) Ir a la universidad.
+[00:19.1 – 00:19.4] (19.1–19.4) ¿Qué?
+[00:20.0 – 00:21.9] (20.0–21.9) ¿El peor consejo que te han dado es que te vayas a la universidad?
+[00:21.9 – 00:27.8] (21.9–27.8) Sí, porque a mí la universidad, o sea, la universidad para los creativos es que te pone en contexto con la gente creativa.
+[00:27.8 – 00:35.9] (27.8–35.9) pero en realidad uno no necesita eso, hoy en día hay comunidades masivo de putas de gente creativa
+[00:35.9 – 00:42.0] (35.9–42.0) en redes donde puedes aprender muchas más cosas pero obviamente teniendo en cuenta que uno tiene
+[00:42.0 – 00:47.6] (42.0–47.6) que igual ser autodidacto. Si ustedes me están viendo ahorita y dicen hey yo quiero trabajar
+[00:47.6 – 00:53.3] (47.6–53.3) con Oliu, yo quiero trabajar con 30x, mándame un ejemplo de algo que has hecho, a mí la verdad me
+[00:53.3 – 00:59.2] (53.3–59.2) mierda si fuiste al atadeo la jabarriana los andes y eres bueno y me gusta si tienes talento en lo que
+[00:59.2 – 01:10.3] (59.2–70.3) estás haciendo pues marica que chingada. Hoy es un episodio súper especial y yo soy felicidichoso
+[01:10.3 – 01:15.9] (70.3–75.9) porque el contexto no hace mucho llegamos a un millón de seguidores en instagram y esto es un
+[01:15.9 – 01:21.7] (75.9–81.7) hito importante no tanto por la vanidad sino porque nos da gasolina para reforzar nuestro
+[01:21.7 – 01:26.6] (81.7–86.6) deseo de crear un contenido una chingada de ayudarles a todos ustedes de hacer vainas que
+[01:26.6 – 01:31.8] (86.6–91.8) entretenidas y nosotros en 30x hasta hoy no teníamos la capacidad de hacer
+[01:31.8 – 01:36.8] (91.8–96.8) vainas particularmente cool, hacemos una que otra pero no al nivel que nos gustaría
+[01:36.8 – 01:43.4] (96.8–103.4) y por eso hoy les quiero presentar a nuestro director creativo y de arte que
+[01:43.4 – 01:50.0] (103.4–110.0) encima de esto también fue youtuber, dj, experto en bambol o tinder
+[01:52.0 – 01:58.5] (112.0–118.5) Memología, porque de pronto conocen uno de sus productos que es OLI y es una cuenta
+[01:58.5 – 02:02.5] (118.5–122.5) espectacular que tienen que seguir que hace Memología, entonces les quiero presentar
+[02:03.0 – 02:07.0] (123.0–127.0) a Felipe Martínez y vamos a tener una conversación super chévere en la que nos va a contar de
+[02:07.0 – 02:11.2] (127.0–131.2) su vida y las cosas que vamos a hacer en 30X y que muy seguramente van a poder aplicar
+[02:11.2 – 02:11.8] (131.2–131.8) a su negocio.
+[02:12.1 – 02:15.9] (132.1–135.9) Estábamos cansados de cagarla y que nos funaran y ahorita la vamos a cagar más
+[02:15.9 – 02:21.7] (135.9–141.7) y por eso traemos al equipo a Felipe Martínez, yo estoy felijichoso porque este
+[02:21.7 – 02:26.5] (141.7–146.5) man es un creativo de verdad y la verdad es el regalo que nos dimos a nosotros por
+[02:26.5 – 02:29.3] (146.5–149.3) haber llegado a un poquito más de un millón de seguidores en instagram
+[02:29.9 – 02:33.7] (149.9–153.7) queremos hacer las cosas mucho mejor, eso, y por eso traemos a este man para que nos funen
+[02:34.4 – 02:37.9] (154.4–157.9) ¿Cuántas veces has... vos responsable de cuántas funadas?
+[02:40.7 – 02:43.0] (160.7–163.0) Lo que pasa es que yo ya soy antifunable.
+[02:43.8 – 02:44.2] (163.8–164.2) ¿Qué?
+[02:44.6 – 02:45.7] (164.6–165.7) A mí ya no me funan.
+[02:45.9 – 02:46.1] (165.9–166.1) ¿Por qué?
+[02:46.5 – 02:54.1] (166.5–174.1) Porque ya construí, o sea, la manera en que construimos el contenido ya es como chistoso,
+[02:54.3 – 02:57.7] (174.3–177.7) entonces es como, como es difícil funar a un comediante, si me entiendes.
+[02:57.7 – 02:58.3] (177.7–178.3) Ah, ok.
+[02:58.7 – 03:00.0] (178.7–180.0) Pero contanos de dónde saliste vos.
+[03:01.2 – 03:06.1] (181.2–186.1) Bueno, yo soy Oli Pipe, o sea, me conocen en redes como Oli Pipe, yo soy el fundador
+[03:06.1 – 03:11.3] (186.1–191.3) de Oli, que es una comunidad de comedia de mamar gallo,
+[03:11.4 – 03:14.0] (191.4–194.0) vejo de la vida, demasiado divertido.
+[03:14.7 – 03:19.4] (194.7–199.4) Y lo que nos cráneamos fue que somos expertos en memes,
+[03:19.6 – 03:20.3] (199.6–200.3) en memeología.
+[03:22.5 – 03:26.1] (202.5–206.1) Entonces, sabíamos que los memes eran el formato de
+[03:26.1 – 03:31.4] (206.1–211.4) contenido más compatible de las redes y decidimos
+[03:31.4 – 03:34.1] (211.4–214.1) involucrarlos en los reels, en los videos, en los TikToks,
+[03:34.1 – 03:42.1] (214.1–222.1) todo ese tipo de cosas y la teoría pues funcionó porque mucha gente que ve los
+[03:42.1 – 03:46.0] (222.1–226.0) vídeos los comparte por los memes pero también los comparte por los chistes,
+[03:47.0 – 03:51.9] (227.0–231.9) las interacciones, más que todo también tratamos de ser muy auténticos entonces
+[03:51.9 – 03:58.5] (231.9–238.5) si la cagamos dejamos la cagada en los vídeos, así, porque es como si
+[03:58.5 – 04:04.1] (238.5–244.1) alguien la caga en cámara es más relatable porque entonces lo que
+[04:04.1 – 04:12.0] (244.1–252.0) pasa es que las personas lo ven y dicen como pues pucha pues son como yo, entonces lo comparten
+[04:12.0 – 04:19.2] (252.0–259.2) o les gusta o lo dejan en comentarios, entonces son tres cosas, traer o sea lo que yo haría
+[04:19.2 – 04:24.5] (259.2–264.5) con ustedes digamos ahorita es volver a traer como esa autenticidad, que nos parchemos
+[04:24.5 – 04:29.0] (264.5–269.0) y disfrutemos del contenido que estemos haciendo, crear formatos que a la gente les guste
+[04:29.0 – 04:37.6] (269.0–277.6) también, como un tipo como de canal, network, donde tengamos varios formatos que la gente
+[04:37.6 – 04:42.6] (277.6–282.6) si quiere ver este, pues bs o si quiere entonarse para este otro, se entone para este otro,
+[04:43.8 – 04:49.2] (283.8–289.2) y que compartan, o sea, que construir esta comunidad que ustedes pues les ha tomado
+[04:49.2 – 04:52.9] (289.2–292.9) como tiempo construir, pero ahora como hacerla un poquito más fuerte.
+[04:53.3 – 04:57.6] (293.3–297.6) Me encanta y no había quedado en cuenta que una de las razones por las que estamos
+[04:57.6 – 05:01.9] (297.6–301.9) tan tan alineados es porque yo quiero que la marca de 30x y el contenido que
+[05:01.9 – 05:05.8] (301.9–305.8) hacemos sea medio chistoso, sea medio entretenido porque es una gran forma de
+[05:06.3 – 05:09.8] (306.3–309.8) entretenerse y aprender y ahí estamos mega alineados, si bruce don la cagada
+[05:09.8 – 05:15.1] (309.8–315.1) ve, contanos un poquito de tu experiencia porque vas trabajado en todo
+[05:15.1 – 05:21.0] (315.1–321.0) lado con proyectos internacionales gigantes y llevamos a Chicago trabajando en
+[05:21.0 – 05:22.3] (321.0–322.3) en Delivery.
+[05:22.6 – 05:24.4] (322.6–324.4) Sí, yo soy publicista.
+[05:25.8 – 05:28.0] (325.8–328.0) Yo estudié publicidad y PR.
+[05:28.5 – 05:30.4] (328.5–330.4) Yo me gradué, eso fue mi undergrad.
+[05:30.9 – 05:31.3] (330.9–331.3) ¿En dónde?
+[05:31.3 – 05:33.0] (331.3–333.0) En Chicago, en la Universidad de Po.
+[05:35.4 – 05:37.9] (335.4–337.9) Mientras yo estaba en la universidad, pues yo era pobre.
+[05:38.5 – 05:40.0] (338.5–340.0) Entonces lo que hacía era llevar pizzas.
+[05:41.1 – 05:41.6] (341.1–341.6) ¿Qué pasó?
+[05:41.8 – 05:45.3] (341.8–345.3) Que también, como era pobre, pues solamente comía pizza.
+[05:45.5 – 05:47.5] (345.5–347.5) Llegó un punto en que mi cuerpo fue como,
+[05:47.5 – 05:52.4] (347.5–352.4) par se deja de comer pizza te estás enfermando entonces ya hoy en día soy
+[05:52.4 – 05:57.3] (352.4–357.3) como intolerante al gluten entonces se burla de mí porque marica como es que
+[05:57.3 – 06:02.5] (357.3–362.5) este marica tan gigante no come gluten como es que un pan rollo lo va a matar
+[06:02.5 – 06:10.5] (362.5–370.5) cuánto me dice cuánto me dice yo mío 1.97 casi dos metros
+[06:11.0 – 06:14.6] (371.0–374.6) yo siento que me estoy achicando porque ya pasa ya está más viejito si
+[06:14.6 – 06:16.9] (374.6–376.9) y se empieza a caerse la columna.
+[06:17.0 – 06:18.0] (377.0–378.0) ¿Cuánto mide tu novia?
+[06:20.0 – 06:21.0] (380.0–381.0) 186, 87
+[06:21.0 – 06:22.5] (381.0–382.5) Me paré al frente y le dije
+[06:22.5 – 06:24.2] (382.5–384.2) y le dije ¿Cuánto me hice?
+[06:24.2 – 06:25.7] (384.2–385.7) y me dice 186 y yo dije
+[06:25.7 – 06:28.0] (385.7–388.0) yo mide 186 y si me mide me dice
+[06:28.0 – 06:29.6] (388.0–389.6) ¿Cuándo me hice 186?
+[06:31.2 – 06:32.0] (391.2–392.0) malas mierdas
+[06:32.0 – 06:33.9] (392.0–393.9) si si si
+[06:35.4 – 06:36.9] (395.4–396.9) y después que hiciste?
+[06:37.2 – 06:38.1] (397.2–398.1) y ya pues
+[06:38.6 – 06:40.6] (398.6–400.6) me gradué y se
+[06:41.2 – 06:42.8] (401.2–402.8) ah bueno una buena que yo
+[06:42.8 – 06:47.1] (402.8–407.1) también tengo que yo me considero muy emprendedor, es que en Estados Unidos para tu trabajo en
+[06:48.1 – 06:52.4] (408.1–412.4) publicidad, la gente buena, los creativos tienen que ir a una vaina que se llama un Portafolio
+[06:52.4 – 06:59.4] (412.4–419.4) School ¿verdad? que es un Portafolio School, es como un Masters de creatividad para publicidad
+[06:59.4 – 07:08.4] (419.4–428.4) entonces hay varias universidades o universidades privadas públicas también pero lo que hacen
+[07:08.4 – 07:13.6] (428.4–433.6) que hacen estos programas de publicidad que son unos portafolio programs, entonces lo
+[07:13.6 – 07:18.3] (433.6–438.3) que hacen es que te enseñan, o sea haces como, lo que uno empieza a hacer es que uno
+[07:18.3 – 07:28.0] (438.3–448.0) hace como campañas falsas y con esas campañas tú haces como una página web y las pones
+[07:28.0 – 07:33.4] (448.0–453.4) en tu página web y eso se lo mandas a las agencias y si a las agencias les gusta
+[07:33.4 – 07:37.4] (453.4–457.4) pues te contratan, pero entonces yo era como Marica yo no tengo plata para esta
+[07:37.4 – 07:47.6] (457.4–467.6) mierda porque cada programada de esos vale como 30.000, 40.000 dólares el año y son
+[07:47.6 – 07:54.2] (467.6–474.2) dos años, son 80.000 dólares que te tienes que bajar para que te puedan contratar. Siento
+[07:54.2 – 08:02.7] (474.2–482.7) que es la cultura universitaria, siento que ahí está como yo también tengo problemas
+[08:02.7 – 08:08.2] (482.7–488.2) con eso. Entonces, ay, ¿yo qué hice? Muchas de esas portafolios schools tienen página
+[08:08.2 – 08:14.8] (488.2–494.8) web donde publican a sus estudiantes, ¿verdad? Entonces, tú le puedes dar click a los nombres,
+[08:14.9 – 08:20.7] (494.9–500.7) entonces tú dices, Juanito no sé qué, o Benito Camelas, ta, le das click y te lleva
+[08:20.7 – 08:23.3] (500.7–503.3) a la página de Benito Camelas. Y ahí tú es.
+[08:23.4 – 08:27.1] (503.4–507.1) Y te inventaste una página. Entonces, yo lo que hice fue como ver todo
+[08:27.1 – 08:30.9] (507.1–510.9) lo que esta gente estaba haciendo, el tipo de campañas que estaban haciendo,
+[08:31.5 – 08:37.1] (511.5–517.1) Y yo dije, pues voy a crear una página web para mí, voy a crear unas campañas falsas
+[08:37.1 – 08:39.5] (517.1–519.5) y me salteé el portafolio school.
+[08:40.5 – 08:43.9] (520.5–523.9) Y me contrataron, mi primera agencia fue Leo Burnett en Chicago.
+[08:44.1 – 08:46.5] (524.1–526.5) Leo Burnett en Chicago fue tu primera agencia.
+[08:46.5 – 08:52.4] (526.5–532.4) Me contrataron y ahí fue mi internship, que es un internship repeliado.
+[08:52.5 – 08:53.4] (532.5–533.4) Que es la práctica, claro.
+[08:53.9 – 08:54.0] (533.9–534.0) Sí.
+[08:54.0 – 08:54.5] (534.0–534.5) ¿Cuánto tiempo?
+[08:54.8 – 08:58.1] (534.8–538.1) Esos son seis meses y después te contratan si te gustan.
+[08:58.3 – 08:59.3] (538.3–539.3) ¿Y si te pagan o no?
+[08:59.3 – 09:05.3] (539.3–545.3) pagan como si pagan como 12 dólares la hora o algo así. Y acá te vamos a pagar o estás buscando
+[09:05.3 – 09:07.5] (545.3–547.5) dar portafolio? No, sí, no, portafolio solamente.
+[09:10.1 – 09:15.9] (550.1–555.9) Solamente portafolio. No, eh, si pagan como 12 dólares la hora entonces ahí lo que
+[09:15.9 – 09:19.9] (555.9–559.9) pasó fue que... Bueno, aclaráse, seguro que hay gente que se creyó el cuento de lo del portafolio.
+[09:19.9 – 09:27.4] (559.9–567.4) No, no, no. Aclará, aclará. Aquí sí me están pagando en Colácero. Y aprendizaje.
+[09:27.4 – 09:33.9] (567.4–573.9) en aprendizaje, en mentorías. No, no, no. Sí, sí, me están pagando. Estamos haciendo
+[09:33.9 – 09:39.6] (573.9–579.6) un deal de negocio. Sabroso. Entre emprendedores. Entre emprendedores. Bueno, entonces, ahí
+[09:40.4 – 09:45.1] (580.4–585.1) ni siquiera duré los seis meses porque me llamó otra agencia, vio mi portafolio
+[09:45.1 – 09:53.3] (585.1–593.3) y me llamó otra agencia que se llamaba FS, FSB. Y FSB son, es como una de las agencias
+[09:53.3 – 09:57.6] (593.3–597.6) más grandes también, y ahí trabajé con Coca-Cola, entonces...
+[09:57.6 – 09:59.3] (597.6–599.3) ¿Tú estabas trabajando en campaña con Coca-Cola?
+[09:59.7 – 10:07.6] (599.7–607.6) Mi primera campaña en serio fue con Coca-Cola, y ahí literal lo que hice fue, duré ahí
+[10:07.6 – 10:15.9] (607.6–615.9) como un año con ellos, y después me fui a trabajar con otra agencia que hacen muchas
+[10:15.9 – 10:25.1] (615.9–625.1) de print, entonces hacían catálogos, impresos, y hacían muchos catálogos, revistas, los
+[10:25.1 – 10:31.2] (625.1–631.2) contratos eran con Vogue, y con... vainas así densas, pero de solo print, y esa me
+[10:31.2 – 10:36.6] (631.2–636.6) gustó mucho porque era más como volver a... o sea uno pasa de lo digital a lo físico
+[10:36.6 – 10:44.9] (636.6–644.9) y uno como que se da cuenta como que lo físico a veces también es necesario, y uno ir a
+[10:44.9 – 10:52.0] (644.9–652.0) imprentas y mirar que los colores estén bien y que no sé qué, que todo está alineado. El mundo real.
+[10:52.1 – 10:59.3] (652.1–659.3) El mundo real. Pues es ahí estuve un resto de tiempo y después me contrataron en otra agencia
+[10:59.3 – 11:03.7] (659.3–663.7) en Los Ángeles. Espérate todo esto estaba en Estados Unidos. En Chicago. A todo el Chicago.
+[11:03.7 – 11:09.3] (663.7–669.3) Todo está en Chicago hasta ahorita. Después me contrataron en Los Ángeles y esto fue pre pandemia
+[11:09.3 – 11:16.0] (669.3–676.0) y ahí trabajé con una agencia que el cliente más grande era una empresa de
+[11:16.0 – 11:20.7] (676.0–680.7) power tools de herramientas como taladros y vainas. Guilty o cual? No, se
+[11:20.7 – 11:28.5] (680.7–688.5) llama Chervone, que son dueños de Skill, Milwaukee y un montón de vainas, son grandototas
+[11:30.2 – 11:37.4] (690.2–697.4) y ahí les fui como el... yo soy creativo entonces la primera idea que les llevé fue
+[11:38.0 – 11:42.7] (698.0–702.7) ¿Quiénes son los que usan Power Tools en Estados Unidos? Los hispanos, ¿verdad?
+[11:43.3 – 11:49.6] (703.3–709.6) O sea, ¿quién más contratan para que les arreglen o les corten el pasto, les cuelguen un cuadro o lo que sea?
+[11:50.5 – 11:55.2] (710.5–715.2) Entonces, dije como marica, ¿por qué no patrocinamos un equipo de fútbol?
+[11:56.1 – 12:03.7] (716.1–723.7) Y ahí nos cráneamos el patrocinio del LFC, por una de las marcas de ellos que se llama Flex, Flex Power Tools.
+[12:03.7 – 12:07.5] (723.7–727.5) Entonces ahí no escaneamos el patrocinio del LFC.
+[12:08.2 – 12:10.1] (728.2–730.1) ¿El LFC es la de la octagonal?
+[12:10.2 – 12:15.9] (730.2–735.9) El LFC es... en Los Ángeles hay dos equipos de la MLS, de fútbol.
+[12:16.4 – 12:19.8] (736.4–739.8) Sabe el LA Galaxy, que el LA Galaxy es de los gomelos.
+[12:20.4 – 12:22.7] (740.4–742.7) Y está el LFC que es el del pueblo.
+[12:23.5 – 12:24.8] (743.5–744.8) Entonces uno no va a patrocinar.
+[12:25.2 – 12:29.3] (745.2–749.3) O sea, las estrategias no vas a patrocinar Power Tools a los gomelos
+[12:29.3 – 12:31.4] (749.3–751.4) porque los gomelos no hacen nada.
+[12:31.4 – 12:36.1] (751.4–756.1) O sea, sí hacen cosas, pero no me funen.
+[12:37.2 – 12:40.0] (757.2–760.0) Pero sí, la estrategia era con estos manes.
+[12:41.1 – 12:44.7] (761.1–764.7) Y fue muy divertido porque el LFC tiene un...
+[12:44.7 – 12:47.9] (764.7–767.9) la mascota es un halcón, es un halcón real.
+[12:48.3 – 12:49.1] (768.3–769.1) O sea, los manes tienen...
+[12:49.1 – 12:50.3] (769.1–770.3) Que vuela y...
+[12:50.3 – 12:50.5] (770.3–770.5) Ajá.
+[12:50.6 – 12:51.7] (770.6–771.7) Y los que le tapan los ojitos.
+[12:51.7 – 12:53.9] (771.7–773.9) Le tapan los ojitos y después lo mandan a volar.
+[12:54.1 – 12:57.6] (774.1–777.6) Y entonces lo que hacen es que, antes de cada partido,
+[12:58.5 – 13:03.7] (778.5–783.7) suelta en el halcón y el halcón vuela, hace como tres vueltas al estadio para que les
+[13:03.7 – 13:07.6] (783.7–787.6) dé como buena suerte y después el man viene y aterriza, entonces yo dije como marica
+[13:07.6 – 13:13.4] (787.6–793.4) cojamos el halcón y hagamos que aterrice en un taladro y cojimos una cámara de estas
+[13:13.4 – 13:19.2] (793.4–799.2) como era una cámara, era una phantom de esas que graba como en super ultra slow
+[13:19.2 – 13:26.7] (799.2–806.7) mo y el maricalcón aterriza así en un taladro y claro con toda esa vuelta la
+[13:26.7 – 13:34.2] (806.7–814.2) vamos, eso se volvió así vayas, vayas en las highways, o sea una campaña así nacional.
+[13:35.7 – 13:41.1] (815.7–821.1) Porque también hay un tema y es que, hay una vengana en el fútbol y es que cada vez
+[13:41.7 – 13:47.4] (821.7–827.4) que los equipos cambian de patrocinio significa que los fans tienen que comprar una camiseta
+[13:47.4 – 13:53.2] (827.4–833.2) nueva, entonces los fans odian esa mierda. Claro. Entonces el insider ahí es como
+[13:53.2 – 13:59.7] (833.2–839.7) hacemos para que también los fans digan como no marica que chimba entonces ahí fue como
+[13:59.7 – 14:04.4] (839.7–844.4) incluir también al fanbase y así las cosas buenas entonces ahí ya estuve un tiempo
+[14:04.4 – 14:11.7] (844.4–851.7) y después cayó la pandemia y me fui a vivir a Miami y en Miami estuve tres años y ahí
+[14:11.7 – 14:20.9] (851.7–860.9) trabajé para los cruceros en unos cruceros que llaman Norwegian en GL, en CL perdón
+[14:20.9 – 14:24.2] (860.9–864.2) Y ahí estuve de in-house de director creativo un tiempo.
+[14:25.9 – 14:29.0] (865.9–869.0) Hicimos una campaña que era, no sé si se acuerdan en la pandemia,
+[14:29.2 – 14:31.0] (869.2–871.0) pero hubo como un crucero en Italia.
+[14:31.4 – 14:32.4] (871.4–872.4) Sí, que no lo dejaron salir.
+[14:32.9 – 14:34.4] (872.9–874.4) Claro, entonces la gente estaba,
+[14:34.9 – 14:37.4] (874.9–877.4) tenía el resto del culillo de montarse un crucero otra vez.
+[14:38.1 – 14:40.9] (878.1–880.9) Entonces hicimos una campaña, una chimba y se llamaba Break Free
+[14:41.5 – 14:45.6] (881.5–885.6) y nos conseguimos los derechos de la canción de Queen de
+[14:45.6 – 14:48.2] (885.6–888.2) I want to break free, claro.
+[14:48.5 – 14:50.9] (888.5–890.9) Entonces hicimos una campaña así también global con eso.
+[14:50.9 – 14:56.2] (890.9–896.2) y es como break free, como de tu casa, break free, como Sal otra vez explora
+[14:57.3 – 15:01.0] (897.3–901.0) y le fue bien, o sea, se ganó premios y todo a la vuelta
+[15:01.0 – 15:01.9] (901.0–901.9) y hablame de Oli
+[15:01.9 – 15:08.4] (901.9–908.4) ah bueno, entonces ahí llego a Oli, en la pandemia empiezo a trabajar remoto
+[15:08.4 – 15:12.3] (908.4–912.3) y yo digo marica, yo que estoy haciendo trabajo remoto desde Miami
+[15:12.3 – 15:16.3] (912.3–916.3) porque mi arriendo era re caro, porque yo vivía en South Beach
+[15:16.3 – 15:18.9] (916.3–918.9) vivías en South Beach casual
+[15:18.9 – 15:24.2] (918.9–924.2) Y era, o sea, claro, entonces mi plan era trabajar y después yo me iba a la playa.
+[15:24.2 – 15:26.0] (924.2–926.0) Contrataba a hispanos para que le esforzaran el césar.
+[15:26.3 – 15:30.6] (926.3–930.6) Ajá, contrataba a hispanos para que le anotaran el pasto con su herramienta Milwaukee.
+[15:31.0 – 15:37.6] (931.0–937.6) Allá son puros cubanos que no quieren trabajar, sí, pero bueno, en fin, entonces mi plan
+[15:37.6 – 15:44.6] (937.6–944.6) era ir a la playa todos los días, yo fumaba, tomaba tranqui, me gustaba farrear
+[15:45.1 – 15:46.6] (945.1–946.6) y ahí me vuelvo DJ.
+[15:47.3 – 15:48.7] (947.3–948.7) Y ahí me vuelvo DJ.
+[15:48.7 – 15:52.7] (948.7–952.7) entonces me volví DJ. Yo es que habías de DJ. Yo era DJ. Puediste un día, Marica,
+[15:52.9 – 15:56.5] (952.9–956.5) volverme DJ. No, es que yo tengo un amigo, yo tengo un amigo que era, el man trabajaba
+[15:56.5 – 16:01.8] (956.5–961.8) como consultor de restaurantes en Miami. Y el Marica, yo siempre parchaba y yo ponía
+[16:01.8 – 16:06.2] (961.8–966.2) música. Y el Marica me dice un día como, hey, vamos a abrir este restaurante, vaya
+[16:06.2 – 16:10.8] (966.2–970.8) y ponga música. Y yo, pero ¿cómo así? Yo no soy DJ, Marica. No, pues vaya con
+[16:10.8 – 16:17.6] (970.8–977.6) su computador, ponga música. Y yo, ok, no, pues si voy a hacer esta mierda lo
+[16:17.6 – 16:22.8] (977.6–982.8) bien y fui a un guitar center, no sé si sabes cuáles son guitar centers, son como
+[16:22.8 – 16:30.1] (982.8–990.1) de vainas de música, me compré un cosito de DJ chiquito y lo conectaron
+[16:30.1 – 16:34.0] (990.1–994.0) al computador y no practica, entonces me puse a practicar y yo amo la
+[16:34.0 – 16:40.4] (994.0–1000.4) cumbia, entonces me volví, así ya mezclaba cumbia con house, yo amo la cumbia
+[16:40.9 – 16:42.4] (1000.9–1002.4) ¿De dónde salió?
+[16:43.7 – 16:44.4] (1003.7–1004.4) No sé
+[16:45.0 – 16:47.4] (1005.0–1007.4) No, pues tengo como, yo creo que
+[16:47.4 – 16:48.8] (1007.4–1008.8) a mi me han dicho que yo tengo como
+[16:48.8 – 16:50.3] (1008.8–1010.3) una visa abuela negra por allá
+[16:52.1 – 16:52.5] (1012.1–1012.5) Ok
+[16:54.2 – 16:54.6] (1014.2–1014.6) Entonces
+[16:54.6 – 16:56.4] (1014.6–1016.4) Yo si tengo y no soy tan fan de la cumbia
+[16:57.0 – 16:57.4] (1017.0–1017.4) pero
+[16:57.4 – 17:00.5] (1017.4–1020.5) No, de hecho uno se pone a
+[17:00.5 – 17:02.4] (1020.5–1022.4) mezclar cumbia con house y suena delicioso
+[17:04.0 – 17:05.3] (1024.0–1025.3) ¿De su espasa una lista?
+[17:05.4 – 17:06.6] (1025.4–1026.6) Si, yo ahí tengo mixtes
+[17:06.6 – 17:08.4] (1026.6–1028.4) Yo tengo una lista
+[17:08.4 – 17:16.4] (1028.4–1036.4) de gimnasio que es un hit tengo otra de suave que es un hit y tengo otra que se llama como
+[17:16.4 – 17:22.2] (1036.4–1042.2) adolescencia bilbao que cuanto futbolista viene acá al valle del cauca le encanta la mierda y
+[17:22.2 – 17:27.4] (1042.2–1047.4) todo mundo me la pide bueno vamos a compartir las listas, vos de que tenes? cumbia house y que mas?
+[17:28.0 – 17:37.6] (1048.0–1057.6) tengo puro house normalito, house de chicago que es más minimal pero también rockcito
+[17:38.5 – 17:44.1] (1058.5–1064.1) reggae, de todo. El sábado vamos a celebrar el millón de followers, que no es por eso,
+[17:44.2 – 17:49.2] (1064.2–1069.2) es como para excusa para un tal equipo, ponemos la música, pero no haga, o sea, spotty.
+[17:49.2 – 17:53.2] (1069.2–1073.2) No, sí, spotty. Aunque el que quiera hacer tu visaje hace tu visaje.
+[17:53.3 – 17:59.3] (1073.3–1079.3) No, ya no. Bueno, entonces ahí yo me enloquecí, me dije como no, yo tengo que irme de
+[17:59.3 – 18:04.3] (1079.3–1084.3) acá y me vine a ir a Colombia, porque todavía estaba trabajando remoto, entonces
+[18:04.3 – 18:10.2] (1084.3–1090.2) Dije, marica, gasto, gano en dólares, gasto en pesos, tiene sentido, el nuevo sueño americano,
+[18:10.2 – 18:14.9] (1090.2–1094.9) el nuevo sueño americano, entonces me vine a vivir a Villa de Leyva, a costar petro,
+[18:14.9 – 18:20.6] (1094.9–1100.6) ah sí, exacto, que nos cargó el dólar, sí, sí, exacto, yo llegué y era, estaba
+[18:20.6 – 18:27.2] (1100.6–1107.2) en 5000 y yo, ay puto, yo los invito a comer a todos, vamos Andrés, sí, exacto
+[18:27.2 – 18:32.2] (1107.2–1112.2) y claro ahorita pues ya sufro un poquito más, pero me fui a vivir a Villa de
+[18:32.2 – 18:39.3] (1112.2–1119.3) iba y yo dije bueno la necesito la desconexión y ahí me empecé a aburrir
+[18:39.3 – 18:42.8] (1119.3–1122.8) entonces yo lo que hacía era que no había más fiesta o que pues es que allá
+[18:43.8 – 18:49.8] (1123.8–1129.8) no la fiesta de la fuma si me hacía falta me hacía falta parchar en realidad
+[18:49.8 – 18:54.3] (1129.8–1134.3) porque estaba literal solo en una finca solo que al principio pues fue una
+[18:54.3 – 19:00.3] (1134.3–1140.3) chimba porque meditaba de todo y ya después me volví loco lo que empecé
+[19:00.3 – 19:05.2] (1140.3–1145.2) hacer es que me venía, alquilaba Airbnb en Bogotá y los 100 semanas me venía
+[19:05.2 – 19:11.9] (1145.2–1151.9) para acá y entonces yo... O sea hacía el reverse. Sí. Es como entre el semana y el...
+[19:12.8 – 19:19.2] (1152.8–1159.2) Claro, claro. Necesito a contaminarme. Otá, les hago eso con mujer igualito. Y en esa época pues no tenía
+[19:19.2 – 19:26.0] (1159.2–1166.0) novia entonces lo que hacía era bombo el Tinder y venía allá con los sitios. Lo que llaman Tinder Tourism, pero regional.
+[19:26.0 – 19:32.6] (1166.0–1172.6) regional. Exacto, conseguía una cita, ve y mostrame la ciudad, no conozco Moscú, después
+[19:32.6 – 19:40.8] (1172.6–1180.8) te cuento la historia real, pero va, y entonces. Y ahí dije como, conocí a Juli, que es
+[19:40.8 – 19:48.0] (1180.8–1188.0) mi novia, y empecé a parchar con ella, la chiquita así. La chiquita, puta. Y empecé
+[19:48.0 – 19:52.7] (1188.0–1192.7) a parchar con ella y ella me invitaba a parches donde estaba con los amigos, y
+[19:52.7 – 19:55.8] (1192.7–1195.8) y me di cuenta cuando empecé a hablar con ellos
+[19:55.8 – 19:58.9] (1195.8–1198.9) que yo llegaba a un parche y la gente me saludaba
+[19:58.9 – 20:01.4] (1198.9–1201.4) Oli, entonces yo era como Oli
+[20:01.4 – 20:04.9] (1201.4–1204.9) claro, yo me fui a Estados Unidos a los 16 y volví
+[20:05.6 – 20:07.9] (1205.6–1207.9) y en mi época nadie decía Oli
+[20:07.9 – 20:11.1] (1207.9–1211.1) entonces yo vuelvo y todo el mundo es como Oli
+[20:11.1 – 20:13.4] (1211.1–1213.4) y yo Oli
+[20:14.3 – 20:16.7] (1214.3–1216.7) pero era ya algo muy loco que todo el mundo
+[20:16.7 – 20:19.3] (1216.7–1219.3) me decía Oli, o sea todo el parche de ella decía Oli
+[20:19.3 – 20:24.8] (1219.3–1224.8) claro y a otros parches y todos me decían olí y salía a farrear y me saludaban olí
+[20:24.8 – 20:31.8] (1224.8–1231.8) o sea así una locura y yo yo en mi mente yo sé como guas que loco y yo en chicago había
+[20:31.8 – 20:37.8] (1231.8–1237.8) trabajado con el director creativo de bot wiser que fue el que sacó la campaña no sé si te
+[20:37.8 – 20:45.5] (1237.8–1245.5) acuerdas que se llamaban por celular si claro es un mega hit no tenía que estamos hablando
+[20:45.5 – 20:50.0] (1245.5–1250.0) Pero era una campaña del Super Bowl, la más exitosa de la historia del Super Bowl
+[20:50.0 – 20:54.9] (1250.0–1254.9) Y yo trabajé con ese man, y yo una vez me senté con el man y le dije como a usted, ¿cómo se le ocurrió esa mierda?
+[20:55.2 – 21:01.1] (1255.2–1261.1) Y me dijo, yo llegué a la conclusión de que lo mejor que una marca puede hacer es adueñarse de un saludo
+[21:01.1 – 21:02.3] (1261.1–1262.3) O de una expresión
+[21:02.3 – 21:04.0] (1262.3–1264.0) O sea, nosotros nos deberíamos llamar Tónses
+[21:04.0 – 21:05.9] (1264.0–1265.9) Sí, ¿qué más ve?
+[21:06.0 – 21:06.6] (1266.0–1266.6) ¿Qué más ve?
+[21:08.8 – 21:10.9] (1268.8–1270.9) Porque no hacemos, hagamos de formato
+[21:11.6 – 21:12.3] (1271.6–1272.3) ¿Qué más ve?
+[21:13.0 – 21:13.4] (1273.0–1273.4) Eso
+[21:13.9 – 21:14.7] (1273.9–1274.7) ¿Qué más ve?
+[21:16.0 – 21:21.5] (1276.0–1281.5) eso y entonces yo dije y yo llegué acá y yo tengo una amiga, yo tengo una amiga
+[21:21.5 – 21:24.6] (1281.5–1284.6) abogada y le dije como oye revisa si alguien es dueño de Oli
+[21:25.1 – 21:31.6] (1285.1–1291.6) del trademark y me dice vos sos dueño del fucking trademark de Oli no te creo
+[21:31.6 – 21:35.7] (1291.6–1295.7) con dole y o con y con y pero también o sea igual es que el trademark
+[21:35.7 – 21:39.3] (1295.7–1299.3) funciona y te abraste la plata y no ah entonces no tenes que cuadrar las
+[21:39.3 – 21:43.4] (1299.3–1303.4) dos o sea se cuadra una o se cuadra las dos pero igual cuadraste una las
+[21:43.4 – 21:49.4] (1303.4–1309.4) las dos, pero nadie es el dueño, o sea nadie puede ser dueño de Oli con una, con una y...
+[21:49.4 – 21:56.4] (1309.4–1316.4) ni con dos, ni con dos porque yo soy, es fonético, entonces... yo te dije que era emprendedor
+[21:57.4 – 22:05.1] (1317.4–1325.1) entonces lo primero que hice fue hacer esa mierda y vuelvo, la historia vuelve a mis tiempos de
+[22:05.5 – 22:13.4] (1325.5–1333.4) llevar pizza, del gluten, del gluten, cuando nos conocimos estamos ahí parchando y te
+[22:13.4 – 22:18.9] (1333.4–1338.9) y yo no me acuerdo que fue que dijo este man, no, tiene gluten y yo marica, tráemele una
+[22:18.9 – 22:30.7] (1338.9–1350.7) macha a esta princesa, yo era como que, pero es que pizza 10 años en Estados Unidos, antes
+[22:30.7 – 22:36.5] (1350.7–1356.5) de estar vivo weón, pero aquí seguí, bueno entonces vuelvo, entonces yo cuando me vuelvo
+[22:36.5 – 22:43.4] (1356.5–1363.4) intolerante al gluten al mismo tiempo en Estados Unidos, yo estaba en la universidad y al
+[22:43.4 – 22:52.7] (1363.4–1372.7) hard celsers que son estas bebidas alcohólicas con gas y sabores frutales y yo pues me gustaba
+[22:52.7 – 22:58.3] (1372.7–1378.3) parchar me gustaba la farra entonces lo que empiezo a hacer es tomar esa mierda y llego yo
+[22:58.3 – 23:03.3] (1378.3–1383.3) acá a colombia y me doy cuenta que pues no es tan popular como lo ves allá habían como dos
+[23:03.3 – 23:10.5] (1383.3–1390.5) una o dos marcas cuando yo llegué y yo vi todo el crecimiento de esa vuelta y yo vi como tú
+[23:10.5 – 23:16.5] (1390.5–1396.5) entrabas, has de cuenta, tú entrabas a una licorera o a un carulla, pero allá y están
+[23:16.5 – 23:22.5] (1396.5–1402.5) las neveras de la cerveza y al principio eran solo cerveza. Cuando yo me vengo, ya
+[23:22.5 – 23:28.5] (1402.5–1408.5) digamos que tú entrabas y era el 60% de la nevera era Celsers, hard Celsers y el
+[23:28.5 – 23:37.2] (1408.5–1417.2) 40% cerveza. Y además que yo iba a farras como de universidad y la estrategia que
+[23:37.2 – 23:44.5] (1417.2–1424.5) hicieron fue un hit porque al principio el target eran las viejas, le metieron fruticas
+[23:44.5 – 23:51.7] (1424.5–1431.7) y la maricada y después los manes se dieron cuenta que estas viejas ya no tomaban pola
+[23:51.7 – 23:59.6] (1431.7–1439.6) entonces les compraban Celsius, y entonces al ver eso el target cambió, ahora los manes
+[23:59.6 – 24:04.3] (1439.6–1444.3) también empezaron a tomar Celsius porque decían como maricada pues no voy a comprar
+[24:04.3 – 24:09.0] (1444.3–1449.0) pola y seltzer sino más bien compro esto igual me parcho y todo bien entonces yo
+[24:09.0 – 24:14.3] (1449.0–1454.3) llego acá y veo eso y cuando veo el olí cuando digo como marica yo quiero
+[24:14.3 – 24:21.1] (1454.3–1461.1) hacer eso me voy a cranear voy a montar una empresa de hard seltzers que se
+[24:21.1 – 24:27.2] (1461.1–1467.2) llame olí y cómo voy a hacer esto entonces yo hago un paréntesis yo fui
+[24:27.2 – 24:33.5] (1467.2–1473.5) youtuber también. Me encantan los paredes de este huevo. Fui dj, fui youtuber. Es que
+[24:33.5 – 24:41.1] (1473.5–1481.1) Marica tengo muchas historias. Meditaba y me enloquecí. ¿Cómo fue que fuiste youtuber?
+[24:41.6 – 24:47.6] (1481.6–1487.6) Ok mientras yo trabajaba en publicidad, yo conocí a un man que era otro director
+[24:47.6 – 24:52.8] (1487.6–1492.8) de arte y dijimos, nosotros no costaba. ¿Tú también sos director de arte? Si yo
+[24:52.8 – 24:59.3] (1492.8–1499.3) dirección de arte. No, pero vení, vamos a aprovechar esta mierda, arreglame esa fucking
+[24:59.3 – 25:04.8] (1499.3–1504.8) marca tan a ya ya que tenemos, huevo, o sea, vamos a meterle arte así, quiero, quiero,
+[25:04.8 – 25:11.3] (1504.8–1511.3) ¿cómo es que dice? ¿cómo es que dice nuestro amigo Víctor? Cine vertical. Eso, eso. Quiero
+[25:11.3 – 25:16.1] (1511.3–1516.1) emoción, huevo. Pues acá está firme para eso, ¿no? Sí, está firme, pero estamos aquí en tres
+[25:16.1 – 25:22.5] (1516.1–1522.5) cámaras fijas, huevo. Bueno, listo, todo bien. Vamos a hacerle, pero ya me la vas a llevar. Bueno, entonces, en mis tiempos de
+[25:22.5 – 25:29.7] (1522.5–1529.7) a mí me gustaba mucho el fashion, me gustaba como el streetwear y todas las vueltas y lo
+[25:29.7 – 25:37.2] (1529.7–1537.2) que hice con mi amigo fue crear un canal donde hablaba de cosas que me gustaban porque queríamos
+[25:37.9 – 25:45.2] (1537.9–1545.2) hacer un marketplace de fashion de streetwear y también fue la misma vaina es como como putas
+[25:46.4 – 25:55.8] (1546.4–1555.8) lanzó un website, en esa época, esto era el 2018 por ahí, no hay tráfico como la gente llega,
+[25:56.1 – 26:00.5] (1556.1–1560.5) entonces dije pues Youtube que era en esa época estaba explotando, entonces lo que hacíamos era
+[26:01.2 – 26:15.2] (1561.2–1575.2) documentales de marcas de ropa, que eran marcas chingas que a nosotros nos gustaban y haz de
+[26:15.2 – 26:20.8] (1575.2–1580.8) director de arte y ponle que pasaran dos semanas y yo dije voy a mirar a ver qué le pasó
+[26:21.3 – 26:27.5] (1581.3–1587.5) con ese video y había explotado, tenía como 200 mil views en dos semanas y era porque
+[26:27.5 – 26:31.3] (1587.5–1591.3) me di cuenta que nadie estaba haciendo el tipo de contenido que yo estaba haciendo
+[26:31.8 – 26:41.6] (1591.8–1601.6) y ahí empezamos a joder la vida y empezamos a hacer, es que me van a afunar pero empezamos
+[26:41.6 – 26:48.6] (1601.6–1608.6) hacer experimentos de marketing con los videos, entonces hicimos un video sobre
+[26:48.6 – 26:55.1] (1608.6–1615.1) valenciaga la marca y en esa época estaba bernice anders contra hillary
+[26:55.1 – 27:03.2] (1615.1–1623.2) clinton en las primarias y valenciaga se robó el logo de bernice anders y puso
+[27:03.2 – 27:11.3] (1623.2–1631.3) valenciaga con la eléctrica de bernice anders y sacaron una colección y esa
+[27:11.3 – 27:15.7] (1631.3–1635.7) izquierda de Estados Unidos. Exacto. De Bernie. Y con mi amigo dijimos, Marica,
+[27:16.8 – 27:19.7] (1636.8–1639.7) investiguemos. Y nos dimos cuenta. Investiguemos a ver si se puede o
+[27:19.7 – 27:24.1] (1639.7–1644.1) investiguemos qué. Investiguemos qué está pasando en el fashion político. Ya.
+[27:24.2 – 27:30.3] (1644.2–1650.3) ¿Verdad? Y nos dimos cuenta que las marcas o la gente que vendía merch para
+[27:30.3 – 27:38.2] (1650.3–1658.2) Trump eran una mierda horrible, puro, puro Hillbilly, gringo, white trash,
+[27:38.2 – 27:44.5] (1658.2–1664.5) y era una mierda entonces lo que hicimos fue como hagamos la misma mierda que hizo
+[27:44.5 – 27:50.0] (1664.5–1670.0) valenciaga pero con trump entonces lo que hicimos fue que nos robamos el
+[27:50.0 – 27:56.4] (1670.0–1676.4) osito de roald floren y lo volvimos un león y le pusimos una cachuchita que
+[27:56.4 – 28:03.5] (1676.4–1683.5) decía maga y sacamos esa mierda y vendimos como 60 mil dólares de esa vuelta
+[28:03.5 – 28:03.8] (1683.5–1683.8) Así.
+[28:04.0 – 28:05.4] (1684.0–1685.4) Así, en dos semanas vendimos.
+[28:05.4 – 28:06.8] (1685.4–1686.8) Sí, te acabó toda la producción.
+[28:06.9 – 28:07.1] (1686.9–1687.1) Sí.
+[28:07.8 – 28:10.5] (1687.8–1690.5) Y fueron como, de hecho, yo tengo todavía esa carta.
+[28:11.1 – 28:13.2] (1691.1–1693.2) Ralph Lauren nos mandó un C&C.
+[28:13.4 – 28:13.8] (1693.4–1693.8) Claro.
+[28:14.4 – 28:16.0] (1694.4–1696.0) Como, ¿eh? ¿Cómo van a hacer esto? Y yo,
+[28:16.3 – 28:18.2] (1696.3–1698.2) pero no es un osito, es un león.
+[28:19.5 – 28:22.4] (1699.5–1702.4) Y no tengo cómo dependerme, estamos a enterrar en abogados.
+[28:22.7 – 28:23.8] (1702.7–1703.8) Y, pero la...
+[28:24.5 – 28:27.8] (1704.5–1707.8) Me sirvió porque logré alargar la conversación como un mes
+[28:28.4 – 28:29.9] (1708.4–1709.9) y seguía vendiendo.
+[28:30.1 – 28:31.8] (1710.1–1711.8) Mientras te jodía Ralph Lauren.
+[28:31.8 – 28:37.7] (1711.8–1717.7) y ya después bueno fue listo, listo, ya lo bajó. Ya acabaron las elecciones, ya estábamos bien.
+[28:38.8 – 28:43.4] (1718.8–1723.4) Pero igual no, quedaba como un año más seguro. Sí, no, igual y entonces después ahí creamos
+[28:43.4 – 28:49.9] (1723.4–1729.9) una marca que era ProTrump, obviamente yo no soy ProTrump, odio esa mierda, odio la política,
+[28:50.2 – 28:54.8] (1730.2–1734.8) me caerá de mal. Pero me gusta la planta. Pero me gusta la planta y nos dimos cuenta el
+[28:54.8 – 29:03.8] (1734.8–1743.8) hueco que había en el mercado, que era ropa fancy para gente que le guste Trump, y sacamos
+[29:03.8 – 29:09.3] (1743.8–1749.3) colecciones, hicimos harta plata. Como un Vineyard Binds pero que llega a Trump. Exacto,
+[29:09.4 – 29:14.4] (1749.4–1754.4) sacamos, es una chingada, de hecho todavía tengo diseños por ahí. Es una chingada.
+[29:14.4 – 29:19.6] (1754.4–1759.6) Sí o sea. Traete unas piecitas. Por ahí tengo, por ahí tengo. Aquí hay otro,
+[29:19.6 – 29:29.0] (1759.6–1769.0) porque no diseñas el merch de 30x? no, no, este weón marica va a tener más puestos que un bus
+[29:29.0 – 29:36.1] (1769.0–1776.1) merch 30x, me encanta, me estoy metiendo en un lío, bueno no importa, porque? no, hagámosle, hagámosle
+[29:36.1 – 29:40.8] (1776.1–1780.8) pero vamos a diseñar, la marca la tenemos registrada, el .com es nuestro
+[29:40.8 – 29:45.8] (1780.8–1785.8) entonces vamos a hacer merch de 30x, una chimba, de una, yo firme, no me gusta
+[29:45.8 – 29:52.2] (1785.8–1792.2) Marica, me pare un hit porque yo me he estado dando cuenta que yo quiero hacer como mucha pura vaina creativa, ¿no?
+[29:52.5 – 30:04.8] (1792.5–1804.8) Ahora, hacerla como el cliché de este head of studio, de gente de estudio, de cine que no sabe ni mierda y se caga todas las películas, yo quiero leer de man, si me entendes, pero por lo menos se mete bien en creatividad.
+[30:05.3 – 30:10.8] (1805.3–1810.8) No, pero con tal de que uno se alinee con gente que tiene buen taste, las cosas funcionan.
+[30:10.8 – 30:16.7] (1810.8–1816.7) más que a mí me encanta, yo le estaba diciendo ayer a Aleja, es que no más míralo, de pronto
+[30:16.7 – 30:22.5] (1816.7–1822.5) yo porque tiro Crespo y lo que sea, pero vos sos el bicho más raro que tenemos en 30x,
+[30:23.1 – 30:28.5] (1823.1–1828.5) gracias, no eso es un cumplido, no un culo cumplido, es cumplido, y necesitamos más
+[30:28.5 – 30:35.5] (1828.5–1835.5) así, necesitamos mucho más porque queremos el cagada, vamos a meterle, pero bueno
+[30:35.5 – 30:42.0] (1835.5–1842.0) Ok, entonces hago esa vuelta y con mi partner decidimos, a mí como no me tramaba tanto
+[30:42.0 – 30:48.3] (1842.0–1848.3) la política en ese momento, el Mánica no le tramaba tanto el YouTube, decidimos separarnos.
+[30:48.6 – 30:54.5] (1848.6–1854.5) Entonces el man coge la marca de ropa y yo coge el canal. Y eso fue un error porque
+[30:54.5 – 30:58.6] (1854.5–1858.6) ahí dejamos los dos de hacer cosas, porque digamos que nos complementábamos re bien
+[30:58.6 – 31:03.4] (1858.6–1863.4) los dos. Y ahí pues, bueno, o sea... Te dejas secar al canal y el otro coge
+[31:03.4 – 31:09.2] (1863.4–1869.2) No, el canal todavía está, de hecho todavía monetizo, me llegan como 800 dólares mensuales.
+[31:09.2 – 31:10.0] (1869.2–1870.0) ¿De verdad?
+[31:10.0 – 31:10.3] (1870.0–1870.3) Sí.
+[31:10.4 – 31:11.2] (1870.4–1871.2) ¿Todo eso?
+[31:11.2 – 31:16.4] (1871.2–1876.4) Sí, porque alcancé a llegar como a 70 mil followers, tenía videos de más de millón
+[31:16.4 – 31:17.3] (1876.4–1877.3) de vistas.
+[31:18.0 – 31:19.2] (1878.0–1879.2) ¿Y eso sigue existiendo?
+[31:19.2 – 31:22.6] (1879.2–1882.6) Eso todavía existe, solo que no le toca, o sea, si yo quisiera hacer más plata,
+[31:23.2 – 31:31.8] (1883.2–1891.8) lo podría re recompensar pregunta pendeja pues porque quieres trabajar con
+[31:31.8 – 31:37.5] (1891.8–1897.5) 30 aquí no porque me parche me gusta que y culo entonces el la consigna aquí es
+[31:37.5 – 31:40.8] (1897.5–1900.8) que este managa lo que quiera sale si están opciones
+[31:40.8 – 31:45.5] (1900.8–1905.5) de mi ciste me hiciste pensar una vaina yo tengo como jingles que los pensemos
+[31:46.1 – 31:48.8] (1906.1–1908.8) a mí alguien me salude me dice qué más ve porque parece que yo siempre le
+[31:48.8 – 31:54.8] (1908.8–1914.8) así y la otra que me dicen es amigo amigo sí porque todo mundo lo saludó
+[31:54.8 – 32:00.5] (1914.8–1920.5) amigo Oscar amigo Felipe y entonces me di cuenta porque un huevón rolo de esto
+[32:00.5 – 32:06.9] (1920.5–1926.9) me dice amigo no sé que sí me gusta más el que más ve el amigo suena más
+[32:06.9 – 32:08.0] (1926.9–1928.0) anciano
+[32:10.7 – 32:16.9] (1930.7–1936.9) el amigo suena como viejito y lo volvemos un formato alguna vuelta y sacamos
+[32:16.9 – 32:22.8] (1936.9–1942.8) Merch, me encanta, y aquí nos complementamos porque nosotros hacemos vaina industrial, industrial,
+[32:23.2 – 32:23.7] (1943.2–1943.7) todo así.
+[32:23.8 – 32:29.5] (1943.8–1949.5) Yo conozco gente que, una de las vainas también que me ha traído Ali es conocer gente cool,
+[32:30.7 – 32:34.9] (1950.7–1954.9) y conozco mucha gente que tiene marcas de ropa cool, gente que hace documentales,
+[32:35.1 – 32:42.2] (1955.1–1962.2) gente que hace vainas artistas de todo tipo, entonces siento que poder meter a 30x en
+[32:42.2 – 32:46.5] (1962.2–1966.5) cosas me pare un hit que sea o sea que solamente que la gente empieza a ver a
+[32:46.5 – 32:52.2] (1966.5–1972.2) 30 de que es como estos manes son cool me encantaron si ya te pagaste eso manes son cool
+[32:52.2 – 32:58.8] (1972.2–1978.8) si yo más coolness less hate si pues o sea es que igual el hate llega pero si
+[32:58.8 – 33:03.7] (1978.8–1983.7) uno es cool no le resbala el hate así de la vuelta pues claro es tu filosofía si
+[33:03.7 – 33:06.3] (1983.7–1986.3) mira a kim kardashian y a Kanye West y a toda esta gente
+[33:06.3 – 33:07.2] (1986.3–1987.2) Yo ya soy cool, si?
+[33:07.9 – 33:10.1] (1987.9–1990.1) Ah, Kim Kardashian, bueno Kanye West
+[33:10.1 – 33:12.0] (1990.1–1992.0) Kanye West es el mas mas odiado de la vida
+[33:12.0 – 33:14.3] (1992.0–1994.3) Y es el mas mas cool del mundo
+[33:14.3 – 33:16.2] (1994.3–1996.2) Es el mas mas cool
+[33:16.2 – 33:17.4] (1996.2–1997.4) Yo hubiera votado por el
+[33:17.4 – 33:20.2] (1997.4–2000.2) Yo hubiera votado por Kanye West
+[33:20.2 – 33:21.0] (2000.2–2001.0) Yo también
+[33:21.0 – 33:22.9] (2001.0–2002.9) Depresivo bipolar
+[33:24.6 – 33:26.0] (2004.6–2006.0) Manejando bomba atómica
+[33:26.7 – 33:28.2] (2006.7–2008.2) Manejando el arsenal mas grande
+[33:28.2 – 33:29.5] (2008.2–2009.5) Bomba atómica del mundo
+[33:29.5 – 33:31.7] (2009.5–2011.7) Un weon bipolar, estamos hablando en serio
+[33:31.7 – 33:32.8] (2011.7–2012.8) Pero es que el man es cool
+[33:32.8 – 33:42.9] (2012.8–2022.9) Yo lo que necesito del líder del occidente es que haga cool, weón. ¿A qué vinimos, marica?
+[33:43.0 – 33:46.8] (2023.0–2026.8) El marica es picha al botón de nuclear y suena una canción, una chingada.
+[33:48.9 – 33:51.4] (2028.9–2031.4) Y se cae así todo, pero está sonando un soundtrack.
+[33:53.4 – 33:54.5] (2033.4–2034.5) ¿Qué se llama?
+[34:00.0 – 34:01.7] (2040.0–2041.7) Marica, pero soy muy fan de Kanye.
+[34:01.7 – 34:17.2] (2041.7–2057.2) Marica yo amo a Karim. Yo tengo todos los temas, tengo todos los temas de Karim, pero entonces vení. Hacemos un, más que diagnóstico, porque ya sabemos que tenemos un poco de cosas con un desastre, ya tenemos una audiencia grandecita, ¿qué vamos a hacer?
+[34:17.3 – 34:29.7] (2057.3–2069.7) Pero no les terminé de contar. Bueno terminá, terminá. Ay, paréntesis. Ah sí, verdad que este era el paréntesis de que yo era youtuber. Claro, entonces yo dije, yo dije, yo dije, bueno yo sé crear una comunidad siendo youtuber.
+[34:30.7 – 34:34.9] (2070.7–2074.9) Antes de seguir con este episodio te quiero contar que estamos muy muy deseosos de compartir
+[34:34.9 – 34:39.8] (2074.9–2079.8) con vos excelente conocimiento que te permita crecer por eso desarrollamos un programa muy
+[34:39.8 – 34:45.1] (2079.8–2085.1) especial en el que junto a mentores similares a los que ves en este podcast te enseñamos a
+[34:45.1 – 34:50.3] (2085.1–2090.3) través de tres días lo que necesitas para crecer tu negocio a tu mierda. Ahí te mostramos cómo
+[34:50.3 – 34:54.8] (2090.3–2094.8) desarrollamos un mindset que te permita vencer creencias limitantes y desarrollar tu potencial.
+[34:55.0 – 34:58.7] (2095.0–2098.7) También te enseñamos de inventas porque la mayoría de empresarios no tienen el
+[34:58.7 – 35:03.1] (2098.7–2103.1) venta tan fuerte como podrían y solo con ese arreglo ya la compañía vuela
+[35:03.1 – 35:07.3] (2103.1–2107.3) adicionalmente teníamos de growth, como crecer online, de IA como adoptar
+[35:07.3 – 35:11.6] (2107.3–2111.6) inteligencia artificial pero sobre todo también deseamos hacer networking y te
+[35:11.6 – 35:16.0] (2111.6–2116.0) damos una manada para que no tengas que crecer solo porque la meta más
+[35:16.0 – 35:19.1] (2116.0–2119.1) fuerte que tenemos nosotros es que no nos hicimos solos nos hicimos en
+[35:19.1 – 35:23.3] (2119.1–2123.3) grupo y en este programa que es nuestra joya la corona la inmersión
+[35:23.3 – 35:27.1] (2123.3–2127.1) presencial te damos todo ese conocimiento y una manada para que no
+[35:27.1 – 35:31.1] (2127.1–2131.1) las cosas solo y te haga la vida mucho más fácil emprendiendo. Ojalá ser parte
+[35:31.1 – 35:35.1] (2131.1–2135.1) de ese programa, nos conozcamos pronto que hagamos muchos días juntos. Ahora sí,
+[35:35.1 – 35:38.9] (2135.1–2138.9) sigamos con el episodio. Entonces cuando volví acá a Colombia y dije quiero
+[35:38.9 – 35:43.8] (2138.9–2143.8) vender un hard seltzer, dije voy a pesar hacer una comunidad primero. Lo que
+[35:43.8 – 35:49.2] (2143.8–2149.2) pasa es que se me salió las manos porque como que Oli solo explotó y
+[35:49.2 – 35:54.5] (2149.2–2154.5) entonces, y el seltzer. Ya me distrae de las delas. No, no, no, lo que pasa es que las
+[35:54.5 – 36:04.0] (2154.5–2164.0) las maquilas sobre todo en este país son una mierda y las odio porque he trabajado con tres
+[36:04.5 – 36:11.6] (2164.5–2171.6) donde estamos a punto de lanzar y son todos ay no ya no y somos como pero porque no es que
+[36:11.6 – 36:20.9] (2171.6–2180.9) decidimos ahí internamente que pronto ya no entonces yo creo que es porque tienen yo no
+[36:20.9 – 36:26.8] (2180.9–2186.8) están metiendo a sabotear o le da asusto la competencia que se viene que si no sé
+[36:26.8 – 36:30.4] (2186.8–2190.4) pero igual ahorita si seguimos seguimos en eso
+[36:30.4 – 36:33.9] (2190.4–2193.9) hemos de usar en los dos años que llevamos haciendo el y los dos años
+[36:33.9 – 36:37.9] (2193.9–2197.9) llevamos desarrollando el celcer pero cuánto necesitas para desarrollar un celcer no vas
+[36:37.9 – 36:42.0] (2197.9–2202.0) marica pero es que o sea ya hay ciertos momentos que se me sale de las
+[36:42.0 – 36:48.3] (2202.0–2208.3) manos ya porque es como sea no me voy a poner a crear una fábrica yo desde
+[36:48.3 – 36:52.1] (2208.3–2212.1) Ah, obvio, obvio, obvio. Sí, si no es raldeel, no es raldeel. Sí, sí, sí, cien por ciento.
+[36:52.5 – 36:57.0] (2212.5–2217.0) Entonces, lo del seltzer ha sido chimba porque hemos creado comunidad porque lo que hacíamos
+[36:58.0 – 37:05.1] (2218.0–2225.1) es los sabores fueron desarrollados por nuestra comunidad. ¿A qué me refiero? Cada vez
+[37:06.0 – 37:11.5] (2226.0–2231.5) que pensábamos, ey, esta vaina puede ser rica, hacíamos una farra y la farra se
+[37:11.5 – 37:19.7] (2231.5–2239.7) calaba lo que hacíamos lo que hacíamos es traer 40 litros de esa vuelta de cada
+[37:19.7 – 37:24.5] (2239.7–2244.5) sabor y repartíamos entonces la gente decía está rico está medio dulce este
+[37:24.5 – 37:28.8] (2244.5–2248.8) huele feo este blabla y entonces la misma gente ha creado el sabor
+[37:28.8 – 37:35.4] (2248.8–2255.4) entonces ya tenemos la fórmula casi que o sea ya está hecha la fórmula nos
+[37:35.4 – 37:45.0] (2255.4–2265.0) falta es la maquina. Vení, me estaba haciendo caer en cuenta que nosotros básicamente hicimos
+[37:45.0 – 37:50.9] (2265.0–2270.9) un deal en el que seguís con Oli y tenés Oli, siempre hago de contexto pues porque
+[37:50.9 – 37:55.2] (2270.9–2275.2) cuando uno encuentra gente como súper talentosa, a mí por lo menos me pasa una vaina que
+[37:55.2 – 37:58.1] (2275.2–2278.1) en modestia aparte comienzan a parchar con uno y les comienza a ir increíblemente
+[37:58.1 – 38:02.9] (2278.1–2282.9) bien, porque hay como mucha mentoria y mucha vaina, entonces toca encontrar unos
+[38:02.9 – 38:11.9] (2282.9–2291.9) para que a vos te cierre, sobre todo a largo plazo, igual Oli sigue, lo bueno de Oli ahorita
+[38:11.9 – 38:20.7] (2291.9–2300.7) es que ya cree como una máquina perfecta de contenido donde yo solamente soy el que aprueba
+[38:20.7 – 38:27.7] (2300.7–2307.7) las cosas, lo solo aprobas y todo mundo hace, claro entonces me mandan videos todos los días y
+[38:27.7 – 38:30.8] (2307.7–2310.8) les digo, hey, muevan el hook acá, quiten este meme
+[38:30.8 – 38:33.0] (2310.8–2313.0) ¿Cuánto nos demoramos de hacer esta mierda en 30x?
+[38:34.5 – 38:36.7] (2314.5–2316.7) O sea ahorita lo que estoy haciendo es
+[38:37.6 – 38:39.3] (2317.6–2319.3) revisando el equipo
+[38:40.2 – 38:43.0] (2320.2–2323.0) de edición, de postproducción, a todos y a menos
+[38:43.0 – 38:44.6] (2323.0–2324.6) que quieras, que quieras
+[38:45.2 – 38:48.3] (2325.2–2328.3) Listo, bien, pero volvémelo artsy
+[38:48.9 – 38:51.8] (2328.9–2331.8) artsy artsy, yo quiero fucking, ¿cómo se llama eso?
+[38:52.6 – 38:53.6] (2332.6–2333.6) No, que se vea cool
+[38:53.6 – 38:60.0] (2333.6–2340.0) Sí, eso. Tampoco en TV, pero como que caiga por aquí, no está aquí, no está allí.
+[39:00.2 – 39:05.5] (2340.2–2345.5) Sí, sí, sí. Igual teniendo en cuenta que ustedes son una plataforma de business,
+[39:05.6 – 39:16.3] (2345.6–2356.3) si me entienden, pero hay plataformas donde hablamos de Trump, Kumar, pero es que eso es so cool, o sea...
+[39:16.3 – 39:20.6] (2356.3–2360.6) Lo bueno de esto es que si yo voy a... o sea, si a mí me entrevistarán así en Caracol,
+[39:21.5 – 39:28.9] (2361.5–2368.9) yo no puedo tener la libertad, y eso es lo que conecta, es lo que quiero traer también
+[39:28.9 – 39:36.5] (2368.9–2376.5) acá, que la gente pueda hablar de cosas, obviamente posteditorialmente podemos revisar
+[39:36.5 – 39:38.5] (2376.5–2378.5) a ver que para que no nos funen.
+[39:39.3 – 39:40.9] (2379.3–2380.9) Demasiado, porque igual no van a funar.
+[39:41.1 – 39:45.2] (2381.1–2385.2) Sí, exacto, igual a mí me sabe mierda, si quieren hablar de Trump y todas esas
+[39:45.2 – 39:46.1] (2385.2–2386.1) vueltas a mí me sabe mierda.
+[39:46.5 – 39:47.3] (2386.5–2387.3) Pero ¿por qué te van a funar?
+[39:47.4 – 39:47.9] (2387.4–2387.9) ¿porque diste Trump?
+[39:48.1 – 39:49.1] (2388.1–2389.1) ¿porque diste ropa de Trump?
+[39:49.1 – 39:54.1] (2389.1–2394.1) Porque le acaste plata a la derecha y te la traiste para Colombia y yo te traí por puta.
+[39:54.1 – 40:04.8] (2394.1–2404.8) Es que hay gente que no copia, así sea, respirar el mismo aire que una persona, ¿cierto?
+[40:05.6 – 40:12.0] (2405.6–2412.0) Claro, es mucho más práctico andar haciendo todo atado a identidad entonces no tienes
+[40:12.0 – 40:13.1] (2412.0–2413.1) como tener una discusión.
+[40:14.1 – 40:14.7] (2414.1–2414.7) Exacto.
+[40:14.7 – 40:23.7] (2414.7–2423.7) Sí, entonces, ah bueno, entonces ahí ya, Oli se creó y de hecho Oli, a mí en este país nadie me conocía
+[40:24.3 – 40:26.2] (2424.3–2426.2) Pues porque yo viví todo el tiempo
+[40:26.8 – 40:28.5] (2426.8–2428.5) Y de hecho yo me encuentro a gente
+[40:28.5 – 40:30.2] (2428.5–2430.2) La amiga San Pocopolo le pegaba Tinder
+[40:30.2 – 40:31.8] (2430.2–2431.8) No, ¿dijiste fue Bumble?
+[40:32.0 – 40:33.1] (2432.0–2433.1) Bumble, Tinder, todo
+[40:33.1 – 40:33.7] (2433.1–2433.7) Todo, claro
+[40:33.7 – 40:37.5] (2433.7–2437.5) Más huevón yo, discriminando
+[40:37.5 – 40:42.8] (2437.5–2442.8) Pues es que yo, yo lo que hice fue pagar las suscripciones a quien no
+[40:42.8 – 40:43.7] (2442.8–2443.7) La de Location
+[40:43.7 – 40:47.1] (2443.7–2447.1) la de Location, entonces yo desde que estaba allá y ya sabía que me iba a venir
+[40:47.1 – 40:48.6] (2447.1–2448.6) yo ya puse Location acá
+[40:48.6 – 40:53.8] (2448.6–2453.8) Asparto un momentico, dijiste, yo estoy en Miami, no Parálogo las Parálogas, yo estoy a la misma
+[40:53.8 – 41:02.0] (2453.8–2462.0) pero yo estoy en Miami, voy a ir a Bogotá, voy a alinear, un poco de AIDS con convicción y determinación
+[41:02.0 – 41:11.3] (2462.0–2471.3) claro, entonces yo lo que hacía era, vivía en Villa de Leyva pero los dates ya estaban establecidos
+[41:11.3 – 41:12.7] (2471.3–2472.7) por eso he necesitado un Airbnb
+[41:19.6 – 41:30.4] (2479.6–2490.4) 30x.com donde hablamos de las, toca ser abierto sexualmente, toca hablar de sexualidad a todos
+[41:30.4 – 41:42.3] (2490.4–2502.3) culeamos, todos culeamos, yo creo que no todos, pues los que pueden, el que puede puede, hay mucho
+[41:42.3 – 41:47.0] (2502.3–2507.0) quieren yo creo que hasta los incest culiarían si se ponían la 10
+[41:48.1 – 41:52.5] (2508.1–2512.5) de verdad un tipo creativo como vos que le di a un incel para que le ponga la 10
+[41:53.7 – 41:56.7] (2513.7–2516.7) marica métete a pinterest y buscate una pinta
+[41:56.7 – 42:03.8] (2516.7–2523.8) chingada y tómate para fotos chingadas estoy seguro con perrito si con
+[42:03.8 – 42:10.9] (2523.8–2530.9) perrito o no sé haciendo algo cool y montarte un perfil de tinder y ya
+[42:10.9 – 42:16.9] (2530.9–2536.9) O sea no es tan difícil. Y ya hay chalar y ya. Claro. Y la chispa sale. Claro.
+[42:17.4 – 42:23.5] (2537.4–2543.5) Sí, contrate también a mi citizen coach. Vení, vení, vení. Eso es una amenada
+[42:23.5 – 42:30.2] (2543.5–2550.2) demasiado curiosa. Tú puedes estar en Villa de Leyva. Sí. Te venías de jueves a lunes, de
+[42:30.2 – 42:35.5] (2550.2–2555.5) viernes a... No, viernes a domingo. O sea dos noches. Sí. Va y alquila. En flota.
+[42:36.3 – 42:40.2] (2556.3–2560.2) Tenías en flota. Claro, yo no tenía carro. No tenías carro, tenías en flota.
+[42:40.3 – 42:45.6] (2560.3–2565.6) Y ahí alineabas cuántas dates? Dos o tres por fin de semana.
+[42:45.6 – 42:48.6] (2565.6–2568.6) Pero me da las tres. O sea, ¿una era almuerzo, dos dinners?
+[42:48.7 – 42:51.8] (2568.7–2571.8) Sí, porque siempre había una que no quería más.
+[42:53.8 – 43:00.9] (2573.8–2580.9) ¿Otra vez? O sea, uno es pura estadística.
+[43:01.1 – 43:04.0] (2581.1–2584.0) A ver. O sea, si tú tienes tres dates,
+[43:04.6 – 43:06.5] (2584.6–2586.5) pues cuánto es el porcentaje de suces
+[43:07.3 – 43:09.6] (2587.3–2589.6) para llevar a alguien a la Airbnb.
+[43:09.7 – 43:11.2] (2589.7–2591.2) ¿Succeses llevar a alguien a la Airbnb?
+[43:11.2 – 43:11.9] (2591.2–2591.9) Pues claro.
+[43:12.1 – 43:13.5] (2592.1–2593.5) No es casarse y reproducirse.
+[43:13.6 – 43:17.3] (2593.6–2597.3) Pues en ese momento no, porque en ese momento estaba explorándome.
+[43:17.6 – 43:20.6] (2597.6–2600.6) Estaba explorándome a través de terceras.
+[43:21.1 – 43:24.5] (2601.1–2604.5) Es que, ok, contexto, yo estuve casado también.
+[43:24.6 – 43:25.8] (2604.6–2605.8) Ah, no.
+[43:26.1 – 43:26.6] (2606.1–2606.6) Paréntesis.
+[43:26.7 – 43:27.2] (2606.7–2607.2) Paréntesis.
+[43:27.3 – 43:28.3] (2607.3–2608.3) Es que aquí hay...
+[43:28.3 – 43:31.0] (2608.3–2611.0) Me deja los paréntesis de este majón espectacular.
+[43:31.0 – 43:31.8] (2611.0–2611.8) ¿Cuántos años tenés vos?
+[43:32.0 – 43:32.5] (2612.0–2612.5) 36.
+[43:32.8 – 43:34.6] (2612.8–2614.6) ¿De qué edad estuviste casado?
+[43:34.6 – 43:37.6] (2614.6–2617.6) de los 23 a los 30
+[43:38.5 – 43:41.3] (2618.5–2621.3) de que región era, de donde era tu mujer?
+[43:41.6 – 43:42.4] (2621.6–2622.4) era colombiana
+[43:42.4 – 43:43.9] (2622.4–2623.9) ah ok ok ok
+[43:43.9 – 43:44.5] (2623.9–2624.5) se murió?
+[43:44.8 – 43:45.0] (2624.8–2625.0) no
+[43:45.0 – 43:46.0] (2625.0–2626.0) entonces es?
+[43:46.6 – 43:47.0] (2626.6–2627.0) va
+[43:47.0 – 43:48.0] (2627.0–2628.0) perdón, si es
+[43:49.1 – 43:51.8] (2629.1–2631.8) ok, y entonces vos llegaste acá
+[43:51.8 – 43:53.6] (2631.8–2633.6) divorciado a esa sed
+[43:53.6 – 43:56.6] (2633.6–2636.6) pues o sea yo ya iba, yo pasé
+[43:56.6 – 43:58.3] (2636.6–2638.3) de estar casado fiel
+[43:58.3 – 44:00.8] (2638.3–2640.8) mucho tiempo a ser soltero de nuevo
+[44:01.4 – 44:02.9] (2641.4–2642.9) y yo no sabía
+[44:02.9 – 44:04.9] (2642.9–2644.9) que yo podía levantar
+[44:04.9 – 44:07.2] (2644.9–2647.2) esa es la segunda pasada en la que dije
+[44:07.2 – 44:08.8] (2647.2–2648.8) ve, tengo game
+[44:08.8 – 44:11.1] (2648.8–2651.1) claro, uno dice como, yo soy alto
+[44:12.2 – 44:13.2] (2652.2–2653.2) tengo medio
+[44:13.2 – 44:14.8] (2653.2–2654.8) vibe, como de surf
+[44:14.8 – 44:16.8] (2654.8–2656.8) pero no se, las vias
+[44:16.8 – 44:17.7] (2656.8–2657.7) le caen a uno
+[44:18.7 – 44:21.2] (2658.7–2661.2) claro, yo entraba a bares y las vias lo miran
+[44:21.2 – 44:23.7] (2661.2–2663.7) yo no sabía que las vias me miraban
+[44:23.7 – 44:24.8] (2663.7–2664.8) porque yo
+[44:24.8 – 44:26.5] (2664.8–2666.5) estaba como los caballos
+[44:26.5 – 44:28.2] (2666.5–2668.2) estabas como los caballos en Miami en South Beach
+[44:28.2 – 44:29.7] (2668.2–2669.7) claro, en South Beach
+[44:29.7 – 44:36.3] (2669.7–2676.3) y entonces? no es que el South Beach fue despesito de separarme
+[44:36.3 – 44:42.0] (2676.3–2682.0) ah ok, ok, ok, va, va, entonces ya, entonces básicamente venían 3 y se caía una, entonces
+[44:42.0 – 44:49.8] (2682.0–2689.8) quedan dos, si, veí, serio, o sea, en todo este tiempo seguía siendo director de
+[44:49.8 – 44:55.0] (2689.8–2695.0) arte y director creativo, si, en Estados Unidos, pero, trabajando para los gringos,
+[44:55.0 – 44:59.9] (2695.0–2699.9) ajá, remoto, si, ok, ok, si, pero yo siempre he sido muy emprendedor y yo siempre
+[45:01.7 – 45:06.5] (2701.7–2706.5) odiado pues no tener como control de ciertas cosas claro claro tenemos que
+[45:06.5 – 45:10.6] (2706.5–2710.6) buscar la forma que te salga el celcer ese pero buscamos la forma de que
+[45:10.6 – 45:13.8] (2710.6–2713.8) estemos alineados contra algo el poco que se hace para que tengas tiempo para
+[45:14.4 – 45:19.6] (2714.4–2719.6) ayudarnos a arreglar este arte de mierda de una no si o sea digamos lo
+[45:19.6 – 45:23.3] (2719.6–2723.3) que es la agresiva una de las manas que yo aprendí es a delegar también
+[45:23.3 – 45:27.4] (2723.3–2727.4) digamos lo que haces con la máquina es chévere la de esa contenido pues
+[45:27.4 – 45:31.7] (2727.4–2731.7) Claro, porque yo no puedo estar encima de todo, pero yo soy el de las ideas, entonces
+[45:31.7 – 45:34.6] (2731.7–2734.6) a mi se me ocurre algo, lo quiero hacer.
+[45:34.7 – 45:36.9] (2734.7–2736.9) Cómo haces para manejo de calidad?
+[45:37.7 – 45:39.4] (2737.7–2739.4) Ese sí es puro taste mío.
+[45:39.7 – 45:41.0] (2739.7–2741.0) O sea, al final vos tenés que ver todo.
+[45:41.2 – 45:42.2] (2741.2–2742.2) Pues casi que todo.
+[45:42.7 – 45:43.7] (2742.7–2743.7) Y cómo harías acá?
+[45:43.8 – 45:45.6] (2743.8–2745.6) Porque si íbamos a sacar 30 pedazos de contenido.
+[45:46.0 – 45:46.5] (2746.0–2746.5) Por frame.
+[45:47.4 – 45:48.5] (2747.4–2748.5) Yo los reviso.
+[45:49.0 – 45:49.5] (2749.0–2749.5) Por frame?
+[45:50.6 – 45:52.5] (2750.6–2752.5) No, pero íbamos a ver un ejemplo.
+[45:52.5 – 46:01.5] (2752.5–2761.5) No todos, de pronto no todos, pero los principales, pero digamos los formatos nuevos, crear la
+[46:01.5 – 46:07.4] (2761.5–2767.4) máquina donde ya se mantengan y se puedan andar solos, que yo no tenga que estar todo
+[46:07.4 – 46:07.9] (2767.4–2767.9) el tiempo mirando.
+[46:07.9 – 46:09.3] (2767.9–2769.3) Me encanta, me encanta, divino.
+[46:09.7 – 46:11.8] (2769.7–2771.8) Pero al principio sí estar pendiente.
+[46:12.3 – 46:17.4] (2772.3–2777.4) Ve, educarme siempre, eso es con dirección de arte, que puta es eso, yo me imagino
+[46:17.4 – 46:22.5] (2777.4–2782.5) que llegas, miras que tal diseña los diseñadores, me gusta, no me gusta, me
+[46:22.9 – 46:26.5] (2782.9–2786.5) definís unos guidelines y haces en caso o no haces en caso, me gusta o no me gusta de
+[46:26.5 – 46:31.8] (2786.5–2791.8) pegar o no me juega, o como haces y con los editores como la vuelta. Yo creo que la dirección
+[46:31.8 – 46:38.0] (2791.8–2798.0) de arte es mucho de lo que hablamos de taste, de que se ve bien y que no se ve bien. Claro,
+[46:38.4 – 46:43.6] (2798.4–2803.6) pero como definís que se ve bien, yo soy un diseñador, que puta me decís, o sea como haces
+[46:43.6 – 46:51.6] (2803.6–2811.6) el trabajo. Pues digamos que ahí está la respuesta científica que es más como en términos
+[46:51.6 – 47:01.2] (2811.6–2821.2) de layout, como de tipografía, de sizes, de todo el sueldo, como se llama, la fiume
+[47:01.2 – 47:12.5] (2821.2–2832.5) y todas esas vueltas, eso ayuda ¿verdad? pero es más como, yo me considero buen director
+[47:12.5 – 47:15.2] (2832.5–2835.2) de arte porque todo el tiempo estoy consumiendo arte.
+[47:15.6 – 47:20.9] (2835.6–2840.9) Claro, entonces tener el músculo, es como un músculo, toca practicarlo, hay gente
+[47:20.9 – 47:29.1] (2840.9–2849.1) que es diseñadora o se consideran creativos, pero nunca van a un museo o nunca van a una
+[47:29.1 – 47:39.2] (2849.1–2859.2) obra de teatro o no hacen el trabajo, verdad? Entonces yo sé, o sea yo ya ese músculo
+[47:39.2 – 47:44.6] (2859.2–2864.6) lo tengo desarrollado para ver si tú me muestras un video, me muestras un diseño,
+[47:44.7 – 47:50.0] (2864.7–2870.0) me muestras algo, yo puedo decir esta persona tiene talento. Entonces cuando yo contrato
+[47:50.0 – 47:54.2] (2870.0–2874.2) gente, por eso los portafolios, que vuelvo a los portafolios, son tan
+[47:54.2 – 47:57.6] (2874.2–2877.6) importantes, porque tú en el portafolio tú puedes ver si la persona tiene
+[47:57.6 – 48:06.3] (2877.6–2886.3) talento y si tiene taste, verdad, ya sea audiovisual, como cámaras de edición de
+[48:06.3 – 48:14.5] (2886.3–2894.5) todo ese tipo de cosas, pero gráficas también, verdad, hay personas que
+[48:14.5 – 48:19.3] (2894.5–2899.3) que son más buenas en unas cosas que en otras
+[48:19.3 – 48:23.6] (2899.3–2903.6) en edición por ejemplo, yo tengo ahorita en Oli son 3 editores
+[48:24.2 – 48:28.4] (2904.2–2908.4) podrían ser más, a medida que vayamos creciendo pues contrató más
+[48:28.4 – 48:33.2] (2908.4–2913.2) pero lo que hice fue identificar estos editores en que son buenos
+[48:33.2 – 48:35.7] (2913.2–2915.7) Es que yo cagado te avise weon
+[48:35.7 – 48:41.4] (2915.7–2921.4) Ese mano nos trae de joy porque no te editó yo, te cojo yo, no, no, pues ya tenemos una maquina
+[48:41.4 – 48:43.4] (2921.4–2923.4) Es que toca revisar esa maquina
+[48:43.4 – 48:46.7] (2923.4–2926.7) No, claro, claro y mejorar la maquina y hacer las bayas de la maquina
+[48:46.7 – 48:54.8] (2926.7–2934.8) Pero claro es que nosotros contratamos, pues cual fue el análisis de taste
+[48:55.4 – 48:58.3] (2935.4–2938.3) Es que quien de nosotros tiene taste weon
+[48:58.9 – 49:00.7] (2938.9–2940.7) Yo como para la comida un poquito
+[49:01.4 – 49:05.0] (2941.4–2945.0) Igual el taste también se puede enseñar, el taste también.
+[49:05.0 – 49:05.7] (2945.0–2945.7) ¿Cuánto demora?
+[49:06.3 – 49:09.1] (2946.3–2949.1) Pues o sea, digamos que es demorado,
+[49:09.4 – 49:11.8] (2949.4–2951.8) pero tú, sobre todo en temas de creativos,
+[49:12.4 – 49:15.0] (2952.4–2955.0) tú no puedes esperar que una persona haga lo que tú quieres
+[49:15.0 – 49:18.9] (2955.0–2958.9) que haga de entrada, porque también toma,
+[49:20.1 – 49:23.1] (2960.1–2963.1) es como masajear el pan, o sea,
+[49:23.3 – 49:29.2] (2963.3–2969.2) quitarle el gluten al pan, de a poquitos toca ir masajeando.
+[49:30.4 – 49:37.7] (2970.4–2977.7) Obviamente, idealmente, si es una persona que ya tiene experiencia y tiene taste, pues le toma menos tiempo volverse bueno.
+[49:38.2 – 49:46.0] (2978.2–2986.0) Pero entonces, digamos, en Oli lo que hago es, tengo a alguien que corta, porque solo sirve para cortar, porque entendí que creativo no era.
+[49:46.6 – 49:53.6] (2986.6–2993.6) Entonces, el man solamente corta, que también está bien, o sea, no estoy siendo como despectivo, el man es bueno para cortar.
+[49:54.5 – 50:00.1] (2994.5–3000.1) Entonces el man le llega un video de media hora, el man lo corta y saca lo que no sirve
+[50:00.1 – 50:03.0] (3000.1–3003.0) y deja lo que si sirve, entonces le da un video de 10 minutos.
+[50:03.2 – 50:09.0] (3003.2–3009.0) Después llega otro que es el que conceptualiza, entonces el man dice como ah esta mierda lo
+[50:09.0 – 50:15.6] (3009.0–3015.6) que dijo acá esto podría ser un buen hook y este no y este silencio incómodo puede
+[50:15.6 – 50:19.1] (3015.6–3019.1) servir acá y como que es un rompecabezas y lo arma.
+[50:19.1 – 50:23.0] (3019.1–3023.0) como hacen con ese no soy tu soy yo que es cagadisima la...
+[50:23.0 – 50:24.1] (3023.0–3024.1) el eres tu soy yo
+[50:24.1 – 50:25.4] (3024.1–3025.4) el eres tu soy yo si
+[50:25.4 – 50:30.0] (3025.4–3030.0) y después entra el pocholis que es la mente creativa
+[50:30.0 – 50:31.8] (3030.0–3031.8) que es el que se cranea los memes
+[50:34.5 – 50:36.9] (3034.5–3036.9) y el es el que...
+[50:37.8 – 50:43.3] (3037.8–3043.3) porque las pos... bueno es más se comprometió la novia en su época
+[50:43.3 – 50:47.2] (3043.3–3047.2) esos tenían apodos como de...
+[50:47.2 – 50:51.6] (3047.2–3051.6) Y una vez estábamos parchando y se le salió al frente de todo el mundo
+[50:51.6 – 50:53.5] (3051.6–3053.5) ¿Cómo va el Pocholis? Pásame tal vaina
+[50:53.5 – 50:55.4] (3053.5–3055.4) Y se quedó Pocholis
+[50:55.4 – 50:57.0] (3055.4–3057.0) Es culpa de ella
+[50:57.5 – 50:59.5] (3057.5–3059.5) Camila si me estás viendo la caraste
+[50:59.5 – 51:00.5] (3059.5–3060.5) Pero no
+[51:00.5 – 51:06.2] (3060.5–3066.2) Entonces lo que hace es consumir todo el día redes
+[51:06.8 – 51:11.1] (3066.8–3071.1) Entonces el Marica sabe de cultura popular, cultura general
+[51:11.1 – 51:13.6] (3071.1–3073.6) De que memes están funcionando
+[51:13.6 – 51:16.2] (3073.6–3076.2) De que canciones están pegando
+[51:16.2 – 51:21.0] (3076.2–3081.0) O sea, todas esas mierdas. Y lo que hacemos es que ahí es donde entra la originalidad
+[51:21.0 – 51:26.6] (3081.0–3086.6) que también es muy importante para mí. Porque lo que hacemos es que nosotros no cogemos
+[51:26.6 – 51:31.7] (3086.6–3091.7) los memes y solamente si es un meme que ya existe, lo usamos y ya. Si es un meme
+[51:31.7 – 51:37.6] (3091.7–3097.6) que ya existe y si lo podemos elevar, lo elevamos, ¿verdad? O si es un meme que
+[51:37.6 – 51:42.6] (3097.6–3102.6) todavía no existe, que él se lo saca del culo, pues lo crea y lo ponemos. Entonces
+[51:42.6 – 51:46.9] (3102.6–3106.9) por eso hay gente que es como marica que con los reas se pasaron con este meme o este meme está una
+[51:46.9 – 51:53.9] (3106.9–3113.9) chimba o que cabe de risa esta vuelta entonces se vuelve casi que una máquina y entonces lo que
+[51:53.9 – 52:01.7] (3113.9–3121.7) hago es entrar con mi taste y digo el ritmo de esta vuelta está medio raro cambiele esto o muevale
+[52:01.7 – 52:09.2] (3121.7–3129.2) el hook a este más bien acá porque es que este hook está mejor me organizo hay vídeos que
+[52:10.1 – 52:14.2] (3130.1–3134.2) perfectos, hay videos que me entregan y yo como marica, que chingada, subame esa mierda,
+[52:14.4 – 52:20.3] (3134.4–3140.3) hay videos que toca masajear, hay muchas pautas que hacemos con marcas que las marcas
+[52:20.3 – 52:26.2] (3140.3–3146.2) joden mucho digamos, entonces ahí si me meto más y estoy más involucrado porque
+[52:26.2 – 52:30.4] (3146.2–3150.4) pues toca darles lo que la marca está pidiendo pero sin perder nuestra esencia,
+[52:31.0 – 52:37.0] (3151.0–3157.0) porque la esencia de Oli es lo que nos ha mantenido hasta acá y no podemos hacerle
+[52:37.0 – 52:43.0] (3157.0–3163.0) a los fans, si me entiendes, no podemos cambiar nuestra edad, no nos podemos vender solamente
+[52:43.8 – 52:49.8] (3163.8–3169.8) por 10 palos, 20 palos que nos de una marca, porque para mi lo más importante es la audiencia
+[52:49.8 – 52:56.7] (3169.8–3176.7) y los followers y la gente que nos sigue, entonces es como cuidar esa vuelta.
+[52:57.4 – 53:02.6] (3177.4–3182.6) Porque me hiciste pensar, porque no hacemos como una cuenta tuya super viral en Instagram
+[53:03.7 – 53:10.3] (3183.7–3190.3) ya lo hiciste en youtube, largote, lo hacemos cortico ya, le metes la maquina de nosotros,
+[53:10.7 – 53:15.8] (3190.7–3195.8) metelo a avenger, si no te llegan 5, no lo tienes que grabar, pero si no te llegan 5
+[53:15.8 – 53:19.6] (3195.8–3199.6) referentes al diario, hay un par de personas que no están en tu trabajo, no, este va no,
+[53:19.7 – 53:20.9] (3199.7–3200.9) estos dos.
+[53:21.4 – 53:25.4] (3201.4–3205.4) Pues va a pasar referentes de cosas que a mi me gustaría hacer, y te va mandando
+[53:26.1 – 53:26.5] (3206.1–3206.5) listo.
+[53:26.5 – 53:27.6] (3206.5–3207.6) Porque si.
+[53:27.6 – 53:32.1] (3207.6–3212.1) y lo quiere hacer por los lados de memes o es...
+[53:32.1 – 53:34.6] (3212.1–3214.6) No, no, no, no tiene que ser memes, o sea...
+[53:35.4 – 53:37.3] (3215.4–3217.3) A mi me gusta hablar de creatividad, digamos
+[53:37.3 – 53:40.3] (3217.3–3220.3) Ve, por cierto, les conté, no les conté, no?
+[53:40.7 – 53:43.6] (3220.7–3223.6) Vamos a hacer un programa de creatividad con este banco 30x
+[53:44.7 – 53:46.6] (3224.7–3226.6) Hawking Hit, si? Para que lo hagan
+[53:47.2 – 53:49.2] (3227.2–3229.2) Y vamos a elevar la creatividad de todo el 30x
+[53:49.2 – 53:52.8] (3229.2–3232.8) Si, a él lo estoy escribiendo, lo estoy escribiendo ahorita
+[53:52.8 – 53:54.3] (3232.8–3234.3) Y lo hacemos, lo grabamos
+[53:54.3 – 53:56.5] (3234.3–3236.5) Ah, me encanta, no, no, pero esto es live
+[53:56.5 – 53:57.5] (3236.5–3237.5) Sí, sí, sí.
+[53:57.5 – 53:57.9] (3237.5–3237.9) ¿Ah, sí?
+[53:58.0 – 53:58.6] (3238.0–3238.6) El live.
+[53:58.8 – 53:59.7] (3238.8–3239.7) Ah, bueno, lo hacemos live.
+[54:00.2 – 54:00.9] (3240.2–3240.9) Sí, sí.
+[54:01.0 – 54:03.1] (3241.0–3243.1) O sea, puede hacer unos pedacitos pre-grabados, pero el live.
+[54:03.1 – 54:04.5] (3243.1–3244.5) Ah, ok, pensé que era un curso.
+[54:04.6 – 54:06.0] (3244.6–3246.0) No, sí es curso, pero el live.
+[54:06.3 – 54:07.3] (3246.3–3247.3) Ah, ok, ok.
+[54:07.3 – 54:11.0] (3247.3–3251.0) Porque es que ahí es donde la gente tiene como interactuar superchavo para darte preguntas
+[54:12.3 – 54:13.0] (3252.3–3253.0) del tema.
+[54:13.0 – 54:13.4] (3253.0–3253.4) Ok, ok, ok.
+[54:13.6 – 54:14.6] (3253.6–3254.6) Dile una, hagámoslo.
+[54:14.8 – 54:15.4] (3254.8–3255.4) No, me encanta.
+[54:15.9 – 54:16.3] (3255.9–3256.3) Bueno, Ani.
+[54:16.3 – 54:16.5] (3256.3–3256.5) Sí, sí.
+[54:17.1 – 54:19.5] (3257.1–3259.5) Vamos a 30x ya, ¿sí?
+[54:19.9 – 54:22.5] (3259.9–3262.5) Decime qué puta vamos a hacer, qué tenemos que hacer ya y qué va a hacer
+[54:22.5 – 54:22.7] (3262.5–3262.7) vos.
+[54:22.7 – 54:27.3] (3262.7–3267.3) Bueno, lo primero que veo es que hace falta formatos originales.
+[54:28.2 – 54:30.7] (3268.2–3270.7) Pero sí tenemos, lo que pasa es que nos volvieron formatos.
+[54:30.7 – 54:31.1] (3270.7–3271.1) Sí, pero...
+[54:31.1 – 54:36.6] (3271.1–3276.6) Tropicalizando el lenguaje de startup, joder con Majo, normalizando el fracaso.
+[54:37.3 – 54:38.0] (3277.3–3278.0) ¿Cuál es el otro que tenemos?
+[54:39.5 – 54:40.3] (3279.5–3280.3) Aprendiendo a trabajar.
+[54:40.7 – 54:42.4] (3280.7–3282.4) Acabamos de hacer uno que llama aprendiendo a trabajar.
+[54:42.7 – 54:43.1] (3282.7–3283.1) Ok.
+[54:43.3 – 54:44.7] (3283.3–3284.7) Ah, es que estábamos grabando ayer.
+[54:44.7 – 54:48.1] (3284.7–3288.1) Ya, porque es un mamado de estar entrenando un poco de bebés.
+[54:48.3 – 54:50.1] (3288.3–3290.1) Entonces por lo menos que vuelva contenido.
+[54:50.1 – 54:55.0] (3290.1–3295.0) Si, si digamos que esos están bien, yo los quiero llevar más como al entretenimiento.
+[54:55.2 – 54:58.1] (3295.2–3298.1) Ok, entonces definí un formato que yo use mal.
+[54:58.2 – 55:03.1] (3298.2–3303.1) Entonces, un formato que uses mal.
+[55:03.4 – 55:07.2] (3303.4–3307.2) No, no, no, yo dije que tenemos pero algún voz no tenemos, me encanta.
+[55:07.6 – 55:08.8] (3307.6–3308.8) ¿Qué sería tener uno?
+[55:09.2 – 55:17.1] (3309.2–3317.1) O sea, haz de cuenta, volvamos, hagamos el ejercicio, volvamos a los 90s o a los 2000s.
+[55:17.1 – 55:24.6] (3317.1–3324.6) Tú prendías el televisor, después llegara del colegio y veías MTV, ¿verdad? ¿Qué
+[55:24.6 – 55:33.5] (3324.6–3333.5) había en MTV? Pimp My Ride, Next, Baenas de Música, y entonces la gente se volvía
+[55:33.5 – 55:36.0] (3333.5–3336.0) fan de esos programas. La realidad siempre la misma, ¿no?
+[55:36.4 – 55:40.4] (3336.4–3340.4) Claro. Entonces, ¿qué es lo que toca hacer? ¿Qué es lo que yo estoy haciendo
+[55:40.4 – 55:46.9] (3340.4–3346.9) con Oli que ha funcionado? Tú creas un programa, se crea un programa de televisión
+[55:46.9 – 55:55.3] (3346.9–3355.3) pero para redes, verdad, donde también es más, bueno no es, me gusta el ejemplo de
+[55:55.3 – 56:01.5] (3355.3–3361.5) MTV porque era más reality show, porque redes ahora hoy en día es un reality show, verdad,
+[56:02.4 – 56:12.9] (3362.4–3372.9) entonces básicamente es como ok creemos este formato y se va a enfocar en esto, le vamos
+[56:12.9 – 56:18.6] (3372.9–3378.6) hacer un branding, le vamos a hacer una dirección de arte, le vamos a hacer un logo, vamos
+[56:18.6 – 56:24.6] (3378.6–3384.6) a editarlo de cierta manera y que esa mierda lo saquemos todos los miércoles a las 3 de
+[56:24.6 – 56:33.1] (3384.6–3393.1) la tarde. Y poder tener que 30x Andrés Bilbao funcione como un canal, entonces ya
+[56:33.1 – 56:37.9] (3393.1–3397.9) la gente sabe que los miércoles a las 3 de la tarde está este formato, los jueves
+[56:37.9 – 56:43.9] (3397.9–3403.9) en este formato y en mi twin siguen subiendo los contenidos que están subiendo va y esos
+[56:43.9 – 56:49.6] (3403.9–3409.6) formatos de los que te referí son de qué extensión a que te regresa cuánto tengo
+[56:49.6 – 56:56.3] (3409.6–3416.3) que grabar que tan largo son no o sea yo creo que igual dependiendo de lo que queramos
+[56:56.3 – 57:03.5] (3416.3–3423.5) hacer pero yo soy muy partidario de sacarle plata a los contenidos entonces tenemos
+[57:03.5 – 57:05.6] (3423.5–3425.6) pero respondeme, ¿cuanto tengo que grabar, güey?
+[57:05.8 – 57:08.1] (3425.8–3428.1) o sea, es como 10 minutos, 15 minutos, media hora...
+[57:08.1 – 57:11.5] (3428.1–3431.5) No, yo creo que...
+[57:12.5 – 57:14.0] (3432.5–3434.0) digamos, el del accountant
+[57:14.0 – 57:17.5] (3434.0–3437.5) ese puede ser un formato de que te sientas a grabar
+[57:18.4 – 57:19.9] (3438.4–3439.9) con cuatro personas en un día
+[57:19.9 – 57:22.1] (3439.9–3442.1) y te sientas una hora a grabar con ellos
+[57:22.1 – 57:23.0] (3442.1–3443.0) o sea, ¿son cuatro horas?
+[57:23.2 – 57:24.7] (3443.2–3444.7) No, no, no, o sea...
+[57:24.7 – 57:26.6] (3444.7–3446.6) una hora a cuatro personas
+[57:27.2 – 57:29.7] (3447.2–3449.7) y de ahí salen cuatro videos, ¿verdad?
+[57:29.8 – 57:31.0] (3449.8–3451.0) todo esto se sube a YouTube
+[57:31.0 – 57:32.8] (3451.0–3452.8) en formato long format
+[57:32.8 – 57:34.8] (3452.8–3454.8) y eso lo monetizamos
+[57:34.8 – 57:36.7] (3454.8–3456.7) y sacamos clips de ahí
+[57:37.3 – 57:40.5] (3457.3–3460.5) pero los clips que saquemos también tienen que ser
+[57:40.5 – 57:43.3] (3460.5–3463.3) no clipeados como clipping normalito
+[57:43.3 – 57:45.7] (3463.3–3465.7) sino le metemos
+[57:46.7 – 57:47.7] (3466.7–3467.7) el punch
+[57:47.7 – 57:49.5] (3467.7–3469.5) que también sea como un trailer
+[57:49.5 – 57:52.4] (3469.5–3472.4) para que la gente vaya a querer ir a ver el largo
+[57:54.1 – 57:57.2] (3474.1–3477.2) y hacer eso y hacemos par formatos
+[57:57.2 – 57:59.8] (3477.2–3479.8) que no solamente tengas que ser tú sino podamos usar
+[57:59.8 – 58:01.8] (3479.8–3481.8) otros talentos de 30x
+[58:02.6 – 58:06.2] (3482.6–3486.2) con otros formatos yo exacto puedo estar ahí también
+[58:07.0 – 58:12.7] (3487.0–3492.7) y hacemos esa vuelta y lo vamos haciendo así de a poquito se encanta y lo testiamos entonces también
+[58:13.0 – 58:15.5] (3493.0–3495.5) tampoco es que me esté inventando inventando la rueda
+[58:16.1 – 58:18.2] (3496.1–3498.2) hay maneras que puede que funcione mejor que otras
+[58:19.1 – 58:24.0] (3499.1–3504.0) entonces pero yo no soy partidario de matar un contenido a la semana
+[58:24.0 – 58:27.3] (3504.0–3507.3) toca dejarlo vivir en el universo del internet
+[58:27.9 – 58:30.8] (3507.9–3510.8) por al menos dos, tres meses, hasta seis meses a veces.
+[58:32.1 – 58:34.3] (3512.1–3514.3) Entonces definimos unas apuestas y le hacemos.
+[58:34.6 – 58:35.5] (3514.6–3515.5) ¿Cuántas apuestas querés?
+[58:36.7 – 58:40.2] (3516.7–3520.2) Pues yo quiero, a mí me gustaría empezar con tres, con tres formatos.
+[58:40.3 – 58:42.4] (3520.3–3522.4) Va, listo, tres que vuelven seis y le hacemos.
+[58:42.6 – 58:43.0] (3522.6–3523.0) Exacto.
+[58:43.0 – 58:44.0] (3523.0–3524.0) Va, listo, listo.
+[58:44.4 – 58:45.6] (3524.4–3525.6) Y vamos andando.
+[58:45.8 – 58:47.3] (3525.8–3527.3) Ah, me encanta, me encanta.
+[58:48.3 – 58:52.2] (3528.3–3532.2) La idea es como lo que te dije esa vez, que sea 30x media network.
+[58:52.2 – 58:59.3] (3532.2–3539.3) O sea que no solo sea 30X y ya, sino que podamos tener un Media Network que puedas también después,
+[59:00.3 – 59:03.4] (3540.3–3543.4) hablando de los partnerships que estamos hablando con las marcas.
+[59:03.7 – 59:09.6] (3543.7–3549.6) Marica, que Colpensiones quiere a patrocinar la vaina del contador, listo, todo bien.
+[59:10.2 – 59:15.4] (3550.2–3555.4) Que tal marca que Adidas quiere patrocinar esta vuelta, listo, hagámosle, si me entiendes,
+[59:16.1 – 59:19.8] (3556.1–3559.8) para que también no solo moneticemos por redes, por YouTube.
+[59:19.8 – 59:23.3] (3559.8–3563.3) No más que reergen en mi mierda, el que monetizas es por las marcas
+[59:23.3 – 59:27.2] (3563.3–3567.2) Pero listo, contame que harías en dirección de arte
+[59:27.2 – 59:29.1] (3567.2–3569.1) Yo quiero una N1000b más cool
+[59:29.6 – 59:33.8] (3569.6–3573.8) Mi nivel de taste me da para saber que nuestro taste no está muy elevado
+[59:36.2 – 59:36.7] (3576.2–3576.7) Literal
+[59:36.7 – 59:39.8] (3576.7–3579.8) Ay, si me tocaría de pronto, primero, antes de responderte
+[59:42.3 – 59:43.9] (3582.3–3583.9) Mirar a la data
+[59:43.9 – 59:48.3] (3583.9–3588.3) Pero hazme el framework, ¿vos llegarías que hace más o menos como la vuelta?
+[59:48.3 – 59:56.4] (3588.3–3596.4) Si obvio, yo llego, reviso que es lo que se esta haciendo, quien es el target de la gente
+[59:56.4 – 1:00:04.0] (3596.4–3604.0) que consume 30x y basado en eso hacemos mood boards, hacemos inspiración, hacemos...
+[1:00:05.2 – 1:00:12.0] (3605.2–3612.0) Y si tenemos, si nuestro usuario promedio me lo va a jacar del culo, tiene 48 años
+[1:00:12.0 – 1:00:16.1] (3612.0–3616.1) y yo quiero hacer una vaina mas teenager, ¿no jodemos o que?
+[1:00:16.1 – 1:00:20.6] (3616.1–3620.6) le damos un truco que quiera, o hacemos un entity más estilizado
+[1:00:20.6 – 1:00:25.2] (3620.6–3625.2) es que igual, a ver, la gente cucha igual
+[1:00:25.2 – 1:00:28.3] (3625.2–3628.3) o 48 no es tan cucha y nadie me ofenda y yo tengo 42
+[1:00:30.7 – 1:00:34.7] (3630.7–3634.7) los cuarentones igual romantizan a la gente joven también
+[1:00:35.3 – 1:00:38.2] (3635.3–3638.2) y la gente joven romantiza a los cuarentones
+[1:00:38.2 – 1:00:40.0] (3638.2–3640.0) por lo menos el capital
+[1:00:41.8 – 1:00:43.9] (3641.8–3643.9) pero también, o sea, si te pones a pensar
+[1:00:43.9 – 1:00:48.1] (3643.9–3648.1) La cultura pop funciona con nostalgia, verdad?
+[1:00:48.4 – 1:00:49.3] (3648.4–3649.3) Ah, y es super cool.
+[1:00:49.5 – 1:00:50.2] (3649.5–3650.2) Y es super cool.
+[1:00:50.4 – 1:00:54.3] (3650.4–3654.3) No, marica, es un puro, ¿cómo es que se llama este, contra?
+[1:00:54.8 – 1:00:55.8] (3654.8–3655.8) Sí, contra.
+[1:00:56.3 – 1:00:59.7] (3656.3–3659.7) Como pura arte, contra, marica, para un fucking hit, huevón.
+[1:00:59.9 – 1:01:00.4] (3659.9–3660.4) Ocho beat.
+[1:01:00.7 – 1:01:02.3] (3660.7–3662.3) Ocho beat, todas esas vueltas.
+[1:01:02.5 – 1:01:07.2] (3662.5–3667.2) O también, no sé, que el otro día me estaban vendiendo una nevera de Coca-Cola
+[1:01:07.2 – 1:01:08.3] (3667.2–3668.3) de los sesentas.
+[1:01:08.6 – 1:01:12.3] (3668.6–3672.3) Y era una chimba, y es como, marica, bueno, me la quiero comprar, porque igual
+[1:01:12.3 – 1:01:13.2] (3672.3–3673.2) Coca-Cola me gusta.
+[1:01:13.2 – 1:01:20.8] (3673.2–3680.8) y traga, no no traga pero es una neverita, o es el estilo, es como el estilo que era
+[1:01:20.8 – 1:01:25.9] (3680.8–3685.9) así esas neveras que tenia reganditas, son una chingada, un parcel que tiene una, me
+[1:01:25.9 – 1:01:32.0] (3685.9–3692.0) parece que lo que quiero hacer con esto es lo ponemos en nuestro canal pero me pare
+[1:01:32.0 – 1:01:36.3] (3692.0–3696.3) muy importante que lo vea todo el mundo en 30x porque yo les dije ve cojan este
+[1:01:36.3 – 1:01:43.2] (3696.3–3703.2) man y regentenlo a preguntas cada vez que tenga una idea de alguna pendeja de lo
+[1:01:43.8 – 1:01:49.3] (3703.8–3709.3) Usted ya entiendo por qué, si me entendes? Listo, hagamos eso. Ve, ya que estamos viendo
+[1:01:49.3 – 1:01:56.0] (3709.3–3716.0) pregunticadas de podcast ¿Qué consejo te harías a vos mismo Pollo?
+[1:01:56.7 – 1:02:03.5] (3716.7–3723.5) Puede ser de 22 antes de casarte, no lo hagas. No lo hagas, yo fui infelizmente
+[1:02:03.5 – 1:02:10.2] (3723.5–3730.2) casado la verdad, solamente que no funcionó y ya. Pero consejo de carrera
+[1:02:13.8 – 1:02:34.1] (3733.8–3754.1) No, yo creo que ahorita es ser auténtico con uno mismo y no mentirse porque eso solamente
+[1:02:34.1 – 1:02:42.8] (3754.1–3762.8) trae inseguridad, infelicidad y un montón de problemas a futuro. Entonces la gente
+[1:02:42.8 – 1:02:44.7] (3762.8–3764.7) más infeliz es la gente que trabaja en
+[1:02:44.7 – 1:02:48.2] (3764.7–3768.2) vainas que no les gusta, por ejemplo, entonces
+[1:02:49.0 – 1:02:52.3] (3769.0–3772.3) hoy en día tenemos la oportunidad de
+[1:02:52.3 – 1:02:53.8] (3772.3–3773.8) hacer lo que se nos dé la gana y de
+[1:02:53.8 – 1:02:56.8] (3773.8–3776.8) alguna manera hacer plata, yo hago
+[1:02:56.8 – 1:03:00.1] (3776.8–3780.1) plata jodiendo la vida, haciendo memes
+[1:03:02.3 – 1:03:04.8] (3782.3–3784.8) qué mejor ejemplo hay, de
+[1:03:04.8 – 1:03:06.6] (3784.8–3786.6) que se puede, de que se puede, o sea
+[1:03:07.6 – 1:03:09.4] (3787.6–3789.4) yo vi la oportunidad, yo dije
+[1:03:09.4 – 1:03:12.3] (3789.4–3792.3) marica los memes la rompen, yo amo
+[1:03:12.3 – 1:03:17.3] (3792.3–3797.3) los memes porque no le estoy sacando plata a los memes de hecho me gustaría
+[1:03:17.3 – 1:03:21.1] (3797.3–3801.1) hacer más cosas con memes me gustaría sacar ropa o sea un montón de
+[1:03:21.1 – 1:03:29.9] (3801.1–3809.9) vainas claro a mí no de hecho la mitad los contenidos nuevos que estamos
+[1:03:29.9 – 1:03:39.4] (3809.9–3819.4) tratando de sacar como primicia no dicen 30x por ningún lado como lo
+[1:03:39.4 – 1:03:49.2] (3819.4–3829.2) me refiero, o sea, si yo fuera Felipe de 16 años, uno de los 16 igual no tiene puta
+[1:03:49.2 – 1:03:53.4] (3829.2–3833.4) idea que va a hacer con su vida, pero uno ya tiene una medio idea, entonces uno dice
+[1:03:53.4 – 1:03:59.6] (3833.4–3839.6) como a mi me gusta la música o me gusta la economía o me gustan los bichos, entonces
+[1:03:59.6 – 1:04:07.5] (3839.6–3847.5) voy a ser entomólogo, o si me entiendes como que en realidad es ser honesto con
+[1:04:07.5 – 1:04:14.5] (3847.5–3854.5) mismo y meterle, o sea también trabajar duro por eso porque hay gente que solamente le
+[1:04:14.5 – 1:04:21.7] (3854.5–3861.7) mete es que también hay un problema hoy en día sobre todo con las redes y es que la
+[1:04:21.7 – 1:04:29.3] (3861.7–3869.3) gente después de una semana se aburre de cosas ni siquiera uno sentado en el cagando
+[1:04:29.3 – 1:04:34.8] (3869.3–3874.8) viendo TikTok se aburre a los dos segundos del TikTok que está viendo entonces la gente
+[1:04:34.8 – 1:04:44.8] (3874.8–3884.8) tiene el cerebro frito, verdad, pero con cosas de la vida, pues toca meterle, entonces si uno quiere
+[1:04:45.8 – 1:04:50.3] (3885.8–3890.3) tener un buen físico, pues tienes que ir al gimnasio, si quieres estar menos loquito, pues tienes
+[1:04:50.3 – 1:04:56.5] (3890.3–3896.5) que ir a terapia, si me entiendes como... hay que trabajar, claro, hay que trabajar y es meterle
+[1:04:56.5 – 1:05:02.5] (3896.5–3902.5) la ficha, a mí me dicen que yo soy workaholic, pero es que a mí me gusta trabajar, a mí me gusta
+[1:05:02.5 – 1:05:06.5] (3902.5–3906.5) levantarme todos los días y tener un propósito y decir marica quiero sacar
+[1:05:06.5 – 1:05:12.2] (3906.5–3912.2) una vaina una chimba hoy o venir acá a hablar con bilbao marica que chimba o
+[1:05:12.8 – 1:05:18.1] (3912.8–3918.1) hacer vainas con los manes de duro marica que chimba o yo con tal de con
+[1:05:18.1 – 1:05:22.6] (3918.1–3922.6) tal de que yo conozca gente que yo los pueda ayudar a elevar a ellos pero
+[1:05:22.6 – 1:05:28.2] (3922.6–3928.2) que ellos también me leven a mí me gusta si me entiendes entonces es eso es
+[1:05:28.2 – 1:05:34.3] (3928.2–3934.3) como yo siento que hoy en día la gente en verdad necesita es como ser honestos con ellos
+[1:05:34.3 – 1:05:40.3] (3934.3–3940.3) mismos y ardemariquiar y también me sale a mierda lo que piense la gente, si me entiendes,
+[1:05:40.3 – 1:05:49.8] (3940.3–3949.8) o sea, la gente más successful hoy en día son los que menos les vale verga lo que
+[1:05:49.8 – 1:05:55.2] (3949.8–3955.2) piense la gente, siento yo, verdad, por eso es que hay artistas tan hijueputas,
+[1:05:55.2 – 1:06:02.2] (3955.2–3962.2) están ustedes que también un día se levantaron y dijeron voy a hacer contenido y me sabe a verga lo que la gente diga
+[1:06:02.2 – 1:06:05.2] (3962.2–3965.2) y pues ya van a llegar al millón de seguidores, si me entendes
+[1:06:06.0 – 1:06:10.3] (3966.0–3970.3) o ya llegaron, si esto sale ya, ya llegaron al millón de seguidores
+[1:06:10.3 – 1:06:13.2] (3970.3–3973.2) llegaron el domingo a las 5 de la tarde si me ames cuenta bien
+[1:06:13.2 – 1:06:15.5] (3973.2–3975.5) ya llegaron al millón de seguidores
+[1:06:16.2 – 1:06:19.5] (3976.2–3979.5) entonces si, esa es mi respuesta larga
+[1:06:19.5 – 1:06:22.6] (3979.5–3982.6) va, no pues esta buenísima, peor consejo que te han dado
+[1:06:24.4 – 1:06:29.4] (3984.4–3989.4) y eso estamos que lo acabamos, ya no demora, vamos a acabarlo en tres dobritos, que llegan mis hijos
+[1:06:29.4 – 1:06:30.4] (3989.4–3990.4) le voy a dar una
+[1:06:31.4 – 1:06:32.4] (3991.4–3992.4) ir a la universidad
+[1:06:33.8 – 1:06:34.2] (3993.8–3994.2) ¿qué?
+[1:06:35.9 – 1:06:37.8] (3995.9–3997.8) el peor consejo que tengo es que te vayas a la universidad
+[1:06:37.8 – 1:06:39.4] (3997.8–3999.4) si porque a mi la universidad
+[1:06:40.9 – 1:06:45.8] (4000.9–4005.8) bueno, yo que soy creativo, no lo puedo decir lo mismo para un médico, para un ingeniero
+[1:06:45.8 – 1:06:46.3] (4005.8–4006.3) va
+[1:06:46.3 – 1:06:50.4] (4006.3–4010.4) pero yo que soy creativo, yo no he necesitado la universidad para ser creativo
+[1:06:51.7 – 1:06:52.1] (4011.7–4012.1) ¿verdad?
+[1:06:52.1 – 1:06:54.2] (4012.1–4014.2) solo me puso...
+[1:06:54.2 – 1:06:58.0] (4014.2–4018.0) la universidad para los creativos es que te pone en contexto con la gente
+[1:06:58.0 – 1:06:59.3] (4018.0–4019.3) creativa
+[1:06:60.0 – 1:07:01.9] (4020.0–4021.9) lees cosas creativas
+[1:07:02.8 – 1:07:05.0] (4022.8–4025.0) tienes amigos creativos
+[1:07:05.0 – 1:07:07.6] (4025.0–4027.6) pero en realidad uno no necesita eso
+[1:07:07.6 – 1:07:10.3] (4027.6–4030.3) hoy en día hay comunidades
+[1:07:10.3 – 1:07:12.8] (4030.3–4032.8) mas y weputas de gente creativa
+[1:07:12.8 – 1:07:16.1] (4032.8–4036.1) en redes donde puedes aprender muchas más cosas
+[1:07:16.1 – 1:07:17.4] (4036.1–4037.4) pero obviamente
+[1:07:17.4 – 1:07:20.4] (4037.4–4040.4) teniendo en cuenta que uno tiene que igual ser
+[1:07:22.3 – 1:07:26.7] (4042.3–4046.7) autodidacta si me entiendes como que no solamente decir como yo soy creativo no
+[1:07:26.7 – 1:07:33.9] (4046.7–4053.9) o sea igual lete un libro lo que yo decía ve un museo o vete al concierto
+[1:07:33.9 – 1:07:39.4] (4053.9–4059.4) aprendete un tema de guitarra no sé si me entiendes pero sobre todo para
+[1:07:39.4 – 1:07:45.6] (4059.4–4065.6) temas como publicidad y esas cosas o diseño gráfico bueno en este país la
+[1:07:45.6 – 1:07:49.7] (4065.6–4069.7) gente como que si diseñó gráfico es bien difícil le pone le pone mucho
+[1:07:49.7 – 1:07:55.6] (4069.7–4075.6) peso a la universidad pero si ustedes pero por eso te digo si ustedes me están
+[1:07:55.6 – 1:07:60.0] (4075.6–4080.0) viendo ahorita y dicen yo quiero trabajar con olio yo quiero trabajar con 30x
+[1:07:60.0 – 1:08:03.9] (4080.0–4083.9) mándame un ejemplo de algo que has hecho a mí la verdad me sabe mierda si
+[1:08:03.9 – 1:08:10.6] (4083.9–4090.6) fuiste a la tadeo la javeriana los andes o no fuiste o no fuiste si eres
+[1:08:10.6 – 1:08:14.3] (4090.6–4094.3) bueno y si me gusta si tienes talento en lo que estás haciendo pues marica
+[1:08:14.3 – 1:08:23.6] (4094.3–4103.6) que chingada, verdad? entonces es más por ese lado, me gusta, algo que te gustaría que te
+[1:08:23.6 – 1:08:30.8] (4103.6–4110.8) hubieramos preguntado que no te hemos preguntado, de pronto como me va un futuro, no no se, no
+[1:08:30.8 – 1:08:37.8] (4110.8–4117.8) no se, no todo bien, te iba a decir, yo y todo mi equipo estamos trabajando muy fuerte para hacer
+[1:08:37.8 – 1:08:42.1] (4117.8–4122.1) un excelente partner con marcas, si yo soy una marca que quiere trabajar con nosotros estamos
+[1:08:42.1 – 1:08:47.0] (4122.1–4127.0) buscando relaciones a largo plazo donde agregamos tanto valor que somos de tus
+[1:08:47.0 – 1:08:52.4] (4127.0–4132.4) partners favoritos entonces escribí no te interesa va y pues ya tenemos un
+[1:08:53.0 – 1:08:58.0] (4133.0–4138.0) creativo una chingada como te decimos el bosque que rol tener ya tenemos un
+[1:08:58.0 – 1:09:01.7] (4138.0–4141.7) director creativo director creativo no pero veníamos acá le jugó este huevo ya
+[1:09:01.7 – 1:09:08.2] (4141.7–4148.2) tenemos un director creativo y de arte youtuber me falta una y dj
+[1:09:09.3 – 1:09:12.1] (4149.3–4152.1) Y Jay, para que le haguemos el jugo a este man
+[1:09:13.1 – 1:09:14.3] (4153.1–4154.3) Ay, y Coach de...
+[1:09:14.8 – 1:09:15.4] (4154.8–4155.4) No, no, no, me he caído
+[1:09:15.4 – 1:09:17.4] (4155.4–4157.4) Yo voy a ser instructor de creatividad
+[1:09:17.4 – 1:09:20.2] (4157.4–4160.2) Y vamos a sacar el programa de creatividad con este man
+[1:09:21.3 – 1:09:22.2] (4161.3–4162.2) Instructor de Tinder
+[1:09:23.7 – 1:09:24.1] (4163.7–4164.1) Coach
+[1:09:24.1 – 1:09:25.9] (4164.1–4165.9) Lo que ustedes no han visto, mi charla yo creo que no lo han visto
+[1:09:25.9 – 1:09:28.2] (4165.9–4168.2) Yo tengo una charla donde le enseño a la gente a reclutar con Tinder
+[1:09:29.4 – 1:09:30.1] (4169.4–4170.1) Con bambol
+[1:09:30.1 – 1:09:31.1] (4170.1–4171.1) Me queda un fucking hit
+[1:09:31.9 – 1:09:33.5] (4171.9–4173.5) Siempre un hit, huevón
+[1:09:33.5 – 1:09:35.0] (4173.5–4175.0) Eso sirve
+[1:09:37.7 – 1:09:43.2] (4177.7–4183.2) es buena y sabes que es cagada siempre es diferente y siempre es un cague de risa pero
+[1:09:43.2 – 1:09:46.3] (4183.2–4186.3) siempre es diferente va bueno listo matamos esto

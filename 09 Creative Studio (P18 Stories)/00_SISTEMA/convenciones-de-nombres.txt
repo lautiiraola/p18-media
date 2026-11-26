@@ -1,0 +1,11 @@
+CONVENCIONES DE NOMBRES
+
+Carpeta de video: P18-NNN-slug-en-minusculas
+Ejemplo: P18-001-james-dyson
+
+Render revisión: P18-NNN-slug-review-v01.mp4
+Render final: P18-NNN-slug-master-v01.mp4
+Voz aprobada: P18-NNN-slug-voiceover-approved.wav
+Guion final: voiceover-final.txt
+
+Usar guiones medios. No espacios, tildes ni caracteres especiales en nombres técnicos. Los títulos editoriales sí conservan español correcto.

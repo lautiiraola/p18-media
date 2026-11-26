@@ -1,0 +1,20 @@
+{"clips": [
+ {"ini": 292.1, "fin": 346.2, "titulo": "SI TU PROBLEMA ES LA *VERGÜENZA* DE HACER VIDEOS, AGRADECÉ",
+  "departamento": "Crear y comunicar", "area": "Redes y contenido",
+  "tema": "Vergüenza de mostrarte en redes", "slug": "verguenza de hacer videos",
+  "gancho": "Yo lo hablo mucho con gente que es no, pero no me quiero exponer, hacer videos.",
+  "porque": "Gancho directo a quien duda de subir videos; idea completa: la opinión de 30 personas pesa menos que llegar a miles, y grabar cuesta un celular y 5 minutos. Sirve a quien arranca en redes.",
+  "notas": "Dice 'redituable y rentable para tu compañía' y 'ganar plata' de pasada; no es el foco. Lenguaje coloquial (algún 'boludo' suelto no está en el tramo)."},
+ {"ini": 1160.4, "fin": 1195.6, "titulo": "TODO ARRANCA CON LOS *VIDEOS*: EL HACK PARA EMPRENDER",
+  "departamento": "Crear y comunicar", "area": "Redes y contenido",
+  "tema": "Hacer videos como puerta para emprender", "slug": "todo arranca con los videos",
+  "gancho": "Todo arranca con los videos.",
+  "porque": "Gancho corto y claro; cuenta que hacer videos cuesta poco, que no es talento sino habilidad y que su primer video fue malo y fue mejorando. Mensaje alentador para principiantes.",
+  "notas": "Revisar que el corte no arranque a mitad de frase: la frase previa lista sus empresas, se salteó a propósito. 'Hack a emprender' no promete resultados."},
+ {"ini": 1997.5, "fin": 2058.8, "titulo": "EL MAYOR APRENDIZAJE DE *MARKETING*: VOLUMEN Y CONSTANCIA",
+  "departamento": "Crear y comunicar", "area": "Redes y contenido",
+  "tema": "Volumen y constancia al subir contenido", "slug": "volumen y constancia",
+  "gancho": "Mi mayor aprendizaje es que es muy importante hacer volumen y ser constante.",
+  "porque": "Respuesta en una frase con gancho; explica que muchos abandonan a los 3 meses y quienes siguen despegan con una curva exponencial. Útil para quien empieza a crear contenido.",
+  "notas": "Arranca con el final de la pregunta del entrevistador si el corte entra antes; verificar. Está justo en el límite de 60 s."}
+]}

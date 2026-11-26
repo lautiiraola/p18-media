@@ -1,0 +1,939 @@
+{
+ "idioma": "es",
+ "duracion": 59.63,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 4.0,
+   "texto": "Eso no solo va relativo al basque o al deporte.",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.52,
+     "p": "Eso"
+    },
+    {
+     "ini": 0.52,
+     "fin": 0.8,
+     "p": "no"
+    },
+    {
+     "ini": 0.8,
+     "fin": 2.02,
+     "p": "solo"
+    },
+    {
+     "ini": 2.02,
+     "fin": 2.46,
+     "p": "va"
+    },
+    {
+     "ini": 2.46,
+     "fin": 2.8,
+     "p": "relativo"
+    },
+    {
+     "ini": 2.8,
+     "fin": 2.9,
+     "p": "al"
+    },
+    {
+     "ini": 2.9,
+     "fin": 3.12,
+     "p": "basque"
+    },
+    {
+     "ini": 3.12,
+     "fin": 3.18,
+     "p": "o"
+    },
+    {
+     "ini": 3.18,
+     "fin": 3.3,
+     "p": "al"
+    },
+    {
+     "ini": 3.3,
+     "fin": 4.0,
+     "p": "deporte."
+    }
+   ]
+  },
+  {
+   "ini": 4.92,
+   "fin": 11.24,
+   "texto": "Si ustedes quieren ser dentistas, si quieren ser profesores, si quieren ser lo que sea, es para todo igual.",
+   "palabras": [
+    {
+     "ini": 4.92,
+     "fin": 4.96,
+     "p": "Si"
+    },
+    {
+     "ini": 4.96,
+     "fin": 5.14,
+     "p": "ustedes"
+    },
+    {
+     "ini": 5.14,
+     "fin": 5.28,
+     "p": "quieren"
+    },
+    {
+     "ini": 5.28,
+     "fin": 5.64,
+     "p": "ser"
+    },
+    {
+     "ini": 5.64,
+     "fin": 6.36,
+     "p": "dentistas,"
+    },
+    {
+     "ini": 6.66,
+     "fin": 6.66,
+     "p": "si"
+    },
+    {
+     "ini": 6.66,
+     "fin": 7.04,
+     "p": "quieren"
+    },
+    {
+     "ini": 7.04,
+     "fin": 7.6,
+     "p": "ser"
+    },
+    {
+     "ini": 7.6,
+     "fin": 8.18,
+     "p": "profesores,"
+    },
+    {
+     "ini": 8.34,
+     "fin": 8.34,
+     "p": "si"
+    },
+    {
+     "ini": 8.34,
+     "fin": 8.7,
+     "p": "quieren"
+    },
+    {
+     "ini": 8.7,
+     "fin": 9.58,
+     "p": "ser"
+    },
+    {
+     "ini": 9.58,
+     "fin": 9.78,
+     "p": "lo"
+    },
+    {
+     "ini": 9.78,
+     "fin": 9.98,
+     "p": "que"
+    },
+    {
+     "ini": 9.98,
+     "fin": 10.32,
+     "p": "sea,"
+    },
+    {
+     "ini": 10.34,
+     "fin": 10.82,
+     "p": "es"
+    },
+    {
+     "ini": 10.82,
+     "fin": 10.88,
+     "p": "para"
+    },
+    {
+     "ini": 10.88,
+     "fin": 11.04,
+     "p": "todo"
+    },
+    {
+     "ini": 11.04,
+     "fin": 11.24,
+     "p": "igual."
+    }
+   ]
+  },
+  {
+   "ini": 11.64,
+   "fin": 20.78,
+   "texto": "Hay que esforzarse, romperse el culo, ser respetuoso tanto de los que te enseñan, como tus compañeros, como tus pares.",
+   "palabras": [
+    {
+     "ini": 11.64,
+     "fin": 11.74,
+     "p": "Hay"
+    },
+    {
+     "ini": 11.74,
+     "fin": 11.88,
+     "p": "que"
+    },
+    {
+     "ini": 11.88,
+     "fin": 12.96,
+     "p": "esforzarse,"
+    },
+    {
+     "ini": 13.22,
+     "fin": 13.58,
+     "p": "romperse"
+    },
+    {
+     "ini": 13.58,
+     "fin": 13.72,
+     "p": "el"
+    },
+    {
+     "ini": 13.72,
+     "fin": 14.18,
+     "p": "culo,"
+    },
+    {
+     "ini": 14.7,
+     "fin": 14.9,
+     "p": "ser"
+    },
+    {
+     "ini": 14.9,
+     "fin": 15.62,
+     "p": "respetuoso"
+    },
+    {
+     "ini": 15.62,
+     "fin": 16.04,
+     "p": "tanto"
+    },
+    {
+     "ini": 16.04,
+     "fin": 16.26,
+     "p": "de"
+    },
+    {
+     "ini": 16.26,
+     "fin": 16.74,
+     "p": "los"
+    },
+    {
+     "ini": 16.74,
+     "fin": 17.82,
+     "p": "que"
+    },
+    {
+     "ini": 17.82,
+     "fin": 18.0,
+     "p": "te"
+    },
+    {
+     "ini": 18.0,
+     "fin": 18.56,
+     "p": "enseñan,"
+    },
+    {
+     "ini": 18.76,
+     "fin": 18.82,
+     "p": "como"
+    },
+    {
+     "ini": 18.82,
+     "fin": 18.98,
+     "p": "tus"
+    },
+    {
+     "ini": 18.98,
+     "fin": 19.56,
+     "p": "compañeros,"
+    },
+    {
+     "ini": 19.64,
+     "fin": 19.78,
+     "p": "como"
+    },
+    {
+     "ini": 19.78,
+     "fin": 20.0,
+     "p": "tus"
+    },
+    {
+     "ini": 20.0,
+     "fin": 20.78,
+     "p": "pares."
+    }
+   ]
+  },
+  {
+   "ini": 21.08,
+   "fin": 25.28,
+   "texto": "Así que creo que esas son cosas que por hoy se están perdiendo un poco.",
+   "palabras": [
+    {
+     "ini": 21.08,
+     "fin": 21.18,
+     "p": "Así"
+    },
+    {
+     "ini": 21.18,
+     "fin": 22.02,
+     "p": "que"
+    },
+    {
+     "ini": 22.02,
+     "fin": 22.24,
+     "p": "creo"
+    },
+    {
+     "ini": 22.24,
+     "fin": 22.48,
+     "p": "que"
+    },
+    {
+     "ini": 22.48,
+     "fin": 22.62,
+     "p": "esas"
+    },
+    {
+     "ini": 22.62,
+     "fin": 22.82,
+     "p": "son"
+    },
+    {
+     "ini": 22.82,
+     "fin": 23.0,
+     "p": "cosas"
+    },
+    {
+     "ini": 23.0,
+     "fin": 23.72,
+     "p": "que"
+    },
+    {
+     "ini": 23.72,
+     "fin": 23.78,
+     "p": "por"
+    },
+    {
+     "ini": 23.78,
+     "fin": 23.88,
+     "p": "hoy"
+    },
+    {
+     "ini": 23.88,
+     "fin": 24.08,
+     "p": "se"
+    },
+    {
+     "ini": 24.08,
+     "fin": 24.18,
+     "p": "están"
+    },
+    {
+     "ini": 24.18,
+     "fin": 24.56,
+     "p": "perdiendo"
+    },
+    {
+     "ini": 24.56,
+     "fin": 24.84,
+     "p": "un"
+    },
+    {
+     "ini": 24.84,
+     "fin": 25.28,
+     "p": "poco."
+    }
+   ]
+  },
+  {
+   "ini": 26.68,
+   "fin": 30.64,
+   "texto": "Y es una lástima, porque son las que te hacen llegar muy arriba.",
+   "palabras": [
+    {
+     "ini": 26.68,
+     "fin": 27.04,
+     "p": "Y"
+    },
+    {
+     "ini": 27.04,
+     "fin": 27.4,
+     "p": "es"
+    },
+    {
+     "ini": 27.4,
+     "fin": 27.58,
+     "p": "una"
+    },
+    {
+     "ini": 27.58,
+     "fin": 28.0,
+     "p": "lástima,"
+    },
+    {
+     "ini": 28.18,
+     "fin": 28.28,
+     "p": "porque"
+    },
+    {
+     "ini": 28.28,
+     "fin": 28.4,
+     "p": "son"
+    },
+    {
+     "ini": 28.4,
+     "fin": 28.54,
+     "p": "las"
+    },
+    {
+     "ini": 28.54,
+     "fin": 29.16,
+     "p": "que"
+    },
+    {
+     "ini": 29.16,
+     "fin": 29.26,
+     "p": "te"
+    },
+    {
+     "ini": 29.26,
+     "fin": 29.4,
+     "p": "hacen"
+    },
+    {
+     "ini": 29.4,
+     "fin": 29.74,
+     "p": "llegar"
+    },
+    {
+     "ini": 29.74,
+     "fin": 29.98,
+     "p": "muy"
+    },
+    {
+     "ini": 29.98,
+     "fin": 30.64,
+     "p": "arriba."
+    }
+   ]
+  },
+  {
+   "ini": 31.06,
+   "fin": 38.08,
+   "texto": "Así que no se bajonen si no están jugando tan bien el básquet, si ven que esto no va a ser lo suyo.",
+   "palabras": [
+    {
+     "ini": 31.06,
+     "fin": 31.06,
+     "p": "Así"
+    },
+    {
+     "ini": 31.06,
+     "fin": 31.48,
+     "p": "que"
+    },
+    {
+     "ini": 31.48,
+     "fin": 31.96,
+     "p": "no"
+    },
+    {
+     "ini": 31.96,
+     "fin": 32.12,
+     "p": "se"
+    },
+    {
+     "ini": 32.12,
+     "fin": 32.62,
+     "p": "bajonen"
+    },
+    {
+     "ini": 32.62,
+     "fin": 32.9,
+     "p": "si"
+    },
+    {
+     "ini": 32.9,
+     "fin": 35.0,
+     "p": "no"
+    },
+    {
+     "ini": 35.0,
+     "fin": 35.16,
+     "p": "están"
+    },
+    {
+     "ini": 35.16,
+     "fin": 35.46,
+     "p": "jugando"
+    },
+    {
+     "ini": 35.46,
+     "fin": 35.64,
+     "p": "tan"
+    },
+    {
+     "ini": 35.64,
+     "fin": 35.7,
+     "p": "bien"
+    },
+    {
+     "ini": 35.7,
+     "fin": 35.88,
+     "p": "el"
+    },
+    {
+     "ini": 35.88,
+     "fin": 36.12,
+     "p": "básquet,"
+    },
+    {
+     "ini": 36.18,
+     "fin": 36.32,
+     "p": "si"
+    },
+    {
+     "ini": 36.32,
+     "fin": 36.44,
+     "p": "ven"
+    },
+    {
+     "ini": 36.44,
+     "fin": 36.58,
+     "p": "que"
+    },
+    {
+     "ini": 36.58,
+     "fin": 36.74,
+     "p": "esto"
+    },
+    {
+     "ini": 36.74,
+     "fin": 37.06,
+     "p": "no"
+    },
+    {
+     "ini": 37.06,
+     "fin": 37.18,
+     "p": "va"
+    },
+    {
+     "ini": 37.18,
+     "fin": 37.18,
+     "p": "a"
+    },
+    {
+     "ini": 37.18,
+     "fin": 37.32,
+     "p": "ser"
+    },
+    {
+     "ini": 37.32,
+     "fin": 37.5,
+     "p": "lo"
+    },
+    {
+     "ini": 37.5,
+     "fin": 38.08,
+     "p": "suyo."
+    }
+   ]
+  },
+  {
+   "ini": 38.34,
+   "fin": 43.24,
+   "texto": "El hecho de jugar, de compartir un equipo y esas cosas te hace mejor persona.",
+   "palabras": [
+    {
+     "ini": 38.34,
+     "fin": 38.38,
+     "p": "El"
+    },
+    {
+     "ini": 38.38,
+     "fin": 38.56,
+     "p": "hecho"
+    },
+    {
+     "ini": 38.56,
+     "fin": 38.7,
+     "p": "de"
+    },
+    {
+     "ini": 38.7,
+     "fin": 39.14,
+     "p": "jugar,"
+    },
+    {
+     "ini": 39.78,
+     "fin": 39.82,
+     "p": "de"
+    },
+    {
+     "ini": 39.82,
+     "fin": 40.06,
+     "p": "compartir"
+    },
+    {
+     "ini": 40.06,
+     "fin": 40.2,
+     "p": "un"
+    },
+    {
+     "ini": 40.2,
+     "fin": 40.56,
+     "p": "equipo"
+    },
+    {
+     "ini": 40.56,
+     "fin": 40.82,
+     "p": "y"
+    },
+    {
+     "ini": 40.82,
+     "fin": 40.94,
+     "p": "esas"
+    },
+    {
+     "ini": 40.94,
+     "fin": 41.18,
+     "p": "cosas"
+    },
+    {
+     "ini": 41.18,
+     "fin": 42.42,
+     "p": "te"
+    },
+    {
+     "ini": 42.42,
+     "fin": 42.56,
+     "p": "hace"
+    },
+    {
+     "ini": 42.56,
+     "fin": 42.84,
+     "p": "mejor"
+    },
+    {
+     "ini": 42.84,
+     "fin": 43.24,
+     "p": "persona."
+    }
+   ]
+  },
+  {
+   "ini": 43.46,
+   "fin": 46.08,
+   "texto": "Te hace convivir, compartir cosas que de otra manera no lo harías.",
+   "palabras": [
+    {
+     "ini": 43.46,
+     "fin": 43.54,
+     "p": "Te"
+    },
+    {
+     "ini": 43.54,
+     "fin": 43.68,
+     "p": "hace"
+    },
+    {
+     "ini": 43.68,
+     "fin": 44.14,
+     "p": "convivir,"
+    },
+    {
+     "ini": 44.26,
+     "fin": 44.62,
+     "p": "compartir"
+    },
+    {
+     "ini": 44.62,
+     "fin": 44.88,
+     "p": "cosas"
+    },
+    {
+     "ini": 44.88,
+     "fin": 45.04,
+     "p": "que"
+    },
+    {
+     "ini": 45.04,
+     "fin": 45.16,
+     "p": "de"
+    },
+    {
+     "ini": 45.16,
+     "fin": 45.28,
+     "p": "otra"
+    },
+    {
+     "ini": 45.28,
+     "fin": 45.46,
+     "p": "manera"
+    },
+    {
+     "ini": 45.46,
+     "fin": 45.6,
+     "p": "no"
+    },
+    {
+     "ini": 45.6,
+     "fin": 45.74,
+     "p": "lo"
+    },
+    {
+     "ini": 45.74,
+     "fin": 46.08,
+     "p": "harías."
+    }
+   ]
+  },
+  {
+   "ini": 46.74,
+   "fin": 48.66,
+   "texto": "Y creo que es una gran sensa para todos.",
+   "palabras": [
+    {
+     "ini": 46.74,
+     "fin": 46.88,
+     "p": "Y"
+    },
+    {
+     "ini": 46.88,
+     "fin": 47.02,
+     "p": "creo"
+    },
+    {
+     "ini": 47.02,
+     "fin": 47.2,
+     "p": "que"
+    },
+    {
+     "ini": 47.2,
+     "fin": 47.56,
+     "p": "es"
+    },
+    {
+     "ini": 47.56,
+     "fin": 47.68,
+     "p": "una"
+    },
+    {
+     "ini": 47.68,
+     "fin": 47.92,
+     "p": "gran"
+    },
+    {
+     "ini": 47.92,
+     "fin": 48.22,
+     "p": "sensa"
+    },
+    {
+     "ini": 48.22,
+     "fin": 48.44,
+     "p": "para"
+    },
+    {
+     "ini": 48.44,
+     "fin": 48.66,
+     "p": "todos."
+    }
+   ]
+  },
+  {
+   "ini": 48.72,
+   "fin": 53.06,
+   "texto": "Así que si es con el básquetuaro, si es con el estudio, igual de bien y en lo que sea.",
+   "palabras": [
+    {
+     "ini": 48.72,
+     "fin": 48.84,
+     "p": "Así"
+    },
+    {
+     "ini": 48.84,
+     "fin": 49.16,
+     "p": "que"
+    },
+    {
+     "ini": 49.16,
+     "fin": 49.26,
+     "p": "si"
+    },
+    {
+     "ini": 49.26,
+     "fin": 49.36,
+     "p": "es"
+    },
+    {
+     "ini": 49.36,
+     "fin": 49.46,
+     "p": "con"
+    },
+    {
+     "ini": 49.46,
+     "fin": 49.56,
+     "p": "el"
+    },
+    {
+     "ini": 49.56,
+     "fin": 50.04,
+     "p": "básquetuaro,"
+    },
+    {
+     "ini": 50.1,
+     "fin": 50.22,
+     "p": "si"
+    },
+    {
+     "ini": 50.22,
+     "fin": 50.28,
+     "p": "es"
+    },
+    {
+     "ini": 50.28,
+     "fin": 50.42,
+     "p": "con"
+    },
+    {
+     "ini": 50.42,
+     "fin": 50.58,
+     "p": "el"
+    },
+    {
+     "ini": 50.58,
+     "fin": 51.26,
+     "p": "estudio,"
+    },
+    {
+     "ini": 51.5,
+     "fin": 51.8,
+     "p": "igual"
+    },
+    {
+     "ini": 51.8,
+     "fin": 52.02,
+     "p": "de"
+    },
+    {
+     "ini": 52.02,
+     "fin": 52.26,
+     "p": "bien"
+    },
+    {
+     "ini": 52.26,
+     "fin": 52.58,
+     "p": "y"
+    },
+    {
+     "ini": 52.58,
+     "fin": 52.62,
+     "p": "en"
+    },
+    {
+     "ini": 52.62,
+     "fin": 52.74,
+     "p": "lo"
+    },
+    {
+     "ini": 52.74,
+     "fin": 52.92,
+     "p": "que"
+    },
+    {
+     "ini": 52.92,
+     "fin": 53.06,
+     "p": "sea."
+    }
+   ]
+  },
+  {
+   "ini": 53.06,
+   "fin": 59.26,
+   "texto": "ponganle pasión, respeto y mátense por un objetivo, creo que es la forma de llegar.",
+   "palabras": [
+    {
+     "ini": 53.06,
+     "fin": 53.56,
+     "p": "ponganle"
+    },
+    {
+     "ini": 53.56,
+     "fin": 54.16,
+     "p": "pasión,"
+    },
+    {
+     "ini": 54.4,
+     "fin": 54.98,
+     "p": "respeto"
+    },
+    {
+     "ini": 54.98,
+     "fin": 55.82,
+     "p": "y"
+    },
+    {
+     "ini": 55.82,
+     "fin": 56.18,
+     "p": "mátense"
+    },
+    {
+     "ini": 56.18,
+     "fin": 56.94,
+     "p": "por"
+    },
+    {
+     "ini": 56.94,
+     "fin": 57.52,
+     "p": "un"
+    },
+    {
+     "ini": 57.52,
+     "fin": 57.9,
+     "p": "objetivo,"
+    },
+    {
+     "ini": 58.1,
+     "fin": 58.14,
+     "p": "creo"
+    },
+    {
+     "ini": 58.14,
+     "fin": 58.38,
+     "p": "que"
+    },
+    {
+     "ini": 58.38,
+     "fin": 58.66,
+     "p": "es"
+    },
+    {
+     "ini": 58.66,
+     "fin": 58.74,
+     "p": "la"
+    },
+    {
+     "ini": 58.74,
+     "fin": 58.94,
+     "p": "forma"
+    },
+    {
+     "ini": 58.94,
+     "fin": 59.04,
+     "p": "de"
+    },
+    {
+     "ini": 59.04,
+     "fin": 59.26,
+     "p": "llegar."
+    }
+   ]
+  }
+ ]
+}

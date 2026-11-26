@@ -1,0 +1,12400 @@
+{
+ "idioma": "en",
+ "duracion": 904.0,
+ "origen": "subtítulos manual de YouTube",
+ "segmentos": [
+  {
+   "ini": 7.47,
+   "fin": 10.47,
+   "texto": "This program is brought to you by Stanford University.",
+   "palabras": [
+    {
+     "ini": 7.47,
+     "fin": 7.79,
+     "p": "This"
+    },
+    {
+     "ini": 7.79,
+     "fin": 8.11,
+     "p": "program"
+    },
+    {
+     "ini": 8.11,
+     "fin": 8.44,
+     "p": "is"
+    },
+    {
+     "ini": 8.44,
+     "fin": 8.76,
+     "p": "brought"
+    },
+    {
+     "ini": 8.76,
+     "fin": 9.08,
+     "p": "to"
+    },
+    {
+     "ini": 9.08,
+     "fin": 9.4,
+     "p": "you"
+    },
+    {
+     "ini": 9.4,
+     "fin": 9.72,
+     "p": "by"
+    },
+    {
+     "ini": 9.72,
+     "fin": 10.05,
+     "p": "Stanford"
+    },
+    {
+     "ini": 10.05,
+     "fin": 10.47,
+     "p": "University."
+    }
+   ]
+  },
+  {
+   "ini": 10.47,
+   "fin": 15.15,
+   "texto": "Please visit us at stanford.edu",
+   "palabras": [
+    {
+     "ini": 10.47,
+     "fin": 11.26,
+     "p": "Please"
+    },
+    {
+     "ini": 11.26,
+     "fin": 12.06,
+     "p": "visit"
+    },
+    {
+     "ini": 12.06,
+     "fin": 12.85,
+     "p": "us"
+    },
+    {
+     "ini": 12.85,
+     "fin": 13.65,
+     "p": "at"
+    },
+    {
+     "ini": 13.65,
+     "fin": 15.15,
+     "p": "stanford.edu"
+    }
+   ]
+  },
+  {
+   "ini": 22.49,
+   "fin": 33.94,
+   "texto": "Thank You. I am honored to be with you today at your commencement from one of the finest universities in the world.",
+   "palabras": [
+    {
+     "ini": 22.49,
+     "fin": 23.07,
+     "p": "Thank"
+    },
+    {
+     "ini": 23.07,
+     "fin": 23.65,
+     "p": "You."
+    },
+    {
+     "ini": 23.65,
+     "fin": 24.23,
+     "p": "I"
+    },
+    {
+     "ini": 24.23,
+     "fin": 24.81,
+     "p": "am"
+    },
+    {
+     "ini": 24.81,
+     "fin": 25.39,
+     "p": "honored"
+    },
+    {
+     "ini": 25.39,
+     "fin": 25.97,
+     "p": "to"
+    },
+    {
+     "ini": 25.97,
+     "fin": 26.55,
+     "p": "be"
+    },
+    {
+     "ini": 26.55,
+     "fin": 27.12,
+     "p": "with"
+    },
+    {
+     "ini": 27.12,
+     "fin": 27.7,
+     "p": "you"
+    },
+    {
+     "ini": 27.7,
+     "fin": 28.28,
+     "p": "today"
+    },
+    {
+     "ini": 28.28,
+     "fin": 28.86,
+     "p": "at"
+    },
+    {
+     "ini": 28.86,
+     "fin": 29.44,
+     "p": "your"
+    },
+    {
+     "ini": 29.44,
+     "fin": 30.02,
+     "p": "commencement"
+    },
+    {
+     "ini": 30.02,
+     "fin": 30.32,
+     "p": "from"
+    },
+    {
+     "ini": 30.32,
+     "fin": 30.62,
+     "p": "one"
+    },
+    {
+     "ini": 30.62,
+     "fin": 30.93,
+     "p": "of"
+    },
+    {
+     "ini": 30.93,
+     "fin": 31.23,
+     "p": "the"
+    },
+    {
+     "ini": 31.23,
+     "fin": 31.53,
+     "p": "finest"
+    },
+    {
+     "ini": 31.53,
+     "fin": 31.83,
+     "p": "universities"
+    },
+    {
+     "ini": 31.83,
+     "fin": 32.13,
+     "p": "in"
+    },
+    {
+     "ini": 32.13,
+     "fin": 32.44,
+     "p": "the"
+    },
+    {
+     "ini": 32.44,
+     "fin": 33.94,
+     "p": "world."
+    }
+   ]
+  },
+  {
+   "ini": 35.56,
+   "fin": 47.06,
+   "texto": "Truth be told I never graduated from college and this is the closest I've ever gotten to a college graduation.",
+   "palabras": [
+    {
+     "ini": 35.56,
+     "fin": 36.31,
+     "p": "Truth"
+    },
+    {
+     "ini": 36.31,
+     "fin": 37.06,
+     "p": "be"
+    },
+    {
+     "ini": 37.06,
+     "fin": 37.81,
+     "p": "told"
+    },
+    {
+     "ini": 37.81,
+     "fin": 38.56,
+     "p": "I"
+    },
+    {
+     "ini": 38.56,
+     "fin": 39.31,
+     "p": "never"
+    },
+    {
+     "ini": 39.31,
+     "fin": 40.06,
+     "p": "graduated"
+    },
+    {
+     "ini": 40.06,
+     "fin": 40.81,
+     "p": "from"
+    },
+    {
+     "ini": 40.81,
+     "fin": 41.56,
+     "p": "college"
+    },
+    {
+     "ini": 41.56,
+     "fin": 41.92,
+     "p": "and"
+    },
+    {
+     "ini": 41.92,
+     "fin": 42.29,
+     "p": "this"
+    },
+    {
+     "ini": 42.29,
+     "fin": 42.65,
+     "p": "is"
+    },
+    {
+     "ini": 42.65,
+     "fin": 43.02,
+     "p": "the"
+    },
+    {
+     "ini": 43.02,
+     "fin": 43.38,
+     "p": "closest"
+    },
+    {
+     "ini": 43.38,
+     "fin": 43.74,
+     "p": "I've"
+    },
+    {
+     "ini": 43.74,
+     "fin": 44.11,
+     "p": "ever"
+    },
+    {
+     "ini": 44.11,
+     "fin": 44.47,
+     "p": "gotten"
+    },
+    {
+     "ini": 44.47,
+     "fin": 44.84,
+     "p": "to"
+    },
+    {
+     "ini": 44.84,
+     "fin": 45.2,
+     "p": "a"
+    },
+    {
+     "ini": 45.2,
+     "fin": 45.56,
+     "p": "college"
+    },
+    {
+     "ini": 45.56,
+     "fin": 47.06,
+     "p": "graduation."
+    }
+   ]
+  },
+  {
+   "ini": 47.98,
+   "fin": 51.39,
+   "texto": "Today I want to tell you three stories from my life.",
+   "palabras": [
+    {
+     "ini": 47.98,
+     "fin": 48.29,
+     "p": "Today"
+    },
+    {
+     "ini": 48.29,
+     "fin": 48.6,
+     "p": "I"
+    },
+    {
+     "ini": 48.6,
+     "fin": 48.91,
+     "p": "want"
+    },
+    {
+     "ini": 48.91,
+     "fin": 49.22,
+     "p": "to"
+    },
+    {
+     "ini": 49.22,
+     "fin": 49.53,
+     "p": "tell"
+    },
+    {
+     "ini": 49.53,
+     "fin": 49.84,
+     "p": "you"
+    },
+    {
+     "ini": 49.84,
+     "fin": 50.15,
+     "p": "three"
+    },
+    {
+     "ini": 50.15,
+     "fin": 50.46,
+     "p": "stories"
+    },
+    {
+     "ini": 50.46,
+     "fin": 50.77,
+     "p": "from"
+    },
+    {
+     "ini": 50.77,
+     "fin": 51.08,
+     "p": "my"
+    },
+    {
+     "ini": 51.08,
+     "fin": 51.39,
+     "p": "life."
+    }
+   ]
+  },
+  {
+   "ini": 51.39,
+   "fin": 55.85,
+   "texto": "That's it. No big deal. Just three stories.",
+   "palabras": [
+    {
+     "ini": 51.39,
+     "fin": 51.7,
+     "p": "That's"
+    },
+    {
+     "ini": 51.7,
+     "fin": 52.01,
+     "p": "it."
+    },
+    {
+     "ini": 52.01,
+     "fin": 52.48,
+     "p": "No"
+    },
+    {
+     "ini": 52.48,
+     "fin": 52.96,
+     "p": "big"
+    },
+    {
+     "ini": 52.96,
+     "fin": 53.43,
+     "p": "deal."
+    },
+    {
+     "ini": 53.43,
+     "fin": 53.9,
+     "p": "Just"
+    },
+    {
+     "ini": 53.9,
+     "fin": 54.38,
+     "p": "three"
+    },
+    {
+     "ini": 54.38,
+     "fin": 55.85,
+     "p": "stories."
+    }
+   ]
+  },
+  {
+   "ini": 55.85,
+   "fin": 60.6,
+   "texto": "The first story is about connecting the dots.",
+   "palabras": [
+    {
+     "ini": 55.85,
+     "fin": 56.31,
+     "p": "The"
+    },
+    {
+     "ini": 56.31,
+     "fin": 56.78,
+     "p": "first"
+    },
+    {
+     "ini": 56.78,
+     "fin": 57.24,
+     "p": "story"
+    },
+    {
+     "ini": 57.24,
+     "fin": 57.71,
+     "p": "is"
+    },
+    {
+     "ini": 57.71,
+     "fin": 58.17,
+     "p": "about"
+    },
+    {
+     "ini": 58.17,
+     "fin": 58.64,
+     "p": "connecting"
+    },
+    {
+     "ini": 58.64,
+     "fin": 59.1,
+     "p": "the"
+    },
+    {
+     "ini": 59.1,
+     "fin": 60.6,
+     "p": "dots."
+    }
+   ]
+  },
+  {
+   "ini": 61.01,
+   "fin": 69.41,
+   "texto": "I dropped out of Reed College after the first 6 months, but then stayed around as a drop-in for another 18 months or so before I really quit.",
+   "palabras": [
+    {
+     "ini": 61.01,
+     "fin": 61.27,
+     "p": "I"
+    },
+    {
+     "ini": 61.27,
+     "fin": 61.53,
+     "p": "dropped"
+    },
+    {
+     "ini": 61.53,
+     "fin": 61.8,
+     "p": "out"
+    },
+    {
+     "ini": 61.8,
+     "fin": 62.06,
+     "p": "of"
+    },
+    {
+     "ini": 62.06,
+     "fin": 62.32,
+     "p": "Reed"
+    },
+    {
+     "ini": 62.32,
+     "fin": 62.58,
+     "p": "College"
+    },
+    {
+     "ini": 62.58,
+     "fin": 62.85,
+     "p": "after"
+    },
+    {
+     "ini": 62.85,
+     "fin": 63.11,
+     "p": "the"
+    },
+    {
+     "ini": 63.11,
+     "fin": 63.37,
+     "p": "first"
+    },
+    {
+     "ini": 63.37,
+     "fin": 63.63,
+     "p": "6"
+    },
+    {
+     "ini": 63.63,
+     "fin": 63.98,
+     "p": "months,"
+    },
+    {
+     "ini": 63.98,
+     "fin": 64.24,
+     "p": "but"
+    },
+    {
+     "ini": 64.24,
+     "fin": 64.5,
+     "p": "then"
+    },
+    {
+     "ini": 64.5,
+     "fin": 64.76,
+     "p": "stayed"
+    },
+    {
+     "ini": 64.76,
+     "fin": 65.02,
+     "p": "around"
+    },
+    {
+     "ini": 65.02,
+     "fin": 65.28,
+     "p": "as"
+    },
+    {
+     "ini": 65.28,
+     "fin": 65.54,
+     "p": "a"
+    },
+    {
+     "ini": 65.54,
+     "fin": 65.8,
+     "p": "drop-in"
+    },
+    {
+     "ini": 65.8,
+     "fin": 66.09,
+     "p": "for"
+    },
+    {
+     "ini": 66.09,
+     "fin": 66.38,
+     "p": "another"
+    },
+    {
+     "ini": 66.38,
+     "fin": 66.68,
+     "p": "18"
+    },
+    {
+     "ini": 66.68,
+     "fin": 66.97,
+     "p": "months"
+    },
+    {
+     "ini": 66.97,
+     "fin": 67.26,
+     "p": "or"
+    },
+    {
+     "ini": 67.26,
+     "fin": 67.56,
+     "p": "so"
+    },
+    {
+     "ini": 67.56,
+     "fin": 67.85,
+     "p": "before"
+    },
+    {
+     "ini": 67.85,
+     "fin": 68.14,
+     "p": "I"
+    },
+    {
+     "ini": 68.14,
+     "fin": 68.44,
+     "p": "really"
+    },
+    {
+     "ini": 68.44,
+     "fin": 69.41,
+     "p": "quit."
+    }
+   ]
+  },
+  {
+   "ini": 69.41,
+   "fin": 75.25,
+   "texto": "So why did I drop out? It started before I was born.",
+   "palabras": [
+    {
+     "ini": 69.41,
+     "fin": 69.69,
+     "p": "So"
+    },
+    {
+     "ini": 69.69,
+     "fin": 69.97,
+     "p": "why"
+    },
+    {
+     "ini": 69.97,
+     "fin": 70.24,
+     "p": "did"
+    },
+    {
+     "ini": 70.24,
+     "fin": 70.52,
+     "p": "I"
+    },
+    {
+     "ini": 70.52,
+     "fin": 70.8,
+     "p": "drop"
+    },
+    {
+     "ini": 70.8,
+     "fin": 72.23,
+     "p": "out?"
+    },
+    {
+     "ini": 72.23,
+     "fin": 72.59,
+     "p": "It"
+    },
+    {
+     "ini": 72.59,
+     "fin": 72.94,
+     "p": "started"
+    },
+    {
+     "ini": 72.94,
+     "fin": 73.3,
+     "p": "before"
+    },
+    {
+     "ini": 73.3,
+     "fin": 73.66,
+     "p": "I"
+    },
+    {
+     "ini": 73.66,
+     "fin": 74.01,
+     "p": "was"
+    },
+    {
+     "ini": 74.01,
+     "fin": 75.25,
+     "p": "born."
+    }
+   ]
+  },
+  {
+   "ini": 75.25,
+   "fin": 82.36,
+   "texto": "My biological mother was a young, unwed graduate student, and she decided to put me up for adoption.",
+   "palabras": [
+    {
+     "ini": 75.25,
+     "fin": 75.67,
+     "p": "My"
+    },
+    {
+     "ini": 75.67,
+     "fin": 76.09,
+     "p": "biological"
+    },
+    {
+     "ini": 76.09,
+     "fin": 76.51,
+     "p": "mother"
+    },
+    {
+     "ini": 76.51,
+     "fin": 76.93,
+     "p": "was"
+    },
+    {
+     "ini": 76.93,
+     "fin": 77.35,
+     "p": "a"
+    },
+    {
+     "ini": 77.35,
+     "fin": 77.77,
+     "p": "young,"
+    },
+    {
+     "ini": 77.77,
+     "fin": 78.19,
+     "p": "unwed"
+    },
+    {
+     "ini": 78.19,
+     "fin": 78.61,
+     "p": "graduate"
+    },
+    {
+     "ini": 78.61,
+     "fin": 79.24,
+     "p": "student,"
+    },
+    {
+     "ini": 79.24,
+     "fin": 79.47,
+     "p": "and"
+    },
+    {
+     "ini": 79.47,
+     "fin": 79.71,
+     "p": "she"
+    },
+    {
+     "ini": 79.71,
+     "fin": 79.94,
+     "p": "decided"
+    },
+    {
+     "ini": 79.94,
+     "fin": 80.18,
+     "p": "to"
+    },
+    {
+     "ini": 80.18,
+     "fin": 80.41,
+     "p": "put"
+    },
+    {
+     "ini": 80.41,
+     "fin": 80.65,
+     "p": "me"
+    },
+    {
+     "ini": 80.65,
+     "fin": 80.88,
+     "p": "up"
+    },
+    {
+     "ini": 80.88,
+     "fin": 81.11,
+     "p": "for"
+    },
+    {
+     "ini": 81.11,
+     "fin": 82.36,
+     "p": "adoption."
+    }
+   ]
+  },
+  {
+   "ini": 82.36,
+   "fin": 91.74,
+   "texto": "She felt very strongly that I should be adopted by college graduates, so everything was all set for me to be adopted at birth by a lawyer and his wife.",
+   "palabras": [
+    {
+     "ini": 82.36,
+     "fin": 82.68,
+     "p": "She"
+    },
+    {
+     "ini": 82.68,
+     "fin": 83.0,
+     "p": "felt"
+    },
+    {
+     "ini": 83.0,
+     "fin": 83.33,
+     "p": "very"
+    },
+    {
+     "ini": 83.33,
+     "fin": 83.65,
+     "p": "strongly"
+    },
+    {
+     "ini": 83.65,
+     "fin": 83.97,
+     "p": "that"
+    },
+    {
+     "ini": 83.97,
+     "fin": 84.29,
+     "p": "I"
+    },
+    {
+     "ini": 84.29,
+     "fin": 84.62,
+     "p": "should"
+    },
+    {
+     "ini": 84.62,
+     "fin": 84.94,
+     "p": "be"
+    },
+    {
+     "ini": 84.94,
+     "fin": 85.26,
+     "p": "adopted"
+    },
+    {
+     "ini": 85.26,
+     "fin": 85.58,
+     "p": "by"
+    },
+    {
+     "ini": 85.58,
+     "fin": 85.91,
+     "p": "college"
+    },
+    {
+     "ini": 85.91,
+     "fin": 86.31,
+     "p": "graduates,"
+    },
+    {
+     "ini": 86.31,
+     "fin": 86.6,
+     "p": "so"
+    },
+    {
+     "ini": 86.6,
+     "fin": 86.88,
+     "p": "everything"
+    },
+    {
+     "ini": 86.88,
+     "fin": 87.17,
+     "p": "was"
+    },
+    {
+     "ini": 87.17,
+     "fin": 87.46,
+     "p": "all"
+    },
+    {
+     "ini": 87.46,
+     "fin": 87.75,
+     "p": "set"
+    },
+    {
+     "ini": 87.75,
+     "fin": 88.03,
+     "p": "for"
+    },
+    {
+     "ini": 88.03,
+     "fin": 88.32,
+     "p": "me"
+    },
+    {
+     "ini": 88.32,
+     "fin": 88.61,
+     "p": "to"
+    },
+    {
+     "ini": 88.61,
+     "fin": 88.86,
+     "p": "be"
+    },
+    {
+     "ini": 88.86,
+     "fin": 89.11,
+     "p": "adopted"
+    },
+    {
+     "ini": 89.11,
+     "fin": 89.36,
+     "p": "at"
+    },
+    {
+     "ini": 89.36,
+     "fin": 89.6,
+     "p": "birth"
+    },
+    {
+     "ini": 89.6,
+     "fin": 89.85,
+     "p": "by"
+    },
+    {
+     "ini": 89.85,
+     "fin": 90.1,
+     "p": "a"
+    },
+    {
+     "ini": 90.1,
+     "fin": 90.35,
+     "p": "lawyer"
+    },
+    {
+     "ini": 90.35,
+     "fin": 90.6,
+     "p": "and"
+    },
+    {
+     "ini": 90.6,
+     "fin": 90.85,
+     "p": "his"
+    },
+    {
+     "ini": 90.85,
+     "fin": 91.74,
+     "p": "wife."
+    }
+   ]
+  },
+  {
+   "ini": 91.74,
+   "fin": 97.92,
+   "texto": "Except that when I popped out they decided at the last minute that they really wanted a girl.",
+   "palabras": [
+    {
+     "ini": 91.74,
+     "fin": 92.04,
+     "p": "Except"
+    },
+    {
+     "ini": 92.04,
+     "fin": 92.34,
+     "p": "that"
+    },
+    {
+     "ini": 92.34,
+     "fin": 92.64,
+     "p": "when"
+    },
+    {
+     "ini": 92.64,
+     "fin": 92.94,
+     "p": "I"
+    },
+    {
+     "ini": 92.94,
+     "fin": 93.25,
+     "p": "popped"
+    },
+    {
+     "ini": 93.25,
+     "fin": 93.55,
+     "p": "out"
+    },
+    {
+     "ini": 93.55,
+     "fin": 93.85,
+     "p": "they"
+    },
+    {
+     "ini": 93.85,
+     "fin": 94.15,
+     "p": "decided"
+    },
+    {
+     "ini": 94.15,
+     "fin": 94.49,
+     "p": "at"
+    },
+    {
+     "ini": 94.49,
+     "fin": 94.83,
+     "p": "the"
+    },
+    {
+     "ini": 94.83,
+     "fin": 95.17,
+     "p": "last"
+    },
+    {
+     "ini": 95.17,
+     "fin": 95.51,
+     "p": "minute"
+    },
+    {
+     "ini": 95.51,
+     "fin": 95.85,
+     "p": "that"
+    },
+    {
+     "ini": 95.85,
+     "fin": 96.19,
+     "p": "they"
+    },
+    {
+     "ini": 96.19,
+     "fin": 96.53,
+     "p": "really"
+    },
+    {
+     "ini": 96.53,
+     "fin": 96.87,
+     "p": "wanted"
+    },
+    {
+     "ini": 96.87,
+     "fin": 97.21,
+     "p": "a"
+    },
+    {
+     "ini": 97.21,
+     "fin": 97.92,
+     "p": "girl."
+    }
+   ]
+  },
+  {
+   "ini": 97.92,
+   "fin": 107.94,
+   "texto": "So my parents, who were on a waiting list, got a call in the middle of the night asking: \"We have an unexpected baby boy; do you want him?\" They",
+   "palabras": [
+    {
+     "ini": 97.92,
+     "fin": 98.16,
+     "p": "So"
+    },
+    {
+     "ini": 98.16,
+     "fin": 98.39,
+     "p": "my"
+    },
+    {
+     "ini": 98.39,
+     "fin": 98.63,
+     "p": "parents,"
+    },
+    {
+     "ini": 98.63,
+     "fin": 98.87,
+     "p": "who"
+    },
+    {
+     "ini": 98.87,
+     "fin": 99.1,
+     "p": "were"
+    },
+    {
+     "ini": 99.1,
+     "fin": 99.34,
+     "p": "on"
+    },
+    {
+     "ini": 99.34,
+     "fin": 99.58,
+     "p": "a"
+    },
+    {
+     "ini": 99.58,
+     "fin": 99.81,
+     "p": "waiting"
+    },
+    {
+     "ini": 99.81,
+     "fin": 100.16,
+     "p": "list,"
+    },
+    {
+     "ini": 100.16,
+     "fin": 100.47,
+     "p": "got"
+    },
+    {
+     "ini": 100.47,
+     "fin": 100.78,
+     "p": "a"
+    },
+    {
+     "ini": 100.78,
+     "fin": 101.08,
+     "p": "call"
+    },
+    {
+     "ini": 101.08,
+     "fin": 101.39,
+     "p": "in"
+    },
+    {
+     "ini": 101.39,
+     "fin": 101.7,
+     "p": "the"
+    },
+    {
+     "ini": 101.7,
+     "fin": 102.01,
+     "p": "middle"
+    },
+    {
+     "ini": 102.01,
+     "fin": 102.31,
+     "p": "of"
+    },
+    {
+     "ini": 102.31,
+     "fin": 102.62,
+     "p": "the"
+    },
+    {
+     "ini": 102.62,
+     "fin": 102.93,
+     "p": "night"
+    },
+    {
+     "ini": 102.93,
+     "fin": 103.24,
+     "p": "asking:"
+    },
+    {
+     "ini": 103.24,
+     "fin": 103.55,
+     "p": "\"We"
+    },
+    {
+     "ini": 103.55,
+     "fin": 103.85,
+     "p": "have"
+    },
+    {
+     "ini": 103.85,
+     "fin": 104.16,
+     "p": "an"
+    },
+    {
+     "ini": 104.16,
+     "fin": 104.47,
+     "p": "unexpected"
+    },
+    {
+     "ini": 104.47,
+     "fin": 104.88,
+     "p": "baby"
+    },
+    {
+     "ini": 104.88,
+     "fin": 105.29,
+     "p": "boy;"
+    },
+    {
+     "ini": 105.29,
+     "fin": 105.69,
+     "p": "do"
+    },
+    {
+     "ini": 105.69,
+     "fin": 106.1,
+     "p": "you"
+    },
+    {
+     "ini": 106.1,
+     "fin": 106.51,
+     "p": "want"
+    },
+    {
+     "ini": 106.51,
+     "fin": 107.43,
+     "p": "him?\""
+    },
+    {
+     "ini": 107.43,
+     "fin": 107.94,
+     "p": "They"
+    }
+   ]
+  },
+  {
+   "ini": 107.94,
+   "fin": 119.16,
+   "texto": "said: \"Of course.\" My biological mother later found out that my mother had never graduated from college and that my father had never graduated from high school.",
+   "palabras": [
+    {
+     "ini": 107.94,
+     "fin": 108.46,
+     "p": "said:"
+    },
+    {
+     "ini": 108.46,
+     "fin": 108.97,
+     "p": "\"Of"
+    },
+    {
+     "ini": 108.97,
+     "fin": 109.48,
+     "p": "course.\""
+    },
+    {
+     "ini": 109.48,
+     "fin": 110.0,
+     "p": "My"
+    },
+    {
+     "ini": 110.0,
+     "fin": 110.51,
+     "p": "biological"
+    },
+    {
+     "ini": 110.51,
+     "fin": 111.02,
+     "p": "mother"
+    },
+    {
+     "ini": 111.02,
+     "fin": 111.53,
+     "p": "later"
+    },
+    {
+     "ini": 111.53,
+     "fin": 112.05,
+     "p": "found"
+    },
+    {
+     "ini": 112.05,
+     "fin": 112.56,
+     "p": "out"
+    },
+    {
+     "ini": 112.56,
+     "fin": 113.3,
+     "p": "that"
+    },
+    {
+     "ini": 113.3,
+     "fin": 113.59,
+     "p": "my"
+    },
+    {
+     "ini": 113.59,
+     "fin": 113.87,
+     "p": "mother"
+    },
+    {
+     "ini": 113.87,
+     "fin": 114.16,
+     "p": "had"
+    },
+    {
+     "ini": 114.16,
+     "fin": 114.45,
+     "p": "never"
+    },
+    {
+     "ini": 114.45,
+     "fin": 114.73,
+     "p": "graduated"
+    },
+    {
+     "ini": 114.73,
+     "fin": 115.02,
+     "p": "from"
+    },
+    {
+     "ini": 115.02,
+     "fin": 115.31,
+     "p": "college"
+    },
+    {
+     "ini": 115.31,
+     "fin": 115.63,
+     "p": "and"
+    },
+    {
+     "ini": 115.63,
+     "fin": 115.94,
+     "p": "that"
+    },
+    {
+     "ini": 115.94,
+     "fin": 116.26,
+     "p": "my"
+    },
+    {
+     "ini": 116.26,
+     "fin": 116.57,
+     "p": "father"
+    },
+    {
+     "ini": 116.57,
+     "fin": 116.89,
+     "p": "had"
+    },
+    {
+     "ini": 116.89,
+     "fin": 117.21,
+     "p": "never"
+    },
+    {
+     "ini": 117.21,
+     "fin": 117.52,
+     "p": "graduated"
+    },
+    {
+     "ini": 117.52,
+     "fin": 117.84,
+     "p": "from"
+    },
+    {
+     "ini": 117.84,
+     "fin": 118.15,
+     "p": "high"
+    },
+    {
+     "ini": 118.15,
+     "fin": 119.16,
+     "p": "school."
+    }
+   ]
+  },
+  {
+   "ini": 119.16,
+   "fin": 123.43,
+   "texto": "She refused to sign the final adoption papers.",
+   "palabras": [
+    {
+     "ini": 119.16,
+     "fin": 119.57,
+     "p": "She"
+    },
+    {
+     "ini": 119.57,
+     "fin": 119.98,
+     "p": "refused"
+    },
+    {
+     "ini": 119.98,
+     "fin": 120.39,
+     "p": "to"
+    },
+    {
+     "ini": 120.39,
+     "fin": 120.8,
+     "p": "sign"
+    },
+    {
+     "ini": 120.8,
+     "fin": 121.22,
+     "p": "the"
+    },
+    {
+     "ini": 121.22,
+     "fin": 121.63,
+     "p": "final"
+    },
+    {
+     "ini": 121.63,
+     "fin": 122.04,
+     "p": "adoption"
+    },
+    {
+     "ini": 122.04,
+     "fin": 123.43,
+     "p": "papers."
+    }
+   ]
+  },
+  {
+   "ini": 123.43,
+   "fin": 129.39,
+   "texto": "She only relented a few months later when my parents promised that I would go to college.",
+   "palabras": [
+    {
+     "ini": 123.43,
+     "fin": 123.67,
+     "p": "She"
+    },
+    {
+     "ini": 123.67,
+     "fin": 123.92,
+     "p": "only"
+    },
+    {
+     "ini": 123.92,
+     "fin": 124.16,
+     "p": "relented"
+    },
+    {
+     "ini": 124.16,
+     "fin": 124.41,
+     "p": "a"
+    },
+    {
+     "ini": 124.41,
+     "fin": 124.65,
+     "p": "few"
+    },
+    {
+     "ini": 124.65,
+     "fin": 124.9,
+     "p": "months"
+    },
+    {
+     "ini": 124.9,
+     "fin": 125.14,
+     "p": "later"
+    },
+    {
+     "ini": 125.14,
+     "fin": 125.39,
+     "p": "when"
+    },
+    {
+     "ini": 125.39,
+     "fin": 125.83,
+     "p": "my"
+    },
+    {
+     "ini": 125.83,
+     "fin": 126.28,
+     "p": "parents"
+    },
+    {
+     "ini": 126.28,
+     "fin": 126.72,
+     "p": "promised"
+    },
+    {
+     "ini": 126.72,
+     "fin": 127.17,
+     "p": "that"
+    },
+    {
+     "ini": 127.17,
+     "fin": 127.61,
+     "p": "I"
+    },
+    {
+     "ini": 127.61,
+     "fin": 128.06,
+     "p": "would"
+    },
+    {
+     "ini": 128.06,
+     "fin": 128.5,
+     "p": "go"
+    },
+    {
+     "ini": 128.5,
+     "fin": 128.95,
+     "p": "to"
+    },
+    {
+     "ini": 128.95,
+     "fin": 129.39,
+     "p": "college."
+    }
+   ]
+  },
+  {
+   "ini": 129.39,
+   "fin": 136.62,
+   "texto": "This was the start in my life. And 17 years later I did go to college.",
+   "palabras": [
+    {
+     "ini": 129.39,
+     "fin": 129.84,
+     "p": "This"
+    },
+    {
+     "ini": 129.84,
+     "fin": 130.28,
+     "p": "was"
+    },
+    {
+     "ini": 130.28,
+     "fin": 130.73,
+     "p": "the"
+    },
+    {
+     "ini": 130.73,
+     "fin": 131.17,
+     "p": "start"
+    },
+    {
+     "ini": 131.17,
+     "fin": 131.62,
+     "p": "in"
+    },
+    {
+     "ini": 131.62,
+     "fin": 132.06,
+     "p": "my"
+    },
+    {
+     "ini": 132.06,
+     "fin": 132.54,
+     "p": "life."
+    },
+    {
+     "ini": 132.54,
+     "fin": 132.99,
+     "p": "And"
+    },
+    {
+     "ini": 132.99,
+     "fin": 133.45,
+     "p": "17"
+    },
+    {
+     "ini": 133.45,
+     "fin": 133.9,
+     "p": "years"
+    },
+    {
+     "ini": 133.9,
+     "fin": 134.35,
+     "p": "later"
+    },
+    {
+     "ini": 134.35,
+     "fin": 134.81,
+     "p": "I"
+    },
+    {
+     "ini": 134.81,
+     "fin": 135.26,
+     "p": "did"
+    },
+    {
+     "ini": 135.26,
+     "fin": 135.71,
+     "p": "go"
+    },
+    {
+     "ini": 135.71,
+     "fin": 136.17,
+     "p": "to"
+    },
+    {
+     "ini": 136.17,
+     "fin": 136.62,
+     "p": "college."
+    }
+   ]
+  },
+  {
+   "ini": 136.62,
+   "fin": 147.61,
+   "texto": "But I naively chose a college that was almost as expensive as Stanford, and all of my working-class parents' savings were being spent on my college tuition.",
+   "palabras": [
+    {
+     "ini": 136.62,
+     "fin": 137.07,
+     "p": "But"
+    },
+    {
+     "ini": 137.07,
+     "fin": 137.53,
+     "p": "I"
+    },
+    {
+     "ini": 137.53,
+     "fin": 137.98,
+     "p": "naively"
+    },
+    {
+     "ini": 137.98,
+     "fin": 138.43,
+     "p": "chose"
+    },
+    {
+     "ini": 138.43,
+     "fin": 138.89,
+     "p": "a"
+    },
+    {
+     "ini": 138.89,
+     "fin": 139.34,
+     "p": "college"
+    },
+    {
+     "ini": 139.34,
+     "fin": 139.67,
+     "p": "that"
+    },
+    {
+     "ini": 139.67,
+     "fin": 140.0,
+     "p": "was"
+    },
+    {
+     "ini": 140.0,
+     "fin": 140.33,
+     "p": "almost"
+    },
+    {
+     "ini": 140.33,
+     "fin": 140.67,
+     "p": "as"
+    },
+    {
+     "ini": 140.67,
+     "fin": 141.0,
+     "p": "expensive"
+    },
+    {
+     "ini": 141.0,
+     "fin": 141.33,
+     "p": "as"
+    },
+    {
+     "ini": 141.33,
+     "fin": 142.47,
+     "p": "Stanford,"
+    },
+    {
+     "ini": 142.47,
+     "fin": 142.78,
+     "p": "and"
+    },
+    {
+     "ini": 142.78,
+     "fin": 143.08,
+     "p": "all"
+    },
+    {
+     "ini": 143.08,
+     "fin": 143.39,
+     "p": "of"
+    },
+    {
+     "ini": 143.39,
+     "fin": 143.7,
+     "p": "my"
+    },
+    {
+     "ini": 143.7,
+     "fin": 144.0,
+     "p": "working-class"
+    },
+    {
+     "ini": 144.0,
+     "fin": 144.31,
+     "p": "parents'"
+    },
+    {
+     "ini": 144.31,
+     "fin": 144.62,
+     "p": "savings"
+    },
+    {
+     "ini": 144.62,
+     "fin": 144.93,
+     "p": "were"
+    },
+    {
+     "ini": 144.93,
+     "fin": 145.24,
+     "p": "being"
+    },
+    {
+     "ini": 145.24,
+     "fin": 145.54,
+     "p": "spent"
+    },
+    {
+     "ini": 145.54,
+     "fin": 145.85,
+     "p": "on"
+    },
+    {
+     "ini": 145.85,
+     "fin": 146.16,
+     "p": "my"
+    },
+    {
+     "ini": 146.16,
+     "fin": 146.47,
+     "p": "college"
+    },
+    {
+     "ini": 146.47,
+     "fin": 147.61,
+     "p": "tuition."
+    }
+   ]
+  },
+  {
+   "ini": 147.61,
+   "fin": 150.72,
+   "texto": "After six months, I couldn't see the value in it.",
+   "palabras": [
+    {
+     "ini": 147.61,
+     "fin": 147.89,
+     "p": "After"
+    },
+    {
+     "ini": 147.89,
+     "fin": 148.17,
+     "p": "six"
+    },
+    {
+     "ini": 148.17,
+     "fin": 148.45,
+     "p": "months,"
+    },
+    {
+     "ini": 148.45,
+     "fin": 148.73,
+     "p": "I"
+    },
+    {
+     "ini": 148.73,
+     "fin": 149.01,
+     "p": "couldn't"
+    },
+    {
+     "ini": 149.01,
+     "fin": 149.29,
+     "p": "see"
+    },
+    {
+     "ini": 149.29,
+     "fin": 149.57,
+     "p": "the"
+    },
+    {
+     "ini": 149.57,
+     "fin": 149.85,
+     "p": "value"
+    },
+    {
+     "ini": 149.85,
+     "fin": 150.13,
+     "p": "in"
+    },
+    {
+     "ini": 150.13,
+     "fin": 150.72,
+     "p": "it."
+    }
+   ]
+  },
+  {
+   "ini": 150.72,
+   "fin": 156.85,
+   "texto": "I had no idea what I wanted to do with my life and no idea how college was going to help me figure it out.",
+   "palabras": [
+    {
+     "ini": 150.72,
+     "fin": 150.89,
+     "p": "I"
+    },
+    {
+     "ini": 150.89,
+     "fin": 151.06,
+     "p": "had"
+    },
+    {
+     "ini": 151.06,
+     "fin": 151.23,
+     "p": "no"
+    },
+    {
+     "ini": 151.23,
+     "fin": 151.4,
+     "p": "idea"
+    },
+    {
+     "ini": 151.4,
+     "fin": 151.57,
+     "p": "what"
+    },
+    {
+     "ini": 151.57,
+     "fin": 151.74,
+     "p": "I"
+    },
+    {
+     "ini": 151.74,
+     "fin": 151.91,
+     "p": "wanted"
+    },
+    {
+     "ini": 151.91,
+     "fin": 152.08,
+     "p": "to"
+    },
+    {
+     "ini": 152.08,
+     "fin": 152.25,
+     "p": "do"
+    },
+    {
+     "ini": 152.25,
+     "fin": 152.42,
+     "p": "with"
+    },
+    {
+     "ini": 152.42,
+     "fin": 152.59,
+     "p": "my"
+    },
+    {
+     "ini": 152.59,
+     "fin": 152.76,
+     "p": "life"
+    },
+    {
+     "ini": 152.76,
+     "fin": 153.04,
+     "p": "and"
+    },
+    {
+     "ini": 153.04,
+     "fin": 153.32,
+     "p": "no"
+    },
+    {
+     "ini": 153.32,
+     "fin": 153.6,
+     "p": "idea"
+    },
+    {
+     "ini": 153.6,
+     "fin": 153.87,
+     "p": "how"
+    },
+    {
+     "ini": 153.87,
+     "fin": 154.15,
+     "p": "college"
+    },
+    {
+     "ini": 154.15,
+     "fin": 154.43,
+     "p": "was"
+    },
+    {
+     "ini": 154.43,
+     "fin": 154.71,
+     "p": "going"
+    },
+    {
+     "ini": 154.71,
+     "fin": 154.99,
+     "p": "to"
+    },
+    {
+     "ini": 154.99,
+     "fin": 155.27,
+     "p": "help"
+    },
+    {
+     "ini": 155.27,
+     "fin": 155.54,
+     "p": "me"
+    },
+    {
+     "ini": 155.54,
+     "fin": 155.82,
+     "p": "figure"
+    },
+    {
+     "ini": 155.82,
+     "fin": 156.1,
+     "p": "it"
+    },
+    {
+     "ini": 156.1,
+     "fin": 156.85,
+     "p": "out."
+    }
+   ]
+  },
+  {
+   "ini": 156.85,
+   "fin": 162.2,
+   "texto": "And here I was spending all of the money my parents had saved their entire life.",
+   "palabras": [
+    {
+     "ini": 156.85,
+     "fin": 157.1,
+     "p": "And"
+    },
+    {
+     "ini": 157.1,
+     "fin": 157.35,
+     "p": "here"
+    },
+    {
+     "ini": 157.35,
+     "fin": 157.6,
+     "p": "I"
+    },
+    {
+     "ini": 157.6,
+     "fin": 157.85,
+     "p": "was"
+    },
+    {
+     "ini": 157.85,
+     "fin": 158.1,
+     "p": "spending"
+    },
+    {
+     "ini": 158.1,
+     "fin": 158.34,
+     "p": "all"
+    },
+    {
+     "ini": 158.34,
+     "fin": 158.59,
+     "p": "of"
+    },
+    {
+     "ini": 158.59,
+     "fin": 158.84,
+     "p": "the"
+    },
+    {
+     "ini": 158.84,
+     "fin": 159.09,
+     "p": "money"
+    },
+    {
+     "ini": 159.09,
+     "fin": 159.34,
+     "p": "my"
+    },
+    {
+     "ini": 159.34,
+     "fin": 159.59,
+     "p": "parents"
+    },
+    {
+     "ini": 159.59,
+     "fin": 159.84,
+     "p": "had"
+    },
+    {
+     "ini": 159.84,
+     "fin": 160.29,
+     "p": "saved"
+    },
+    {
+     "ini": 160.29,
+     "fin": 160.49,
+     "p": "their"
+    },
+    {
+     "ini": 160.49,
+     "fin": 160.7,
+     "p": "entire"
+    },
+    {
+     "ini": 160.7,
+     "fin": 162.2,
+     "p": "life."
+    }
+   ]
+  },
+  {
+   "ini": 162.6,
+   "fin": 166.94,
+   "texto": "So I decided to drop out and trust that it would all work out OK.",
+   "palabras": [
+    {
+     "ini": 162.6,
+     "fin": 162.89,
+     "p": "So"
+    },
+    {
+     "ini": 162.89,
+     "fin": 163.18,
+     "p": "I"
+    },
+    {
+     "ini": 163.18,
+     "fin": 163.47,
+     "p": "decided"
+    },
+    {
+     "ini": 163.47,
+     "fin": 163.76,
+     "p": "to"
+    },
+    {
+     "ini": 163.76,
+     "fin": 164.05,
+     "p": "drop"
+    },
+    {
+     "ini": 164.05,
+     "fin": 164.34,
+     "p": "out"
+    },
+    {
+     "ini": 164.34,
+     "fin": 164.62,
+     "p": "and"
+    },
+    {
+     "ini": 164.62,
+     "fin": 164.91,
+     "p": "trust"
+    },
+    {
+     "ini": 164.91,
+     "fin": 165.2,
+     "p": "that"
+    },
+    {
+     "ini": 165.2,
+     "fin": 165.49,
+     "p": "it"
+    },
+    {
+     "ini": 165.49,
+     "fin": 165.78,
+     "p": "would"
+    },
+    {
+     "ini": 165.78,
+     "fin": 166.07,
+     "p": "all"
+    },
+    {
+     "ini": 166.07,
+     "fin": 166.36,
+     "p": "work"
+    },
+    {
+     "ini": 166.36,
+     "fin": 166.65,
+     "p": "out"
+    },
+    {
+     "ini": 166.65,
+     "fin": 166.94,
+     "p": "OK."
+    }
+   ]
+  },
+  {
+   "ini": 166.94,
+   "fin": 174.05,
+   "texto": "It was pretty scary at the time, but looking back it was one of the best decisions I ever made.",
+   "palabras": [
+    {
+     "ini": 166.94,
+     "fin": 167.29,
+     "p": "It"
+    },
+    {
+     "ini": 167.29,
+     "fin": 167.64,
+     "p": "was"
+    },
+    {
+     "ini": 167.64,
+     "fin": 167.99,
+     "p": "pretty"
+    },
+    {
+     "ini": 167.99,
+     "fin": 168.34,
+     "p": "scary"
+    },
+    {
+     "ini": 168.34,
+     "fin": 168.7,
+     "p": "at"
+    },
+    {
+     "ini": 168.7,
+     "fin": 169.05,
+     "p": "the"
+    },
+    {
+     "ini": 169.05,
+     "fin": 169.4,
+     "p": "time,"
+    },
+    {
+     "ini": 169.4,
+     "fin": 169.66,
+     "p": "but"
+    },
+    {
+     "ini": 169.66,
+     "fin": 169.92,
+     "p": "looking"
+    },
+    {
+     "ini": 169.92,
+     "fin": 170.19,
+     "p": "back"
+    },
+    {
+     "ini": 170.19,
+     "fin": 170.45,
+     "p": "it"
+    },
+    {
+     "ini": 170.45,
+     "fin": 170.71,
+     "p": "was"
+    },
+    {
+     "ini": 170.71,
+     "fin": 170.97,
+     "p": "one"
+    },
+    {
+     "ini": 170.97,
+     "fin": 171.23,
+     "p": "of"
+    },
+    {
+     "ini": 171.23,
+     "fin": 171.5,
+     "p": "the"
+    },
+    {
+     "ini": 171.5,
+     "fin": 171.76,
+     "p": "best"
+    },
+    {
+     "ini": 171.76,
+     "fin": 172.02,
+     "p": "decisions"
+    },
+    {
+     "ini": 172.02,
+     "fin": 172.28,
+     "p": "I"
+    },
+    {
+     "ini": 172.28,
+     "fin": 172.55,
+     "p": "ever"
+    },
+    {
+     "ini": 172.55,
+     "fin": 174.05,
+     "p": "made."
+    }
+   ]
+  },
+  {
+   "ini": 174.08,
+   "fin": 184.71,
+   "texto": "The minute I dropped out I could stop taking the required classes that didn't interest me, and begin dropping in on the ones that looked interesting.",
+   "palabras": [
+    {
+     "ini": 174.08,
+     "fin": 174.41,
+     "p": "The"
+    },
+    {
+     "ini": 174.41,
+     "fin": 174.73,
+     "p": "minute"
+    },
+    {
+     "ini": 174.73,
+     "fin": 175.06,
+     "p": "I"
+    },
+    {
+     "ini": 175.06,
+     "fin": 175.38,
+     "p": "dropped"
+    },
+    {
+     "ini": 175.38,
+     "fin": 175.71,
+     "p": "out"
+    },
+    {
+     "ini": 175.71,
+     "fin": 176.04,
+     "p": "I"
+    },
+    {
+     "ini": 176.04,
+     "fin": 176.36,
+     "p": "could"
+    },
+    {
+     "ini": 176.36,
+     "fin": 176.69,
+     "p": "stop"
+    },
+    {
+     "ini": 176.69,
+     "fin": 177.04,
+     "p": "taking"
+    },
+    {
+     "ini": 177.04,
+     "fin": 177.39,
+     "p": "the"
+    },
+    {
+     "ini": 177.39,
+     "fin": 177.74,
+     "p": "required"
+    },
+    {
+     "ini": 177.74,
+     "fin": 178.09,
+     "p": "classes"
+    },
+    {
+     "ini": 178.09,
+     "fin": 178.44,
+     "p": "that"
+    },
+    {
+     "ini": 178.44,
+     "fin": 178.79,
+     "p": "didn't"
+    },
+    {
+     "ini": 178.79,
+     "fin": 179.13,
+     "p": "interest"
+    },
+    {
+     "ini": 179.13,
+     "fin": 179.74,
+     "p": "me,"
+    },
+    {
+     "ini": 179.74,
+     "fin": 180.13,
+     "p": "and"
+    },
+    {
+     "ini": 180.13,
+     "fin": 180.51,
+     "p": "begin"
+    },
+    {
+     "ini": 180.51,
+     "fin": 180.9,
+     "p": "dropping"
+    },
+    {
+     "ini": 180.9,
+     "fin": 181.28,
+     "p": "in"
+    },
+    {
+     "ini": 181.28,
+     "fin": 181.67,
+     "p": "on"
+    },
+    {
+     "ini": 181.67,
+     "fin": 182.06,
+     "p": "the"
+    },
+    {
+     "ini": 182.06,
+     "fin": 182.44,
+     "p": "ones"
+    },
+    {
+     "ini": 182.44,
+     "fin": 182.83,
+     "p": "that"
+    },
+    {
+     "ini": 182.83,
+     "fin": 183.21,
+     "p": "looked"
+    },
+    {
+     "ini": 183.21,
+     "fin": 184.71,
+     "p": "interesting."
+    }
+   ]
+  },
+  {
+   "ini": 184.76,
+   "fin": 193.63,
+   "texto": "It wasn't all romantic. I didn't have a dorm room, so I slept on the floor in friends' rooms, I returned coke bottles for the 5 cent deposits to buy",
+   "palabras": [
+    {
+     "ini": 184.76,
+     "fin": 185.09,
+     "p": "It"
+    },
+    {
+     "ini": 185.09,
+     "fin": 185.43,
+     "p": "wasn't"
+    },
+    {
+     "ini": 185.43,
+     "fin": 185.76,
+     "p": "all"
+    },
+    {
+     "ini": 185.76,
+     "fin": 186.1,
+     "p": "romantic."
+    },
+    {
+     "ini": 186.1,
+     "fin": 186.43,
+     "p": "I"
+    },
+    {
+     "ini": 186.43,
+     "fin": 186.76,
+     "p": "didn't"
+    },
+    {
+     "ini": 186.76,
+     "fin": 187.1,
+     "p": "have"
+    },
+    {
+     "ini": 187.1,
+     "fin": 187.43,
+     "p": "a"
+    },
+    {
+     "ini": 187.43,
+     "fin": 187.77,
+     "p": "dorm"
+    },
+    {
+     "ini": 187.77,
+     "fin": 188.17,
+     "p": "room,"
+    },
+    {
+     "ini": 188.17,
+     "fin": 188.43,
+     "p": "so"
+    },
+    {
+     "ini": 188.43,
+     "fin": 188.69,
+     "p": "I"
+    },
+    {
+     "ini": 188.69,
+     "fin": 188.95,
+     "p": "slept"
+    },
+    {
+     "ini": 188.95,
+     "fin": 189.2,
+     "p": "on"
+    },
+    {
+     "ini": 189.2,
+     "fin": 189.46,
+     "p": "the"
+    },
+    {
+     "ini": 189.46,
+     "fin": 189.72,
+     "p": "floor"
+    },
+    {
+     "ini": 189.72,
+     "fin": 189.98,
+     "p": "in"
+    },
+    {
+     "ini": 189.98,
+     "fin": 190.24,
+     "p": "friends'"
+    },
+    {
+     "ini": 190.24,
+     "fin": 190.59,
+     "p": "rooms,"
+    },
+    {
+     "ini": 190.59,
+     "fin": 190.87,
+     "p": "I"
+    },
+    {
+     "ini": 190.87,
+     "fin": 191.14,
+     "p": "returned"
+    },
+    {
+     "ini": 191.14,
+     "fin": 191.42,
+     "p": "coke"
+    },
+    {
+     "ini": 191.42,
+     "fin": 191.69,
+     "p": "bottles"
+    },
+    {
+     "ini": 191.69,
+     "fin": 191.97,
+     "p": "for"
+    },
+    {
+     "ini": 191.97,
+     "fin": 192.25,
+     "p": "the"
+    },
+    {
+     "ini": 192.25,
+     "fin": 192.52,
+     "p": "5"
+    },
+    {
+     "ini": 192.52,
+     "fin": 192.8,
+     "p": "cent"
+    },
+    {
+     "ini": 192.8,
+     "fin": 193.07,
+     "p": "deposits"
+    },
+    {
+     "ini": 193.07,
+     "fin": 193.35,
+     "p": "to"
+    },
+    {
+     "ini": 193.35,
+     "fin": 193.63,
+     "p": "buy"
+    }
+   ]
+  },
+  {
+   "ini": 193.63,
+   "fin": 201.63,
+   "texto": "food with, and I would walk the 7 miles across town every Sunday night to get one good meal a week at the Hare Krishna temple.",
+   "palabras": [
+    {
+     "ini": 193.63,
+     "fin": 193.9,
+     "p": "food"
+    },
+    {
+     "ini": 193.9,
+     "fin": 194.72,
+     "p": "with,"
+    },
+    {
+     "ini": 194.72,
+     "fin": 194.95,
+     "p": "and"
+    },
+    {
+     "ini": 194.95,
+     "fin": 195.19,
+     "p": "I"
+    },
+    {
+     "ini": 195.19,
+     "fin": 195.42,
+     "p": "would"
+    },
+    {
+     "ini": 195.42,
+     "fin": 195.65,
+     "p": "walk"
+    },
+    {
+     "ini": 195.65,
+     "fin": 195.88,
+     "p": "the"
+    },
+    {
+     "ini": 195.88,
+     "fin": 196.12,
+     "p": "7"
+    },
+    {
+     "ini": 196.12,
+     "fin": 196.35,
+     "p": "miles"
+    },
+    {
+     "ini": 196.35,
+     "fin": 196.58,
+     "p": "across"
+    },
+    {
+     "ini": 196.58,
+     "fin": 196.81,
+     "p": "town"
+    },
+    {
+     "ini": 196.81,
+     "fin": 197.05,
+     "p": "every"
+    },
+    {
+     "ini": 197.05,
+     "fin": 197.28,
+     "p": "Sunday"
+    },
+    {
+     "ini": 197.28,
+     "fin": 197.6,
+     "p": "night"
+    },
+    {
+     "ini": 197.6,
+     "fin": 197.91,
+     "p": "to"
+    },
+    {
+     "ini": 197.91,
+     "fin": 198.23,
+     "p": "get"
+    },
+    {
+     "ini": 198.23,
+     "fin": 198.55,
+     "p": "one"
+    },
+    {
+     "ini": 198.55,
+     "fin": 198.86,
+     "p": "good"
+    },
+    {
+     "ini": 198.86,
+     "fin": 199.18,
+     "p": "meal"
+    },
+    {
+     "ini": 199.18,
+     "fin": 199.5,
+     "p": "a"
+    },
+    {
+     "ini": 199.5,
+     "fin": 199.81,
+     "p": "week"
+    },
+    {
+     "ini": 199.81,
+     "fin": 200.13,
+     "p": "at"
+    },
+    {
+     "ini": 200.13,
+     "fin": 200.45,
+     "p": "the"
+    },
+    {
+     "ini": 200.45,
+     "fin": 200.76,
+     "p": "Hare"
+    },
+    {
+     "ini": 200.76,
+     "fin": 201.15,
+     "p": "Krishna"
+    },
+    {
+     "ini": 201.15,
+     "fin": 201.63,
+     "p": "temple."
+    }
+   ]
+  },
+  {
+   "ini": 201.63,
+   "fin": 209.69,
+   "texto": "I loved it. And much of what I stumbled into by following my curiosity and intuition turned out to be priceless later on.",
+   "palabras": [
+    {
+     "ini": 201.63,
+     "fin": 202.11,
+     "p": "I"
+    },
+    {
+     "ini": 202.11,
+     "fin": 202.6,
+     "p": "loved"
+    },
+    {
+     "ini": 202.6,
+     "fin": 203.85,
+     "p": "it."
+    },
+    {
+     "ini": 203.85,
+     "fin": 204.12,
+     "p": "And"
+    },
+    {
+     "ini": 204.12,
+     "fin": 204.39,
+     "p": "much"
+    },
+    {
+     "ini": 204.39,
+     "fin": 204.65,
+     "p": "of"
+    },
+    {
+     "ini": 204.65,
+     "fin": 204.92,
+     "p": "what"
+    },
+    {
+     "ini": 204.92,
+     "fin": 205.19,
+     "p": "I"
+    },
+    {
+     "ini": 205.19,
+     "fin": 205.46,
+     "p": "stumbled"
+    },
+    {
+     "ini": 205.46,
+     "fin": 205.72,
+     "p": "into"
+    },
+    {
+     "ini": 205.72,
+     "fin": 205.99,
+     "p": "by"
+    },
+    {
+     "ini": 205.99,
+     "fin": 206.26,
+     "p": "following"
+    },
+    {
+     "ini": 206.26,
+     "fin": 206.57,
+     "p": "my"
+    },
+    {
+     "ini": 206.57,
+     "fin": 206.88,
+     "p": "curiosity"
+    },
+    {
+     "ini": 206.88,
+     "fin": 207.2,
+     "p": "and"
+    },
+    {
+     "ini": 207.2,
+     "fin": 207.51,
+     "p": "intuition"
+    },
+    {
+     "ini": 207.51,
+     "fin": 207.82,
+     "p": "turned"
+    },
+    {
+     "ini": 207.82,
+     "fin": 208.13,
+     "p": "out"
+    },
+    {
+     "ini": 208.13,
+     "fin": 208.44,
+     "p": "to"
+    },
+    {
+     "ini": 208.44,
+     "fin": 208.75,
+     "p": "be"
+    },
+    {
+     "ini": 208.75,
+     "fin": 209.07,
+     "p": "priceless"
+    },
+    {
+     "ini": 209.07,
+     "fin": 209.38,
+     "p": "later"
+    },
+    {
+     "ini": 209.38,
+     "fin": 209.69,
+     "p": "on."
+    }
+   ]
+  },
+  {
+   "ini": 209.69,
+   "fin": 218.35,
+   "texto": "Let me give you one example: Reed College at that time offered perhaps the best calligraphy instruction in the country.",
+   "palabras": [
+    {
+     "ini": 209.69,
+     "fin": 210.16,
+     "p": "Let"
+    },
+    {
+     "ini": 210.16,
+     "fin": 210.63,
+     "p": "me"
+    },
+    {
+     "ini": 210.63,
+     "fin": 211.09,
+     "p": "give"
+    },
+    {
+     "ini": 211.09,
+     "fin": 211.56,
+     "p": "you"
+    },
+    {
+     "ini": 211.56,
+     "fin": 212.03,
+     "p": "one"
+    },
+    {
+     "ini": 212.03,
+     "fin": 212.5,
+     "p": "example:"
+    },
+    {
+     "ini": 212.5,
+     "fin": 212.97,
+     "p": "Reed"
+    },
+    {
+     "ini": 212.97,
+     "fin": 213.44,
+     "p": "College"
+    },
+    {
+     "ini": 213.44,
+     "fin": 213.91,
+     "p": "at"
+    },
+    {
+     "ini": 213.91,
+     "fin": 214.5,
+     "p": "that"
+    },
+    {
+     "ini": 214.5,
+     "fin": 214.85,
+     "p": "time"
+    },
+    {
+     "ini": 214.85,
+     "fin": 215.2,
+     "p": "offered"
+    },
+    {
+     "ini": 215.2,
+     "fin": 215.55,
+     "p": "perhaps"
+    },
+    {
+     "ini": 215.55,
+     "fin": 215.9,
+     "p": "the"
+    },
+    {
+     "ini": 215.9,
+     "fin": 216.24,
+     "p": "best"
+    },
+    {
+     "ini": 216.24,
+     "fin": 216.59,
+     "p": "calligraphy"
+    },
+    {
+     "ini": 216.59,
+     "fin": 216.94,
+     "p": "instruction"
+    },
+    {
+     "ini": 216.94,
+     "fin": 217.29,
+     "p": "in"
+    },
+    {
+     "ini": 217.29,
+     "fin": 217.64,
+     "p": "the"
+    },
+    {
+     "ini": 217.64,
+     "fin": 218.35,
+     "p": "country."
+    }
+   ]
+  },
+  {
+   "ini": 218.35,
+   "fin": 225.39,
+   "texto": "Throughout the campus every poster, every label on every drawer, was beautifully hand calligraphed.",
+   "palabras": [
+    {
+     "ini": 218.35,
+     "fin": 218.79,
+     "p": "Throughout"
+    },
+    {
+     "ini": 218.79,
+     "fin": 219.23,
+     "p": "the"
+    },
+    {
+     "ini": 219.23,
+     "fin": 219.67,
+     "p": "campus"
+    },
+    {
+     "ini": 219.67,
+     "fin": 220.11,
+     "p": "every"
+    },
+    {
+     "ini": 220.11,
+     "fin": 220.55,
+     "p": "poster,"
+    },
+    {
+     "ini": 220.55,
+     "fin": 220.99,
+     "p": "every"
+    },
+    {
+     "ini": 220.99,
+     "fin": 221.43,
+     "p": "label"
+    },
+    {
+     "ini": 221.43,
+     "fin": 221.87,
+     "p": "on"
+    },
+    {
+     "ini": 221.87,
+     "fin": 222.31,
+     "p": "every"
+    },
+    {
+     "ini": 222.31,
+     "fin": 222.75,
+     "p": "drawer,"
+    },
+    {
+     "ini": 222.75,
+     "fin": 223.34,
+     "p": "was"
+    },
+    {
+     "ini": 223.34,
+     "fin": 223.93,
+     "p": "beautifully"
+    },
+    {
+     "ini": 223.93,
+     "fin": 224.52,
+     "p": "hand"
+    },
+    {
+     "ini": 224.52,
+     "fin": 225.39,
+     "p": "calligraphed."
+    }
+   ]
+  },
+  {
+   "ini": 225.39,
+   "fin": 233.1,
+   "texto": "Because I had dropped out and didn't have to take the normal classes, I decided to take a calligraphy class to learn how to do this.",
+   "palabras": [
+    {
+     "ini": 225.39,
+     "fin": 225.66,
+     "p": "Because"
+    },
+    {
+     "ini": 225.66,
+     "fin": 225.93,
+     "p": "I"
+    },
+    {
+     "ini": 225.93,
+     "fin": 226.2,
+     "p": "had"
+    },
+    {
+     "ini": 226.2,
+     "fin": 226.47,
+     "p": "dropped"
+    },
+    {
+     "ini": 226.47,
+     "fin": 226.74,
+     "p": "out"
+    },
+    {
+     "ini": 226.74,
+     "fin": 227.0,
+     "p": "and"
+    },
+    {
+     "ini": 227.0,
+     "fin": 227.27,
+     "p": "didn't"
+    },
+    {
+     "ini": 227.27,
+     "fin": 227.54,
+     "p": "have"
+    },
+    {
+     "ini": 227.54,
+     "fin": 227.81,
+     "p": "to"
+    },
+    {
+     "ini": 227.81,
+     "fin": 228.08,
+     "p": "take"
+    },
+    {
+     "ini": 228.08,
+     "fin": 228.35,
+     "p": "the"
+    },
+    {
+     "ini": 228.35,
+     "fin": 228.62,
+     "p": "normal"
+    },
+    {
+     "ini": 228.62,
+     "fin": 229.73,
+     "p": "classes,"
+    },
+    {
+     "ini": 229.73,
+     "fin": 229.96,
+     "p": "I"
+    },
+    {
+     "ini": 229.96,
+     "fin": 230.18,
+     "p": "decided"
+    },
+    {
+     "ini": 230.18,
+     "fin": 230.41,
+     "p": "to"
+    },
+    {
+     "ini": 230.41,
+     "fin": 230.64,
+     "p": "take"
+    },
+    {
+     "ini": 230.64,
+     "fin": 230.86,
+     "p": "a"
+    },
+    {
+     "ini": 230.86,
+     "fin": 231.09,
+     "p": "calligraphy"
+    },
+    {
+     "ini": 231.09,
+     "fin": 231.32,
+     "p": "class"
+    },
+    {
+     "ini": 231.32,
+     "fin": 231.54,
+     "p": "to"
+    },
+    {
+     "ini": 231.54,
+     "fin": 231.77,
+     "p": "learn"
+    },
+    {
+     "ini": 231.77,
+     "fin": 232.0,
+     "p": "how"
+    },
+    {
+     "ini": 232.0,
+     "fin": 232.23,
+     "p": "to"
+    },
+    {
+     "ini": 232.23,
+     "fin": 232.45,
+     "p": "do"
+    },
+    {
+     "ini": 232.45,
+     "fin": 233.1,
+     "p": "this."
+    }
+   ]
+  },
+  {
+   "ini": 233.1,
+   "fin": 243.44,
+   "texto": "I learned about serif and san serif typefaces, about varying the amount of space between different letter combinations, about what makes great typography great.",
+   "palabras": [
+    {
+     "ini": 233.1,
+     "fin": 233.47,
+     "p": "I"
+    },
+    {
+     "ini": 233.47,
+     "fin": 233.85,
+     "p": "learned"
+    },
+    {
+     "ini": 233.85,
+     "fin": 234.22,
+     "p": "about"
+    },
+    {
+     "ini": 234.22,
+     "fin": 234.6,
+     "p": "serif"
+    },
+    {
+     "ini": 234.6,
+     "fin": 234.97,
+     "p": "and"
+    },
+    {
+     "ini": 234.97,
+     "fin": 235.35,
+     "p": "san"
+    },
+    {
+     "ini": 235.35,
+     "fin": 235.72,
+     "p": "serif"
+    },
+    {
+     "ini": 235.72,
+     "fin": 236.3,
+     "p": "typefaces,"
+    },
+    {
+     "ini": 236.3,
+     "fin": 236.57,
+     "p": "about"
+    },
+    {
+     "ini": 236.57,
+     "fin": 236.85,
+     "p": "varying"
+    },
+    {
+     "ini": 236.85,
+     "fin": 237.12,
+     "p": "the"
+    },
+    {
+     "ini": 237.12,
+     "fin": 237.4,
+     "p": "amount"
+    },
+    {
+     "ini": 237.4,
+     "fin": 237.67,
+     "p": "of"
+    },
+    {
+     "ini": 237.67,
+     "fin": 237.95,
+     "p": "space"
+    },
+    {
+     "ini": 237.95,
+     "fin": 238.38,
+     "p": "between"
+    },
+    {
+     "ini": 238.38,
+     "fin": 238.81,
+     "p": "different"
+    },
+    {
+     "ini": 238.81,
+     "fin": 239.24,
+     "p": "letter"
+    },
+    {
+     "ini": 239.24,
+     "fin": 239.85,
+     "p": "combinations,"
+    },
+    {
+     "ini": 239.85,
+     "fin": 240.27,
+     "p": "about"
+    },
+    {
+     "ini": 240.27,
+     "fin": 240.7,
+     "p": "what"
+    },
+    {
+     "ini": 240.7,
+     "fin": 241.12,
+     "p": "makes"
+    },
+    {
+     "ini": 241.12,
+     "fin": 241.55,
+     "p": "great"
+    },
+    {
+     "ini": 241.55,
+     "fin": 241.97,
+     "p": "typography"
+    },
+    {
+     "ini": 241.97,
+     "fin": 243.44,
+     "p": "great."
+    }
+   ]
+  },
+  {
+   "ini": 243.44,
+   "fin": 252.21,
+   "texto": "It was beautiful, historical, artistically subtle in a way that science can't capture, and I found it fascinating.",
+   "palabras": [
+    {
+     "ini": 243.44,
+     "fin": 243.97,
+     "p": "It"
+    },
+    {
+     "ini": 243.97,
+     "fin": 244.51,
+     "p": "was"
+    },
+    {
+     "ini": 244.51,
+     "fin": 245.04,
+     "p": "beautiful,"
+    },
+    {
+     "ini": 245.04,
+     "fin": 245.8,
+     "p": "historical,"
+    },
+    {
+     "ini": 245.8,
+     "fin": 246.18,
+     "p": "artistically"
+    },
+    {
+     "ini": 246.18,
+     "fin": 246.55,
+     "p": "subtle"
+    },
+    {
+     "ini": 246.55,
+     "fin": 246.93,
+     "p": "in"
+    },
+    {
+     "ini": 246.93,
+     "fin": 247.3,
+     "p": "a"
+    },
+    {
+     "ini": 247.3,
+     "fin": 247.68,
+     "p": "way"
+    },
+    {
+     "ini": 247.68,
+     "fin": 248.05,
+     "p": "that"
+    },
+    {
+     "ini": 248.05,
+     "fin": 248.43,
+     "p": "science"
+    },
+    {
+     "ini": 248.43,
+     "fin": 248.8,
+     "p": "can't"
+    },
+    {
+     "ini": 248.8,
+     "fin": 249.75,
+     "p": "capture,"
+    },
+    {
+     "ini": 249.75,
+     "fin": 250.09,
+     "p": "and"
+    },
+    {
+     "ini": 250.09,
+     "fin": 250.43,
+     "p": "I"
+    },
+    {
+     "ini": 250.43,
+     "fin": 250.77,
+     "p": "found"
+    },
+    {
+     "ini": 250.77,
+     "fin": 251.11,
+     "p": "it"
+    },
+    {
+     "ini": 251.11,
+     "fin": 252.21,
+     "p": "fascinating."
+    }
+   ]
+  },
+  {
+   "ini": 252.21,
+   "fin": 257.57,
+   "texto": "None of this had even a hope of any practical application in my life.",
+   "palabras": [
+    {
+     "ini": 252.21,
+     "fin": 252.54,
+     "p": "None"
+    },
+    {
+     "ini": 252.54,
+     "fin": 252.87,
+     "p": "of"
+    },
+    {
+     "ini": 252.87,
+     "fin": 253.19,
+     "p": "this"
+    },
+    {
+     "ini": 253.19,
+     "fin": 253.52,
+     "p": "had"
+    },
+    {
+     "ini": 253.52,
+     "fin": 253.85,
+     "p": "even"
+    },
+    {
+     "ini": 253.85,
+     "fin": 254.18,
+     "p": "a"
+    },
+    {
+     "ini": 254.18,
+     "fin": 254.5,
+     "p": "hope"
+    },
+    {
+     "ini": 254.5,
+     "fin": 254.83,
+     "p": "of"
+    },
+    {
+     "ini": 254.83,
+     "fin": 255.16,
+     "p": "any"
+    },
+    {
+     "ini": 255.16,
+     "fin": 255.49,
+     "p": "practical"
+    },
+    {
+     "ini": 255.49,
+     "fin": 255.81,
+     "p": "application"
+    },
+    {
+     "ini": 255.81,
+     "fin": 256.14,
+     "p": "in"
+    },
+    {
+     "ini": 256.14,
+     "fin": 256.47,
+     "p": "my"
+    },
+    {
+     "ini": 256.47,
+     "fin": 257.57,
+     "p": "life."
+    }
+   ]
+  },
+  {
+   "ini": 257.57,
+   "fin": 263.42,
+   "texto": "But ten years later, when we were designing the first Macintosh computer, it all came back to me.",
+   "palabras": [
+    {
+     "ini": 257.57,
+     "fin": 257.87,
+     "p": "But"
+    },
+    {
+     "ini": 257.87,
+     "fin": 258.17,
+     "p": "ten"
+    },
+    {
+     "ini": 258.17,
+     "fin": 258.47,
+     "p": "years"
+    },
+    {
+     "ini": 258.47,
+     "fin": 258.87,
+     "p": "later,"
+    },
+    {
+     "ini": 258.87,
+     "fin": 259.21,
+     "p": "when"
+    },
+    {
+     "ini": 259.21,
+     "fin": 259.56,
+     "p": "we"
+    },
+    {
+     "ini": 259.56,
+     "fin": 259.9,
+     "p": "were"
+    },
+    {
+     "ini": 259.9,
+     "fin": 260.25,
+     "p": "designing"
+    },
+    {
+     "ini": 260.25,
+     "fin": 260.59,
+     "p": "the"
+    },
+    {
+     "ini": 260.59,
+     "fin": 260.94,
+     "p": "first"
+    },
+    {
+     "ini": 260.94,
+     "fin": 261.28,
+     "p": "Macintosh"
+    },
+    {
+     "ini": 261.28,
+     "fin": 261.88,
+     "p": "computer,"
+    },
+    {
+     "ini": 261.88,
+     "fin": 262.14,
+     "p": "it"
+    },
+    {
+     "ini": 262.14,
+     "fin": 262.39,
+     "p": "all"
+    },
+    {
+     "ini": 262.39,
+     "fin": 262.65,
+     "p": "came"
+    },
+    {
+     "ini": 262.65,
+     "fin": 262.91,
+     "p": "back"
+    },
+    {
+     "ini": 262.91,
+     "fin": 263.16,
+     "p": "to"
+    },
+    {
+     "ini": 263.16,
+     "fin": 263.42,
+     "p": "me."
+    }
+   ]
+  },
+  {
+   "ini": 263.42,
+   "fin": 265.47,
+   "texto": "And we designed it all into the Mac.",
+   "palabras": [
+    {
+     "ini": 263.42,
+     "fin": 263.67,
+     "p": "And"
+    },
+    {
+     "ini": 263.67,
+     "fin": 263.93,
+     "p": "we"
+    },
+    {
+     "ini": 263.93,
+     "fin": 264.19,
+     "p": "designed"
+    },
+    {
+     "ini": 264.19,
+     "fin": 264.44,
+     "p": "it"
+    },
+    {
+     "ini": 264.44,
+     "fin": 264.7,
+     "p": "all"
+    },
+    {
+     "ini": 264.7,
+     "fin": 264.96,
+     "p": "into"
+    },
+    {
+     "ini": 264.96,
+     "fin": 265.21,
+     "p": "the"
+    },
+    {
+     "ini": 265.21,
+     "fin": 265.47,
+     "p": "Mac."
+    }
+   ]
+  },
+  {
+   "ini": 265.47,
+   "fin": 269.49,
+   "texto": "It was the first computer with beautiful typography.",
+   "palabras": [
+    {
+     "ini": 265.47,
+     "fin": 265.9,
+     "p": "It"
+    },
+    {
+     "ini": 265.9,
+     "fin": 266.34,
+     "p": "was"
+    },
+    {
+     "ini": 266.34,
+     "fin": 266.77,
+     "p": "the"
+    },
+    {
+     "ini": 266.77,
+     "fin": 267.2,
+     "p": "first"
+    },
+    {
+     "ini": 267.2,
+     "fin": 267.64,
+     "p": "computer"
+    },
+    {
+     "ini": 267.64,
+     "fin": 268.07,
+     "p": "with"
+    },
+    {
+     "ini": 268.07,
+     "fin": 268.51,
+     "p": "beautiful"
+    },
+    {
+     "ini": 268.51,
+     "fin": 269.49,
+     "p": "typography."
+    }
+   ]
+  },
+  {
+   "ini": 269.49,
+   "fin": 277.4,
+   "texto": "If I had never dropped in on that single course in college, the Mac would have never had multiple typefaces or proportionally spaced fonts.",
+   "palabras": [
+    {
+     "ini": 269.49,
+     "fin": 269.76,
+     "p": "If"
+    },
+    {
+     "ini": 269.76,
+     "fin": 270.04,
+     "p": "I"
+    },
+    {
+     "ini": 270.04,
+     "fin": 270.31,
+     "p": "had"
+    },
+    {
+     "ini": 270.31,
+     "fin": 270.58,
+     "p": "never"
+    },
+    {
+     "ini": 270.58,
+     "fin": 270.86,
+     "p": "dropped"
+    },
+    {
+     "ini": 270.86,
+     "fin": 271.13,
+     "p": "in"
+    },
+    {
+     "ini": 271.13,
+     "fin": 271.4,
+     "p": "on"
+    },
+    {
+     "ini": 271.4,
+     "fin": 271.68,
+     "p": "that"
+    },
+    {
+     "ini": 271.68,
+     "fin": 271.95,
+     "p": "single"
+    },
+    {
+     "ini": 271.95,
+     "fin": 272.22,
+     "p": "course"
+    },
+    {
+     "ini": 272.22,
+     "fin": 272.5,
+     "p": "in"
+    },
+    {
+     "ini": 272.5,
+     "fin": 272.96,
+     "p": "college,"
+    },
+    {
+     "ini": 272.96,
+     "fin": 273.19,
+     "p": "the"
+    },
+    {
+     "ini": 273.19,
+     "fin": 273.43,
+     "p": "Mac"
+    },
+    {
+     "ini": 273.43,
+     "fin": 273.66,
+     "p": "would"
+    },
+    {
+     "ini": 273.66,
+     "fin": 273.89,
+     "p": "have"
+    },
+    {
+     "ini": 273.89,
+     "fin": 274.12,
+     "p": "never"
+    },
+    {
+     "ini": 274.12,
+     "fin": 274.36,
+     "p": "had"
+    },
+    {
+     "ini": 274.36,
+     "fin": 274.59,
+     "p": "multiple"
+    },
+    {
+     "ini": 274.59,
+     "fin": 275.09,
+     "p": "typefaces"
+    },
+    {
+     "ini": 275.09,
+     "fin": 275.6,
+     "p": "or"
+    },
+    {
+     "ini": 275.6,
+     "fin": 276.1,
+     "p": "proportionally"
+    },
+    {
+     "ini": 276.1,
+     "fin": 276.61,
+     "p": "spaced"
+    },
+    {
+     "ini": 276.61,
+     "fin": 277.4,
+     "p": "fonts."
+    }
+   ]
+  },
+  {
+   "ini": 277.4,
+   "fin": 284.59,
+   "texto": "And since Windows just copied the Mac, it's likely that no personal computer would have them.",
+   "palabras": [
+    {
+     "ini": 277.4,
+     "fin": 277.72,
+     "p": "And"
+    },
+    {
+     "ini": 277.72,
+     "fin": 278.03,
+     "p": "since"
+    },
+    {
+     "ini": 278.03,
+     "fin": 278.35,
+     "p": "Windows"
+    },
+    {
+     "ini": 278.35,
+     "fin": 278.67,
+     "p": "just"
+    },
+    {
+     "ini": 278.67,
+     "fin": 278.98,
+     "p": "copied"
+    },
+    {
+     "ini": 278.98,
+     "fin": 279.3,
+     "p": "the"
+    },
+    {
+     "ini": 279.3,
+     "fin": 279.7,
+     "p": "Mac,"
+    },
+    {
+     "ini": 279.7,
+     "fin": 280.12,
+     "p": "it's"
+    },
+    {
+     "ini": 280.12,
+     "fin": 280.55,
+     "p": "likely"
+    },
+    {
+     "ini": 280.55,
+     "fin": 280.97,
+     "p": "that"
+    },
+    {
+     "ini": 280.97,
+     "fin": 281.4,
+     "p": "no"
+    },
+    {
+     "ini": 281.4,
+     "fin": 281.82,
+     "p": "personal"
+    },
+    {
+     "ini": 281.82,
+     "fin": 282.24,
+     "p": "computer"
+    },
+    {
+     "ini": 282.24,
+     "fin": 282.67,
+     "p": "would"
+    },
+    {
+     "ini": 282.67,
+     "fin": 283.09,
+     "p": "have"
+    },
+    {
+     "ini": 283.09,
+     "fin": 284.59,
+     "p": "them."
+    }
+   ]
+  },
+  {
+   "ini": 287.07,
+   "fin": 298.16,
+   "texto": "If I had never dropped out, I would have never dropped in on this calligraphy class, and personal computers might not have the wonderful typography that they do.",
+   "palabras": [
+    {
+     "ini": 287.07,
+     "fin": 287.75,
+     "p": "If"
+    },
+    {
+     "ini": 287.75,
+     "fin": 288.43,
+     "p": "I"
+    },
+    {
+     "ini": 288.43,
+     "fin": 289.1,
+     "p": "had"
+    },
+    {
+     "ini": 289.1,
+     "fin": 289.78,
+     "p": "never"
+    },
+    {
+     "ini": 289.78,
+     "fin": 290.46,
+     "p": "dropped"
+    },
+    {
+     "ini": 290.46,
+     "fin": 291.14,
+     "p": "out,"
+    },
+    {
+     "ini": 291.14,
+     "fin": 291.43,
+     "p": "I"
+    },
+    {
+     "ini": 291.43,
+     "fin": 291.72,
+     "p": "would"
+    },
+    {
+     "ini": 291.72,
+     "fin": 292.01,
+     "p": "have"
+    },
+    {
+     "ini": 292.01,
+     "fin": 292.3,
+     "p": "never"
+    },
+    {
+     "ini": 292.3,
+     "fin": 292.59,
+     "p": "dropped"
+    },
+    {
+     "ini": 292.59,
+     "fin": 292.88,
+     "p": "in"
+    },
+    {
+     "ini": 292.88,
+     "fin": 293.17,
+     "p": "on"
+    },
+    {
+     "ini": 293.17,
+     "fin": 293.46,
+     "p": "this"
+    },
+    {
+     "ini": 293.46,
+     "fin": 293.75,
+     "p": "calligraphy"
+    },
+    {
+     "ini": 293.75,
+     "fin": 294.11,
+     "p": "class,"
+    },
+    {
+     "ini": 294.11,
+     "fin": 294.45,
+     "p": "and"
+    },
+    {
+     "ini": 294.45,
+     "fin": 294.79,
+     "p": "personal"
+    },
+    {
+     "ini": 294.79,
+     "fin": 295.12,
+     "p": "computers"
+    },
+    {
+     "ini": 295.12,
+     "fin": 295.46,
+     "p": "might"
+    },
+    {
+     "ini": 295.46,
+     "fin": 295.8,
+     "p": "not"
+    },
+    {
+     "ini": 295.8,
+     "fin": 296.14,
+     "p": "have"
+    },
+    {
+     "ini": 296.14,
+     "fin": 296.47,
+     "p": "the"
+    },
+    {
+     "ini": 296.47,
+     "fin": 296.81,
+     "p": "wonderful"
+    },
+    {
+     "ini": 296.81,
+     "fin": 297.15,
+     "p": "typography"
+    },
+    {
+     "ini": 297.15,
+     "fin": 297.49,
+     "p": "that"
+    },
+    {
+     "ini": 297.49,
+     "fin": 297.82,
+     "p": "they"
+    },
+    {
+     "ini": 297.82,
+     "fin": 298.16,
+     "p": "do."
+    }
+   ]
+  },
+  {
+   "ini": 298.16,
+   "fin": 302.45,
+   "texto": "Of course it was impossible to connect the dots looking forward when I was in college.",
+   "palabras": [
+    {
+     "ini": 298.16,
+     "fin": 298.5,
+     "p": "Of"
+    },
+    {
+     "ini": 298.5,
+     "fin": 298.83,
+     "p": "course"
+    },
+    {
+     "ini": 298.83,
+     "fin": 299.17,
+     "p": "it"
+    },
+    {
+     "ini": 299.17,
+     "fin": 299.51,
+     "p": "was"
+    },
+    {
+     "ini": 299.51,
+     "fin": 299.85,
+     "p": "impossible"
+    },
+    {
+     "ini": 299.85,
+     "fin": 300.18,
+     "p": "to"
+    },
+    {
+     "ini": 300.18,
+     "fin": 300.52,
+     "p": "connect"
+    },
+    {
+     "ini": 300.52,
+     "fin": 300.73,
+     "p": "the"
+    },
+    {
+     "ini": 300.73,
+     "fin": 300.95,
+     "p": "dots"
+    },
+    {
+     "ini": 300.95,
+     "fin": 301.16,
+     "p": "looking"
+    },
+    {
+     "ini": 301.16,
+     "fin": 301.38,
+     "p": "forward"
+    },
+    {
+     "ini": 301.38,
+     "fin": 301.59,
+     "p": "when"
+    },
+    {
+     "ini": 301.59,
+     "fin": 301.81,
+     "p": "I"
+    },
+    {
+     "ini": 301.81,
+     "fin": 302.02,
+     "p": "was"
+    },
+    {
+     "ini": 302.02,
+     "fin": 302.23,
+     "p": "in"
+    },
+    {
+     "ini": 302.23,
+     "fin": 302.45,
+     "p": "college."
+    }
+   ]
+  },
+  {
+   "ini": 302.45,
+   "fin": 307.13,
+   "texto": "But it was very, very clear looking backwards ten years later.",
+   "palabras": [
+    {
+     "ini": 302.45,
+     "fin": 302.83,
+     "p": "But"
+    },
+    {
+     "ini": 302.83,
+     "fin": 303.21,
+     "p": "it"
+    },
+    {
+     "ini": 303.21,
+     "fin": 303.6,
+     "p": "was"
+    },
+    {
+     "ini": 303.6,
+     "fin": 303.98,
+     "p": "very,"
+    },
+    {
+     "ini": 303.98,
+     "fin": 304.36,
+     "p": "very"
+    },
+    {
+     "ini": 304.36,
+     "fin": 304.74,
+     "p": "clear"
+    },
+    {
+     "ini": 304.74,
+     "fin": 305.12,
+     "p": "looking"
+    },
+    {
+     "ini": 305.12,
+     "fin": 305.5,
+     "p": "backwards"
+    },
+    {
+     "ini": 305.5,
+     "fin": 305.89,
+     "p": "ten"
+    },
+    {
+     "ini": 305.89,
+     "fin": 306.27,
+     "p": "years"
+    },
+    {
+     "ini": 306.27,
+     "fin": 307.13,
+     "p": "later."
+    }
+   ]
+  },
+  {
+   "ini": 307.13,
+   "fin": 312.92,
+   "texto": "Again, you can't connect the dots looking forward; you can only connect them looking backwards.",
+   "palabras": [
+    {
+     "ini": 307.13,
+     "fin": 307.51,
+     "p": "Again,"
+    },
+    {
+     "ini": 307.51,
+     "fin": 307.88,
+     "p": "you"
+    },
+    {
+     "ini": 307.88,
+     "fin": 308.26,
+     "p": "can't"
+    },
+    {
+     "ini": 308.26,
+     "fin": 308.64,
+     "p": "connect"
+    },
+    {
+     "ini": 308.64,
+     "fin": 309.02,
+     "p": "the"
+    },
+    {
+     "ini": 309.02,
+     "fin": 309.39,
+     "p": "dots"
+    },
+    {
+     "ini": 309.39,
+     "fin": 309.77,
+     "p": "looking"
+    },
+    {
+     "ini": 309.77,
+     "fin": 310.15,
+     "p": "forward;"
+    },
+    {
+     "ini": 310.15,
+     "fin": 310.49,
+     "p": "you"
+    },
+    {
+     "ini": 310.49,
+     "fin": 310.82,
+     "p": "can"
+    },
+    {
+     "ini": 310.82,
+     "fin": 311.16,
+     "p": "only"
+    },
+    {
+     "ini": 311.16,
+     "fin": 311.49,
+     "p": "connect"
+    },
+    {
+     "ini": 311.49,
+     "fin": 311.83,
+     "p": "them"
+    },
+    {
+     "ini": 311.83,
+     "fin": 312.16,
+     "p": "looking"
+    },
+    {
+     "ini": 312.16,
+     "fin": 312.92,
+     "p": "backwards."
+    }
+   ]
+  },
+  {
+   "ini": 312.92,
+   "fin": 316.73,
+   "texto": "So you have to trust that the dots will somehow connect in your future.",
+   "palabras": [
+    {
+     "ini": 312.92,
+     "fin": 313.16,
+     "p": "So"
+    },
+    {
+     "ini": 313.16,
+     "fin": 313.4,
+     "p": "you"
+    },
+    {
+     "ini": 313.4,
+     "fin": 313.64,
+     "p": "have"
+    },
+    {
+     "ini": 313.64,
+     "fin": 313.88,
+     "p": "to"
+    },
+    {
+     "ini": 313.88,
+     "fin": 314.12,
+     "p": "trust"
+    },
+    {
+     "ini": 314.12,
+     "fin": 314.35,
+     "p": "that"
+    },
+    {
+     "ini": 314.35,
+     "fin": 314.59,
+     "p": "the"
+    },
+    {
+     "ini": 314.59,
+     "fin": 314.83,
+     "p": "dots"
+    },
+    {
+     "ini": 314.83,
+     "fin": 315.07,
+     "p": "will"
+    },
+    {
+     "ini": 315.07,
+     "fin": 315.31,
+     "p": "somehow"
+    },
+    {
+     "ini": 315.31,
+     "fin": 315.55,
+     "p": "connect"
+    },
+    {
+     "ini": 315.55,
+     "fin": 315.85,
+     "p": "in"
+    },
+    {
+     "ini": 315.85,
+     "fin": 316.15,
+     "p": "your"
+    },
+    {
+     "ini": 316.15,
+     "fin": 316.73,
+     "p": "future."
+    }
+   ]
+  },
+  {
+   "ini": 316.73,
+   "fin": 322.23,
+   "texto": "You have to trust in something, your gut, destiny, life, karma, whatever.",
+   "palabras": [
+    {
+     "ini": 316.73,
+     "fin": 317.09,
+     "p": "You"
+    },
+    {
+     "ini": 317.09,
+     "fin": 317.46,
+     "p": "have"
+    },
+    {
+     "ini": 317.46,
+     "fin": 317.82,
+     "p": "to"
+    },
+    {
+     "ini": 317.82,
+     "fin": 318.18,
+     "p": "trust"
+    },
+    {
+     "ini": 318.18,
+     "fin": 318.55,
+     "p": "in"
+    },
+    {
+     "ini": 318.55,
+     "fin": 318.91,
+     "p": "something,"
+    },
+    {
+     "ini": 318.91,
+     "fin": 319.27,
+     "p": "your"
+    },
+    {
+     "ini": 319.27,
+     "fin": 319.64,
+     "p": "gut,"
+    },
+    {
+     "ini": 319.64,
+     "fin": 320.0,
+     "p": "destiny,"
+    },
+    {
+     "ini": 320.0,
+     "fin": 320.37,
+     "p": "life,"
+    },
+    {
+     "ini": 320.37,
+     "fin": 320.73,
+     "p": "karma,"
+    },
+    {
+     "ini": 320.73,
+     "fin": 322.23,
+     "p": "whatever."
+    }
+   ]
+  },
+  {
+   "ini": 322.35,
+   "fin": 331.8,
+   "texto": "Beleiveing that the dots will connect down the road will give you the confidence to follow your heart Even when it leads you off the well worn path, and that",
+   "palabras": [
+    {
+     "ini": 322.35,
+     "fin": 322.67,
+     "p": "Beleiveing"
+    },
+    {
+     "ini": 322.67,
+     "fin": 322.99,
+     "p": "that"
+    },
+    {
+     "ini": 322.99,
+     "fin": 323.31,
+     "p": "the"
+    },
+    {
+     "ini": 323.31,
+     "fin": 323.63,
+     "p": "dots"
+    },
+    {
+     "ini": 323.63,
+     "fin": 323.95,
+     "p": "will"
+    },
+    {
+     "ini": 323.95,
+     "fin": 324.27,
+     "p": "connect"
+    },
+    {
+     "ini": 324.27,
+     "fin": 324.59,
+     "p": "down"
+    },
+    {
+     "ini": 324.59,
+     "fin": 324.9,
+     "p": "the"
+    },
+    {
+     "ini": 324.9,
+     "fin": 325.22,
+     "p": "road"
+    },
+    {
+     "ini": 325.22,
+     "fin": 325.54,
+     "p": "will"
+    },
+    {
+     "ini": 325.54,
+     "fin": 325.86,
+     "p": "give"
+    },
+    {
+     "ini": 325.86,
+     "fin": 326.18,
+     "p": "you"
+    },
+    {
+     "ini": 326.18,
+     "fin": 326.5,
+     "p": "the"
+    },
+    {
+     "ini": 326.5,
+     "fin": 326.82,
+     "p": "confidence"
+    },
+    {
+     "ini": 326.82,
+     "fin": 327.14,
+     "p": "to"
+    },
+    {
+     "ini": 327.14,
+     "fin": 327.46,
+     "p": "follow"
+    },
+    {
+     "ini": 327.46,
+     "fin": 327.78,
+     "p": "your"
+    },
+    {
+     "ini": 327.78,
+     "fin": 328.1,
+     "p": "heart"
+    },
+    {
+     "ini": 328.1,
+     "fin": 328.41,
+     "p": "Even"
+    },
+    {
+     "ini": 328.41,
+     "fin": 328.72,
+     "p": "when"
+    },
+    {
+     "ini": 328.72,
+     "fin": 329.03,
+     "p": "it"
+    },
+    {
+     "ini": 329.03,
+     "fin": 329.33,
+     "p": "leads"
+    },
+    {
+     "ini": 329.33,
+     "fin": 329.64,
+     "p": "you"
+    },
+    {
+     "ini": 329.64,
+     "fin": 329.95,
+     "p": "off"
+    },
+    {
+     "ini": 329.95,
+     "fin": 330.26,
+     "p": "the"
+    },
+    {
+     "ini": 330.26,
+     "fin": 330.57,
+     "p": "well"
+    },
+    {
+     "ini": 330.57,
+     "fin": 330.88,
+     "p": "worn"
+    },
+    {
+     "ini": 330.88,
+     "fin": 331.19,
+     "p": "path,"
+    },
+    {
+     "ini": 331.19,
+     "fin": 331.49,
+     "p": "and"
+    },
+    {
+     "ini": 331.49,
+     "fin": 331.8,
+     "p": "that"
+    }
+   ]
+  },
+  {
+   "ini": 331.8,
+   "fin": 334.54,
+   "texto": "will make all the difference.",
+   "palabras": [
+    {
+     "ini": 331.8,
+     "fin": 332.11,
+     "p": "will"
+    },
+    {
+     "ini": 332.11,
+     "fin": 332.42,
+     "p": "make"
+    },
+    {
+     "ini": 332.42,
+     "fin": 332.73,
+     "p": "all"
+    },
+    {
+     "ini": 332.73,
+     "fin": 333.04,
+     "p": "the"
+    },
+    {
+     "ini": 333.04,
+     "fin": 334.54,
+     "p": "difference."
+    }
+   ]
+  },
+  {
+   "ini": 338.6,
+   "fin": 343.69,
+   "texto": "My second story is about love and loss.",
+   "palabras": [
+    {
+     "ini": 338.6,
+     "fin": 339.11,
+     "p": "My"
+    },
+    {
+     "ini": 339.11,
+     "fin": 339.62,
+     "p": "second"
+    },
+    {
+     "ini": 339.62,
+     "fin": 340.14,
+     "p": "story"
+    },
+    {
+     "ini": 340.14,
+     "fin": 340.65,
+     "p": "is"
+    },
+    {
+     "ini": 340.65,
+     "fin": 341.16,
+     "p": "about"
+    },
+    {
+     "ini": 341.16,
+     "fin": 341.67,
+     "p": "love"
+    },
+    {
+     "ini": 341.67,
+     "fin": 342.19,
+     "p": "and"
+    },
+    {
+     "ini": 342.19,
+     "fin": 343.69,
+     "p": "loss."
+    }
+   ]
+  },
+  {
+   "ini": 344.03,
+   "fin": 348.31,
+   "texto": "I was lucky I found what I loved to do early in life.",
+   "palabras": [
+    {
+     "ini": 344.03,
+     "fin": 344.33,
+     "p": "I"
+    },
+    {
+     "ini": 344.33,
+     "fin": 344.63,
+     "p": "was"
+    },
+    {
+     "ini": 344.63,
+     "fin": 344.93,
+     "p": "lucky"
+    },
+    {
+     "ini": 344.93,
+     "fin": 345.23,
+     "p": "I"
+    },
+    {
+     "ini": 345.23,
+     "fin": 345.53,
+     "p": "found"
+    },
+    {
+     "ini": 345.53,
+     "fin": 345.83,
+     "p": "what"
+    },
+    {
+     "ini": 345.83,
+     "fin": 346.13,
+     "p": "I"
+    },
+    {
+     "ini": 346.13,
+     "fin": 346.43,
+     "p": "loved"
+    },
+    {
+     "ini": 346.43,
+     "fin": 346.73,
+     "p": "to"
+    },
+    {
+     "ini": 346.73,
+     "fin": 347.03,
+     "p": "do"
+    },
+    {
+     "ini": 347.03,
+     "fin": 347.33,
+     "p": "early"
+    },
+    {
+     "ini": 347.33,
+     "fin": 347.63,
+     "p": "in"
+    },
+    {
+     "ini": 347.63,
+     "fin": 348.31,
+     "p": "life."
+    }
+   ]
+  },
+  {
+   "ini": 348.31,
+   "fin": 351.87,
+   "texto": "Woz and I started Apple in my parents garage when I was 20.",
+   "palabras": [
+    {
+     "ini": 348.31,
+     "fin": 348.56,
+     "p": "Woz"
+    },
+    {
+     "ini": 348.56,
+     "fin": 348.8,
+     "p": "and"
+    },
+    {
+     "ini": 348.8,
+     "fin": 349.05,
+     "p": "I"
+    },
+    {
+     "ini": 349.05,
+     "fin": 349.3,
+     "p": "started"
+    },
+    {
+     "ini": 349.3,
+     "fin": 349.54,
+     "p": "Apple"
+    },
+    {
+     "ini": 349.54,
+     "fin": 349.79,
+     "p": "in"
+    },
+    {
+     "ini": 349.79,
+     "fin": 350.04,
+     "p": "my"
+    },
+    {
+     "ini": 350.04,
+     "fin": 350.28,
+     "p": "parents"
+    },
+    {
+     "ini": 350.28,
+     "fin": 350.53,
+     "p": "garage"
+    },
+    {
+     "ini": 350.53,
+     "fin": 350.78,
+     "p": "when"
+    },
+    {
+     "ini": 350.78,
+     "fin": 351.03,
+     "p": "I"
+    },
+    {
+     "ini": 351.03,
+     "fin": 351.27,
+     "p": "was"
+    },
+    {
+     "ini": 351.27,
+     "fin": 351.87,
+     "p": "20."
+    }
+   ]
+  },
+  {
+   "ini": 351.87,
+   "fin": 359.66,
+   "texto": "We worked hard, and in 10 years Apple had grown from just the two of us in a garage into a $2 billion company with over 4000 employees.",
+   "palabras": [
+    {
+     "ini": 351.87,
+     "fin": 352.1,
+     "p": "We"
+    },
+    {
+     "ini": 352.1,
+     "fin": 352.32,
+     "p": "worked"
+    },
+    {
+     "ini": 352.32,
+     "fin": 352.55,
+     "p": "hard,"
+    },
+    {
+     "ini": 352.55,
+     "fin": 352.77,
+     "p": "and"
+    },
+    {
+     "ini": 352.77,
+     "fin": 353.0,
+     "p": "in"
+    },
+    {
+     "ini": 353.0,
+     "fin": 353.23,
+     "p": "10"
+    },
+    {
+     "ini": 353.23,
+     "fin": 353.45,
+     "p": "years"
+    },
+    {
+     "ini": 353.45,
+     "fin": 353.68,
+     "p": "Apple"
+    },
+    {
+     "ini": 353.68,
+     "fin": 353.9,
+     "p": "had"
+    },
+    {
+     "ini": 353.9,
+     "fin": 354.13,
+     "p": "grown"
+    },
+    {
+     "ini": 354.13,
+     "fin": 354.36,
+     "p": "from"
+    },
+    {
+     "ini": 354.36,
+     "fin": 354.58,
+     "p": "just"
+    },
+    {
+     "ini": 354.58,
+     "fin": 354.81,
+     "p": "the"
+    },
+    {
+     "ini": 354.81,
+     "fin": 355.03,
+     "p": "two"
+    },
+    {
+     "ini": 355.03,
+     "fin": 355.26,
+     "p": "of"
+    },
+    {
+     "ini": 355.26,
+     "fin": 355.59,
+     "p": "us"
+    },
+    {
+     "ini": 355.59,
+     "fin": 355.92,
+     "p": "in"
+    },
+    {
+     "ini": 355.92,
+     "fin": 356.26,
+     "p": "a"
+    },
+    {
+     "ini": 356.26,
+     "fin": 356.59,
+     "p": "garage"
+    },
+    {
+     "ini": 356.59,
+     "fin": 356.92,
+     "p": "into"
+    },
+    {
+     "ini": 356.92,
+     "fin": 357.25,
+     "p": "a"
+    },
+    {
+     "ini": 357.25,
+     "fin": 357.59,
+     "p": "$2"
+    },
+    {
+     "ini": 357.59,
+     "fin": 357.92,
+     "p": "billion"
+    },
+    {
+     "ini": 357.92,
+     "fin": 358.25,
+     "p": "company"
+    },
+    {
+     "ini": 358.25,
+     "fin": 358.58,
+     "p": "with"
+    },
+    {
+     "ini": 358.58,
+     "fin": 358.91,
+     "p": "over"
+    },
+    {
+     "ini": 358.91,
+     "fin": 359.25,
+     "p": "4000"
+    },
+    {
+     "ini": 359.25,
+     "fin": 359.66,
+     "p": "employees."
+    }
+   ]
+  },
+  {
+   "ini": 359.66,
+   "fin": 366.36,
+   "texto": "We had just released our finest creation the Macintosh a year earlier, and I had just turned 30.",
+   "palabras": [
+    {
+     "ini": 359.66,
+     "fin": 360.07,
+     "p": "We"
+    },
+    {
+     "ini": 360.07,
+     "fin": 360.48,
+     "p": "had"
+    },
+    {
+     "ini": 360.48,
+     "fin": 360.89,
+     "p": "just"
+    },
+    {
+     "ini": 360.89,
+     "fin": 361.3,
+     "p": "released"
+    },
+    {
+     "ini": 361.3,
+     "fin": 361.71,
+     "p": "our"
+    },
+    {
+     "ini": 361.71,
+     "fin": 362.12,
+     "p": "finest"
+    },
+    {
+     "ini": 362.12,
+     "fin": 362.53,
+     "p": "creation"
+    },
+    {
+     "ini": 362.53,
+     "fin": 362.94,
+     "p": "the"
+    },
+    {
+     "ini": 362.94,
+     "fin": 363.35,
+     "p": "Macintosh"
+    },
+    {
+     "ini": 363.35,
+     "fin": 363.6,
+     "p": "a"
+    },
+    {
+     "ini": 363.6,
+     "fin": 363.86,
+     "p": "year"
+    },
+    {
+     "ini": 363.86,
+     "fin": 364.11,
+     "p": "earlier,"
+    },
+    {
+     "ini": 364.11,
+     "fin": 364.37,
+     "p": "and"
+    },
+    {
+     "ini": 364.37,
+     "fin": 364.62,
+     "p": "I"
+    },
+    {
+     "ini": 364.62,
+     "fin": 364.88,
+     "p": "had"
+    },
+    {
+     "ini": 364.88,
+     "fin": 365.13,
+     "p": "just"
+    },
+    {
+     "ini": 365.13,
+     "fin": 365.38,
+     "p": "turned"
+    },
+    {
+     "ini": 365.38,
+     "fin": 366.36,
+     "p": "30."
+    }
+   ]
+  },
+  {
+   "ini": 366.36,
+   "fin": 372.4,
+   "texto": "And then I got fired. How can you get fired from a company you started?",
+   "palabras": [
+    {
+     "ini": 366.36,
+     "fin": 366.68,
+     "p": "And"
+    },
+    {
+     "ini": 366.68,
+     "fin": 367.0,
+     "p": "then"
+    },
+    {
+     "ini": 367.0,
+     "fin": 367.31,
+     "p": "I"
+    },
+    {
+     "ini": 367.31,
+     "fin": 367.63,
+     "p": "got"
+    },
+    {
+     "ini": 367.63,
+     "fin": 369.05,
+     "p": "fired."
+    },
+    {
+     "ini": 369.05,
+     "fin": 369.33,
+     "p": "How"
+    },
+    {
+     "ini": 369.33,
+     "fin": 369.62,
+     "p": "can"
+    },
+    {
+     "ini": 369.62,
+     "fin": 369.9,
+     "p": "you"
+    },
+    {
+     "ini": 369.9,
+     "fin": 370.19,
+     "p": "get"
+    },
+    {
+     "ini": 370.19,
+     "fin": 370.47,
+     "p": "fired"
+    },
+    {
+     "ini": 370.47,
+     "fin": 370.76,
+     "p": "from"
+    },
+    {
+     "ini": 370.76,
+     "fin": 371.04,
+     "p": "a"
+    },
+    {
+     "ini": 371.04,
+     "fin": 371.33,
+     "p": "company"
+    },
+    {
+     "ini": 371.33,
+     "fin": 371.61,
+     "p": "you"
+    },
+    {
+     "ini": 371.61,
+     "fin": 372.4,
+     "p": "started?"
+    }
+   ]
+  },
+  {
+   "ini": 372.4,
+   "fin": 380.47,
+   "texto": "Well, as Apple grew we hired someone who I thought was very talented to run the company with me, and for the first year or so things went well.",
+   "palabras": [
+    {
+     "ini": 372.4,
+     "fin": 372.75,
+     "p": "Well,"
+    },
+    {
+     "ini": 372.75,
+     "fin": 373.1,
+     "p": "as"
+    },
+    {
+     "ini": 373.1,
+     "fin": 373.45,
+     "p": "Apple"
+    },
+    {
+     "ini": 373.45,
+     "fin": 373.8,
+     "p": "grew"
+    },
+    {
+     "ini": 373.8,
+     "fin": 374.15,
+     "p": "we"
+    },
+    {
+     "ini": 374.15,
+     "fin": 374.5,
+     "p": "hired"
+    },
+    {
+     "ini": 374.5,
+     "fin": 374.85,
+     "p": "someone"
+    },
+    {
+     "ini": 374.85,
+     "fin": 375.2,
+     "p": "who"
+    },
+    {
+     "ini": 375.2,
+     "fin": 375.55,
+     "p": "I"
+    },
+    {
+     "ini": 375.55,
+     "fin": 375.9,
+     "p": "thought"
+    },
+    {
+     "ini": 375.9,
+     "fin": 376.18,
+     "p": "was"
+    },
+    {
+     "ini": 376.18,
+     "fin": 376.47,
+     "p": "very"
+    },
+    {
+     "ini": 376.47,
+     "fin": 376.75,
+     "p": "talented"
+    },
+    {
+     "ini": 376.75,
+     "fin": 377.04,
+     "p": "to"
+    },
+    {
+     "ini": 377.04,
+     "fin": 377.32,
+     "p": "run"
+    },
+    {
+     "ini": 377.32,
+     "fin": 377.61,
+     "p": "the"
+    },
+    {
+     "ini": 377.61,
+     "fin": 377.89,
+     "p": "company"
+    },
+    {
+     "ini": 377.89,
+     "fin": 378.17,
+     "p": "with"
+    },
+    {
+     "ini": 378.17,
+     "fin": 378.68,
+     "p": "me,"
+    },
+    {
+     "ini": 378.68,
+     "fin": 378.86,
+     "p": "and"
+    },
+    {
+     "ini": 378.86,
+     "fin": 379.04,
+     "p": "for"
+    },
+    {
+     "ini": 379.04,
+     "fin": 379.22,
+     "p": "the"
+    },
+    {
+     "ini": 379.22,
+     "fin": 379.4,
+     "p": "first"
+    },
+    {
+     "ini": 379.4,
+     "fin": 379.57,
+     "p": "year"
+    },
+    {
+     "ini": 379.57,
+     "fin": 379.75,
+     "p": "or"
+    },
+    {
+     "ini": 379.75,
+     "fin": 379.93,
+     "p": "so"
+    },
+    {
+     "ini": 379.93,
+     "fin": 380.11,
+     "p": "things"
+    },
+    {
+     "ini": 380.11,
+     "fin": 380.29,
+     "p": "went"
+    },
+    {
+     "ini": 380.29,
+     "fin": 380.47,
+     "p": "well."
+    }
+   ]
+  },
+  {
+   "ini": 380.47,
+   "fin": 385.77,
+   "texto": "But then our visions of the future began to diverge and eventually we had a falling out.",
+   "palabras": [
+    {
+     "ini": 380.47,
+     "fin": 380.75,
+     "p": "But"
+    },
+    {
+     "ini": 380.75,
+     "fin": 381.02,
+     "p": "then"
+    },
+    {
+     "ini": 381.02,
+     "fin": 381.3,
+     "p": "our"
+    },
+    {
+     "ini": 381.3,
+     "fin": 381.57,
+     "p": "visions"
+    },
+    {
+     "ini": 381.57,
+     "fin": 381.85,
+     "p": "of"
+    },
+    {
+     "ini": 381.85,
+     "fin": 382.13,
+     "p": "the"
+    },
+    {
+     "ini": 382.13,
+     "fin": 382.4,
+     "p": "future"
+    },
+    {
+     "ini": 382.4,
+     "fin": 382.68,
+     "p": "began"
+    },
+    {
+     "ini": 382.68,
+     "fin": 383.02,
+     "p": "to"
+    },
+    {
+     "ini": 383.02,
+     "fin": 383.36,
+     "p": "diverge"
+    },
+    {
+     "ini": 383.36,
+     "fin": 383.7,
+     "p": "and"
+    },
+    {
+     "ini": 383.7,
+     "fin": 384.04,
+     "p": "eventually"
+    },
+    {
+     "ini": 384.04,
+     "fin": 384.38,
+     "p": "we"
+    },
+    {
+     "ini": 384.38,
+     "fin": 384.72,
+     "p": "had"
+    },
+    {
+     "ini": 384.72,
+     "fin": 385.06,
+     "p": "a"
+    },
+    {
+     "ini": 385.06,
+     "fin": 385.4,
+     "p": "falling"
+    },
+    {
+     "ini": 385.4,
+     "fin": 385.77,
+     "p": "out."
+    }
+   ]
+  },
+  {
+   "ini": 385.77,
+   "fin": 389.15,
+   "texto": "When we did, our Board of Directors sided with him.",
+   "palabras": [
+    {
+     "ini": 385.77,
+     "fin": 386.06,
+     "p": "When"
+    },
+    {
+     "ini": 386.06,
+     "fin": 386.35,
+     "p": "we"
+    },
+    {
+     "ini": 386.35,
+     "fin": 386.64,
+     "p": "did,"
+    },
+    {
+     "ini": 386.64,
+     "fin": 386.93,
+     "p": "our"
+    },
+    {
+     "ini": 386.93,
+     "fin": 387.22,
+     "p": "Board"
+    },
+    {
+     "ini": 387.22,
+     "fin": 387.51,
+     "p": "of"
+    },
+    {
+     "ini": 387.51,
+     "fin": 387.8,
+     "p": "Directors"
+    },
+    {
+     "ini": 387.8,
+     "fin": 388.09,
+     "p": "sided"
+    },
+    {
+     "ini": 388.09,
+     "fin": 388.38,
+     "p": "with"
+    },
+    {
+     "ini": 388.38,
+     "fin": 389.15,
+     "p": "him."
+    }
+   ]
+  },
+  {
+   "ini": 389.15,
+   "fin": 392.73,
+   "texto": "So at 30 I was out. And very publicly out.",
+   "palabras": [
+    {
+     "ini": 389.15,
+     "fin": 389.51,
+     "p": "So"
+    },
+    {
+     "ini": 389.51,
+     "fin": 389.87,
+     "p": "at"
+    },
+    {
+     "ini": 389.87,
+     "fin": 390.22,
+     "p": "30"
+    },
+    {
+     "ini": 390.22,
+     "fin": 390.58,
+     "p": "I"
+    },
+    {
+     "ini": 390.58,
+     "fin": 390.94,
+     "p": "was"
+    },
+    {
+     "ini": 390.94,
+     "fin": 391.3,
+     "p": "out."
+    },
+    {
+     "ini": 391.3,
+     "fin": 391.66,
+     "p": "And"
+    },
+    {
+     "ini": 391.66,
+     "fin": 392.01,
+     "p": "very"
+    },
+    {
+     "ini": 392.01,
+     "fin": 392.37,
+     "p": "publicly"
+    },
+    {
+     "ini": 392.37,
+     "fin": 392.73,
+     "p": "out."
+    }
+   ]
+  },
+  {
+   "ini": 392.73,
+   "fin": 398.53,
+   "texto": "What had been the focus of my entire adult life was gone, and it was devastating.",
+   "palabras": [
+    {
+     "ini": 392.73,
+     "fin": 392.99,
+     "p": "What"
+    },
+    {
+     "ini": 392.99,
+     "fin": 393.26,
+     "p": "had"
+    },
+    {
+     "ini": 393.26,
+     "fin": 393.52,
+     "p": "been"
+    },
+    {
+     "ini": 393.52,
+     "fin": 393.78,
+     "p": "the"
+    },
+    {
+     "ini": 393.78,
+     "fin": 394.05,
+     "p": "focus"
+    },
+    {
+     "ini": 394.05,
+     "fin": 394.31,
+     "p": "of"
+    },
+    {
+     "ini": 394.31,
+     "fin": 394.57,
+     "p": "my"
+    },
+    {
+     "ini": 394.57,
+     "fin": 394.84,
+     "p": "entire"
+    },
+    {
+     "ini": 394.84,
+     "fin": 395.1,
+     "p": "adult"
+    },
+    {
+     "ini": 395.1,
+     "fin": 395.36,
+     "p": "life"
+    },
+    {
+     "ini": 395.36,
+     "fin": 395.63,
+     "p": "was"
+    },
+    {
+     "ini": 395.63,
+     "fin": 395.89,
+     "p": "gone,"
+    },
+    {
+     "ini": 395.89,
+     "fin": 396.34,
+     "p": "and"
+    },
+    {
+     "ini": 396.34,
+     "fin": 396.79,
+     "p": "it"
+    },
+    {
+     "ini": 396.79,
+     "fin": 397.25,
+     "p": "was"
+    },
+    {
+     "ini": 397.25,
+     "fin": 398.53,
+     "p": "devastating."
+    }
+   ]
+  },
+  {
+   "ini": 398.53,
+   "fin": 401.11,
+   "texto": "I really didn't know what to do for a few months.",
+   "palabras": [
+    {
+     "ini": 398.53,
+     "fin": 398.72,
+     "p": "I"
+    },
+    {
+     "ini": 398.72,
+     "fin": 398.91,
+     "p": "really"
+    },
+    {
+     "ini": 398.91,
+     "fin": 399.11,
+     "p": "didn't"
+    },
+    {
+     "ini": 399.11,
+     "fin": 399.3,
+     "p": "know"
+    },
+    {
+     "ini": 399.3,
+     "fin": 399.49,
+     "p": "what"
+    },
+    {
+     "ini": 399.49,
+     "fin": 399.68,
+     "p": "to"
+    },
+    {
+     "ini": 399.68,
+     "fin": 399.87,
+     "p": "do"
+    },
+    {
+     "ini": 399.87,
+     "fin": 400.06,
+     "p": "for"
+    },
+    {
+     "ini": 400.06,
+     "fin": 400.26,
+     "p": "a"
+    },
+    {
+     "ini": 400.26,
+     "fin": 400.45,
+     "p": "few"
+    },
+    {
+     "ini": 400.45,
+     "fin": 401.11,
+     "p": "months."
+    }
+   ]
+  },
+  {
+   "ini": 401.11,
+   "fin": 407.21,
+   "texto": "I felt that I had let the previous generation of entrepreneurs down - that I had dropped the baton as it was being passed to me.",
+   "palabras": [
+    {
+     "ini": 401.11,
+     "fin": 401.36,
+     "p": "I"
+    },
+    {
+     "ini": 401.36,
+     "fin": 401.61,
+     "p": "felt"
+    },
+    {
+     "ini": 401.61,
+     "fin": 401.86,
+     "p": "that"
+    },
+    {
+     "ini": 401.86,
+     "fin": 402.11,
+     "p": "I"
+    },
+    {
+     "ini": 402.11,
+     "fin": 402.36,
+     "p": "had"
+    },
+    {
+     "ini": 402.36,
+     "fin": 402.61,
+     "p": "let"
+    },
+    {
+     "ini": 402.61,
+     "fin": 402.87,
+     "p": "the"
+    },
+    {
+     "ini": 402.87,
+     "fin": 403.12,
+     "p": "previous"
+    },
+    {
+     "ini": 403.12,
+     "fin": 403.37,
+     "p": "generation"
+    },
+    {
+     "ini": 403.37,
+     "fin": 403.62,
+     "p": "of"
+    },
+    {
+     "ini": 403.62,
+     "fin": 403.87,
+     "p": "entrepreneurs"
+    },
+    {
+     "ini": 403.87,
+     "fin": 404.09,
+     "p": "down"
+    },
+    {
+     "ini": 404.09,
+     "fin": 404.32,
+     "p": "-"
+    },
+    {
+     "ini": 404.32,
+     "fin": 404.54,
+     "p": "that"
+    },
+    {
+     "ini": 404.54,
+     "fin": 404.76,
+     "p": "I"
+    },
+    {
+     "ini": 404.76,
+     "fin": 404.98,
+     "p": "had"
+    },
+    {
+     "ini": 404.98,
+     "fin": 405.21,
+     "p": "dropped"
+    },
+    {
+     "ini": 405.21,
+     "fin": 405.43,
+     "p": "the"
+    },
+    {
+     "ini": 405.43,
+     "fin": 405.65,
+     "p": "baton"
+    },
+    {
+     "ini": 405.65,
+     "fin": 405.87,
+     "p": "as"
+    },
+    {
+     "ini": 405.87,
+     "fin": 406.1,
+     "p": "it"
+    },
+    {
+     "ini": 406.1,
+     "fin": 406.32,
+     "p": "was"
+    },
+    {
+     "ini": 406.32,
+     "fin": 406.54,
+     "p": "being"
+    },
+    {
+     "ini": 406.54,
+     "fin": 406.76,
+     "p": "passed"
+    },
+    {
+     "ini": 406.76,
+     "fin": 406.99,
+     "p": "to"
+    },
+    {
+     "ini": 406.99,
+     "fin": 407.21,
+     "p": "me."
+    }
+   ]
+  },
+  {
+   "ini": 407.21,
+   "fin": 414.42,
+   "texto": "I met with David Packard and Bob Noyce and tried to apologize for screwing up so badly.",
+   "palabras": [
+    {
+     "ini": 407.21,
+     "fin": 407.62,
+     "p": "I"
+    },
+    {
+     "ini": 407.62,
+     "fin": 408.03,
+     "p": "met"
+    },
+    {
+     "ini": 408.03,
+     "fin": 408.44,
+     "p": "with"
+    },
+    {
+     "ini": 408.44,
+     "fin": 408.85,
+     "p": "David"
+    },
+    {
+     "ini": 408.85,
+     "fin": 409.26,
+     "p": "Packard"
+    },
+    {
+     "ini": 409.26,
+     "fin": 409.67,
+     "p": "and"
+    },
+    {
+     "ini": 409.67,
+     "fin": 410.08,
+     "p": "Bob"
+    },
+    {
+     "ini": 410.08,
+     "fin": 410.88,
+     "p": "Noyce"
+    },
+    {
+     "ini": 410.88,
+     "fin": 411.19,
+     "p": "and"
+    },
+    {
+     "ini": 411.19,
+     "fin": 411.51,
+     "p": "tried"
+    },
+    {
+     "ini": 411.51,
+     "fin": 411.82,
+     "p": "to"
+    },
+    {
+     "ini": 411.82,
+     "fin": 412.13,
+     "p": "apologize"
+    },
+    {
+     "ini": 412.13,
+     "fin": 412.45,
+     "p": "for"
+    },
+    {
+     "ini": 412.45,
+     "fin": 412.76,
+     "p": "screwing"
+    },
+    {
+     "ini": 412.76,
+     "fin": 413.07,
+     "p": "up"
+    },
+    {
+     "ini": 413.07,
+     "fin": 413.39,
+     "p": "so"
+    },
+    {
+     "ini": 413.39,
+     "fin": 414.42,
+     "p": "badly."
+    }
+   ]
+  },
+  {
+   "ini": 414.42,
+   "fin": 418.57,
+   "texto": "I was a very public failure, and I even thought about running away from the valley.",
+   "palabras": [
+    {
+     "ini": 414.42,
+     "fin": 414.66,
+     "p": "I"
+    },
+    {
+     "ini": 414.66,
+     "fin": 414.89,
+     "p": "was"
+    },
+    {
+     "ini": 414.89,
+     "fin": 415.13,
+     "p": "a"
+    },
+    {
+     "ini": 415.13,
+     "fin": 415.37,
+     "p": "very"
+    },
+    {
+     "ini": 415.37,
+     "fin": 415.6,
+     "p": "public"
+    },
+    {
+     "ini": 415.6,
+     "fin": 415.84,
+     "p": "failure,"
+    },
+    {
+     "ini": 415.84,
+     "fin": 416.06,
+     "p": "and"
+    },
+    {
+     "ini": 416.06,
+     "fin": 416.29,
+     "p": "I"
+    },
+    {
+     "ini": 416.29,
+     "fin": 416.51,
+     "p": "even"
+    },
+    {
+     "ini": 416.51,
+     "fin": 416.74,
+     "p": "thought"
+    },
+    {
+     "ini": 416.74,
+     "fin": 416.96,
+     "p": "about"
+    },
+    {
+     "ini": 416.96,
+     "fin": 417.19,
+     "p": "running"
+    },
+    {
+     "ini": 417.19,
+     "fin": 417.41,
+     "p": "away"
+    },
+    {
+     "ini": 417.41,
+     "fin": 417.64,
+     "p": "from"
+    },
+    {
+     "ini": 417.64,
+     "fin": 417.86,
+     "p": "the"
+    },
+    {
+     "ini": 417.86,
+     "fin": 418.57,
+     "p": "valley."
+    }
+   ]
+  },
+  {
+   "ini": 418.57,
+   "fin": 423.59,
+   "texto": "But something slowly began to dawn on me I still loved what I did.",
+   "palabras": [
+    {
+     "ini": 418.57,
+     "fin": 418.91,
+     "p": "But"
+    },
+    {
+     "ini": 418.91,
+     "fin": 419.26,
+     "p": "something"
+    },
+    {
+     "ini": 419.26,
+     "fin": 419.6,
+     "p": "slowly"
+    },
+    {
+     "ini": 419.6,
+     "fin": 419.95,
+     "p": "began"
+    },
+    {
+     "ini": 419.95,
+     "fin": 420.29,
+     "p": "to"
+    },
+    {
+     "ini": 420.29,
+     "fin": 420.64,
+     "p": "dawn"
+    },
+    {
+     "ini": 420.64,
+     "fin": 420.98,
+     "p": "on"
+    },
+    {
+     "ini": 420.98,
+     "fin": 421.32,
+     "p": "me"
+    },
+    {
+     "ini": 421.32,
+     "fin": 421.67,
+     "p": "I"
+    },
+    {
+     "ini": 421.67,
+     "fin": 422.01,
+     "p": "still"
+    },
+    {
+     "ini": 422.01,
+     "fin": 422.36,
+     "p": "loved"
+    },
+    {
+     "ini": 422.36,
+     "fin": 422.7,
+     "p": "what"
+    },
+    {
+     "ini": 422.7,
+     "fin": 423.04,
+     "p": "I"
+    },
+    {
+     "ini": 423.04,
+     "fin": 423.59,
+     "p": "did."
+    }
+   ]
+  },
+  {
+   "ini": 423.59,
+   "fin": 427.8,
+   "texto": "The turn of events at Apple had not changed that one bit.",
+   "palabras": [
+    {
+     "ini": 423.59,
+     "fin": 423.94,
+     "p": "The"
+    },
+    {
+     "ini": 423.94,
+     "fin": 424.29,
+     "p": "turn"
+    },
+    {
+     "ini": 424.29,
+     "fin": 424.64,
+     "p": "of"
+    },
+    {
+     "ini": 424.64,
+     "fin": 424.99,
+     "p": "events"
+    },
+    {
+     "ini": 424.99,
+     "fin": 425.34,
+     "p": "at"
+    },
+    {
+     "ini": 425.34,
+     "fin": 425.69,
+     "p": "Apple"
+    },
+    {
+     "ini": 425.69,
+     "fin": 426.05,
+     "p": "had"
+    },
+    {
+     "ini": 426.05,
+     "fin": 426.4,
+     "p": "not"
+    },
+    {
+     "ini": 426.4,
+     "fin": 426.75,
+     "p": "changed"
+    },
+    {
+     "ini": 426.75,
+     "fin": 427.1,
+     "p": "that"
+    },
+    {
+     "ini": 427.1,
+     "fin": 427.45,
+     "p": "one"
+    },
+    {
+     "ini": 427.45,
+     "fin": 427.8,
+     "p": "bit."
+    }
+   ]
+  },
+  {
+   "ini": 427.8,
+   "fin": 432.09,
+   "texto": "I had been rejected, but I was still in love.",
+   "palabras": [
+    {
+     "ini": 427.8,
+     "fin": 428.12,
+     "p": "I"
+    },
+    {
+     "ini": 428.12,
+     "fin": 428.43,
+     "p": "had"
+    },
+    {
+     "ini": 428.43,
+     "fin": 428.75,
+     "p": "been"
+    },
+    {
+     "ini": 428.75,
+     "fin": 429.07,
+     "p": "rejected,"
+    },
+    {
+     "ini": 429.07,
+     "fin": 429.38,
+     "p": "but"
+    },
+    {
+     "ini": 429.38,
+     "fin": 429.7,
+     "p": "I"
+    },
+    {
+     "ini": 429.7,
+     "fin": 430.02,
+     "p": "was"
+    },
+    {
+     "ini": 430.02,
+     "fin": 430.34,
+     "p": "still"
+    },
+    {
+     "ini": 430.34,
+     "fin": 430.65,
+     "p": "in"
+    },
+    {
+     "ini": 430.65,
+     "fin": 432.09,
+     "p": "love."
+    }
+   ]
+  },
+  {
+   "ini": 432.09,
+   "fin": 439.92,
+   "texto": "And so I decided to start over. I didn't see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened",
+   "palabras": [
+    {
+     "ini": 432.09,
+     "fin": 432.34,
+     "p": "And"
+    },
+    {
+     "ini": 432.34,
+     "fin": 432.59,
+     "p": "so"
+    },
+    {
+     "ini": 432.59,
+     "fin": 432.84,
+     "p": "I"
+    },
+    {
+     "ini": 432.84,
+     "fin": 433.09,
+     "p": "decided"
+    },
+    {
+     "ini": 433.09,
+     "fin": 433.34,
+     "p": "to"
+    },
+    {
+     "ini": 433.34,
+     "fin": 433.59,
+     "p": "start"
+    },
+    {
+     "ini": 433.59,
+     "fin": 434.91,
+     "p": "over."
+    },
+    {
+     "ini": 434.91,
+     "fin": 435.14,
+     "p": "I"
+    },
+    {
+     "ini": 435.14,
+     "fin": 435.37,
+     "p": "didn't"
+    },
+    {
+     "ini": 435.37,
+     "fin": 435.6,
+     "p": "see"
+    },
+    {
+     "ini": 435.6,
+     "fin": 435.83,
+     "p": "it"
+    },
+    {
+     "ini": 435.83,
+     "fin": 436.06,
+     "p": "then,"
+    },
+    {
+     "ini": 436.06,
+     "fin": 436.29,
+     "p": "but"
+    },
+    {
+     "ini": 436.29,
+     "fin": 436.52,
+     "p": "it"
+    },
+    {
+     "ini": 436.52,
+     "fin": 436.76,
+     "p": "turned"
+    },
+    {
+     "ini": 436.76,
+     "fin": 436.99,
+     "p": "out"
+    },
+    {
+     "ini": 436.99,
+     "fin": 437.22,
+     "p": "that"
+    },
+    {
+     "ini": 437.22,
+     "fin": 437.45,
+     "p": "getting"
+    },
+    {
+     "ini": 437.45,
+     "fin": 437.68,
+     "p": "fired"
+    },
+    {
+     "ini": 437.68,
+     "fin": 437.91,
+     "p": "from"
+    },
+    {
+     "ini": 437.91,
+     "fin": 438.11,
+     "p": "Apple"
+    },
+    {
+     "ini": 438.11,
+     "fin": 438.31,
+     "p": "was"
+    },
+    {
+     "ini": 438.31,
+     "fin": 438.51,
+     "p": "the"
+    },
+    {
+     "ini": 438.51,
+     "fin": 438.71,
+     "p": "best"
+    },
+    {
+     "ini": 438.71,
+     "fin": 438.91,
+     "p": "thing"
+    },
+    {
+     "ini": 438.91,
+     "fin": 439.11,
+     "p": "that"
+    },
+    {
+     "ini": 439.11,
+     "fin": 439.32,
+     "p": "could"
+    },
+    {
+     "ini": 439.32,
+     "fin": 439.52,
+     "p": "have"
+    },
+    {
+     "ini": 439.52,
+     "fin": 439.72,
+     "p": "ever"
+    },
+    {
+     "ini": 439.72,
+     "fin": 439.92,
+     "p": "happened"
+    }
+   ]
+  },
+  {
+   "ini": 439.92,
+   "fin": 447.16,
+   "texto": "to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything.",
+   "palabras": [
+    {
+     "ini": 439.92,
+     "fin": 440.12,
+     "p": "to"
+    },
+    {
+     "ini": 440.12,
+     "fin": 441.01,
+     "p": "me."
+    },
+    {
+     "ini": 441.01,
+     "fin": 441.37,
+     "p": "The"
+    },
+    {
+     "ini": 441.37,
+     "fin": 441.74,
+     "p": "heaviness"
+    },
+    {
+     "ini": 441.74,
+     "fin": 442.1,
+     "p": "of"
+    },
+    {
+     "ini": 442.1,
+     "fin": 442.46,
+     "p": "being"
+    },
+    {
+     "ini": 442.46,
+     "fin": 442.83,
+     "p": "successful"
+    },
+    {
+     "ini": 442.83,
+     "fin": 443.19,
+     "p": "was"
+    },
+    {
+     "ini": 443.19,
+     "fin": 443.5,
+     "p": "replaced"
+    },
+    {
+     "ini": 443.5,
+     "fin": 443.82,
+     "p": "by"
+    },
+    {
+     "ini": 443.82,
+     "fin": 444.13,
+     "p": "the"
+    },
+    {
+     "ini": 444.13,
+     "fin": 444.45,
+     "p": "lightness"
+    },
+    {
+     "ini": 444.45,
+     "fin": 444.76,
+     "p": "of"
+    },
+    {
+     "ini": 444.76,
+     "fin": 445.08,
+     "p": "being"
+    },
+    {
+     "ini": 445.08,
+     "fin": 445.39,
+     "p": "a"
+    },
+    {
+     "ini": 445.39,
+     "fin": 445.71,
+     "p": "beginner"
+    },
+    {
+     "ini": 445.71,
+     "fin": 446.22,
+     "p": "again,"
+    },
+    {
+     "ini": 446.22,
+     "fin": 446.45,
+     "p": "less"
+    },
+    {
+     "ini": 446.45,
+     "fin": 446.69,
+     "p": "sure"
+    },
+    {
+     "ini": 446.69,
+     "fin": 446.92,
+     "p": "about"
+    },
+    {
+     "ini": 446.92,
+     "fin": 447.16,
+     "p": "everything."
+    }
+   ]
+  },
+  {
+   "ini": 447.16,
+   "fin": 451.42,
+   "texto": "It freed me to enter one of the most creative periods of my life.",
+   "palabras": [
+    {
+     "ini": 447.16,
+     "fin": 447.43,
+     "p": "It"
+    },
+    {
+     "ini": 447.43,
+     "fin": 447.69,
+     "p": "freed"
+    },
+    {
+     "ini": 447.69,
+     "fin": 447.96,
+     "p": "me"
+    },
+    {
+     "ini": 447.96,
+     "fin": 448.23,
+     "p": "to"
+    },
+    {
+     "ini": 448.23,
+     "fin": 448.5,
+     "p": "enter"
+    },
+    {
+     "ini": 448.5,
+     "fin": 448.76,
+     "p": "one"
+    },
+    {
+     "ini": 448.76,
+     "fin": 449.03,
+     "p": "of"
+    },
+    {
+     "ini": 449.03,
+     "fin": 449.3,
+     "p": "the"
+    },
+    {
+     "ini": 449.3,
+     "fin": 449.56,
+     "p": "most"
+    },
+    {
+     "ini": 449.56,
+     "fin": 449.83,
+     "p": "creative"
+    },
+    {
+     "ini": 449.83,
+     "fin": 450.1,
+     "p": "periods"
+    },
+    {
+     "ini": 450.1,
+     "fin": 450.36,
+     "p": "of"
+    },
+    {
+     "ini": 450.36,
+     "fin": 450.63,
+     "p": "my"
+    },
+    {
+     "ini": 450.63,
+     "fin": 451.42,
+     "p": "life."
+    }
+   ]
+  },
+  {
+   "ini": 451.42,
+   "fin": 459.78,
+   "texto": "During the next five years, I started a company named NeXT, another company named Pixar, and fell in love with an amazing woman who would become my wife.",
+   "palabras": [
+    {
+     "ini": 451.42,
+     "fin": 451.69,
+     "p": "During"
+    },
+    {
+     "ini": 451.69,
+     "fin": 451.95,
+     "p": "the"
+    },
+    {
+     "ini": 451.95,
+     "fin": 452.22,
+     "p": "next"
+    },
+    {
+     "ini": 452.22,
+     "fin": 452.49,
+     "p": "five"
+    },
+    {
+     "ini": 452.49,
+     "fin": 452.75,
+     "p": "years,"
+    },
+    {
+     "ini": 452.75,
+     "fin": 453.02,
+     "p": "I"
+    },
+    {
+     "ini": 453.02,
+     "fin": 453.28,
+     "p": "started"
+    },
+    {
+     "ini": 453.28,
+     "fin": 453.55,
+     "p": "a"
+    },
+    {
+     "ini": 453.55,
+     "fin": 453.82,
+     "p": "company"
+    },
+    {
+     "ini": 453.82,
+     "fin": 454.08,
+     "p": "named"
+    },
+    {
+     "ini": 454.08,
+     "fin": 454.53,
+     "p": "NeXT,"
+    },
+    {
+     "ini": 454.53,
+     "fin": 454.87,
+     "p": "another"
+    },
+    {
+     "ini": 454.87,
+     "fin": 455.21,
+     "p": "company"
+    },
+    {
+     "ini": 455.21,
+     "fin": 455.55,
+     "p": "named"
+    },
+    {
+     "ini": 455.55,
+     "fin": 455.89,
+     "p": "Pixar,"
+    },
+    {
+     "ini": 455.89,
+     "fin": 456.14,
+     "p": "and"
+    },
+    {
+     "ini": 456.14,
+     "fin": 456.38,
+     "p": "fell"
+    },
+    {
+     "ini": 456.38,
+     "fin": 456.63,
+     "p": "in"
+    },
+    {
+     "ini": 456.63,
+     "fin": 456.87,
+     "p": "love"
+    },
+    {
+     "ini": 456.87,
+     "fin": 457.12,
+     "p": "with"
+    },
+    {
+     "ini": 457.12,
+     "fin": 457.36,
+     "p": "an"
+    },
+    {
+     "ini": 457.36,
+     "fin": 457.61,
+     "p": "amazing"
+    },
+    {
+     "ini": 457.61,
+     "fin": 457.85,
+     "p": "woman"
+    },
+    {
+     "ini": 457.85,
+     "fin": 458.1,
+     "p": "who"
+    },
+    {
+     "ini": 458.1,
+     "fin": 458.34,
+     "p": "would"
+    },
+    {
+     "ini": 458.34,
+     "fin": 458.59,
+     "p": "become"
+    },
+    {
+     "ini": 458.59,
+     "fin": 458.83,
+     "p": "my"
+    },
+    {
+     "ini": 458.83,
+     "fin": 459.78,
+     "p": "wife."
+    }
+   ]
+  },
+  {
+   "ini": 459.78,
+   "fin": 469.98,
+   "texto": "Pixar went on to create the worlds first computer animated feature film, Toy Story, and is now the most successful animation studio in the world.",
+   "palabras": [
+    {
+     "ini": 459.78,
+     "fin": 460.04,
+     "p": "Pixar"
+    },
+    {
+     "ini": 460.04,
+     "fin": 460.29,
+     "p": "went"
+    },
+    {
+     "ini": 460.29,
+     "fin": 460.55,
+     "p": "on"
+    },
+    {
+     "ini": 460.55,
+     "fin": 460.81,
+     "p": "to"
+    },
+    {
+     "ini": 460.81,
+     "fin": 461.07,
+     "p": "create"
+    },
+    {
+     "ini": 461.07,
+     "fin": 461.32,
+     "p": "the"
+    },
+    {
+     "ini": 461.32,
+     "fin": 461.58,
+     "p": "worlds"
+    },
+    {
+     "ini": 461.58,
+     "fin": 461.84,
+     "p": "first"
+    },
+    {
+     "ini": 461.84,
+     "fin": 462.09,
+     "p": "computer"
+    },
+    {
+     "ini": 462.09,
+     "fin": 462.35,
+     "p": "animated"
+    },
+    {
+     "ini": 462.35,
+     "fin": 462.61,
+     "p": "feature"
+    },
+    {
+     "ini": 462.61,
+     "fin": 463.11,
+     "p": "film,"
+    },
+    {
+     "ini": 463.11,
+     "fin": 463.61,
+     "p": "Toy"
+    },
+    {
+     "ini": 463.61,
+     "fin": 464.38,
+     "p": "Story,"
+    },
+    {
+     "ini": 464.38,
+     "fin": 464.89,
+     "p": "and"
+    },
+    {
+     "ini": 464.89,
+     "fin": 465.4,
+     "p": "is"
+    },
+    {
+     "ini": 465.4,
+     "fin": 465.91,
+     "p": "now"
+    },
+    {
+     "ini": 465.91,
+     "fin": 466.42,
+     "p": "the"
+    },
+    {
+     "ini": 466.42,
+     "fin": 466.93,
+     "p": "most"
+    },
+    {
+     "ini": 466.93,
+     "fin": 467.43,
+     "p": "successful"
+    },
+    {
+     "ini": 467.43,
+     "fin": 467.94,
+     "p": "animation"
+    },
+    {
+     "ini": 467.94,
+     "fin": 468.45,
+     "p": "studio"
+    },
+    {
+     "ini": 468.45,
+     "fin": 468.96,
+     "p": "in"
+    },
+    {
+     "ini": 468.96,
+     "fin": 469.47,
+     "p": "the"
+    },
+    {
+     "ini": 469.47,
+     "fin": 469.98,
+     "p": "world."
+    }
+   ]
+  },
+  {
+   "ini": 469.98,
+   "fin": 479.89,
+   "texto": "In a remarkable turn of events, Apple bought NeXT, I returned to Apple, and the technology we developed at NeXT is at the heart of Apple's current renaissance.",
+   "palabras": [
+    {
+     "ini": 469.98,
+     "fin": 470.4,
+     "p": "In"
+    },
+    {
+     "ini": 470.4,
+     "fin": 470.83,
+     "p": "a"
+    },
+    {
+     "ini": 470.83,
+     "fin": 471.25,
+     "p": "remarkable"
+    },
+    {
+     "ini": 471.25,
+     "fin": 471.68,
+     "p": "turn"
+    },
+    {
+     "ini": 471.68,
+     "fin": 472.1,
+     "p": "of"
+    },
+    {
+     "ini": 472.1,
+     "fin": 472.53,
+     "p": "events,"
+    },
+    {
+     "ini": 472.53,
+     "fin": 472.95,
+     "p": "Apple"
+    },
+    {
+     "ini": 472.95,
+     "fin": 473.37,
+     "p": "bought"
+    },
+    {
+     "ini": 473.37,
+     "fin": 473.89,
+     "p": "NeXT,"
+    },
+    {
+     "ini": 473.89,
+     "fin": 474.17,
+     "p": "I"
+    },
+    {
+     "ini": 474.17,
+     "fin": 474.45,
+     "p": "returned"
+    },
+    {
+     "ini": 474.45,
+     "fin": 474.74,
+     "p": "to"
+    },
+    {
+     "ini": 474.74,
+     "fin": 475.02,
+     "p": "Apple,"
+    },
+    {
+     "ini": 475.02,
+     "fin": 475.3,
+     "p": "and"
+    },
+    {
+     "ini": 475.3,
+     "fin": 475.58,
+     "p": "the"
+    },
+    {
+     "ini": 475.58,
+     "fin": 475.86,
+     "p": "technology"
+    },
+    {
+     "ini": 475.86,
+     "fin": 476.15,
+     "p": "we"
+    },
+    {
+     "ini": 476.15,
+     "fin": 476.43,
+     "p": "developed"
+    },
+    {
+     "ini": 476.43,
+     "fin": 476.71,
+     "p": "at"
+    },
+    {
+     "ini": 476.71,
+     "fin": 477.01,
+     "p": "NeXT"
+    },
+    {
+     "ini": 477.01,
+     "fin": 477.32,
+     "p": "is"
+    },
+    {
+     "ini": 477.32,
+     "fin": 477.62,
+     "p": "at"
+    },
+    {
+     "ini": 477.62,
+     "fin": 477.92,
+     "p": "the"
+    },
+    {
+     "ini": 477.92,
+     "fin": 478.23,
+     "p": "heart"
+    },
+    {
+     "ini": 478.23,
+     "fin": 478.53,
+     "p": "of"
+    },
+    {
+     "ini": 478.53,
+     "fin": 478.83,
+     "p": "Apple's"
+    },
+    {
+     "ini": 478.83,
+     "fin": 479.14,
+     "p": "current"
+    },
+    {
+     "ini": 479.14,
+     "fin": 479.89,
+     "p": "renaissance."
+    }
+   ]
+  },
+  {
+   "ini": 479.89,
+   "fin": 483.88,
+   "texto": "And Laurene and I have a wonderful family together.",
+   "palabras": [
+    {
+     "ini": 479.89,
+     "fin": 480.21,
+     "p": "And"
+    },
+    {
+     "ini": 480.21,
+     "fin": 480.53,
+     "p": "Laurene"
+    },
+    {
+     "ini": 480.53,
+     "fin": 480.85,
+     "p": "and"
+    },
+    {
+     "ini": 480.85,
+     "fin": 481.17,
+     "p": "I"
+    },
+    {
+     "ini": 481.17,
+     "fin": 481.5,
+     "p": "have"
+    },
+    {
+     "ini": 481.5,
+     "fin": 481.82,
+     "p": "a"
+    },
+    {
+     "ini": 481.82,
+     "fin": 482.14,
+     "p": "wonderful"
+    },
+    {
+     "ini": 482.14,
+     "fin": 482.46,
+     "p": "family"
+    },
+    {
+     "ini": 482.46,
+     "fin": 483.88,
+     "p": "together."
+    }
+   ]
+  },
+  {
+   "ini": 483.88,
+   "fin": 488.15,
+   "texto": "I'm pretty sure none of this would have happened if I hadn't been fired from Apple.",
+   "palabras": [
+    {
+     "ini": 483.88,
+     "fin": 484.15,
+     "p": "I'm"
+    },
+    {
+     "ini": 484.15,
+     "fin": 484.41,
+     "p": "pretty"
+    },
+    {
+     "ini": 484.41,
+     "fin": 484.68,
+     "p": "sure"
+    },
+    {
+     "ini": 484.68,
+     "fin": 484.95,
+     "p": "none"
+    },
+    {
+     "ini": 484.95,
+     "fin": 485.21,
+     "p": "of"
+    },
+    {
+     "ini": 485.21,
+     "fin": 485.48,
+     "p": "this"
+    },
+    {
+     "ini": 485.48,
+     "fin": 485.75,
+     "p": "would"
+    },
+    {
+     "ini": 485.75,
+     "fin": 485.97,
+     "p": "have"
+    },
+    {
+     "ini": 485.97,
+     "fin": 486.19,
+     "p": "happened"
+    },
+    {
+     "ini": 486.19,
+     "fin": 486.42,
+     "p": "if"
+    },
+    {
+     "ini": 486.42,
+     "fin": 486.64,
+     "p": "I"
+    },
+    {
+     "ini": 486.64,
+     "fin": 486.86,
+     "p": "hadn't"
+    },
+    {
+     "ini": 486.86,
+     "fin": 487.08,
+     "p": "been"
+    },
+    {
+     "ini": 487.08,
+     "fin": 487.3,
+     "p": "fired"
+    },
+    {
+     "ini": 487.3,
+     "fin": 487.53,
+     "p": "from"
+    },
+    {
+     "ini": 487.53,
+     "fin": 488.15,
+     "p": "Apple."
+    }
+   ]
+  },
+  {
+   "ini": 488.15,
+   "fin": 492.43,
+   "texto": "It was awful tasting medicine, but I guess the patient needed it.",
+   "palabras": [
+    {
+     "ini": 488.15,
+     "fin": 488.46,
+     "p": "It"
+    },
+    {
+     "ini": 488.46,
+     "fin": 488.77,
+     "p": "was"
+    },
+    {
+     "ini": 488.77,
+     "fin": 489.08,
+     "p": "awful"
+    },
+    {
+     "ini": 489.08,
+     "fin": 489.4,
+     "p": "tasting"
+    },
+    {
+     "ini": 489.4,
+     "fin": 489.71,
+     "p": "medicine,"
+    },
+    {
+     "ini": 489.71,
+     "fin": 490.02,
+     "p": "but"
+    },
+    {
+     "ini": 490.02,
+     "fin": 490.33,
+     "p": "I"
+    },
+    {
+     "ini": 490.33,
+     "fin": 490.64,
+     "p": "guess"
+    },
+    {
+     "ini": 490.64,
+     "fin": 490.95,
+     "p": "the"
+    },
+    {
+     "ini": 490.95,
+     "fin": 491.27,
+     "p": "patient"
+    },
+    {
+     "ini": 491.27,
+     "fin": 491.58,
+     "p": "needed"
+    },
+    {
+     "ini": 491.58,
+     "fin": 492.43,
+     "p": "it."
+    }
+   ]
+  },
+  {
+   "ini": 492.43,
+   "fin": 496.61,
+   "texto": "Sometimes life hits you in the head with a brick.",
+   "palabras": [
+    {
+     "ini": 492.43,
+     "fin": 492.85,
+     "p": "Sometimes"
+    },
+    {
+     "ini": 492.85,
+     "fin": 493.27,
+     "p": "life"
+    },
+    {
+     "ini": 493.27,
+     "fin": 493.68,
+     "p": "hits"
+    },
+    {
+     "ini": 493.68,
+     "fin": 494.1,
+     "p": "you"
+    },
+    {
+     "ini": 494.1,
+     "fin": 494.52,
+     "p": "in"
+    },
+    {
+     "ini": 494.52,
+     "fin": 494.94,
+     "p": "the"
+    },
+    {
+     "ini": 494.94,
+     "fin": 495.35,
+     "p": "head"
+    },
+    {
+     "ini": 495.35,
+     "fin": 495.77,
+     "p": "with"
+    },
+    {
+     "ini": 495.77,
+     "fin": 496.19,
+     "p": "a"
+    },
+    {
+     "ini": 496.19,
+     "fin": 496.61,
+     "p": "brick."
+    }
+   ]
+  },
+  {
+   "ini": 496.61,
+   "fin": 502.14,
+   "texto": "Don't lose faith. I'm convinced that the only thing that kept me going was that I loved what I did.",
+   "palabras": [
+    {
+     "ini": 496.61,
+     "fin": 497.02,
+     "p": "Don't"
+    },
+    {
+     "ini": 497.02,
+     "fin": 497.44,
+     "p": "lose"
+    },
+    {
+     "ini": 497.44,
+     "fin": 498.3,
+     "p": "faith."
+    },
+    {
+     "ini": 498.3,
+     "fin": 498.51,
+     "p": "I'm"
+    },
+    {
+     "ini": 498.51,
+     "fin": 498.72,
+     "p": "convinced"
+    },
+    {
+     "ini": 498.72,
+     "fin": 498.92,
+     "p": "that"
+    },
+    {
+     "ini": 498.92,
+     "fin": 499.13,
+     "p": "the"
+    },
+    {
+     "ini": 499.13,
+     "fin": 499.34,
+     "p": "only"
+    },
+    {
+     "ini": 499.34,
+     "fin": 499.55,
+     "p": "thing"
+    },
+    {
+     "ini": 499.55,
+     "fin": 499.75,
+     "p": "that"
+    },
+    {
+     "ini": 499.75,
+     "fin": 499.96,
+     "p": "kept"
+    },
+    {
+     "ini": 499.96,
+     "fin": 500.17,
+     "p": "me"
+    },
+    {
+     "ini": 500.17,
+     "fin": 500.38,
+     "p": "going"
+    },
+    {
+     "ini": 500.38,
+     "fin": 500.59,
+     "p": "was"
+    },
+    {
+     "ini": 500.59,
+     "fin": 500.79,
+     "p": "that"
+    },
+    {
+     "ini": 500.79,
+     "fin": 501.0,
+     "p": "I"
+    },
+    {
+     "ini": 501.0,
+     "fin": 501.21,
+     "p": "loved"
+    },
+    {
+     "ini": 501.21,
+     "fin": 501.52,
+     "p": "what"
+    },
+    {
+     "ini": 501.52,
+     "fin": 501.83,
+     "p": "I"
+    },
+    {
+     "ini": 501.83,
+     "fin": 502.14,
+     "p": "did."
+    }
+   ]
+  },
+  {
+   "ini": 502.14,
+   "fin": 508.17,
+   "texto": "You've got to find what you love. And that is as true for your work as it is for your lovers.",
+   "palabras": [
+    {
+     "ini": 502.14,
+     "fin": 502.45,
+     "p": "You've"
+    },
+    {
+     "ini": 502.45,
+     "fin": 502.76,
+     "p": "got"
+    },
+    {
+     "ini": 502.76,
+     "fin": 503.07,
+     "p": "to"
+    },
+    {
+     "ini": 503.07,
+     "fin": 503.38,
+     "p": "find"
+    },
+    {
+     "ini": 503.38,
+     "fin": 503.69,
+     "p": "what"
+    },
+    {
+     "ini": 503.69,
+     "fin": 503.99,
+     "p": "you"
+    },
+    {
+     "ini": 503.99,
+     "fin": 504.54,
+     "p": "love."
+    },
+    {
+     "ini": 504.54,
+     "fin": 504.75,
+     "p": "And"
+    },
+    {
+     "ini": 504.75,
+     "fin": 504.96,
+     "p": "that"
+    },
+    {
+     "ini": 504.96,
+     "fin": 505.17,
+     "p": "is"
+    },
+    {
+     "ini": 505.17,
+     "fin": 505.38,
+     "p": "as"
+    },
+    {
+     "ini": 505.38,
+     "fin": 505.59,
+     "p": "true"
+    },
+    {
+     "ini": 505.59,
+     "fin": 505.8,
+     "p": "for"
+    },
+    {
+     "ini": 505.8,
+     "fin": 506.0,
+     "p": "your"
+    },
+    {
+     "ini": 506.0,
+     "fin": 506.21,
+     "p": "work"
+    },
+    {
+     "ini": 506.21,
+     "fin": 506.42,
+     "p": "as"
+    },
+    {
+     "ini": 506.42,
+     "fin": 506.63,
+     "p": "it"
+    },
+    {
+     "ini": 506.63,
+     "fin": 506.84,
+     "p": "is"
+    },
+    {
+     "ini": 506.84,
+     "fin": 507.05,
+     "p": "for"
+    },
+    {
+     "ini": 507.05,
+     "fin": 507.26,
+     "p": "your"
+    },
+    {
+     "ini": 507.26,
+     "fin": 508.17,
+     "p": "lovers."
+    }
+   ]
+  },
+  {
+   "ini": 508.17,
+   "fin": 515.08,
+   "texto": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+   "palabras": [
+    {
+     "ini": 508.17,
+     "fin": 508.33,
+     "p": "Your"
+    },
+    {
+     "ini": 508.33,
+     "fin": 508.49,
+     "p": "work"
+    },
+    {
+     "ini": 508.49,
+     "fin": 508.65,
+     "p": "is"
+    },
+    {
+     "ini": 508.65,
+     "fin": 508.81,
+     "p": "going"
+    },
+    {
+     "ini": 508.81,
+     "fin": 508.97,
+     "p": "to"
+    },
+    {
+     "ini": 508.97,
+     "fin": 509.13,
+     "p": "fill"
+    },
+    {
+     "ini": 509.13,
+     "fin": 509.3,
+     "p": "a"
+    },
+    {
+     "ini": 509.3,
+     "fin": 509.46,
+     "p": "large"
+    },
+    {
+     "ini": 509.46,
+     "fin": 509.62,
+     "p": "part"
+    },
+    {
+     "ini": 509.62,
+     "fin": 509.78,
+     "p": "of"
+    },
+    {
+     "ini": 509.78,
+     "fin": 509.94,
+     "p": "your"
+    },
+    {
+     "ini": 509.94,
+     "fin": 510.1,
+     "p": "life,"
+    },
+    {
+     "ini": 510.1,
+     "fin": 510.39,
+     "p": "and"
+    },
+    {
+     "ini": 510.39,
+     "fin": 510.69,
+     "p": "the"
+    },
+    {
+     "ini": 510.69,
+     "fin": 510.98,
+     "p": "only"
+    },
+    {
+     "ini": 510.98,
+     "fin": 511.27,
+     "p": "way"
+    },
+    {
+     "ini": 511.27,
+     "fin": 511.57,
+     "p": "to"
+    },
+    {
+     "ini": 511.57,
+     "fin": 511.86,
+     "p": "be"
+    },
+    {
+     "ini": 511.86,
+     "fin": 512.15,
+     "p": "truly"
+    },
+    {
+     "ini": 512.15,
+     "fin": 512.45,
+     "p": "satisfied"
+    },
+    {
+     "ini": 512.45,
+     "fin": 512.71,
+     "p": "is"
+    },
+    {
+     "ini": 512.71,
+     "fin": 512.97,
+     "p": "to"
+    },
+    {
+     "ini": 512.97,
+     "fin": 513.24,
+     "p": "do"
+    },
+    {
+     "ini": 513.24,
+     "fin": 513.5,
+     "p": "what"
+    },
+    {
+     "ini": 513.5,
+     "fin": 513.76,
+     "p": "you"
+    },
+    {
+     "ini": 513.76,
+     "fin": 514.02,
+     "p": "believe"
+    },
+    {
+     "ini": 514.02,
+     "fin": 514.28,
+     "p": "is"
+    },
+    {
+     "ini": 514.28,
+     "fin": 514.55,
+     "p": "great"
+    },
+    {
+     "ini": 514.55,
+     "fin": 515.08,
+     "p": "work."
+    }
+   ]
+  },
+  {
+   "ini": 515.08,
+   "fin": 518.46,
+   "texto": "And the only way to do great work is to love what you do.",
+   "palabras": [
+    {
+     "ini": 515.08,
+     "fin": 515.32,
+     "p": "And"
+    },
+    {
+     "ini": 515.32,
+     "fin": 515.56,
+     "p": "the"
+    },
+    {
+     "ini": 515.56,
+     "fin": 515.8,
+     "p": "only"
+    },
+    {
+     "ini": 515.8,
+     "fin": 516.04,
+     "p": "way"
+    },
+    {
+     "ini": 516.04,
+     "fin": 516.29,
+     "p": "to"
+    },
+    {
+     "ini": 516.29,
+     "fin": 516.53,
+     "p": "do"
+    },
+    {
+     "ini": 516.53,
+     "fin": 516.77,
+     "p": "great"
+    },
+    {
+     "ini": 516.77,
+     "fin": 517.01,
+     "p": "work"
+    },
+    {
+     "ini": 517.01,
+     "fin": 517.25,
+     "p": "is"
+    },
+    {
+     "ini": 517.25,
+     "fin": 517.49,
+     "p": "to"
+    },
+    {
+     "ini": 517.49,
+     "fin": 517.73,
+     "p": "love"
+    },
+    {
+     "ini": 517.73,
+     "fin": 517.97,
+     "p": "what"
+    },
+    {
+     "ini": 517.97,
+     "fin": 518.22,
+     "p": "you"
+    },
+    {
+     "ini": 518.22,
+     "fin": 518.46,
+     "p": "do."
+    }
+   ]
+  },
+  {
+   "ini": 518.46,
+   "fin": 522.19,
+   "texto": "If you haven't found it yet, keep looking.",
+   "palabras": [
+    {
+     "ini": 518.46,
+     "fin": 518.93,
+     "p": "If"
+    },
+    {
+     "ini": 518.93,
+     "fin": 519.39,
+     "p": "you"
+    },
+    {
+     "ini": 519.39,
+     "fin": 519.86,
+     "p": "haven't"
+    },
+    {
+     "ini": 519.86,
+     "fin": 520.32,
+     "p": "found"
+    },
+    {
+     "ini": 520.32,
+     "fin": 520.79,
+     "p": "it"
+    },
+    {
+     "ini": 520.79,
+     "fin": 521.26,
+     "p": "yet,"
+    },
+    {
+     "ini": 521.26,
+     "fin": 521.72,
+     "p": "keep"
+    },
+    {
+     "ini": 521.72,
+     "fin": 522.19,
+     "p": "looking."
+    }
+   ]
+  },
+  {
+   "ini": 522.19,
+   "fin": 527.51,
+   "texto": "Don't settle. As with all matters of the heart, you'll know when you find it.",
+   "palabras": [
+    {
+     "ini": 522.19,
+     "fin": 522.65,
+     "p": "Don't"
+    },
+    {
+     "ini": 522.65,
+     "fin": 523.74,
+     "p": "settle."
+    },
+    {
+     "ini": 523.74,
+     "fin": 524.03,
+     "p": "As"
+    },
+    {
+     "ini": 524.03,
+     "fin": 524.32,
+     "p": "with"
+    },
+    {
+     "ini": 524.32,
+     "fin": 524.61,
+     "p": "all"
+    },
+    {
+     "ini": 524.61,
+     "fin": 524.9,
+     "p": "matters"
+    },
+    {
+     "ini": 524.9,
+     "fin": 525.19,
+     "p": "of"
+    },
+    {
+     "ini": 525.19,
+     "fin": 525.48,
+     "p": "the"
+    },
+    {
+     "ini": 525.48,
+     "fin": 525.77,
+     "p": "heart,"
+    },
+    {
+     "ini": 525.77,
+     "fin": 526.06,
+     "p": "you'll"
+    },
+    {
+     "ini": 526.06,
+     "fin": 526.35,
+     "p": "know"
+    },
+    {
+     "ini": 526.35,
+     "fin": 526.64,
+     "p": "when"
+    },
+    {
+     "ini": 526.64,
+     "fin": 526.93,
+     "p": "you"
+    },
+    {
+     "ini": 526.93,
+     "fin": 527.22,
+     "p": "find"
+    },
+    {
+     "ini": 527.22,
+     "fin": 527.51,
+     "p": "it."
+    }
+   ]
+  },
+  {
+   "ini": 527.51,
+   "fin": 532.26,
+   "texto": "And, like any great relationship, it just gets better and better as the years roll on.",
+   "palabras": [
+    {
+     "ini": 527.51,
+     "fin": 527.79,
+     "p": "And,"
+    },
+    {
+     "ini": 527.79,
+     "fin": 528.08,
+     "p": "like"
+    },
+    {
+     "ini": 528.08,
+     "fin": 528.36,
+     "p": "any"
+    },
+    {
+     "ini": 528.36,
+     "fin": 528.65,
+     "p": "great"
+    },
+    {
+     "ini": 528.65,
+     "fin": 529.06,
+     "p": "relationship,"
+    },
+    {
+     "ini": 529.06,
+     "fin": 529.33,
+     "p": "it"
+    },
+    {
+     "ini": 529.33,
+     "fin": 529.59,
+     "p": "just"
+    },
+    {
+     "ini": 529.59,
+     "fin": 529.86,
+     "p": "gets"
+    },
+    {
+     "ini": 529.86,
+     "fin": 530.13,
+     "p": "better"
+    },
+    {
+     "ini": 530.13,
+     "fin": 530.39,
+     "p": "and"
+    },
+    {
+     "ini": 530.39,
+     "fin": 530.66,
+     "p": "better"
+    },
+    {
+     "ini": 530.66,
+     "fin": 530.93,
+     "p": "as"
+    },
+    {
+     "ini": 530.93,
+     "fin": 531.19,
+     "p": "the"
+    },
+    {
+     "ini": 531.19,
+     "fin": 531.46,
+     "p": "years"
+    },
+    {
+     "ini": 531.46,
+     "fin": 531.73,
+     "p": "roll"
+    },
+    {
+     "ini": 531.73,
+     "fin": 532.26,
+     "p": "on."
+    }
+   ]
+  },
+  {
+   "ini": 532.26,
+   "fin": 536.87,
+   "texto": "So keep looking. Don't settle.",
+   "palabras": [
+    {
+     "ini": 532.26,
+     "fin": 533.04,
+     "p": "So"
+    },
+    {
+     "ini": 533.04,
+     "fin": 533.82,
+     "p": "keep"
+    },
+    {
+     "ini": 533.82,
+     "fin": 534.59,
+     "p": "looking."
+    },
+    {
+     "ini": 534.59,
+     "fin": 535.37,
+     "p": "Don't"
+    },
+    {
+     "ini": 535.37,
+     "fin": 536.87,
+     "p": "settle."
+    }
+   ]
+  },
+  {
+   "ini": 545.3,
+   "fin": 556.25,
+   "texto": "My third story is about death. When I was 17, I read a quote that went something like: \"If you live each day as if it was your last, someday",
+   "palabras": [
+    {
+     "ini": 545.3,
+     "fin": 545.83,
+     "p": "My"
+    },
+    {
+     "ini": 545.83,
+     "fin": 546.36,
+     "p": "third"
+    },
+    {
+     "ini": 546.36,
+     "fin": 546.89,
+     "p": "story"
+    },
+    {
+     "ini": 546.89,
+     "fin": 547.43,
+     "p": "is"
+    },
+    {
+     "ini": 547.43,
+     "fin": 547.96,
+     "p": "about"
+    },
+    {
+     "ini": 547.96,
+     "fin": 549.27,
+     "p": "death."
+    },
+    {
+     "ini": 549.27,
+     "fin": 549.54,
+     "p": "When"
+    },
+    {
+     "ini": 549.54,
+     "fin": 549.81,
+     "p": "I"
+    },
+    {
+     "ini": 549.81,
+     "fin": 550.08,
+     "p": "was"
+    },
+    {
+     "ini": 550.08,
+     "fin": 550.36,
+     "p": "17,"
+    },
+    {
+     "ini": 550.36,
+     "fin": 550.63,
+     "p": "I"
+    },
+    {
+     "ini": 550.63,
+     "fin": 550.9,
+     "p": "read"
+    },
+    {
+     "ini": 550.9,
+     "fin": 551.17,
+     "p": "a"
+    },
+    {
+     "ini": 551.17,
+     "fin": 551.44,
+     "p": "quote"
+    },
+    {
+     "ini": 551.44,
+     "fin": 551.71,
+     "p": "that"
+    },
+    {
+     "ini": 551.71,
+     "fin": 551.99,
+     "p": "went"
+    },
+    {
+     "ini": 551.99,
+     "fin": 552.26,
+     "p": "something"
+    },
+    {
+     "ini": 552.26,
+     "fin": 552.53,
+     "p": "like:"
+    },
+    {
+     "ini": 552.53,
+     "fin": 552.82,
+     "p": "\"If"
+    },
+    {
+     "ini": 552.82,
+     "fin": 553.12,
+     "p": "you"
+    },
+    {
+     "ini": 553.12,
+     "fin": 553.41,
+     "p": "live"
+    },
+    {
+     "ini": 553.41,
+     "fin": 553.7,
+     "p": "each"
+    },
+    {
+     "ini": 553.7,
+     "fin": 554.0,
+     "p": "day"
+    },
+    {
+     "ini": 554.0,
+     "fin": 554.29,
+     "p": "as"
+    },
+    {
+     "ini": 554.29,
+     "fin": 554.58,
+     "p": "if"
+    },
+    {
+     "ini": 554.58,
+     "fin": 554.87,
+     "p": "it"
+    },
+    {
+     "ini": 554.87,
+     "fin": 555.17,
+     "p": "was"
+    },
+    {
+     "ini": 555.17,
+     "fin": 555.46,
+     "p": "your"
+    },
+    {
+     "ini": 555.46,
+     "fin": 555.91,
+     "p": "last,"
+    },
+    {
+     "ini": 555.91,
+     "fin": 556.25,
+     "p": "someday"
+    }
+   ]
+  },
+  {
+   "ini": 556.25,
+   "fin": 559.13,
+   "texto": "you'll most certainly be right.\"",
+   "palabras": [
+    {
+     "ini": 556.25,
+     "fin": 556.6,
+     "p": "you'll"
+    },
+    {
+     "ini": 556.6,
+     "fin": 556.94,
+     "p": "most"
+    },
+    {
+     "ini": 556.94,
+     "fin": 557.28,
+     "p": "certainly"
+    },
+    {
+     "ini": 557.28,
+     "fin": 557.63,
+     "p": "be"
+    },
+    {
+     "ini": 557.63,
+     "fin": 559.13,
+     "p": "right.\""
+    }
+   ]
+  },
+  {
+   "ini": 560.86,
+   "fin": 569.06,
+   "texto": "It made an impression on me, and since then, for the past 33 years, I have looked in the mirror every morning and asked myself: \"If today were the last",
+   "palabras": [
+    {
+     "ini": 560.86,
+     "fin": 561.18,
+     "p": "It"
+    },
+    {
+     "ini": 561.18,
+     "fin": 561.5,
+     "p": "made"
+    },
+    {
+     "ini": 561.5,
+     "fin": 561.82,
+     "p": "an"
+    },
+    {
+     "ini": 561.82,
+     "fin": 562.15,
+     "p": "impression"
+    },
+    {
+     "ini": 562.15,
+     "fin": 562.47,
+     "p": "on"
+    },
+    {
+     "ini": 562.47,
+     "fin": 562.79,
+     "p": "me,"
+    },
+    {
+     "ini": 562.79,
+     "fin": 563.11,
+     "p": "and"
+    },
+    {
+     "ini": 563.11,
+     "fin": 563.43,
+     "p": "since"
+    },
+    {
+     "ini": 563.43,
+     "fin": 563.75,
+     "p": "then,"
+    },
+    {
+     "ini": 563.75,
+     "fin": 564.07,
+     "p": "for"
+    },
+    {
+     "ini": 564.07,
+     "fin": 564.39,
+     "p": "the"
+    },
+    {
+     "ini": 564.39,
+     "fin": 564.72,
+     "p": "past"
+    },
+    {
+     "ini": 564.72,
+     "fin": 565.04,
+     "p": "33"
+    },
+    {
+     "ini": 565.04,
+     "fin": 565.52,
+     "p": "years,"
+    },
+    {
+     "ini": 565.52,
+     "fin": 565.72,
+     "p": "I"
+    },
+    {
+     "ini": 565.72,
+     "fin": 565.92,
+     "p": "have"
+    },
+    {
+     "ini": 565.92,
+     "fin": 566.13,
+     "p": "looked"
+    },
+    {
+     "ini": 566.13,
+     "fin": 566.33,
+     "p": "in"
+    },
+    {
+     "ini": 566.33,
+     "fin": 566.53,
+     "p": "the"
+    },
+    {
+     "ini": 566.53,
+     "fin": 566.73,
+     "p": "mirror"
+    },
+    {
+     "ini": 566.73,
+     "fin": 566.94,
+     "p": "every"
+    },
+    {
+     "ini": 566.94,
+     "fin": 567.14,
+     "p": "morning"
+    },
+    {
+     "ini": 567.14,
+     "fin": 567.38,
+     "p": "and"
+    },
+    {
+     "ini": 567.38,
+     "fin": 567.62,
+     "p": "asked"
+    },
+    {
+     "ini": 567.62,
+     "fin": 567.86,
+     "p": "myself:"
+    },
+    {
+     "ini": 567.86,
+     "fin": 568.1,
+     "p": "\"If"
+    },
+    {
+     "ini": 568.1,
+     "fin": 568.34,
+     "p": "today"
+    },
+    {
+     "ini": 568.34,
+     "fin": 568.58,
+     "p": "were"
+    },
+    {
+     "ini": 568.58,
+     "fin": 568.82,
+     "p": "the"
+    },
+    {
+     "ini": 568.82,
+     "fin": 569.06,
+     "p": "last"
+    }
+   ]
+  },
+  {
+   "ini": 569.06,
+   "fin": 577.92,
+   "texto": "day of my life, would I want to do what I am about to do today?\" And whenever the answer has been \"No\" for too many days in a row,",
+   "palabras": [
+    {
+     "ini": 569.06,
+     "fin": 569.3,
+     "p": "day"
+    },
+    {
+     "ini": 569.3,
+     "fin": 569.54,
+     "p": "of"
+    },
+    {
+     "ini": 569.54,
+     "fin": 569.78,
+     "p": "my"
+    },
+    {
+     "ini": 569.78,
+     "fin": 570.02,
+     "p": "life,"
+    },
+    {
+     "ini": 570.02,
+     "fin": 570.33,
+     "p": "would"
+    },
+    {
+     "ini": 570.33,
+     "fin": 570.64,
+     "p": "I"
+    },
+    {
+     "ini": 570.64,
+     "fin": 570.94,
+     "p": "want"
+    },
+    {
+     "ini": 570.94,
+     "fin": 571.25,
+     "p": "to"
+    },
+    {
+     "ini": 571.25,
+     "fin": 571.56,
+     "p": "do"
+    },
+    {
+     "ini": 571.56,
+     "fin": 571.87,
+     "p": "what"
+    },
+    {
+     "ini": 571.87,
+     "fin": 572.18,
+     "p": "I"
+    },
+    {
+     "ini": 572.18,
+     "fin": 572.49,
+     "p": "am"
+    },
+    {
+     "ini": 572.49,
+     "fin": 572.79,
+     "p": "about"
+    },
+    {
+     "ini": 572.79,
+     "fin": 573.1,
+     "p": "to"
+    },
+    {
+     "ini": 573.1,
+     "fin": 573.41,
+     "p": "do"
+    },
+    {
+     "ini": 573.41,
+     "fin": 574.31,
+     "p": "today?\""
+    },
+    {
+     "ini": 574.31,
+     "fin": 574.55,
+     "p": "And"
+    },
+    {
+     "ini": 574.55,
+     "fin": 574.79,
+     "p": "whenever"
+    },
+    {
+     "ini": 574.79,
+     "fin": 575.03,
+     "p": "the"
+    },
+    {
+     "ini": 575.03,
+     "fin": 575.27,
+     "p": "answer"
+    },
+    {
+     "ini": 575.27,
+     "fin": 575.51,
+     "p": "has"
+    },
+    {
+     "ini": 575.51,
+     "fin": 575.75,
+     "p": "been"
+    },
+    {
+     "ini": 575.75,
+     "fin": 575.99,
+     "p": "\"No\""
+    },
+    {
+     "ini": 575.99,
+     "fin": 576.23,
+     "p": "for"
+    },
+    {
+     "ini": 576.23,
+     "fin": 576.47,
+     "p": "too"
+    },
+    {
+     "ini": 576.47,
+     "fin": 576.71,
+     "p": "many"
+    },
+    {
+     "ini": 576.71,
+     "fin": 576.95,
+     "p": "days"
+    },
+    {
+     "ini": 576.95,
+     "fin": 577.19,
+     "p": "in"
+    },
+    {
+     "ini": 577.19,
+     "fin": 577.43,
+     "p": "a"
+    },
+    {
+     "ini": 577.43,
+     "fin": 577.92,
+     "p": "row,"
+    }
+   ]
+  },
+  {
+   "ini": 577.92,
+   "fin": 587.92,
+   "texto": "I know I need to change something. Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.",
+   "palabras": [
+    {
+     "ini": 577.92,
+     "fin": 578.15,
+     "p": "I"
+    },
+    {
+     "ini": 578.15,
+     "fin": 578.39,
+     "p": "know"
+    },
+    {
+     "ini": 578.39,
+     "fin": 578.62,
+     "p": "I"
+    },
+    {
+     "ini": 578.62,
+     "fin": 578.86,
+     "p": "need"
+    },
+    {
+     "ini": 578.86,
+     "fin": 579.09,
+     "p": "to"
+    },
+    {
+     "ini": 579.09,
+     "fin": 579.32,
+     "p": "change"
+    },
+    {
+     "ini": 579.32,
+     "fin": 580.57,
+     "p": "something."
+    },
+    {
+     "ini": 580.57,
+     "fin": 580.91,
+     "p": "Remembering"
+    },
+    {
+     "ini": 580.91,
+     "fin": 581.24,
+     "p": "that"
+    },
+    {
+     "ini": 581.24,
+     "fin": 581.58,
+     "p": "I'll"
+    },
+    {
+     "ini": 581.58,
+     "fin": 581.91,
+     "p": "be"
+    },
+    {
+     "ini": 581.91,
+     "fin": 582.25,
+     "p": "dead"
+    },
+    {
+     "ini": 582.25,
+     "fin": 582.59,
+     "p": "soon"
+    },
+    {
+     "ini": 582.59,
+     "fin": 582.92,
+     "p": "is"
+    },
+    {
+     "ini": 582.92,
+     "fin": 583.26,
+     "p": "the"
+    },
+    {
+     "ini": 583.26,
+     "fin": 583.59,
+     "p": "most"
+    },
+    {
+     "ini": 583.59,
+     "fin": 583.93,
+     "p": "important"
+    },
+    {
+     "ini": 583.93,
+     "fin": 584.18,
+     "p": "tool"
+    },
+    {
+     "ini": 584.18,
+     "fin": 584.43,
+     "p": "I've"
+    },
+    {
+     "ini": 584.43,
+     "fin": 584.69,
+     "p": "ever"
+    },
+    {
+     "ini": 584.69,
+     "fin": 584.94,
+     "p": "encountered"
+    },
+    {
+     "ini": 584.94,
+     "fin": 585.19,
+     "p": "to"
+    },
+    {
+     "ini": 585.19,
+     "fin": 585.44,
+     "p": "help"
+    },
+    {
+     "ini": 585.44,
+     "fin": 585.7,
+     "p": "me"
+    },
+    {
+     "ini": 585.7,
+     "fin": 585.95,
+     "p": "make"
+    },
+    {
+     "ini": 585.95,
+     "fin": 586.2,
+     "p": "the"
+    },
+    {
+     "ini": 586.2,
+     "fin": 586.45,
+     "p": "big"
+    },
+    {
+     "ini": 586.45,
+     "fin": 586.7,
+     "p": "choices"
+    },
+    {
+     "ini": 586.7,
+     "fin": 586.96,
+     "p": "in"
+    },
+    {
+     "ini": 586.96,
+     "fin": 587.92,
+     "p": "life."
+    }
+   ]
+  },
+  {
+   "ini": 587.92,
+   "fin": 599.93,
+   "texto": "Because almost everything all external expectations, all pride, all fear of embarrassment or failure - these things just fall away in the face of death, leaving only what is truly",
+   "palabras": [
+    {
+     "ini": 587.92,
+     "fin": 588.52,
+     "p": "Because"
+    },
+    {
+     "ini": 588.52,
+     "fin": 589.12,
+     "p": "almost"
+    },
+    {
+     "ini": 589.12,
+     "fin": 589.72,
+     "p": "everything"
+    },
+    {
+     "ini": 589.72,
+     "fin": 590.32,
+     "p": "all"
+    },
+    {
+     "ini": 590.32,
+     "fin": 590.92,
+     "p": "external"
+    },
+    {
+     "ini": 590.92,
+     "fin": 591.52,
+     "p": "expectations,"
+    },
+    {
+     "ini": 591.52,
+     "fin": 592.11,
+     "p": "all"
+    },
+    {
+     "ini": 592.11,
+     "fin": 592.89,
+     "p": "pride,"
+    },
+    {
+     "ini": 592.89,
+     "fin": 593.14,
+     "p": "all"
+    },
+    {
+     "ini": 593.14,
+     "fin": 593.39,
+     "p": "fear"
+    },
+    {
+     "ini": 593.39,
+     "fin": 593.64,
+     "p": "of"
+    },
+    {
+     "ini": 593.64,
+     "fin": 593.89,
+     "p": "embarrassment"
+    },
+    {
+     "ini": 593.89,
+     "fin": 594.14,
+     "p": "or"
+    },
+    {
+     "ini": 594.14,
+     "fin": 594.39,
+     "p": "failure"
+    },
+    {
+     "ini": 594.39,
+     "fin": 594.87,
+     "p": "-"
+    },
+    {
+     "ini": 594.87,
+     "fin": 595.15,
+     "p": "these"
+    },
+    {
+     "ini": 595.15,
+     "fin": 595.44,
+     "p": "things"
+    },
+    {
+     "ini": 595.44,
+     "fin": 595.72,
+     "p": "just"
+    },
+    {
+     "ini": 595.72,
+     "fin": 596.01,
+     "p": "fall"
+    },
+    {
+     "ini": 596.01,
+     "fin": 596.29,
+     "p": "away"
+    },
+    {
+     "ini": 596.29,
+     "fin": 596.58,
+     "p": "in"
+    },
+    {
+     "ini": 596.58,
+     "fin": 596.86,
+     "p": "the"
+    },
+    {
+     "ini": 596.86,
+     "fin": 597.15,
+     "p": "face"
+    },
+    {
+     "ini": 597.15,
+     "fin": 597.43,
+     "p": "of"
+    },
+    {
+     "ini": 597.43,
+     "fin": 598.18,
+     "p": "death,"
+    },
+    {
+     "ini": 598.18,
+     "fin": 598.53,
+     "p": "leaving"
+    },
+    {
+     "ini": 598.53,
+     "fin": 598.88,
+     "p": "only"
+    },
+    {
+     "ini": 598.88,
+     "fin": 599.23,
+     "p": "what"
+    },
+    {
+     "ini": 599.23,
+     "fin": 599.58,
+     "p": "is"
+    },
+    {
+     "ini": 599.58,
+     "fin": 599.93,
+     "p": "truly"
+    }
+   ]
+  },
+  {
+   "ini": 599.93,
+   "fin": 608.2,
+   "texto": "important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.",
+   "palabras": [
+    {
+     "ini": 599.93,
+     "fin": 600.83,
+     "p": "important."
+    },
+    {
+     "ini": 600.83,
+     "fin": 601.11,
+     "p": "Remembering"
+    },
+    {
+     "ini": 601.11,
+     "fin": 601.4,
+     "p": "that"
+    },
+    {
+     "ini": 601.4,
+     "fin": 601.68,
+     "p": "you"
+    },
+    {
+     "ini": 601.68,
+     "fin": 601.97,
+     "p": "are"
+    },
+    {
+     "ini": 601.97,
+     "fin": 602.25,
+     "p": "going"
+    },
+    {
+     "ini": 602.25,
+     "fin": 602.53,
+     "p": "to"
+    },
+    {
+     "ini": 602.53,
+     "fin": 602.82,
+     "p": "die"
+    },
+    {
+     "ini": 602.82,
+     "fin": 603.1,
+     "p": "is"
+    },
+    {
+     "ini": 603.1,
+     "fin": 603.39,
+     "p": "the"
+    },
+    {
+     "ini": 603.39,
+     "fin": 603.67,
+     "p": "best"
+    },
+    {
+     "ini": 603.67,
+     "fin": 603.96,
+     "p": "way"
+    },
+    {
+     "ini": 603.96,
+     "fin": 604.25,
+     "p": "I"
+    },
+    {
+     "ini": 604.25,
+     "fin": 604.54,
+     "p": "know"
+    },
+    {
+     "ini": 604.54,
+     "fin": 604.83,
+     "p": "to"
+    },
+    {
+     "ini": 604.83,
+     "fin": 605.12,
+     "p": "avoid"
+    },
+    {
+     "ini": 605.12,
+     "fin": 605.41,
+     "p": "the"
+    },
+    {
+     "ini": 605.41,
+     "fin": 605.7,
+     "p": "trap"
+    },
+    {
+     "ini": 605.7,
+     "fin": 605.99,
+     "p": "of"
+    },
+    {
+     "ini": 605.99,
+     "fin": 606.28,
+     "p": "thinking"
+    },
+    {
+     "ini": 606.28,
+     "fin": 606.57,
+     "p": "you"
+    },
+    {
+     "ini": 606.57,
+     "fin": 606.86,
+     "p": "have"
+    },
+    {
+     "ini": 606.86,
+     "fin": 607.15,
+     "p": "something"
+    },
+    {
+     "ini": 607.15,
+     "fin": 607.44,
+     "p": "to"
+    },
+    {
+     "ini": 607.44,
+     "fin": 608.2,
+     "p": "lose."
+    }
+   ]
+  },
+  {
+   "ini": 608.2,
+   "fin": 613.73,
+   "texto": "You are already naked. There is no reason not to follow your heart.",
+   "palabras": [
+    {
+     "ini": 608.2,
+     "fin": 608.54,
+     "p": "You"
+    },
+    {
+     "ini": 608.54,
+     "fin": 608.87,
+     "p": "are"
+    },
+    {
+     "ini": 608.87,
+     "fin": 609.21,
+     "p": "already"
+    },
+    {
+     "ini": 609.21,
+     "fin": 609.54,
+     "p": "naked."
+    },
+    {
+     "ini": 609.54,
+     "fin": 609.88,
+     "p": "There"
+    },
+    {
+     "ini": 609.88,
+     "fin": 610.22,
+     "p": "is"
+    },
+    {
+     "ini": 610.22,
+     "fin": 610.55,
+     "p": "no"
+    },
+    {
+     "ini": 610.55,
+     "fin": 610.89,
+     "p": "reason"
+    },
+    {
+     "ini": 610.89,
+     "fin": 611.22,
+     "p": "not"
+    },
+    {
+     "ini": 611.22,
+     "fin": 611.56,
+     "p": "to"
+    },
+    {
+     "ini": 611.56,
+     "fin": 611.9,
+     "p": "follow"
+    },
+    {
+     "ini": 611.9,
+     "fin": 612.23,
+     "p": "your"
+    },
+    {
+     "ini": 612.23,
+     "fin": 613.73,
+     "p": "heart."
+    }
+   ]
+  },
+  {
+   "ini": 613.95,
+   "fin": 616.98,
+   "texto": "About a year ago I was diagnosed with cancer.",
+   "palabras": [
+    {
+     "ini": 613.95,
+     "fin": 614.29,
+     "p": "About"
+    },
+    {
+     "ini": 614.29,
+     "fin": 614.62,
+     "p": "a"
+    },
+    {
+     "ini": 614.62,
+     "fin": 614.96,
+     "p": "year"
+    },
+    {
+     "ini": 614.96,
+     "fin": 615.3,
+     "p": "ago"
+    },
+    {
+     "ini": 615.3,
+     "fin": 615.63,
+     "p": "I"
+    },
+    {
+     "ini": 615.63,
+     "fin": 615.97,
+     "p": "was"
+    },
+    {
+     "ini": 615.97,
+     "fin": 616.31,
+     "p": "diagnosed"
+    },
+    {
+     "ini": 616.31,
+     "fin": 616.64,
+     "p": "with"
+    },
+    {
+     "ini": 616.64,
+     "fin": 616.98,
+     "p": "cancer."
+    }
+   ]
+  },
+  {
+   "ini": 616.98,
+   "fin": 623.6,
+   "texto": "I had a scan at 7:30 in the morning, and it clearly showed a tumor on my pancreas.",
+   "palabras": [
+    {
+     "ini": 616.98,
+     "fin": 617.33,
+     "p": "I"
+    },
+    {
+     "ini": 617.33,
+     "fin": 617.69,
+     "p": "had"
+    },
+    {
+     "ini": 617.69,
+     "fin": 618.04,
+     "p": "a"
+    },
+    {
+     "ini": 618.04,
+     "fin": 618.4,
+     "p": "scan"
+    },
+    {
+     "ini": 618.4,
+     "fin": 618.75,
+     "p": "at"
+    },
+    {
+     "ini": 618.75,
+     "fin": 619.1,
+     "p": "7:30"
+    },
+    {
+     "ini": 619.1,
+     "fin": 619.46,
+     "p": "in"
+    },
+    {
+     "ini": 619.46,
+     "fin": 619.81,
+     "p": "the"
+    },
+    {
+     "ini": 619.81,
+     "fin": 620.28,
+     "p": "morning,"
+    },
+    {
+     "ini": 620.28,
+     "fin": 620.59,
+     "p": "and"
+    },
+    {
+     "ini": 620.59,
+     "fin": 620.9,
+     "p": "it"
+    },
+    {
+     "ini": 620.9,
+     "fin": 621.21,
+     "p": "clearly"
+    },
+    {
+     "ini": 621.21,
+     "fin": 621.52,
+     "p": "showed"
+    },
+    {
+     "ini": 621.52,
+     "fin": 621.83,
+     "p": "a"
+    },
+    {
+     "ini": 621.83,
+     "fin": 622.14,
+     "p": "tumor"
+    },
+    {
+     "ini": 622.14,
+     "fin": 622.45,
+     "p": "on"
+    },
+    {
+     "ini": 622.45,
+     "fin": 622.76,
+     "p": "my"
+    },
+    {
+     "ini": 622.76,
+     "fin": 623.6,
+     "p": "pancreas."
+    }
+   ]
+  },
+  {
+   "ini": 623.6,
+   "fin": 626.27,
+   "texto": "I didn't even know what a pancreas was.",
+   "palabras": [
+    {
+     "ini": 623.6,
+     "fin": 623.85,
+     "p": "I"
+    },
+    {
+     "ini": 623.85,
+     "fin": 624.1,
+     "p": "didn't"
+    },
+    {
+     "ini": 624.1,
+     "fin": 624.35,
+     "p": "even"
+    },
+    {
+     "ini": 624.35,
+     "fin": 624.6,
+     "p": "know"
+    },
+    {
+     "ini": 624.6,
+     "fin": 624.86,
+     "p": "what"
+    },
+    {
+     "ini": 624.86,
+     "fin": 625.11,
+     "p": "a"
+    },
+    {
+     "ini": 625.11,
+     "fin": 625.36,
+     "p": "pancreas"
+    },
+    {
+     "ini": 625.36,
+     "fin": 626.27,
+     "p": "was."
+    }
+   ]
+  },
+  {
+   "ini": 626.27,
+   "fin": 635.84,
+   "texto": "The doctors told me this was almost certainly a type of cancer that is incurable, and that I should expect to live no longer than three to six months.",
+   "palabras": [
+    {
+     "ini": 626.27,
+     "fin": 626.59,
+     "p": "The"
+    },
+    {
+     "ini": 626.59,
+     "fin": 626.92,
+     "p": "doctors"
+    },
+    {
+     "ini": 626.92,
+     "fin": 627.24,
+     "p": "told"
+    },
+    {
+     "ini": 627.24,
+     "fin": 627.57,
+     "p": "me"
+    },
+    {
+     "ini": 627.57,
+     "fin": 627.89,
+     "p": "this"
+    },
+    {
+     "ini": 627.89,
+     "fin": 628.21,
+     "p": "was"
+    },
+    {
+     "ini": 628.21,
+     "fin": 628.54,
+     "p": "almost"
+    },
+    {
+     "ini": 628.54,
+     "fin": 628.82,
+     "p": "certainly"
+    },
+    {
+     "ini": 628.82,
+     "fin": 629.1,
+     "p": "a"
+    },
+    {
+     "ini": 629.1,
+     "fin": 629.38,
+     "p": "type"
+    },
+    {
+     "ini": 629.38,
+     "fin": 629.66,
+     "p": "of"
+    },
+    {
+     "ini": 629.66,
+     "fin": 629.95,
+     "p": "cancer"
+    },
+    {
+     "ini": 629.95,
+     "fin": 630.23,
+     "p": "that"
+    },
+    {
+     "ini": 630.23,
+     "fin": 630.51,
+     "p": "is"
+    },
+    {
+     "ini": 630.51,
+     "fin": 630.79,
+     "p": "incurable,"
+    },
+    {
+     "ini": 630.79,
+     "fin": 631.1,
+     "p": "and"
+    },
+    {
+     "ini": 631.1,
+     "fin": 631.4,
+     "p": "that"
+    },
+    {
+     "ini": 631.4,
+     "fin": 631.71,
+     "p": "I"
+    },
+    {
+     "ini": 631.71,
+     "fin": 632.01,
+     "p": "should"
+    },
+    {
+     "ini": 632.01,
+     "fin": 632.32,
+     "p": "expect"
+    },
+    {
+     "ini": 632.32,
+     "fin": 632.62,
+     "p": "to"
+    },
+    {
+     "ini": 632.62,
+     "fin": 632.93,
+     "p": "live"
+    },
+    {
+     "ini": 632.93,
+     "fin": 633.24,
+     "p": "no"
+    },
+    {
+     "ini": 633.24,
+     "fin": 633.54,
+     "p": "longer"
+    },
+    {
+     "ini": 633.54,
+     "fin": 633.85,
+     "p": "than"
+    },
+    {
+     "ini": 633.85,
+     "fin": 634.15,
+     "p": "three"
+    },
+    {
+     "ini": 634.15,
+     "fin": 634.46,
+     "p": "to"
+    },
+    {
+     "ini": 634.46,
+     "fin": 634.76,
+     "p": "six"
+    },
+    {
+     "ini": 634.76,
+     "fin": 635.84,
+     "p": "months."
+    }
+   ]
+  },
+  {
+   "ini": 635.84,
+   "fin": 642.91,
+   "texto": "My doctor advised me to go home and get my affairs in order, which is doctor's code for prepare to die.",
+   "palabras": [
+    {
+     "ini": 635.84,
+     "fin": 636.17,
+     "p": "My"
+    },
+    {
+     "ini": 636.17,
+     "fin": 636.49,
+     "p": "doctor"
+    },
+    {
+     "ini": 636.49,
+     "fin": 636.82,
+     "p": "advised"
+    },
+    {
+     "ini": 636.82,
+     "fin": 637.14,
+     "p": "me"
+    },
+    {
+     "ini": 637.14,
+     "fin": 637.47,
+     "p": "to"
+    },
+    {
+     "ini": 637.47,
+     "fin": 637.79,
+     "p": "go"
+    },
+    {
+     "ini": 637.79,
+     "fin": 638.12,
+     "p": "home"
+    },
+    {
+     "ini": 638.12,
+     "fin": 638.44,
+     "p": "and"
+    },
+    {
+     "ini": 638.44,
+     "fin": 638.77,
+     "p": "get"
+    },
+    {
+     "ini": 638.77,
+     "fin": 639.09,
+     "p": "my"
+    },
+    {
+     "ini": 639.09,
+     "fin": 639.42,
+     "p": "affairs"
+    },
+    {
+     "ini": 639.42,
+     "fin": 639.74,
+     "p": "in"
+    },
+    {
+     "ini": 639.74,
+     "fin": 640.32,
+     "p": "order,"
+    },
+    {
+     "ini": 640.32,
+     "fin": 640.64,
+     "p": "which"
+    },
+    {
+     "ini": 640.64,
+     "fin": 640.97,
+     "p": "is"
+    },
+    {
+     "ini": 640.97,
+     "fin": 641.29,
+     "p": "doctor's"
+    },
+    {
+     "ini": 641.29,
+     "fin": 641.61,
+     "p": "code"
+    },
+    {
+     "ini": 641.61,
+     "fin": 641.94,
+     "p": "for"
+    },
+    {
+     "ini": 641.94,
+     "fin": 642.26,
+     "p": "prepare"
+    },
+    {
+     "ini": 642.26,
+     "fin": 642.59,
+     "p": "to"
+    },
+    {
+     "ini": 642.59,
+     "fin": 642.91,
+     "p": "die."
+    }
+   ]
+  },
+  {
+   "ini": 642.91,
+   "fin": 651.85,
+   "texto": "It means to try to tell your kids everything you thought you'd have the next 10 years to tell them in just a few months.",
+   "palabras": [
+    {
+     "ini": 642.91,
+     "fin": 643.37,
+     "p": "It"
+    },
+    {
+     "ini": 643.37,
+     "fin": 643.83,
+     "p": "means"
+    },
+    {
+     "ini": 643.83,
+     "fin": 644.29,
+     "p": "to"
+    },
+    {
+     "ini": 644.29,
+     "fin": 644.75,
+     "p": "try"
+    },
+    {
+     "ini": 644.75,
+     "fin": 645.2,
+     "p": "to"
+    },
+    {
+     "ini": 645.2,
+     "fin": 645.66,
+     "p": "tell"
+    },
+    {
+     "ini": 645.66,
+     "fin": 646.12,
+     "p": "your"
+    },
+    {
+     "ini": 646.12,
+     "fin": 646.58,
+     "p": "kids"
+    },
+    {
+     "ini": 646.58,
+     "fin": 647.04,
+     "p": "everything"
+    },
+    {
+     "ini": 647.04,
+     "fin": 647.5,
+     "p": "you"
+    },
+    {
+     "ini": 647.5,
+     "fin": 647.96,
+     "p": "thought"
+    },
+    {
+     "ini": 647.96,
+     "fin": 648.19,
+     "p": "you'd"
+    },
+    {
+     "ini": 648.19,
+     "fin": 648.42,
+     "p": "have"
+    },
+    {
+     "ini": 648.42,
+     "fin": 648.65,
+     "p": "the"
+    },
+    {
+     "ini": 648.65,
+     "fin": 648.88,
+     "p": "next"
+    },
+    {
+     "ini": 648.88,
+     "fin": 649.11,
+     "p": "10"
+    },
+    {
+     "ini": 649.11,
+     "fin": 649.34,
+     "p": "years"
+    },
+    {
+     "ini": 649.34,
+     "fin": 649.56,
+     "p": "to"
+    },
+    {
+     "ini": 649.56,
+     "fin": 649.79,
+     "p": "tell"
+    },
+    {
+     "ini": 649.79,
+     "fin": 650.02,
+     "p": "them"
+    },
+    {
+     "ini": 650.02,
+     "fin": 650.25,
+     "p": "in"
+    },
+    {
+     "ini": 650.25,
+     "fin": 650.48,
+     "p": "just"
+    },
+    {
+     "ini": 650.48,
+     "fin": 650.71,
+     "p": "a"
+    },
+    {
+     "ini": 650.71,
+     "fin": 650.94,
+     "p": "few"
+    },
+    {
+     "ini": 650.94,
+     "fin": 651.85,
+     "p": "months."
+    }
+   ]
+  },
+  {
+   "ini": 651.85,
+   "fin": 656.71,
+   "texto": "It means to make sure everything is buttoned up so that it will be as easy as possible for your family.",
+   "palabras": [
+    {
+     "ini": 651.85,
+     "fin": 652.09,
+     "p": "It"
+    },
+    {
+     "ini": 652.09,
+     "fin": 652.32,
+     "p": "means"
+    },
+    {
+     "ini": 652.32,
+     "fin": 652.56,
+     "p": "to"
+    },
+    {
+     "ini": 652.56,
+     "fin": 652.8,
+     "p": "make"
+    },
+    {
+     "ini": 652.8,
+     "fin": 653.04,
+     "p": "sure"
+    },
+    {
+     "ini": 653.04,
+     "fin": 653.27,
+     "p": "everything"
+    },
+    {
+     "ini": 653.27,
+     "fin": 653.51,
+     "p": "is"
+    },
+    {
+     "ini": 653.51,
+     "fin": 653.75,
+     "p": "buttoned"
+    },
+    {
+     "ini": 653.75,
+     "fin": 653.98,
+     "p": "up"
+    },
+    {
+     "ini": 653.98,
+     "fin": 654.21,
+     "p": "so"
+    },
+    {
+     "ini": 654.21,
+     "fin": 654.43,
+     "p": "that"
+    },
+    {
+     "ini": 654.43,
+     "fin": 654.66,
+     "p": "it"
+    },
+    {
+     "ini": 654.66,
+     "fin": 654.89,
+     "p": "will"
+    },
+    {
+     "ini": 654.89,
+     "fin": 655.12,
+     "p": "be"
+    },
+    {
+     "ini": 655.12,
+     "fin": 655.34,
+     "p": "as"
+    },
+    {
+     "ini": 655.34,
+     "fin": 655.57,
+     "p": "easy"
+    },
+    {
+     "ini": 655.57,
+     "fin": 655.8,
+     "p": "as"
+    },
+    {
+     "ini": 655.8,
+     "fin": 656.03,
+     "p": "possible"
+    },
+    {
+     "ini": 656.03,
+     "fin": 656.25,
+     "p": "for"
+    },
+    {
+     "ini": 656.25,
+     "fin": 656.48,
+     "p": "your"
+    },
+    {
+     "ini": 656.48,
+     "fin": 656.71,
+     "p": "family."
+    }
+   ]
+  },
+  {
+   "ini": 656.71,
+   "fin": 664.13,
+   "texto": "It means to say your goodbyes. I lived with that diagnosis all day.",
+   "palabras": [
+    {
+     "ini": 656.71,
+     "fin": 657.17,
+     "p": "It"
+    },
+    {
+     "ini": 657.17,
+     "fin": 657.62,
+     "p": "means"
+    },
+    {
+     "ini": 657.62,
+     "fin": 658.08,
+     "p": "to"
+    },
+    {
+     "ini": 658.08,
+     "fin": 658.54,
+     "p": "say"
+    },
+    {
+     "ini": 658.54,
+     "fin": 658.99,
+     "p": "your"
+    },
+    {
+     "ini": 658.99,
+     "fin": 660.49,
+     "p": "goodbyes."
+    },
+    {
+     "ini": 661.46,
+     "fin": 661.76,
+     "p": "I"
+    },
+    {
+     "ini": 661.76,
+     "fin": 662.07,
+     "p": "lived"
+    },
+    {
+     "ini": 662.07,
+     "fin": 662.37,
+     "p": "with"
+    },
+    {
+     "ini": 662.37,
+     "fin": 662.67,
+     "p": "that"
+    },
+    {
+     "ini": 662.67,
+     "fin": 662.97,
+     "p": "diagnosis"
+    },
+    {
+     "ini": 662.97,
+     "fin": 663.28,
+     "p": "all"
+    },
+    {
+     "ini": 663.28,
+     "fin": 664.13,
+     "p": "day."
+    }
+   ]
+  },
+  {
+   "ini": 664.13,
+   "fin": 673.1,
+   "texto": "Later that evening I had a biopsy, where they stuck an endoscope down my throat, through my stomach and into my intestines, put a needle into my pancreas and got",
+   "palabras": [
+    {
+     "ini": 664.13,
+     "fin": 664.44,
+     "p": "Later"
+    },
+    {
+     "ini": 664.44,
+     "fin": 664.76,
+     "p": "that"
+    },
+    {
+     "ini": 664.76,
+     "fin": 665.07,
+     "p": "evening"
+    },
+    {
+     "ini": 665.07,
+     "fin": 665.39,
+     "p": "I"
+    },
+    {
+     "ini": 665.39,
+     "fin": 665.7,
+     "p": "had"
+    },
+    {
+     "ini": 665.7,
+     "fin": 666.02,
+     "p": "a"
+    },
+    {
+     "ini": 666.02,
+     "fin": 666.59,
+     "p": "biopsy,"
+    },
+    {
+     "ini": 666.59,
+     "fin": 666.85,
+     "p": "where"
+    },
+    {
+     "ini": 666.85,
+     "fin": 667.1,
+     "p": "they"
+    },
+    {
+     "ini": 667.1,
+     "fin": 667.36,
+     "p": "stuck"
+    },
+    {
+     "ini": 667.36,
+     "fin": 667.61,
+     "p": "an"
+    },
+    {
+     "ini": 667.61,
+     "fin": 667.87,
+     "p": "endoscope"
+    },
+    {
+     "ini": 667.87,
+     "fin": 668.12,
+     "p": "down"
+    },
+    {
+     "ini": 668.12,
+     "fin": 668.38,
+     "p": "my"
+    },
+    {
+     "ini": 668.38,
+     "fin": 668.83,
+     "p": "throat,"
+    },
+    {
+     "ini": 668.83,
+     "fin": 669.14,
+     "p": "through"
+    },
+    {
+     "ini": 669.14,
+     "fin": 669.45,
+     "p": "my"
+    },
+    {
+     "ini": 669.45,
+     "fin": 669.76,
+     "p": "stomach"
+    },
+    {
+     "ini": 669.76,
+     "fin": 670.07,
+     "p": "and"
+    },
+    {
+     "ini": 670.07,
+     "fin": 670.38,
+     "p": "into"
+    },
+    {
+     "ini": 670.38,
+     "fin": 670.69,
+     "p": "my"
+    },
+    {
+     "ini": 670.69,
+     "fin": 671.26,
+     "p": "intestines,"
+    },
+    {
+     "ini": 671.26,
+     "fin": 671.49,
+     "p": "put"
+    },
+    {
+     "ini": 671.49,
+     "fin": 671.72,
+     "p": "a"
+    },
+    {
+     "ini": 671.72,
+     "fin": 671.95,
+     "p": "needle"
+    },
+    {
+     "ini": 671.95,
+     "fin": 672.18,
+     "p": "into"
+    },
+    {
+     "ini": 672.18,
+     "fin": 672.41,
+     "p": "my"
+    },
+    {
+     "ini": 672.41,
+     "fin": 672.64,
+     "p": "pancreas"
+    },
+    {
+     "ini": 672.64,
+     "fin": 672.87,
+     "p": "and"
+    },
+    {
+     "ini": 672.87,
+     "fin": 673.1,
+     "p": "got"
+    }
+   ]
+  },
+  {
+   "ini": 673.1,
+   "fin": 682.84,
+   "texto": "a few cells from the tumor. I was sedated, but my wife, who was there, told me that when they viewed the cells under a microscope the doctors started crying",
+   "palabras": [
+    {
+     "ini": 673.1,
+     "fin": 673.33,
+     "p": "a"
+    },
+    {
+     "ini": 673.33,
+     "fin": 673.56,
+     "p": "few"
+    },
+    {
+     "ini": 673.56,
+     "fin": 673.79,
+     "p": "cells"
+    },
+    {
+     "ini": 673.79,
+     "fin": 674.02,
+     "p": "from"
+    },
+    {
+     "ini": 674.02,
+     "fin": 674.25,
+     "p": "the"
+    },
+    {
+     "ini": 674.25,
+     "fin": 674.48,
+     "p": "tumor."
+    },
+    {
+     "ini": 674.48,
+     "fin": 674.91,
+     "p": "I"
+    },
+    {
+     "ini": 674.91,
+     "fin": 675.34,
+     "p": "was"
+    },
+    {
+     "ini": 675.34,
+     "fin": 675.76,
+     "p": "sedated,"
+    },
+    {
+     "ini": 675.76,
+     "fin": 676.19,
+     "p": "but"
+    },
+    {
+     "ini": 676.19,
+     "fin": 676.62,
+     "p": "my"
+    },
+    {
+     "ini": 676.62,
+     "fin": 677.05,
+     "p": "wife,"
+    },
+    {
+     "ini": 677.05,
+     "fin": 677.47,
+     "p": "who"
+    },
+    {
+     "ini": 677.47,
+     "fin": 677.9,
+     "p": "was"
+    },
+    {
+     "ini": 677.9,
+     "fin": 678.55,
+     "p": "there,"
+    },
+    {
+     "ini": 678.55,
+     "fin": 678.82,
+     "p": "told"
+    },
+    {
+     "ini": 678.82,
+     "fin": 679.09,
+     "p": "me"
+    },
+    {
+     "ini": 679.09,
+     "fin": 679.36,
+     "p": "that"
+    },
+    {
+     "ini": 679.36,
+     "fin": 679.63,
+     "p": "when"
+    },
+    {
+     "ini": 679.63,
+     "fin": 679.89,
+     "p": "they"
+    },
+    {
+     "ini": 679.89,
+     "fin": 680.16,
+     "p": "viewed"
+    },
+    {
+     "ini": 680.16,
+     "fin": 680.43,
+     "p": "the"
+    },
+    {
+     "ini": 680.43,
+     "fin": 680.7,
+     "p": "cells"
+    },
+    {
+     "ini": 680.7,
+     "fin": 680.97,
+     "p": "under"
+    },
+    {
+     "ini": 680.97,
+     "fin": 681.24,
+     "p": "a"
+    },
+    {
+     "ini": 681.24,
+     "fin": 681.74,
+     "p": "microscope"
+    },
+    {
+     "ini": 681.74,
+     "fin": 682.02,
+     "p": "the"
+    },
+    {
+     "ini": 682.02,
+     "fin": 682.29,
+     "p": "doctors"
+    },
+    {
+     "ini": 682.29,
+     "fin": 682.57,
+     "p": "started"
+    },
+    {
+     "ini": 682.57,
+     "fin": 682.84,
+     "p": "crying"
+    }
+   ]
+  },
+  {
+   "ini": 682.84,
+   "fin": 689.0,
+   "texto": "because it turned out to be a very rare form of pancreatic cancer that is curable with surgery.",
+   "palabras": [
+    {
+     "ini": 682.84,
+     "fin": 683.12,
+     "p": "because"
+    },
+    {
+     "ini": 683.12,
+     "fin": 683.4,
+     "p": "it"
+    },
+    {
+     "ini": 683.4,
+     "fin": 683.67,
+     "p": "turned"
+    },
+    {
+     "ini": 683.67,
+     "fin": 683.95,
+     "p": "out"
+    },
+    {
+     "ini": 683.95,
+     "fin": 684.22,
+     "p": "to"
+    },
+    {
+     "ini": 684.22,
+     "fin": 684.5,
+     "p": "be"
+    },
+    {
+     "ini": 684.5,
+     "fin": 684.83,
+     "p": "a"
+    },
+    {
+     "ini": 684.83,
+     "fin": 685.16,
+     "p": "very"
+    },
+    {
+     "ini": 685.16,
+     "fin": 685.49,
+     "p": "rare"
+    },
+    {
+     "ini": 685.49,
+     "fin": 685.82,
+     "p": "form"
+    },
+    {
+     "ini": 685.82,
+     "fin": 686.15,
+     "p": "of"
+    },
+    {
+     "ini": 686.15,
+     "fin": 686.48,
+     "p": "pancreatic"
+    },
+    {
+     "ini": 686.48,
+     "fin": 686.82,
+     "p": "cancer"
+    },
+    {
+     "ini": 686.82,
+     "fin": 687.15,
+     "p": "that"
+    },
+    {
+     "ini": 687.15,
+     "fin": 687.48,
+     "p": "is"
+    },
+    {
+     "ini": 687.48,
+     "fin": 687.81,
+     "p": "curable"
+    },
+    {
+     "ini": 687.81,
+     "fin": 688.14,
+     "p": "with"
+    },
+    {
+     "ini": 688.14,
+     "fin": 689.0,
+     "p": "surgery."
+    }
+   ]
+  },
+  {
+   "ini": 689.0,
+   "fin": 694.16,
+   "texto": "I had the surgery and thankfully I'm fine now.",
+   "palabras": [
+    {
+     "ini": 689.0,
+     "fin": 689.46,
+     "p": "I"
+    },
+    {
+     "ini": 689.46,
+     "fin": 689.91,
+     "p": "had"
+    },
+    {
+     "ini": 689.91,
+     "fin": 690.37,
+     "p": "the"
+    },
+    {
+     "ini": 690.37,
+     "fin": 690.83,
+     "p": "surgery"
+    },
+    {
+     "ini": 690.83,
+     "fin": 691.29,
+     "p": "and"
+    },
+    {
+     "ini": 691.29,
+     "fin": 691.74,
+     "p": "thankfully"
+    },
+    {
+     "ini": 691.74,
+     "fin": 692.2,
+     "p": "I'm"
+    },
+    {
+     "ini": 692.2,
+     "fin": 692.66,
+     "p": "fine"
+    },
+    {
+     "ini": 692.66,
+     "fin": 694.16,
+     "p": "now."
+    }
+   ]
+  },
+  {
+   "ini": 700.8,
+   "fin": 706.86,
+   "texto": "This was the closest I've been to facing death, and I hope its the closest I get for a few more decades.",
+   "palabras": [
+    {
+     "ini": 700.8,
+     "fin": 701.08,
+     "p": "This"
+    },
+    {
+     "ini": 701.08,
+     "fin": 701.36,
+     "p": "was"
+    },
+    {
+     "ini": 701.36,
+     "fin": 701.63,
+     "p": "the"
+    },
+    {
+     "ini": 701.63,
+     "fin": 701.91,
+     "p": "closest"
+    },
+    {
+     "ini": 701.91,
+     "fin": 702.19,
+     "p": "I've"
+    },
+    {
+     "ini": 702.19,
+     "fin": 702.47,
+     "p": "been"
+    },
+    {
+     "ini": 702.47,
+     "fin": 702.75,
+     "p": "to"
+    },
+    {
+     "ini": 702.75,
+     "fin": 703.03,
+     "p": "facing"
+    },
+    {
+     "ini": 703.03,
+     "fin": 703.56,
+     "p": "death,"
+    },
+    {
+     "ini": 703.56,
+     "fin": 703.78,
+     "p": "and"
+    },
+    {
+     "ini": 703.78,
+     "fin": 704.0,
+     "p": "I"
+    },
+    {
+     "ini": 704.0,
+     "fin": 704.22,
+     "p": "hope"
+    },
+    {
+     "ini": 704.22,
+     "fin": 704.45,
+     "p": "its"
+    },
+    {
+     "ini": 704.45,
+     "fin": 704.67,
+     "p": "the"
+    },
+    {
+     "ini": 704.67,
+     "fin": 704.89,
+     "p": "closest"
+    },
+    {
+     "ini": 704.89,
+     "fin": 705.11,
+     "p": "I"
+    },
+    {
+     "ini": 705.11,
+     "fin": 705.33,
+     "p": "get"
+    },
+    {
+     "ini": 705.33,
+     "fin": 705.55,
+     "p": "for"
+    },
+    {
+     "ini": 705.55,
+     "fin": 705.77,
+     "p": "a"
+    },
+    {
+     "ini": 705.77,
+     "fin": 706.0,
+     "p": "few"
+    },
+    {
+     "ini": 706.0,
+     "fin": 706.22,
+     "p": "more"
+    },
+    {
+     "ini": 706.22,
+     "fin": 706.86,
+     "p": "decades."
+    }
+   ]
+  },
+  {
+   "ini": 706.86,
+   "fin": 717.38,
+   "texto": "Having lived through it, I can now say this to you with a bit more certainty than when death was a useful but purely intellectual concept: No one wants to",
+   "palabras": [
+    {
+     "ini": 706.86,
+     "fin": 707.17,
+     "p": "Having"
+    },
+    {
+     "ini": 707.17,
+     "fin": 707.49,
+     "p": "lived"
+    },
+    {
+     "ini": 707.49,
+     "fin": 707.8,
+     "p": "through"
+    },
+    {
+     "ini": 707.8,
+     "fin": 708.62,
+     "p": "it,"
+    },
+    {
+     "ini": 708.62,
+     "fin": 708.81,
+     "p": "I"
+    },
+    {
+     "ini": 708.81,
+     "fin": 709.0,
+     "p": "can"
+    },
+    {
+     "ini": 709.0,
+     "fin": 709.18,
+     "p": "now"
+    },
+    {
+     "ini": 709.18,
+     "fin": 709.37,
+     "p": "say"
+    },
+    {
+     "ini": 709.37,
+     "fin": 709.56,
+     "p": "this"
+    },
+    {
+     "ini": 709.56,
+     "fin": 709.75,
+     "p": "to"
+    },
+    {
+     "ini": 709.75,
+     "fin": 709.93,
+     "p": "you"
+    },
+    {
+     "ini": 709.93,
+     "fin": 710.12,
+     "p": "with"
+    },
+    {
+     "ini": 710.12,
+     "fin": 710.31,
+     "p": "a"
+    },
+    {
+     "ini": 710.31,
+     "fin": 710.5,
+     "p": "bit"
+    },
+    {
+     "ini": 710.5,
+     "fin": 710.69,
+     "p": "more"
+    },
+    {
+     "ini": 710.69,
+     "fin": 710.87,
+     "p": "certainty"
+    },
+    {
+     "ini": 710.87,
+     "fin": 711.06,
+     "p": "than"
+    },
+    {
+     "ini": 711.06,
+     "fin": 711.25,
+     "p": "when"
+    },
+    {
+     "ini": 711.25,
+     "fin": 711.76,
+     "p": "death"
+    },
+    {
+     "ini": 711.76,
+     "fin": 712.27,
+     "p": "was"
+    },
+    {
+     "ini": 712.27,
+     "fin": 712.78,
+     "p": "a"
+    },
+    {
+     "ini": 712.78,
+     "fin": 713.28,
+     "p": "useful"
+    },
+    {
+     "ini": 713.28,
+     "fin": 713.79,
+     "p": "but"
+    },
+    {
+     "ini": 713.79,
+     "fin": 714.3,
+     "p": "purely"
+    },
+    {
+     "ini": 714.3,
+     "fin": 714.81,
+     "p": "intellectual"
+    },
+    {
+     "ini": 714.81,
+     "fin": 715.42,
+     "p": "concept:"
+    },
+    {
+     "ini": 715.42,
+     "fin": 715.91,
+     "p": "No"
+    },
+    {
+     "ini": 715.91,
+     "fin": 716.4,
+     "p": "one"
+    },
+    {
+     "ini": 716.4,
+     "fin": 716.89,
+     "p": "wants"
+    },
+    {
+     "ini": 716.89,
+     "fin": 717.38,
+     "p": "to"
+    }
+   ]
+  },
+  {
+   "ini": 717.38,
+   "fin": 722.39,
+   "texto": "die. Even people who want to go to heaven don't want to die to get there.",
+   "palabras": [
+    {
+     "ini": 717.38,
+     "fin": 718.26,
+     "p": "die."
+    },
+    {
+     "ini": 718.26,
+     "fin": 718.54,
+     "p": "Even"
+    },
+    {
+     "ini": 718.54,
+     "fin": 718.81,
+     "p": "people"
+    },
+    {
+     "ini": 718.81,
+     "fin": 719.09,
+     "p": "who"
+    },
+    {
+     "ini": 719.09,
+     "fin": 719.36,
+     "p": "want"
+    },
+    {
+     "ini": 719.36,
+     "fin": 719.64,
+     "p": "to"
+    },
+    {
+     "ini": 719.64,
+     "fin": 719.91,
+     "p": "go"
+    },
+    {
+     "ini": 719.91,
+     "fin": 720.19,
+     "p": "to"
+    },
+    {
+     "ini": 720.19,
+     "fin": 720.46,
+     "p": "heaven"
+    },
+    {
+     "ini": 720.46,
+     "fin": 720.74,
+     "p": "don't"
+    },
+    {
+     "ini": 720.74,
+     "fin": 721.01,
+     "p": "want"
+    },
+    {
+     "ini": 721.01,
+     "fin": 721.29,
+     "p": "to"
+    },
+    {
+     "ini": 721.29,
+     "fin": 721.56,
+     "p": "die"
+    },
+    {
+     "ini": 721.56,
+     "fin": 721.84,
+     "p": "to"
+    },
+    {
+     "ini": 721.84,
+     "fin": 722.11,
+     "p": "get"
+    },
+    {
+     "ini": 722.11,
+     "fin": 722.39,
+     "p": "there."
+    }
+   ]
+  },
+  {
+   "ini": 722.39,
+   "fin": 726.19,
+   "texto": "And yet death is the destination we all share.",
+   "palabras": [
+    {
+     "ini": 722.39,
+     "fin": 722.77,
+     "p": "And"
+    },
+    {
+     "ini": 722.77,
+     "fin": 723.15,
+     "p": "yet"
+    },
+    {
+     "ini": 723.15,
+     "fin": 723.53,
+     "p": "death"
+    },
+    {
+     "ini": 723.53,
+     "fin": 723.91,
+     "p": "is"
+    },
+    {
+     "ini": 723.91,
+     "fin": 724.29,
+     "p": "the"
+    },
+    {
+     "ini": 724.29,
+     "fin": 724.68,
+     "p": "destination"
+    },
+    {
+     "ini": 724.68,
+     "fin": 725.06,
+     "p": "we"
+    },
+    {
+     "ini": 725.06,
+     "fin": 725.44,
+     "p": "all"
+    },
+    {
+     "ini": 725.44,
+     "fin": 726.19,
+     "p": "share."
+    }
+   ]
+  },
+  {
+   "ini": 726.19,
+   "fin": 735.02,
+   "texto": "No one has ever escaped it. And that is as it should be, because Death is very likely the single best invention of Life.",
+   "palabras": [
+    {
+     "ini": 726.19,
+     "fin": 726.5,
+     "p": "No"
+    },
+    {
+     "ini": 726.5,
+     "fin": 726.8,
+     "p": "one"
+    },
+    {
+     "ini": 726.8,
+     "fin": 727.11,
+     "p": "has"
+    },
+    {
+     "ini": 727.11,
+     "fin": 727.42,
+     "p": "ever"
+    },
+    {
+     "ini": 727.42,
+     "fin": 727.72,
+     "p": "escaped"
+    },
+    {
+     "ini": 727.72,
+     "fin": 728.03,
+     "p": "it."
+    },
+    {
+     "ini": 728.03,
+     "fin": 728.34,
+     "p": "And"
+    },
+    {
+     "ini": 728.34,
+     "fin": 728.64,
+     "p": "that"
+    },
+    {
+     "ini": 728.64,
+     "fin": 728.95,
+     "p": "is"
+    },
+    {
+     "ini": 728.95,
+     "fin": 729.25,
+     "p": "as"
+    },
+    {
+     "ini": 729.25,
+     "fin": 729.56,
+     "p": "it"
+    },
+    {
+     "ini": 729.56,
+     "fin": 729.87,
+     "p": "should"
+    },
+    {
+     "ini": 729.87,
+     "fin": 730.37,
+     "p": "be,"
+    },
+    {
+     "ini": 730.37,
+     "fin": 730.74,
+     "p": "because"
+    },
+    {
+     "ini": 730.74,
+     "fin": 731.12,
+     "p": "Death"
+    },
+    {
+     "ini": 731.12,
+     "fin": 731.49,
+     "p": "is"
+    },
+    {
+     "ini": 731.49,
+     "fin": 731.87,
+     "p": "very"
+    },
+    {
+     "ini": 731.87,
+     "fin": 732.24,
+     "p": "likely"
+    },
+    {
+     "ini": 732.24,
+     "fin": 732.62,
+     "p": "the"
+    },
+    {
+     "ini": 732.62,
+     "fin": 732.99,
+     "p": "single"
+    },
+    {
+     "ini": 732.99,
+     "fin": 733.37,
+     "p": "best"
+    },
+    {
+     "ini": 733.37,
+     "fin": 733.74,
+     "p": "invention"
+    },
+    {
+     "ini": 733.74,
+     "fin": 734.11,
+     "p": "of"
+    },
+    {
+     "ini": 734.11,
+     "fin": 735.02,
+     "p": "Life."
+    }
+   ]
+  },
+  {
+   "ini": 735.02,
+   "fin": 739.87,
+   "texto": "It is Life's change agent. It clears out the old to make way for the new.",
+   "palabras": [
+    {
+     "ini": 735.02,
+     "fin": 735.33,
+     "p": "It"
+    },
+    {
+     "ini": 735.33,
+     "fin": 735.65,
+     "p": "is"
+    },
+    {
+     "ini": 735.65,
+     "fin": 735.96,
+     "p": "Life's"
+    },
+    {
+     "ini": 735.96,
+     "fin": 736.27,
+     "p": "change"
+    },
+    {
+     "ini": 736.27,
+     "fin": 736.63,
+     "p": "agent."
+    },
+    {
+     "ini": 736.63,
+     "fin": 736.85,
+     "p": "It"
+    },
+    {
+     "ini": 736.85,
+     "fin": 737.07,
+     "p": "clears"
+    },
+    {
+     "ini": 737.07,
+     "fin": 737.29,
+     "p": "out"
+    },
+    {
+     "ini": 737.29,
+     "fin": 737.51,
+     "p": "the"
+    },
+    {
+     "ini": 737.51,
+     "fin": 737.73,
+     "p": "old"
+    },
+    {
+     "ini": 737.73,
+     "fin": 737.95,
+     "p": "to"
+    },
+    {
+     "ini": 737.95,
+     "fin": 738.17,
+     "p": "make"
+    },
+    {
+     "ini": 738.17,
+     "fin": 738.39,
+     "p": "way"
+    },
+    {
+     "ini": 738.39,
+     "fin": 738.61,
+     "p": "for"
+    },
+    {
+     "ini": 738.61,
+     "fin": 738.83,
+     "p": "the"
+    },
+    {
+     "ini": 738.83,
+     "fin": 739.87,
+     "p": "new."
+    }
+   ]
+  },
+  {
+   "ini": 739.87,
+   "fin": 748.53,
+   "texto": "Right now the new is you, but someday not too long from now, you will gradually become the old and be cleared away.",
+   "palabras": [
+    {
+     "ini": 739.87,
+     "fin": 740.22,
+     "p": "Right"
+    },
+    {
+     "ini": 740.22,
+     "fin": 740.58,
+     "p": "now"
+    },
+    {
+     "ini": 740.58,
+     "fin": 740.93,
+     "p": "the"
+    },
+    {
+     "ini": 740.93,
+     "fin": 741.29,
+     "p": "new"
+    },
+    {
+     "ini": 741.29,
+     "fin": 741.64,
+     "p": "is"
+    },
+    {
+     "ini": 741.64,
+     "fin": 742.0,
+     "p": "you,"
+    },
+    {
+     "ini": 742.0,
+     "fin": 742.35,
+     "p": "but"
+    },
+    {
+     "ini": 742.35,
+     "fin": 742.71,
+     "p": "someday"
+    },
+    {
+     "ini": 742.71,
+     "fin": 743.06,
+     "p": "not"
+    },
+    {
+     "ini": 743.06,
+     "fin": 743.42,
+     "p": "too"
+    },
+    {
+     "ini": 743.42,
+     "fin": 743.77,
+     "p": "long"
+    },
+    {
+     "ini": 743.77,
+     "fin": 744.12,
+     "p": "from"
+    },
+    {
+     "ini": 744.12,
+     "fin": 744.57,
+     "p": "now,"
+    },
+    {
+     "ini": 744.57,
+     "fin": 744.89,
+     "p": "you"
+    },
+    {
+     "ini": 744.89,
+     "fin": 745.21,
+     "p": "will"
+    },
+    {
+     "ini": 745.21,
+     "fin": 745.53,
+     "p": "gradually"
+    },
+    {
+     "ini": 745.53,
+     "fin": 745.85,
+     "p": "become"
+    },
+    {
+     "ini": 745.85,
+     "fin": 746.16,
+     "p": "the"
+    },
+    {
+     "ini": 746.16,
+     "fin": 746.48,
+     "p": "old"
+    },
+    {
+     "ini": 746.48,
+     "fin": 746.8,
+     "p": "and"
+    },
+    {
+     "ini": 746.8,
+     "fin": 747.12,
+     "p": "be"
+    },
+    {
+     "ini": 747.12,
+     "fin": 747.44,
+     "p": "cleared"
+    },
+    {
+     "ini": 747.44,
+     "fin": 748.53,
+     "p": "away."
+    }
+   ]
+  },
+  {
+   "ini": 748.53,
+   "fin": 752.15,
+   "texto": "Sorry to be so dramatic, but it is quite true.",
+   "palabras": [
+    {
+     "ini": 748.53,
+     "fin": 748.78,
+     "p": "Sorry"
+    },
+    {
+     "ini": 748.78,
+     "fin": 749.03,
+     "p": "to"
+    },
+    {
+     "ini": 749.03,
+     "fin": 749.27,
+     "p": "be"
+    },
+    {
+     "ini": 749.27,
+     "fin": 749.52,
+     "p": "so"
+    },
+    {
+     "ini": 749.52,
+     "fin": 749.77,
+     "p": "dramatic,"
+    },
+    {
+     "ini": 749.77,
+     "fin": 750.02,
+     "p": "but"
+    },
+    {
+     "ini": 750.02,
+     "fin": 750.26,
+     "p": "it"
+    },
+    {
+     "ini": 750.26,
+     "fin": 750.51,
+     "p": "is"
+    },
+    {
+     "ini": 750.51,
+     "fin": 750.76,
+     "p": "quite"
+    },
+    {
+     "ini": 750.76,
+     "fin": 752.15,
+     "p": "true."
+    }
+   ]
+  },
+  {
+   "ini": 752.15,
+   "fin": 758.11,
+   "texto": "Your time is limited, so don't waste it living someone else's life.",
+   "palabras": [
+    {
+     "ini": 752.15,
+     "fin": 752.58,
+     "p": "Your"
+    },
+    {
+     "ini": 752.58,
+     "fin": 753.01,
+     "p": "time"
+    },
+    {
+     "ini": 753.01,
+     "fin": 753.43,
+     "p": "is"
+    },
+    {
+     "ini": 753.43,
+     "fin": 753.86,
+     "p": "limited,"
+    },
+    {
+     "ini": 753.86,
+     "fin": 754.29,
+     "p": "so"
+    },
+    {
+     "ini": 754.29,
+     "fin": 754.72,
+     "p": "don't"
+    },
+    {
+     "ini": 754.72,
+     "fin": 755.15,
+     "p": "waste"
+    },
+    {
+     "ini": 755.15,
+     "fin": 755.58,
+     "p": "it"
+    },
+    {
+     "ini": 755.58,
+     "fin": 756.0,
+     "p": "living"
+    },
+    {
+     "ini": 756.0,
+     "fin": 756.43,
+     "p": "someone"
+    },
+    {
+     "ini": 756.43,
+     "fin": 756.86,
+     "p": "else's"
+    },
+    {
+     "ini": 756.86,
+     "fin": 758.11,
+     "p": "life."
+    }
+   ]
+  },
+  {
+   "ini": 758.11,
+   "fin": 762.77,
+   "texto": "Don't be trapped by dogma which is living with the results of other people's thinking.",
+   "palabras": [
+    {
+     "ini": 758.11,
+     "fin": 758.4,
+     "p": "Don't"
+    },
+    {
+     "ini": 758.4,
+     "fin": 758.68,
+     "p": "be"
+    },
+    {
+     "ini": 758.68,
+     "fin": 758.97,
+     "p": "trapped"
+    },
+    {
+     "ini": 758.97,
+     "fin": 759.26,
+     "p": "by"
+    },
+    {
+     "ini": 759.26,
+     "fin": 759.55,
+     "p": "dogma"
+    },
+    {
+     "ini": 759.55,
+     "fin": 759.83,
+     "p": "which"
+    },
+    {
+     "ini": 759.83,
+     "fin": 760.12,
+     "p": "is"
+    },
+    {
+     "ini": 760.12,
+     "fin": 760.41,
+     "p": "living"
+    },
+    {
+     "ini": 760.41,
+     "fin": 760.72,
+     "p": "with"
+    },
+    {
+     "ini": 760.72,
+     "fin": 761.04,
+     "p": "the"
+    },
+    {
+     "ini": 761.04,
+     "fin": 761.35,
+     "p": "results"
+    },
+    {
+     "ini": 761.35,
+     "fin": 761.66,
+     "p": "of"
+    },
+    {
+     "ini": 761.66,
+     "fin": 761.97,
+     "p": "other"
+    },
+    {
+     "ini": 761.97,
+     "fin": 762.29,
+     "p": "people's"
+    },
+    {
+     "ini": 762.29,
+     "fin": 762.77,
+     "p": "thinking."
+    }
+   ]
+  },
+  {
+   "ini": 762.77,
+   "fin": 766.75,
+   "texto": "Don't let the noise of others' opinions drown out your own inner voice.",
+   "palabras": [
+    {
+     "ini": 762.77,
+     "fin": 763.05,
+     "p": "Don't"
+    },
+    {
+     "ini": 763.05,
+     "fin": 763.34,
+     "p": "let"
+    },
+    {
+     "ini": 763.34,
+     "fin": 763.62,
+     "p": "the"
+    },
+    {
+     "ini": 763.62,
+     "fin": 763.91,
+     "p": "noise"
+    },
+    {
+     "ini": 763.91,
+     "fin": 764.19,
+     "p": "of"
+    },
+    {
+     "ini": 764.19,
+     "fin": 764.48,
+     "p": "others'"
+    },
+    {
+     "ini": 764.48,
+     "fin": 764.76,
+     "p": "opinions"
+    },
+    {
+     "ini": 764.76,
+     "fin": 765.05,
+     "p": "drown"
+    },
+    {
+     "ini": 765.05,
+     "fin": 765.33,
+     "p": "out"
+    },
+    {
+     "ini": 765.33,
+     "fin": 765.62,
+     "p": "your"
+    },
+    {
+     "ini": 765.62,
+     "fin": 765.9,
+     "p": "own"
+    },
+    {
+     "ini": 765.9,
+     "fin": 766.19,
+     "p": "inner"
+    },
+    {
+     "ini": 766.19,
+     "fin": 766.75,
+     "p": "voice."
+    }
+   ]
+  },
+  {
+   "ini": 766.75,
+   "fin": 771.58,
+   "texto": "And most important, have the courage to follow your heart and intuition.",
+   "palabras": [
+    {
+     "ini": 766.75,
+     "fin": 767.32,
+     "p": "And"
+    },
+    {
+     "ini": 767.32,
+     "fin": 767.88,
+     "p": "most"
+    },
+    {
+     "ini": 767.88,
+     "fin": 768.64,
+     "p": "important,"
+    },
+    {
+     "ini": 768.64,
+     "fin": 768.93,
+     "p": "have"
+    },
+    {
+     "ini": 768.93,
+     "fin": 769.23,
+     "p": "the"
+    },
+    {
+     "ini": 769.23,
+     "fin": 769.52,
+     "p": "courage"
+    },
+    {
+     "ini": 769.52,
+     "fin": 769.81,
+     "p": "to"
+    },
+    {
+     "ini": 769.81,
+     "fin": 770.11,
+     "p": "follow"
+    },
+    {
+     "ini": 770.11,
+     "fin": 770.4,
+     "p": "your"
+    },
+    {
+     "ini": 770.4,
+     "fin": 770.69,
+     "p": "heart"
+    },
+    {
+     "ini": 770.69,
+     "fin": 770.99,
+     "p": "and"
+    },
+    {
+     "ini": 770.99,
+     "fin": 771.58,
+     "p": "intuition."
+    }
+   ]
+  },
+  {
+   "ini": 771.58,
+   "fin": 775.87,
+   "texto": "They somehow already know what you truly want to become.",
+   "palabras": [
+    {
+     "ini": 771.58,
+     "fin": 771.96,
+     "p": "They"
+    },
+    {
+     "ini": 771.96,
+     "fin": 772.33,
+     "p": "somehow"
+    },
+    {
+     "ini": 772.33,
+     "fin": 772.71,
+     "p": "already"
+    },
+    {
+     "ini": 772.71,
+     "fin": 773.09,
+     "p": "know"
+    },
+    {
+     "ini": 773.09,
+     "fin": 773.46,
+     "p": "what"
+    },
+    {
+     "ini": 773.46,
+     "fin": 773.84,
+     "p": "you"
+    },
+    {
+     "ini": 773.84,
+     "fin": 774.22,
+     "p": "truly"
+    },
+    {
+     "ini": 774.22,
+     "fin": 774.6,
+     "p": "want"
+    },
+    {
+     "ini": 774.6,
+     "fin": 774.97,
+     "p": "to"
+    },
+    {
+     "ini": 774.97,
+     "fin": 775.87,
+     "p": "become."
+    }
+   ]
+  },
+  {
+   "ini": 775.87,
+   "fin": 779.12,
+   "texto": "Everything else is secondary.",
+   "palabras": [
+    {
+     "ini": 775.87,
+     "fin": 776.45,
+     "p": "Everything"
+    },
+    {
+     "ini": 776.45,
+     "fin": 777.03,
+     "p": "else"
+    },
+    {
+     "ini": 777.03,
+     "fin": 777.62,
+     "p": "is"
+    },
+    {
+     "ini": 777.62,
+     "fin": 779.12,
+     "p": "secondary."
+    }
+   ]
+  },
+  {
+   "ini": 789.72,
+   "fin": 798.26,
+   "texto": "When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation.",
+   "palabras": [
+    {
+     "ini": 789.72,
+     "fin": 790.02,
+     "p": "When"
+    },
+    {
+     "ini": 790.02,
+     "fin": 790.31,
+     "p": "I"
+    },
+    {
+     "ini": 790.31,
+     "fin": 790.61,
+     "p": "was"
+    },
+    {
+     "ini": 790.61,
+     "fin": 791.29,
+     "p": "young,"
+    },
+    {
+     "ini": 791.29,
+     "fin": 791.67,
+     "p": "there"
+    },
+    {
+     "ini": 791.67,
+     "fin": 792.05,
+     "p": "was"
+    },
+    {
+     "ini": 792.05,
+     "fin": 792.43,
+     "p": "an"
+    },
+    {
+     "ini": 792.43,
+     "fin": 792.81,
+     "p": "amazing"
+    },
+    {
+     "ini": 792.81,
+     "fin": 793.19,
+     "p": "publication"
+    },
+    {
+     "ini": 793.19,
+     "fin": 793.57,
+     "p": "called"
+    },
+    {
+     "ini": 793.57,
+     "fin": 793.95,
+     "p": "The"
+    },
+    {
+     "ini": 793.95,
+     "fin": 794.33,
+     "p": "Whole"
+    },
+    {
+     "ini": 794.33,
+     "fin": 794.7,
+     "p": "Earth"
+    },
+    {
+     "ini": 794.7,
+     "fin": 795.33,
+     "p": "Catalog,"
+    },
+    {
+     "ini": 795.33,
+     "fin": 795.6,
+     "p": "which"
+    },
+    {
+     "ini": 795.6,
+     "fin": 795.88,
+     "p": "was"
+    },
+    {
+     "ini": 795.88,
+     "fin": 796.15,
+     "p": "one"
+    },
+    {
+     "ini": 796.15,
+     "fin": 796.42,
+     "p": "of"
+    },
+    {
+     "ini": 796.42,
+     "fin": 796.7,
+     "p": "the"
+    },
+    {
+     "ini": 796.7,
+     "fin": 796.97,
+     "p": "bibles"
+    },
+    {
+     "ini": 796.97,
+     "fin": 797.24,
+     "p": "of"
+    },
+    {
+     "ini": 797.24,
+     "fin": 797.52,
+     "p": "my"
+    },
+    {
+     "ini": 797.52,
+     "fin": 798.26,
+     "p": "generation."
+    }
+   ]
+  },
+  {
+   "ini": 798.26,
+   "fin": 805.84,
+   "texto": "It was created by a fellow named Stewart Brand not far from here in Menlo Park, and he brought it to life with his poetic touch.",
+   "palabras": [
+    {
+     "ini": 798.26,
+     "fin": 798.53,
+     "p": "It"
+    },
+    {
+     "ini": 798.53,
+     "fin": 798.8,
+     "p": "was"
+    },
+    {
+     "ini": 798.8,
+     "fin": 799.07,
+     "p": "created"
+    },
+    {
+     "ini": 799.07,
+     "fin": 799.34,
+     "p": "by"
+    },
+    {
+     "ini": 799.34,
+     "fin": 799.61,
+     "p": "a"
+    },
+    {
+     "ini": 799.61,
+     "fin": 799.88,
+     "p": "fellow"
+    },
+    {
+     "ini": 799.88,
+     "fin": 800.15,
+     "p": "named"
+    },
+    {
+     "ini": 800.15,
+     "fin": 800.42,
+     "p": "Stewart"
+    },
+    {
+     "ini": 800.42,
+     "fin": 800.69,
+     "p": "Brand"
+    },
+    {
+     "ini": 800.69,
+     "fin": 800.96,
+     "p": "not"
+    },
+    {
+     "ini": 800.96,
+     "fin": 801.23,
+     "p": "far"
+    },
+    {
+     "ini": 801.23,
+     "fin": 801.5,
+     "p": "from"
+    },
+    {
+     "ini": 801.5,
+     "fin": 801.77,
+     "p": "here"
+    },
+    {
+     "ini": 801.77,
+     "fin": 802.06,
+     "p": "in"
+    },
+    {
+     "ini": 802.06,
+     "fin": 802.34,
+     "p": "Menlo"
+    },
+    {
+     "ini": 802.34,
+     "fin": 802.63,
+     "p": "Park,"
+    },
+    {
+     "ini": 802.63,
+     "fin": 802.91,
+     "p": "and"
+    },
+    {
+     "ini": 802.91,
+     "fin": 803.2,
+     "p": "he"
+    },
+    {
+     "ini": 803.2,
+     "fin": 803.48,
+     "p": "brought"
+    },
+    {
+     "ini": 803.48,
+     "fin": 803.77,
+     "p": "it"
+    },
+    {
+     "ini": 803.77,
+     "fin": 804.05,
+     "p": "to"
+    },
+    {
+     "ini": 804.05,
+     "fin": 804.34,
+     "p": "life"
+    },
+    {
+     "ini": 804.34,
+     "fin": 804.62,
+     "p": "with"
+    },
+    {
+     "ini": 804.62,
+     "fin": 804.91,
+     "p": "his"
+    },
+    {
+     "ini": 804.91,
+     "fin": 805.19,
+     "p": "poetic"
+    },
+    {
+     "ini": 805.19,
+     "fin": 805.84,
+     "p": "touch."
+    }
+   ]
+  },
+  {
+   "ini": 805.84,
+   "fin": 814.68,
+   "texto": "This was in the late 1960's, before personal computers and desktop publishing, so it was all made with typewriters, scissors, and polaroid cameras.",
+   "palabras": [
+    {
+     "ini": 805.84,
+     "fin": 806.13,
+     "p": "This"
+    },
+    {
+     "ini": 806.13,
+     "fin": 806.42,
+     "p": "was"
+    },
+    {
+     "ini": 806.42,
+     "fin": 806.71,
+     "p": "in"
+    },
+    {
+     "ini": 806.71,
+     "fin": 807.01,
+     "p": "the"
+    },
+    {
+     "ini": 807.01,
+     "fin": 807.3,
+     "p": "late"
+    },
+    {
+     "ini": 807.3,
+     "fin": 807.59,
+     "p": "1960's,"
+    },
+    {
+     "ini": 807.59,
+     "fin": 808.02,
+     "p": "before"
+    },
+    {
+     "ini": 808.02,
+     "fin": 808.45,
+     "p": "personal"
+    },
+    {
+     "ini": 808.45,
+     "fin": 808.88,
+     "p": "computers"
+    },
+    {
+     "ini": 808.88,
+     "fin": 809.31,
+     "p": "and"
+    },
+    {
+     "ini": 809.31,
+     "fin": 809.74,
+     "p": "desktop"
+    },
+    {
+     "ini": 809.74,
+     "fin": 810.44,
+     "p": "publishing,"
+    },
+    {
+     "ini": 810.44,
+     "fin": 810.79,
+     "p": "so"
+    },
+    {
+     "ini": 810.79,
+     "fin": 811.15,
+     "p": "it"
+    },
+    {
+     "ini": 811.15,
+     "fin": 811.5,
+     "p": "was"
+    },
+    {
+     "ini": 811.5,
+     "fin": 811.86,
+     "p": "all"
+    },
+    {
+     "ini": 811.86,
+     "fin": 812.21,
+     "p": "made"
+    },
+    {
+     "ini": 812.21,
+     "fin": 812.57,
+     "p": "with"
+    },
+    {
+     "ini": 812.57,
+     "fin": 812.92,
+     "p": "typewriters,"
+    },
+    {
+     "ini": 812.92,
+     "fin": 813.28,
+     "p": "scissors,"
+    },
+    {
+     "ini": 813.28,
+     "fin": 813.63,
+     "p": "and"
+    },
+    {
+     "ini": 813.63,
+     "fin": 813.98,
+     "p": "polaroid"
+    },
+    {
+     "ini": 813.98,
+     "fin": 814.68,
+     "p": "cameras."
+    }
+   ]
+  },
+  {
+   "ini": 814.68,
+   "fin": 825.49,
+   "texto": "It was sort of like Google in paperback form, 35 years before Google came along: it was idealistic, overflowing with neat tools, and great notions.",
+   "palabras": [
+    {
+     "ini": 814.68,
+     "fin": 814.93,
+     "p": "It"
+    },
+    {
+     "ini": 814.93,
+     "fin": 815.18,
+     "p": "was"
+    },
+    {
+     "ini": 815.18,
+     "fin": 815.43,
+     "p": "sort"
+    },
+    {
+     "ini": 815.43,
+     "fin": 815.68,
+     "p": "of"
+    },
+    {
+     "ini": 815.68,
+     "fin": 815.93,
+     "p": "like"
+    },
+    {
+     "ini": 815.93,
+     "fin": 816.19,
+     "p": "Google"
+    },
+    {
+     "ini": 816.19,
+     "fin": 816.44,
+     "p": "in"
+    },
+    {
+     "ini": 816.44,
+     "fin": 816.69,
+     "p": "paperback"
+    },
+    {
+     "ini": 816.69,
+     "fin": 816.94,
+     "p": "form,"
+    },
+    {
+     "ini": 816.94,
+     "fin": 817.43,
+     "p": "35"
+    },
+    {
+     "ini": 817.43,
+     "fin": 817.92,
+     "p": "years"
+    },
+    {
+     "ini": 817.92,
+     "fin": 818.41,
+     "p": "before"
+    },
+    {
+     "ini": 818.41,
+     "fin": 818.9,
+     "p": "Google"
+    },
+    {
+     "ini": 818.9,
+     "fin": 819.39,
+     "p": "came"
+    },
+    {
+     "ini": 819.39,
+     "fin": 819.88,
+     "p": "along:"
+    },
+    {
+     "ini": 819.88,
+     "fin": 820.37,
+     "p": "it"
+    },
+    {
+     "ini": 820.37,
+     "fin": 820.85,
+     "p": "was"
+    },
+    {
+     "ini": 820.85,
+     "fin": 821.57,
+     "p": "idealistic,"
+    },
+    {
+     "ini": 821.57,
+     "fin": 822.0,
+     "p": "overflowing"
+    },
+    {
+     "ini": 822.0,
+     "fin": 822.42,
+     "p": "with"
+    },
+    {
+     "ini": 822.42,
+     "fin": 822.85,
+     "p": "neat"
+    },
+    {
+     "ini": 822.85,
+     "fin": 823.27,
+     "p": "tools,"
+    },
+    {
+     "ini": 823.27,
+     "fin": 823.7,
+     "p": "and"
+    },
+    {
+     "ini": 823.7,
+     "fin": 824.12,
+     "p": "great"
+    },
+    {
+     "ini": 824.12,
+     "fin": 825.49,
+     "p": "notions."
+    }
+   ]
+  },
+  {
+   "ini": 825.49,
+   "fin": 833.4,
+   "texto": "Stewart and his team put out several issues of The Whole Earth Catalog, and then when it had run its course, they put out a final issue.",
+   "palabras": [
+    {
+     "ini": 825.49,
+     "fin": 825.72,
+     "p": "Stewart"
+    },
+    {
+     "ini": 825.72,
+     "fin": 825.95,
+     "p": "and"
+    },
+    {
+     "ini": 825.95,
+     "fin": 826.18,
+     "p": "his"
+    },
+    {
+     "ini": 826.18,
+     "fin": 826.4,
+     "p": "team"
+    },
+    {
+     "ini": 826.4,
+     "fin": 826.63,
+     "p": "put"
+    },
+    {
+     "ini": 826.63,
+     "fin": 826.86,
+     "p": "out"
+    },
+    {
+     "ini": 826.86,
+     "fin": 827.09,
+     "p": "several"
+    },
+    {
+     "ini": 827.09,
+     "fin": 827.32,
+     "p": "issues"
+    },
+    {
+     "ini": 827.32,
+     "fin": 827.55,
+     "p": "of"
+    },
+    {
+     "ini": 827.55,
+     "fin": 827.78,
+     "p": "The"
+    },
+    {
+     "ini": 827.78,
+     "fin": 828.02,
+     "p": "Whole"
+    },
+    {
+     "ini": 828.02,
+     "fin": 828.25,
+     "p": "Earth"
+    },
+    {
+     "ini": 828.25,
+     "fin": 828.48,
+     "p": "Catalog,"
+    },
+    {
+     "ini": 828.48,
+     "fin": 828.8,
+     "p": "and"
+    },
+    {
+     "ini": 828.8,
+     "fin": 829.11,
+     "p": "then"
+    },
+    {
+     "ini": 829.11,
+     "fin": 829.43,
+     "p": "when"
+    },
+    {
+     "ini": 829.43,
+     "fin": 829.75,
+     "p": "it"
+    },
+    {
+     "ini": 829.75,
+     "fin": 830.06,
+     "p": "had"
+    },
+    {
+     "ini": 830.06,
+     "fin": 830.38,
+     "p": "run"
+    },
+    {
+     "ini": 830.38,
+     "fin": 830.69,
+     "p": "its"
+    },
+    {
+     "ini": 830.69,
+     "fin": 831.01,
+     "p": "course,"
+    },
+    {
+     "ini": 831.01,
+     "fin": 831.33,
+     "p": "they"
+    },
+    {
+     "ini": 831.33,
+     "fin": 831.64,
+     "p": "put"
+    },
+    {
+     "ini": 831.64,
+     "fin": 831.96,
+     "p": "out"
+    },
+    {
+     "ini": 831.96,
+     "fin": 832.28,
+     "p": "a"
+    },
+    {
+     "ini": 832.28,
+     "fin": 832.59,
+     "p": "final"
+    },
+    {
+     "ini": 832.59,
+     "fin": 833.4,
+     "p": "issue."
+    }
+   ]
+  },
+  {
+   "ini": 833.4,
+   "fin": 838.21,
+   "texto": "It was the mid-1970s, and I was your age.",
+   "palabras": [
+    {
+     "ini": 833.4,
+     "fin": 833.81,
+     "p": "It"
+    },
+    {
+     "ini": 833.81,
+     "fin": 834.23,
+     "p": "was"
+    },
+    {
+     "ini": 834.23,
+     "fin": 834.64,
+     "p": "the"
+    },
+    {
+     "ini": 834.64,
+     "fin": 835.05,
+     "p": "mid-1970s,"
+    },
+    {
+     "ini": 835.05,
+     "fin": 835.47,
+     "p": "and"
+    },
+    {
+     "ini": 835.47,
+     "fin": 835.88,
+     "p": "I"
+    },
+    {
+     "ini": 835.88,
+     "fin": 836.29,
+     "p": "was"
+    },
+    {
+     "ini": 836.29,
+     "fin": 836.71,
+     "p": "your"
+    },
+    {
+     "ini": 836.71,
+     "fin": 838.21,
+     "p": "age."
+    }
+   ]
+  },
+  {
+   "ini": 838.72,
+   "fin": 848.93,
+   "texto": "On the back cover of their final issue was a photograph of an early morning country road, the kind you might find yourself hitchhiking on if you were so adventurous.",
+   "palabras": [
+    {
+     "ini": 838.72,
+     "fin": 838.93,
+     "p": "On"
+    },
+    {
+     "ini": 838.93,
+     "fin": 839.15,
+     "p": "the"
+    },
+    {
+     "ini": 839.15,
+     "fin": 839.36,
+     "p": "back"
+    },
+    {
+     "ini": 839.36,
+     "fin": 839.57,
+     "p": "cover"
+    },
+    {
+     "ini": 839.57,
+     "fin": 839.79,
+     "p": "of"
+    },
+    {
+     "ini": 839.79,
+     "fin": 840.0,
+     "p": "their"
+    },
+    {
+     "ini": 840.0,
+     "fin": 840.22,
+     "p": "final"
+    },
+    {
+     "ini": 840.22,
+     "fin": 840.43,
+     "p": "issue"
+    },
+    {
+     "ini": 840.43,
+     "fin": 840.83,
+     "p": "was"
+    },
+    {
+     "ini": 840.83,
+     "fin": 841.24,
+     "p": "a"
+    },
+    {
+     "ini": 841.24,
+     "fin": 841.64,
+     "p": "photograph"
+    },
+    {
+     "ini": 841.64,
+     "fin": 842.05,
+     "p": "of"
+    },
+    {
+     "ini": 842.05,
+     "fin": 842.45,
+     "p": "an"
+    },
+    {
+     "ini": 842.45,
+     "fin": 842.86,
+     "p": "early"
+    },
+    {
+     "ini": 842.86,
+     "fin": 843.26,
+     "p": "morning"
+    },
+    {
+     "ini": 843.26,
+     "fin": 843.66,
+     "p": "country"
+    },
+    {
+     "ini": 843.66,
+     "fin": 844.32,
+     "p": "road,"
+    },
+    {
+     "ini": 844.32,
+     "fin": 844.49,
+     "p": "the"
+    },
+    {
+     "ini": 844.49,
+     "fin": 844.65,
+     "p": "kind"
+    },
+    {
+     "ini": 844.65,
+     "fin": 844.82,
+     "p": "you"
+    },
+    {
+     "ini": 844.82,
+     "fin": 844.99,
+     "p": "might"
+    },
+    {
+     "ini": 844.99,
+     "fin": 845.15,
+     "p": "find"
+    },
+    {
+     "ini": 845.15,
+     "fin": 845.32,
+     "p": "yourself"
+    },
+    {
+     "ini": 845.32,
+     "fin": 845.73,
+     "p": "hitchhiking"
+    },
+    {
+     "ini": 845.73,
+     "fin": 846.14,
+     "p": "on"
+    },
+    {
+     "ini": 846.14,
+     "fin": 846.55,
+     "p": "if"
+    },
+    {
+     "ini": 846.55,
+     "fin": 846.96,
+     "p": "you"
+    },
+    {
+     "ini": 846.96,
+     "fin": 847.37,
+     "p": "were"
+    },
+    {
+     "ini": 847.37,
+     "fin": 847.78,
+     "p": "so"
+    },
+    {
+     "ini": 847.78,
+     "fin": 848.93,
+     "p": "adventurous."
+    }
+   ]
+  },
+  {
+   "ini": 848.93,
+   "fin": 857.3,
+   "texto": "Beneath it were the words: \"Stay Hungry. Stay Foolish.\" It was their farewell message as they signed off.",
+   "palabras": [
+    {
+     "ini": 848.93,
+     "fin": 849.4,
+     "p": "Beneath"
+    },
+    {
+     "ini": 849.4,
+     "fin": 849.87,
+     "p": "it"
+    },
+    {
+     "ini": 849.87,
+     "fin": 850.33,
+     "p": "were"
+    },
+    {
+     "ini": 850.33,
+     "fin": 850.8,
+     "p": "the"
+    },
+    {
+     "ini": 850.8,
+     "fin": 851.27,
+     "p": "words:"
+    },
+    {
+     "ini": 851.27,
+     "fin": 851.74,
+     "p": "\"Stay"
+    },
+    {
+     "ini": 851.74,
+     "fin": 852.2,
+     "p": "Hungry."
+    },
+    {
+     "ini": 852.2,
+     "fin": 852.67,
+     "p": "Stay"
+    },
+    {
+     "ini": 852.67,
+     "fin": 853.14,
+     "p": "Foolish.\""
+    },
+    {
+     "ini": 853.14,
+     "fin": 853.6,
+     "p": "It"
+    },
+    {
+     "ini": 853.6,
+     "fin": 854.07,
+     "p": "was"
+    },
+    {
+     "ini": 854.07,
+     "fin": 854.53,
+     "p": "their"
+    },
+    {
+     "ini": 854.53,
+     "fin": 854.99,
+     "p": "farewell"
+    },
+    {
+     "ini": 854.99,
+     "fin": 855.45,
+     "p": "message"
+    },
+    {
+     "ini": 855.45,
+     "fin": 855.92,
+     "p": "as"
+    },
+    {
+     "ini": 855.92,
+     "fin": 856.38,
+     "p": "they"
+    },
+    {
+     "ini": 856.38,
+     "fin": 856.84,
+     "p": "signed"
+    },
+    {
+     "ini": 856.84,
+     "fin": 857.3,
+     "p": "off."
+    }
+   ]
+  },
+  {
+   "ini": 857.3,
+   "fin": 863.75,
+   "texto": "Stay Hungry. Stay Foolish. And I have always wished that for myself.",
+   "palabras": [
+    {
+     "ini": 857.3,
+     "fin": 857.77,
+     "p": "Stay"
+    },
+    {
+     "ini": 857.77,
+     "fin": 858.56,
+     "p": "Hungry."
+    },
+    {
+     "ini": 858.56,
+     "fin": 858.98,
+     "p": "Stay"
+    },
+    {
+     "ini": 858.98,
+     "fin": 859.39,
+     "p": "Foolish."
+    },
+    {
+     "ini": 859.39,
+     "fin": 859.81,
+     "p": "And"
+    },
+    {
+     "ini": 859.81,
+     "fin": 860.23,
+     "p": "I"
+    },
+    {
+     "ini": 860.23,
+     "fin": 860.64,
+     "p": "have"
+    },
+    {
+     "ini": 860.64,
+     "fin": 861.06,
+     "p": "always"
+    },
+    {
+     "ini": 861.06,
+     "fin": 861.48,
+     "p": "wished"
+    },
+    {
+     "ini": 861.48,
+     "fin": 861.9,
+     "p": "that"
+    },
+    {
+     "ini": 861.9,
+     "fin": 862.31,
+     "p": "for"
+    },
+    {
+     "ini": 862.31,
+     "fin": 863.75,
+     "p": "myself."
+    }
+   ]
+  },
+  {
+   "ini": 863.75,
+   "fin": 868.68,
+   "texto": "And now, as you graduate to begin anew, I wish that for you.",
+   "palabras": [
+    {
+     "ini": 863.75,
+     "fin": 864.12,
+     "p": "And"
+    },
+    {
+     "ini": 864.12,
+     "fin": 864.49,
+     "p": "now,"
+    },
+    {
+     "ini": 864.49,
+     "fin": 864.86,
+     "p": "as"
+    },
+    {
+     "ini": 864.86,
+     "fin": 865.22,
+     "p": "you"
+    },
+    {
+     "ini": 865.22,
+     "fin": 865.59,
+     "p": "graduate"
+    },
+    {
+     "ini": 865.59,
+     "fin": 865.96,
+     "p": "to"
+    },
+    {
+     "ini": 865.96,
+     "fin": 866.33,
+     "p": "begin"
+    },
+    {
+     "ini": 866.33,
+     "fin": 866.7,
+     "p": "anew,"
+    },
+    {
+     "ini": 866.7,
+     "fin": 867.07,
+     "p": "I"
+    },
+    {
+     "ini": 867.07,
+     "fin": 867.43,
+     "p": "wish"
+    },
+    {
+     "ini": 867.43,
+     "fin": 867.8,
+     "p": "that"
+    },
+    {
+     "ini": 867.8,
+     "fin": 868.17,
+     "p": "for"
+    },
+    {
+     "ini": 868.17,
+     "fin": 868.68,
+     "p": "you."
+    }
+   ]
+  },
+  {
+   "ini": 868.68,
+   "fin": 875.73,
+   "texto": "Stay Hungry. Stay Foolish. Thank you all very much.",
+   "palabras": [
+    {
+     "ini": 868.68,
+     "fin": 869.41,
+     "p": "Stay"
+    },
+    {
+     "ini": 869.41,
+     "fin": 870.14,
+     "p": "Hungry."
+    },
+    {
+     "ini": 870.14,
+     "fin": 870.88,
+     "p": "Stay"
+    },
+    {
+     "ini": 870.88,
+     "fin": 871.73,
+     "p": "Foolish."
+    },
+    {
+     "ini": 871.73,
+     "fin": 872.36,
+     "p": "Thank"
+    },
+    {
+     "ini": 872.36,
+     "fin": 872.98,
+     "p": "you"
+    },
+    {
+     "ini": 872.98,
+     "fin": 873.6,
+     "p": "all"
+    },
+    {
+     "ini": 873.6,
+     "fin": 874.23,
+     "p": "very"
+    },
+    {
+     "ini": 874.23,
+     "fin": 875.73,
+     "p": "much."
+    }
+   ]
+  },
+  {
+   "ini": 897.5,
+   "fin": 901.08,
+   "texto": "The preceding program is copyrighted by Stanford University.",
+   "palabras": [
+    {
+     "ini": 897.5,
+     "fin": 897.92,
+     "p": "The"
+    },
+    {
+     "ini": 897.92,
+     "fin": 898.35,
+     "p": "preceding"
+    },
+    {
+     "ini": 898.35,
+     "fin": 898.77,
+     "p": "program"
+    },
+    {
+     "ini": 898.77,
+     "fin": 899.19,
+     "p": "is"
+    },
+    {
+     "ini": 899.19,
+     "fin": 899.62,
+     "p": "copyrighted"
+    },
+    {
+     "ini": 899.62,
+     "fin": 900.04,
+     "p": "by"
+    },
+    {
+     "ini": 900.04,
+     "fin": 900.47,
+     "p": "Stanford"
+    },
+    {
+     "ini": 900.47,
+     "fin": 901.08,
+     "p": "University."
+    }
+   ]
+  },
+  {
+   "ini": 901.08,
+   "fin": 903.72,
+   "texto": "Please visit us at stanford.edu",
+   "palabras": [
+    {
+     "ini": 901.08,
+     "fin": 901.62,
+     "p": "Please"
+    },
+    {
+     "ini": 901.62,
+     "fin": 902.15,
+     "p": "visit"
+    },
+    {
+     "ini": 902.15,
+     "fin": 902.69,
+     "p": "us"
+    },
+    {
+     "ini": 902.69,
+     "fin": 903.22,
+     "p": "at"
+    },
+    {
+     "ini": 903.22,
+     "fin": 903.72,
+     "p": "stanford.edu"
+    }
+   ]
+  }
+ ]
+}

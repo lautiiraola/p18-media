@@ -1,0 +1,75 @@
+PRODUCTION REPORT
+
+Video ID: P18-001
+Título: Ya lo habría hecho alguien (título de trabajo)
+Protagonista: James Dyson
+Modo de creación: assigned (prompt 11_PROMPTS/02_PRIMER_VIDEO_JAMES_DYSON.txt)
+Duración: 2:00,27 (voz aprobada)
+Versión master: v01 (07_renders/final/P18-001-james-dyson-master-v01.mp4)
+Resumen creativo: la objeción "si fuera posible, ya lo habría hecho alguien más grande" frente a un método de prueba, medición y un solo cambio por vez. Decisión central: fabricar él mismo, con su casa como garantía.
+Fuentes principales: dyson.com (biografía y epígrafes de Invention: A Life), James Dyson Foundation, entrevista de Tim Ferriss (2021), V&A, Science Museum Group, London Business School y GetNavi. Ver 08_sources_and_licenses/sources.csv.
+Assets y licencias: ver 04_assets/asset-registry.csv. Los assets aprobados son patentes de dominio público (US4373228, US4058344, US4826515), el ciclón de Bath (CC BY 4.0) y los gráficos P18. Quedan pendientes CC BY-SA, el archivo de Dyson (borrador de permiso en 08_sources_and_licenses/solicitud-permiso-dyson.txt), las fotos de museos, la música y los SFX.
+Componentes reutilizados: ninguno de p18-remotion (sistema de entrevistas a 30 fps, con otra identidad).
+Componentes nuevos (runtime compartido): P18Story, SceneView, NarrativeSubtitle, Brand (P18BrandSignature, Kicker, SourceCaption, Tag, Underlined), Archive (ArchivePhoto, DocumentCard), Typography (SyncedQuote, DissolvingQuote, QuestionClose), Graphics (Cyclone, UprightVacuum, PrototypeGrid, Counter, Method, Microns, Formulas, DebtLine, EmptyField, Rejections, RouteJapan, TimelineTen, HouseGuarantee, Metric, YearCard).
+Problemas encontrados:
+- dyson.com, jamesdysonfoundation.com y fastcompany.com devuelven 403 a la lectura automática. Los dos primeros se leyeron con el navegador integrado; Fast Company quedó sin leer.
+- Claude in Chrome no estaba conectado; se usó el navegador integrado.
+- Discrepancias documentadas en fact-check.csv: cuatro o cinco años, altura del ciclón, salida del Ballbarrow, fabricante de la G-Force, ventas del DC01.
+Decisiones tomadas:
+- La pregunta rectora cambió respecto del prompt 02 (ver narrative-map.txt).
+- La cifra se narra como "Según él, 5.126 no funcionaron; el 5.127, sí". Se descarta "la idea falló 5.126 veces" del frame de referencia.
+- No se narran cifras de ventas, nombres de empresas que rechazaron ni detalles de juicios no verificados.
+- La duración estimada supera la referencia de 70–90 s; hay recortes opcionales listados en narrative-map.txt.
+- Se copió la plantilla 08 completa, por convención de CLAUDE.txt.
+Comandos de render: ninguno.
+Resultado de QA: aprobado (técnico, creativo y licencias). Ver 09_qa/qa-checklist.txt y 08_sources_and_licenses/autorizaciones.txt.
+
+REGISTRO DE ETAPAS
+2026-11-24  idea → research: carpeta creada desde 08_NUEVO_VIDEO_TEMPLATE.
+2026-11-24  research → fact_check → script: dossier, fact-check (39 afirmaciones), propuesta narrativa y guion anotado v01.
+2026-11-24  script → waiting_voiceover: texto ElevenLabs y guía de voz entregados al operador, por instrucción explícita. Nota: estados-de-produccion.txt pide "guion aprobado" para esta transición; la aprobación formal del operador queda pendiente y cualquier cambio de texto antes de grabar se refleja en voiceover-final.txt y guion-anotado.txt.
+
+2026-11-24  waiting_voiceover → asset_search: voz de ElevenLabs recibida y validada (120,27 s, 0 diferencias de texto, sin clipping). Ver 03_voiceover/voice-validation.txt. voiceover_status: approved.
+
+2026-11-24  asset_search → storyboard (borrador v01): registro de assets completo (38 entradas: 16 approved, 18 pending, 3 reference_only, 1 rejected). audiovisual-script.csv con 38 unidades sobre la voz real. Dirección en 05_storyboard/direction.txt. No se descargó ningún archivo.
+
+2026-11-24  storyboard → production: el operador informó el permiso de Dyson y pidió armar el video. Runtime creado en 05_REMOTION_DESIGN_SYSTEM/runtime. Review v01 renderizada: 07_renders/review/P18-001-james-dyson-review-v01.mp4 (121,30 s, 1080x1920, 60 fps, H.264/AAC). QA técnico en 09_qa/qa-checklist.txt.
+Comando de render (desde 05_REMOTION_DESIGN_SYSTEM/runtime):
+  npx remotion render P18Story <out.mp4> --props=<prod>/06_remotion/p18-001.props.json --public-dir=<prod>/06_remotion/public --codec=h264 --crf=18 --audio-codec=aac --audio-bitrate=320k
+Versiones: remotion 4.0.545, react 19.3.1, typescript 7.0.2, node 26.0.0, ffmpeg 9.0.2.
+
+PRÓXIMO PASO: creative_review del operador sobre la review v01. Después: correcciones, normalización a -14 LUFS, master v01 y QA final.
+El proceso completo está en bitacora-de-proceso.txt.
+2026-11-24  creative_review → approved: el operador aprobó la review v01 ("ME GUSTA, EXCELENTE").
+Master v01: stream de video copiado de la review aprobada; audio con ffmpeg "volume=7.0dB,alimiter=limit=0.708:attack=5:release=50:level=false,aresample=48000", AAC 320k y faststart → -14,2 LUFS / -1,8 dBTP.
+Snapshot del código: 06_remotion/runtime-snapshot.
+PRÓXIMO PASO: el operador guarda el permiso de Dyson en 08_sources_and_licenses y confirma la licencia comercial de la voz. Después: completed y mover a 10_VIDEOS_TERMINADOS/P18-001-james-dyson, con actualización de INDEX.txt.
+2026-11-24  approved → completed → archived: el operador confirmó el permiso de Dyson y la licencia comercial de la voz ("Confirmado, archivalo"). Autorizaciones en 08_sources_and_licenses/autorizaciones.txt. Carpeta movida a 10_VIDEOS_TERMINADOS/P18-001-james-dyson e INDEX.txt actualizado.
+
+2026-11-24  MASTER v02: se agregó el cierre fijo P18 (outro3d, 3,0 s; 5127 "prototipos" → 18 → P18 3D; "Mentalidad emprendedora para los jóvenes."), aprobado por el operador.
+Review: 07_renders/review/P18-001-james-dyson-review-v02.mp4. Master: 07_renders/final/P18-001-james-dyson-master-v02.mp4 (123.41 s, -14,2 LUFS / -1,8 dBTP). SHA-256: 2f79b2b7fad7f2b4dcc6aaf17de8b1fb26bc8c41058a7d60b60d38181f238765
+Por pedido explícito del operador ("guardalos en la carpeta reemplazando los videos viejos"), el master v01 se borró. Es una excepción a control-de-versiones.txt. La review v01 queda como respaldo en 07_renders/review.
+Props: 06_remotion/p18-001-v02.props.json, generados por build_props.py (bloque "CIERRE FIJO P18").
+
+2026-11-24  MASTER v03: sistema tipográfico rotativo P18 (regla del operador: "parece muy IA").
+- Subtítulos: rotan editorial, serif, caps y punch.
+- Citas en Instrument Serif itálica, cifras y golpes en Unbounded, créditos en JetBrains Mono.
+- Se mantienen el cierre fijo outro3d, los props v02, la duración, la voz y la música.
+Review: 07_renders/review/P18-001-james-dyson-review-v03.mp4. Master: 07_renders/final/P18-001-james-dyson-master-v03.mp4 (SHA-256 72b4367e39f3f55d936eb736a94237c75878403f648eb1af26241ab0216d86a2). Sin cuadros negros, -14 LUFS.
+El master v02 se borró (reemplazo pedido por el operador). Las reviews v01/v02/v03 quedan en 07_renders/review.
+
+2026-11-24  MASTER v04, por dos pedidos del operador.
+1. Texto cinético: "los textos siguen siendo genéricos, tienen que tener movimiento". Cada palabra entra con la voz y los subtítulos rotan editorial, serif, caps y stack, con salida animada; citas con foco, titulares y kickers letra por letra.
+2. Imágenes rotativas: "que se roten más imágenes... hay muchos lugares que quedan vacíos". Galerías de archivo en polaroid con entradas rotativas (iris, wipe, blinds, drop, zoom, slide, flip) y escenas principales con entradas variadas.
+Props: 06_remotion/*-v04.props.json, generados por build_props.py (bloque "IMÁGENES ROTATIVAS"). Master: 07_renders/final/P18-001-james-dyson-master-v04.mp4 (SHA-256 9407589d470fd6f40c38452d905a1f30ee3f405229fa07bb100d61aabbf526e5). -14 LUFS, sin cuadros negros.
+El master v03 se borró (reemplazo pedido por el operador). Las reviews quedan en 07_renders/review.
+
+2026-11-24  MASTER v05. Revisión del operador sobre la v04: "hay imágenes que se repiten, eso no puede pasar" y "los subtítulos hay veces que se cortan, están raros".
+Imágenes: Dyson tenía tres imágenes repetidas. A26 se usa solo en S01; en S03, A30 (nueva, archivo Dyson) reemplaza a A16; en S35, A25r (otra toma del mismo montaje) reemplaza a A25c. S12 queda sin tarjeta. assert_unique_images() corre en el build.
+Subtítulos:
+- chunk_captions() hace cortes por frase y BREAKS editoriales, con saltos de línea por frase.
+- Ningún subtítulo sigue en pantalla después de un cambio de escena.
+- Motor cinético sin máscaras ni letterSpacing animado; slam más corto.
+- Resaltador lima detrás de toda la palabra clave; stack en orden de lectura.
+- Sin salida animada si el subtítulo siguiente entra enseguida.
+QA: 3 cuadros por subtítulo (a mitad de frase, última palabra y final), todos revisados. -14 LUFS, sin cuadros negros. SHA-256 43b9cbf5216e9ff069962708e634dd3b12065061923525f1d4d053d584aee104. El master v04 se borró.

@@ -1,0 +1,51 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,582,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.42,P18,,0,0,0,,Pensá en los tiros
+Dialogue: 0,0:00:01.42,0:00:02.12,P18,,0,0,0,,del final
+Dialogue: 0,0:00:02.52,0:00:03.96,P18,,0,0,0,,o en los libres decisivos.
+Dialogue: 0,0:00:03.96,0:00:04.98,P18,,0,0,0,,La gente va a la línea
+Dialogue: 0,0:00:04.98,0:00:05.98,P18,,0,0,0,,y está nerviosa.
+Dialogue: 0,0:00:05.98,0:00:06.98,P18,,0,0,0,,¿Pero de qué estás
+Dialogue: 0,0:00:06.98,0:00:07.30,P18,,0,0,0,,nervioso en realidad?
+Dialogue: 0,0:00:07.30,0:00:08.70,P18,,0,0,0,,Si lo desarmás:
+Dialogue: 0,0:00:08.70,0:00:09.48,P18,,0,0,0,,tenés miedo de
+Dialogue: 0,0:00:09.48,0:00:10.18,P18,,0,0,0,,errar el tiro.
+Dialogue: 0,0:00:10.76,0:00:11.96,P18,,0,0,0,,Bueno, errás el tiro.
+Dialogue: 0,0:00:11.96,0:00:12.54,P18,,0,0,0,,¿Y qué pasa?
+Dialogue: 0,0:00:12.54,0:00:14.26,P18,,0,0,0,,Vas a pasar vergüenza.
+Dialogue: 0,0:00:14.26,0:00:15.00,P18,,0,0,0,,Vas a pasar vergüenza
+Dialogue: 0,0:00:15.00,0:00:16.36,P18,,0,0,0,,porque miles de personas,
+Dialogue: 0,0:00:16.36,0:00:17.06,P18,,0,0,0,,millones, te ven errar
+Dialogue: 0,0:00:17.06,0:00:17.58,P18,,0,0,0,,el tiro.
+Dialogue: 0,0:00:17.58,0:00:18.70,P18,,0,0,0,,Bueno, ¿y después?
+Dialogue: 0,0:00:18.70,0:00:19.78,P18,,0,0,0,,La gente va a hablar mal
+Dialogue: 0,0:00:19.78,0:00:20.48,P18,,0,0,0,,de vos.
+Dialogue: 0,0:00:20.66,0:00:21.56,P18,,0,0,0,,Ok.
+Dialogue: 0,0:00:21.56,0:00:22.30,P18,,0,0,0,,Y entonces lo mirás
+Dialogue: 0,0:00:22.30,0:00:23.72,P18,,0,0,0,,y te preguntás: ¿eso
+Dialogue: 0,0:00:23.72,0:00:24.42,P18,,0,0,0,,importa de verdad?
+Dialogue: 0,0:00:25.40,0:00:26.08,P18,,0,0,0,,¿Entendés?
+Dialogue: 0,0:00:26.08,0:00:28.20,P18,,0,0,0,,Si ese es mi miedo…
+Dialogue: 0,0:00:28.20,0:00:29.08,P18,,0,0,0,,¿te preocupa fallarle
+Dialogue: 0,0:00:29.08,0:00:29.76,P18,,0,0,0,,a tu equipo?
+Dialogue: 0,0:00:29.76,0:00:31.10,P18,,0,0,0,,Ok, ¿ya les fallaste
+Dialogue: 0,0:00:31.10,0:00:31.76,P18,,0,0,0,,antes?
+Dialogue: 0,0:00:31.76,0:00:32.90,P18,,0,0,0,,Seguro, en prácticas
+Dialogue: 0,0:00:32.90,0:00:33.68,P18,,0,0,0,,y cosas así.
+Dialogue: 0,0:00:33.78,0:00:34.68,P18,,0,0,0,,Y siguen ahí.
+Dialogue: 0,0:00:34.68,0:00:36.38,P18,,0,0,0,,Entonces, cuando
+Dialogue: 0,0:00:36.38,0:00:37.58,P18,,0,0,0,,lo desarmás, lo ves
+Dialogue: 0,0:00:37.58,0:00:38.62,P18,,0,0,0,,como lo que es:
+Dialogue: 0,0:00:38.62,0:00:39.32,P18,,0,0,0,,nada.

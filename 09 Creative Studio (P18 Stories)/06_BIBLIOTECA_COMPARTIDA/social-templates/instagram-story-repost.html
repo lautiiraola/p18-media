@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=1080,initial-scale=1">
+  <title>P18 · Instagram Story Repost</title>
+  <style>
+    @font-face{font-family:Manrope;src:url('./assets/Manrope-Variable.ttf') format('truetype');font-weight:200 900;font-display:swap}
+    :root{--deep:#14251d;--deep2:#0d1b15;--ink:#172019;--lime:#c2f542;--paper:#f5f5eb;--blue:#8ec3e6;--muted:#cdd3c8}
+    *{box-sizing:border-box}html,body{width:1080px;height:1920px;margin:0;overflow:hidden;font-family:Manrope,Arial,sans-serif;background:var(--deep)}
+    .story{position:relative;width:1080px;height:1920px;overflow:hidden;color:var(--paper);background:
+      radial-gradient(circle at 82% 12%,rgba(142,195,230,.11),transparent 30%),
+      radial-gradient(circle at 12% 84%,rgba(194,245,66,.08),transparent 35%),
+      linear-gradient(155deg,var(--deep) 0%,var(--deep2) 100%)}
+    .grain{position:absolute;inset:0;opacity:.11;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.32'/%3E%3C/svg%3E");mix-blend-mode:soft-light}
+    .top{position:absolute;left:82px;right:82px;top:92px;display:flex;align-items:center;justify-content:space-between}
+    .logo{color:var(--lime);font-size:34px;font-weight:850;letter-spacing:-.04em}
+    .series{font-size:18px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:rgba(245,245,235,.62)}
+    .intro{position:absolute;left:82px;right:82px;top:178px;display:flex;align-items:flex-end;justify-content:space-between;border-bottom:1px solid rgba(245,245,235,.18);padding-bottom:28px}
+    .intro h1{margin:0;max-width:690px;font-size:58px;line-height:1.02;font-weight:680;letter-spacing:-.045em}
+    .intro h1 span{background:linear-gradient(transparent 77%,var(--lime) 77%,var(--lime) 93%,transparent 93%)}
+    .issue{font-size:17px;line-height:1.25;letter-spacing:.12em;text-transform:uppercase;text-align:right;color:var(--blue);font-weight:750}
+    .reel-zone{position:absolute;left:142px;top:405px;width:796px;height:1055px;border:1px solid rgba(245,245,235,.20);border-radius:28px;background:linear-gradient(180deg,rgba(245,245,235,.022),rgba(245,245,235,.008));box-shadow:0 35px 90px rgba(0,0,0,.18)}
+    .corner{position:absolute;width:54px;height:54px}.corner.tl{left:-2px;top:-2px;border-left:5px solid var(--lime);border-top:5px solid var(--lime);border-radius:25px 0 0}.corner.tr{right:-2px;top:-2px;border-right:3px solid var(--blue);border-top:3px solid var(--blue);border-radius:0 25px 0 0}.corner.bl{left:-2px;bottom:-2px;border-left:3px solid var(--blue);border-bottom:3px solid var(--blue);border-radius:0 0 0 25px}.corner.br{right:-2px;bottom:-2px;border-right:5px solid var(--lime);border-bottom:5px solid var(--lime);border-radius:0 0 25px}
+    .guide-label{display:none;position:absolute;inset:0;place-items:center;text-align:center;color:rgba(245,245,235,.65);font-size:27px;line-height:1.45;font-weight:600;letter-spacing:.08em;text-transform:uppercase}
+    .guide .guide-label{display:grid}.guide .reel-zone{background:rgba(142,195,230,.08);border:2px dashed rgba(142,195,230,.75)}
+    .guide .guide-label b{color:var(--lime);font-size:34px}
+    .cta{position:absolute;left:82px;right:82px;top:1528px;display:grid;grid-template-columns:66px 1fr;gap:24px;align-items:center}
+    .arrow{width:58px;height:58px;border:1px solid rgba(245,245,235,.28);border-radius:50%;display:grid;place-items:center;color:var(--lime);font-size:34px;line-height:1;transform:rotate(-90deg)}
+    .cta-copy{font-size:31px;line-height:1.15;font-weight:620;letter-spacing:-.025em}.cta-copy strong{font-weight:790;color:var(--paper)}.cta-copy span{display:block;margin-top:8px;font-size:18px;letter-spacing:.08em;text-transform:uppercase;color:rgba(245,245,235,.52)}
+    .footer{position:absolute;left:82px;right:82px;bottom:148px;padding-top:25px;border-top:1px solid rgba(245,245,235,.18);display:flex;align-items:center;justify-content:space-between;font-size:19px;font-weight:650;color:rgba(245,245,235,.72)}
+    .handle{color:var(--lime);letter-spacing:.02em}.tagline{font-size:17px;letter-spacing:.02em}
+    .safe{display:none;position:absolute;left:42px;right:42px;top:70px;bottom:120px;border:2px dashed rgba(194,245,66,.34);pointer-events:none}.guide .safe{display:block}.safe:before{content:'SAFE ZONE';position:absolute;left:10px;top:8px;color:rgba(194,245,66,.7);font:700 14px Manrope;letter-spacing:.12em}
+  </style>
+</head>
+<body>
+  <main class="story" id="story">
+    <div class="grain"></div>
+    <header class="top"><div class="logo">P18</div><div class="series">Proyecto 18 · Stories</div></header>
+    <section class="intro"><h1>Una historia.<br><span>Una decisión.</span></h1><div class="issue">Nueva<br>historia</div></section>
+    <section class="reel-zone" aria-label="Zona para superponer el Reel de Instagram">
+      <i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="guide-label"><div><b>SUPERPONER REEL</b><br>Área recomendada<br>796 × 1055 px</div></div>
+    </section>
+    <section class="cta"><div class="arrow">›</div><div class="cta-copy"><strong>Tocá el Reel para ver la historia completa.</strong><span>Archivo real · decisiones reales</span></div></section>
+    <footer class="footer"><div class="handle">@proyecto18.ar</div><div class="tagline">Hay todo un mundo. Exploralo.</div></footer>
+    <div class="safe"></div>
+  </main>
+  <script>if(new URLSearchParams(location.search).get('guide')==='1'){document.getElementById('story').classList.add('guide')}</script>
+</body>
+</html>

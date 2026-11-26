@@ -1,0 +1,52 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,548,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.04,P18,,0,0,0,,una de las cosas que tenemos que
+Dialogue: 0,0:00:01.04,0:00:02.20,P18,,0,0,0,,tratar de garantizar es diseñar
+Dialogue: 0,0:00:02.20,0:00:03.00,P18,,0,0,0,,una vida que nos encante.
+Dialogue: 0,0:00:04.22,0:00:05.10,P18,,0,0,0,,Y esto no es económico,
+Dialogue: 0,0:00:06.04,0:00:07.90,P18,,0,0,0,,esto tiene un montón de variables,
+Dialogue: 0,0:00:08.70,0:00:10.10,P18,,0,0,0,,pero yo creo que gran parte de
+Dialogue: 0,0:00:10.10,0:00:10.94,P18,,0,0,0,,todos los seres humanos es,
+Dialogue: 0,0:00:10.94,0:00:11.94,P18,,0,0,0,,tienes que diseñar una vida que te
+Dialogue: 0,0:00:11.94,0:00:12.64,P18,,0,0,0,,encante.
+Dialogue: 0,0:00:12.88,0:00:13.78,P18,,0,0,0,,Si tú no estás diseñando una vida
+Dialogue: 0,0:00:13.78,0:00:15.24,P18,,0,0,0,,que te encante,
+Dialogue: 0,0:00:17.22,0:00:20.08,P18,,0,0,0,,tú te estás proponiendo vivir algo
+Dialogue: 0,0:00:20.08,0:00:21.54,P18,,0,0,0,,que no vas a disfrutar.
+Dialogue: 0,0:00:22.14,0:00:23.30,P18,,0,0,0,,Y diseñar una vida que te encante
+Dialogue: 0,0:00:23.30,0:00:25.38,P18,,0,0,0,,requiere de que tú pienses un poco
+Dialogue: 0,0:00:25.38,0:00:27.32,P18,,0,0,0,,qué te gusta, tomes decisiones
+Dialogue: 0,0:00:27.32,0:00:30.22,P18,,0,0,0,,para ir hacia allá y recalibre si
+Dialogue: 0,0:00:30.22,0:00:31.32,P18,,0,0,0,,lo que las decisiones y la vida
+Dialogue: 0,0:00:31.32,0:00:32.02,P18,,0,0,0,,que te estás
+Dialogue: 0,0:00:32.52,0:00:33.96,P18,,0,0,0,,construyendo es exactamente lo que
+Dialogue: 0,0:00:33.96,0:00:35.54,P18,,0,0,0,,querías o no es lo que quería y
+Dialogue: 0,0:00:35.54,0:00:36.86,P18,,0,0,0,,que pienses hacia adelante.
+Dialogue: 0,0:00:36.86,0:00:37.90,P18,,0,0,0,,O sea, cuando tomas una decisión
+Dialogue: 0,0:00:37.90,0:00:39.60,P18,,0,0,0,,hoy de hacer algo, a lo mejor la
+Dialogue: 0,0:00:39.60,0:00:40.48,P18,,0,0,0,,decisión que estoy tomando hoy,
+Dialogue: 0,0:00:40.48,0:00:41.60,P18,,0,0,0,,ya tú sabes que va a cambiar tu
+Dialogue: 0,0:00:41.60,0:00:42.64,P18,,0,0,0,,vida los próximos dos años,
+Dialogue: 0,0:00:43.08,0:00:44.34,P18,,0,0,0,,piensa bien si esa es la vida que
+Dialogue: 0,0:00:44.34,0:00:45.26,P18,,0,0,0,,quieres.
+Dialogue: 0,0:00:46.24,0:00:47.44,P18,,0,0,0,,El costo que estás dispuesto a
+Dialogue: 0,0:00:47.44,0:00:47.84,P18,,0,0,0,,pagar.
+Dialogue: 0,0:00:47.84,0:00:50.06,P18,,0,0,0,,Claro, porque si tú no haces ese
+Dialogue: 0,0:00:50.06,0:00:50.92,P18,,0,0,0,,trabajo al principio tomas un
+Dialogue: 0,0:00:50.92,0:00:52.34,P18,,0,0,0,,montón de decisiones y terminas
+Dialogue: 0,0:00:52.34,0:00:54.88,P18,,0,0,0,,los siguientes tres, cuatro años
+Dialogue: 0,0:00:54.88,0:00:56.48,P18,,0,0,0,,construyendo una vida que no era
+Dialogue: 0,0:00:56.48,0:00:57.52,P18,,0,0,0,,la ¡Gracias por ver el vídeo!
+Dialogue: 0,0:00:57.52,0:00:58.22,P18,,0,0,0,,¡Hasta la próxima!

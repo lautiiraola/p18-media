@@ -1,0 +1,197 @@
+BITÁCORA DE PROCESO — P18-001-james-dyson
+Registro cronológico de cómo se hizo este video: pasos, herramientas, problemas, decisiones y aprendizajes.
+Se actualiza al cerrar cada etapa. Los aprendizajes que sirven para todos los videos se copian a 00_SISTEMA/aprendizajes-de-produccion.txt.
+
+────────────────────────────────────────
+ETAPA 0 — AUDITORÍA DEL ESTUDIO (2026-11-24)
+Qué se hizo: lectura de los 28 documentos obligatorios, inspección de p18-remotion y contraste con ESTADO_DEL_ESTUDIO.txt. Fue solo lectura.
+Hallazgos que afectan este video:
+- p18-remotion es un sistema de entrevistas a 30 fps, con tokens, subtítulos y firma distintos de la especificación P18 Stories.
+- La cola de historias está vacía.
+- La biblioteca no tiene logo, música ni SFX con licencia.
+- El validador da un falso positivo con los .md.
+Pendiente: decidir dónde se construye el runtime (p18-remotion o 05_REMOTION_DESIGN_SYSTEM/runtime).
+
+────────────────────────────────────────
+ETAPA 1 — INVESTIGACIÓN, FACT-CHECK Y GUION (2026-11-24)
+Pasos:
+1. Copia de 08_NUEVO_VIDEO_TEMPLATE a 09_VIDEOS_EN_PRODUCCION/P18-001-james-dyson; manifest en research.
+2. Investigación:
+   - El agente web-fetch y curl no pudieron leer dyson.com ni jamesdysonfoundation.com: devuelven 403. Imitar un navegador con curl fue denegado por el clasificador y no debe intentarse.
+   - Claude in Chrome estaba desconectado.
+   - Funcionó el navegador integrado (preview_start con url) junto con get_page_text o javascript_tool.
+   - Los capítulos de "Invention: A Life" en dyson.com son video y fotos, pero los epígrafes de las fotos son texto en primera persona de Dyson y se extraen leyendo los <p> de <main>.
+   - La fuente primaria más rica fue la transcripción de Tim Ferriss (tim.blog). Para no cargar toda la página, se buscaron fragmentos por palabra clave con javascript_tool.
+   - Museos (V&A, Science Museum) y medios secundarios: el agente web-fetch los leyó sin problema.
+3. Fact-check: 39 afirmaciones; 12 fuentes con mapeo cruzado afirmación ↔ fuente generado por script.
+4. Narrativa: el hook salió de una cita encontrada durante la investigación ("si fuera mejor, ya lo habría hecho una de las grandes"), no del ángulo que traía el prompt.
+5. Guion: cuatro borradores. Se recortó de 412 a 299 palabras.
+   - Se escribió primero en el scratchpad y se contó con un script.
+   - Se verificó por script que el guion anotado y el texto limpio son idénticos.
+6. Texto ElevenLabs: cifras en palabras; "DC01" escrito como "DC cero uno".
+7. Manifest en waiting_voiceover y ESTADO_DEL_ESTUDIO actualizado.
+Problemas y decisiones:
+- Las fuentes oficiales se contradicen (cuatro o cinco años) y la Fundación comprime la cronología. Nunca tomar la fuente oficial como verdad automática.
+- El frame de referencia aprobado decía "la idea falló 5.126 veces": era una formulación incorrecta. Las referencias visuales también se verifican.
+- La duración estimada superó la referencia de 70–90 s. Se ofrecieron recortes opcionales en lugar de acelerar.
+
+────────────────────────────────────────
+ETAPA 2 — RECEPCIÓN Y VALIDACIÓN DE VOZ (2026-11-24)
+Entrega del operador: MP3 de ElevenLabs.
+- Voz: "Brian - Warm, Smooth, Confident". El nombre del archivo indica pvc, s50, sim75, v4.
+- La ruta venía de Downloads. Se copió al inbox sin mover el original.
+Pasos:
+1. ffprobe: formato, sample rate y canales.
+2. ffmpeg ebur128 y astats: loudness, true peak, clipping y piso de ruido.
+3. ffmpeg silencedetect (-40 dB, 0,45 s): mapa de pausas.
+4. Transcripción local: whisper-cli (Homebrew) con el modelo ~/.cache/hyperframes/whisper/models/ggml-small.bin, idioma es.
+   - Antes se convierte a WAV de 16 kHz mono.
+   - Tarda unos 10 s para 2 minutos de audio.
+   - Con -ml 1 -sow -ojf se obtienen timestamps por palabra.
+5. Comparación palabra por palabra con normalización de números: 0 diferencias.
+6. Copia aprobada en WAV (decodificación del MP3, sin edición) con el nombre de la convención. Se guardaron los SHA-256 y los timings por palabra en JSON.
+Resultado: voz aprobada. 120,27 s. -20,9 LUFS, -2,5 dBTP, sin clipping.
+Aprendizajes:
+- El ritmo real de esta voz fue de 2,49 palabras por segundo. Estimar con 2,5 pal/s, no con 2,9. Para 70–90 s hacen falta unas 175–225 palabras.
+- ElevenLabs no respetó las pausas largas que se indicaron en la guía: todas quedaron cerca de 0,5 s. Las pausas dramáticas se resuelven en la edición.
+- Buscar un archivo en todo el disco con find / es lento y supera el timeout. Buscar primero en ~/.cache y en /opt/homebrew.
+
+────────────────────────────────────────
+ETAPA 3 — ASSETS Y STORYBOARD BORRADOR (2026-11-24)
+Autorización: el operador respondió "Sí, arrancá".
+Pasos:
+1. Reloj maestro: se alinearon las 38 oraciones del guion con los timings por palabra de whisper (difflib sobre tokens normalizados; 300 de 300 tokens alineados). Se clampeó el final a la duración real del WAV, porque whisper deriva unos 0,4 s.
+2. Búsqueda de assets:
+   - API de Wikimedia Commons (generator=search, prop=imageinfo, extmetadata) con curl y un User-Agent genérico. Así se obtienen licencia, autor y resolución sin descargar nada.
+   - Google Patents (navegador integrado): patentes de Dyson anteriores a 1990. US4373228 (prioridad 1979) es el documento del primer aspirador ciclónico y es de dominio público.
+   - Ficha del Science Museum: la imagen es "© The Board of Trustees".
+   - Archivo de Dyson: se usaron los epígrafes, porque las imágenes se cargan de forma diferida y no se pueden extraer de forma confiable.
+3. asset-registry.csv: 38 entradas.
+   - 16 approved: patentes de dominio público, ciclón de Bath (CC BY 4.0), gráficos P18, Manrope y la voz.
+   - 18 pending: CC BY-SA, archivo de Dyson, museos, música y SFX.
+   - 3 reference_only y 1 rejected (la foto de Deirdre en Commons tiene una licencia dudosa).
+4. audiovisual-script.csv: 38 unidades con tiempos reales; cada una tiene un recurso visual y un plan B.
+5. direction.txt: metáfora rectora (la frase), ritmo, pausas propuestas (+1,8 s) y decisiones D1–D6.
+6. Borrador del mail de permiso a Dyson Press Office (08_sources_and_licenses/solicitud-permiso-dyson.txt). Lo envía el operador.
+7. Manifest en storyboard (borrador). No se descargó ningún archivo: descargar requiere aprobación explícita.
+Problemas y decisiones:
+- Casi todo el archivo humano de calidad es © Dyson o CC BY-SA. Por eso se diseñó cada escena con un plan B de dominio público o de gráfico propio.
+- La foto de Commons del aserradero de Bath dice "believed to": se puede usar, pero rotulada de forma neutral.
+- El "prototipo de cartón" no tiene foto verificable: se usa un gráfico rotulado.
+Aprendizajes:
+- Las patentes de EE.UU. son el mejor archivo documental de dominio público para historias de inventores: tienen fecha, autor y dibujos.
+- Antes de escribir el storyboard, revisar la licencia de cada candidato: el diseño depende de qué se puede usar.
+- Las fotos de colecciones de museos casi nunca son de uso libre. Los registros sirven para verificar hechos; las imágenes hay que licenciarlas.
+
+────────────────────────────────────────
+ETAPA 3b — MÚSICA Y SFX RESUELTOS (2026-11-24)
+Desde una sesión paralela, Valentín autorizó usar todo lo que hay en p18-remotion/public/sfx ("todo lo que hay en la carpeta se puede usar!").
+Esa sesión copió los archivos a 06_BIBLIOTECA_COMPARTIDA/sound-effects (sin mover los originales) y los registró como approved en la biblioteca.
+Verificación en esta sesión:
+- los 7 archivos están presentes;
+- las duraciones son correctas;
+- el hash del tick es idéntico al original.
+Cambios:
+- M01 y X01 en approved en el asset-registry.
+- Cue sheet con tiempos exactos en la columna music_sfx del audiovisual-script.csv: un solo impacto, riser antes de los dos clímax, ticks en el método, pops en las tres cifras.
+Aprendizaje:
+- Definir la cama y los SFX en la biblioteca compartida una sola vez, con su ID, y referenciarlos desde cada video. Los cues se anclan a los timings de palabras de whisper, no a estimaciones.
+
+────────────────────────────────────────
+ETAPA 4 — PRODUCCIÓN Y REVIEW v01 (2026-11-24)
+Disparador: el operador escribió "ya me dio permiso. armá el video" (permiso de Dyson).
+Decisiones por defecto, tomadas porque eran las menos invasivas:
+- Sin CC BY-SA: el archivo de Dyson lo reemplaza.
+- Voz intacta: no se insertaron pausas.
+- Runtime nuevo en 05_REMOTION_DESIGN_SYSTEM/runtime: p18-remotion no se tocó.
+Pasos:
+1. Archivo de Dyson:
+   - URLs reales con el navegador integrado. Las imágenes cargan de forma diferida: se sacaron del HTML con una regex sobre /is/image/content/dam/...
+   - Descarga con curl desde el CDN dyson-h.assetsadobe2.com (Scene7). Funcionó con un User-Agent genérico.
+   - OJO: con ?wid=2400 el CDN AMPLÍA y RECORTA a 2400x468. Hay que pedir sin wid (?fmt=jpg&qlt=95): el tamaño nativo de las fotos de capítulo es 834x468 y las de la biografía 1500 px.
+2. Patente US4373228: PDF desde patentimages; pdftoppm -r 200 para las págs. 1, 2 y 3.
+3. Identificación visual de cada imagen con una hoja de contacto. Dos epígrafes no coincidían con el nombre del archivo, por ejemplo "CoachHouse" era Dyson en Japón: siempre mirar antes de asignar.
+4. Runtime: package.json con versiones fijas, npm install --prefer-offline (5 s gracias al cache).
+   - Una sola composición genérica, P18Story, con --props y --public-dir apuntando a la producción.
+   - Componentes: Brand, Archive, Typography, Graphics, NarrativeSubtitle, SceneView.
+5. Producción:
+   - 06_remotion/build_props.py genera los props desde el guion, los timings de whisper y la lista de escenas.
+   - 06_remotion/public contiene imágenes normalizadas, voz, cama recortada a 124 s, 6 SFX y Manrope.
+6. Ciclo de control: tsc → 40 fotogramas con remotion still (--scale=0.33) → hoja de contacto → correcciones.
+   Errores corregidos en ese ciclo:
+   - subtítulos blancos sobre papel (faltaba bg en las escenas de documento);
+   - cita de los socios cortada en la palabra equivocada;
+   - el montaje web del retrato traía dos retratos: se recortó;
+   - el ciclón tapaba el kicker;
+   - la foto de A26 era muy chica para ampliarla: se reemplazó por un gráfico.
+7. Render review v01: 7277 cuadros. Se lanzó en segundo plano y terminó en pocos minutos.
+8. QA técnico (09_qa/qa-checklist.txt): formato correcto, sin clipping ni cuadros negros. La loudness de -20,8 LUFS se normaliza en el master.
+Aprendizajes:
+- Hojas de contacto con ffmpeg: tile con -framerate falló (solo mostró los últimos cuadros). Usar hstack/vstack con las entradas explícitas.
+- En zsh, los globs que no matchean abortan el comando: listar los archivos de forma explícita.
+- rm -rf con variables está bloqueado por seguridad: crear carpetas nuevas en lugar de borrar.
+- Las fotos de archivo web de baja resolución funcionan como tarjeta sobre su propia versión desenfocada, no a pantalla completa.
+- Escribir build_props.py dentro de la producción hace el video reproducible: el runtime no tiene datos del protagonista.
+
+────────────────────────────────────────
+ETAPA 5 — APROBACIÓN Y MASTER (2026-11-24)
+- El operador aprobó la review v01 sin cambios ("ME GUSTA, EXCELENTE") y pidió guardar para siempre la regla del 9:16 (Reel/Story). Quedó en la memoria de Claude.
+- Master: sin re-render. Copia del stream de video y solo tratamiento de audio.
+- Primer intento con loudnorm de dos pasadas: falló porque zsh interpretó "$MI:l..." como modificador. Usar siempre ${VAR}.
+- Segundo intento: volume +7 dB con alimiter=0.79, pero la codificación AAC dejó el true peak en -0,8 dBTP.
+- Versión final: limit=0.708 → -14,2 LUFS / -1,8 dBTP.
+- Snapshot del runtime copiado a 06_remotion/runtime-snapshot (sin node_modules).
+Aprendizajes:
+- La codificación AAC sube el true peak alrededor de 1 dB: limitar a unos -3 dBFS sample peak para quedar debajo de -1 dBTP.
+- Si la review aprobada ya está bien, el master se hace copiando el video y normalizando solo el audio. Así es idéntico a lo aprobado y no se re-renderiza.
+
+────────────────────────────────────────
+ETAPA 6 — CIERRE Y ARCHIVO (2026-11-24)
+- El operador confirmó el permiso de Dyson y la licencia comercial de la voz ("Confirmado, archivalo").
+- Se creó 08_sources_and_licenses/autorizaciones.txt. El mail de Dyson no está en la carpeta: se recomendó guardarlo.
+- Manifest en archived. La carpeta se movió de 09_VIDEOS_EN_PRODUCCION a 10_VIDEOS_TERMINADOS (sin copiar ni borrar nada). Se actualizaron INDEX.txt y ESTADO_DEL_ESTUDIO.
+Resumen del video: de la auditoría al master en una sesión. La investigación fue el paso más largo; el render, el más corto.
+Aprendizaje: pedir el comprobante de cada permiso al recibirlo, no al archivar.
+
+(Histórico) PRÓXIMA ETAPA — completed (bloqueada solo por licencias): permiso de Dyson en 08_sources_and_licenses y licencia comercial de la voz → mover a 10_VIDEOS_TERMINADOS e INDEX.txt.
+
+(Histórico) PRÓXIMA ETAPA — creative_review de la review v01
+Después: correcciones (v02 si hace falta) → normalizar loudness → master H.264/AAC → QA completo → 10_VIDEOS_TERMINADOS.
+
+────────────────────────────────────────
+(Histórico) PRÓXIMA ETAPA — production (bloqueada hasta resolver D1, D2, D4, D5 y D6 de 05_storyboard/direction.txt)
+- D1: permiso de Dyson.
+- D2: CC BY-SA.
+- D3: resuelta.
+- D4: pausas.
+- D5: runtime de Remotion.
+- D6: licencia comercial de la voz.
+Después: aprobar las descargas (lista con nombre, fuente y tamaño), descargar a 04_assets y mostrar el plan de escenas antes del render.
+
+2026-11-24  MASTER v02: se agregó el cierre fijo P18 (outro3d, 3,0 s; 5127 "prototipos" → 18 → P18 3D; "Mentalidad emprendedora para los jóvenes."), aprobado por el operador.
+Review: 07_renders/review/P18-001-james-dyson-review-v02.mp4. Master: 07_renders/final/P18-001-james-dyson-master-v02.mp4 (123.41 s, -14,2 LUFS / -1,8 dBTP). SHA-256: 2f79b2b7fad7f2b4dcc6aaf17de8b1fb26bc8c41058a7d60b60d38181f238765
+Por pedido explícito del operador ("guardalos en la carpeta reemplazando los videos viejos"), el master v01 se borró. Es una excepción a control-de-versiones.txt. La review v01 queda como respaldo en 07_renders/review.
+Props: 06_remotion/p18-001-v02.props.json, generados por build_props.py (bloque "CIERRE FIJO P18").
+
+2026-11-24  MASTER v03: sistema tipográfico rotativo P18 (regla del operador: "parece muy IA").
+- Subtítulos: rotan editorial, serif, caps y punch.
+- Citas en Instrument Serif itálica, cifras y golpes en Unbounded, créditos en JetBrains Mono.
+- Se mantienen el cierre fijo outro3d, los props v02, la duración, la voz y la música.
+Review: 07_renders/review/P18-001-james-dyson-review-v03.mp4. Master: 07_renders/final/P18-001-james-dyson-master-v03.mp4 (SHA-256 72b4367e39f3f55d936eb736a94237c75878403f648eb1af26241ab0216d86a2). Sin cuadros negros, -14 LUFS.
+El master v02 se borró (reemplazo pedido por el operador). Las reviews v01/v02/v03 quedan en 07_renders/review.
+
+2026-11-24  MASTER v04, por dos pedidos del operador.
+1. Texto cinético: "los textos siguen siendo genéricos, tienen que tener movimiento". Cada palabra entra con la voz y los subtítulos rotan editorial, serif, caps y stack, con salida animada; citas con foco, titulares y kickers letra por letra.
+2. Imágenes rotativas: "que se roten más imágenes... hay muchos lugares que quedan vacíos". Galerías de archivo en polaroid con entradas rotativas (iris, wipe, blinds, drop, zoom, slide, flip) y escenas principales con entradas variadas.
+Props: 06_remotion/*-v04.props.json, generados por build_props.py (bloque "IMÁGENES ROTATIVAS"). Master: 07_renders/final/P18-001-james-dyson-master-v04.mp4 (SHA-256 9407589d470fd6f40c38452d905a1f30ee3f405229fa07bb100d61aabbf526e5). -14 LUFS, sin cuadros negros.
+El master v03 se borró (reemplazo pedido por el operador). Las reviews quedan en 07_renders/review.
+
+2026-11-24  MASTER v05. Revisión del operador sobre la v04: "hay imágenes que se repiten, eso no puede pasar" y "los subtítulos hay veces que se cortan, están raros".
+Imágenes: Dyson tenía tres imágenes repetidas. A26 se usa solo en S01; en S03, A30 (nueva, archivo Dyson) reemplaza a A16; en S35, A25r (otra toma del mismo montaje) reemplaza a A25c. S12 queda sin tarjeta. assert_unique_images() corre en el build.
+Subtítulos:
+- chunk_captions() hace cortes por frase y BREAKS editoriales, con saltos de línea por frase.
+- Ningún subtítulo sigue en pantalla después de un cambio de escena.
+- Motor cinético sin máscaras ni letterSpacing animado; slam más corto.
+- Resaltador lima detrás de toda la palabra clave; stack en orden de lectura.
+- Sin salida animada si el subtítulo siguiente entra enseguida.
+QA: 3 cuadros por subtítulo (a mitad de frase, última palabra y final), todos revisados. -14 LUFS, sin cuadros negros. SHA-256 43b9cbf5216e9ff069962708e634dd3b12065061923525f1d4d053d584aee104. El master v04 se borró.

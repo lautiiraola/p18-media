@@ -1,0 +1,26 @@
+CLIP 02 — EMPRENDER ES RESOLVER PROBLEMAS, UNA BARRERA A LA VEZ
+
+Inicio:     02:27.6  (147.58 s)
+Fin:        03:16.9  (196.87 s)
+Duración:   49.3 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  EMPRENDER ES RESOLVER PROBLEMAS, UNA BARRERA A LA VEZ   (en el reel, en lima: RESOLVER PROBLEMAS)
+Departamento:     Finanzas y trabajo
+Área:             Ideas, proyectos y ventas
+Tema:             Emprender es resolver problemas
+Fuente:           UTAMED - Félix Ruiz — "EMPRENDIMIENTO y TECNOLOGÍA con Félix Ruiz |  Mirando a los Ojos de las Empresas 1x03"
+                  https://www.youtube.com/watch?v=8ZPEjEmeKlg&t=147s
+
+Por qué lo elegí:
+Define emprender como resolver problemas y saltar barreras de a poco. Útil para quien empieza.
+
+Gancho (primeros 3 s): Hombre, difícil es todo, ¿no?
+
+Notas para la revisión: Dice 'gracias a Dios' una vez; es un comentario personal.
+
+Transcripción del clip:
+yo siempre digo que nosotros nos dedicamos a resolver problemas y sobre todo más aún cuando cuando se trata de empresas de creación donde todo está por hacer, todo está por innovar y al final te vas encontrando constantemente barreras que te impiden que te impiden ir avanzando y esas barreras pues poco a poco las tienes que ir las tienes que ir saltando y tienes que ir poco a poco resolviendo todos los problemas que hay durante el desarrollo de una empresa. Ahora, en mi caso la verdad que he tenido suerte, que gracias a Dios hemos ido resolviendo todos esos problemas conforme vamos avanzando y a día de hoy me sigo dedicando a resolver esos problemas.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-23 - UTAMED - Félix Ruiz/02 - resolver problemas.mp4" "EMPRENDER ES *RESOLVER PROBLEMAS*, UNA BARRERA A LA VEZ" --fuente "UTAMED - Félix Ruiz"

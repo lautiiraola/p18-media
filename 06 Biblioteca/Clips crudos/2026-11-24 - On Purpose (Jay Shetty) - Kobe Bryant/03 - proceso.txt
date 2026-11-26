@@ -1,0 +1,24 @@
+CLIP 03 — UN DÍA LA METÉS, AL OTRO LA ERRÁS: ¿Y AHORA?
+
+Inicio:     14:26.9  (866.90 s)
+Fin:        15:05.1  (905.10 s)
+Duración:   37.2 s
+Corte:      recortado a mano en los bordes (24/11) · ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  UN DÍA LA METÉS, AL OTRO LA ERRÁS: ¿Y AHORA?   (en el reel, en lima: METÉS, ERRÁS)
+Departamento:     Deporte y mentalidad
+Área:             Mentalidad aplicada
+Tema:             Los resultados van y vienen, el proceso queda
+Fuente:           On Purpose (Jay Shetty) - Kobe Bryant — "Jay Shetty & Kobe Bryant: ON How to be Strategic & Obsessive to Find Your Purpose"
+                  https://www.youtube.com/watch?v=C5UWJRSRZh8&t=866s
+
+Por qué lo elegí:
+Idea simple y completa: la vida es cíclica, un día bueno y uno malo; lo que importa es mejorar todos los días y no obsesionarse con el resultado.
+
+Gancho (primeros 3 s): Trial and error
+
+Transcripción del clip:
+to get over myself. You know, trial and error. You grow up and you make game winning shots and it's awesome. You come back the next day and miss a game winning shot and it's misery. And then the next day comes and you're back playing again and you understand that life has a cyclical nature where it's, you know, what you do on Monday it's fantastic, but then Tuesday is a bad day. But guess what? There's Wednesday. So are we just supposed to live our lives like this the whole time? You know, versus just staying like this and understanding that it's really just a journey of evolution every day is just constant improvement, constant curiosity, constantly getting better. The results don't really matter. It's the figuring out that matters.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-24 - On Purpose (Jay Shetty) - Kobe Bryant/03 - proceso.mp4" "UN DÍA LA *METÉS*, AL OTRO LA *ERRÁS*: ¿Y AHORA?" --fuente "On Purpose (Jay Shetty) - Kobe Bryant"

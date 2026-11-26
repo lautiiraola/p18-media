@@ -1,0 +1,26 @@
+CLIP 03 — LO BUENO QUE TE PASA LLEGA A TRAVÉS DE LOS DEMÁS
+
+Inicio:     15:35.3  (935.32 s)
+Fin:        16:12.2  (972.16 s)
+Duración:   36.8 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LO BUENO QUE TE PASA LLEGA A TRAVÉS DE LOS DEMÁS   (en el reel, en lima: A TRAVÉS DE LOS DEMÁS)
+Departamento:     Crecimiento personal
+Área:             Liderazgo
+Tema:             Pensar en los demás
+Fuente:           Epifanía Podcast - Nicolás Aguzin — "Nació en la provincia más pobre, pero llegó a CEO de JPMorgan | Nicolás Aguzin"
+                  https://www.youtube.com/watch?v=eAWLBxLpKEE&t=935s
+
+Por qué lo elegí:
+Cambia la idea del "me hice solo": lo bueno llega gracias a la gente que te acompaña y cuando pensás en los demás. Mensaje de liderazgo y vínculos, simple y sin promesas.
+
+Gancho (primeros 3 s): Mucho de las cosas buenas que a mí me pasaron en realidad fueron gracias a terceros
+
+Notas para la revisión: Dice "el éxito no viene de uno mismo": no es promesa de éxito, pero revisar el tono.
+
+Transcripción del clip:
+trayecto, muchas de las cosas buenas que a mí me pasaron en realidad fueron gracias a terceros alrededor mío, gente que me acompañó, que me asesoró bien, que me pudo apoyar. Entonces, lo más importante que yo transmitiría a la gente que piensa, digamos, cómo hacer esto es, cuando uno está pensando en terceros, en los demás, es cuando las cosas buenas pasan. En las cosas que me pasaron a mí, el éxito no viene a través de uno mismo, viene a través de terceros,
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - Epifanía Podcast - Nicolás Aguzin/03 - a traves de los demas.mp4" "LO BUENO QUE TE PASA LLEGA *A TRAVÉS DE LOS DEMÁS*" --fuente "Epifanía Podcast - Nicolás Aguzin"

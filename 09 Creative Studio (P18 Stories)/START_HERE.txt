@@ -1,0 +1,37 @@
+P18 CREATIVE STUDIO — COMENZAR AQUÍ
+
+Esta carpeta es el sistema operativo completo de P18 Stories.
+
+INSTRUCCIÓN PARA CLAUDE CODE
+
+1. Leer este archivo completo.
+2. Leer CLAUDE.txt completo.
+3. Leer ESTADO_DEL_ESTUDIO.txt.
+4. Leer 00_SISTEMA/reglas-del-operador/ y 00_SISTEMA/guia-rapida-de-produccion.txt.
+5. Mirar el video modelo y su proceso: 10_VIDEOS_TERMINADOS/P18-003-steve-jobs. Los masters de P18-001 y P18-002 también son referencia del estilo.
+6. No iniciar producción hasta haber leído los documentos que CLAUDE.txt marca como obligatorios.
+7. Si la carpeta llegó como zip: correr npm install en 05_REMOTION_DESIGN_SYSTEM/runtime antes del primer render.
+
+COMANDOS DE INICIO
+
+Historia indicada por el operador:
+NUEVO VIDEO: <protagonista o tema>
+
+Selección autónoma:
+CREAR NUEVO VIDEO AUTÓNOMO
+
+Continuar una producción:
+CONTINUAR VIDEO: <video_id>
+
+Revisar una producción:
+REVISAR VIDEO: <video_id>
+
+REGLA CENTRAL
+
+El producto es un video P18 Stories vertical, faceless y documental. No es una presentación de Canva, no utiliza avatares y no inventa archivo histórico. Se construye en Remotion con voz en off, material real, diseño editorial P18 y fuentes verificables.
+
+James Dyson aparece únicamente dentro de 02_REFERENCIAS como ejemplo visual aprobado. No es el protagonista predeterminado.
+
+ESTILO VIGENTE (2026-11-25): 9:16, 30–50 s, texto cinético palabra por palabra, tipografía rotativa, 2–4 imágenes por
+escena sin repetir ninguna, subtítulos cortados por frase, música rotativa, cierre fijo outro3d y master a -14 LUFS.
+Todo está en CLAUDE.txt.

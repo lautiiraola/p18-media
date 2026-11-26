@@ -1,0 +1,76 @@
+QA DEL VIDEO — P18-001-james-dyson — review v01 (2026-11-24)
+Archivo: 07_renders/review/P18-001-james-dyson-review-v01.mp4
+[x] = verificado · [ ] = pendiente · [~] = parcial
+
+[x] Hechos críticos verificados (01_research/fact-check.csv)
+[x] Hecho e interpretación diferenciados ("Según James Dyson"; "Representación gráfica")
+[x] Hook honesto (cita atribuida a la experiencia de Dyson, C11–C12)
+[x] Decisión clara (S31–S32)
+[x] Sin motivación genérica
+[x] Archivo real prioritario (archivo de Dyson + patentes de dominio público)
+[x] Sin avatares
+[x] Sin Canva
+[x] Sin imágenes históricas inventadas (los gráficos están rotulados)
+[x] Assets finales approved: permiso de Dyson y licencia de la voz confirmados por el operador (08_sources_and_licenses/autorizaciones.txt).
+[x] Formato P18 Stories 9:16
+[x] 1080 × 1920
+[x] 60 fps (7277 cuadros, 121,30 s)
+[x] Manrope Clean/Premium (fuente local, sin internet)
+[x] Firma P18 sin fondo
+[x] Voz inteligible (voz aprobada sin edición, misma duración)
+[x] Música subordinada (cama a unos -20 dB bajo la voz, con ducking)
+[x] Sin clipping (true peak -5,4 dBTP)
+[~] Safe zones: kicker en 134 px, subtítulos entre 1390 y 1560, firma a 190 px del borde inferior. Falta probarlo sobre la interfaz real de Instagram o TikTok.
+[x] Render master reproducible: código en 06_remotion/runtime-snapshot, props generados por build_props.py y comandos en production-report.txt.
+
+TÉCNICO (ffprobe / ffmpeg)
+Video: H.264 yuv420p, 1080x1920, 60/1, 7277 cuadros. Audio: AAC 48 kHz estéreo, 320 kbps.
+Duración: 121,30 s (voz de 120,27 s + 1,0 s de cierre).
+Loudness de la review: -20,8 LUFS, LRA 3,8, pico de -5,4 dBFS.
+→ El master tiene que normalizarse a unos -14 LUFS / -1 dBTP (loudnorm en dos pasadas, sin cambiar la mezcla).
+Cuadros negros (blackdetect de 0,3 s): ninguno.
+Revisión visual: 40 fotogramas de control más 5 cuadros extraídos del MP4 final. Coinciden con el storyboard.
+
+PENDIENTES ANTES DEL MASTER
+1. Revisión creativa del operador sobre la review v01.
+2. D4: decidir si se insertan pausas (+1,8 s).
+3. D6: confirmar la licencia comercial de la voz de ElevenLabs.
+4. Guardar el permiso de Dyson en 08_sources_and_licenses.
+5. Escuchar la entonación de la pregunta final (observación de voice-validation.txt).
+
+MASTER v01 (2026-11-24)
+Revisión creativa: APROBADA por el operador ("ME GUSTA, EXCELENTE").
+Archivo: 07_renders/final/P18-001-james-dyson-master-v01.mp4
+SHA-256: 2585bffbcf365a298e8429e78d2f07e308caff73f5d27d95eb6be43ccb6c5e48
+Video: copia exacta del stream de la review aprobada (H.264 yuv420p, 1080x1920, 60 fps, 7277 cuadros, 121,30 s).
+Audio: +7,0 dB y limitador de true peak, AAC 320 kbps 48 kHz → -14,2 LUFS integrados, -1,8 dBTP, LRA 3,5, sin clipping.
+Pendiente para pasar a completed: permiso de Dyson guardado en 08_sources_and_licenses y licencia comercial de la voz (D6).
+Cierre (2026-11-24): licencias confirmadas por el operador → completed y archived.
+
+2026-11-24  MASTER v02: se agregó el cierre fijo P18 (outro3d, 3,0 s; 5127 "prototipos" → 18 → P18 3D; "Mentalidad emprendedora para los jóvenes."), aprobado por el operador.
+Review: 07_renders/review/P18-001-james-dyson-review-v02.mp4. Master: 07_renders/final/P18-001-james-dyson-master-v02.mp4 (123.41 s, -14,2 LUFS / -1,8 dBTP). SHA-256: 2f79b2b7fad7f2b4dcc6aaf17de8b1fb26bc8c41058a7d60b60d38181f238765
+Por pedido explícito del operador ("guardalos en la carpeta reemplazando los videos viejos"), el master v01 se borró. Es una excepción a control-de-versiones.txt. La review v01 queda como respaldo en 07_renders/review.
+Props: 06_remotion/p18-001-v02.props.json, generados por build_props.py (bloque "CIERRE FIJO P18").
+
+2026-11-24  MASTER v03: sistema tipográfico rotativo P18 (regla del operador: "parece muy IA").
+- Subtítulos: rotan editorial, serif, caps y punch.
+- Citas en Instrument Serif itálica, cifras y golpes en Unbounded, créditos en JetBrains Mono.
+- Se mantienen el cierre fijo outro3d, los props v02, la duración, la voz y la música.
+Review: 07_renders/review/P18-001-james-dyson-review-v03.mp4. Master: 07_renders/final/P18-001-james-dyson-master-v03.mp4 (SHA-256 72b4367e39f3f55d936eb736a94237c75878403f648eb1af26241ab0216d86a2). Sin cuadros negros, -14 LUFS.
+El master v02 se borró (reemplazo pedido por el operador). Las reviews v01/v02/v03 quedan en 07_renders/review.
+
+2026-11-24  MASTER v04, por dos pedidos del operador.
+1. Texto cinético: "los textos siguen siendo genéricos, tienen que tener movimiento". Cada palabra entra con la voz y los subtítulos rotan editorial, serif, caps y stack, con salida animada; citas con foco, titulares y kickers letra por letra.
+2. Imágenes rotativas: "que se roten más imágenes... hay muchos lugares que quedan vacíos". Galerías de archivo en polaroid con entradas rotativas (iris, wipe, blinds, drop, zoom, slide, flip) y escenas principales con entradas variadas.
+Props: 06_remotion/*-v04.props.json, generados por build_props.py (bloque "IMÁGENES ROTATIVAS"). Master: 07_renders/final/P18-001-james-dyson-master-v04.mp4 (SHA-256 9407589d470fd6f40c38452d905a1f30ee3f405229fa07bb100d61aabbf526e5). -14 LUFS, sin cuadros negros.
+El master v03 se borró (reemplazo pedido por el operador). Las reviews quedan en 07_renders/review.
+
+2026-11-24  MASTER v05. Revisión del operador sobre la v04: "hay imágenes que se repiten, eso no puede pasar" y "los subtítulos hay veces que se cortan, están raros".
+Imágenes: Dyson tenía tres imágenes repetidas. A26 se usa solo en S01; en S03, A30 (nueva, archivo Dyson) reemplaza a A16; en S35, A25r (otra toma del mismo montaje) reemplaza a A25c. S12 queda sin tarjeta. assert_unique_images() corre en el build.
+Subtítulos:
+- chunk_captions() hace cortes por frase y BREAKS editoriales, con saltos de línea por frase.
+- Ningún subtítulo sigue en pantalla después de un cambio de escena.
+- Motor cinético sin máscaras ni letterSpacing animado; slam más corto.
+- Resaltador lima detrás de toda la palabra clave; stack en orden de lectura.
+- Sin salida animada si el subtítulo siguiente entra enseguida.
+QA: 3 cuadros por subtítulo (a mitad de frase, última palabra y final), todos revisados. -14 LUFS, sin cuadros negros. SHA-256 43b9cbf5216e9ff069962708e634dd3b12065061923525f1d4d053d584aee104. El master v04 se borró.

@@ -1,0 +1,93 @@
+MAPA NARRATIVO — P18-001-james-dyson
+Título de trabajo: "Ya lo habría hecho alguien"
+Modo: assigned (NUEVO VIDEO: James Dyson)
+Oración resumen (flujo-narrativo.txt): esta historia muestra cómo James Dyson decidió fabricar él mismo su aspiradora cuando todos le repetían que, si fuera posible, ya la habría hecho una de las grandes.
+
+Hook:
+"Si existiera una aspiradora mejor, ya la habría inventado alguna de las grandes." Luego: a James Dyson le repitieron esa frase durante años (C11, C12).
+La contradicción aparece antes del segundo 3: es una frase razonable y la historia va a demostrar que estaba equivocada.
+
+Contexto:
+Fines de los setenta. Un filtro que se tapa en su fábrica de carretillas. Un ciclón de aserradero que no se tapa nunca. La bolsa de su aspiradora, que sí se tapa (C04–C08).
+
+Conflicto:
+- Externo: sus socios, y después la industria, repiten la misma objeción (C11, C21).
+- Técnico: un experto le dice que el polvo doméstico es demasiado fino para un ciclón (C14).
+- Personal: las deudas y una familia sostenida por las clases de arte de Deirdre (C17, C18).
+
+Decisión:
+Unos diez años después del ciclón de cartón, deja de buscar quién fabrique su aspiradora y la fabrica él, con el dinero de Japón y su casa como garantía (C24–C26). Es el centro del video.
+
+Desarrollo:
+El método antes que la épica: un prototipo, una medición, un solo cambio. La cifra de 5.127 se presenta como acumulación de información, no como sufrimiento (C16, C19).
+
+Resultado:
+DC01, 1993, con su apellido. Hoy, 84 mercados (C27, C29). Sin cifras de ventas en disputa (C33).
+
+Reflexión:
+Cada intento fallido le dijo qué cambiar; la frase de los grandes nunca le dijo nada (C37, C38, interpretación P18).
+
+Pregunta final:
+¿Cuántas ideas dejamos sin probar porque, si fueran buenas, otro ya las habría hecho?
+
+────────────────────────────────────────
+PROPUESTA EDITORIAL AMPLIADA
+
+Idea central:
+"Si fuera posible, alguien más grande ya lo habría hecho" parece sentido común, pero no aporta ninguna prueba. Dyson respondió con 5.127 pruebas.
+
+Ángulo narrativo:
+La historia no es la del inventor genial, ni la de "nunca te rindas". Cuenta cómo una objeción razonable puede frenar una idea, y cómo se la responde midiendo en lugar de discutiendo. El prompt 02 pide no presentar la repetición ciega como garantía: el guion destaca el método (un solo cambio por vez), no la cantidad.
+
+Pregunta rectora:
+¿Qué hace alguien cuando la respuesta a su idea es "ya lo habría hecho alguien más grande"?
+Esta pregunta reemplaza la provisional del prompt 02 ("¿Qué aprendió durante los miles de intentos que no funcionaron?"), que queda contenida en el desarrollo.
+
+Estructura y tiempos estimados (los define la voz real):
+00:00 HOOK: la frase de los grandes.
+00:07 CONTEXTO: filtro, aserradero, ciclón.
+00:22 IDEA: ciclón de cartón; "parecía funcionar".
+00:31 PRIMER RECHAZO: sus socios repiten la frase; Dyson se va.
+00:40 OBSTÁCULO TÉCNICO: el experto y las fórmulas.
+00:49 PROCESO: un cambio por vez; deudas; 5.126 y 5.127.
+01:10 RECHAZO COMERCIAL: los grandes fabricantes dicen que no; G-Force en Japón.
+01:22 DECISIÓN: fabricarla él, con la casa como garantía.
+01:34 RESULTADO: DC01, 1993; 84 mercados.
+01:43 REFLEXIÓN Y PREGUNTA.
+Duración estimada: 1:40 a 1:55 (unas 290 palabras, sin acelerar la voz).
+
+Puntos de tensión:
+1. "Parecía funcionar." El "parecía" anticipa que todavía falta todo.
+2. Los socios repiten la frase del hook: el espectador la reconoce.
+3. El experto: "el polvo de una casa es demasiado fino".
+4. Deudas y familia: el costo es concreto.
+5. "Otra vez, la misma frase": el callback cuando la máquina ya funciona.
+
+Clímax:
+"Según él, cinco mil ciento veintiséis prototipos no funcionaron. El cinco mil ciento veintisiete, sí." Es el clímax técnico. El clímax dramático es la decisión de fabricarla él, poniendo la casa como garantía.
+
+Resolución:
+DC01 en 1993, con su apellido. La escala la da un dato oficial y sobrio: 84 mercados.
+
+Reflexión final:
+La contraposición entre información (los intentos) y opinión (la frase) es una interpretación P18 y está marcada así en el fact-check. Cierra con una pregunta, no con una moraleja.
+
+Por qué merece contarse:
+- Todo el mundo tiene una aspiradora y casi nadie conoce el origen de esta. Es un problema doméstico con una historia de diez años detrás.
+- La objeción del hook es universal: cualquier espectador la escuchó alguna vez sobre una idea propia.
+- La cifra es memorable y está documentada en las fuentes oficiales.
+- Permite mostrar el fracaso como información, sin romantizarlo y sin "si él pudo, vos también".
+- Hay material de archivo real: Dyson, el DC01, la G-Force en colecciones de museos. Las licencias se revisan en la etapa de assets.
+
+Potencial en redes:
+- Hook de opinión polémica en el primer segundo.
+- Callback a la mitad ("Otra vez, la misma frase").
+- Cifra exacta y pronunciable.
+- Pregunta final para que el espectador comente.
+
+Recortes opcionales para llegar a unos 85–90 s (decisión del operador, antes de grabar):
+a) Quitar "Deirdre, su mujer, daba clases de arte para sostener a la familia." (pierde humanidad).
+b) Quitar "Las fórmulas no se ponían de acuerdo." (pierde lógica causal).
+c) Quitar "Hoy, su empresa está en ochenta y cuatro mercados." (pierde escala del resultado).
+d) Quitar "En Japón, una empresa se animó: una aspiradora rosa llamada G-Force." (pierde la explicación de dónde salió el dinero y obliga a reescribir "Con el dinero de Japón").
+Recomendación: no recortar a, b ni d. Si hay que recortar, empezar por c.

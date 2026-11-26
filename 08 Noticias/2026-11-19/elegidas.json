@@ -1,0 +1,10 @@
+{"fecha":"2026-11-19","nota":"Semana floja: solo 1 noticia cumple el minimo (8/12). No se rellena hasta 3-5.",
+"elegidas":[{"hecho":"Anthropic, la empresa que desarrolla Claude, fijo el precio de su salida a bolsa y empieza a cotizar en Nasdaq.","quien":"Anthropic","fecha":"2026-11-18",
+"dato_central":"Precio fijado el 18/11/2026: US$83 por accion Clase A; 980.000.000 de acciones ofrecidas (956.351.354 de Anthropic y 23.648.646 de accionistas vendedores); Nasdaq Global Select, ticker ANT; cotiza desde el 19/11; cierre de la oferta el 20/11 (sujeto a condiciones habituales). Total bruto aprox. US$81.340M (calculado, el comunicado no lo indica). Reportes previos hablaban de US$70-78 y hasta US$64.400M: el comunicado final difiere.",
+"fuentes":[{"titulo":"Anthropic prices initial public offering","url":"https://www.anthropic.com/news/anthropic-prices-initial-public-offering"},{"titulo":"The Next Web: Anthropic IPO terms (previo)","url":"https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation"}],
+"puntaje":{"impacto_joven":1,"confirmada":3,"novedad":3,"claridad":3,"total":10},
+"por_que_entra":"Hito de la industria de IA de la semana, confirmado en fuente primaria. Ojo: es noticia de negocios, sin consejo financiero; aclarar que Claude es de Anthropic (transparencia)."}],
+"descartadas":[
+"CSAM classifier OpenAI (16/11): sin_confirmar, una sola fuente, sin impacto joven.",
+"Ley de Nueva York sobre chatbots y menores (28/10): fuera de la ventana de 7 dias.",
+"Business Hub de ChatGPT (10/11): fuera de ventana, es para negocios."]}

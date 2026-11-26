@@ -1,0 +1,553 @@
+# P18 Creative Studio — ETAPA 1: investigación y diagnóstico
+
+**Fecha de corte:** 24 de noviembre de 2026  
+**Alcance:** Proyecto 18, su presencia pública y el sistema audiovisual de Noticias Explicadas.  
+**Estado:** investigación concluida; no incluye todavía la identidad definitiva de P18 Stories, el sistema Remotion, el prompt maestro ni el piloto.
+
+---
+
+## 0. Resumen ejecutivo
+
+La oportunidad no consiste en convertir a P18 en una cuenta de motivación ni en copiar el acabado de Noticias Explicadas. Consiste en combinar tres activos diferentes:
+
+1. **La idea potente de P18:** a los 18 hay un punto de quiebre; no hace falta tener el camino resuelto, pero sí empezar a explorar, probar, crear y actuar.
+2. **La materia humana que P18 ya empezó a reunir:** entrevistas, mentores, jóvenes, talleres y problemas concretos de aprendizaje, trabajo, dinero, hábitos e IA.
+3. **La disciplina de Noticias Explicadas:** una pregunta clara, una progresión causal, un sistema visual modular, cambios semánticos constantes y una política explícita de fuentes.
+
+El diagnóstico central es este:
+
+> **P18 debe apropiarse de la claridad, la progresión y la ingeniería de atención de Noticias Explicadas; no de su estética de muñecos, su lógica de actualidad ni su duración rígida.**
+
+P18 ya posee un lenguaje gráfico reconocible —verde profundo, lima, papel cálido, Manrope, verbos de acción y lenguaje rioplatense—, pero su Instagram todavía está en etapa inaugural. El feed observado tiene 47 seguidores, 11 Reels visibles publicados entre el 22 y el 23 de noviembre de 2026 y un carrusel. Es demasiado temprano para extraer conclusiones de rendimiento. Sí alcanza para detectar una dirección: entrevistas a emprendedores con preguntas provocadoras y una microacción práctica al final de cada copy.
+
+Noticias Explicadas, por su parte, no basa el sistema estudiado en talking heads ni en montaje de archivo. Su propia política editorial declara que los videos son **ilustraciones animadas que representan los hechos**, no imágenes de los hechos, y que no recrean voces reales. La muestra técnica estudiada contiene ocho piezas oficiales: todas 9:16, 720 × 1280, 60 fps, entre 65,5 y 70,8 segundos. La forma es muy consistente y claramente industrializable.
+
+---
+
+## 1. Metodología y grado de certeza
+
+### Fuentes consultadas
+
+- [Web oficial de Proyecto 18](https://proyecto18.com/)
+- [Instagram oficial de P18: @proyecto18.ar](https://www.instagram.com/proyecto18.ar/)
+- URL entregada inicialmente: `instagram.com/proyecto18.com/` — no mostró un perfil accesible. La web oficial enlaza a `@proyecto18.ar`, que sí fue verificado.
+- [Instagram de Noticias Explicadas](https://www.instagram.com/noticiasexplicadas/)
+- [Web oficial de Noticias Explicadas](https://noticiasexplicadas.com/)
+- [Quiénes somos — Noticias Explicadas](https://www.noticiasexplicadas.com/quienes-somos/)
+- [Política editorial — Noticias Explicadas](https://www.noticiasexplicadas.com/politica-editorial/)
+- [Modo vídeo — Noticias Explicadas](https://noticiasexplicadas.com/ver/)
+
+### Muestra audiovisual analizada
+
+Se descargaron desde la web oficial ocho archivos MP4 publicados por Noticias Explicadas y se analizaron sus datos técnicos, primeros cuatro segundos, secuencias cada cuatro segundos y cambios visuales principales:
+
+- Permiso por nacimiento de veinte semanas
+- Satélite nuclear ruso
+- Estudiante catalán detenido por ICE
+- BepiColombo llega a Mercurio
+- Hipótesis de Riemann e IA
+- Marc Márquez y la remontada
+- Fracaso de la COP31
+- Cara a cara Sánchez–Feijóo
+
+### Niveles de evidencia usados en este informe
+
+- **Observado:** visible directamente en la web, el feed, los MP4 o sus metadatos.
+- **Corroborado:** además declarado por la fuente oficial.
+- **Inferencia:** interpretación estratégica fundada en patrones observados; no se presenta como hecho.
+
+### Limitaciones reales
+
+- Instagram permitió ver perfiles, portadas, enlaces y metadatos públicos, pero bloqueó la reproducción directa de Reels sin inicio de sesión.
+- En Noticias Explicadas, esa limitación se resolvió legítimamente mediante su propia web, que publica los mismos videos y enlaza la explicación y las fuentes.
+- En P18 no existe una vía oficial equivalente para reproducir fuera de Instagram. Por eso el análisis de sus Reels se limita a portadas, copies, fechas, preguntas, CTAs y consistencia gráfica; no afirmo haber estudiado su montaje interno ni su sonido.
+- La estructura visual de Noticias Explicadas quedó validada. La evaluación subjetiva de música, efectos y timbre de voz queda pendiente; sí se midió el audio técnicamente.
+
+---
+
+## 2. Qué entendí de Proyecto 18
+
+## 2.1. Qué es hoy, según su presencia pública
+
+P18 se presenta como un proyecto de Buenos Aires que acerca **herramientas concretas** a jóvenes mediante talleres gratuitos, virtuales o presenciales. No segmenta únicamente por estudio, empleo o vocación: incluye a quienes estudian, trabajan o todavía no saben qué quieren hacer. La frase institucional más reveladora es:
+
+> “Los 18 son un punto de quiebre, no un límite.”
+
+La oferta visible se agrupa en tres territorios:
+
+- **Crecimiento personal:** autoestima, hábitos y disciplina, perseverancia.
+- **Plata y trabajo:** finanzas personales, cómo vender.
+- **Crear y comunicar:** arte y diseño, vínculos y comunicación, redes e inteligencia artificial.
+
+P18 no aparece como una escuela de negocios tradicional. Tampoco como una cuenta de autoayuda. La promesa es más básica y más valiosa: **dar lenguaje, herramientas, referentes y comunidad a alguien que está empezando a elegir**.
+
+## 2.2. Filosofía implícita
+
+La web y los copies convergen en seis ideas:
+
+1. **Explorar antes de tener certeza.** “Hay todo un mundo. Exploralo.”
+2. **Aprender haciendo.** Los talleres se plantean para conversar, probar y crear con otros.
+3. **La curiosidad como capital inicial.** Aparece reiteradamente en entrevistas y captions.
+4. **La actitud precede a la experiencia.** Varios entrevistados valoran disciplina, compromiso, curiosidad e iniciativa antes que currículum.
+5. **La acción debe ser pequeña y concreta.** Los copies terminan con tareas realizables esta semana o ese mismo día.
+6. **Los caminos pueden combinarse.** El caso de una partera que llega a programación y crea simuladores es un buen ejemplo de identidad P18: no elegir una sola etiqueta, sino construir una intersección propia.
+
+## 2.3. Audiencia
+
+### Audiencia principal observada
+
+Jóvenes argentinos alrededor de los 18 años, con trayectorias heterogéneas y un nivel variable de claridad sobre su futuro.
+
+### Audiencias secundarias
+
+- Colegios que pueden alojar talleres.
+- Mentores y profesionales que pueden compartir experiencia.
+- Empresas y organizaciones que pueden apoyar el proyecto.
+- Familias y adultos que influyen sobre las decisiones de los jóvenes.
+
+### Necesidad emocional central — inferencia
+
+El joven no necesita que le prometan éxito. Necesita sentir que **no estar resuelto todavía es normal**, pero que quedarse inmóvil no es la única opción. P18 debe reducir la distancia entre “no sé qué hacer” y “puedo probar algo hoy”.
+
+## 2.4. Personalidad y tono
+
+La voz observada es:
+
+- **Directa, no solemne.** Usa “vos”, “elegí”, “preguntale”, “anotá”, “hacele”.
+- **Cercana, no infantil.** Habla desde la misma altura, no como una institución que sermonea.
+- **Práctica, no abstracta.** Cada idea busca traducirse en una acción.
+- **Optimista con fricción.** Habla de curiosidad, disciplina, errores y problemas; no niega el esfuerzo.
+- **Amplia, no elitista.** “Jóvenes de todos los caminos.”
+- **Ambiciosa sin grandilocuencia.** El énfasis está en empezar, no en “ser millonario” o “cambiar el mundo”.
+
+### Lo que P18 sí suena
+
+- “Elegí un hábito chico y sostenelo.”
+- “Pensá en dos cosas que te gustan y que nadie junta.”
+- “La próxima vez que aparezca un problema, ofrecete para resolverlo.”
+- “Los 18 son un punto de quiebre, no un límite.”
+
+### Lo que sería ajeno a P18
+
+- “Si lo soñás, lo lográs.”
+- “El éxito depende 100 % de vos.”
+- “A los 18 ya deberías saber qué querés.”
+- La estética de lujo, hustle culture, autos, relojes y riqueza como medida del progreso.
+- El fracaso convertido en espectáculo o la vulnerabilidad usada como clickbait.
+- El adulto exitoso hablando desde un pedestal sin conflicto, dudas ni contexto.
+
+## 2.5. Identidad visual observada
+
+La web ya contiene un sistema coherente y usable:
+
+| Rol | Valor observado |
+|---|---|
+| Fondo papel | `#F5F5EB` |
+| Tinta | `#172019` |
+| Verde profundo | `#14251D` |
+| Lima | `#C2F542` |
+| Azul secundario | `#8EC3E6` |
+| Texto secundario | `#3A463D` |
+| Tipografía | Manrope, con Arial/sans-serif como fallback |
+
+Características del lenguaje visual:
+
+- Titulares muy grandes, pesados y con tracking negativo.
+- Fondos cálidos y oscuros, evitando el blanco clínico.
+- Lima como señal de acción, foco o palabra activa.
+- Fotografía de jóvenes trabajando y conversando, no posando ante cámara.
+- Bordes discretos, radios pequeños y botones sólidos.
+- El logo P18 es compacto, frontal y fácil de convertir en sello.
+- Verbos cortos como parte del sistema: “pensá”, “compartí”, “creá”, “explorá”.
+
+## 2.6. Instagram actual de P18
+
+El perfil oficial verificado es [@proyecto18.ar](https://www.instagram.com/proyecto18.ar/), no la URL `@proyecto18.com` incluida originalmente.
+
+### Estado observado al 24/11/2026
+
+- 47 seguidores.
+- 13 cuentas seguidas.
+- Bio: “Hay todo un mundo. Exploralo con P18. 🌍 Finanzas · IA · Salud · ESI · Hábitos y mucho más”.
+- Destacadas: P18, Colaborá, Temas.
+- 11 Reels visibles y un carrusel.
+- Publicaciones concentradas en el 22 y 23 de noviembre de 2026.
+
+Esto indica un canal prácticamente recién inaugurado. **No hay base para decir todavía qué formato retiene mejor o qué temas funcionan.** Cualquier lectura de rendimiento sería prematura.
+
+### Sistema de portadas observado
+
+- Fotograma de entrevista desenfocado como fondo.
+- Rótulo pequeño: “PREGUNTA 01 / 03” o equivalente.
+- Pregunta en mayúsculas, alineada a la izquierda.
+- Blanco como color principal y lima para “18” o palabras clave.
+- Composición consistente, pero muy repetitiva cuando se ve la cuadrícula completa.
+
+### Sistema editorial observado en los copies
+
+Cada Reel tiende a seguir esta secuencia:
+
+1. Pregunta concreta.
+2. Resumen de la respuesta y nombre del entrevistado.
+3. Una idea extraída del testimonio.
+4. Una microacción para el lector.
+5. Crédito “Entrevista P18 · Café IA”.
+6. Hashtags temáticos.
+
+Ejemplos verificados:
+
+- [Contratar a alguien de 18 sin experiencia — Lucas](https://www.instagram.com/proyecto18.ar/reel/DgGh78mCmHP/)
+- [Partería, programación y simuladores — Victoria Guerzoni](https://www.instagram.com/proyecto18.ar/reel/DgGh0OmD_v0/)
+- [Actitud y resolver problemas — Leo Condori](https://www.instagram.com/proyecto18.ar/reel/DgGhtkSFrpz/)
+- [Aprender a usar IA mirando a quienes ya la usan — Tom Lanza](https://www.instagram.com/proyecto18.ar/reel/DgGhnBigWww/)
+- [Mentalidad antes que técnica — Escalera Digital](https://www.instagram.com/proyecto18.ar/reel/DgGhWSBimVX/)
+- [Atreverse a proponer en una mesa de empresarios — Germán Chopp](https://www.instagram.com/proyecto18.ar/reel/DgGhMfwEhBB/)
+- [18 años, cero capital y una computadora con IA — Lucas](https://www.instagram.com/proyecto18.ar/reel/DgDs3LIEzJ4/)
+- [Curiosidad y resiliencia con IA — Victoria Guerzoni](https://www.instagram.com/proyecto18.ar/reel/DgDsr2mgFTe/)
+- [Elegir un problema y volverse experto — Leo Condori](https://www.instagram.com/proyecto18.ar/reel/DgDsfRbDS89/)
+- [Disciplina, errores y primera inversión en uno mismo](https://www.instagram.com/proyecto18.ar/reel/DgDsRK1ihnS/)
+
+### Fortalezas actuales
+
+- Preguntas que conectan con situaciones reales de un joven.
+- Lenguaje argentino reconocible.
+- Ideas accionables.
+- Expertos usados como evidencia humana, no como celebridades.
+- Coherencia gráfica inmediata.
+
+### Riesgos actuales
+
+- Muchas portadas casi idénticas reducen la diferenciación entre historias.
+- El énfasis en IA y empresarios puede estrechar una identidad que la web define de forma mucho más amplia.
+- La microacción final funciona, pero si aparece en todas las piezas puede sentirse pedagógica o formulaica.
+- La persona entrevistada responde una pregunta, pero todavía no siempre aparece una **historia con transformación**.
+- El joven puede quedar en posición de alumno permanente frente al adulto experto. P18 Stories debería recuperar agencia y mostrar decisiones, no solamente consejos.
+
+---
+
+## 3. Qué entendí de Noticias Explicadas
+
+## 3.1. Qué es realmente
+
+Noticias Explicadas es un medio digital que selecciona temas de actualidad y los explica “desde el principio”: qué pasó, por qué pasó y qué puede ocurrir después. Su promesa pública es entender una noticia en aproximadamente un minuto, sin tecnicismos y sin asumir conocimientos previos.
+
+Lo más importante para P18 no es solo el acabado visual. Es el método:
+
+- Cada dato, cifra o declaración debe salir de al menos dos fuentes independientes.
+- Si las fuentes no coinciden, el dato no se publica.
+- Las fuentes se enlazan al pie de la noticia.
+- Se diferencia hecho, previsión, opinión y declaración.
+- Las ilustraciones son representaciones, no falsificaciones de imágenes reales.
+- No se recrea la voz de personas reales.
+- Las fotos de portada son de archivo con licencia y atribución.
+
+Esto está declarado en su [política editorial](https://www.noticiasexplicadas.com/politica-editorial/) y es tan valioso para P18 como el ritmo de edición.
+
+## 3.2. Datos técnicos observados
+
+| Variable | Resultado en la muestra de 8 videos |
+|---|---|
+| Relación de aspecto | 9:16 |
+| Resolución | 720 × 1280 |
+| Frame rate | 60 fps |
+| Duración | 65,5–70,8 s |
+| Video | H.264 |
+| Audio | AAC estéreo, 48 kHz |
+| Loudness integrado | –20,7 a –20,8 LUFS |
+| Rango de loudness | 2,5–3,8 LU |
+| True peak | –1,8 a –4,5 dBFS |
+
+La mezcla técnica es extremadamente estable entre piezas. Esa consistencia revela una plantilla de producción, no decisiones ad hoc por video.
+
+## 3.3. Identidad audiovisual
+
+### Estética general
+
+- Ilustración 2D/2.5D con volumen, sombras, brillos y fondos atmosféricos.
+- Personajes simplificados, casi como muñecos o avatares.
+- Objetos convertidos en metáforas: calendarios, urnas, cadenas, bloques, mapas, documentos, autos, planetas.
+- Fondos oscuros, degradados y con textura ligera.
+- Colores de acento variables según el tema: azul, cian, amarillo, rojo, verde, magenta.
+- Marca persistente `noticiasexplicadas.com` en una cápsula oscura cerca del tercio inferior.
+
+### Tipografía y subtítulos
+
+- Sans serif de alto peso y alta legibilidad.
+- Subtítulos en la zona superior, generalmente una o dos líneas.
+- La frase se revela por bloques cortos, sincronizados con la voz.
+- Una palabra activa o importante aparece dentro de un rectángulo de color o con énfasis cromático.
+- Los subtítulos no repiten simplemente la narración: funcionan como jerarquía visual y señalan el dato que hay que recordar.
+
+### Movimiento
+
+No depende de transiciones vistosas. El movimiento sucede dentro de la escena:
+
+- Entradas de objetos.
+- Desplazamientos laterales.
+- Escala y zoom.
+- Barras que se llenan.
+- Líneas que conectan.
+- Objetos que se acumulan, rompen, giran o se comparan.
+- Cambios de luz y color para marcar peligro o consecuencia.
+
+En la detección automática de cambios fuertes aparecieron aproximadamente 7–13 cambios mayores por pieza, pero hay microanimación continua entre ellos. La percepción de ritmo no viene de cortar cada segundo; viene de que **cada frase modifica el estado visual**.
+
+## 3.4. Arquitectura narrativa observada
+
+### 0–4 s — Hook
+
+La mayoría abre con una pregunta o contradicción. La frase se construye palabra por palabra mientras ya vemos la metáfora central:
+
+- “¿Cómo puede una sola bomba en el espacio dejarte sin GPS?”
+- “¿Por qué cuesta más llegar a Mercurio que a Plutón?”
+- “¿Ha resuelto una IA el problema más famoso de las matemáticas?”
+- “¿Por qué Estados Unidos tiene encerrado a un estudiante con visado hasta 2029?”
+- “¿Cómo ha ganado Marc Márquez un Mundial que ya daba por perdido?”
+
+La apertura no presenta el logo ni saluda. Empieza con la anomalía.
+
+### 4–12 s — Aterrizaje del tema
+
+Responde “de qué estamos hablando” mediante un objeto, una fecha, un protagonista o un dato. El espectador recibe contexto suficiente para no perderse, pero todavía queda una pregunta abierta.
+
+### 12–50 s — Cadena causal
+
+La narración avanza por unidades de causa y efecto. Cada unidad tiene una escena o transformación visual propia. Es frecuente que un objeto sobreviva entre escenas y cambie de función, lo que genera continuidad sin necesitar filmación real.
+
+### 50–64 s — Consecuencia o caveat
+
+La pieza introduce el dato que evita una conclusión simplista:
+
+- Falta una votación.
+- La fuente no coincide con otra.
+- Hay una fecha límite.
+- No se sabe cómo ocurrió una parte del hecho.
+- Una mejora no resuelve todo el problema.
+
+### 64–70 s — Cierre rápido
+
+No suele haber una placa larga de logo. La última escena completa la idea y puede sumar una invitación breve a compartir o leer. El branding ya estuvo visible durante todo el video, por lo que no necesita “presentarse” al final.
+
+## 3.5. Recursos de retención que hacen atractivo el formato
+
+1. **Brecha de curiosidad honesta.** La pregunta inicial tiene una respuesta concreta; no es clickbait desconectado del contenido.
+2. **Una sola idea central.** Cada pieza puede resumirse en una pregunta.
+3. **Cambio semántico constante.** Cada frase agrega, quita o transforma algo visible.
+4. **Metáforas físicas.** Conceptos abstractos se vuelven objetos que se pueden contar, comparar, romper o mover.
+5. **Datos espacializados.** Una cifra no aparece sola: se convierte en bloques, alturas, barras, calendarios o distancias.
+6. **Continuidad de objetos.** Un elemento pasa de una escena a otra y evita la sensación de diapositivas independientes.
+7. **Contrastes.** Antes/ahora, uno/dos, promesa/resultado, acuerdo/sin acuerdo.
+8. **Subtítulo jerárquico.** La palabra clave se distingue de la frase secundaria.
+9. **Escenas diseñadas para la frase.** No se usa una imagen genérica porque “más o menos tiene que ver”.
+10. **Caveat final.** El video conserva credibilidad porque no fuerza una conclusión redonda si los hechos no la permiten.
+
+## 3.6. Lo que el formato hace especialmente bien
+
+- Explica sistemas, cronologías, cifras y relaciones.
+- Mantiene legibilidad aun sin audio.
+- Produce variedad temática con componentes reutilizables.
+- Evita depender de conseguir imágenes perfectas de cada hecho.
+- Mantiene una identidad incluso cuando cambia por completo el tema.
+- Da sensación de alto volumen de producción sin parecer una presentación.
+
+## 3.7. Sus límites para historias humanas
+
+- Los avatares simplificados pueden aplanar emociones complejas.
+- La lógica de “explicación” privilegia comprensión sobre intimidad.
+- El minuto funciona para una noticia, pero puede asfixiar una biografía.
+- El ritmo uniforme puede quitarle peso a un silencio, una duda o una pérdida.
+- Convertir personas reales en muñecos puede resultar infantil o irrespetuoso según la historia.
+- La visualidad sintética no reemplaza el valor probatorio de una foto, entrevista, carta, prototipo o documento real.
+
+---
+
+## 4. Biblioteca inicial de referencias verificadas
+
+No es todavía la biblioteca definitiva del Entregable 2. Es una selección de piezas observadas que ya permite fundamentar decisiones futuras.
+
+| Referencia | Recurso a estudiar | Momento aproximado | Por qué funciona | Aprendizaje para P18 |
+|---|---|---:|---|---|
+| [Permiso por nacimiento](https://www.instagram.com/noticiasexplicadas/reel/DgH12m7gJc-/) · [explicación y fuentes](https://noticiasexplicadas.com/noticia/2026-11-24-permiso-nacimiento-veinte-semanas/) | Bloques numerados y calendario para convertir semanas legales en algo tangible | 0–10 s; 30–55 s | Una cifra abstracta se vuelve una secuencia física | Usar objetos acumulables para representar intentos, años, rechazos o hitos |
+| [Satélite nuclear ruso](https://www.instagram.com/noticiasexplicadas/reel/DgHoOTDmVL0/) · [explicación](https://noticiasexplicadas.com/noticia/2026-11-24-satelite-nuclear-ruso/) | Hook de consecuencia cotidiana: no “bomba espacial”, sino “quedarte sin GPS” | 0–4 s | Traduce un tema lejano a una pérdida reconocible | Abrir una historia desde lo que cambia en la vida del espectador |
+| [Estudiante detenido por ICE](https://www.instagram.com/noticiasexplicadas/reel/DgHaJS7DiZt/) · [explicación](https://noticiasexplicadas.com/noticia/2026-11-24-estudiante-catalan-detenido-ice/) | Contradicción visual: visado válido detrás de barrotes | 0–4 s | La tensión se entiende antes de terminar la frase | Diseñar el hook como una contradicción visible, no solo verbal |
+| [BepiColombo y Mercurio](https://www.instagram.com/noticiasexplicadas/reel/DgGxAUlFG00/) · [explicación y fuentes](https://www.noticiasexplicadas.com/noticia/2026-11-24-bepicolombo-llega-mercurio/) | Comparación Mercurio/Plutón; viaje convertido en geometría y distancias | 0–8 s; 25–40 s | La escala imposible se vuelve comprensible | Comparar dos caminos o decisiones con una misma unidad visual |
+| [Debate a ocho](https://www.instagram.com/noticiasexplicadas/reel/DgGo7F7E46x/) · [explicación y fuentes](https://www.noticiasexplicadas.com/noticia/2026-11-24-debate-ocho-vivienda-pactos/) | “Ocho partidos, una casa y ocho llaves” como marco conceptual | 0–6 s | Resume complejidad política en una imagen fácil de recordar | Encontrar una metáfora rectora por historia, no una metáfora por frase |
+| [Hipótesis de Riemann e IA](https://www.instagram.com/noticiasexplicadas/reel/DgF7DtMDUKe/) · [explicación](https://noticiasexplicadas.com/noticia/2026-11-23-hipotesis-riemann-ia/) | Puerta cerrada desde 1859; números como partículas; cadena que debe validarse | 0–8 s; 35–55 s | Tres abstracciones se representan mediante acciones físicas | Para innovación: mostrar el problema, el intento y la verificación como estados diferentes |
+| [Plus Ultra](https://www.instagram.com/noticiasexplicadas/reel/DgGHyAWnLyf/) · [explicación](https://noticiasexplicadas.com/noticia/2026-11-23-plus-ultra-deja-de-volar/) | Hook con cifra y consecuencia: 53 millones y todos los aviones parados | 0–5 s | Combina magnitud, conflicto y pregunta práctica | En una historia empresarial, anclar el riesgo en una cifra verificable |
+
+---
+
+## 5. Qué conviene adaptar y qué no
+
+## 5.1. Adaptar
+
+### 1. La pregunta rectora
+
+Cada video debe poder formularse como una pregunta que contenga tensión real. No “La historia inspiradora de X”, sino “¿Por qué siguió fabricando un producto que nadie quería comprar?” o “¿Qué cambió cuando decidió mostrar el prototipo que le daba vergüenza?”.
+
+### 2. La progresión causal
+
+Una historia no es una lista de hitos. Es una secuencia: situación → obstáculo → decisión → consecuencia → nueva decisión.
+
+### 3. La traducción visual de lo abstracto
+
+Fechas, rechazos, intentos, deudas, clientes, prototipos y años deben convertirse en objetos, recorridos o comparaciones visibles.
+
+### 4. El cambio semántico continuo
+
+No hace falta cortar cada segundo. Sí hace falta que cada frase modifique algo en pantalla.
+
+### 5. La jerarquía de subtítulos
+
+Texto corto, palabra activa, alta legibilidad y sincronización semántica. No karaoke decorativo.
+
+### 6. La disciplina de fuentes
+
+La política “dos fuentes o no se publica” es un excelente punto de partida. P18 deberá añadir fuentes primarias siempre que existan.
+
+### 7. La ética de representación
+
+No simular imágenes históricas, no clonar voces, no hacer pasar una ilustración por documento y rotular las recreaciones.
+
+### 8. El branding persistente y discreto
+
+Una firma constante funciona mejor que una intro larga y repetida.
+
+## 5.2. No adaptar literalmente
+
+### 1. Los personajes tipo muñeco
+
+Funcionan para noticias generales. En P18 pueden infantilizar a protagonistas y borrar singularidad.
+
+### 2. La duración fija de un minuto
+
+La historia debe decidir la duración. Una trayectoria humana puede necesitar 75–120 segundos o dividirse en capítulos.
+
+### 3. La voz puramente explicativa
+
+P18 necesita momentos de intimidad, duda, conflicto y respiración. La claridad no debe eliminar emoción.
+
+### 4. La estética oscura como base universal
+
+P18 ya tiene papel cálido, verde profundo y lima. Copiar los degradados azul-violeta de Noticias Explicadas debilitaría su identidad.
+
+### 5. El cierre “compartí esta noticia”
+
+P18 debe dejar una idea o pregunta resonando. La llamada a compartir puede estar en el copy, no necesariamente en cada cierre.
+
+### 6. La sustitución total del archivo real
+
+En historias de personas, la foto real, la voz real, el objeto real y el documento real aportan humanidad y prueba. La animación debe explicar lo que el archivo no puede mostrar, no reemplazarlo por comodidad.
+
+---
+
+## 6. Oportunidades creativas para P18
+
+Estas son oportunidades, no decisiones finales de identidad.
+
+## 6.1. “La decisión que cambió el trayecto”
+
+El recurso editorial más propio de P18 puede ser identificar **una decisión concreta** en cada historia. No el resultado final, sino el instante de agencia: enviar un correo, fabricar el primer prototipo, volver después de un rechazo, pedir ayuda, aprender una herramienta, cambiar de carrera.
+
+## 6.2. “¿Qué estaba haciendo a los 18?”
+
+Cuando sea relevante y verificable, la edad puede funcionar como lente, no como gimmick. A veces el dato más liberador será que el protagonista a los 18 todavía no tenía el proyecto, el dinero ni la claridad por la que luego fue conocido.
+
+## 6.3. Archivo real + explicación diseñada
+
+P18 puede ocupar un territorio que Noticias Explicadas no trabaja:
+
+- Fotos auténticas.
+- Documentos, notas, prototipos, locales, talleres y mensajes.
+- Voz o entrevista del protagonista.
+- Animación para fechas, procesos, cifras y relaciones.
+
+Ese híbrido puede ser la firma de P18 Stories: **evidencia humana con diseño explicativo**.
+
+## 6.4. El conflicto sin épica falsa
+
+Las mejores historias no requieren tragedias. Un conflicto puede ser no saber vender, no conseguir el primer cliente, tener que aprender una habilidad, equivocarse con un socio o cambiar una idea después de meses.
+
+## 6.5. Finales que abren, no que predican
+
+En lugar de “vos también podés”, el cierre puede mostrar la decisión y plantear una pregunta:
+
+- “No sabía si iba a funcionar. Sabía que podía probarlo una vez más.”
+- “La empresa empezó cuando dejó de defender su primera idea.”
+- “¿Qué problema ves todos los días y ya te acostumbraste a ignorar?”
+
+## 6.6. Convertir el material existente en sistema
+
+Las entrevistas de Café IA ya contienen preguntas, respuestas, protagonistas y microacciones. Pueden convertirse en:
+
+- Piezas breves de consejo, claramente rotuladas como tales.
+- Historias más largas cuando exista transformación verificable.
+- Una biblioteca de tesis: curiosidad, disciplina, actitud, aprendizaje, combinación de caminos.
+
+No todo testimonio merece un P18 Story completo. La selección debe exigir conflicto, decisión y evidencia.
+
+## 6.7. Una gramática visual propia
+
+La web ya sugiere elementos que pueden crecer en video:
+
+- Subrayado lima como palabra activa.
+- Papel cálido para documentos y pasado.
+- Verde profundo para presente, reflexión y marca.
+- Azul como dato o explicación.
+- Tipografía Manrope pesada para tesis.
+- Verbos de acción como estructura de capítulos.
+
+---
+
+## 7. Información adicional necesaria antes de la ETAPA 3
+
+## Material institucional
+
+- Logo maestro en SVG/AI y variantes aprobadas.
+- Manual de marca, si existe.
+- Confirmación de que Manrope es la tipografía oficial y de sus licencias/weights.
+- Fotografías originales, material de talleres y permisos de imagen.
+- Presentación institucional, misión formal y estatuto si deben condicionar el discurso.
+
+## Audiencia y estrategia
+
+- Edad exacta prioritaria: solo 18, 16–20, 16–24 u otra.
+- Alcance geográfico: Buenos Aires, Argentina o público hispanohablante.
+- Objetivo principal del contenido: awareness, inscripciones a talleres, comunidad, donantes o combinación priorizada.
+- Temas que P18 quiere evitar o tratar con protocolo especial.
+- Cadencia deseada y plataformas finales.
+
+## Evidencia de rendimiento
+
+- Acceso o exportación de Insights de Instagram cuando exista volumen suficiente.
+- Retención por segundo, completitud, replays, compartidos, guardados y seguidores ganados por Reel.
+- Qué piezas actuales representan mejor a P18 según el equipo, aunque todavía no sean las más vistas.
+
+## Material audiovisual de referencia
+
+- Exportación o grabación de pantalla con audio de 5–10 Reels de Noticias Explicadas que el equipo considere ejemplares, para validar música, voz, efectos y timing subjetivo.
+- Reels completos de P18, porque Instagram no permitió reproducirlos sin sesión.
+- Referencias que al equipo le gustan **y referencias que rechaza**; ambas son necesarias para evitar una dirección genérica.
+
+## Producción y derechos
+
+- Presupuesto aproximado por pieza.
+- Acceso previsto a bancos de música, archivo y stock.
+- Política de uso de IA generativa para imágenes, voces y recreaciones.
+- Quién aprueba investigación, guion, derechos y corte final.
+
+---
+
+## 8. Diagnóstico final
+
+P18 tiene una identidad más clara que una “fundación de emprendedores”: es una marca sobre **agencia temprana**. Su territorio no es el éxito; es el momento en que alguien deja de esperar y empieza a explorar, aprender, decidir o construir.
+
+Noticias Explicadas aporta un sistema excelente para hacer visible una idea compleja: pregunta, metáfora, progresión, dato, caveat y cierre. Pero su acabado no debe trasplantarse. P18 necesita conservar rostros, documentos, dudas y texturas reales.
+
+La dirección con mayor potencial es:
+
+> **Historias humanas verificadas, construidas alrededor de una decisión, narradas con evidencia real y explicadas mediante un sistema gráfico P18.**
+
+Eso permitiría que un video se reconozca como P18 antes del logo y, al mismo tiempo, evitaría dos trampas: el video motivacional genérico y la copia de una cuenta de noticias.
+
+La ETAPA 2 debería convertir este diagnóstico en decisiones: similitudes, diferencias, territorios que se descartan y principios creativos que se aprueban antes de diseñar P18 Stories.

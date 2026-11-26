@@ -1,0 +1,42 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,582,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.18,P18,,0,0,0,,Yo me considero buen director de
+Dialogue: 0,0:00:02.18,0:00:03.62,P18,,0,0,0,,arte porque todo el tiempo estoy
+Dialogue: 0,0:00:03.62,0:00:04.66,P18,,0,0,0,,consumiendo arte.
+Dialogue: 0,0:00:05.10,0:00:05.96,P18,,0,0,0,,Claro, entonces tener el
+Dialogue: 0,0:00:05.96,0:00:06.70,P18,,0,0,0,,músculo...
+Dialogue: 0,0:00:06.70,0:00:08.22,P18,,0,0,0,,Claro, es como un músculo,
+Dialogue: 0,0:00:08.22,0:00:09.32,P18,,0,0,0,,toca practicarlo.
+Dialogue: 0,0:00:09.94,0:00:12.56,P18,,0,0,0,,Hay gente que es diseñadora o se
+Dialogue: 0,0:00:12.56,0:00:14.46,P18,,0,0,0,,consideran creativos,
+Dialogue: 0,0:00:15.06,0:00:17.12,P18,,0,0,0,,pero nunca van a un museo,
+Dialogue: 0,0:00:17.12,0:00:19.36,P18,,0,0,0,,o nunca van a una obra de teatro,
+Dialogue: 0,0:00:20.10,0:00:22.12,P18,,0,0,0,,o no hacen el trabajo,
+Dialogue: 0,0:00:22.12,0:00:22.82,P18,,0,0,0,,¿verdad?
+Dialogue: 0,0:00:23.02,0:00:23.72,P18,,0,0,0,,Entonces
+Dialogue: 0,0:00:25.30,0:00:28.66,P18,,0,0,0,,yo sé, o sea, yo ya ese músculo
+Dialogue: 0,0:00:28.66,0:00:31.74,P18,,0,0,0,,lo tengo desarrollado para ver si
+Dialogue: 0,0:00:31.74,0:00:33.24,P18,,0,0,0,,tú me muestras un vídeo,
+Dialogue: 0,0:00:33.24,0:00:34.16,P18,,0,0,0,,me muestras un diseño,
+Dialogue: 0,0:00:34.16,0:00:34.90,P18,,0,0,0,,me muestras algo,
+Dialogue: 0,0:00:35.46,0:00:37.38,P18,,0,0,0,,yo puedo decir esta persona tiene
+Dialogue: 0,0:00:37.38,0:00:38.36,P18,,0,0,0,,talento.
+Dialogue: 0,0:00:38.36,0:00:40.30,P18,,0,0,0,,Entonces cuando yo contrato gente,
+Dialogue: 0,0:00:40.30,0:00:41.20,P18,,0,0,0,,por eso los portafolios,
+Dialogue: 0,0:00:41.20,0:00:43.34,P18,,0,0,0,,que vuelvo a los portafolios,
+Dialogue: 0,0:00:43.34,0:00:45.20,P18,,0,0,0,,son tan importantes, porque en el
+Dialogue: 0,0:00:45.20,0:00:46.48,P18,,0,0,0,,portafolio tú puedes ver si la
+Dialogue: 0,0:00:46.48,0:00:48.24,P18,,0,0,0,,persona tiene talento y si tiene
+Dialogue: 0,0:00:48.24,0:00:48.94,P18,,0,0,0,,taste (gusto).

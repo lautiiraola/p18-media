@@ -1,0 +1,28 @@
+CLIP 03 — ESTA FINAL NO SE ME VA A ESCAPAR: CÓMO USAR LA BRONCA
+
+Inicio:     15:56.8  (956.80 s)
+Fin:        16:37.1  (997.10 s)
+Duración:   40.3 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  ESTA FINAL NO SE ME VA A ESCAPAR: CÓMO USAR LA BRONCA   (en el reel, en lima: NO SE ME VA A ESCAPAR, BRONCA)
+Departamento:     Deporte y mentalidad
+Área:             Mentalidad aplicada
+Tema:             Transformar la bronca en foco
+Fuente:           Infobae — "Paula Pareto: la obsesión por el orden, el “dolor mental” y por qué no tiene lugar para el amor"
+                  https://www.youtube.com/watch?v=iCd-y-0b4-c&t=956s
+
+Por qué lo elegí:
+Ejemplo concreto de usar la impotencia como impulso antes de una prueba difícil; sirve para exámenes o cualquier desafío.
+
+Gancho (primeros 3 s): vuelvo a una final con una japonesa y yo digo, esta final no se me va a escapar
+
+Notas para la revisión: Empieza algo suelto ('Y al mes del panamericano'); revisar el arranque.
+
+Transcripción del clip:
+y al mes del Panamericano y al año bueno del tema de la japonesa del mundial vuelvo a una final con una japonesa y yo digo esta final no se me va a escapar ya perdí hace un mes y me sentí con mucha bronca y mucha impotencia y no quiero que me vuelva a pasar y ya me pasó hace un año con una japonesa también y ya me sentí con mucha bronca y mucha impotencia entonces como que transformé esa bronca potencia del momento y yo creo que fue el punto de partida para que en esa competencia sí logré ganar, que fue una diferencia mínima, pero creo que esa diferencia mínima la hizo justamente el sentarme un ratito antes de la competencia y decir no se me va a escapar de vuelta.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-20 - Infobae/03 - transformar la bronca.mp4" "ESTA FINAL *NO SE ME VA A ESCAPAR*: CÓMO USAR LA *BRONCA*" --fuente "Infobae"
+
+Saturación aplicada al reel (regla 2026-11-23, sólo al video): eq=saturation=0.7 (media S 0.603, 61% px S>0.6)

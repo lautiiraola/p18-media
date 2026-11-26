@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,903,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,506,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.70,P18,,0,0,0,,Para Goggins era una dominada más,
+Dialogue: 0,0:00:02.10,0:00:03.56,P18,,0,0,0,,para vos quizás sea algo así como
+Dialogue: 0,0:00:03.56,0:00:05.92,P18,,0,0,0,,ok, una hora más en la cama no me
+Dialogue: 0,0:00:05.92,0:00:08.22,P18,,0,0,0,,va a hacer mal, o porque falté a
+Dialogue: 0,0:00:08.22,0:00:09.60,P18,,0,0,0,,entrenar hoy y no pasa nada,
+Dialogue: 0,0:00:09.60,0:00:11.22,P18,,0,0,0,,fui toda la semana, y no,
+Dialogue: 0,0:00:11.64,0:00:13.14,P18,,0,0,0,,es acá cuando debemos interrumpir
+Dialogue: 0,0:00:13.14,0:00:15.06,P18,,0,0,0,,la charla, es tu cabeza intentando
+Dialogue: 0,0:00:15.06,0:00:16.94,P18,,0,0,0,,negociar con vos, tu mente se va a
+Dialogue: 0,0:00:16.94,0:00:18.54,P18,,0,0,0,,esforzar por hacerte creer que ya
+Dialogue: 0,0:00:18.54,0:00:19.92,P18,,0,0,0,,hiciste muchísimo, que te lo
+Dialogue: 0,0:00:19.92,0:00:21.42,P18,,0,0,0,,mereces, que te lo ganaste,
+Dialogue: 0,0:00:21.42,0:00:23.54,P18,,0,0,0,,y no, es importante que entiendas
+Dialogue: 0,0:00:23.54,0:00:24.52,P18,,0,0,0,,que no importa lo que estés
+Dialogue: 0,0:00:24.52,0:00:26.20,P18,,0,0,0,,intentando lograr, tu cabeza
+Dialogue: 0,0:00:26.20,0:00:27.68,P18,,0,0,0,,siempre va a buscar la comodidad y
+Dialogue: 0,0:00:27.68,0:00:29.46,P18,,0,0,0,,el confort, Y no es que tu mente
+Dialogue: 0,0:00:29.46,0:00:31.30,P18,,0,0,0,,te quiera sabotear o algo así,
+Dialogue: 0,0:00:31.30,0:00:32.86,P18,,0,0,0,,es tan simple como entender las
+Dialogue: 0,0:00:32.86,0:00:34.82,P18,,0,0,0,,motivaciones humanas más básicas.
+Dialogue: 0,0:00:34.82,0:00:36.12,P18,,0,0,0,,El ser humano siempre busca dos
+Dialogue: 0,0:00:36.12,0:00:36.82,P18,,0,0,0,,cosas,
+Dialogue: 0,0:00:37.04,0:00:38.42,P18,,0,0,0,,acercarse al placer y alejarse del
+Dialogue: 0,0:00:38.42,0:00:39.10,P18,,0,0,0,,dolor.
+Dialogue: 0,0:00:39.10,0:00:40.12,P18,,0,0,0,,Entender esto va a hacer que
+Dialogue: 0,0:00:40.12,0:00:41.44,P18,,0,0,0,,cuando empiece la negociación con
+Dialogue: 0,0:00:41.44,0:00:42.88,P18,,0,0,0,,vos mismo sepas identificar
+Dialogue: 0,0:00:42.88,0:00:44.04,P18,,0,0,0,,rápidamente lo que sucede,
+Dialogue: 0,0:00:44.60,0:00:46.00,P18,,0,0,0,,y de manera consciente puedes
+Dialogue: 0,0:00:46.00,0:00:47.08,P18,,0,0,0,,decir que no.

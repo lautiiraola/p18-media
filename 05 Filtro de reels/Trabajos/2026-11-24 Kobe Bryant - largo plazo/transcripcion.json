@@ -1,0 +1,1046 @@
+{
+ "idioma": "en",
+ "duracion": 45.85,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 1.24,
+   "texto": "When I came back to the States,",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.08,
+     "p": "When"
+    },
+    {
+     "ini": 0.08,
+     "fin": 0.22,
+     "p": "I"
+    },
+    {
+     "ini": 0.22,
+     "fin": 0.46,
+     "p": "came"
+    },
+    {
+     "ini": 0.46,
+     "fin": 0.7,
+     "p": "back"
+    },
+    {
+     "ini": 0.7,
+     "fin": 0.84,
+     "p": "to"
+    },
+    {
+     "ini": 0.84,
+     "fin": 1.04,
+     "p": "the"
+    },
+    {
+     "ini": 1.04,
+     "fin": 1.24,
+     "p": "States,"
+    }
+   ]
+  },
+  {
+   "ini": 1.42,
+   "fin": 2.9,
+   "texto": "I wasn't the most athletic kid.",
+   "palabras": [
+    {
+     "ini": 1.42,
+     "fin": 1.46,
+     "p": "I"
+    },
+    {
+     "ini": 1.46,
+     "fin": 1.68,
+     "p": "wasn't"
+    },
+    {
+     "ini": 1.68,
+     "fin": 1.78,
+     "p": "the"
+    },
+    {
+     "ini": 1.78,
+     "fin": 2.04,
+     "p": "most"
+    },
+    {
+     "ini": 2.04,
+     "fin": 2.44,
+     "p": "athletic"
+    },
+    {
+     "ini": 2.44,
+     "fin": 2.9,
+     "p": "kid."
+    }
+   ]
+  },
+  {
+   "ini": 3.26,
+   "fin": 6.04,
+   "texto": "You know, I was really scrawny, like really, really skinny",
+   "palabras": [
+    {
+     "ini": 3.26,
+     "fin": 3.38,
+     "p": "You"
+    },
+    {
+     "ini": 3.38,
+     "fin": 3.48,
+     "p": "know,"
+    },
+    {
+     "ini": 3.48,
+     "fin": 3.52,
+     "p": "I"
+    },
+    {
+     "ini": 3.52,
+     "fin": 3.82,
+     "p": "was"
+    },
+    {
+     "ini": 3.82,
+     "fin": 4.26,
+     "p": "really"
+    },
+    {
+     "ini": 4.26,
+     "fin": 4.56,
+     "p": "scrawny,"
+    },
+    {
+     "ini": 4.86,
+     "fin": 5.14,
+     "p": "like"
+    },
+    {
+     "ini": 5.14,
+     "fin": 5.48,
+     "p": "really,"
+    },
+    {
+     "ini": 5.48,
+     "fin": 5.76,
+     "p": "really"
+    },
+    {
+     "ini": 5.76,
+     "fin": 6.04,
+     "p": "skinny"
+    }
+   ]
+  },
+  {
+   "ini": 6.04,
+   "fin": 8.54,
+   "texto": "and had like major knee issues because I was growing.",
+   "palabras": [
+    {
+     "ini": 6.04,
+     "fin": 6.28,
+     "p": "and"
+    },
+    {
+     "ini": 6.28,
+     "fin": 6.52,
+     "p": "had"
+    },
+    {
+     "ini": 6.52,
+     "fin": 7.1,
+     "p": "like"
+    },
+    {
+     "ini": 7.1,
+     "fin": 7.3,
+     "p": "major"
+    },
+    {
+     "ini": 7.3,
+     "fin": 7.52,
+     "p": "knee"
+    },
+    {
+     "ini": 7.52,
+     "fin": 7.84,
+     "p": "issues"
+    },
+    {
+     "ini": 7.84,
+     "fin": 7.98,
+     "p": "because"
+    },
+    {
+     "ini": 7.98,
+     "fin": 8.14,
+     "p": "I"
+    },
+    {
+     "ini": 8.14,
+     "fin": 8.28,
+     "p": "was"
+    },
+    {
+     "ini": 8.28,
+     "fin": 8.54,
+     "p": "growing."
+    }
+   ]
+  },
+  {
+   "ini": 8.72,
+   "fin": 10.48,
+   "texto": "So I was the dorky kid with high socks",
+   "palabras": [
+    {
+     "ini": 8.72,
+     "fin": 8.82,
+     "p": "So"
+    },
+    {
+     "ini": 8.82,
+     "fin": 8.88,
+     "p": "I"
+    },
+    {
+     "ini": 8.88,
+     "fin": 9.04,
+     "p": "was"
+    },
+    {
+     "ini": 9.04,
+     "fin": 9.26,
+     "p": "the"
+    },
+    {
+     "ini": 9.26,
+     "fin": 9.66,
+     "p": "dorky"
+    },
+    {
+     "ini": 9.66,
+     "fin": 9.76,
+     "p": "kid"
+    },
+    {
+     "ini": 9.76,
+     "fin": 9.98,
+     "p": "with"
+    },
+    {
+     "ini": 9.98,
+     "fin": 10.18,
+     "p": "high"
+    },
+    {
+     "ini": 10.18,
+     "fin": 10.48,
+     "p": "socks"
+    }
+   ]
+  },
+  {
+   "ini": 10.48,
+   "fin": 11.94,
+   "texto": "and big old knee pads.",
+   "palabras": [
+    {
+     "ini": 10.48,
+     "fin": 11.04,
+     "p": "and"
+    },
+    {
+     "ini": 11.04,
+     "fin": 11.24,
+     "p": "big"
+    },
+    {
+     "ini": 11.24,
+     "fin": 11.42,
+     "p": "old"
+    },
+    {
+     "ini": 11.42,
+     "fin": 11.58,
+     "p": "knee"
+    },
+    {
+     "ini": 11.58,
+     "fin": 11.94,
+     "p": "pads."
+    }
+   ]
+  },
+  {
+   "ini": 12.18,
+   "fin": 13.1,
+   "texto": "It's fashionable now.",
+   "palabras": [
+    {
+     "ini": 12.18,
+     "fin": 12.58,
+     "p": "It's"
+    },
+    {
+     "ini": 12.58,
+     "fin": 12.82,
+     "p": "fashionable"
+    },
+    {
+     "ini": 12.82,
+     "fin": 13.1,
+     "p": "now."
+    }
+   ]
+  },
+  {
+   "ini": 13.14,
+   "fin": 15.6,
+   "texto": "It's fashionable now, it wasn't then, it wasn't then.",
+   "palabras": [
+    {
+     "ini": 13.14,
+     "fin": 13.5,
+     "p": "It's"
+    },
+    {
+     "ini": 13.5,
+     "fin": 13.84,
+     "p": "fashionable"
+    },
+    {
+     "ini": 13.84,
+     "fin": 14.18,
+     "p": "now,"
+    },
+    {
+     "ini": 14.3,
+     "fin": 14.46,
+     "p": "it"
+    },
+    {
+     "ini": 14.46,
+     "fin": 14.58,
+     "p": "wasn't"
+    },
+    {
+     "ini": 14.58,
+     "fin": 14.8,
+     "p": "then,"
+    },
+    {
+     "ini": 14.8,
+     "fin": 15.08,
+     "p": "it"
+    },
+    {
+     "ini": 15.08,
+     "fin": 15.24,
+     "p": "wasn't"
+    },
+    {
+     "ini": 15.24,
+     "fin": 15.6,
+     "p": "then."
+    }
+   ]
+  },
+  {
+   "ini": 15.72,
+   "fin": 19.08,
+   "texto": "And so I had to look long-term",
+   "palabras": [
+    {
+     "ini": 15.72,
+     "fin": 16.02,
+     "p": "And"
+    },
+    {
+     "ini": 16.02,
+     "fin": 16.46,
+     "p": "so"
+    },
+    {
+     "ini": 16.46,
+     "fin": 17.5,
+     "p": "I"
+    },
+    {
+     "ini": 17.5,
+     "fin": 17.8,
+     "p": "had"
+    },
+    {
+     "ini": 17.8,
+     "fin": 17.98,
+     "p": "to"
+    },
+    {
+     "ini": 17.98,
+     "fin": 18.14,
+     "p": "look"
+    },
+    {
+     "ini": 18.14,
+     "fin": 18.54,
+     "p": "long"
+    },
+    {
+     "ini": 18.54,
+     "fin": 19.08,
+     "p": "-term"
+    }
+   ]
+  },
+  {
+   "ini": 19.08,
+   "fin": 20.28,
+   "texto": "because in the here and now,",
+   "palabras": [
+    {
+     "ini": 19.08,
+     "fin": 19.54,
+     "p": "because"
+    },
+    {
+     "ini": 19.54,
+     "fin": 19.74,
+     "p": "in"
+    },
+    {
+     "ini": 19.74,
+     "fin": 19.86,
+     "p": "the"
+    },
+    {
+     "ini": 19.86,
+     "fin": 20.0,
+     "p": "here"
+    },
+    {
+     "ini": 20.0,
+     "fin": 20.14,
+     "p": "and"
+    },
+    {
+     "ini": 20.14,
+     "fin": 20.28,
+     "p": "now,"
+    }
+   ]
+  },
+  {
+   "ini": 20.3,
+   "fin": 21.5,
+   "texto": "I couldn't compete with these kids.",
+   "palabras": [
+    {
+     "ini": 20.3,
+     "fin": 20.42,
+     "p": "I"
+    },
+    {
+     "ini": 20.42,
+     "fin": 20.62,
+     "p": "couldn't"
+    },
+    {
+     "ini": 20.62,
+     "fin": 20.92,
+     "p": "compete"
+    },
+    {
+     "ini": 20.92,
+     "fin": 21.1,
+     "p": "with"
+    },
+    {
+     "ini": 21.1,
+     "fin": 21.34,
+     "p": "these"
+    },
+    {
+     "ini": 21.34,
+     "fin": 21.5,
+     "p": "kids."
+    }
+   ]
+  },
+  {
+   "ini": 21.64,
+   "fin": 24.38,
+   "texto": "I mean, there was kids that were like 12 years old",
+   "palabras": [
+    {
+     "ini": 21.64,
+     "fin": 21.64,
+     "p": "I"
+    },
+    {
+     "ini": 21.64,
+     "fin": 21.76,
+     "p": "mean,"
+    },
+    {
+     "ini": 21.82,
+     "fin": 21.96,
+     "p": "there"
+    },
+    {
+     "ini": 21.96,
+     "fin": 22.12,
+     "p": "was"
+    },
+    {
+     "ini": 22.12,
+     "fin": 22.34,
+     "p": "kids"
+    },
+    {
+     "ini": 22.34,
+     "fin": 22.62,
+     "p": "that"
+    },
+    {
+     "ini": 22.62,
+     "fin": 22.92,
+     "p": "were"
+    },
+    {
+     "ini": 22.92,
+     "fin": 23.7,
+     "p": "like"
+    },
+    {
+     "ini": 23.7,
+     "fin": 23.92,
+     "p": "12"
+    },
+    {
+     "ini": 23.92,
+     "fin": 24.12,
+     "p": "years"
+    },
+    {
+     "ini": 24.12,
+     "fin": 24.38,
+     "p": "old"
+    }
+   ]
+  },
+  {
+   "ini": 24.38,
+   "fin": 27.08,
+   "texto": "with beards, like I can't, I can't.",
+   "palabras": [
+    {
+     "ini": 24.38,
+     "fin": 24.66,
+     "p": "with"
+    },
+    {
+     "ini": 24.66,
+     "fin": 25.18,
+     "p": "beards,"
+    },
+    {
+     "ini": 25.32,
+     "fin": 25.46,
+     "p": "like"
+    },
+    {
+     "ini": 25.46,
+     "fin": 25.68,
+     "p": "I"
+    },
+    {
+     "ini": 25.68,
+     "fin": 26.54,
+     "p": "can't,"
+    },
+    {
+     "ini": 26.6,
+     "fin": 26.82,
+     "p": "I"
+    },
+    {
+     "ini": 26.82,
+     "fin": 27.08,
+     "p": "can't."
+    }
+   ]
+  },
+  {
+   "ini": 27.18,
+   "fin": 28.26,
+   "texto": "What am I supposed to do with that?",
+   "palabras": [
+    {
+     "ini": 27.18,
+     "fin": 27.28,
+     "p": "What"
+    },
+    {
+     "ini": 27.28,
+     "fin": 27.36,
+     "p": "am"
+    },
+    {
+     "ini": 27.36,
+     "fin": 27.42,
+     "p": "I"
+    },
+    {
+     "ini": 27.42,
+     "fin": 27.62,
+     "p": "supposed"
+    },
+    {
+     "ini": 27.62,
+     "fin": 27.76,
+     "p": "to"
+    },
+    {
+     "ini": 27.76,
+     "fin": 27.86,
+     "p": "do"
+    },
+    {
+     "ini": 27.86,
+     "fin": 28.1,
+     "p": "with"
+    },
+    {
+     "ini": 28.1,
+     "fin": 28.26,
+     "p": "that?"
+    }
+   ]
+  },
+  {
+   "ini": 28.26,
+   "fin": 30.7,
+   "texto": "Like they're doing windmills and dunking backwards",
+   "palabras": [
+    {
+     "ini": 28.26,
+     "fin": 28.44,
+     "p": "Like"
+    },
+    {
+     "ini": 28.44,
+     "fin": 28.9,
+     "p": "they're"
+    },
+    {
+     "ini": 28.9,
+     "fin": 29.16,
+     "p": "doing"
+    },
+    {
+     "ini": 29.16,
+     "fin": 29.72,
+     "p": "windmills"
+    },
+    {
+     "ini": 29.72,
+     "fin": 29.92,
+     "p": "and"
+    },
+    {
+     "ini": 29.92,
+     "fin": 30.34,
+     "p": "dunking"
+    },
+    {
+     "ini": 30.34,
+     "fin": 30.7,
+     "p": "backwards"
+    }
+   ]
+  },
+  {
+   "ini": 30.7,
+   "fin": 33.0,
+   "texto": "and I'm happy to like tap the backboard, you know?",
+   "palabras": [
+    {
+     "ini": 30.7,
+     "fin": 30.88,
+     "p": "and"
+    },
+    {
+     "ini": 30.88,
+     "fin": 31.12,
+     "p": "I'm"
+    },
+    {
+     "ini": 31.12,
+     "fin": 31.3,
+     "p": "happy"
+    },
+    {
+     "ini": 31.3,
+     "fin": 31.52,
+     "p": "to"
+    },
+    {
+     "ini": 31.52,
+     "fin": 31.8,
+     "p": "like"
+    },
+    {
+     "ini": 31.8,
+     "fin": 31.96,
+     "p": "tap"
+    },
+    {
+     "ini": 31.96,
+     "fin": 32.22,
+     "p": "the"
+    },
+    {
+     "ini": 32.22,
+     "fin": 32.7,
+     "p": "backboard,"
+    },
+    {
+     "ini": 32.8,
+     "fin": 32.88,
+     "p": "you"
+    },
+    {
+     "ini": 32.88,
+     "fin": 33.0,
+     "p": "know?"
+    }
+   ]
+  },
+  {
+   "ini": 33.1,
+   "fin": 35.78,
+   "texto": "So I had to look at it from a long term",
+   "palabras": [
+    {
+     "ini": 33.1,
+     "fin": 33.46,
+     "p": "So"
+    },
+    {
+     "ini": 33.46,
+     "fin": 33.78,
+     "p": "I"
+    },
+    {
+     "ini": 33.78,
+     "fin": 34.0,
+     "p": "had"
+    },
+    {
+     "ini": 34.0,
+     "fin": 34.24,
+     "p": "to"
+    },
+    {
+     "ini": 34.24,
+     "fin": 34.38,
+     "p": "look"
+    },
+    {
+     "ini": 34.38,
+     "fin": 34.54,
+     "p": "at"
+    },
+    {
+     "ini": 34.54,
+     "fin": 34.68,
+     "p": "it"
+    },
+    {
+     "ini": 34.68,
+     "fin": 34.84,
+     "p": "from"
+    },
+    {
+     "ini": 34.84,
+     "fin": 35.08,
+     "p": "a"
+    },
+    {
+     "ini": 35.08,
+     "fin": 35.36,
+     "p": "long"
+    },
+    {
+     "ini": 35.36,
+     "fin": 35.78,
+     "p": "term"
+    }
+   ]
+  },
+  {
+   "ini": 35.78,
+   "fin": 37.32,
+   "texto": "because I wasn't going to give up on the game.",
+   "palabras": [
+    {
+     "ini": 35.78,
+     "fin": 35.96,
+     "p": "because"
+    },
+    {
+     "ini": 35.96,
+     "fin": 36.12,
+     "p": "I"
+    },
+    {
+     "ini": 36.12,
+     "fin": 36.32,
+     "p": "wasn't"
+    },
+    {
+     "ini": 36.32,
+     "fin": 36.44,
+     "p": "going"
+    },
+    {
+     "ini": 36.44,
+     "fin": 36.56,
+     "p": "to"
+    },
+    {
+     "ini": 36.56,
+     "fin": 36.64,
+     "p": "give"
+    },
+    {
+     "ini": 36.64,
+     "fin": 36.78,
+     "p": "up"
+    },
+    {
+     "ini": 36.78,
+     "fin": 36.92,
+     "p": "on"
+    },
+    {
+     "ini": 36.92,
+     "fin": 37.08,
+     "p": "the"
+    },
+    {
+     "ini": 37.08,
+     "fin": 37.32,
+     "p": "game."
+    }
+   ]
+  },
+  {
+   "ini": 37.7,
+   "fin": 39.42,
+   "texto": "So I had to say, okay, this year,",
+   "palabras": [
+    {
+     "ini": 37.7,
+     "fin": 38.06,
+     "p": "So"
+    },
+    {
+     "ini": 38.06,
+     "fin": 38.12,
+     "p": "I"
+    },
+    {
+     "ini": 38.12,
+     "fin": 38.26,
+     "p": "had"
+    },
+    {
+     "ini": 38.26,
+     "fin": 38.4,
+     "p": "to"
+    },
+    {
+     "ini": 38.4,
+     "fin": 38.48,
+     "p": "say,"
+    },
+    {
+     "ini": 38.64,
+     "fin": 38.76,
+     "p": "okay,"
+    },
+    {
+     "ini": 38.98,
+     "fin": 39.14,
+     "p": "this"
+    },
+    {
+     "ini": 39.14,
+     "fin": 39.42,
+     "p": "year,"
+    }
+   ]
+  },
+  {
+   "ini": 39.52,
+   "fin": 40.64,
+   "texto": "I'm going to get better at that.",
+   "palabras": [
+    {
+     "ini": 39.52,
+     "fin": 39.64,
+     "p": "I'm"
+    },
+    {
+     "ini": 39.64,
+     "fin": 39.7,
+     "p": "going"
+    },
+    {
+     "ini": 39.7,
+     "fin": 39.78,
+     "p": "to"
+    },
+    {
+     "ini": 39.78,
+     "fin": 39.84,
+     "p": "get"
+    },
+    {
+     "ini": 39.84,
+     "fin": 40.02,
+     "p": "better"
+    },
+    {
+     "ini": 40.02,
+     "fin": 40.26,
+     "p": "at"
+    },
+    {
+     "ini": 40.26,
+     "fin": 40.64,
+     "p": "that."
+    }
+   ]
+  },
+  {
+   "ini": 41.3,
+   "fin": 43.7,
+   "texto": "Next year, this, and then so forth and so on.",
+   "palabras": [
+    {
+     "ini": 41.3,
+     "fin": 41.36,
+     "p": "Next"
+    },
+    {
+     "ini": 41.36,
+     "fin": 41.7,
+     "p": "year,"
+    },
+    {
+     "ini": 41.96,
+     "fin": 42.18,
+     "p": "this,"
+    },
+    {
+     "ini": 42.6,
+     "fin": 42.64,
+     "p": "and"
+    },
+    {
+     "ini": 42.64,
+     "fin": 42.88,
+     "p": "then"
+    },
+    {
+     "ini": 42.88,
+     "fin": 43.04,
+     "p": "so"
+    },
+    {
+     "ini": 43.04,
+     "fin": 43.22,
+     "p": "forth"
+    },
+    {
+     "ini": 43.22,
+     "fin": 43.44,
+     "p": "and"
+    },
+    {
+     "ini": 43.44,
+     "fin": 43.6,
+     "p": "so"
+    },
+    {
+     "ini": 43.6,
+     "fin": 43.7,
+     "p": "on."
+    }
+   ]
+  },
+  {
+   "ini": 43.88,
+   "fin": 45.58,
+   "texto": "And then patiently I was able to catch them.",
+   "palabras": [
+    {
+     "ini": 43.88,
+     "fin": 43.88,
+     "p": "And"
+    },
+    {
+     "ini": 43.88,
+     "fin": 44.24,
+     "p": "then"
+    },
+    {
+     "ini": 44.24,
+     "fin": 44.54,
+     "p": "patiently"
+    },
+    {
+     "ini": 44.54,
+     "fin": 44.72,
+     "p": "I"
+    },
+    {
+     "ini": 44.72,
+     "fin": 44.88,
+     "p": "was"
+    },
+    {
+     "ini": 44.88,
+     "fin": 45.06,
+     "p": "able"
+    },
+    {
+     "ini": 45.06,
+     "fin": 45.28,
+     "p": "to"
+    },
+    {
+     "ini": 45.28,
+     "fin": 45.42,
+     "p": "catch"
+    },
+    {
+     "ini": 45.42,
+     "fin": 45.58,
+     "p": "them."
+    }
+   ]
+  }
+ ]
+}

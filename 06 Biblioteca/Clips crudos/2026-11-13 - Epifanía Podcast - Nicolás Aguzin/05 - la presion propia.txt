@@ -1,0 +1,26 @@
+CLIP 05 — LO MÁS DIFÍCIL ES LA PRESIÓN QUE UNO MISMO SE PONE
+
+Inicio:     34:05.1  (2045.12 s)
+Fin:        35:04.0  (2104.02 s)
+Duración:   58.9 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LO MÁS DIFÍCIL ES LA PRESIÓN QUE UNO MISMO SE PONE   (en el reel, en lima: PRESIÓN)
+Departamento:     Finanzas y trabajo
+Área:             Trabajo y oportunidades
+Tema:             Buscar el primer trabajo
+Fuente:           Epifanía Podcast - Nicolás Aguzin — "Nació en la provincia más pobre, pero llegó a CEO de JPMorgan | Nicolás Aguzin"
+                  https://www.youtube.com/watch?v=eAWLBxLpKEE&t=2045s
+
+Por qué lo elegí:
+Habla del primer trabajo que no llegaba: la familia había hecho sacrificios, él había estudiado mucho y aun así le costaba. Cuenta que no conocía cómo funcionaba el sistema y que lo más pesado era la exigencia propia. Normaliza que buscar el primer trabajo cuesta.
+
+Gancho (primeros 3 s): La parte más difícil es la presión que uno mismo se pone
+
+Notas para la revisión: Dice "fui a la mejor universidad de Estados Unidos para negocios": no es el foco, pero revisar. Toca la presión emocional: si se usa en Salud mental, agregar --salud-mental.
+
+Transcripción del clip:
+La parte más difícil es la presión que uno mismo se pone, porque yo había, o sea, mis padres y toda mi familia hicieron muchísimos sacrificios para que yo tenga esta oportunidad de estudiar en Estados Unidos. Y yo me sentía como que, bueno, había ido a Estados Unidos y cómo era posible que no podía conseguir trabajo. Entonces, fui a la mejor universidad de Estados Unidos prácticamente para negocio y estaba consiguiendo, me estaba haciendo tan difícil eso. Parte también era de que el sistema americano es muy estructurado en cómo conseguir trabajo y cómo uno va de primer año, segundo año, tercer año, cuarto año. Yo no conocía ese sistema, entonces no me di cuenta hasta un poquito tarde y por eso me costó un poco más. Y la presión propia que uno se ponía a decir cómo es posible que después de todo el sacrificio y todo esto, yo no estoy consiguiendo trabajo y me cuesta tanto.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - Epifanía Podcast - Nicolás Aguzin/05 - la presion propia.mp4" "LO MÁS DIFÍCIL ES LA *PRESIÓN* QUE UNO MISMO SE PONE" --fuente "Epifanía Podcast - Nicolás Aguzin"

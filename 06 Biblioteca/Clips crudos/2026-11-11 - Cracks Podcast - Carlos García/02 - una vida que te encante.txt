@@ -1,0 +1,26 @@
+CLIP 02 — ¿LA VIDA QUE ESTÁS ARMANDO ES LA QUE QUERÉS?
+
+Inicio:     18:31.6  (1111.64 s)
+Fin:        19:29.4  (1169.37 s)
+Duración:   57.7 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  ¿LA VIDA QUE ESTÁS ARMANDO ES LA QUE QUERÉS?   (en el reel, en lima: QUERÉS)
+Departamento:     Crecimiento personal
+Área:             Autoconocimiento
+Tema:             Diseñar una vida que te encante
+Fuente:           Cracks Podcast - Carlos García — "La Historia de KAVAK | CARLOS GARCIA en Cracks Podcast #373"
+                  https://www.youtube.com/watch?v=oYDI7Y4vJTk&t=1111s
+
+Por qué lo elegí:
+Habla directo a alguien de 17-19 que está tomando sus primeras decisiones grandes: pensá qué te gusta, decidí hacia ahí y revisá si vas bien, porque lo que elegís hoy te cambia los próximos años. Aclara él mismo que 'no es económico'. Idea completa y sin contexto.
+
+Gancho (primeros 3 s): Una de las cosas que tenemos que tratar de garantizar es diseñar una vida que nos encante.
+
+Notas para la revisión: Arranca justo en 'una de las cosas…' y termina antes de la pregunta del entrevistador.
+
+Transcripción del clip:
+una de las cosas que tenemos que tratar de garantizar es diseñar una vida que nos encante. Y esto no es económico, esto tiene un montón de variables, pero yo creo que gran parte de todos los seres humanos es, tienes que diseñar una vida que te encante. Si tú no estás diseñando una vida que te encante, tú estás proponiendo vivir algo que no vas a disfrutar. Y diseñar una vida que te encante requiere de que tú pienses un poco qué te gusta, tomas decisiones para ir hacia allá y recalibres si las decisiones y la vida que te estás construyendo es exactamente lo que querías o no es lo que querías y que pienses hacia adelante. O sea, cuando tomas una decisión hoy de hacer algo, a lo mejor la decisión que estoy tomando hoy, ya tú sabes que va a cambiar tu vida en los próximos dos años, piensa bien si esa es la vida que quieres. El costo que estás dispuesto a pagar. Claro, porque al principio, si tú no haces ese trabajo, al principio tomas un montón de decisiones y terminas los siguientes tres, cuatro años construyendo una vida que no era la que quería te
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-11 - Cracks Podcast - Carlos García/02 - una vida que te encante.mp4" "¿LA VIDA QUE ESTÁS ARMANDO ES LA QUE *QUERÉS*?" --fuente "Cracks Podcast - Carlos García"

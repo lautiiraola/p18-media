@@ -1,0 +1,121 @@
+{
+ "clips": [
+  {
+   "n": 1,
+   "def": [
+    {
+     "bloques": "r4a-r4d"
+    }
+   ],
+   "titulo": "Hoy no, *mañana sí*",
+   "departamento": "Crecimiento personal",
+   "area": "Hábitos y constancia",
+   "tema": "Frustración y constancia",
+   "gancho": "Nunca el tiempo está perdido en cualquier cosa que debamos aprender.",
+   "porque": "Una frase corta y memorable (\"hoy no, mañana sí\") para cualquiera que se frustra, y una idea que saca presión: nadie nació aprendiendo, todo es una habilidad que se adquiere.",
+   "ranges": [
+    {
+     "ini": 185.08,
+     "fin": 217.49
+    }
+   ],
+   "source": "victoria/video_final.mp4",
+   "fuente": "María Victoria Guarzoni · Café IA",
+   "slug": "Frustración y constancia"
+  },
+  {
+   "n": 2,
+   "def": [
+    {
+     "bloques": "r4e"
+    }
+   ],
+   "titulo": "Escuchá a alguien que ya *vivió* otras cosas",
+   "departamento": "Crear y comunicar",
+   "area": "Vínculos y comunicación",
+   "tema": "Escuchar a los que tienen más experiencia",
+   "gancho": "Tuve también la posibilidad de ser vista cuando yo me consideraba invisible.",
+   "porque": "Arranca con una confesión muy humana y deja un consejo concreto para alguien de 18: frenar el \"yo puedo solo\" y escuchar a gente más grande, de otras realidades.",
+   "ranges": [
+    {
+     "ini": 217.51,
+     "fin": 254.05
+    }
+   ],
+   "source": "victoria/video_final.mp4",
+   "fuente": "María Victoria Guarzoni · Café IA",
+   "slug": "Escuchar a los que tienen más experiencia"
+  },
+  {
+   "n": 3,
+   "def": [
+    {
+     "bloques": "r1a-r1c"
+    }
+   ],
+   "titulo": "La IA te deja darle rienda suelta a tu *curiosidad*",
+   "departamento": "Crear y comunicar",
+   "area": "Inteligencia artificial",
+   "tema": "Curiosidad y aprendizaje con IA",
+   "gancho": "Lo que nos da la IA es también la posibilidad de darle rienda suelta a nuestros sueños.",
+   "porque": "Presenta la IA como herramienta para aprender y preguntar (\"la democratización de la educación\") y cierra con una idea para toda la vida: mantenerse curiosos, porque ningún aprendizaje es en vano.",
+   "notas": "Dura cerca de 57 s, en el límite superior.",
+   "ranges": [
+    {
+     "ini": 34.28,
+     "fin": 92.12
+    }
+   ],
+   "source": "victoria/video_final.mp4",
+   "fuente": "María Victoria Guarzoni · Café IA",
+   "slug": "Curiosidad y aprendizaje con IA"
+  },
+  {
+   "n": 4,
+   "def": [
+    {
+     "bloques": "r3a-r3c"
+    }
+   ],
+   "titulo": "Para usar bien la IA, primero un *objetivo*",
+   "departamento": "Crear y comunicar",
+   "area": "Inteligencia artificial",
+   "tema": "Objetivo antes que herramienta",
+   "gancho": "Primero uno tiene que partir de un objetivo.",
+   "porque": "Un ejemplo doméstico (arreglar un velador) explica cómo usar la IA con un propósito y no sólo para resúmenes. El cierre del entrevistador lo baja a cualquier meta.",
+   "notas": "El cierre es la síntesis del entrevistador (\"tenés que tener un objetivo claro…\").",
+   "ranges": [
+    {
+     "ini": 150.68,
+     "fin": 181.49
+    }
+   ],
+   "source": "victoria/video_final.mp4",
+   "fuente": "María Victoria Guarzoni · Café IA",
+   "slug": "Objetivo antes que herramienta"
+  },
+  {
+   "n": 5,
+   "def": [
+    {
+     "bloques": "r2a-r2c"
+    }
+   ],
+   "titulo": "De partera a *programadora*",
+   "departamento": "Crecimiento personal",
+   "area": "Autoconocimiento",
+   "tema": "Un camino que se arma aprendiendo",
+   "gancho": "Yo estudié mi licenciatura en Obstetricia, soy partera universitaria.",
+   "porque": "Una historia real que rompe la idea de \"un solo camino\": de la obstetricia a la programación y a crear simuladores para capacitar médicos, uniendo todo lo aprendido.",
+   "ranges": [
+    {
+     "ini": 94.64,
+     "fin": 135.42
+    }
+   ],
+   "source": "victoria/video_final.mp4",
+   "fuente": "María Victoria Guarzoni · Café IA",
+   "slug": "Un camino que se arma aprendiendo"
+  }
+ ]
+}

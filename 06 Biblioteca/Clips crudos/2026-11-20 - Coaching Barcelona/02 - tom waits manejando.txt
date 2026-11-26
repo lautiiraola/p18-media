@@ -1,0 +1,26 @@
+CLIP 02 — TOM WAITS LE DIJO AL CIELO: ¿NO VES QUE ESTOY MANEJANDO?
+
+Inicio:     13:03.6  (783.62 s)
+Fin:        14:01.0  (841.01 s)
+Duración:   57.4 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  TOM WAITS LE DIJO AL CIELO: ¿NO VES QUE ESTOY MANEJANDO?   (en el reel, en lima: ¿NO VES QUE ESTOY MANEJANDO?)
+Departamento:     Creatividad
+Área:             Música y audiovisual
+Tema:             Soltar la ansiedad de la inspiración
+Fuente:           Coaching Barcelona — "ELIZABETH GILBERT Subtitulado Español "El GENIO de la Creatividad" Conferencia TED 2009 medium"
+                  https://www.youtube.com/watch?v=T3CrEXKPsHE&t=783s
+
+Por qué lo elegí:
+Historia corta con humor y giro: el músico deja de entrar en pánico y le habla a la idea. Muestra cómo bajar la presión al crear.
+
+Gancho (primeros 3 s): he's speeding along and all of a sudden he hears this little fragment of melody
+
+Notas para la revisión: Puede arrancar sin nombrar a Tom Waits (se menciona antes); se aclara en el título.
+
+Transcripción del clip:
+this little fragment of melody that comes into his head as inspiration often comes, elusive and tantalizing, and he wants it. It's gorgeous, and he longs for it, but he has no way to get it. He doesn't have a piece of paper. He doesn't have a pencil. He doesn't have a tape recorder, so he starts to feel all that old anxiety start to rise in him, like, I'm going to lose this thing, and then I'm going to be haunted by this song forever, and I'm not good enough, and I can't do it. And instead of panicking, he just stopped, he just stopped that whole mental process and he did something completely novel. He just looked up at the sky and he said, excuse me, can you not see that I'm driving? Do I look like I can write down a song right now? If you really want to exist, come back at a more opportune moment when I can take care of you. Otherwise, go bother somebody else today. Go bother Leonard Cohen, you know? And and his whole work process changed after that not the work the
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-20 - Coaching Barcelona/02 - tom waits manejando.mp4" "TOM WAITS LE DIJO AL CIELO: *¿NO VES QUE ESTOY MANEJANDO?*" --fuente "Coaching Barcelona"

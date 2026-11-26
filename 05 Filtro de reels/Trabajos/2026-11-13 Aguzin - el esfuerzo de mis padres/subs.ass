@@ -1,0 +1,37 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,548,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.16,P18,,0,0,0,,Entonces ellos decían: nosotros
+Dialogue: 0,0:00:02.16,0:00:03.98,P18,,0,0,0,,no vamos a comer si es necesario,
+Dialogue: 0,0:00:03.98,0:00:05.52,P18,,0,0,0,,pero nuestros hijos van a tener
+Dialogue: 0,0:00:05.52,0:00:08.22,P18,,0,0,0,,una buena educación. Y él tenía
+Dialogue: 0,0:00:08.22,0:00:09.86,P18,,0,0,0,,este sueño de que aprenda a hablar
+Dialogue: 0,0:00:09.86,0:00:11.78,P18,,0,0,0,,inglés, así que me mandó al San
+Dialogue: 0,0:00:11.78,0:00:14.86,P18,,0,0,0,,Jorge. Yo no estaba muy contento
+Dialogue: 0,0:00:14.86,0:00:17.30,P18,,0,0,0,,porque tenía 10 años y la verdad
+Dialogue: 0,0:00:17.30,0:00:19.42,P18,,0,0,0,,que cuando fui extrañaba muchísimo
+Dialogue: 0,0:00:19.42,0:00:22.22,P18,,0,0,0,,así que fue fue difícil a veces
+Dialogue: 0,0:00:22.22,0:00:23.88,P18,,0,0,0,,cuando volvíamos
+Dialogue: 0,0:00:23.88,0:00:27.16,P18,,0,0,0,,yo le decía
+Dialogue: 0,0:00:27.16,0:00:29.58,P18,,0,0,0,,por favor si si puedo puedo
+Dialogue: 0,0:00:29.58,0:00:30.90,P18,,0,0,0,,quedarme en Formosa, sería
+Dialogue: 0,0:00:30.90,0:00:31.60,P18,,0,0,0,,bárbaro,
+Dialogue: 0,0:00:32.38,0:00:35.64,P18,,0,0,0,,pero lo charlábamos y él me
+Dialogue: 0,0:00:35.64,0:00:36.62,P18,,0,0,0,,explicaba que eso era muy
+Dialogue: 0,0:00:36.62,0:00:38.00,P18,,0,0,0,,importante para el futuro,
+Dialogue: 0,0:00:38.00,0:00:39.00,P18,,0,0,0,,todo era muy duro para ellos
+Dialogue: 0,0:00:39.00,0:00:40.10,P18,,0,0,0,,también porque obviamente ellos
+Dialogue: 0,0:00:40.10,0:00:41.36,P18,,0,0,0,,también me extrañaban muchísimo.
+Dialogue: 0,0:00:41.86,0:00:43.32,P18,,0,0,0,,O sea que eso fue la primera
+Dialogue: 0,0:00:43.32,0:00:44.02,P18,,0,0,0,,parte.

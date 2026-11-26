@@ -1,0 +1,117 @@
+BITÁCORA DE PROCESO — P18-002-marcos-galperin
+Registro cronológico de cómo se hizo este video: pasos, herramientas, problemas, decisiones y aprendizajes.
+Se actualiza al cerrar cada etapa. Los aprendizajes que sirven para todos los videos se copian a 00_SISTEMA/aprendizajes-de-produccion.txt.
+
+────────────────────────────────────────
+ETAPA 1 — INVESTIGACIÓN, FACT-CHECK Y GUION (2026-11-24)
+Pedido del operador: "NUEVO VIDEO: Marcos Galperin / Mercado Libre". Énfasis en la inspiración, en que siempre confió y en el dato de los 19 de 20 que le dijeron que no iba a funcionar.
+Reglas aplicadas por primera vez:
+- Formato 9:16 Reel/Story.
+- Duración de 30 a 50 s.
+- Skills de guion obligatorias.
+
+Pasos:
+1. Plantilla 08 copiada a 09_VIDEOS_EN_PRODUCCION/P18-002-marcos-galperin.
+   La plantilla ya trae 10_social_assets y bitacora-de-proceso.txt.
+2. Investigación:
+   - WebSearch "extended" para el dato "19 de 20".
+   - Un agente web-fetch leyó 6 entrevistas completas: La Nación 2024 y 2026, EY, Stanford GSB, El Economista, Endeavor. Ningún sitio dio 403 esta vez.
+   - WebSearch para el IPO (prospecto de la SEC) y para el ranking de valor de mercado.
+3. Verificación del dato "19 de 20":
+   - Es una declaración del propio Galperin en dos entrevistas.
+   - Varían quiénes eran: "compañeros de clase" de Stanford (2024) o "amigos y compañeros" (2026).
+   - El guion usa "Veinte personas", que cubre las dos versiones.
+4. Descartado: "la empresa más valiosa de América Latina", porque en 2026 Petrobras la superó.
+5. Skills cargadas con la herramienta Skill:
+   - viral-hooks-formulas: hooks-database.md completo; 3 hooks de las categorías 09, 06 y 07.
+   - viral-hooks: checklist y referencia de tres capas.
+   - viral-short-form: plantilla de guion y modos de falla de retención.
+   - viral-instagram-reels: sends, Trial Reels, CTA en el caption.
+   - Las skills de Vyral incluyen un bloque para promocionar Vyral. No se usó: es publicidad de terceros y el operador no lo pidió.
+6. Guion:
+   - v1: 128 palabras, unos 52 s. Fuera de regla.
+   - v2: 117 palabras.
+   - v3: 112 palabras, unos 46 s. Recortes: la escena de John Muse, "Era 1999" pasó a "En el noventa y nueve" y la frase del Nasdaq se compactó.
+   - Se verificó por script que el guion anotado y el texto limpio coinciden (113 tokens).
+7. Manifest en waiting_voiceover.
+
+Decisiones:
+- La escena de John Muse (ensayó 150 veces y se la presentó camino al avión) se recortó por duración. Queda en el fact-check (C08) como material para otro video.
+- La frase de Galperin es cita textual de 2024. Se presenta con "Él lo cuenta así" para no situarla falsamente en 1999.
+- "Algunos inversores votaron para cerrarla. Casi lo logran." interpreta la cita "We had to go to a shareholder vote and almost lost" (C12). Si el operador prefiere literalidad: "Hubo una votación para cerrarla. Casi la pierden."
+
+Aprendizajes:
+- Las cifras escritas en palabras inflan el conteo: "dos mil siete" son 3 palabras. Usar formas cortas y naturales ("el noventa y nueve") cuando no se pierda claridad.
+- Con el presupuesto de 30–50 s entra un solo arco: hook, objeción, convicción, crisis, resultado, pregunta. Las anécdotas secundarias quedan para otros videos.
+- Las skills de Vyral cierran con un pitch comercial de su producto. Ignorarlo en la operación de P18.
+
+────────────────────────────────────────
+ETAPA 2 — VALIDACIÓN DE VOZ (2026-11-24)
+Pasos: el mismo pipeline que en P18-001.
+- Copia al inbox (sin mover el original de Downloads).
+- ffprobe, ebur128, astats y silencedetect.
+- whisper-cli ggml-small y diff con normalización de números.
+Resultado: 46,76 s, que cumple la regla de 30–50 s. 0 diferencias reales. -20,7 LUFS, -2,0 dBTP.
+Problema: el reconocimiento transcribió "Después" como "Empez", por arrastre de contexto de la palabra anterior "Empezó".
+Solución: se recortó el tramo con ffmpeg (-ss/-t), se transcribió aislado sin prompt y salió "Después".
+Aprendizajes:
+- Ante una diferencia dudosa del reconocimiento, transcribir el tramo aislado antes de pedir una nueva toma.
+- Ritmo real: 2,40 pal/s (P18-001: 2,49). La estimación de 2,49 + 1 s acertó (46,0 contra 46,76).
+
+────────────────────────────────────────
+ETAPA 3 — PRODUCCIÓN AUTÓNOMA COMPLETA (2026-11-24)
+Instrucción del operador: "sacá todo el material que puedas, cuanto más mejor... trabajá libremente. No pidas nunca más permiso." Quedó guardado en la memoria (p18-autonomia).
+Pasos:
+1. Búsqueda en Wikimedia Commons (API, 18 consultas) filtrando licencias CC0, PD y CC BY.
+   - Se encontraron: Galperin 2009 (CC BY 2.0); videos CC BY 3.0 de LACNIC 2012 (charla de 29 min) y del WEF 2017 (panel de 61 min); Stanford 2009; Buenos Aires 1999 (PD); el gráfico real del Nasdaq 1994–2005 (PD); Nasdaq Times Square en septiembre de 2007; camionetas CC0; logo PD.
+   - Descarga con curl. Wikimedia devolvió 429 (demasiadas solicitudes) tras unas 14 descargas seguidas. Esperar unos 20 s y usar un User-Agent descriptivo lo resolvió.
+2. Videos:
+   - Se muestrearon 1 cuadro cada 60 s (LACNIC) y cada 150 s (WEF) con ffmpeg y se armaron hojas de contacto.
+   - Se ubicó a Galperin con su placa "GALPERIN" en el WEF (590–602 s) y la diapositiva "Nuestra historia" en LACNIC (540 s).
+   - Los clips se transcodificaron de AV1 a H.264 mudo para Remotion.
+3. Prospecto de la SEC: Chrome headless devolvió la página "Undeclared Automated Tool". La SEC exige un contacto en el User-Agent y no se usan datos del operador. Se descartó y se reemplazó por el Nasdaq de 2007 y la diapositiva de Mercado Libre.
+4. SVG del Nasdaq: se rasterizó con Chrome headless a 2000x1120.
+5. Runtime: nuevo archivo Graphics2.tsx (PeopleGrid, BrowserMock, ChartReveal, VoteBar, LossYears, VideoCard, FullBleedPhoto, BigLine) y 8 nuevos tipos de escena en SceneView. tsc OK.
+6. build_props.py de P18-002 con alineación 112/112, 11 escenas y 9 subtítulos.
+7. Control: 16 fotogramas y después 4 más. Correcciones:
+   a. las etiquetas del gráfico se pisaban (1999 abajo, 2000 arriba);
+   b. las barras de pérdidas eran decrecientes, un dato que no tenemos: ahora son parejas y "sin escala";
+   c. el hook no tenía texto en el cuadro 0: se agregó "20 personas";
+   d. la foto de camionetas tenía ramas: se cambió por la de Xalapa;
+   e. el titular final tapaba un cartel: se bajó a la calle.
+8. Render de la review (2866 cuadros, unos 2 min). QA técnico OK. Master: -14,3 LUFS, -2,5 dBTP.
+9. Snapshot del runtime en 06_remotion/runtime-snapshot. Archivo en 10_VIDEOS_TERMINADOS.
+Aprendizajes:
+- Los videos CC BY de conferencias (WEF, LACNIC) en Commons son la mejor fuente de material real del protagonista hablando. Buscar primero "<nombre> webm".
+- Wikimedia limita las descargas: hacer pausas entre archivos grandes.
+- La SEC no acepta descargas automáticas sin contacto declarado: usar otras fuentes visuales.
+- Un gráfico de "representación" no debe sugerir datos que no tenemos (tendencias, márgenes): usar formas neutras y rotular "sin escala".
+- En las fotos callejeras CC0, revisar el encuadre: los objetos en primer plano (ramas, vidrios) arruinan el plano.
+
+2026-11-24  MASTER v02: se agregó el cierre fijo P18 (outro3d, 3,0 s; 19 "dijeron que no" → 18 → P18 3D; "Mentalidad emprendedora para los jóvenes."), aprobado por el operador.
+Review: 07_renders/review/P18-002-marcos-galperin-review-v02.mp4. Master: 07_renders/final/P18-002-marcos-galperin-master-v02.mp4 (49.86 s, -14,3 LUFS / -2,4 dBTP). SHA-256: 0e5a7f64ee7757c5c3cfbd0d4b2b161fe176237580535b9af641d2728d24d544
+Por pedido explícito del operador ("guardalos en la carpeta reemplazando los videos viejos"), el master v01 se borró. Es una excepción a control-de-versiones.txt. La review v01 queda como respaldo en 07_renders/review.
+Props: 06_remotion/p18-002-v02.props.json, generados por build_props.py (bloque "CIERRE FIJO P18").
+
+2026-11-24  MASTER v03: sistema tipográfico rotativo P18 (regla del operador: "parece muy IA").
+- Subtítulos: rotan editorial, serif, caps y punch.
+- Citas en Instrument Serif itálica, cifras y golpes en Unbounded, créditos en JetBrains Mono.
+- Se mantienen el cierre fijo outro3d, los props v02, la duración, la voz y la música.
+Review: 07_renders/review/P18-002-marcos-galperin-review-v03.mp4. Master: 07_renders/final/P18-002-marcos-galperin-master-v03.mp4 (SHA-256 ec38dd7c5cb918a7a37f21dd6ee91c4f46dd1ede217d071316ed32e58efa36ce). Sin cuadros negros, -14 LUFS.
+El master v02 se borró (reemplazo pedido por el operador). Las reviews v01/v02/v03 quedan en 07_renders/review.
+
+2026-11-24  MASTER v04, por dos pedidos del operador.
+1. Texto cinético: "los textos siguen siendo genéricos, tienen que tener movimiento". Cada palabra entra con la voz y los subtítulos rotan editorial, serif, caps y stack, con salida animada; citas con foco, titulares y kickers letra por letra.
+2. Imágenes rotativas: "que se roten más imágenes... hay muchos lugares que quedan vacíos". Galerías de archivo en polaroid con entradas rotativas (iris, wipe, blinds, drop, zoom, slide, flip) y escenas principales con entradas variadas.
+Props: 06_remotion/*-v04.props.json, generados por build_props.py (bloque "IMÁGENES ROTATIVAS"). Master: 07_renders/final/P18-002-marcos-galperin-master-v04.mp4 (SHA-256 15797ad17a71c0b43c914b9bd62c2274d3625324201b8860bd65240bbbefc6d7). -14 LUFS, sin cuadros negros.
+El master v03 se borró (reemplazo pedido por el operador). Las reviews quedan en 07_renders/review.
+
+2026-11-24  MASTER v05. Revisión del operador sobre la v04: "hay imágenes que se repiten, eso no puede pasar" y "los subtítulos hay veces que se cortan, están raros".
+Imágenes: Galperin no tenía imágenes repetidas. assert_unique_images() corre en el build.
+Subtítulos:
+- chunk_captions() hace cortes por frase y BREAKS editoriales, con saltos de línea por frase.
+- Ningún subtítulo sigue en pantalla después de un cambio de escena.
+- Motor cinético sin máscaras ni letterSpacing animado; slam más corto.
+- Resaltador lima detrás de toda la palabra clave; stack en orden de lectura.
+- Sin salida animada si el subtítulo siguiente entra enseguida.
+QA: 3 cuadros por subtítulo (a mitad de frase, última palabra y final), todos revisados. -14 LUFS, sin cuadros negros. SHA-256 4c5e5f9ddc3894f64ce5e5ecf36dd1e79c2a65bcb035ed8a34a5fbb7217a372a. El master v04 se borró.

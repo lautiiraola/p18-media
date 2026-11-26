@@ -1,0 +1,963 @@
+# Nació en la provincia más pobre, pero llegó a CEO de JPMorgan | Nicolás Aguzin — Epifanía Podcast - Nicolás Aguzin
+# idioma: es · duración: 1:34:37.0 · texto: faster-whisper medium
+# formato: [inicio – fin] (segundos para plan.json) texto
+
+[00:00.0 – 00:02.4] (0.0–2.4) Me gustaría saber cómo hizo un chico de Formosa
+[00:02.4 – 00:07.2] (2.4–7.2) para terminar siendo el CEO de JP Morgan para Latinoamérica y Asia.
+[00:07.5 – 00:11.0] (7.5–11.0) Estuve trabajando bastante tiempo, pero finalmente me hicieron una oferta
+[00:11.0 – 00:13.5] (11.0–13.5) y creo que fue tan difícil para mí entrar a ese trabajo
+[00:13.5 – 00:16.5] (13.5–16.5) que después me terminé quedando 31 años.
+[00:16.7 – 00:21.1] (16.7–21.1) ¿Cómo hace alguien que viene del campo para soñar tan a lo grande?
+[00:21.4 – 00:25.5] (21.4–25.5) Mis padres tenían la esperanza de que yo pueda aprender a hablar inglés.
+[00:26.2 – 00:29.3] (26.2–29.3) Entonces ellos decían, nosotros no vamos a comer si es necesario,
+[00:29.3 – 00:31.9] (29.3–31.9) pero nuestros hijos van a tener una buena educación.
+[00:32.1 – 00:33.6] (32.1–33.6) Creo que nunca habrá pensado mi padre
+[00:33.6 – 00:36.7] (33.6–36.7) que iba a terminar en Asia en algún momento ni yo tampoco.
+[00:37.0 – 00:39.1] (37.0–39.1) Generalmente, yo siempre digo que la magia ocurre
+[00:39.1 – 00:41.4] (39.1–41.4) cuando uno sale de fuera de la zona de confort.
+[00:41.6 – 00:45.7] (41.6–45.7) También hay un componente muy grande de suerte en todo esto.
+[00:45.8 – 00:47.3] (45.8–47.3) ¿Qué opinión te deja la meritocracia?
+[00:47.6 – 00:49.3] (47.6–49.3) Sí, a mí me encanta la meritocracia.
+[00:49.4 – 00:50.8] (49.4–50.8) Yo tuve que trabajar muchísimo.
+[00:50.9 – 00:52.2] (50.9–52.2) O sea, hubo muchos años
+[00:52.2 – 00:54.7] (52.2–54.7) donde prácticamente no tenía ningún fin de semana libre.
+[00:54.9 – 00:58.4] (54.9–58.4) No hay, digamos, un atajo al hecho de trabajar fuerte.
+[00:58.4 – 01:01.4] (58.4–61.4) Se dice que JP Morgan quiere mucho a los argentinos.
+[01:01.7 – 01:04.3] (61.7–64.3) En la mesa chica de cinco, en un momento llegó a haber dos argentinos.
+[01:04.4 – 01:07.3] (64.4–67.3) En Argentina estás muy acostumbrado a rebúscartelas.
+[01:07.5 – 01:10.2] (67.5–70.2) En alguna reunión con Jamie estábamos y Jamie dice,
+[01:10.3 – 01:12.0] (70.3–72.0) un momento, ustedes son todos de Argentina
+[01:12.0 – 01:15.0] (72.0–75.0) y cómo es posible estar manejando JP Morgan
+[01:15.0 – 01:16.7] (75.0–76.7) y que no pueden manejar muy bien su país.
+[01:17.2 – 01:20.1] (77.2–80.1) Y en una entrevista dijiste que llegaste hasta a dormir en la calle.
+[01:20.2 – 01:21.9] (80.2–81.9) No tenía dinero en ese momento
+[01:21.9 – 01:24.5] (81.9–84.5) y no tenía ninguna intención de pedirle dinero a mis padres.
+[01:24.7 – 01:27.6] (84.7–87.6) Fuiste parte de muchas operaciones grandes acá en el país.
+[01:27.6 – 01:30.3] (87.6–90.3) como Techin, Coca-Cola y Arcor.
+[01:30.8 – 01:33.0] (90.8–93.0) ¿Cuál es la que recordas con más cariño?
+[01:33.0 – 01:35.5] (93.0–95.5) Me pones en un conflicto. ¿A qué hijo quiero más?
+[01:35.6 – 01:37.9] (95.6–97.9) ¿Te acordás la conversación en la que te dicen
+[01:37.9 – 01:39.4] (97.9–99.4) por qué no te vas a China?
+[01:39.6 – 01:41.8] (99.6–101.8) Al principio yo decía que raro, porque yo...
+[01:41.8 – 01:43.1] (101.8–103.1) ¿Están queriendo vender gato por libre?
+[01:43.8 – 01:46.8] (103.8–106.8) ¿Qué querías? ¿Cuál era tu sueño en aquel momento?
+[01:46.9 – 01:48.6] (106.9–108.6) Sí, está bueno ganar un poquito más,
+[01:49.0 – 01:55.2] (109.0–115.2) pero de alguna manera nunca, nunca el dinero o la compensación
+[01:55.2 – 01:59.3] (115.2–119.3) era el principal driver de las decisiones que yo tomaba.
+[01:59.5 – 02:02.1] (119.5–122.1) En ese momento era más o menos 60.000 millones de dólares.
+[02:02.3 – 02:05.9] (122.3–125.9) Al final siempre hay alguien que te viene y te baja el jopete.
+[02:06.7 – 02:08.2] (126.7–128.2) ¿Y te lo bajaron alguna vez fuerte?
+[02:08.4 – 02:09.5] (128.4–129.5) Sí, muchísimas veces.
+[02:09.6 – 02:13.1] (129.6–133.1) ¿Cómo llega la oportunidad de liderar la bolsa de comercio de Hong Kong?
+[02:15.3 – 02:18.4] (135.3–138.4) En Epifanía escuchás cómo otros construyeron sus negocios,
+[02:18.6 – 02:22.9] (138.6–142.9) pero me encantaría que también sea el lugar donde empiece tu propia historia.
+[02:23.1 – 02:25.2] (143.1–145.2) Por eso armamos un diagnóstico gratuito
+[02:25.2 – 02:31.8] (145.2–151.8) para ayudarte a encontrar tu mejor próximo paso, ya sea que estés arrancando o quieras crecer tu negocio.
+[02:32.0 – 02:37.4] (152.0–157.4) En menos de dos minutos respondes siete preguntas sobre tu situación, tus recursos y lo que querés construir
+[02:37.4 – 02:42.1] (157.4–162.1) y en base a toda la información que recolectamos de todas las entrevistas de Epifanía,
+[02:42.3 – 02:45.1] (162.3–165.1) te vamos a dar una recomendación concreta para avanzar.
+[02:45.3 – 02:49.6] (165.3–169.6) Lo encontrarás en el primer link de la descripción o en el QR que tenés en pantalla.
+[02:49.9 – 02:51.1] (169.9–171.1) Seguimos con la entrevista.
+[02:51.9 – 02:54.3] (171.9–174.3) Bienvenido, Nicolás. Muchísimas gracias por su tiempo.
+[02:54.3 – 02:57.9] (174.3–177.9) me gustaría que se presente sin decir su nombre ni su cargo.
+[02:58.4 – 03:07.0] (178.4–187.0) Hola, ¿qué tal Gonzalo? Soy un argentino que vivió por todo el mundo tratando de conectar
+[03:07.0 – 03:13.8] (187.0–193.8) diferentes culturas y tratando de ver cómo puedo transmitir al resto de la gente,
+[03:14.2 – 03:21.3] (194.2–201.3) especialmente un área que me entretiene mucho es ver cómo emprendedores van creciendo y
+[03:21.3 – 03:26.5] (201.3–206.5) valor, tratando de conectar ideas que surgieron en diferentes partes del mundo.
+[03:27.0 – 03:27.8] (207.0–207.8) ¿Lo puedo totear?
+[03:28.2 – 03:29.0] (208.2–209.0) Sí, por supuesto.
+[03:29.6 – 03:32.5] (209.6–212.5) Gracias, Nicolás. Me gustaría saber cómo hizo un
+[03:32.5 – 03:38.1] (212.5–218.1) chico de Formosa que se fue a Quilmes a estudiar inglés para terminar siendo
+[03:38.1 – 03:42.4] (218.1–222.4) el CEO de JP Morgan para Latinoamérica y Asia.
+[03:43.2 – 03:49.2] (223.2–229.2) La primera parte cuando mencionaste que se fue de Formosa a Quilmes,
+[03:50.4 – 03:55.8] (230.4–235.8) sí es verdad que fui de Formosa a Quilmes, pero no es que yo tomé la iniciativa de irme de Formosa
+[03:55.8 – 04:03.9] (235.8–243.9) a Quilmes. Mis padres tenían la esperanza de que yo pueda aprender a hablar inglés y había en
+[04:03.9 – 04:11.2] (243.9–251.2) Argentina, hay todavía un colegio muy importante que se llama el colegio San Jorge que es Pupilo
+[04:11.8 – 04:18.0] (251.8–258.0) y que tienen muy buen inglés, entonces él había investigado un poquitito y había descubierto
+[04:18.0 – 04:24.6] (258.0–264.6) que eso era el que era probablemente el mejor lugar donde yo podía hablar inglés y además como ellos
+[04:24.6 – 04:30.8] (264.6–270.8) vivían en Formosa, mi familia vivía en Formosa, era conveniente porque es pupilo el colegio.
+[04:31.7 – 04:36.8] (271.7–276.8) Entonces ellos decían yo nosotros no vamos a comer si es necesario pero nuestros hijos van
+[04:36.8 – 04:42.6] (276.8–282.6) a tener una buena educación y él tenía este sueño de que aprenda a hablar inglés así que
+[04:42.6 – 04:49.7] (282.6–289.7) me mandó al San Jorge. Yo no estaba muy contento porque tenía 10 años y la verdad que cuando fui
+[04:49.7 – 04:59.5] (289.7–299.5) extrañaba muchísimo. Así que fue difícil. A veces cuando volvíamos, yo le decía por favor,
+[04:60.0 – 05:08.0] (300.0–308.0) si puedo quedarme en Formosa sería bárbaro, pero lo charlábamos y él me explicaba que eso era
+[05:08.0 – 05:11.7] (308.0–311.7) muy importante para el futuro. Todo era muy duro para ellos también, porque obviamente ellos
+[05:11.7 – 05:17.7] (311.7–317.7) también me extrañaban muchísimo. O sea que eso fue la primera parte. El hecho de poder estar en
+[05:18.7 – 05:24.8] (318.7–324.8) este colegio donde no solo aprendía inglés sino que me interactuaba con gente de un montón de
+[05:24.8 – 05:33.2] (324.8–333.2) diferentes provincias y además nacionalidades y tener esa exposición casi internacional desde
+[05:33.2 – 05:40.8] (333.2–340.8) Argentina porque era siempre desde Argentina, me permitió aspirar un poquito más y decir me
+[05:40.8 – 05:46.4] (340.8–346.4) ir a Estados Unidos, yo no había estado nunca en Estados Unidos y empecé a averiguar cómo funcionaban
+[05:46.4 – 05:53.1] (346.4–353.1) los temas de Estados Unidos, averiguar los institutos que hay en Argentina en ese momento,
+[05:53.6 – 05:59.2] (353.6–359.2) era ICANA, era uno de los lugares donde uno iba a averiguar y averigüe sobre Estados Unidos y
+[06:00.2 – 06:05.6] (360.2–365.6) qué universidades podían ser. Mandé aplicaciones, por suerte me fueron, me fue muy bien en esas
+[06:05.6 – 06:10.0] (365.6–370.0) aplicaciones y en algunos de los exames que hay que hacer. Eso no fue suerte, fue mérito
+[06:10.5 – 06:16.7] (370.5–376.7) Bueno, claro, sí, sí, yo iba a ser médico igual que mi papá, papá era médico, entonces ahora está
+[06:17.6 – 06:25.2] (377.6–385.2) retirado, entonces siempre hasta último año iba a ser médico y a último momento un poco, a mí
+[06:25.2 – 06:31.3] (385.2–391.3) siempre me gustaban, no sé, me gustaban los negocios y fui a mi padre, ahí sí fue un poquito
+[06:31.3 – 06:38.7] (391.3–398.7) más iniciativa mía y le dije mira no voy a ser médico, estoy pensando cambiar más hacia finanzas
+[06:39.3 – 06:47.3] (399.3–407.3) economía y negocios y me gustaría ir a Estados Unidos. Y a pesar de que él no le gustó mucho la
+[06:47.3 – 06:53.9] (407.3–413.9) parte de que no sea médico, sí le divertía un poco la idea de Estados Unidos. Así que empezamos
+[06:53.9 – 07:00.8] (413.9–420.8) a ver cómo podíamos hacer y emprendimos esta aventura en Estados Unidos, que fue muy bueno.
+[07:01.0 – 07:04.7] (421.0–424.7) Fui a la universidad en Estados Unidos, una universidad que se llama la Universidad
+[07:04.7 – 07:11.7] (424.7–431.7) Pennsylvania y tiene una escuela de negocios que se llama Wharton y estudié ahí cuando salí de la
+[07:12.9 – 07:17.2] (432.9–437.2) universidad y cuando estaba terminando estaba buscando trabajo tampoco fue tan fácil, fue un
+[07:17.2 – 07:23.3] (437.2–443.3) proceso bastante difícil la búsqueda laboral porque yo me recibí en el año 89-90 que no
+[07:23.7 – 07:33.8] (443.7–453.8) era no era un año muy muy bueno había una recesión internacional y entonces estuve buscando
+[07:33.8 – 07:37.5] (453.8–457.5) trabajo bastante tiempo pero finalmente me hicieron una oferta por suerte era un banco
+[07:37.5 – 07:41.8] (457.5–461.8) bastante bueno mucho más chico de lo que es hoy eran menos de 10.000 personas en ese momento
+[07:41.8 – 07:48.3] (461.8–468.3) es JP Morgan y creo que fue tan difícil para mí entrar a ese trabajo que después me terminé
+[07:48.3 – 07:56.0] (468.3–476.0) quedando 31 años tengo que hacer la pregunta ahora JP Morgan JP JP cuál es la forma correcta
+[07:56.0 – 08:05.7] (476.0–485.7) decirlo en Argentina. Bueno, en realidad todos los Morgan vienen casi del mismo origen hace más de
+[08:05.7 – 08:14.4] (485.7–494.4) 100 años. Que eran JP Morgan y Morgan Stanley. Claro, inicialmente eran uno, era digamos era Morgan
+[08:14.4 – 08:21.1] (494.4–501.1) y era la casa de Morgan de alguna manera que se tuvieron que dividir en dos cuando hubo ciertas
+[08:21.1 – 08:24.9] (501.1–504.9) regulaciones en Estados Unidos que no permitían hacer lo que es banca de inversión y banca
+[08:24.9 – 08:31.9] (504.9–511.9) y entonces se dividieron ahí en lo que es JP Morgan, que significa JP Morgan, JP Morgan,
+[08:32.3 – 08:38.4] (512.3–518.4) y por el otro lado Morgan Stanley, pero en esa división, en ese acuerdo, el que se quedó con
+[08:38.4 – 08:44.8] (518.4–524.8) la posibilidad de decir Morgan nada más es JP Morgan, que es la parte de bancas de inversión,
+[08:46.4 – 08:50.1] (526.4–530.1) perdón, la parte de banca comercial, la parte de banca de inversión es Morgan Stanley,
+[08:50.1 – 09:00.1] (530.1–540.1) y después en los 80 empezaron a flexibilizarse las regulaciones y básicamente cualquier banco
+[09:00.1 – 09:07.5] (540.1–547.5) podía aplicar para hacer las dos actividades y lo que era el antiguo Morgan Guarantee que era la
+[09:07.5 – 09:12.7] (547.5–552.7) parte de banca comercial empezó a ser también banca de inversión y ahí es como después hizo
+[09:12.7 – 09:19.8] (552.7–559.8) muchas adquisiciones se fusionó con Chase, Bank One y finalmente es JP Morgan que es un
+[09:19.8 – 09:23.7] (559.8–563.7) universal hoy por hoy que tiene banca comercial y banca de inversión. Tu
+[09:23.7 – 09:29.3] (563.7–569.3) abuelo trabajaba en el campo, se vino de Croacia. Tu padre fue universitario y se
+[09:29.3 – 09:33.9] (569.3–573.9) recibió de oftalmólogo trabajando en Formosa. Vos terminaste liderando la bolsa
+[09:33.9 – 09:41.1] (573.9–581.1) de comercio de Hong Kong. ¿Cómo hace alguien que viene del campo para soñar
+[09:41.1 – 09:48.2] (581.1–588.2) tan a lo grande? Creo que el gran valor fue la apreciación que tuvo mi
+[09:49.4 – 09:56.3] (589.4–596.3) vuelo primero por buscar nuevos horizontes y buscar cómo expandirse él cuando vino acá no no no no
+[09:56.3 – 10:01.2] (596.3–601.2) obviamente no conocía mucho de argentina lo pusieron en un tren y lo mandaron al norte no
+[10:01.2 – 10:09.3] (601.2–609.3) creo que sepa muy muy bien donde iba y terminó en un campo cultivando básicamente cosechando
+[10:09.3 – 10:14.1] (609.3–614.1) algodón porque se vino de croacia porque había mucha pobreza en europa en ese momento al
+[10:14.1 – 10:22.2] (614.1–622.2) de los 1900, había muchísima pobreza y las Américas en general era tierra de oportunidades.
+[10:23.0 – 10:28.7] (623.0–628.7) Entonces el ser un poquito aventurero y decir voy a esta aventura, él vino a Argentina y nunca
+[10:28.7 – 10:33.9] (628.7–633.9) más volvió a, digamos, a Croacia, nunca más vio a su familia. La verdad que uno piensa de los
+[10:33.9 – 10:38.4] (633.9–638.4) sacrificios que hacemos hoy por hoy, pero en esa época, hace 100 años, se hacían unos sacrificios
+[10:38.4 – 10:46.3] (638.4–646.3) increíbles porque él vino lógicamente sin absolutamente nada y nunca más volvió a ver
+[10:46.3 – 10:50.8] (646.3–650.8) esas familias, sus padres por supuesto se escribían cartas, había visto muchas cartas que iban y
+[10:50.8 – 11:01.4] (650.8–661.4) volvían y generó una familia que mi padre era el más chico de cuatro hermanos, una familia
+[11:01.4 – 11:08.1] (661.4–668.1) excelente la verdad que mis tíos todos muy bien, todos muy trabajadores y mi padre al ser el
+[11:08.1 – 11:14.3] (668.1–674.3) chico, creo que tuvo la oportunidad de estudiar porque era el más chico, entonces todos podían
+[11:14.3 – 11:20.4] (674.3–680.4) seguir trabajando y mi padre por suerte era el que le dieron esa oportunidad de estudiar,
+[11:22.1 – 11:28.9] (682.1–688.9) no solamente la secundaria, la primaria, secundaria, sino que además hizo universidad y él decidió que
+[11:28.9 – 11:35.1] (688.9–695.1) quería ser el médico, el doctor de la familia, así que ahí se notó ese progreso y la visión
+[11:35.1 – 11:43.1] (695.1–703.1) también de mi padre, de mi abuelo, de incentivar a que mi padre estudiase. Mi padre vio todo eso y
+[11:43.1 – 11:49.2] (703.1–709.2) muy pronto fue dándose cuenta de la importancia de la educación. Entonces él quería progresar
+[11:49.2 – 11:53.8] (709.2–713.8) un poquitito más y ver que, bueno, no es solo que hagan la escuela y la universidad sino que
+[11:53.8 – 12:00.1] (713.8–720.1) además que aprendan inglés. En ese momento ese era el punto. ¿Por qué? O sea tu padre la vio,
+[12:00.1 – 12:08.0] (720.1–728.0) con el diario el lunes era el inglés. Pero, ¿por qué crees que era su opuesta? O sea, ¿qué veía él en el inglés en aquel momento? Porque hoy es obvio, pero en ese momento no.
+[12:08.3 – 12:21.1] (728.3–741.1) Sí, yo creo que mi padre también es un poquitito aventurero y a él le hubiese encantado poder hacer un poco de recorrer el mundo y su sensación, él tiene una gran admiración
+[12:22.3 – 12:30.6] (742.3–750.6) por occidente, por lo que estaba haciendo Estados Unidos, y de alguna forma dijo aprendiendo inglés,
+[12:30.8 – 12:35.5] (750.8–755.5) uno se va a poder manejar en prácticamente cualquier, en cualquier parte del mundo. Creo
+[12:35.5 – 12:40.0] (755.5–760.0) que nunca habrá pensado mi padre que iba a terminar en Asia en algún momento, ni yo tampoco,
+[12:40.6 – 12:48.2] (760.6–768.2) porque por supuesto mi objetivo era más hacia Estados Unidos, y el hecho de que se estaba
+[12:49.0 – 12:54.6] (769.0–774.6) transformando en un idioma casi universal, él tenía esa aspiración y fue visionario,
+[12:54.7 – 13:01.2] (774.7–781.2) sí, la verdad que sí. Y el hecho de empujarme a ir al San Jorge, algo que fue súper difícil
+[13:01.2 – 13:05.9] (781.2–785.9) para él económicamente, súper, súper difícil para toda mi familia y que fue también
+[13:05.9 – 13:11.9] (785.9–791.9) muy difícil para, desde el punto de vista emocional, eso creo que fue una parte
+[13:11.9 – 13:12.5] (791.9–792.5) importante.
+[13:13.7 – 13:20.2] (793.7–800.2) El año pasado oíste un discurso por los 40 años de tu ingreso y dijiste que el lugar
+[13:20.2 – 13:24.1] (800.2–804.1) donde empezás no determina dónde terminás. ¿A qué te referís con eso?
+[13:25.5 – 13:33.7] (805.5–813.7) En el sentido que, nuevamente, yo empecé en Buenos Aires y mi vida constantemente
+[13:33.7 – 13:41.6] (813.7–821.6) fue cambiando en base a tratar de aprovechar esas bifurcaciones que surgen a veces
+[13:42.3 – 13:45.8] (822.3–825.8) intencionalmente, como el hecho de que yo quise irme intencionalmente a Estados
+[13:45.8 – 13:52.0] (825.8–832.0) Unidos o a veces por accidente, como me resultó la oportunidad de ir a Asia,
+[13:52.1 – 13:55.6] (832.1–835.6) que era algo que yo no estaba necesariamente buscando o la oportunidad
+[13:55.6 – 13:57.4] (835.6–837.4) de manejar la bolsa de comercio de Hong Kong.
+[13:57.5 – 13:59.4] (837.5–839.4) Tampoco era algo que estaba buscando.
+[14:00.5 – 14:03.8] (840.5–843.8) Y eso genera unas oportunidades
+[14:04.3 – 14:09.2] (844.3–849.2) que si uno mantiene la mente abierta a esas nuevas experiencias.
+[14:09.2 – 14:17.1] (849.2–857.1) y más importante, la mente abierta a sentirse incómodo porque en muchas de estas partes yo
+[14:17.1 – 14:21.3] (857.1–861.3) estaba cómodo, obviamente estaba cómodo en Formosa cuando me tocó ir a Buenos Aires,
+[14:21.5 – 14:27.5] (861.5–867.5) estaba cómodo en Buenos Aires cuando estaba terminando la secundaria y estaba cómodo cuando
+[14:27.5 – 14:33.5] (867.5–873.5) estaba manejando Latinoamérica y me tenía que ir a Asia y estaba cómodo en JP Morgan cuando
+[14:33.5 – 14:38.6] (873.5–878.6) se me presentó la oportunidad de manejar la bolsa de comercio de Hong Kong, pero ponernos
+[14:38.6 – 14:44.9] (878.6–884.9) poquito en esa zona, fuera de la zona de confort, generalmente yo siempre digo que la magia ocurre
+[14:44.9 – 14:56.5] (884.9–896.5) cuando uno sale de fuera de la zona de confort. Si a tu familia no le faltó algo, fueron ganas de
+[14:57.0 – 15:01.7] (897.0–901.7) progresar, porque tu abuelo como ya dijimos trabajaba en el campo, tu padre fue universitario
+[15:01.7 – 15:07.7] (901.7–907.7) médico y vos terminaste siendo CEO de una empresa multinacional, que le dirías a alguien
+[15:07.7 – 15:15.8] (907.7–915.8) que dice que no existe la ascendencia social. Todas las situaciones son diferentes y yo
+[15:16.2 – 15:22.5] (916.2–922.5) obviamente tengo una apreciación muy grande por lo que yo pude pasar. También hay un componente
+[15:22.5 – 15:29.5] (922.5–929.5) muy grande de suerte en todo esto. Digamos, han pasado muchas cosas y tuve suerte, pero lo
+[15:29.5 – 15:35.5] (929.5–935.5) bueno también es aprovechar muchas situaciones. Para mí lo más importante es que en todo este
+[15:37.6 – 15:43.0] (937.6–943.0) mucho de las cosas buenas que a mí me pasaron en realidad fueron gracias a terceros alrededor mío,
+[15:44.0 – 15:51.6] (944.0–951.6) gente que me acompañó, que me asesoró bien, que me pudo apoyar. Entonces lo más importante que yo
+[15:51.6 – 15:58.6] (951.6–958.6) transmitiría a la gente que piensa, digamos, cómo hacer esto es cuando uno está pensando en
+[16:00.2 – 16:05.5] (960.2–965.5) en terceros, en los demás, es cuando las cosas buenas pasan. En realidad, muchas de las cosas
+[16:05.5 – 16:12.6] (965.5–972.6) que me pasaron a mí, el éxito no viene a través de uno mismo, viene a través de terceros. Entonces,
+[16:13.0 – 16:22.2] (973.0–982.2) gran parte de mi foco, a veces sin querer o a veces no, es cómo hacer que las situaciones en
+[16:22.2 – 16:26.6] (982.2–986.6) donde yo estoy siempre tratar de hacerlo mejor de la gente que está alrededor mío. En el
+[16:26.6 – 16:36.0] (986.6–996.0) por ejemplo, yo pienso en mis colegas, en, por supuesto, quiero dejar que mi jefe siempre
+[16:36.0 – 16:41.2] (996.0–1001.2) luzcan bien cuando trabajaba para mi jefe, eso lo que sea, pero más importante en la medida que uno
+[16:41.2 – 16:50.4] (1001.2–1010.4) iba ascendiendo, iba teniendo gente que trabajaba para uno y siempre el mensaje que trataba yo
+[16:50.4 – 16:56.1] (1010.4–1016.1) de transmitir es que nosotros trabajamos para la gente de abajo nuestro, o sea nuestro rol
+[16:56.1 – 17:01.5] (1016.1–1021.5) es asegurarnos que esa gente pueda hacer su trabajo de la mejor manera posible.
+[17:02.0 – 17:06.8] (1022.0–1026.8) Si ellos hacen su trabajo muy muy bien, de alguna manera a uno le termina yendo bien y
+[17:06.8 – 17:12.3] (1026.8–1032.3) se terminan generando esas oportunidades. Entonces muchas veces las oportunidades no
+[17:12.3 – 17:16.7] (1032.3–1036.7) se dan por uno mismo, sino que por lo que pasa con la gente alrededor tuyo,
+[17:16.8 – 17:21.0] (1036.8–1041.0) los que están al lado tuyo, los que están abajo tuyo, esos son muy muy importantes.
+[17:21.7 – 17:27.7] (1041.7–1047.7) yo en mis primeros nueve años de carrera, durante esos nueve años tuve siempre un jefe diferente,
+[17:28.6 – 17:34.9] (1048.6–1054.9) nueve años, nueve jefes diferentes, entonces no es que hubo una persona que dijo bueno a esta
+[17:34.9 – 17:40.8] (1054.9–1060.8) persona la vamos a apoyar y vamos a asegurarnos que surja para adelante, entonces era como crear
+[17:40.8 – 17:47.4] (1060.8–1067.4) ese ambiente donde los colegas, la gente que está alrededor de uno, todos van bien y si todos
+[17:47.4 – 17:53.2] (1067.4–1073.2) cuando la María sube sube para todos de alguna manera y eso termina generando las oportunidades
+[17:53.2 – 18:01.7] (1073.2–1081.7) entonces claramente hay muchísimos ejemplos yo soy uno de los ejemplos pero hay muchísimos ejemplos
+[18:01.7 – 18:08.9] (1081.7–1088.9) de gente que progresó y alguna gente inclusive mucho más que yo entonces yo creo que hay
+[18:10.2 – 18:14.9] (1090.2–1094.9) posibilidades puede haber gente que tengan no tal vez no tanta suerte pero hay que hay que
+[18:15.7 – 18:21.4] (1095.7–1101.4) estar dispuesto a tomar los riesgos para que que poder aprovechar alguna de las
+[18:22.1 – 18:26.6] (1102.1–1106.6) las bisagras que se abren en la vida para para las personas yo soy partidario de
+[18:26.6 – 18:30.8] (1106.6–1110.8) que la suerte se crea con mérito y te voy a dar un ejemplo puntual que yo
+[18:30.8 – 18:34.5] (1110.8–1114.5) creo que vos tuviste suerte de ser el hijo menor que tuvo la posibilidad
+[18:34.5 – 18:39.8] (1114.5–1119.8) tu padre tuvo suerte de ser el hijo menor que tuvo la posibilidad de
+[18:39.8 – 18:44.4] (1119.8–1124.4) estudiar pero fue gracias al mérito de su padre y de su familia de
+[18:44.4 – 18:50.1] (1124.4–1130.1) para que lo haga. Entonces el mérito de uno fue la suerte del otro. ¿Qué opinión te deja la
+[18:50.1 – 18:55.4] (1130.1–1135.4) meritocracia? Sí, a mí me encanta la meritocracia. Me encanta la meritocracia desde el punto de
+[18:55.4 – 19:02.6] (1135.4–1142.6) vista que es un sistema de incentivos para que la sociedad avance de la mejor manera posible.
+[19:04.5 – 19:11.4] (1144.5–1151.4) Lógicamente hay situaciones donde uno dice, bueno, tal vez no es justo para una persona o
+[19:11.4 – 19:17.8] (1151.4–1157.8) otra persona cierto tipo de injusticia de la vida siempre hay, hay en todo aspecto de la vida de la
+[19:17.8 – 19:26.2] (1157.8–1166.2) sociedad de alguna forma, pero si tenemos que en promedio buscar una forma de hacer que la
+[19:26.2 – 19:34.3] (1166.2–1174.3) sociedad en un total vaya mejorando, generar un sistema de incentivos a través de la meritocracia
+[19:34.3 – 19:38.5] (1174.3–1178.5) Me parece que es la mejor forma que la sociedad en un conjunto avance.
+[19:39.9 – 19:43.4] (1179.9–1183.4) Es verdad que digamos que yo tuve que trabajar muchísimo.
+[19:43.6 – 19:49.9] (1183.6–1189.9) O sea, yo cuando era más joven y recién empezaba a trabajar en JP Morgan,
+[19:51.1 – 19:54.7] (1191.1–1194.7) hubo muchos años donde prácticamente no tenía ningún fin de semana libre.
+[19:55.0 – 19:57.5] (1195.0–1197.5) O sea, y la cantidad de horas que uno trabajaba
+[19:57.5 – 19:59.8] (1197.5–1199.8) normalmente era más de 100 horas por semana.
+[20:01.8 – 20:08.8] (1201.8–1208.8) entonces era realmente difícil al principio. Después uno seguía trabajando más,
+[20:08.8 – 20:12.8] (1208.8–1212.8) tal vez con un poquito más de flexibilidad porque podía trabajar tal vez los fines de semana leyendo
+[20:12.8 – 20:18.0] (1212.8–1218.0) desde la casa o cosas por el estilo, pero sí durante los últimos 35 años que yo estuve
+[20:18.0 – 20:25.9] (1218.0–1225.9) trabajando el trabajo era sin duda algo muy muy muy duro. Hay un sistema de competencia muy
+[20:25.9 – 20:35.8] (1225.9–1235.8) en la industria financiera donde básicamente hay una situación donde la persona que más se
+[20:35.8 – 20:43.7] (1235.8–1243.7) sacrifica y que más competencia va generando durante competencia como conocimiento va generando,
+[20:43.8 – 20:52.2] (1243.8–1252.2) más va subiendo hacia arriba. Y especialmente en JP Morgan yo me siento que es una institución
+[20:52.2 – 21:01.2] (1252.2–1261.2) donde yo no vi muchos prejuicios. O sea, yo llegando con tal vez relativamente poco
+[21:01.2 – 21:07.1] (1261.2–1267.1) expertise internacional, me dieron una oportunidad. Inmediatamente me vi en Argentina,
+[21:07.2 – 21:10.4] (1267.2–1270.4) estuve en Argentina, pero después me dieron la oportunidad de ir a Estados Unidos.
+[21:11.3 – 21:15.5] (1271.3–1275.5) Y la verdad, sin que yo lo busque mucho, después me terminé yendo a Asia.
+[21:15.9 – 21:20.1] (1275.9–1280.1) Esa es una oportunidad que me dio JP Morgan y no es que yo tenía un contacto especial
+[21:20.7 – 21:27.0] (1280.7–1287.0) alguna persona específica que conocía o algo por el estilo. Se dice que JP Morgan quiere mucho
+[21:27.0 – 21:31.7] (1287.0–1291.7) los argentinos, en la mesa chica de cinco en un momento llegó a haber dos argentinos. Sí,
+[21:31.7 – 21:37.9] (1291.7–1297.9) sí, cómo funcionaba es en realidad JP Morgan está estructurado que hay líneas de negocios,
+[21:38.9 – 21:45.8] (1298.9–1305.8) diferentes líneas de negocios y después tenemos la parte geográfica donde hay continentes y
+[21:45.8 – 21:49.8] (1305.8–1309.8) básicamente fuera de Estados Unidos, que no sea Estados Unidos, hay tres regiones.
+[21:50.0 – 21:52.2] (1310.0–1312.2) Tenemos la región de América Latina,
+[21:52.6 – 21:57.5] (1312.6–1317.5) tener la región de Europa, África y Medio Oriente y después Asia y Oceanía.
+[21:58.2 – 22:01.7] (1318.2–1321.7) En un momento yo manejaba lo que es América Latina.
+[22:02.8 – 22:04.0] (1322.8–1324.0) Esto fue hasta el 2012.
+[22:04.1 – 22:08.4] (1324.1–1328.4) Después, cuando me pidieron de ir a Asia, el sucesor mío fue una persona que
+[22:08.4 – 22:13.7] (1328.4–1333.7) se llama Martín Marrón, también es de Argentina y él manejaba Argentina.
+[22:13.7 – 22:21.0] (1333.7–1341.0) y por un tiempo, perdona Argentina Latinoamérica, por un momento Martín Marrón manejaba Latinoamérica,
+[22:21.8 – 22:28.0] (1341.8–1348.0) yo manejaba Asia y Oceanía y otra persona que eventualmente después terminó siendo
+[22:28.0 – 22:33.1] (1348.0–1353.1) prácticamente el número 2 de JP Morgan, Daniel Pinto terminó, él manejaba en ese momento todo
+[22:33.1 – 22:39.4] (1353.1–1359.4) lo que era Europa, África y Medio Oriente, entonces se dio una coincidencia que todas las
+[22:39.4 – 22:46.3] (1359.4–1366.3) excepto estados unidos estaban de alguna forma manejado por argentinos y si la anécdota que
+[22:46.3 – 22:52.3] (1366.3–1372.3) conté un par de veces es que en alguna reunión con Jamie estábamos y Jamie dice un momento
+[22:52.3 – 22:59.1] (1372.3–1379.1) ustedes son todos de argentina y cómo es posible estar manejando JP Morgan y no manejan
+[22:59.1 – 23:05.2] (1379.1–1385.2) no pueden manejar muy bien su país puede manejar las finanzas globales pero no puede
+[23:05.2 – 23:12.2] (1385.2–1392.2) manejar su política. Era un poquito un chiste que le hacías. Que Jamie Dimon es el presidente. El
+[23:12.2 – 23:21.3] (1392.2–1401.3) CEO de JP Morgan. Global. Global, durante los últimos, no sé, más de 20 años, 21 años,
+[23:21.3 – 23:27.2] (1401.3–1407.2) creo que fue. Y Daniel Pinto, si no me equivoco, hoy es el jefe de operaciones. Daniel Pinto fue
+[23:27.2 – 23:33.3] (1407.2–1413.3) durante un tiempo presidente de JP Morgan, título de presidente y Chief Operating Officer.
+[23:33.3 – 23:39.0] (1413.3–1419.0) O sea que es como, fundamentalmente era el número 2. Sí, sí, número 2. Pero ahora está en proceso ahora de
+[23:41.7 – 23:48.1] (1421.7–1428.1) buscar unos nuevos horizontes, algo similar a lo que estoy haciendo yo. Bueno, lo podemos traer y
+[23:48.1 – 23:54.2] (1428.1–1434.2) que nos cuente también. Sí, absolutamente. ¿Cómo fue tu llegada a Estados Unidos con 18, 19 años,
+[23:55.3 – 24:01.8] (1435.3–1441.8) siendo un argentino oriundo de Formosa, formado en Quilmes, llegando a una de las
+[24:01.8 – 24:05.9] (1441.8–1445.9) universidades de negocios más prestigiosas de Estados Unidos para hacer el college aparte
+[24:05.9 – 24:12.8] (1445.9–1452.8) en un MBA rodeado de muchos de los mejores estudiantes del mundo y también de muchos
+[24:12.8 – 24:13.5] (1452.8–1453.5) americanos.
+[24:14.2 – 24:14.5] (1454.2–1454.5) Sí, sí.
+[24:14.6 – 24:16.1] (1454.6–1456.1) ¿Cómo fue ese primer día?
+[24:16.2 – 24:24.2] (1456.2–1464.2) Sí, yo llegué con 17 años y tenía tanto entusiasmo por esta aventura que sí yo
+[24:24.2 – 24:29.9] (1464.2–1469.9) me había estudiado absolutamente todo, conocía la universidad ya de memoria, sin
+[24:29.9 – 24:35.1] (1469.9–1475.1) necesidad de haber estado ya conocí absolutamente dónde estaban todos los diferentes salas, los
+[24:35.1 – 24:43.2] (1475.1–1483.2) edificios en la biblioteca, los gimnasios y estaba digamos muy entusiasmado. ¿Qué pasa?
+[24:43.2 – 24:49.5] (1483.2–1489.5) El sistema de universidades de Estados Unidos es un sistema en el cual todos hacen exactamente
+[24:49.5 – 24:56.2] (1489.5–1496.2) lo mismo. Yo era por ahí un poco más chiquitito porque empecé el colegio y la escuela bastante
+[24:56.2 – 25:04.6] (1496.2–1504.6) chico también, entonces fui con 17 años a la universidad y básicamente fue una experiencia
+[25:04.6 – 25:09.7] (1504.6–1509.7) extraordinaria porque uno llega y están todos en la misma. En Estados Unidos todos se van a
+[25:09.7 – 25:15.3] (1509.7–1515.3) distintos estados a estudiar, no estudian donde nacieron, o sea la gente que generalmente hace
+[25:15.3 – 25:22.2] (1515.3–1522.2) la universidad tiende a irse a otros estados, entonces para todos era como un nuevo comienzo
+[25:22.2 – 25:27.2] (1522.2–1527.2) y estábamos todos en la misma y no había tanta gente internacional.
+[25:27.4 – 25:30.2] (1527.4–1530.2) En ese momento, yo calculo que no sé, 10, 20 por ciento de los estudiantes
+[25:30.2 – 25:31.9] (1530.2–1531.9) eran internacionales.
+[25:31.9 – 25:34.3] (1531.9–1534.3) El resto eran americanos, pero venían de otros estados.
+[25:35.8 – 25:39.7] (1535.8–1539.7) A mí me encantó, digamos, la apertura de la gente.
+[25:39.9 – 25:43.7] (1539.9–1543.7) No me fue muy difícil de alguna forma de hacerme amigos, porque
+[25:45.2 – 25:49.5] (1545.2–1549.5) yo estaba nuevamente en el San Jorge, que ya había tenido alguna exposición
+[25:49.5 – 25:58.0] (1549.5–1558.0) diferentes estilos culturales y me encantó la idea de poder elegir las materias que quiero tomar,
+[25:58.4 – 26:03.0] (1558.4–1563.0) de tener mucha flexibilidad. En Estados Unidos se tiene mucha flexibilidad en cuanto al camino
+[26:03.0 – 26:10.1] (1563.0–1570.1) que uno va eligiendo, no es tan estructurado que si uno decide hacer abogacía entonces tiene que
+[26:10.1 – 26:15.5] (1570.1–1575.5) hacer este tipo de materias y todo. Hay ciertos requisitos pero mucha flexibilidad en las materias
+[26:15.5 – 26:22.3] (1575.5–1582.3) hay que tomar y el énfasis es un poquito distinto, es un poco como que una vez que estás en la
+[26:22.9 – 26:27.9] (1582.9–1587.9) universidad no es tanto focalizarse en que quiero quiero pasar la materia, todo el mundo
+[26:27.9 – 26:34.0] (1587.9–1594.0) prácticamente pasan las materias, no es un problema, es más que nada donde puedo aprender
+[26:34.0 – 26:39.2] (1594.0–1599.2) más, ok? ¿Qué materias debería tomar que me van a dar lo mejor? Yo tomé un montón de
+[26:39.2 – 26:44.1] (1599.2–1604.1) materias que eran nada que ver con finanzas y la verdad que eso me ayudó mucho a abrir
+[26:44.1 – 26:52.3] (1604.1–1612.3) mi horizonte. Y fue una experiencia muy muy buena, digamos. Obviamente extrañaba mucho a mis padres
+[26:52.3 – 27:01.0] (1612.3–1621.0) hacer una llamada a Argentina, salía carísimo, o sea, salía más de un dólar por minuto. Y en
+[27:01.0 – 27:06.7] (1621.0–1626.7) esos momentos, en ese momento era muy, mucho, mucho dinero. Así que yo trataba de hacer una
+[27:06.7 – 27:12.7] (1626.7–1632.7) llamada con mis padres todos los domingos y hacerla durar lo más poquito posible. Tenías
+[27:12.7 – 27:18.7] (1632.7–1638.7) escrito lo que vas a decir. Les cuento, les cuento. Y eso fue una costumbre que adquirimos y hasta el
+[27:18.7 – 27:24.3] (1638.7–1644.3) día de hoy yo todos los domingos hablo con mis padres. ¿Por qué Wharton? Porque hice un poquito
+[27:25.3 – 27:33.4] (1645.3–1653.4) de investigación sobre cuáles son las universidades que tienen programas de negocios en lo que se
+[27:33.4 – 27:39.5] (1653.4–1659.5) llama el undergraduate que es la universidad diferente del máster y bueno había un ranking de
+[27:40.5 – 27:48.3] (1660.5–1668.3) de criterios o factores que yo iba poniendo y Wharton era como la para undergraduate la mejor de
+[27:48.9 – 27:57.5] (1668.9–1677.5) Estados Unidos en lo que es finanzas y negocios. Y no aplicaste a otras? No, sí apliqué, apliqué
+[27:57.5 – 28:02.1] (1677.5–1682.1) varias, apliqué a un montón de universidades, apliqué a cuatro universidades. Pero la que más
+[28:02.1 – 28:07.5] (1682.1–1687.5) quería hacer a Wharton. Claro, la que más quería. En realidad tuve mucha suerte que justo porque
+[28:07.5 – 28:11.8] (1687.5–1691.8) uno estaba en Argentina entonces no es que tenía todas las universidades en ese momento había que
+[28:11.8 – 28:16.7] (1691.8–1696.7) pedir los aplicaciones por correo, venían por correo, se tardaba mucho. Yo tuve un problema
+[28:16.7 – 28:21.8] (1696.7–1701.8) que como yo tenía mi dirección de Formosa en ese momento, tenía todo puesto Formosa,
+[28:22.7 – 28:29.5] (1702.7–1709.5) muchos de mis contestaciones y cartas en vez de venir a Formosa Argentina iban a
+[28:29.5 – 28:33.9] (1709.5–1713.9) Taiwán porque Taiwán también se llamaba Formosa. Entonces las cartas me tardaban como
+[28:33.9 – 28:38.3] (1713.9–1718.3) tres meses en llegar muchas veces y cuando llegaba me llegaban con un cartel que decía que habían sido
+[28:39.1 – 28:47.6] (1719.1–1727.6) mandadas equivocadamente a Taiwán así que eso fue mi primera experiencia geográfica. Yo hubiera dicho
+[28:47.6 – 28:51.5] (1727.6–1731.5) que tardaba lo mismo de Estados Unidos a Buenos Aires que de Buenos Aires a Formosa pero no,
+[28:51.9 – 28:56.7] (1731.9–1736.7) de Estados Unidos a Taiwán. De Taiwán volví entonces sí lo que me pasó es que las
+[28:56.7 – 29:01.7] (1736.7–1741.7) contestaciones me acuerdo eran para el 15 de abril tenían que contestarme se me habían
+[29:01.7 – 29:09.7] (1741.7–1749.7) aceptado y eran tipo 20 de abril y no me habían contestado y les decía que habrá pasado. Y bueno
+[29:09.7 – 29:15.4] (1749.7–1755.4) después tipo un poquito más tarde ya llamé a la universidad y me decía no si se debería haber
+[29:15.4 – 29:19.8] (1755.4–1759.8) recibido no sé qué y las recibí como a fines de abril cuando me quedaba poquito tiempo ya
+[29:19.8 – 29:25.6] (1759.8–1765.6) para aceptar y por suerte las otras tres ya me habían aceptado entonces estaba ok ya
+[29:25.6 – 29:32.1] (1765.6–1772.1) digamos, una alternativa secundaria, pero mi primera opción era Wharton. ¿Y tuviste algún shock
+[29:32.1 – 29:40.8] (1772.1–1780.8) cultural llegando a estudiar a Estados Unidos y cuál? ¿Cuál fue el mayor? Hubo muchos choques
+[29:40.8 – 29:46.1] (1780.8–1786.1) culturales a través de mi vida y de diferentes experiencias. En Estados Unidos a mí lo que me
+[29:46.1 – 29:53.4] (1786.1–1793.4) sorprendió más es que en Argentina estábamos muy acostumbrados a las clases, era todo el
+[29:53.4 – 30:00.8] (1793.4–1800.8) de alumnos actuaban bastante uniformemente y lo que me impresionó mucho en Estados Unidos fue que la
+[30:00.8 – 30:11.0] (1800.8–1811.0) diversidad de formas de ver el mundo de los alumnos y la facilidad con que se ponía estaban
+[30:11.0 – 30:15.8] (1811.0–1815.8) en desacuerdo con algo que uno decía en las clases había mucho de participación entonces
+[30:15.8 – 30:21.9] (1815.8–1821.9) teníamos algunas cosas que se llamaban como seminar seminarios y donde eran clases chicas
+[30:23.2 – 30:28.3] (1823.2–1828.3) 15 alumnos, a veces inclusive más chicas y había mucha charla, mucha discusión,
+[30:28.5 – 30:35.1] (1828.5–1835.1) mucha interacción con los profesores y cuando uno daba una opinión era muy
+[30:35.1 – 30:39.6] (1835.1–1839.6) común que salte otro alumno y diga no, no, estoy totalmente en desacuerdo con
+[30:39.6 – 30:44.4] (1839.6–1844.4) lo que dijo Nicolás y yo creo que esto y yo me acuerdo que en el colegio
+[30:44.4 – 30:47.9] (1844.4–1847.9) no era tanto que pasaba eso, o sea, jamás un alumno iba a decir estoy
+[30:47.9 – 30:54.2] (1847.9–1854.2) desacuerdo con el otro alumno, acá era una cultura más de debatir y eso fue un
+[30:54.2 – 30:57.6] (1854.2–1857.6) poquito choqueante porque al principio yo pensé esta
+[30:57.6 – 31:02.6] (1857.6–1862.6) persona me está casi que agrediendo y no es una cuestión de
+[31:02.6 – 31:06.1] (1862.6–1866.1) agresión, es simplemente que está planteando un punto de vista y después
+[31:06.1 – 31:10.2] (1866.1–1870.2) cuando terminara clase charlábamos y hablábamos y todo bien, entonces eso
+[31:10.2 – 31:16.5] (1870.2–1876.5) fue un poquito un choque cultural y el resto también hubo
+[31:16.5 – 31:21.7] (1876.5–1881.7) algunas otras cosas, pero en general la verdad que bastante fue relativamente fácil para
+[31:21.7 – 31:26.1] (1881.7–1886.1) mí adaptarme al sistema. Es parte de la idiosincrasia americana muy
+[31:26.1 – 31:29.9] (1886.1–1889.9) reflejada en su periodismo de la búsqueda de la verdad y si vos no la tenés te lo
+[31:29.9 – 31:34.8] (1889.9–1894.8) discuto a muerte. Cuando en otros lados capaz es más todas las opiniones valen entonces
+[31:34.8 – 31:40.8] (1894.8–1900.8) es mucho menos confrontativo. Inclusive después seguramente vamos a hablar
+[31:40.8 – 31:45.5] (1900.8–1905.5) de eso en un momento pero si te vas para Asia es bastante diferente el pensamiento
+[31:46.7 – 31:51.7] (1906.7–1911.7) Y esto va a ser algo difícil de responder pero te voy a dar el permiso. Ok. Y es que
+[31:51.7 – 31:57.3] (1911.7–1917.3) vos destacaste en la universidad. Sí, sí, me fue bien, me fue relativamente bien. Tampoco fui,
+[31:57.3 – 32:03.7] (1917.3–1923.7) digamos, de los mejores alumnos del top one percent o algo por el estilo, pero estaba,
+[32:04.6 – 32:10.8] (1924.6–1930.8) estaba, digamos, relativamente bien. Nunca tuve ningún problema. La verdad es que lo que sí,
+[32:10.9 – 32:14.9] (1930.9–1934.9) yo hice en la universidad un poquito más rápido de lo normal, en el sentido que yo
+[32:14.9 – 32:20.0] (1934.9–1940.0) prácticamente a los tres años ya había cumplido con todos los requisitos entonces tomé un poco más
+[32:20.0 – 32:25.5] (1940.0–1945.5) materias que lo normal porque mi prioridad era tratar de terminar un poco más rápido porque si yo
+[32:25.5 – 32:30.9] (1945.5–1950.9) terminaba más rápido básicamente el último año casi no tuve que pagar nada o sea me salió
+[32:30.9 – 32:35.9] (1950.9–1955.9) prácticamente gratis porque me quedaba tomar una materia entonces pero sí podía aprovechar a
+[32:35.9 – 32:39.8] (1955.9–1959.8) seguir participando de todo lo de la universidad era un tema simplemente de costo de ver cómo
+[32:39.8 – 32:46.1] (1959.8–1966.1) como hacía más eficiente el costo, yo tenía que tratar de minimizar el máximo el costo. Así que
+[32:46.1 – 32:50.9] (1966.1–1970.9) mi foco era ver cómo hacían la mayor cantidad de materias en cada semestre. Claro, no te fuiste a
+[32:50.9 – 32:55.7] (1970.9–1975.7) hacer amigos, te fuiste a progresar y a encerrarte a estudiar. Sí, pero también aproveché a hacer
+[32:55.7 – 33:00.6] (1975.7–1980.6) muchas cosas extracurriculares, participaba en deportes, estaba en el equipo de rugby de la
+[33:01.0 – 33:07.7] (1981.0–1987.7) universidad, estaba también jugando. ¿Destacabas ahí? Sí. Mira, de casualidad después de mí,
+[33:07.7 – 33:11.1] (1987.7–1991.1) Yo no lo conocía ahora, por supuesto, lo conozco mucho y soy muy amigo de él,
+[33:11.6 – 33:15.8] (1991.6–1995.8) pero Marcos Galperín fue inmediatamente después de mí, OK?
+[33:16.3 – 33:19.9] (1996.3–1999.9) Y él, él era el capitán del equipo de rugby.
+[33:20.5 – 33:24.2] (2000.5–2004.2) O sea, y cuando él estuvo salieron campeones de campeones,
+[33:24.5 – 33:27.3] (2004.5–2007.3) de todo lo que se llaman las Ivy Leagues.
+[33:27.6 – 33:29.5] (2007.6–2009.5) Durante mi época no éramos muy buenos.
+[33:30.9 – 33:34.9] (2010.9–2014.9) Yo era, digamos, más o menos me dio creer, un poquitito chico.
+[33:35.0 – 33:37.0] (2015.0–2017.0) Yo era Scrum Half, jugaba a Scrum Half
+[33:37.0 – 33:42.0] (2017.0–2022.0) y era ok, no te diría que era de lo mejorcito que hay,
+[33:42.1 – 33:46.4] (2022.1–2026.4) mientras que Marcos era buenísimo y él era el capitán del equipo y lo sacó campeón.
+[33:47.5 – 33:50.3] (2027.5–2030.3) Hubo pesadillas en el sueño americano y cuando te recibiste,
+[33:50.5 – 33:53.9] (2030.5–2033.9) Estados Unidos no estaba en su mejor momento, más bien en una recesión.
+[33:55.4 – 33:59.5] (2035.4–2039.5) Y en una entrevista dijiste que llegaste hasta a dormir en la calle durante ese tiempo.
+[33:59.9 – 34:00.9] (2039.9–2040.9) ¿Cómo fue esa experiencia?
+[34:02.8 – 34:04.9] (2042.8–2044.9) Bueno, era una época difícil, creo yo.
+[34:04.9 – 34:10.8] (2044.9–2050.8) La parte más difícil es la presión que uno mismo se pone, porque yo había,
+[34:11.5 – 34:15.7] (2051.5–2055.7) o sea, mis padres y toda mi familia hicieron muchísimos sacrificios para que yo tenga
+[34:15.7 – 34:20.4] (2055.7–2060.4) esta oportunidad de estudiar en Estados Unidos y yo me sentía como que, bueno,
+[34:20.5 – 34:23.9] (2060.5–2063.9) había ido a Estados Unidos y cómo era posible que no podía conseguir trabajo.
+[34:24.8 – 34:29.2] (2064.8–2069.2) Entonces, fui a la mejor universidad de Estados Unidos prácticamente para
+[34:29.2 – 34:33.8] (2069.2–2073.8) negocio y que me estaba consiguiendo, me estaba haciendo tan difícil eso.
+[34:33.8 – 34:41.4] (2073.8–2081.4) parte también era de que el sistema americano es muy estructurado en cómo conseguir trabajo y cómo
+[34:41.4 – 34:47.6] (2081.4–2087.6) uno va de primer año segundo año tercer año cuarto año yo no conocí ese sistema entonces no
+[34:47.6 – 34:54.2] (2087.6–2094.2) no me di cuenta hasta un poquito tarde y por eso me costó un poco más y la presión propia que
+[34:54.2 – 34:59.9] (2094.2–2099.9) uno se ponía decir cómo es posible que después todo el sacrificio y todo esto yo no estoy
+[34:59.9 – 35:08.5] (2099.9–2108.5) consiguiendo, digamos, trabajo tan... y me cuesta tanto. Entonces, y además, siendo realista, yo no
+[35:08.5 – 35:13.4] (2108.5–2113.4) tenía dinero, digamos, en ese momento y no tenía ninguna intención de pedirle dinero a mis padres,
+[35:13.9 – 35:19.0] (2113.9–2119.0) por lo cual lo que hacía es me quedaba en casa de amigos. Cuando yo entrevistaba, la mayoría de
+[35:19.0 – 35:24.2] (2119.0–2124.2) las entrevistas eran en Nueva York, yo estaba en Filadelfia, pero como te comenté, yo el
+[35:24.2 – 35:28.3] (2124.2–2128.3) último semestre, digamos, prácticamente no tenía clases, entonces pasaba mucho tiempo en
+[35:28.3 – 35:33.8] (2128.3–2133.8) York, pero conocía gente de la universidad que vivía en Nueva York y me quedaba con ellos. Ahora
+[35:33.8 – 35:38.1] (2133.8–2138.1) qué pasaba, a veces venía un pariente, venía alguien y me decían, che, esta noche no te puedes
+[35:38.1 – 35:46.0] (2138.1–2146.0) quedar en casa. Hubo momentos en que me tuve que no tenía donde quedarme y obviamente no podía
+[35:46.0 – 35:52.4] (2146.0–2152.4) pagar un hotel, entonces me tocó quedarme en algún lugar, digamos, calentito, pero porque
+[35:53.0 – 35:59.5] (2153.0–2159.5) era más que nada la parte de invierno y sí un par de noches dormí en la calle no estaba en la
+[35:59.5 – 36:05.0] (2159.5–2165.0) calle pero me metía en unos paliers entre la primera entrada y la segunda entrada y me quedaba
+[36:05.0 – 36:11.7] (2165.0–2171.7) ahí porque no tenía otro lugar donde estar. Sí esa parte fue bastante dura fue una de las
+[36:11.7 – 36:16.7] (2171.7–2176.7) partes más duras que era hasta que yo tenía que conseguir trabajo finalmente surgió una
+[36:16.7 – 36:22.4] (2176.7–2182.4) oportunidad que era muy buena está el JP Morgan y bueno aproveché. O sea me gusta hacer foco
+[36:22.4 – 36:28.8] (2182.4–2188.8) porque siempre es el cuento perfecto de todo lo que salió bien, pero me imagino que en aquel momento
+[36:28.8 – 36:35.4] (2188.8–2195.4) en el paliero, ocupando el edificio de alguna persona que no sabe quién sos, diciendo me
+[36:36.0 – 36:41.3] (2196.0–2201.3) fue a Buenos Aires, me vine a Estados Unidos, me fue bien. Supuestamente cumplí con todo lo que
+[36:41.3 – 36:45.2] (2201.3–2205.2) tenía que cumplir y no consigo trabajo, estoy acá durmiendo, ¿qué está pasando?
+[36:45.2 – 36:54.4] (2205.2–2214.4) como si te cuento que la forma en que yo lo veía es como que un poco la cuando uno está en ese
+[36:54.4 – 37:00.3] (2214.4–2220.3) momento sí es duro no era que me divertía no era que estaba contento haciendo esto pero pero la
+[37:00.3 – 37:04.7] (2220.3–2224.7) realidad es que yo lo veía como que es lo que hay que hacer de punto o sea simplemente hoy
+[37:04.7 – 37:11.2] (2224.7–2231.2) que mala suerte justo no tengo dónde quedarme bueno que hago donde me quedo no lo pensaba
+[37:11.2 – 37:19.3] (2231.2–2239.3) tanto y que duro que difícil no tenía tanta conciencia después hoy por hoy pienso y digo
+[37:19.3 – 37:26.5] (2239.3–2246.5) y que horror lo que lo que hice en ese momento pero pero la verdad es que uno estaba tratando todo
+[37:26.5 – 37:32.5] (2246.5–2252.5) el tiempo yo siempre estaba muy concentrado en lo que tenía que hacer y es como que en mi familia
+[37:32.5 – 37:39.2] (2252.5–2259.2) mi mujer especialmente me dice a veces que tengo alguna de estos afecciones mentales que me enfoco
+[37:39.2 – 37:43.2] (2259.2–2263.2) algo tanto y estoy tan enfocado que me olvido de lo que está pasando, entonces cuando yo digo no,
+[37:43.3 – 37:52.9] (2263.3–2272.9) tengo que concentrarme en esto, me olvido de todo el resto. Y la verdad es que yo no era como,
+[37:54.3 – 37:58.5] (2274.3–2278.5) después viéndolo en perspectiva, decía qué barbaridad esto, pero en ese momento yo estaba
+[37:58.5 – 38:03.3] (2278.5–2283.3) bueno, hay que hacerlo, me acuesto y estaba listo. Es lo que hay que hacer. No es que lo
+[38:03.3 – 38:09.0] (2283.3–2289.0) pensaba demasiado. Cuando estabas en el recreo de la facultad, ¿a qué aspirabas estudiando
+[38:09.0 – 38:14.4] (2289.0–2294.4) No sabías que vas a terminar en el JP Morgan, ¿qué querías? ¿Cuál era tu sueño en aquel momento?
+[38:16.5 – 38:25.0] (2296.5–2305.0) En ese momento, como yo fui a una universidad que hacía finanzas y hacía negocios,
+[38:25.3 – 38:32.3] (2305.3–2312.3) estaba empezando a surgir todo lo que era fusiones y adquisiciones y cosas por el estilo,
+[38:32.3 – 38:40.1] (2312.3–2320.1) y había varias películas de Wall Street en ese momento. Y la verdad que a mí me interesaba,
+[38:40.2 – 38:45.7] (2320.2–2325.7) me daba mucha curiosidad de ese mundo. No sé si quería hacerlo para siempre. Mi idea es, wow,
+[38:45.8 – 38:49.8] (2325.8–2329.8) qué divertido esto por ahí lo hago por unos años y después voy a hacer algún máster o algo
+[38:49.8 – 38:56.2] (2329.8–2336.2) por el estilo. Pero sí, me fascinaba la idea de pensar en algo y lo que sí me gustaba en
+[38:56.2 – 39:02.2] (2336.2–2342.2) ese momento mucho es la parte de fusiones y adquisiciones. Y cuando empecé en JP Morgan no
+[39:02.2 – 39:07.5] (2342.2–2347.5) una posibilidad en el grupo de fusiones adquisiciones terminé siendo la parte de crédito ok crédito y
+[39:07.5 – 39:11.9] (2347.5–2351.9) argentina porque en argentina en ese momento necesitaban a alguien pero hice crédito por
+[39:11.9 – 39:18.6] (2351.9–2358.6) uno o dos años y después fácilmente pude irme cambiándome hacia la parte de de banca de
+[39:19.8 – 39:25.4] (2359.8–2365.4) inversión y y en fin me fui después fui a la parte de fusiones adquisiciones que era mi
+[39:25.4 – 39:31.2] (2365.4–2371.2) objetivo recién el 96 es cuando yo pude empezar a trabajar en fusiones adquisiciones y en el
+[39:32.2 – 39:38.5] (2372.2–2378.5) 99 junto con un colega me hicieron cojefe de todo el área de fusiones y adquisiciones para América
+[39:39.5 – 39:45.1] (2379.5–2385.1) Latina. JP Morgan es famoso por su training program. ¿Qué es lo que más recordas del tuyo?
+[39:45.6 – 39:50.2] (2385.6–2390.2) Sí, la verdad que eso fue una experiencia impresionante. Fueron seis meses, o sea,
+[39:50.4 – 39:58.8] (2390.4–2398.8) esto fue en el año 91 y me dicen de irme a Nueva York a hacer ese training program. Imagínate,
+[39:58.8 – 40:05.3] (2398.8–2405.3) nos vamos, éramos como 120 personas de todo el mundo, de distintos países, todos reuniéndose en
+[40:05.3 – 40:12.0] (2405.3–2412.0) Nueva York. Nos daban departamento donde, o sea, había un edificio donde vivíamos, cada uno tenía
+[40:12.0 – 40:19.3] (2412.0–2419.3) asignado un departamentito, chiquitito, pero era increíble estar en Nueva York. No tenías que
+[40:19.3 – 40:24.1] (2419.3–2424.1) trabajar, simplemente estabas como en clases por seis meses y te daban entrenamiento trayendo
+[40:24.1 – 40:28.8] (2424.1–2428.8) los mejores profesores de todas las universidades de Estados Unidos para enseñarte. Entonces,
+[40:28.8 – 40:35.2] (2428.8–2435.2) para mí eso fue como un MBA acelerado, un MBA en seis meses y lo más importante es que pude
+[40:35.2 – 40:41.7] (2435.2–2441.7) conocer gente que después me ayudó durante la carrera en progresar, en conocer gente alrededor
+[40:41.7 – 40:49.6] (2441.7–2449.6) del mundo. Una de las experiencias más lindas que tuve y también más fructíferas porque no
+[40:49.6 – 40:54.0] (2449.6–2454.0) solo me pagaban todos, sino que además estaba ahí con este grupo de divertido en Nueva York,
+[40:54.2 – 40:57.6] (2454.2–2457.6) sin tener que trabajar en el día a día solamente estudiando. Y como yo venía de Wharton,
+[40:58.3 – 41:04.9] (2458.3–2464.9) estaba un poquito mejor preparado que la mayoría, porque en Estados Unidos los bancos como JP Morgan,
+[41:04.9 – 41:09.1] (2464.9–2469.1) no solo contratan gente que hizo economía y finanzas, contratan gente que hizo literaturas,
+[41:09.1 – 41:14.0] (2469.1–2474.0) que hizo matemáticas, que hizo cualquier otra cosa. Y después le dan este programa
+[41:14.0 – 41:16.9] (2474.0–2476.9) de entrenamiento. Hoy por hoy los programas de entrenamiento son uno o dos meses, son mucho
+[41:16.9 – 41:23.9] (2476.9–2483.9) más cortitos, pero en ese momento eran muy muy largos. Y en aquel momento la gente se quedaba mucho tiempo.
+[41:24.4 – 41:30.3] (2484.4–2490.3) Si yo pienso en todos mis colegas, Martín Marrón, Daniel Pinto, todos los que mencionábamos, Facundo
+[41:30.3 – 41:37.0] (2490.3–2497.0) que está acá en la oficina de Buenos Aires, todos ellos han estado 30 años, 20 años, de 40 años,
+[41:37.0 – 41:42.4] (2497.0–2502.4) o sea es una muchísima tiempo. Entonces valía la pena hacer esos seis meses, pero una experiencia
+[41:43.6 – 41:50.8] (2503.6–2510.8) extraordinaria de generar esa cultura que hoy por hoy creo que se mantiene todavía en la empresa.
+[41:51.3 – 41:57.4] (2511.3–2517.4) Y yo sé que es difícil pero si podrías darle tu mayor aprendizaje a una persona que quiere
+[41:57.4 – 42:12.3] (2517.4–2532.3) pero no va a poder vivir ese training program ¿Qué le dirías? A ver, varias cosas. Número
+[42:12.3 – 42:18.0] (2532.3–2538.0) en un experto en el área en el que trabajas y eso requiere mucho tiempo digamos tenés que tener lo
+[42:18.0 – 42:26.3] (2538.0–2546.3) que yo digo competencia, conocimiento y entonces hay que prepararse muy bien, hay que leer mucho,
+[42:26.5 – 42:31.5] (2546.5–2551.5) hay que entender, charlar con gente, tratar de ver diferentes ángulos, tener esa curiosidad
+[42:31.5 – 42:39.1] (2551.5–2559.1) para seguir aprendiendo, entonces esa parte me parece muy muy bueno, tratar de generar esa
+[42:39.1 – 42:47.6] (2559.1–2567.6) conectividad con gente de distintos orígenes, de distintos países, de distintas formas de pensar.
+[42:48.2 – 42:54.5] (2568.2–2574.5) Para mí, tener esa flexibilidad de aceptar distintos puntos de vista, distintos conceptos,
+[42:54.8 – 43:00.5] (2574.8–2580.5) me ayudó muchísimo en mi carrera. Yo trato de no encasillarme, bueno, esto es blanco, negro,
+[43:00.7 – 43:06.9] (2580.7–2586.9) sino trato de ver diferentes ángulos. Para mí fue muy útil, creo que cada persona es
+[43:06.9 – 43:13.8] (2586.9–2593.8) distinta y tiene sus propias virtudes y defectos en mi caso el tratar de ver
+[43:13.8 – 43:18.2] (2593.8–2598.2) diferentes puntos de vista me ayudó muchísimo especialmente cuando tuve que
+[43:18.2 – 43:23.7] (2598.2–2603.7) irme a distintos lugares no como hacia y el otro punto es que uno lo veía
+[43:23.7 – 43:28.9] (2603.7–2608.9) estando rodeado de toda esta gente no hay digamos un atajo al hecho de
+[43:28.9 – 43:34.4] (2608.9–2614.4) trabajar fuerte o sea o sea yo no conozco prácticamente ninguno de mis
+[43:34.4 – 43:40.7] (2614.4–2620.7) excolegas o lo que sea que les haya ido bien sin trabajar realmente duro. Eso es una base. Y la
+[43:40.7 – 43:46.9] (2620.7–2626.9) otra y la última que digo también es el carácter. Una de las cosas más importantes la ética y
+[43:46.9 – 43:53.7] (2626.9–2633.7) mantener una conducta y mantener los principios. Yo iba cambiando de lugares, de países y las
+[43:53.7 – 43:59.4] (2633.7–2639.4) culturas y las costumbres van cambiando, pero los principios no cambian. Entonces, eso es,
+[43:59.4 – 44:02.4] (2639.4–2642.4) digamos, creo que son los principales aprendizajes de haber estado con este
+[44:02.4 – 44:08.4] (2642.4–2648.4) grupo de gente que me fueron inculcando en el tiempo. ¿Crees que fue un doble desafío triunfar
+[44:08.4 – 44:16.6] (2648.4–2656.6) en Wall Street siendo argentino? No, yo creo que teníamos ciertas desventajas porque tal
+[44:16.6 – 44:23.4] (2656.6–2663.4) vez no hablamos el idioma también, teníamos el mismo background, la misma historia que mucha
+[44:23.4 – 44:30.6] (2663.4–2670.6) gente que estaba con nosotros. A la vez teníamos ventajas los argentinos. O sea,
+[44:30.6 – 44:36.7] (2670.6–2676.7) en Argentina estás muy acostumbrado a re buscártelas, tenés que encontrarle la vuelta, hay que
+[44:36.7 – 44:45.0] (2676.7–2685.0) ser muy creativo, innovador, uno está siempre dado todas las crisis que tuvimos durante nuestro
+[44:45.0 – 44:52.1] (2685.0–2692.1) crecimiento, digamos, del 98, o sea después pasamos por el tequila 94, no tanto en Argentina
+[44:52.1 – 44:57.8] (2692.1–2697.8) pero sí en Latinoamérica que era donde yo estaba viendo en ese momento, o sea 94, 98,
+[44:57.8 – 45:06.0] (2697.8–2706.0) siempre venía alguna crisis, y como argentino estábamos un poquito mejor preparados para
+[45:06.0 – 45:11.1] (2706.0–2711.1) todas esas crisis, habíamos entendíamos el tema de precios, inflación, yo siempre digo que tengo
+[45:11.1 – 45:17.7] (2711.1–2717.7) un doctorado en inflación desde los cinco años prácticamente, así que esa era una ventaja porque
+[45:17.7 – 45:23.9] (2717.7–2723.9) en Argentina vivíamos con crisis y podíamos prepararnos mejor una de las cosas que cuando
+[45:24.6 – 45:30.1] (2724.6–2730.1) trabaja en un banco uno siempre está pensando en lo que llamamos los stress
+[45:30.1 – 45:34.8] (2730.1–2734.8) test que pasa en el peor de los escenarios si las cosas no salen bien
+[45:34.8 – 45:40.5] (2734.8–2740.5) cómo estoy preparado entonces es un instinto que uno tiene de siempre estar
+[45:40.5 – 45:46.3] (2740.5–2746.3) pensando ok soy optimista yo soy una persona muy optimista y positiva y
+[45:46.3 – 45:49.3] (2746.3–2749.3) siempre trato de ver la parte buena de las cosas pero en el fondo siempre
+[45:49.3 – 45:52.2] (2749.3–2752.2) llevamos ok cuál es el peor escenario que puede
+[45:52.2 – 45:56.5] (2752.2–2756.5) pasear entonces soy optimista transmito ese optimismo pero a la vez sé cuál es
+[45:56.5 – 46:00.6] (2756.5–2760.6) el peor escenario y lo que trato es no llegar a una situación donde no estoy
+[46:00.6 – 46:05.4] (2760.6–2765.4) acá para para poder digamos competir el día de mañana
+[46:06.2 – 46:09.3] (2766.2–2769.3) claro o sea siempre tienes que apuntar a lo mejor pero estar listo para lo
+[46:09.3 – 46:13.2] (2769.3–2773.2) peor exactamente ese es el mayor aprendizaje de ser argentino si si si
+[46:13.2 – 46:18.2] (2773.2–2778.2) absolutamente en los 90s fuiste parte de muchas operaciones grandes acá en
+[46:18.2 – 46:25.5] (2778.2–2785.5) país como texin, coca cola y arcor. ¿Cuál es la que recordas con más cariño?
+[46:27.4 – 46:34.9] (2787.4–2794.9) Me pones en un conflicto con todos los... ¿A qué hijo quiero más? Digamos de alguna manera. O sea,
+[46:35.0 – 46:48.2] (2795.0–2808.2) cada transacción tuvo muchas cosas divertidos. Claro, en ese momento era una, en el caso de
+[46:48.2 – 46:55.0] (2808.2–2815.0) ellos estaban expandiéndose en la parte de planos y había una época de privatizaciones. Ellos
+[46:55.0 – 47:00.0] (2815.0–2820.0) tenían una compañía que se llamaba propulsora siderúrgica y había una empresa que se llamaba
+[47:00.0 – 47:09.0] (2820.0–2829.0) Somisa del estado que se estaba privatizando y básicamente propulsora siderúrgica y Somisa se
+[47:09.0 – 47:17.0] (2829.0–2837.0) fusionaron y crearon lo que lo que hoy es sidrar. Creo no estoy muy al tanto de qué es lo que ha
+[47:17.0 – 47:24.4] (2837.0–2844.4) años, 30 años, pero en ese momento se llamaba Cider Art y era muy divertido. Yo era muy joven,
+[47:24.5 – 47:28.9] (2844.5–2848.9) tampoco era una transacción tan grande o tan significativa, pero yo era muy chico,
+[47:29.3 – 47:35.5] (2849.3–2855.5) yo estaba recién empezando y entonces me parecía fascinante. En Coca Cola, digamos,
+[47:35.7 – 47:45.9] (2855.7–2865.9) yo ayudé al grupo Coca Cola Femsa, que es el grupo de México, en entrar a Argentina. Ellos
+[47:45.9 – 47:52.6] (2865.9–2872.6) siguieron expandiendo. Después se ayudó a una empresa que se llamaba Panamco en venderse a
+[47:52.6 – 48:01.1] (2872.6–2881.1) Coca Cola Femsa y con Arcor a mí tenía mucha afinidad porque Arcor tenía su origen en Córdoba
+[48:01.1 – 48:09.4] (2881.1–2889.4) y mi mamá es de Córdoba y la verdad es que tenía, digamos, mucha admiración por todo lo que
+[48:09.4 – 48:19.1] (2889.4–2899.1) Luis Pagani que es una persona que es un gran amigo hoy por hoy y me sentía muy identificado con el
+[48:19.1 – 48:25.5] (2899.1–2905.5) esfuerzo, el sacrificio, el hacer las cosas bien y cómo trataban de llevar adelante y los ayudamos
+[48:25.5 – 48:30.7] (2905.5–2910.7) en varias transacciones. Una que siempre me acuerdo es cuando se expandieron a Chile comprando
+[48:30.7 – 48:36.6] (2910.7–2916.6) un grupo que se llamaba 2 en 1 y me encantaba la idea de expandir una compañía argentina al
+[48:36.6 – 48:44.3] (2916.6–2924.3) todo el mundo entonces ese ese ese concepto tenía un poquito de afinidad con conmigo personalmente
+[48:44.3 – 48:49.3] (2924.3–2929.3) pues yo estaba trabajando ya en todo latinoamérica en ese momento pero ayudar a una empresa argentina
+[48:49.3 – 48:56.6] (2929.3–2936.6) a expandirse al mundo me divertía mucho entonces entraste a jp como analista que
+[48:56.6 – 49:01.7] (2936.6–2941.7) es el cargo más bajo que es para la gente que no tiene experiencia ni en vía y solo universitario
+[49:02.3 – 49:09.7] (2942.3–2949.7) Después te metiste en crédito. De crédito a banca privada. No, banca privada no. De crédito me fui a
+[49:09.7 – 49:13.8] (2949.7–2953.8) investment banking. ¿Y cuál es la traducción? ¿Cómo? ¿Cuál es la traducción de investment banking?
+[49:13.8 – 49:18.5] (2953.8–2958.5) Ah, banca de inversión. O sea, básicamente uno trabaja con empresas ayudando a las empresas a
+[49:18.5 – 49:23.7] (2958.5–2963.7) levantar capital, hacer fusiones, adquisiciones diferentes. Claro, y de ahí a M&A, de banca.
+[49:23.7 – 49:28.3] (2963.7–2968.3) Después me fui específicamente a M&A, en el 96 hice más M&A, después me hicieron jefe del área
+[49:28.3 – 49:35.0] (2968.3–2975.0) de M&A hasta el 2002. En el 2002 después pasé a ser jefe de banca de inversión. Banca de inversión
+[49:36.3 – 49:44.0] (2976.3–2984.0) incluye lo que es fusiones de adquisiciones, que es M&A, que es fusiones de adquisiciones,
+[49:44.3 – 49:48.5] (2984.3–2988.5) después también mercados de capitales y dentro del mercado de capitales tenés dos partes,
+[49:48.6 – 49:55.3] (2988.6–2995.3) la parte de deuda, mercados de capitales de deuda y mercados de acciones. Entonces
+[49:55.3 – 50:00.4] (2995.3–3000.4) también manejaba eso y también la parte de préstamos, etcétera. Entonces, préstamos
+[50:01.2 – 50:06.1] (3001.2–3006.1) indicados, préstamos a empresas. Entonces, eso es lo que se llama banca de inversión. Eso lo hice en
+[50:06.1 – 50:15.2] (3006.1–3015.2) el 2022 y después era jefe de banca de inversión y el 2000, perdón, 2002 y en el 2005 me hicieron
+[50:15.2 – 50:20.1] (3015.2–3020.1) lo que se llama CEO de Latinoamérica, que básicamente uno maneja todas las áreas de
+[50:20.1 – 50:28.6] (3020.1–3028.6) América. Cuando digo maneja lo pongo entre comillas porque es un poco una matriz, vos tenés un poco que
+[50:30.0 – 50:36.8] (3030.0–3036.8) sobreves todos los negocios, sea bancas privadas, lo que se llama sales and trading que es digamos
+[50:36.8 – 50:43.8] (3036.8–3043.8) las mesas de dinero, lo que es la parte de banca inversión, esos son las distintas áreas del
+[50:43.8 – 50:49.2] (3043.8–3049.2) banco pero uno lo ve en forma de matriz, o sea como te expliqué primero están los productos
+[50:49.2 – 50:54.9] (3049.2–3054.9) y están las regiones. Yo era encargado de la región y en la región uno tiene un poquito una
+[50:54.9 – 51:03.4] (3054.9–3063.4) línea, nosotros lo llamábamos una línea punteada en el cual hay cierta posibilidad de sobrever
+[51:03.4 – 51:10.5] (3063.4–3070.5) todos esos negocios. Y eso fue en el 2005. 2005 hasta que llegó el 2012 y en el 2012 fui
+[51:10.5 – 51:19.2] (3070.5–3079.2) cuando tuve estas conversaciones digamos con mis diferentes jefes porque había jefes por
+[51:19.2 – 51:26.4] (3079.2–3086.4) ¿Te acordás la conversación en la que te dicen por qué no te vas a China? Estuve, es que tuve varias.
+[51:26.5 – 51:31.8] (3086.5–3091.8) La primera, la más importante. En realidad la primera que, la primera persona que me llamó fue
+[51:32.9 – 51:40.7] (3092.9–3100.7) Daniel Pinto. Daniel Pinto fue el primero que me llamó que no, digamos, o sea, no sé cuántas
+[51:40.7 – 51:44.4] (3100.7–3104.4) personas habían en ese momento, pero Daniel obviamente era una de las personas que sabía.
+[51:44.4 – 51:51.4] (3104.4–3111.4) fue la primera conversación y fue una conversación muy cortita de unos minutos. Me parece que tiene
+[51:51.4 – 51:55.8] (3111.4–3115.8) mucho sentido que te vayas a Asia. Después tuve, por supuesto, también una conversación con Jamie
+[51:55.8 – 52:01.2] (3115.8–3121.2) Diamond sobre el tema que me dijo, no, creo que es muy importante que vayas, hiciste buen trabajo
+[52:01.2 – 52:04.7] (3121.2–3124.7) en Latinoamérica, nos gustaría que repliques lo que hiciste en Latinoamérica, en Asia.
+[52:05.0 – 52:08.2] (3125.0–3128.2) Pero apenas te la dejó, fue como, ah, bueno, qué buen desafío, fue, está loco.
+[52:08.9 – 52:17.3] (3128.9–3137.3) Al principio yo decía que raro, ¿por qué yo? Porque yo no tenía nada que ver con Asia y me costaba
+[52:17.3 – 52:25.5] (3137.3–3145.5) pensar un poco cómo surgió esto porque no tenía ninguna conexión específica con Asia y me quedé un
+[52:25.5 – 52:32.4] (3145.5–3152.4) poquitito sorprendido. Me están queriendo ganar gato por libre. Yo sabía que era una posición
+[52:32.4 – 52:38.1] (3152.4–3158.1) muy importante porque yo en Latinoamérica tenía que digamos dos mil, un poquito más de dos mil
+[52:38.1 – 52:45.6] (3158.1–3165.6) empleados y así eran 60.000 empleados y eran 17 países entonces era yo sabía que era muy
+[52:45.6 – 52:53.1] (3165.6–3173.1) muy grande pero ahí en volumen de dinero era probablemente el triple entonces la era un
+[52:53.1 – 52:57.5] (3173.1–3177.5) poco porque yo quería entender por qué por qué yo que es lo que habían visto en mí o algo por
+[52:57.5 – 53:03.5] (3177.5–3183.5) el estilo y cuál fue la conclusión no como te comenté lo que me lo que me contestó Jamie
+[53:05.5 – 53:10.6] (3185.5–3190.6) es creemos que que hiciste un buen trabajo en latinoamérica y que nos gustaría replicar un
+[53:10.6 – 53:16.6] (3190.6–3196.6) poco lo que has estado haciendo en latinoamérica, ver si lo puedes hacer en asia y bueno para mí
+[53:16.6 – 53:22.1] (3196.6–3202.1) fue una aventura extraordinaria y por supuesto la segunda persona con la que hablé fue con mi
+[53:22.1 – 53:29.3] (3202.1–3209.3) mujer a ver qué le que opinaba y mi mujer siempre muy muy enganchada dijo vamos buenísimo
+[53:29.3 – 53:36.0] (3209.3–3216.0) encaremos la aventura. Tuve la conversación con mis hijos que tenían 8, 10 y 13 años o algo por
+[53:36.0 – 53:43.6] (3216.0–3223.6) el estilo. Esa conversación no fue tan buena, un interés en ir a Asia. Así que la reacción de
+[53:43.6 – 53:49.8] (3223.6–3229.8) ellos no fue muy buena pero en fin tuvimos que trabajar en convencerlos. Sí, sí, eso ha sido
+[53:49.8 – 53:54.6] (3229.8–3234.6) más difícil que cualquier otra cosa. Totalmente. Y te acordás el momento en el que llegás a Asia,
+[53:54.6 – 54:00.3] (3234.6–3240.3) te bajas del avión, ¿cuál fue el shock más grande de dónde me estoy metiendo? Porque hoy se habla
+[54:00.3 – 54:06.7] (3240.3–3246.7) mucho más de China, la gente viaja, se suben blogs. En aquel momento mi prejuicio era un
+[54:06.7 – 54:12.4] (3246.7–3252.4) poco más extraño. Sí, sí, comencé por los países más desarrollados. Mi primer aterrizaje
+[54:12.4 – 54:19.4] (3252.4–3259.4) fue en Japón, en realidad, entonces en Tokio. Y interesante porque me acuerdo que fue el 9
+[54:19.4 – 54:26.9] (3259.4–3266.9) diciembre del 2012, porque el 10 de diciembre es mi cumpleaños, entonces yo llegaba ahí y tenían
+[54:26.9 – 54:34.6] (3266.9–3274.6) justo ellas la fiesta de fin de año de Tokio y fue muy interesante porque pude estar con toda
+[54:34.6 – 54:43.3] (3274.6–3283.3) la gente de la oficina de Tokio en un evento y presentarme de alguna forma. Y lo curioso,
+[54:43.5 – 54:47.6] (3283.5–3287.6) claro, todo el mundo en Japón, todo el mundo quiere sacarse fotos, entonces se formaban unas
+[54:47.6 – 54:53.7] (3287.6–3293.7) para sacarse foto conmigo que me parecía súper curioso. No era por ser el CEO de la TAM, era por
+[54:53.7 – 54:59.0] (3293.7–3299.0) él. Claro, porque era el nuevo jefe que iba a venir. Entonces ahí recién era como que yo estaba
+[54:59.0 – 55:05.2] (3299.0–3305.2) viniendo, no estaba todavía 100% instalado porque mi base, mi casa iba a ser en Hong Kong.
+[55:05.8 – 55:09.9] (3305.8–3309.9) Entonces, pero antes de ir a Hong Kong fui a Japón, después fui a Australia. Australia fue
+[55:09.9 – 55:18.5] (3309.9–3318.5) segundo destino de japón me volé directamente a australia y en fin también una experiencia
+[55:19.3 – 55:24.3] (3319.3–3324.3) culturalmente me lo creo que más me chocó fue que pasé de japón a australia digamos dos
+[55:24.3 – 55:30.4] (3324.3–3330.4) culturas que eran totalmente distinta absolutamente distinta y después de ahí sí fui a hong kong
+[55:30.4 – 55:38.2] (3330.4–3338.2) que nuevamente nada que ver a los otros dos o sea es y después de ahí me vino la época de
+[55:38.2 – 55:43.7] (3338.2–3343.7) que me tomé dos semanas para ir con mi familia y después volví cuando volví empecé a recorrer los
+[55:43.7 – 55:49.1] (3343.7–3349.1) demás países y la sorpresa más grande es la diferencia cultural que hay en cada sociedad en
+[55:49.1 – 55:55.3] (3349.1–3355.3) cada uno de estos países y perdón creo que el tercer lugar el tercer lugar después de ahí fue
+[55:55.3 – 55:59.5] (3355.3–3359.5) si fue Hong Kong y después me fui a Taiwán, pasé por Taiwán en un momento. A buscar las
+[55:59.5 – 56:05.8] (3359.5–3365.8) cartas que todavía han dejado las universidades. Fui a Taiwán y ahí estuve también otro choque
+[56:05.8 – 56:12.5] (3365.8–3372.5) porque justo la persona que estaba a cargo de Taiwán, que todavía es muy amigo mío,
+[56:12.7 – 56:20.5] (3372.7–3380.5) se llama Carl Tien, él me llevó y me llevó a recorrer lo que es la bolsa de comercio de Taiwán
+[56:20.5 – 56:26.0] (3380.5–3386.0) en ese momento, y vamos a recorrer la bolsa de comercio de Taiwán y yo veo en los carteles que
+[56:26.0 – 56:31.0] (3386.0–3391.0) está todo verde, digo que bueno, vienen un buen día, traje suerte y no sé qué y todos me miraban
+[56:31.0 – 56:37.5] (3391.0–3397.5) poquito como que está hablando viste porque yo digo haciéndole un chiste que les traje suerte
+[56:37.5 – 56:43.8] (3397.5–3403.8) todo sube y me dicen no no es que en taiwán al igual que en china en realidad china continental
+[56:43.8 – 56:50.6] (3403.8–3410.6) cuando sube es colorado y cuando baja es verde entonces estaba todo para abajo entonces estaba
+[56:50.6 – 56:57.7] (3410.6–3417.7) todo verde porque estaba todo para abajo. Pensaban que los estabas volveando. No no entonces mi chiste no funcionó muy bien
+[56:57.7 – 57:01.7] (3417.7–3421.7) Pero, pero bueno, después decía, uy, qué horror, capaz que
+[57:01.7 – 57:05.1] (3421.7–3425.1) espero que cuando esté manejando un auto no sea que cuando se pone verde
+[57:05.1 – 57:07.4] (3425.1–3427.4) tengo que frenar y cuando se pone colorado tengo que andar.
+[57:08.2 – 57:11.5] (3428.2–3431.5) Estuviste en Taiwán, China, Australia, por todos lados,
+[57:11.8 – 57:13.5] (3431.8–3433.5) recorriste muchas sociedades.
+[57:13.7 – 57:16.2] (3433.7–3436.2) Cuál fue el momento que dijiste que hago acá?
+[57:16.5 – 57:17.8] (3436.5–3437.8) No puede ser que esto sea mi trabajo.
+[57:18.9 – 57:20.7] (3438.9–3440.7) Probablemente un poquito más adelante,
+[57:20.7 – 57:23.8] (3440.7–3443.8) porque cuando uno está en ese momento, está con la adrenalina tan alta
+[57:23.8 – 57:27.4] (3443.8–3447.4) y está pensando en tantas cosas que es más tratar de
+[57:27.9 – 57:33.7] (3447.9–3453.7) sobrevivir el momento casi porque si te pones a pensar cada país tiene un montón de temas
+[57:33.7 – 57:39.4] (3453.7–3459.4) culturales tan diferentes que tenés que estar tan alerta todo no te da tanto tiempo de pensar
+[57:39.4 – 57:45.5] (3459.4–3465.5) a ver qué es lo que estás pasando cómo lo veo por ejemplo en corea si uno se cruza las de
+[57:45.5 – 57:50.3] (3465.5–3470.3) piernas así mostrando un poco la suela de los zapatos no no está muy bien percibido es un
+[57:50.3 – 57:56.2] (3470.3–3476.2) poquito de mala educación o sea cuando te invitan a un casamiento cómo me he visto y qué
+[57:56.2 – 58:03.4] (3476.2–3483.4) o sea cómo es un velorio, un velorio vas de blanco, de negro, es distinto nuevamente, entonces como las
+[58:03.4 – 58:12.6] (3483.4–3492.6) mismas comidas me han tocado, nosotros en Argentina y en Latinoamérica estamos acostumbrados a una
+[58:12.6 – 58:18.1] (3492.6–3498.1) comida que es muy estándar para nosotros, digamos uno tiene que hacer un poquito más de
+[58:18.1 – 58:23.1] (3498.1–3503.1) exploración en Asia, en los distintos países, me han tocado comer muchas cosas que yo no sabía
+[58:23.1 – 58:32.1] (3503.1–3512.1) eran animales o vegetales o qué era lo que estaba comiendo. O plásticos. Así que estás todo el
+[58:32.1 – 58:42.0] (3512.1–3522.0) tiempo muy alerta tratando de no ofender a nadie. Me acuerdo una intimidad en algún momento con un
+[58:42.0 – 58:49.8] (3522.0–3529.8) cliente nuestro de Corea, también de Corea del Sur, que vino a visitarnos y justo había una
+[58:51.1 – 58:58.7] (3531.1–3538.7) con Jamie Dimon y era justo durante la IPO de Facebook y Jamie estaba muy orgulloso porque
+[58:58.7 – 59:04.8] (3538.7–3544.8) había estado digamos en la presentación de la IPO y le habían dado una chaqueta de Facebook y
+[59:04.8 – 59:10.2] (3544.8–3550.2) se fue a la reunión con la chaqueta de Facebook todo orgulloso mostrando digamos o sea vengo de
+[59:10.2 – 59:18.4] (3550.2–3558.4) esta reunión muy bien todo normal. Claro y era un cliente que venía de Corea y el cliente
+[59:18.4 – 59:26.5] (3558.4–3566.5) se lo tomó muy bien. Dijo cómo va a venir Jamie, digamos, sin saco y corbata a verme a mí. Era un
+[59:26.5 – 59:32.7] (3566.5–3572.7) poquito como que se sentía un poquitito ofendido y tuvimos que hacer un poquito de trabajo para
+[59:32.7 – 59:38.2] (3572.7–3578.2) mejorar la situación. Pero en fin, los temas culturales uno muchas veces, la mayoría de los
+[59:38.2 – 59:44.8] (3578.2–3584.8) países en general tienden a entender que uno es extranjero y que puede hacer ciertos errores
+[59:46.2 – 59:52.6] (3586.2–3592.6) protocolo, el hecho de que por ejemplo cuando te dan la tarjeta de presentación, la tarjeta de
+[59:52.6 – 59:58.4] (3592.6–3598.4) negocio, hasta las personas siempre es con dos manos, si uno lo da con una mano es una forma
+[59:58.4 – 1:00:04.6] (3598.4–3604.6) de no mostrar respeto, entonces es todo con dos manos, entonces uno se acostumbra, cuando uno
+[1:00:04.6 – 1:00:09.3] (3604.6–3609.3) hace un brindis por ejemplo, la persona que tiene más rango o nivel siempre está un poquito
+[1:00:09.3 – 1:00:17.8] (3609.3–3617.8) más arriba entonces en el brindis el que está más arriba y en realidad todo el mundo trata de
+[1:00:17.8 – 1:00:22.1] (3617.8–3622.1) tirarse un poquitito para abajo entonces al final terminan todos tratando de ir cada vez más para
+[1:00:22.1 – 1:00:26.9] (3622.1–3626.9) abajo porque como no sabes cuál es el más de más rango nadie quiere pretender que tiene más
+[1:00:26.9 – 1:00:33.3] (3626.9–3633.3) rango todos se terminan yendo para abajo el otro tema es que en todas las cenas todos
+[1:00:33.3 – 1:00:38.3] (3633.3–3638.3) hay brindis cada cinco minutos o sea y yo la verdad es que prácticamente no tomo alcohol
+[1:00:38.3 – 1:00:42.2] (3638.3–3642.2) entonces esa fue un poquito también un shop cultural, estaban todo el tiempo brindando y uno
+[1:00:42.2 – 1:00:48.1] (3642.2–3648.1) que trata de no tomar alcohol era un poco difícil. Y durante los 31 años que estuviste en JP Morgan
+[1:00:48.1 – 1:00:55.8] (3648.1–3655.8) nunca dudaste de abrirte solo? Lo pensé algunas veces especialmente alrededor del 2000 como te había
+[1:00:55.8 – 1:01:05.7] (3655.8–3665.7) comentado en el año 2000 yo tenía ya un cargo relativamente importante que en donde... Jefe de
+[1:01:05.7 – 1:01:10.9] (3665.7–3670.9) fusiones de adquisiciones en el 2002 me hicieron bajar la inversión. Durante todos esos años te
+[1:01:10.9 – 1:01:18.9] (3670.9–3678.9) diría yo tenía muy chico yo tenía 30 y cortos digamos 32 31 33 y ya manejaba un grupo importante
+[1:01:18.9 – 1:01:26.3] (3678.9–3686.3) en un banco importante y entonces esa era la época de internet donde surgía internet y venían
+[1:01:26.3 – 1:01:35.0] (3686.3–3695.0) cientos de empresas y estamos haciendo un startup de esto y te ofrecían ser parte del equipo y
+[1:01:36.4 – 1:01:44.4] (3696.4–3704.4) Y la verdad que el 99% de esas empresas no existen hoy por hoy. O sea, han desaparecido,
+[1:01:44.4 – 1:01:48.9] (3704.4–3708.9) había muchísimas, muchísimas empresas. Entonces yo lo que decía era, no, sabes qué,
+[1:01:49.0 – 1:01:55.3] (3709.0–3715.3) tal vez no me uno al equipo, pero invierto en la compañía. Invertí en como 10 compañías.
+[1:01:56.9 – 1:01:57.7] (3716.9–3717.7) Ninguna fue Google.
+[1:01:57.9 – 1:02:04.2] (3717.9–3724.2) No, 8 de las 10 perdí y 2 de esas 10 me fueron bien, en una muy bien y en otra
+[1:02:04.2 – 1:02:08.4] (3724.2–3728.4) bastante bien y por suerte entonces con lo que gané en las en las 12 esa casi
+[1:02:08.4 – 1:02:15.3] (3728.4–3735.3) recuperé lo que perdí en las otras ocho claro claro claro pero esa era la época
+[1:02:15.3 – 1:02:20.7] (3735.3–3740.7) después vino el bubble crash de internet y todas esas cosas pero ahí
+[1:02:20.7 – 1:02:27.1] (3740.7–3747.1) hubo pensé bastante porque si yo siempre tenía la esperanza no la
+[1:02:27.1 – 1:02:33.1] (3747.1–3753.1) esperanza la misión tal vez de hacer algo propio algo solo me entusiasmaba
+[1:02:33.1 – 1:02:37.5] (3753.1–3757.5) esa idea. Lo que pasa que siempre surgían nuevas oportunidades en JP Morgan tan divertidas
+[1:02:37.5 – 1:02:43.6] (3757.5–3763.6) también que que me costaba decidir entonces no te dejaron quieto claro tuve tuve tuve todas
+[1:02:43.6 – 1:02:49.6] (3763.6–3769.6) estas oportunidades que eran muy buenas creo que si no sé espero haber elegido bien pero
+[1:02:49.6 – 1:02:54.6] (3769.6–3774.6) pero por ahí si hacía algo solo me iba malo me iba bien no tengo ni idea. Y no vino nunca
+[1:02:54.6 – 1:02:59.2] (3774.6–3779.2) Morgan Stanley o alguno competidor. Obviamente todo el tiempo todo el tiempo venían o sea
+[1:02:59.2 – 1:03:06.6] (3779.2–3786.6) tenía un cargo digamos era reconocido en la región y constantemente yo tenía toda la competencia que
+[1:03:06.6 – 1:03:11.6] (3786.6–3791.6) me ofrecien inclusive muchísimo más de lo que yo ganaba yo me acuerdo la primera vez que me
+[1:03:11.6 – 1:03:19.2] (3791.6–3799.2) ofrecieron bastante digamos más de lo que ganaba fue creo que como en 97 creo que fue que
+[1:03:19.2 – 1:03:27.8] (3799.2–3807.8) me ofrecieron tipo el doble o el triple de lo que ganaba en JP Morgan un banco de inversión
+[1:03:27.8 – 1:03:33.2] (3807.8–3813.2) también muy muy que tenía muy buena reputación en ese momento ya no existe fue uno de los que
+[1:03:33.2 – 1:03:45.5] (3813.2–3825.5) desapareció fue uno de los que desapareció y me ofrecieron bastante más y por alguna razón mi
+[1:03:45.5 – 1:03:52.3] (3825.5–3832.3) visión es tengo digamos unos colegas bárbaros unos amigos muy buenos amigos que me dice estoy
+[1:03:52.3 – 1:03:59.2] (3832.3–3839.2) estoy contento, sí, está bueno ganar un poquito más, pero de alguna manera, nunca, nunca,
+[1:04:01.6 – 1:04:11.2] (3841.6–3851.2) el dinero o la compensación era el principal driver de las decisiones que yo tomaba. En ningún
+[1:04:11.2 – 1:04:21.8] (3851.2–3861.8) momento lo hice por el dinero. Para mí era más el desafío, la gente, la cultura, y
+[1:04:21.8 – 1:04:29.7] (3861.8–3869.7) ganaba bastante bien entonces no era que yo iba no iba a poder comer entonces que me ofrezcan el
+[1:04:29.7 – 1:04:37.0] (3869.7–3877.0) doble o el triple no era para mí el motor para hacerme cambiar de trabajo y la verdad que esa
+[1:04:37.0 – 1:04:42.3] (3877.0–3882.3) fue una decisión muy muy buena estoy muy contento de no haberme cambiado en ese momento y después
+[1:04:42.3 – 1:04:48.7] (3882.3–3888.7) todo el tiempo me hacían ofertas muy muy grandes en algún momento cuando hicimos la fusión con
+[1:04:48.7 – 1:04:59.5] (3888.7–3899.5) Chase, yo ahí manejaba el área de Latinoamérica para JP Morgan de banca de inversión y me ofrecieron
+[1:04:59.5 – 1:05:04.7] (3899.5–3904.7) en ese momento irme con todo mi equipo a otro banco. No solo me ofrecían a mí, sino me decía
+[1:05:04.7 – 1:05:09.8] (3904.7–3909.8) traete todo tu equipo porque yo valoraba mucho a mi equipo. Entonces me hicieron esa oferta y
+[1:05:09.8 – 1:05:15.3] (3909.8–3915.3) estábamos nosotros en la fusión. Supieron, digamos, aprovechar el flanco débil, digamos,
+[1:05:15.3 – 1:05:20.3] (3915.3–3920.3) de que estábamos en el medio de una fusión, había mucha incertidumbre de cómo iba a
+[1:05:20.3 – 1:05:25.2] (3920.3–3925.2) quedar estructurado y ahí fue una decisión muy difícil porque ahí sí lo pensé un
+[1:05:25.2 – 1:05:32.7] (3925.2–3932.7) poquito más. Finalmente decidí darle una oportunidad al equipo, quedarme con el equipo
+[1:05:32.7 – 1:05:39.0] (3932.7–3939.0) en el lugar que conocía y también creo que fue una buena decisión. Pero nuevamente
+[1:05:39.0 – 1:05:42.8] (3939.0–3942.8) depende de la situación de cada uno y los trabajos pero eso es algo que yo siempre
+[1:05:42.8 – 1:05:50.9] (3942.8–3950.9) digo que que no tratar de mirar simplemente el corto plazo todo todo el mundo cuando está en
+[1:05:50.9 – 1:05:55.4] (3950.9–3955.4) una institución alguien le va a venir con una oferta un poquito mejor para cambiarse de trabajo
+[1:05:55.4 – 1:06:00.1] (3955.4–3960.1) lo que sea si no estás contento por supuesto hay que considerarla si no te están apreciando
+[1:06:01.1 – 1:06:06.4] (3961.1–3966.4) valorando tomando una visión general uno no puede estar todos los días absolutamente contento
+[1:06:06.4 – 1:06:11.3] (3966.4–3971.3) en un lugar pero si en general te sentís apreciado y valoras el grupo de gente con
+[1:06:11.3 – 1:06:19.2] (3971.3–3979.2) que estás, yo no haría un cambio simplemente por un poquito más. O sea, hay que... Ni por el doble.
+[1:06:19.8 – 1:06:25.8] (3979.8–3985.8) Bueno, en ese momento no, porque yo, lógicamente, es bueno saber el valor del mercado de uno,
+[1:06:25.9 – 1:06:31.1] (3985.9–3991.1) obviamente, pero lo más importante para mí era el equipo, porque el equipo era el que me
+[1:06:31.1 – 1:06:38.3] (3991.1–3998.3) hacía que me vaya bien a mí. Entonces, por ahí, si sos Steve Jobs o si sos Elon Musk,
+[1:06:38.3 – 1:06:44.2] (3998.3–4004.2) vaya y pase. Yo no era ni Elon Musk ni Steve Jobs, entonces realmente para mí el
+[1:06:44.2 – 1:06:48.2] (4004.2–4008.2) tener el éxito en equipo era la prioridad. ¿Cómo llega la oportunidad de
+[1:06:48.2 – 1:06:52.2] (4008.2–4012.2) liderar la bolsa de comercio de Hong Kong? Bueno, antes de eso, yo
+[1:06:53.0 – 1:06:57.7] (4013.0–4017.7) alrededor de, creo que fue el 2019, nuevamente tuve otro llamado en el cual
+[1:06:57.7 – 1:07:02.8] (4017.7–4022.8) me ofrecen también manejar lo que es banca privada internacional para JP
+[1:07:02.8 – 1:07:11.0] (4022.8–4031.0) Morgan. Esto era banca privada en todo el mundo, fuera de Estados Unidos. Ser CEO. Y yo estaba en
+[1:07:11.0 – 1:07:17.2] (4031.0–4037.2) Hong Kong. Esto requería mudarme a Londres porque es más fácil manejarlo desde Londres. Pero ¿qué
+[1:07:17.2 – 1:07:22.5] (4037.2–4042.5) pasaba? Mi hija justo estaba en el último año de colegio de la secundaria. Mi hija del medio,
+[1:07:22.5 – 1:07:27.2] (4042.5–4047.2) yo tengo tres hijos, esta es la del medio. Y yo prefería no mudarme de Hong Kong justo
+[1:07:27.2 – 1:07:32.0] (4047.2–4052.0) en su último año porque cambiarla de colegio en el último año es medio difícil. Entonces dije,
+[1:07:32.0 – 1:07:36.9] (4052.0–4056.9) me quedo un año más en Hong Kong y manejo el negocio de banca privada internacional que lo hice
+[1:07:36.9 – 1:07:42.8] (4056.9–4062.8) desde Hong Kong. Lo hice eso por dos años. Después vino COVID, una vez que ella se recibió y fue más
+[1:07:42.8 – 1:07:49.9] (4062.8–4069.9) difícil mudarme, digamos, de país. Y entonces estamos manejando esto desde Hong Kong, un
+[1:07:49.9 – 1:07:55.8] (4069.9–4075.8) poquito estancado en Hong Kong porque empezaba COVID y no podía moverme mucho, era bastante
+[1:07:55.8 – 1:08:02.7] (4075.8–4082.7) difícil y ahí viene un llamado un día que me dicen estaría dispuesto a considerar una reunión
+[1:08:02.7 – 1:08:09.4] (4082.7–4089.4) un llamado telefónico de uno de estos headhunters y me dicen estaría dispuesto a considerar ser CEO
+[1:08:09.4 – 1:08:14.6] (4089.4–4094.6) de la bolsa de comercio de Hong Kong que en Hong Kong es un puesto muy muy relevante porque
+[1:08:14.6 – 1:08:20.2] (4094.6–4100.2) es es la principal empresa de Hong Kong básicamente es una empresa gubernamental estatal privada que
+[1:08:20.2 – 1:08:30.0] (4100.2–4110.0) es privada, es privada, pero al ser un monopolio, privada de Hong Kong. Hong Kong es China,
+[1:08:30.8 – 1:08:36.4] (4110.8–4116.4) pero es totalmente separado, digamos, con su propio sistema. Entonces, pero al ser una
+[1:08:36.4 – 1:08:41.9] (4116.4–4121.9) empresa privada, cotiza en bolsa, o sea, el exchange cotiza en bolsa y la evaluación de
+[1:08:41.9 – 1:08:46.7] (4121.9–4126.7) bolsa en ese momento era más o menos 60 mil millones de dólares. O sea, una empresa muy,
+[1:08:46.7 – 1:08:52.7] (4126.7–4132.7) muy grande, o sea, en ese momento era la segunda más, sigue siendo la segunda más grande del mundo
+[1:08:52.7 – 1:08:59.1] (4132.7–4139.1) en evaluación de la empresa en sí mismo, la empresa es la segunda más grande de todas las
+[1:08:59.1 – 1:09:07.4] (4139.1–4147.4) bolsas del mundo, entonces es muy muy significativa, y viene ese llamado, y la empresa de bolsa,
+[1:09:07.6 – 1:09:14.9] (4147.6–4154.9) de empresa de bolsa, pero grande, muy muy grande, y muy en Hong Kong, una parte importante,
+[1:09:14.9 – 1:09:19.8] (4154.9–4159.8) el producto bruto de Hong Kong viene a través de la actividad financiera como el 40%, no me acuerdo,
+[1:09:19.9 – 1:09:26.7] (4159.9–4166.7) en una parte muy significativa. Entonces esta es la empresa más relevante de Hong Kong con más
+[1:09:28.4 – 1:09:34.7] (4168.4–4174.7) influencia y la mitad de los directores que digamos que son los encargados de de alguna
+[1:09:34.7 – 1:09:42.8] (4174.7–4182.8) manera de la empresa, los directores del board, del directorio, son elegidos por el
+[1:09:42.8 – 1:09:49.8] (4182.8–4189.8) no de Hong Kong. Entonces tiene un componente de casi de política de estado, un componente tiene
+[1:09:49.8 – 1:09:54.8] (4189.8–4194.8) de parte por parte de Hong Kong porque es muy importante para Hong Kong. Y fuiste el primer no
+[1:09:54.8 – 1:09:58.1] (4194.8–4198.1) chino en liderar la bolsa de Hong Kong. Claro, mi pregunta era ¿por qué a mí? porque nunca en la
+[1:09:58.1 – 1:10:03.5] (4198.1–4203.5) historia había habido alguien que no era chino, son todos chinos, chinos étnicamente de Hong
+[1:10:03.5 – 1:10:09.1] (4203.5–4209.1) Kong pero chinos o chino-chino, distintas, variaba entre Hong Kong y China pero siempre
+[1:10:09.1 – 1:10:19.9] (4209.1–4219.9) digamos, el fin. Entonces, yo ni siquiera hablo chino, no tengo nada que ver, o sea, soy de JP
+[1:10:19.9 – 1:10:25.2] (4219.9–4225.2) Morgan, o sea, si uno puede pensar en alguien más capitalista que JP Morgan, me encanta como te
+[1:10:25.2 – 1:10:30.8] (4225.2–4230.8) comenté la meritocracia del capitalismo y en los mercados, etcétera. Y entonces mi pregunta,
+[1:10:31.4 – 1:10:40.0] (4231.4–4240.0) cómo funciona esto y en ese momento el punto era no mira esto queremos internacionalizar la bolsa
+[1:10:40.8 – 1:10:46.5] (4240.8–4246.5) esto es un mandato por tres años que me funcionaba bastante bien a mí porque a los tres años yo
+[1:10:46.5 – 1:10:53.9] (4246.5–4253.9) tenía mi hijo más chico que justo se recibía de la secundaria entonces es ser CEO de una
+[1:10:53.9 – 1:11:00.2] (4253.9–4260.2) empresa digamos tan relevante donde uno puede aprender tanto estar bien compenetrado con
+[1:11:00.2 – 1:11:07.8] (4260.2–4267.8) la situación, el 70% de los flujos de capitales a China, de capitales digamos bursátiles, van a
+[1:11:07.8 – 1:11:15.2] (4267.8–4275.2) través de la bolsa de Hong Kong, que es un nivel muy muy alto, entonces para China es súper
+[1:11:15.2 – 1:11:20.4] (4275.2–4280.4) importante. Muchas de las empresas más grandes de China listan en Hong Kong, entonces para mí
+[1:11:20.4 – 1:11:27.4] (4280.4–4287.4) seguir aprendiendo, seguir aprendiendo fue muy importante y yo quería conocer bien bien a fondo
+[1:11:27.4 – 1:11:32.9] (4287.4–4292.9) China, entender el sistema, cómo funciona, y sigue siendo algo muy importante porque para mí
+[1:11:32.9 – 1:11:39.7] (4292.9–4299.7) aprender la evolución de China, cómo evoluciona, la forma de ver las cosas, el sector privado de
+[1:11:39.7 – 1:11:46.2] (4299.7–4306.2) China, todo era muy importante. Entonces lo hablé también con Jamie Dimon y Jamie le parecía que
+[1:11:46.2 – 1:11:52.6] (4306.2–4312.6) era una oportunidad impresionante porque Sergio de la bolsa de Hong Kong, obviamente, es algo
+[1:11:52.6 – 1:11:58.6] (4312.6–4318.6) muy grande. También uno se transforma en regulador. Yo pasaba a ser regulador de todas las empresas de
+[1:11:58.6 – 1:12:07.7] (4318.6–4327.7) Hong Kong básicamente y le pareció que era una buena oportunidad. A mí también me pareció que era
+[1:12:07.7 – 1:12:13.0] (4327.7–4333.0) una oportunidad bien, encajaba con mi tiempo de vida y todo porque éste era algo un poquito
+[1:12:13.0 – 1:12:20.5] (4333.0–4340.5) diferente. Entonces decidí aceptarlo y la verdad que... Y ahí fue tu renuncia a JP
+[1:12:20.5 – 1:12:27.4] (4340.5–4347.4) Claro, claro. Fue una época digamos difícil porque estaban COVID, estaban las protestas de Hong Kong,
+[1:12:27.6 – 1:12:33.8] (4347.6–4353.8) en ese momento había protestas en Hong Kong, era una época que también empezaban justo a subir
+[1:12:33.8 – 1:12:38.4] (4353.8–4358.4) las tasas de interés que estaban casi cero y se fueron como cuatro o cinco por ciento. Entonces
+[1:12:38.4 – 1:12:44.7] (4358.4–4364.7) digamos el ambiente era muy difícil, no sé si te acordas todas las empresas de internet estaban
+[1:12:44.7 – 1:12:49.2] (4364.7–4369.2) empezando a bajar, todas las empresas que cotizaban a múltiplos altos bajaron 50,
+[1:12:49.2 – 1:12:55.7] (4369.2–4375.7) 60 a 70 por ciento. O sea, en una época difícil no se podía salir de Hong Kong de alguna manera,
+[1:12:55.7 – 1:13:03.9] (4375.7–4383.9) o si salías tenía que hacer tres semanas de estar en un hotel o en algún lugar antes de
+[1:13:03.9 – 1:13:10.0] (4383.9–4390.0) saneamiento. Cuarentena. Cuarentena, de cuarentena, no olvide el nombre. Así que yo terminé haciendo
+[1:13:10.0 – 1:13:14.4] (4390.0–4394.4) en total como 15, 16 semanas de cuarentena, porque cada tanto tenía que salir de Hong Kong.
+[1:13:14.4 – 1:13:20.3] (4394.4–4400.3) Hice mucha cuarentena, pero lo que aprendí, la gente que conocí,
+[1:13:20.6 – 1:13:22.8] (4400.6–4402.8) cómo me trataron, la verdad que fue extraordinario.
+[1:13:22.9 – 1:13:25.3] (4402.9–4405.3) Para mí fue muy, muy buena experiencia.
+[1:13:26.4 – 1:13:29.7] (4406.4–4409.7) Cuál es el logro de que estás más orgulloso en tu carrera
+[1:13:29.7 – 1:13:30.3] (4409.7–4410.3) profesional?
+[1:13:31.6 – 1:13:37.9] (4411.6–4417.9) No sé si esto entra en cuanto a lo que estás pensando.
+[1:13:38.0 – 1:13:40.4] (4418.0–4420.4) Yo me oriento mucho a la gente,
+[1:13:40.4 – 1:13:49.8] (4420.4–4429.8) mucha de la gente que trabajó conmigo terminó en posiciones, digamos, muy importantes y muy relevantes.
+[1:13:50.1 – 1:13:58.0] (4430.1–4438.0) Y a mí me da mucho orgullo de ver la gente que estaba abajo mío, que va creciendo y permitir
+[1:13:58.0 – 1:14:08.6] (4438.0–4448.6) darles alas a la gente que maneja hoy por hoy negocios importantes, ya sea en Latinoamérica, en Asia, en el mundo,
+[1:14:08.6 – 1:14:12.6] (4448.6–4452.6) digamos, la persona que hoy por hoy está manejando la bolsa, es una persona se
+[1:14:12.6 – 1:14:15.6] (4452.6–4455.6) llama Bonnie Chan era la que era mi chief operating officer.
+[1:14:15.9 – 1:14:21.8] (4455.9–4461.8) Entonces el hecho de haber, digamos, ayudado a la gente de abajo que surja,
+[1:14:22.0 – 1:14:28.4] (4462.0–4468.4) que vaya creciendo e mucha gente, digamos que en Argentina trabajó conmigo gente
+[1:14:30.7 – 1:14:34.6] (4470.7–4474.6) como e e Santiago Bousili, que está ahora en el Banco Central.
+[1:14:35.0 – 1:14:36.7] (4475.0–4476.7) Y por supuesto, mucha gente muy
+[1:14:36.7 – 1:14:42.4] (4476.7–4482.4) relevante en JP Morgan, Martin Marrón y todos trabajamos digamos juntos muchos años. Ver toda
+[1:14:42.4 – 1:14:47.9] (4482.4–4487.9) esa gente que fue ganando terreno y estoy mencionando los top pero hay mucha gente que
+[1:14:48.4 – 1:14:54.0] (4488.4–4494.0) que me cruzo hoy por hoy alrededor del mundo que me dicen no gracias a vos hice tal cosa lo que
+[1:14:54.0 – 1:14:59.8] (4494.0–4499.8) sea. Nuevamente yo lo hice pensando también en hacerlo mejor para los equipos, para mí,
+[1:14:59.9 – 1:15:06.2] (4499.9–4506.2) para la gente, para todo el mundo y entonces la gente que yo pude desarrollar en estos 35
+[1:15:06.2 – 1:15:13.3] (4506.2–4513.3) años para mí es la parte más importante y cuál es el error del que más aprendiste tal vez en la
+[1:15:13.3 – 1:15:21.8] (4513.3–4521.8) medida que se iba yo iba teniendo diferentes promociones y todo sí que no se te suban a la
+[1:15:21.8 – 1:15:35.2] (4521.8–4535.2) cabeza tanto las el orgullo y creerse uno mucho al final siempre hay alguien que te viene y te
+[1:15:35.2 – 1:15:41.9] (4535.2–4541.9) veces, o sea, yo siempre cuento un montón de historias, pero una de las historias cuando yo
+[1:15:41.9 – 1:15:47.2] (4541.9–4547.2) era asociado, por ejemplo, a mí me promocionaron muy rápido de analista asociado, que es la segunda
+[1:15:47.2 – 1:15:52.9] (4547.2–4552.9) etapa, pero después de asociado vicepresidente, yo fui uno de los últimos de mi clase en que me
+[1:15:52.9 – 1:15:58.6] (4552.9–4558.6) promocionaron asociado. Entonces, a pesar de que había subido muy rápido de nada de analista
+[1:15:58.6 – 1:16:03.9] (4558.6–4563.9) asociado, de asociado vicepresidente me llevó más que a todo el mundo y en ese momento fue
+[1:16:03.9 – 1:16:10.6] (4563.9–4570.6) muy duro, pero la verdad que gracias a Dios pasó eso, porque me ayudó. Después me ascendieron muy
+[1:16:10.6 – 1:16:15.7] (4570.6–4575.7) rápido de vicepresidente a managing director, que es el próximo. Fue muy, muy, muy, muy rápido.
+[1:16:16.9 – 1:16:20.8] (4576.9–4580.8) Y parte de eso, tal vez, fue que gracias a que me bajaron el jopete en su momento,
+[1:16:22.3 – 1:16:30.9] (4582.3–4590.9) me ayudó a ubicarme un poco. Tuve muchas experiencias también. Yo aprendí mucho
+[1:16:30.9 – 1:16:42.2] (4590.9–4602.2) a lidiar con un directorio, un board que fue por ejemplo cuando estuve en Hong Kong yo tenía que
+[1:16:42.2 – 1:16:48.8] (4602.2–4608.8) lidiar con un directorio de 12 personas o sea uno tiene como 12 jefes de alguna forma y ninguno de
+[1:16:48.8 – 1:16:54.0] (4608.8–4614.0) los cuales está en el día de la empresa hoy por hoy estoy de director en cuatro empresas entonces
+[1:16:54.0 – 1:17:00.2] (4614.0–4620.2) aprendí mucho a ser director y lidiar como chief executive como CEO de la empresa con el
+[1:17:01.6 – 1:17:07.2] (4621.6–4627.2) digamos es un aprendizaje fuerte, porque yo en JP Morgan siempre trabajaba con otros empleados,
+[1:17:07.4 – 1:17:12.3] (4627.4–4632.3) un poquito con el directorio JP Morgan, pero casi nada. Entonces, tener que lidiar con el
+[1:17:12.3 – 1:17:16.1] (4632.3–4636.1) directorio para mí fue un aprendizaje muy importante. ¿Quién fue tu mayor mentor en todo
+[1:17:16.1 – 1:17:22.7] (4636.1–4642.7) este proceso? Al principio de mi carrera no tuve tantos mentores en sí, porque los primeros
+[1:17:22.7 – 1:17:26.6] (4642.7–4646.6) nueve años de mi carrera tuve nueve jefes diferentes, entonces eran mentores de muy
+[1:17:27.4 – 1:17:34.0] (4647.4–4654.0) plazo. Obviamente en los últimos 20 años Jamie Diamond fue un referente muy importante para mí
+[1:17:34.0 – 1:17:40.5] (4654.0–4660.5) porque cuando yo estaba de CEO de Latinoamérica, él me decía una semana, me la dedicaba a mí
+[1:17:40.5 – 1:17:45.6] (4660.5–4665.6) básicamente, una semana del año, en el sentido que él me decía, decime a qué países tengo que
+[1:17:45.6 – 1:17:54.4] (4665.6–4674.4) ir y viajábamos juntos, decía Colombia, México, Brasil, Argentina, donde sea, y yo estaba desayuno,
+[1:17:54.4 – 1:18:00.9] (4674.4–4680.9) almuerzo y cena con él, todo el tiempo. Entonces aprendí muchísimo con él ahí. O sea, era un
+[1:18:01.2 – 1:18:10.7] (4681.2–4690.7) aprendizaje muy, muy importante. Y entonces para mí él fue un referente muy, muy importante. Aprendí
+[1:18:10.7 – 1:18:24.4] (4690.7–4704.4) muchísimo de él. Somos muy distintos, pero lo admiro muchísimo y creo que mucho de lo que
+[1:18:24.4 – 1:18:31.4] (4704.4–4711.4) Otros grandes amigos míos como Daniel Pinto que que también tuvo un rol muy
+[1:18:31.4 – 1:18:34.8] (4711.4–4714.8) importante, una influencia muy grande en mi carrera.
+[1:18:35.5 – 1:18:37.5] (4715.5–4717.5) Es alguien a quien admiro mucho.
+[1:18:37.6 – 1:18:42.1] (4717.6–4722.1) Sigo admirando mucho y tengo una excelente relación.
+[1:18:42.6 – 1:18:44.8] (4722.6–4724.8) De todo el mundo aprendí muchísimo.
+[1:18:45.4 – 1:18:47.8] (4725.4–4727.8) Colegas míos como Martín Marrón.
+[1:18:49.4 – 1:18:52.5] (4729.4–4732.5) Cuando empezamos, empezamos juntos con Toto Caputo.
+[1:18:52.5 – 1:19:00.3] (4732.5–4740.3) él por la parte de la mesa de dinero y yo por la parte de banca de inversión y por ahí teníamos
+[1:19:00.3 – 1:19:03.9] (4740.3–4743.9) un poquito menos de interacción en el banco, pero después cuando lo he visto en los últimos
+[1:19:03.9 – 1:19:09.1] (4743.9–4749.1) años y cómo se ha desarrollado y cómo se ha desenvuelto, obviamente me impresiona mucho.
+[1:19:10.6 – 1:19:16.4] (4750.6–4756.4) No sé cómo hacer esta pregunta, pero la mayoría de las personas que se han sentado ahí comparten
+[1:19:16.4 – 1:19:21.9] (4756.4–4761.9) la característica de estar divorciados. Vos seguís con tu mujer después de haberte la ciudad
+[1:19:21.9 – 1:19:28.6] (4761.9–4768.6) vuelta o paseado todas esas semanas de cuarentena sospecho que no deben haber sido fáciles entonces
+[1:19:28.6 – 1:19:33.6] (4768.6–4773.6) quería saber si tenés algún aprendizaje para compartir para compartirnos a los jóvenes
+[1:19:35.4 – 1:19:40.6] (4775.4–4780.6) bueno si justo acabamos de cumplir 30 años de casados hace muy poquito en junio
+[1:19:42.4 – 1:19:49.1] (4782.4–4789.1) o sea que llevas más con JP Morgan que con ella sí bueno sí sí sí sí bastante más JP Morgan
+[1:19:49.1 – 1:19:55.1] (4789.1–4795.1) entre el 90, o sea que van 36 años, pero la conocí a ella cuando tenía 22, o sea que recién
+[1:19:55.1 – 1:20:02.9] (4795.1–4802.9) estaba empezando en JP Morgan, tenía dos, tres años en JP Morgan, pero creo que mucho es mérito
+[1:20:02.9 – 1:20:09.5] (4802.9–4809.5) en realidad de ella, ella es de hierro y tiene una paciencia infinita y me aguanta un montón de cosas
+[1:20:09.5 – 1:20:17.9] (4809.5–4817.9) y siempre está dispuesta a la nueva aventura y tengo la suerte de estar con alguien también
+[1:20:17.9 – 1:20:22.6] (4817.9–4822.6) que es sumamente inteligente, entonces estará con alguien que es inteligente,
+[1:20:23.1 – 1:20:27.4] (4823.1–4827.4) con una buena compañera y estamos muy enfocados en nuestros hijos.
+[1:20:27.6 – 1:20:30.9] (4827.6–4830.9) Así como mi abuelo hizo algo increíble por mi padre, mi padre hizo algo increíble
+[1:20:30.9 – 1:20:34.4] (4830.9–4834.4) por mí, tengo una presión muy grande que tengo que hacer el trabajo para mis
+[1:20:34.4 – 1:20:37.2] (4834.4–4837.2) hijos también, entonces tenemos un buen equipo.
+[1:20:37.6 – 1:20:41.9] (4837.6–4841.9) Yo siempre digo que en las distintas etapas de la vida hay que balancear las
+[1:20:41.9 – 1:20:45.5] (4841.9–4845.5) distintas cosas, aquella persona que es todo perfectita en todo es muy difícil.
+[1:20:46.6 – 1:20:55.1] (4846.6–4855.1) entonces a mí me preguntan mucho sobre cómo hago para manejar el tema familia, amigos, trabajo,
+[1:20:55.6 – 1:21:02.8] (4855.6–4862.8) el cuerpo, el golf, sí, sí, hay varias historias de mi golf, porque me divierte jugar al golf y un
+[1:21:02.8 – 1:21:06.9] (4862.8–4866.9) día lo encaré a Jamie Diamond y le digo Jamie, ¿cómo hago? o sea, es muy difícil esto, tengo
+[1:21:06.9 – 1:21:12.1] (4866.9–4872.1) que el trabajo, tengo la familia, tengo los amigos, tengo todo esto, ¿me gusta jugar al
+[1:21:12.1 – 1:21:16.6] (4872.1–4876.6) ¿Qué hago? Y él me dijo ¿Te gusta jugar al golf? Sí, le digo, bueno que no te guste.
+[1:21:19.0 – 1:21:26.6] (4879.0–4886.6) En fin, pero seguí jugando al golf, la verdad no soy tan bueno, pero más o menos. Y en el caso
+[1:21:26.6 – 1:21:36.4] (4886.6–4896.4) de la familia creo que es el pensamiento de que esto es algo que lo hacemos en conjunto,
+[1:21:36.4 – 1:21:44.5] (4896.4–4904.5) lo hacemos juntos, más la actitud de equipo. Uno de los temas con mi mujer nosotros es increíble,
+[1:21:45.1 – 1:21:51.0] (4905.1–4911.0) pero yo no recuerdo nunca en mi vida, por ejemplo, usar una mala palabra hablando con mi mujer y
+[1:21:51.0 – 1:21:57.6] (4911.0–4917.6) ella tampoco conmigo, nunca. Entonces es como que ya cuando el diálogo comienza con un
+[1:21:57.6 – 1:22:03.1] (4917.6–4923.1) diálogo razonable, sí, obviamente nos enojamos, a veces tenemos peleas, lo que sea, pero nunca en
+[1:22:03.1 – 1:22:08.8] (4923.1–4928.8) digamos, le he dicho una mala palabra o algo por el estilo. No soy mucho de decir malas
+[1:22:08.8 – 1:22:16.6] (4928.8–4936.6) palabras igual ni siquiera tanto con mis amigos, pero eso tal vez ayuda y tener el proyecto de
+[1:22:16.6 – 1:22:28.1] (4936.6–4948.1) familia de los hijos. Creo que eso también ayudó. Otra parte es todo lo que le han inculcado a
+[1:22:28.1 – 1:22:34.6] (4948.1–4954.6) a sus padres y lo que me han inculcado a mí mis padres y tal vez eso también ha ayudado como
+[1:22:34.6 – 1:22:39.9] (4954.6–4959.9) siempre digo también ahí está el componente un poquito de suerte o sea tendremos cierto nivel
+[1:22:39.9 – 1:22:45.7] (4959.9–4965.7) de compatibilidad y estuvimos en novio tres años y medio antes de casarnos o sea nos llegamos a
+[1:22:45.7 – 1:22:54.7] (4965.7–4974.7) conocer bastante y y por suerte por suerte ha funcionado bien ahora tengo la pregunta más
+[1:22:54.7 – 1:23:02.0] (4974.7–4982.0) la entrevista. A ver, ok. Tu abuelo. Sí. Quería que tu padre sea universitario. Tu padre quería
+[1:23:02.0 – 1:23:08.6] (4982.0–4988.6) que vos estudies inglés. ¿Vos qué querés para tus hijos? Es, es, es la parte más difícil. Sí,
+[1:23:08.6 – 1:23:17.4] (4988.6–4997.4) porque ya cumplieron con todos los, los, los requisitos que hicieron universidad. Ahora están
+[1:23:17.4 – 1:23:22.5] (4997.4–5002.5) los, los dos, el más chico y el medio están en justo este año terminando la universidad y
+[1:23:23.2 – 1:23:30.1] (5003.2–5010.1) hablan inglés, no solamente hablan inglés, los tres hablan chino, inglés y español. O sea que ya,
+[1:23:30.6 – 1:23:40.6] (5010.6–5020.6) bastante bien. Por ahí tal vez uno vuelve un poquitito a la parte más humana y mi hijo
+[1:23:40.6 – 1:23:47.0] (5020.6–5027.0) más grande tiene el mismo nombre y está en JP Morgan también, que es muy gracioso. Así que
+[1:23:47.0 – 1:23:53.6] (5027.0–5033.6) que está siguiendo un poquito los pasos míos pero mucho mejor que yo, tal vez, y mi hijo más chico
+[1:23:53.6 – 1:24:02.6] (5033.6–5042.6) está por ir a trabajar en SpaceX, así que bastante bien y mi hija está haciendo neurociencias en la
+[1:24:02.6 – 1:24:17.0] (5042.6–5057.0) universidad, así que todos bastante bien. El objetivo mío cambia un poquitito, yo ya no
+[1:24:17.8 – 1:24:27.9] (5057.8–5067.9) tratar de asegurarnos de que valoren, que ellos disfruten de su vida a través de los terceros,
+[1:24:29.2 – 1:24:35.2] (5069.2–5075.2) ok? Por supuesto es importante quererse a uno mismo, pero más que nada es que la clave de estar
+[1:24:35.2 – 1:24:42.1] (5075.2–5082.1) contento es poder ayudar a la gente alrededor tuyo. Si ellos hacen eso van a estar contentos,
+[1:24:42.1 – 1:24:46.7] (5082.1–5086.7) van a estar felices y yo cambié un poquitito la approach en vez de tanto
+[1:24:46.7 – 1:24:51.6] (5086.7–5091.6) educación y todo que por suerte tuvieron buena educación pero pero el foco más
+[1:24:51.6 – 1:24:57.8] (5091.6–5097.8) ahora en que en que sean buenas personas y y al poder agregar valor a la gente
+[1:24:57.8 – 1:25:00.9] (5097.8–5100.9) alrededor de ellos van a sentirse felices ellos mismos y tener una vida
+[1:25:00.9 – 1:25:05.9] (5100.9–5105.9) plena. En una entrevista pasada comparaste a Jamie Dimon con Galperín
+[1:25:05.9 – 1:25:12.9] (5105.9–5112.9) ¿por qué? Porque son dos personas digamos muy muy exitosas que tienen
+[1:25:12.9 – 1:25:17.1] (5112.9–5117.1) muchas cosas en comunes, son muy distintos también, pero tienen muchas cosas en comunes,
+[1:25:17.1 – 1:25:22.6] (5117.1–5122.6) son disciplinados, estructurados, trabajadores, buena gente, buena familia. Hablando de buenas
+[1:25:22.6 – 1:25:33.5] (5122.6–5133.5) familias, los dos, tanto Jamie Diamond como Marcos, una de las cosas que yo más admiro es cómo
+[1:25:33.5 – 1:25:40.9] (5133.5–5140.9) pudieron balancear el ser exitosos, pero fundamentalmente ser buenas personas y tener
+[1:25:40.9 – 1:25:48.4] (5140.9–5148.4) una familia extraordinaria, los dos, tanto Jamie que tiene tres hijas, Marco que tiene dos hijos y
+[1:25:48.4 – 1:25:57.6] (5148.4–5157.6) una hija y la verdad y una mujer maravillosa también. Entonces yo valoro mucho eso, el ser
+[1:25:57.6 – 1:26:04.6] (5157.6–5164.6) completo porque por más que también admiro gente como Elon Musk y Steve Jobs, son geniales,
+[1:26:04.7 – 1:26:09.2] (5164.7–5169.2) estos son genios, son genios, genios, pero en la parte familiar nunca lograron hacer el clic,
+[1:26:09.2 – 1:26:17.7] (5169.2–5177.7) Ok, sea Bill Gates, Steve Jobs y toda esta gente. Pero gente como Jamie, gente como Marcos lo
+[1:26:17.7 – 1:26:26.0] (5177.7–5186.0) lograron en ese completo y Marcos aún mejor. Marcos es tan brillante que él siendo fundador
+[1:26:26.0 – 1:26:33.9] (5186.0–5193.9) de la empresa, armando unos equipos increíbles, haciendo que la empresa llegue a lo que es,
+[1:26:33.9 – 1:26:38.3] (5193.9–5198.3) toma la decisión de cómo puedo agregar más valor en el futuro de la empresa.
+[1:26:39.2 – 1:26:42.6] (5199.2–5202.6) Y la forma en que yo puedo agregar más valor a la empresa es hacerme chairman
+[1:26:42.6 – 1:26:45.1] (5202.6–5205.1) executive chairman de la empresa en vez de ser CEO.
+[1:26:45.9 – 1:26:48.0] (5205.9–5208.0) Y eso no es un paso le cuesta.
+[1:26:48.1 – 1:26:51.1] (5208.1–5211.1) Todo el mundo le cuesta, a Jamie le cuesta un poquitito dar ese paso.
+[1:26:52.5 – 1:26:57.8] (5212.5–5217.8) Pero, pero, pero Marcos logró dar ese paso que que es una valentía
+[1:26:58.9 – 1:27:01.9] (5218.9–5221.9) extraordinaria y es lo que a mí me da mucha fuerza también para seguir
+[1:27:01.9 – 1:27:13.1] (5221.9–5233.1) apoyando a Mercado Libre todos los días porque yo veo un equipo increíblemente bueno. Marcos ahora
+[1:27:13.6 – 1:27:23.4] (5233.6–5243.4) pasa de ser digamos Messi a ser coach, un coach con una visión estratégica del negocio. Yo siempre
+[1:27:23.4 – 1:27:29.9] (5243.4–5249.9) digo que como director apoyaba muchísimo este cambio y creo que primero que lo seguimos teniendo
+[1:27:29.9 – 1:27:34.5] (5249.9–5254.5) Marcos y le damos la oportunidad a un montón de otra gente dentro de la empresa que crezca,
+[1:27:34.6 – 1:27:39.6] (5254.6–5259.6) que suba un nivel. A Marcos lo tenemos todos los días pensando más estratégicamente con un poco
+[1:27:39.6 – 1:27:43.9] (5259.6–5263.9) más de tiempo a ver qué es lo que está pasando en el mundo y no hablamos mucho de inteligencia
+[1:27:43.9 – 1:27:48.5] (5263.9–5268.5) artificial, pero hoy por hoy el tema de inteligencia artificial es tan importante que
+[1:27:50.1 – 1:27:57.3] (5270.1–5277.3) realmente que alguien tenga el tiempo de pausar y pensar estratégicamente es clave y entonces
+[1:27:57.3 – 1:28:01.4] (5277.3–5281.4) tengo esa admiración por las dos personas, por lo que han hecho, lo que han transformado los
+[1:28:01.4 – 1:28:09.0] (5281.4–5289.0) resultados y tuve la suerte de conocerlos personalmente y nuevamente en las redes
+[1:28:09.0 – 1:28:15.0] (5289.0–5295.0) toda esta gente tiene una imagen. Jamie tenía la imagen de duro que iba y que echaba a todo
+[1:28:15.0 – 1:28:21.2] (5295.0–5301.2) el mundo y todo. Es un pan de Dios. Jamie es un pan de Dios. Cuando uno lo conoce de cerca,
+[1:28:21.2 – 1:28:29.0] (5301.2–5309.0) es súper buena gente, muy humano, interesado en la familia de uno, por supuesto conoce a todo mi
+[1:28:29.0 – 1:28:35.7] (5309.0–5315.7) familia y se interesa por la vida personal de sus amigos, gente que conoce. Yo soy, por supuesto,
+[1:28:35.8 – 1:28:41.2] (5315.8–5321.2) una de las personas que trabajó mucho tiempo con él y Marcos es igual. Entonces, desde ese
+[1:28:41.2 – 1:28:46.8] (5321.2–5326.8) punto de vista humano creo que tienen mucho en común. Son trabajadores, son muy estructurados,
+[1:28:46.8 – 1:28:56.9] (5326.8–5336.9) organizados, como dije saben priorizar, forman buenos equipos, planifican muy bien. Por ahí un
+[1:28:56.9 – 1:29:02.9] (5336.9–5342.9) poquito diferente por el negocio que les toca manejar, o sea, Jamie obviamente sale de un
+[1:29:02.9 – 1:29:09.4] (5342.9–5349.4) negocio muy regulado, entonces tal vez no tiene la visión disruptiva de Marcos, Marcos es mucho
+[1:29:09.4 – 1:29:17.1] (5349.4–5357.1) disruptivo en la parte tecnológica, pero Jamie tiene más el aspecto institucional,
+[1:29:17.3 – 1:29:23.4] (5357.3–5363.4) es casi un jefe de estado en mucho sentido, entonces tener la posibilidad de compartir
+[1:29:23.4 – 1:29:34.8] (5363.4–5374.8) momentos con dos personas tan completas y fundamentalmente tan humanas para mí es un
+[1:29:34.8 – 1:29:38.9] (5374.8–5378.9) privilegio. Dijiste que estás en el directorio de cuatro empresas, una es Mercado de Ligre,
+[1:29:38.9 – 1:29:39.8] (5378.9–5379.8) ¿Cuáles son las otras tres?
+[1:29:40.3 – 1:29:47.2] (5380.3–5387.2) La segunda es Globant, que nuevamente está en un proceso de transformación super interesante
+[1:29:47.2 – 1:29:54.2] (5387.2–5394.2) y también con un grupo de personas muy muy buenas. Luego Pampa Energía, que Pampa Energía es la
+[1:29:54.2 – 1:29:58.6] (5394.2–5398.6) más nueva. Yo soy recientemente miembro del directorio de Pampa Energía. Mi interés en
+[1:29:58.6 – 1:30:05.5] (5398.6–5405.5) Pampa Energía es porque yo creo que si miramos hacia el futuro, la energía va a determinar todo
+[1:30:05.5 – 1:30:12.4] (5405.5–5412.4) futuro. Básicamente, todas estas conversaciones de inteligencia artificial
+[1:30:14.3 – 1:30:20.1] (5414.3–5420.1) está relacionado a la información, está relacionado a datos y lo único que
+[1:30:20.1 – 1:30:25.8] (5420.1–5425.8) hace es transforma energía, electrones, digamos, en bits. O sea, estás
+[1:30:25.8 – 1:30:32.7] (5425.8–5432.7) transformando energía en información. Eso es lo que es. Y como dice el
+[1:30:32.7 – 1:30:41.4] (5432.7–5441.4) chairman y CEO de NVIDIA, que la Inteligencia Artificial lo llama como una torta de cinco
+[1:30:42.5 – 1:30:47.9] (5442.5–5447.9) eslabones, no sé cómo se llama, five layer cake, dice, es de cinco capas. Y la primera
+[1:30:47.9 – 1:30:53.2] (5447.9–5453.2) capa de eso es la energía. Entonces es muy interesante. Me parece que están haciendo
+[1:30:53.2 – 1:30:58.6] (5453.2–5458.6) un montón de proyectos muy interesantes, como todo el proyecto de Urea, el desarrollo
+[1:30:58.6 – 1:31:02.6] (5458.6–5462.6) de Vaca Muerta, tiene una empresa súper interesante. Así que estoy recién aprendiendo
+[1:31:02.6 – 1:31:09.5] (5462.6–5469.5) soy más nuevo en ese directorio y me parece digamos muy muy interesante todo lo que está pasando. Y
+[1:31:09.5 – 1:31:15.1] (5469.5–5475.1) después estoy en una compañía de Singapur que se dedica a hacer data centers, que se llama DayOne,
+[1:31:16.3 – 1:31:21.2] (5476.3–5481.2) que es una compañía que hace data center en distintas partes del mundo y tiene operaciones
+[1:31:21.2 – 1:31:29.1] (5481.2–5489.1) en ocho países alrededor del mundo. En Finlandia, están en Singapur, en Tailandia,
+[1:31:29.1 – 1:31:33.1] (5489.1–5493.1) en Malasia, en Indonesia, en Japón, en Hong Kong,
+[1:31:35.5 – 1:31:39.2] (5495.5–5499.2) y están viendo de seguir expandiéndose fundamentalmente
+[1:31:39.2 – 1:31:41.2] (5499.2–5501.2) en Europa muy, muy fuertemente.
+[1:31:43.4 – 1:31:45.7] (5503.4–5505.7) Y ellos trabajan en todo el mundo excepto en China.
+[1:31:45.9 – 1:31:49.4] (5505.9–5509.4) No tienen operaciones en China, pero fuera de China,
+[1:31:49.9 – 1:31:51.4] (5509.9–5511.4) y hoy por hoy no tienen en Estados Unidos.
+[1:31:51.6 – 1:31:53.5] (5511.6–5513.5) Estados Unidos tiene muchas complicaciones, digamos,
+[1:31:53.6 – 1:31:55.5] (5513.6–5515.5) con todo el tema de abrir nuevos data centers.
+[1:31:55.8 – 1:31:57.5] (5515.8–5517.5) Están todo el mundo hablando sobre ese tema,
+[1:31:57.5 – 1:32:00.2] (5517.5–5520.2) pero ellos construyen data centers en el resto del mundo.
+[1:32:01.8 – 1:32:04.8] (5521.8–5524.8) Y es una compañía de la que puedo aprender muchísimo,
+[1:32:04.8 – 1:32:06.2] (5524.8–5526.2) como te habrás dado cuenta.
+[1:32:06.8 – 1:32:08.9] (5526.8–5528.9) Estoy viendo todos los elementos de inteligencia
+[1:32:08.9 – 1:32:09.3] (5528.9–5529.3) artificial.
+[1:32:09.4 – 1:32:10.8] (5529.4–5530.8) Creo que es muy importante eso.
+[1:32:11.1 – 1:32:14.7] (5531.1–5534.7) Entonces, desde la energía hasta los data centers,
+[1:32:15.3 – 1:32:17.8] (5535.3–5537.8) los que están haciendo la transformación de esta
+[1:32:17.8 – 1:32:20.7] (5537.8–5540.7) inteligencia artificial de empresas como Globant y los
+[1:32:20.7 – 1:32:22.8] (5540.7–5542.8) usuarios que son empresas como Mercado Libre.
+[1:32:22.9 – 1:32:25.5] (5542.9–5545.5) O sea que tratando incorporadamente toda la
+[1:32:25.5 – 1:32:31.8] (5545.5–5551.8) de inteligencia artificial. O sea, estás en las palas de la febre del oro. En vez de competir por
+[1:32:31.8 – 1:32:36.1] (5551.8–5556.1) el oro vamos a hacer palas. Es parte de la curiosidad, es parte de tratar de entender este
+[1:32:36.1 – 1:32:43.6] (5556.1–5563.6) gran fenómeno que está ocurriendo que es muy muy importante y creo que estando verlo desde
+[1:32:43.6 – 1:32:51.1] (5563.6–5571.1) adentro te ayuda a generarte una perspectiva más sólida de qué se viene. O sea, si esto
+[1:32:51.1 – 1:32:56.6] (5571.1–5576.6) nos va a salvar o nos va a matar, ok? Por supuesto yo espero que esté más por el lado de que nos va
+[1:32:56.6 – 1:33:01.4] (5576.6–5581.4) a salvar y que va a ser algo que va a agregar un valor increíble a la humanidad, pero digo todo
+[1:33:01.4 – 1:33:07.4] (5581.4–5587.4) esto también con un poquito de precaución de que hay ciertos costos que tenemos que tenerlo en cuenta.
+[1:33:08.0 – 1:33:13.3] (5588.0–5593.3) Y estamos en un momento álgido de la discusión en Estados Unidos. ¿Qué significa estar en el
+[1:33:13.3 – 1:33:19.7] (5593.3–5599.7) directorio? ¿Cómo es tu trabajo? El trabajo es, fundamentalmente, no estás en la gestión de la
+[1:33:19.7 – 1:33:24.0] (5599.7–5604.0) o sea, yo no estoy en la gestión de la empresa, no soy un ejecutivo de la empresa, soy un director
+[1:33:24.0 – 1:33:31.0] (5604.0–5611.0) de la empresa, significa que tenés reuniones de directorios cada tanto y tu función se reduce,
+[1:33:31.2 – 1:33:42.6] (5611.2–5622.6) yo te diría a tres cosas fundamentalmente. Número uno, asegurarnos de tener la estrategia de largo
+[1:33:42.6 – 1:33:48.2] (5622.6–5628.2) plazo correcta, asegurarnos que la estrategia sea la correcta. Número dos, asegurarnos de
+[1:33:48.2 – 1:33:55.3] (5628.2–5635.3) el equipo sea el equipo adecuado para llevar a cabo esa estrategia en el largo plazo. Y número
+[1:33:55.3 – 1:34:00.5] (5635.3–5640.5) tres, asegurarnos de que la reputación de la compañía esté bien protegida bajo cualquier
+[1:34:00.5 – 1:34:06.9] (5640.5–5646.9) circunstancia. Entonces para mí esos son los tres temas más importantes. Tener la estrategia
+[1:34:06.9 – 1:34:14.6] (5646.9–5654.6) correcta, tener el equipo que pueda ejecutar esa estrategia. Y número tres, proteger la
+[1:34:14.6 – 1:34:23.6] (5654.6–5663.6) de la compañía bajo cualquier circunstancia. Entonces, mi asociación es siempre con compañías
+[1:34:23.6 – 1:34:27.5] (5663.6–5667.5) que cuando yo pienso el tema de reputación es muy importante. Quiero que sean empresas
+[1:34:29.4 – 1:34:33.5] (5669.4–5673.5) que mantengan una reputación pristina. Muchísimas gracias por tu tiempo,
+[1:34:33.6 – 1:34:35.3] (5673.6–5675.3) Nicolás. Muchísimas gracias, un saludo.

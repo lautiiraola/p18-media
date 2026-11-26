@@ -1,0 +1,11 @@
+DIRECCIÓN DE VOZ — P18-004-milton-hershey
+Texto para ElevenLabs: 02_script/texto-elevenlabs.txt (cifras en palabras; 665 caracteres). Guion de referencia: voiceover-final.txt (101 palabras).
+Voz: ElevenLabs "Brian - Warm, Smooth, Confident" (stability 0.50, similarity 0.75), con tools/voz_elevenlabs.py. Máximo 3 tomas.
+Salida: 03_voiceover/inbox/voz.wav → la aprobada a 03_voiceover/approved/.
+INTENCIÓN: narrador de documental cercano; cuenta una apuesta, no una hazaña. Nada épico.
+EVOLUCIÓN: seco y casi intrigado (hook) → bajo (la quiebra) → se abre (rico con caramelos) → curiosidad (Chicago, máquinas)
+→ cálido (la frase) → firme (la venta, "un millón") → sereno (barra, fábrica, pueblo) → cercano (la pregunta).
+PRONUNCIACIÓN: Hershey → "Jérshi" · Lancaster → "Lánkaster" · Filadelfia y Chicago en español. Si dice "Hershey" con h muda
+o "Lancáster", probar escribiendo "Jérshi"/"Lánkaster" en el texto de ElevenLabs (no en los subtítulos).
+SI DURA MÁS DE 46 s: sacar "Ese año salió su primera barra." antes que acelerar.
+VALIDACIÓN: ffprobe, ebur128, silencedetect, whisper palabra por palabra contra voiceover-final.txt.

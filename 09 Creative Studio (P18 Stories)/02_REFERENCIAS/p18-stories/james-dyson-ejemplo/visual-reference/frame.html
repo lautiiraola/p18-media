@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=1080, initial-scale=1">
+  <title>P18 Stories · James Dyson · Frame Reference</title>
+  <style>
+    @font-face{font-family:Manrope;src:url('./assets/Manrope-Variable.ttf') format('truetype');font-weight:200 900;font-display:swap}
+    :root{--deep:#14251d;--ink:#172019;--lime:#c2f542;--paper:#f5f5eb;--blue:#8ec3e6;--muted:#cdd3c8;--clay:#c97955}
+    *{box-sizing:border-box}html,body{width:1080px;height:1920px;margin:0;overflow:hidden;background:#07100c;font-family:Manrope,Arial,sans-serif}.frame{position:relative;width:1080px;height:1920px;overflow:hidden;background:var(--deep);color:var(--paper);display:none}.frame.active{display:block}
+    .photo{position:absolute;width:100%;height:100%;object-fit:cover}.shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,22,17,.08) 0%,rgba(10,22,17,.12) 35%,rgba(10,22,17,.88) 100%)}.shade-left{position:absolute;inset:0;background:linear-gradient(90deg,rgba(8,19,14,.94),rgba(8,19,14,.54) 50%,rgba(8,19,14,.08))}
+    .topline{position:absolute;top:94px;left:82px;right:82px;display:flex;justify-content:space-between;align-items:center;font-size:20px;font-weight:720;letter-spacing:.14em;text-transform:uppercase}.tag{color:var(--lime);padding:4px 0 4px 13px;border-left:5px solid var(--lime)}.time{color:var(--paper);opacity:.62;font-variant-numeric:tabular-nums}.subtitle{position:absolute;top:190px;left:82px;right:82px;font-size:62px;line-height:1.08;font-weight:720;letter-spacing:-.038em;text-wrap:balance}.subtitle.compact{font-size:54px;line-height:1.1}.active-word{color:inherit;padding:0 .03em;background:linear-gradient(transparent 76%,var(--lime) 76%,var(--lime) 92%,transparent 92%);box-decoration-break:clone;-webkit-box-decoration-break:clone}.blue-word{color:inherit;padding:0 .03em;background:linear-gradient(transparent 76%,var(--blue) 76%,var(--blue) 92%,transparent 92%);box-decoration-break:clone;-webkit-box-decoration-break:clone}
+    .brand{position:absolute;left:82px;bottom:88px;display:flex;align-items:center;gap:18px;font-size:18px;font-weight:680;letter-spacing:.12em;text-transform:uppercase;max-width:510px}.brand-badge{background:transparent;color:var(--lime);padding:0;letter-spacing:-.03em;flex:0 0 auto;font-weight:850}.brand-note{opacity:.62}.source{position:absolute;right:82px;bottom:92px;font-size:14px;line-height:1.25;opacity:.48;text-align:right;max-width:305px}
+    .kicker{font-size:20px;font-weight:720;letter-spacing:.15em;text-transform:uppercase}.big-number{font-size:240px;line-height:.84;font-weight:820;letter-spacing:-.075em}.caption{font-size:34px;line-height:1.25;font-weight:580}.fine{font-size:24px;line-height:1.4;color:rgba(245,245,235,.68)}
+    .paper{background:var(--paper);color:var(--ink)}.paper .time{color:var(--ink)}.paper .brand-note,.paper .source{color:var(--ink)}.paper .brand-badge{color:var(--ink)}
+    .grid-dots{position:absolute;inset:520px 70px 250px;display:grid;grid-template-columns:repeat(12,1fr);gap:11px}.dot{height:20px;background:rgba(245,245,235,.16)}.dot.hot{background:var(--lime)}
+    .cutout{position:absolute;right:-130px;bottom:-20px;height:1300px;width:910px;object-fit:cover;object-position:47% 28%;filter:grayscale(1) contrast(1.08)}.cutout-mask{position:absolute;inset:0;background:linear-gradient(90deg,var(--deep) 0%,transparent 44%),linear-gradient(180deg,transparent 65%,var(--deep) 95%)}
+    .context-card{position:absolute;left:82px;right:82px;bottom:270px;background:rgba(245,245,235,.96);color:var(--ink);padding:34px 38px;border-left:8px solid var(--blue)}.context-card .year{font-size:88px;line-height:.92;font-weight:780;letter-spacing:-.055em}.context-card p{font-size:30px;line-height:1.3;font-weight:560;margin:16px 0 0}
+    .diagram{position:absolute;left:85px;right:85px;top:570px;height:720px;border:3px solid rgba(245,245,235,.22);background:rgba(5,15,10,.32)}.bag{position:absolute;left:110px;top:160px;width:260px;height:380px;border:12px solid var(--paper);border-radius:38% 38% 22% 22%;overflow:hidden}.dust{position:absolute;inset:auto 0 0;height:70%;background:repeating-radial-gradient(circle at 10px 10px,var(--clay) 0 8px,transparent 9px 22px)}.air{position:absolute;left:430px;top:210px;width:340px;height:140px;border-top:15px solid var(--blue);border-radius:50%}.air:after{content:'';position:absolute;right:-5px;top:-31px;border-left:44px solid var(--blue);border-top:25px solid transparent;border-bottom:25px solid transparent}.blocked{position:absolute;left:490px;top:390px;font-size:56px;font-weight:900;color:var(--clay);transform:rotate(-7deg)}
+    .cyclone{position:absolute;left:220px;top:580px;width:640px;height:640px;border-radius:50%;border:28px solid rgba(142,195,230,.22)}.cyclone:before,.cyclone:after{content:'';position:absolute;border-radius:50%;border:24px solid transparent;border-top-color:var(--blue);border-right-color:var(--blue);transform:rotate(32deg)}.cyclone:before{inset:70px}.cyclone:after{inset:185px;border-width:20px}.cyclone-center{position:absolute;left:474px;top:830px;width:132px;height:132px;background:var(--lime);border-radius:50%;display:grid;place-items:center;color:var(--ink);font-size:28px;font-weight:900}
+    .prototype-counter{position:absolute;left:82px;right:82px;top:610px}.counter-row{display:flex;align-items:flex-end;justify-content:space-between;border-bottom:1px solid rgba(245,245,235,.25);padding:30px 0}.counter-row span:first-child{font-size:22px;font-weight:650;letter-spacing:.12em}.counter-row span:last-child{font-size:50px;font-weight:760}.counter-row:last-child{border-bottom:0;color:var(--paper);padding:36px 0;margin-top:20px;border-top:4px solid var(--lime)}.counter-row:last-child span:last-child{color:var(--lime)}
+    .rejections{position:absolute;top:560px;left:86px;right:86px;height:760px}.letter{position:absolute;width:700px;height:235px;background:var(--paper);color:var(--ink);padding:36px 42px;box-shadow:0 18px 60px rgba(0,0,0,.24);border-top:7px solid var(--clay)}.letter:nth-child(1){top:0;left:0;transform:rotate(-3deg)}.letter:nth-child(2){top:205px;right:0;transform:rotate(2deg)}.letter:nth-child(3){top:415px;left:50px;transform:rotate(-1deg)}.letter .no{font-size:62px;line-height:.85;font-weight:760}.letter .line{height:8px;background:var(--muted);margin-top:25px}.letter .line.short{width:55%}
+    .decision-line{position:absolute;left:72px;right:72px;top:780px;height:12px;background:rgba(245,245,235,.2)}.decision-line:after{content:'';position:absolute;left:46%;top:-19px;width:50px;height:50px;background:var(--lime);border-radius:50%}.choice{position:absolute;top:860px;width:430px}.choice.left{left:72px}.choice.right{right:72px}.choice h3{font-size:38px;margin:0 0 18px}.choice p{font-size:28px;line-height:1.3;margin:0;opacity:.72}.choice.right h3{color:var(--lime)}
+    .product-shot{position:absolute;left:82px;right:82px;top:500px;height:1000px;background:white;overflow:hidden;border:3px solid rgba(194,245,66,.8)}.product-shot img{width:100%;height:100%;object-fit:cover;object-position:center 44%}.product-label{position:absolute;left:34px;bottom:34px;background:rgba(20,37,29,.94);padding:20px 25px;color:var(--paper);border-left:5px solid var(--lime)}.product-label b{font-size:40px;font-weight:740}.product-label span{display:block;font-size:18px;margin-top:7px;letter-spacing:.12em;text-transform:uppercase;color:var(--lime)}
+    .equation{position:absolute;top:610px;left:82px;right:82px}.equation .num{font-size:205px;font-weight:780;line-height:.9;letter-spacing:-.065em}.equation .equals{font-size:58px;color:var(--blue);font-weight:700;margin:46px 0}.equation .result{font-size:70px;font-weight:740;line-height:1.08;letter-spacing:-.04em}.rule{position:absolute;left:82px;right:82px;bottom:320px;height:2px;background:var(--ink)}
+    .closing{position:absolute;left:82px;right:82px;top:430px;font-size:82px;line-height:1.07;font-weight:720;letter-spacing:-.045em;max-width:890px}.closing-rule{position:absolute;left:82px;right:82px;bottom:320px;height:2px;background:var(--ink)}.closing-foot{position:absolute;left:82px;right:82px;bottom:198px;display:flex;justify-content:space-between;align-items:center;font-size:21px;font-weight:650}
+  </style>
+</head>
+<body>
+  <section class="frame" data-frame="1">
+    <img class="photo" src="./assets/dyson-dc01-detail.jpg" alt="Dyson DC01">
+    <div class="shade"></div>
+    <div class="topline"><span class="tag">El intento</span><span class="time">00:00</span></div>
+    <div class="subtitle">Antes de funcionar, esta idea <span class="active-word">falló 5.126 veces.</span></div>
+    <div class="brand"><span class="brand-badge">P18</span><span class="brand-note">Historias para actuar</span></div>
+    <div class="source">Archivo real · Dyson DC01</div>
+  </section>
+
+  <section class="frame" data-frame="2">
+    <img class="cutout" src="./assets/james-dyson-portrait.jpg" alt="James Dyson">
+    <div class="cutout-mask"></div>
+    <div class="topline"><span class="tag">El protagonista</span><span class="time">00:04</span></div>
+    <div class="subtitle compact">En 1978, James Dyson no intentaba crear una empresa. Quería resolver <span class="active-word">un problema cotidiano.</span></div>
+    <div class="context-card"><div class="year">1978</div><p>Una aspiradora nueva perdía succión cuando la bolsa se llenaba de polvo.</p></div>
+    <div class="brand"><span class="brand-badge">P18</span><span class="brand-note">Contexto verificable</span></div>
+    <div class="source">Retrato: Royal Society · CC BY-SA 4.0</div>
+  </section>
+
+  <section class="frame" data-frame="3">
+    <div class="topline"><span class="tag">El problema</span><span class="time">00:11</span></div>
+    <div class="subtitle compact">El polvo tapaba los poros de la bolsa. Cuanto más limpiaba, <span class="active-word">menos aspiraba.</span></div>
+    <div class="diagram"><div class="bag"><div class="dust"></div></div><div class="air"></div><div class="blocked">FLUJO BLOQUEADO</div></div>
+    <div class="brand"><span class="brand-badge">P18</span><span class="brand-note">Gráfico explicativo</span></div>
+    <div class="source">Representación gráfica · no es archivo histórico</div>
+  </section>
+
+  <section class="frame" data-frame="4">
+    <div class="topline"><span class="tag">La observación</span><span class="time">00:18</span></div>
+    <div class="subtitle compact">En un aserradero vio un ciclón industrial que separaba el polvo del aire. Y se preguntó: <span class="blue-word">¿puede hacerse más pequeño?</span></div>
+    <div class="cyclone"></div><div class="cyclone-center">IDEA</div>
+    <div class="brand"><span class="brand-badge">P18</span><span class="brand-note">Una pregunta cambia el recorrido</span></div>
+    <div class="source">Metáfora visual basada en fuente oficial Dyson</div>
+  </section>
+
+  <section class="frame" data-frame="5">
+    <div class="topline"><span class="tag">El proceso</span><span class="time">00:27</span></div>
+    <div class="subtitle">No encontró la respuesta. La fue <span class="active-word">construyendo.</span></div>
+    <div class="prototype-counter">
+      <div class="counter-row"><span>PRIMER PROTOTIPO</span><span>0001</span></div>
+      <div class="counter-row"><span>AJUSTAR · PROBAR · FALLAR</span><span>0642</span></div>
+      <div class="counter-row"><span>VOLVER A INTENTAR</span><span>2840</span></div>
+      <div class="counter-row"><span>PROTOTIPO FUNCIONAL</span><span>5127</span></div>
+    </div>
+    <div class="brand"><span class="brand-badge">P18</span><span class="brand-note">5 años de iteración</span></div>
+    <div class="source">Cifra: James Dyson Foundation</div>
+  </section>
+
+  <section class="frame" data-frame="6">
+    <div class="topline"><span class="tag">El rechazo</span><span class="time">00:38</span></div>
+    <div class="subtitle compact">Cuando finalmente funcionó, los grandes fabricantes <span class="active-word">rechazaron la idea.</span></div>
+    <div class="rejections">
+      <div class="letter"><div class="no">NO.</div><div class="line"></div><div class="line short"></div></div>
+      <div class="letter"><div class="no">NO.</div><div class="line"></div><div class="line short"></div></div>
+      <div class="letter"><div class="no">NO.</div><div class="line"></div><div class="line short"></div></div>
+    </div>
+    <div class="brand"><span class="brand-badge">P18</span><span class="brand-note">Conflicto, no decoración</span></div>
+    <div class="source">Composición gráfica · rechazos corroborados por Dyson</div>
+  </section>
+
+  <section class="frame" data-frame="7">
+    <img class="photo" src="./assets/james-dyson-portrait.jpg" alt="James Dyson" style="object-position:53% 28%;filter:grayscale(1)">
+    <div class="shade-left"></div><div class="shade"></div>
+    <div class="topline"><span class="tag">La decisión</span><span class="time">00:47</span></div>
+    <div class="subtitle compact">Entonces dejó de esperar que alguien aprobara la idea y decidió <span class="active-word">lanzarla por su cuenta.</span></div>
+    <div class="decision-line"></div>
+    <div class="choice left"><h3>ESPERAR PERMISO</h3><p>Seguir intentando convencer a las mismas empresas.</p></div>
+    <div class="choice right"><h3>CONSTRUIR EL CAMINO</h3><p>Asumir el riesgo y llevar el producto al mercado.</p></div>
+    <div class="brand"><span class="brand-badge">P18</span><span class="brand-note">Decisión central</span></div>
+    <div class="source">Retrato: Royal Society · CC BY-SA 4.0</div>
+  </section>
+
+  <section class="frame" data-frame="8">
+    <div class="topline"><span class="tag">El resultado</span><span class="time">00:56</span></div>
+    <div class="subtitle compact">En 1993 lanzó el DC01. La idea que nadie quería fabricar se convirtió en <span class="active-word">una empresa global.</span></div>
+    <div class="product-shot"><img src="./assets/dyson-dc01-front.jpg" alt="Dyson DC01"><div class="product-label"><b>DC01</b><span>Lanzamiento · 1993</span></div></div>
+    <div class="brand"><span class="brand-badge">P18</span><span class="brand-note">Archivo real</span></div>
+    <div class="source">Fotografía: Lankyrider · CC BY-SA 4.0</div>
+  </section>
+
+  <section class="frame paper" data-frame="9">
+    <div class="topline"><span class="tag">La idea</span><span class="time">01:05</span></div>
+    <div class="subtitle compact">El prototipo 5.127 no apareció después de 5.126 intentos inútiles.</div>
+    <div class="equation"><div class="num">5.126</div><div class="caption">intentos que produjeron información</div><div class="equals">↓</div><div class="result">UNA IDEA<br><span class="active-word">MEJORADA</span><br>5.126 VECES</div></div>
+    <div class="rule"></div>
+    <div class="brand"><span class="brand-badge">P18</span><span class="brand-note">Hecho + interpretación</span></div>
+    <div class="source">La reflexión se presenta como lectura editorial P18</div>
+  </section>
+
+  <section class="frame paper" data-frame="10">
+    <div class="topline"><span class="kicker">P18 Stories · Cierre</span><span class="time">01:12</span></div>
+    <div class="closing">¿Qué podrías aprender si dejaras de tratar cada intento como <span class="active-word">una sentencia?</span></div>
+    <div class="closing-rule"></div>
+    <div class="closing-foot"><span class="brand-badge">P18</span><span>Hay todo un mundo. Exploralo.</span></div>
+  </section>
+
+  <script>
+    const requested=Math.min(10,Math.max(1,Number(new URLSearchParams(location.search).get('f')||1)));
+    document.querySelector(`[data-frame="${requested}"]`).classList.add('active');
+  </script>
+</body>
+</html>

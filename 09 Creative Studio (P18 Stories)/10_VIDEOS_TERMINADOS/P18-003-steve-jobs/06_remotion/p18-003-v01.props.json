@@ -1,0 +1,1043 @@
+{
+ "data": {
+  "videoId": "P18-003",
+  "fps": 60,
+  "durationInFrames": 2571,
+  "voice": "audio/voz.wav",
+  "music": {
+   "file": "audio/cama.wav",
+   "points": [
+    [
+     0,
+     0.0
+    ],
+    [
+     0.6,
+     0.11
+    ],
+    [
+     8.74,
+     0.11
+    ],
+    [
+     13.36,
+     0.05
+    ],
+    [
+     17.94,
+     0.06
+    ],
+    [
+     20.98,
+     0.1
+    ],
+    [
+     24.75,
+     0.14
+    ],
+    [
+     28.63,
+     0.13
+    ],
+    [
+     31.84,
+     0.08
+    ],
+    [
+     36.28,
+     0.05
+    ],
+    [
+     39.34,
+     0.05
+    ],
+    [
+     40.09,
+     0.12
+    ],
+    [
+     42.440000000000005,
+     0.09
+    ],
+    [
+     42.84,
+     0.0
+    ]
+   ]
+  },
+  "sfx": [
+   {
+    "file": "audio/tick.wav",
+    "at": 0.05,
+    "vol": 0.16
+   },
+   {
+    "file": "audio/impacto_suave.wav",
+    "at": 0.76,
+    "vol": 0.16
+   },
+   {
+    "file": "audio/whoosh_corto.wav",
+    "at": 3.72,
+    "vol": 0.12
+   },
+   {
+    "file": "audio/whoosh_suave.wav",
+    "at": 6.26,
+    "vol": 0.12
+   },
+   {
+    "file": "audio/golpe_grave.wav",
+    "at": 13.36,
+    "vol": 0.6
+   },
+   {
+    "file": "audio/pop.wav",
+    "at": 16.08,
+    "vol": 0.16
+   },
+   {
+    "file": "audio/pop.wav",
+    "at": 17.21,
+    "vol": 0.14
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 19.14,
+    "vol": 0.14
+   },
+   {
+    "file": "audio/swell.wav",
+    "at": 23.3,
+    "vol": 0.5
+   },
+   {
+    "file": "audio/impacto_suave.wav",
+    "at": 24.75,
+    "vol": 0.2
+   },
+   {
+    "file": "audio/whoosh_suave.wav",
+    "at": 28.63,
+    "vol": 0.14
+   },
+   {
+    "file": "audio/pop.wav",
+    "at": 30.68,
+    "vol": 0.18
+   },
+   {
+    "file": "audio/whoosh_corto.wav",
+    "at": 31.84,
+    "vol": 0.1
+   },
+   {
+    "file": "audio/whoosh_suave.wav",
+    "at": 39.84,
+    "vol": 0.12
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 39.96,
+    "vol": 0.11
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 40.07,
+    "vol": 0.11
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 40.18,
+    "vol": 0.11
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 40.29,
+    "vol": 0.11
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 40.4,
+    "vol": 0.11
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 40.51,
+    "vol": 0.11
+   },
+   {
+    "file": "audio/pop.wav",
+    "at": 40.620000000000005,
+    "vol": 0.2
+   }
+  ],
+  "captions": [
+   {
+    "unit": 2,
+    "start": 3.72,
+    "end": 6.26,
+    "words": [
+     {
+      "text": "Steve",
+      "t0": 3.72,
+      "active": false
+     },
+     {
+      "text": "Jobs,",
+      "t0": 4.28,
+      "active": false
+     },
+     {
+      "text": "a",
+      "t0": 4.94,
+      "active": false
+     },
+     {
+      "text": "los",
+      "t0": 5.05,
+      "active": false
+     },
+     {
+      "text": "30.",
+      "t0": 5.38,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 3,
+    "start": 6.26,
+    "end": 8.74,
+    "words": [
+     {
+      "text": "Había",
+      "t0": 6.26,
+      "active": false
+     },
+     {
+      "text": "creado",
+      "t0": 6.72,
+      "active": false
+     },
+     {
+      "text": "Apple",
+      "t0": 7.5,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "en",
+      "t0": 7.72,
+      "active": false
+     },
+     {
+      "text": "un",
+      "t0": 7.91,
+      "active": false
+     },
+     {
+      "text": "garaje.",
+      "t0": 8.08,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 4,
+    "start": 8.74,
+    "end": 9.7,
+    "words": [
+     {
+      "text": "Pero",
+      "t0": 8.74,
+      "active": false
+     },
+     {
+      "text": "el",
+      "t0": 8.98,
+      "active": false
+     },
+     {
+      "text": "directorio",
+      "t0": 9.11,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 4,
+    "start": 9.7,
+    "end": 12.74,
+    "words": [
+     {
+      "text": "eligió",
+      "t0": 9.7,
+      "active": false
+     },
+     {
+      "text": "al",
+      "t0": 10.06,
+      "active": false
+     },
+     {
+      "text": "ejecutivo",
+      "t0": 10.18,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "que",
+      "t0": 10.74,
+      "active": false
+     },
+     {
+      "text": "él",
+      "t0": 10.96,
+      "active": false
+     },
+     {
+      "text": "mismo",
+      "t0": 11.11,
+      "active": false
+     },
+     {
+      "text": "había",
+      "t0": 11.48,
+      "active": false
+     },
+     {
+      "text": "traído,",
+      "t0": 11.83,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 4,
+    "start": 12.74,
+    "end": 14.18,
+    "words": [
+     {
+      "text": "y",
+      "t0": 12.74,
+      "active": false
+     },
+     {
+      "text": "lo",
+      "t0": 12.94,
+      "active": false
+     },
+     {
+      "text": "dejó",
+      "t0": 13.01,
+      "active": false
+     },
+     {
+      "text": "afuera.",
+      "t0": 13.36,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 5,
+    "start": 14.18,
+    "end": 15.68,
+    "words": [
+     {
+      "text": "No",
+      "t0": 14.18,
+      "active": false
+     },
+     {
+      "text": "se",
+      "t0": 14.34,
+      "active": false
+     },
+     {
+      "text": "quedó",
+      "t0": 14.55,
+      "active": false
+     },
+     {
+      "text": "quieto:",
+      "t0": 14.91,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 5,
+    "start": 15.68,
+    "end": 17.94,
+    "words": [
+     {
+      "text": "creó",
+      "t0": 15.68,
+      "active": false
+     },
+     {
+      "text": "NeXT",
+      "t0": 16.08,
+      "active": false
+     },
+     {
+      "text": "y",
+      "t0": 16.49,
+      "active": false
+     },
+     {
+      "text": "compró",
+      "t0": 16.6,
+      "active": false
+     },
+     {
+      "text": "Pixar.",
+      "t0": 17.21,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 6,
+    "start": 17.94,
+    "end": 20.98,
+    "words": [
+     {
+      "text": "Mientras,",
+      "t0": 17.94,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "Apple",
+      "t0": 18.63,
+      "active": false
+     },
+     {
+      "text": "se",
+      "t0": 18.81,
+      "active": false
+     },
+     {
+      "text": "hundía",
+      "t0": 19.35,
+      "active": false
+     },
+     {
+      "text": "en",
+      "t0": 19.88,
+      "active": false
+     },
+     {
+      "text": "pérdidas.",
+      "t0": 19.95,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 7,
+    "start": 20.98,
+    "end": 23.94,
+    "words": [
+     {
+      "text": "11",
+      "t0": 20.98,
+      "active": false
+     },
+     {
+      "text": "años",
+      "t0": 21.37,
+      "active": false
+     },
+     {
+      "text": "después,",
+      "t0": 21.63,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "la",
+      "t0": 22.22,
+      "active": false
+     },
+     {
+      "text": "empresa",
+      "t0": 22.35,
+      "active": false
+     },
+     {
+      "text": "que",
+      "t0": 22.87,
+      "active": false
+     },
+     {
+      "text": "lo",
+      "t0": 23.0,
+      "active": false
+     },
+     {
+      "text": "había",
+      "t0": 23.13,
+      "active": false
+     },
+     {
+      "text": "echado",
+      "t0": 23.46,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 7,
+    "start": 23.94,
+    "end": 25.86,
+    "words": [
+     {
+      "text": "lo",
+      "t0": 23.94,
+      "active": false
+     },
+     {
+      "text": "fue",
+      "t0": 24.02,
+      "active": false
+     },
+     {
+      "text": "a",
+      "t0": 24.32,
+      "active": false
+     },
+     {
+      "text": "buscar",
+      "t0": 24.75,
+      "active": true,
+      "br": true
+     },
+     {
+      "text": "para",
+      "t0": 24.77,
+      "active": false
+     },
+     {
+      "text": "salvarse:",
+      "t0": 25.04,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 7,
+    "start": 25.86,
+    "end": 28.63,
+    "words": [
+     {
+      "text": "compró",
+      "t0": 25.86,
+      "active": false
+     },
+     {
+      "text": "NeXT,",
+      "t0": 26.52,
+      "active": false
+     },
+     {
+      "text": "y",
+      "t0": 26.96,
+      "active": false
+     },
+     {
+      "text": "volvió",
+      "t0": 27.07,
+      "active": false
+     },
+     {
+      "text": "Jobs.",
+      "t0": 27.78,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 8,
+    "start": 28.63,
+    "end": 29.72,
+    "words": [
+     {
+      "text": "Un",
+      "t0": 28.63,
+      "active": false
+     },
+     {
+      "text": "año",
+      "t0": 28.69,
+      "active": false
+     },
+     {
+      "text": "después,",
+      "t0": 28.94,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 8,
+    "start": 29.72,
+    "end": 31.84,
+    "words": [
+     {
+      "text": "Apple",
+      "t0": 29.72,
+      "active": false
+     },
+     {
+      "text": "volvía",
+      "t0": 30.11,
+      "active": false
+     },
+     {
+      "text": "a",
+      "t0": 30.6,
+      "active": false
+     },
+     {
+      "text": "ganar",
+      "t0": 30.68,
+      "active": false
+     },
+     {
+      "text": "plata.",
+      "t0": 31.09,
+      "active": true
+     }
+    ]
+   }
+  ],
+  "scenes": [
+   {
+    "id": "S01",
+    "t": [
+     0.0,
+     3.72
+    ],
+    "type": "quote",
+    "kicker": "La pregunta",
+    "bg": "deep",
+    "attribution": "Steve Jobs, Stanford, 2005",
+    "words": [
+     {
+      "text": "¿Cómo",
+      "t0": 0.06
+     },
+     {
+      "text": "te",
+      "t0": 0.29
+     },
+     {
+      "text": "pueden",
+      "t0": 0.41
+     },
+     {
+      "text": "echar",
+      "t0": 0.76
+     },
+     {
+      "text": "de",
+      "t0": 1.05
+     },
+     {
+      "text": "una",
+      "t0": 1.2
+     },
+     {
+      "text": "empresa",
+      "t0": 1.35
+     },
+     {
+      "text": "que",
+      "t0": 1.92
+     },
+     {
+      "text": "vos",
+      "t0": 2.13
+     },
+     {
+      "text": "fundaste?",
+      "t0": 2.46
+     }
+    ],
+    "underline": [
+     "echar",
+     "fundaste?"
+    ],
+    "gallery": [
+     {
+      "src": "img/A01.jpg",
+      "x": 560,
+      "y": 930,
+      "w": 400,
+      "h": 540,
+      "rot": 4,
+      "enter": "drop",
+      "fy": 0.3,
+      "credit": "Jobs, 2005 · mylerdude, CC BY 2.0",
+      "at": 0.9
+     }
+    ]
+   },
+   {
+    "id": "S02",
+    "t": [
+     3.72,
+     6.26
+    ],
+    "type": "portrait",
+    "kicker": "1985",
+    "src": "img/A02.jpg",
+    "label": "Steve Jobs, enero de 1984",
+    "credit": "Foto: Bernard Gotfryd · dominio público (Library of Congress)",
+    "gallery": [
+     {
+      "src": "img/A14.jpg",
+      "x": 640,
+      "y": 560,
+      "w": 320,
+      "h": 420,
+      "rot": 5,
+      "enter": "flip",
+      "fy": 0.35,
+      "mono": true,
+      "credit": "Jobs, anuario 1972 · dominio público",
+      "at": 4.32
+     }
+    ]
+   },
+   {
+    "id": "S03",
+    "t": [
+     6.26,
+     8.74
+    ],
+    "type": "photo",
+    "kicker": "El origen",
+    "src": "img/A03.jpg",
+    "from": 1.0,
+    "to": 1.1,
+    "focusX": 0.5,
+    "focusY": 0.5,
+    "label": "Apple I · 1976",
+    "credit": "Apple I, Smithsonian · Blakespot, CC0",
+    "enter": "iris",
+    "gallery": [
+     {
+      "src": "img/A04.jpg",
+      "x": 520,
+      "y": 1000,
+      "w": 460,
+      "h": 300,
+      "rot": -4,
+      "enter": "slide",
+      "fy": 0.2,
+      "credit": "Aviso del Apple I, 1976 · dominio público",
+      "at": 6.96
+     }
+    ]
+   },
+   {
+    "id": "S04",
+    "t": [
+     8.74,
+     14.18
+    ],
+    "type": "photo",
+    "kicker": "El directorio",
+    "src": "img/A05.jpg",
+    "from": 1.0,
+    "to": 1.06,
+    "focusX": 0.5,
+    "focusY": 0.06,
+    "label": "John Sculley · el CEO que Jobs había traído",
+    "credit": "Sculley en Pepsi, 1979 · B. Gotfryd, dominio público",
+    "enter": "wipe",
+    "gallery": [
+     {
+      "src": "img/A13.jpg",
+      "x": 640,
+      "y": 1010,
+      "w": 340,
+      "h": 330,
+      "rot": -5,
+      "enter": "drop",
+      "fy": 0.45,
+      "credit": "Macintosh 128K (1984) · B. Prieur, CC0",
+      "at": 11.14
+     }
+    ]
+   },
+   {
+    "id": "S05",
+    "t": [
+     14.18,
+     17.94
+    ],
+    "type": "photo",
+    "kicker": "Afuera",
+    "src": "img/A07.jpg",
+    "from": 1.0,
+    "to": 1.1,
+    "focusX": 0.5,
+    "focusY": 0.5,
+    "label": "NeXT · 1988–1993",
+    "credit": "Computadoras NeXT · stiefkind, CC0",
+    "enter": "flip",
+    "gallery": [
+     {
+      "src": "img/A08.jpg",
+      "x": 560,
+      "y": 1010,
+      "w": 420,
+      "h": 300,
+      "rot": 4,
+      "enter": "blinds",
+      "credit": "Pixar, Emeryville (2016) · S. Hahn Darlin, CC BY 2.0",
+      "at": 17.06
+     }
+    ]
+   },
+   {
+    "id": "S06",
+    "t": [
+     17.94,
+     20.98
+    ],
+    "type": "metric",
+    "kicker": "Mientras tanto",
+    "value": 816,
+    "unit": "millones de dólares",
+    "note": "Pérdida de Apple · año fiscal 1996",
+    "countAt": 19.14,
+    "gallery": [
+     {
+      "src": "img/A15.jpg",
+      "x": 580,
+      "y": 1000,
+      "w": 400,
+      "h": 340,
+      "rot": 5,
+      "enter": "zoom",
+      "credit": "Apple Newton, 1993 · M. Hicks, CC BY 2.0",
+      "at": 18.34
+     }
+    ]
+   },
+   {
+    "id": "S07",
+    "t": [
+     20.98,
+     25.86
+    ],
+    "type": "year",
+    "kicker": "El giro",
+    "bg": "paper",
+    "year": "1996",
+    "caption": "Once años después",
+    "gallery": [
+     {
+      "src": "img/A16.jpg",
+      "x": 500,
+      "y": 880,
+      "w": 480,
+      "h": 360,
+      "rot": 4,
+      "enter": "drop",
+      "fx": 0.3,
+      "credit": "Jobs, 2007 · JD Lasica, CC BY 2.0",
+      "at": 21.88
+     }
+    ]
+   },
+   {
+    "id": "S07b",
+    "t": [
+     25.86,
+     28.63
+    ],
+    "type": "photo",
+    "kicker": "El giro",
+    "src": "img/A12.jpg",
+    "from": 1.0,
+    "to": 1.1,
+    "focusX": 0.5,
+    "focusY": 0.5,
+    "label": "Apple compra NeXT · US$ 429 millones",
+    "credit": "NeXTcube, 1990 · M. Hicks, CC BY 2.0",
+    "gallery": [
+     {
+      "src": "img/A10.jpg",
+      "x": 540,
+      "y": 1000,
+      "w": 440,
+      "h": 320,
+      "rot": 4,
+      "enter": "iris",
+      "fx": 0.4,
+      "credit": "Jobs, 2008 · Tom Coates, CC BY 2.0",
+      "at": 27.02
+     }
+    ]
+   },
+   {
+    "id": "S08",
+    "t": [
+     28.63,
+     31.84
+    ],
+    "type": "fullbleed",
+    "kicker": "Ganancia · 1998",
+    "src": "img/A09.jpg",
+    "focusX": 0.5,
+    "focusY": 0.5,
+    "zoom": 1.12,
+    "credit": "iMac G3 (1998) · Tokumeigakarinoaoshima, CC0",
+    "headline": "+309 millones",
+    "headlineAt": 30.68,
+    "headlineTop": 300,
+    "headlineSize": 104
+   },
+   {
+    "id": "S09",
+    "t": [
+     31.84,
+     36.28
+    ],
+    "type": "quote",
+    "kicker": "Su lectura",
+    "bg": "paper",
+    "attribution": "Steve Jobs, Stanford, 2005",
+    "words": [
+     {
+      "text": "Que",
+      "t0": 32.83
+     },
+     {
+      "text": "me",
+      "t0": 33.08
+     },
+     {
+      "text": "echaran",
+      "t0": 33.37
+     },
+     {
+      "text": "fue",
+      "t0": 33.89
+     },
+     {
+      "text": "lo",
+      "t0": 34.14
+     },
+     {
+      "text": "mejor",
+      "t0": 34.3
+     },
+     {
+      "text": "que",
+      "t0": 34.71
+     },
+     {
+      "text": "me",
+      "t0": 34.94
+     },
+     {
+      "text": "pudo",
+      "t0": 35.2
+     },
+     {
+      "text": "pasar.",
+      "t0": 35.62
+     }
+    ],
+    "underline": [
+     "lo",
+     "mejor"
+    ],
+    "gallery": [
+     {
+      "src": "img/A11.jpg",
+      "x": 620,
+      "y": 980,
+      "w": 340,
+      "h": 360,
+      "rot": 4,
+      "enter": "slide",
+      "fy": 0.2,
+      "credit": "Jobs, 2010 · Gobierno de Chile, CC BY 2.0",
+      "at": 32.34
+     }
+    ]
+   },
+   {
+    "id": "S10",
+    "t": [
+     36.28,
+     39.84
+    ],
+    "type": "question",
+    "bg": "paper",
+    "words": [
+     {
+      "text": "¿Y",
+      "t0": 36.28
+     },
+     {
+      "text": "vos,",
+      "t0": 36.4
+     },
+     {
+      "text": "qué",
+      "t0": 36.65
+     },
+     {
+      "text": "hacés",
+      "t0": 36.8
+     },
+     {
+      "text": "cuando",
+      "t0": 37.2
+     },
+     {
+      "text": "te",
+      "t0": 37.53
+     },
+     {
+      "text": "dejan",
+      "t0": 37.66
+     },
+     {
+      "text": "afuera?",
+      "t0": 37.99
+     }
+    ],
+    "underline": [
+     "dejan",
+     "afuera?"
+    ]
+   },
+   {
+    "id": "OUTRO",
+    "t": [
+     39.84,
+     42.84
+    ],
+    "type": "outro3d",
+    "fromNumber": "11",
+    "fromLabel": "años afuera",
+    "line": "Mentalidad emprendedora para los jóvenes.",
+    "lineAccent": "los jóvenes",
+    "handle": "@proyecto18.ar"
+   }
+  ],
+  "footer": "Historias para actuar"
+ }
+}

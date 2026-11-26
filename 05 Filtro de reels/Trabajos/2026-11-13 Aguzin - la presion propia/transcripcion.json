@@ -1,0 +1,904 @@
+{
+ "idioma": "es",
+ "duracion": 58.9,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 7.78,
+   "texto": "La parte más difícil es la presión que uno mismo se pone porque yo había o sea mis padres y toda mi",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.18,
+     "p": "La"
+    },
+    {
+     "ini": 0.18,
+     "fin": 0.42,
+     "p": "parte"
+    },
+    {
+     "ini": 0.42,
+     "fin": 0.68,
+     "p": "más"
+    },
+    {
+     "ini": 0.68,
+     "fin": 1.0,
+     "p": "difícil"
+    },
+    {
+     "ini": 1.0,
+     "fin": 1.22,
+     "p": "es"
+    },
+    {
+     "ini": 1.22,
+     "fin": 1.36,
+     "p": "la"
+    },
+    {
+     "ini": 1.36,
+     "fin": 1.64,
+     "p": "presión"
+    },
+    {
+     "ini": 1.64,
+     "fin": 1.8,
+     "p": "que"
+    },
+    {
+     "ini": 1.8,
+     "fin": 2.0,
+     "p": "uno"
+    },
+    {
+     "ini": 2.0,
+     "fin": 2.22,
+     "p": "mismo"
+    },
+    {
+     "ini": 2.22,
+     "fin": 2.48,
+     "p": "se"
+    },
+    {
+     "ini": 2.48,
+     "fin": 2.68,
+     "p": "pone"
+    },
+    {
+     "ini": 2.68,
+     "fin": 3.92,
+     "p": "porque"
+    },
+    {
+     "ini": 3.92,
+     "fin": 4.44,
+     "p": "yo"
+    },
+    {
+     "ini": 4.44,
+     "fin": 5.68,
+     "p": "había"
+    },
+    {
+     "ini": 5.68,
+     "fin": 6.46,
+     "p": "o"
+    },
+    {
+     "ini": 6.46,
+     "fin": 6.58,
+     "p": "sea"
+    },
+    {
+     "ini": 6.58,
+     "fin": 6.76,
+     "p": "mis"
+    },
+    {
+     "ini": 6.76,
+     "fin": 7.14,
+     "p": "padres"
+    },
+    {
+     "ini": 7.14,
+     "fin": 7.5,
+     "p": "y"
+    },
+    {
+     "ini": 7.5,
+     "fin": 7.62,
+     "p": "toda"
+    },
+    {
+     "ini": 7.62,
+     "fin": 7.78,
+     "p": "mi"
+    }
+   ]
+  },
+  {
+   "ini": 7.78,
+   "fin": 12.0,
+   "texto": "familia hicieron muchísimos sacrificios para que yo tenga esta oportunidad de estudiar en Estados",
+   "palabras": [
+    {
+     "ini": 7.78,
+     "fin": 8.28,
+     "p": "familia"
+    },
+    {
+     "ini": 8.28,
+     "fin": 8.7,
+     "p": "hicieron"
+    },
+    {
+     "ini": 8.7,
+     "fin": 9.2,
+     "p": "muchísimos"
+    },
+    {
+     "ini": 9.2,
+     "fin": 9.78,
+     "p": "sacrificios"
+    },
+    {
+     "ini": 9.78,
+     "fin": 10.02,
+     "p": "para"
+    },
+    {
+     "ini": 10.02,
+     "fin": 10.12,
+     "p": "que"
+    },
+    {
+     "ini": 10.12,
+     "fin": 10.32,
+     "p": "yo"
+    },
+    {
+     "ini": 10.32,
+     "fin": 10.52,
+     "p": "tenga"
+    },
+    {
+     "ini": 10.52,
+     "fin": 10.66,
+     "p": "esta"
+    },
+    {
+     "ini": 10.66,
+     "fin": 11.1,
+     "p": "oportunidad"
+    },
+    {
+     "ini": 11.1,
+     "fin": 11.3,
+     "p": "de"
+    },
+    {
+     "ini": 11.3,
+     "fin": 11.52,
+     "p": "estudiar"
+    },
+    {
+     "ini": 11.52,
+     "fin": 11.7,
+     "p": "en"
+    },
+    {
+     "ini": 11.7,
+     "fin": 12.0,
+     "p": "Estados"
+    }
+   ]
+  },
+  {
+   "ini": 12.0,
+   "fin": 17.62,
+   "texto": "Unidos y yo me sentía como que bueno había ido a Estados Unidos y cómo era posible que no",
+   "palabras": [
+    {
+     "ini": 12.0,
+     "fin": 12.38,
+     "p": "Unidos"
+    },
+    {
+     "ini": 12.38,
+     "fin": 13.18,
+     "p": "y"
+    },
+    {
+     "ini": 13.18,
+     "fin": 13.34,
+     "p": "yo"
+    },
+    {
+     "ini": 13.34,
+     "fin": 13.56,
+     "p": "me"
+    },
+    {
+     "ini": 13.56,
+     "fin": 13.94,
+     "p": "sentía"
+    },
+    {
+     "ini": 13.94,
+     "fin": 14.16,
+     "p": "como"
+    },
+    {
+     "ini": 14.16,
+     "fin": 15.06,
+     "p": "que"
+    },
+    {
+     "ini": 15.06,
+     "fin": 15.3,
+     "p": "bueno"
+    },
+    {
+     "ini": 15.3,
+     "fin": 15.46,
+     "p": "había"
+    },
+    {
+     "ini": 15.46,
+     "fin": 15.62,
+     "p": "ido"
+    },
+    {
+     "ini": 15.62,
+     "fin": 15.7,
+     "p": "a"
+    },
+    {
+     "ini": 15.7,
+     "fin": 15.92,
+     "p": "Estados"
+    },
+    {
+     "ini": 15.92,
+     "fin": 16.2,
+     "p": "Unidos"
+    },
+    {
+     "ini": 16.2,
+     "fin": 16.62,
+     "p": "y"
+    },
+    {
+     "ini": 16.62,
+     "fin": 16.8,
+     "p": "cómo"
+    },
+    {
+     "ini": 16.8,
+     "fin": 17.0,
+     "p": "era"
+    },
+    {
+     "ini": 17.0,
+     "fin": 17.32,
+     "p": "posible"
+    },
+    {
+     "ini": 17.32,
+     "fin": 17.48,
+     "p": "que"
+    },
+    {
+     "ini": 17.48,
+     "fin": 17.62,
+     "p": "no"
+    }
+   ]
+  },
+  {
+   "ini": 17.62,
+   "fin": 23.78,
+   "texto": "podía conseguir trabajo entonces y fui a la mejor universidad de Estados Unidos prácticamente",
+   "palabras": [
+    {
+     "ini": 17.62,
+     "fin": 17.78,
+     "p": "podía"
+    },
+    {
+     "ini": 17.78,
+     "fin": 18.12,
+     "p": "conseguir"
+    },
+    {
+     "ini": 18.12,
+     "fin": 18.8,
+     "p": "trabajo"
+    },
+    {
+     "ini": 18.8,
+     "fin": 20.0,
+     "p": "entonces"
+    },
+    {
+     "ini": 20.0,
+     "fin": 20.32,
+     "p": "y"
+    },
+    {
+     "ini": 20.32,
+     "fin": 20.4,
+     "p": "fui"
+    },
+    {
+     "ini": 20.4,
+     "fin": 20.5,
+     "p": "a"
+    },
+    {
+     "ini": 20.5,
+     "fin": 20.62,
+     "p": "la"
+    },
+    {
+     "ini": 20.62,
+     "fin": 20.8,
+     "p": "mejor"
+    },
+    {
+     "ini": 20.8,
+     "fin": 21.6,
+     "p": "universidad"
+    },
+    {
+     "ini": 21.6,
+     "fin": 22.56,
+     "p": "de"
+    },
+    {
+     "ini": 22.56,
+     "fin": 22.88,
+     "p": "Estados"
+    },
+    {
+     "ini": 22.88,
+     "fin": 23.18,
+     "p": "Unidos"
+    },
+    {
+     "ini": 23.18,
+     "fin": 23.78,
+     "p": "prácticamente"
+    }
+   ]
+  },
+  {
+   "ini": 23.78,
+   "fin": 28.64,
+   "texto": "para negocio y que me estaba consiguiendo, me estaba haciendo tan difícil eso.",
+   "palabras": [
+    {
+     "ini": 23.78,
+     "fin": 24.06,
+     "p": "para"
+    },
+    {
+     "ini": 24.06,
+     "fin": 24.26,
+     "p": "negocio"
+    },
+    {
+     "ini": 24.26,
+     "fin": 24.36,
+     "p": "y"
+    },
+    {
+     "ini": 24.36,
+     "fin": 24.46,
+     "p": "que"
+    },
+    {
+     "ini": 24.46,
+     "fin": 24.6,
+     "p": "me"
+    },
+    {
+     "ini": 24.6,
+     "fin": 24.74,
+     "p": "estaba"
+    },
+    {
+     "ini": 24.74,
+     "fin": 25.96,
+     "p": "consiguiendo,"
+    },
+    {
+     "ini": 26.04,
+     "fin": 26.46,
+     "p": "me"
+    },
+    {
+     "ini": 26.46,
+     "fin": 26.62,
+     "p": "estaba"
+    },
+    {
+     "ini": 26.62,
+     "fin": 26.9,
+     "p": "haciendo"
+    },
+    {
+     "ini": 26.9,
+     "fin": 27.14,
+     "p": "tan"
+    },
+    {
+     "ini": 27.14,
+     "fin": 28.02,
+     "p": "difícil"
+    },
+    {
+     "ini": 28.02,
+     "fin": 28.64,
+     "p": "eso."
+    }
+   ]
+  },
+  {
+   "ini": 29.28,
+   "fin": 34.58,
+   "texto": "Parte también era de que el sistema americano es muy estructurado en cómo",
+   "palabras": [
+    {
+     "ini": 29.28,
+     "fin": 29.42,
+     "p": "Parte"
+    },
+    {
+     "ini": 29.42,
+     "fin": 29.78,
+     "p": "también"
+    },
+    {
+     "ini": 29.78,
+     "fin": 30.0,
+     "p": "era"
+    },
+    {
+     "ini": 30.0,
+     "fin": 30.24,
+     "p": "de"
+    },
+    {
+     "ini": 30.24,
+     "fin": 30.5,
+     "p": "que"
+    },
+    {
+     "ini": 30.5,
+     "fin": 30.72,
+     "p": "el"
+    },
+    {
+     "ini": 30.72,
+     "fin": 31.18,
+     "p": "sistema"
+    },
+    {
+     "ini": 31.18,
+     "fin": 32.62,
+     "p": "americano"
+    },
+    {
+     "ini": 32.62,
+     "fin": 32.98,
+     "p": "es"
+    },
+    {
+     "ini": 32.98,
+     "fin": 33.34,
+     "p": "muy"
+    },
+    {
+     "ini": 33.34,
+     "fin": 33.98,
+     "p": "estructurado"
+    },
+    {
+     "ini": 33.98,
+     "fin": 34.24,
+     "p": "en"
+    },
+    {
+     "ini": 34.24,
+     "fin": 34.58,
+     "p": "cómo"
+    }
+   ]
+  },
+  {
+   "ini": 34.58,
+   "fin": 38.5,
+   "texto": "conseguir trabajo y cómo uno va de primer año, segundo año, tercer año,",
+   "palabras": [
+    {
+     "ini": 34.58,
+     "fin": 35.14,
+     "p": "conseguir"
+    },
+    {
+     "ini": 35.14,
+     "fin": 35.72,
+     "p": "trabajo"
+    },
+    {
+     "ini": 35.72,
+     "fin": 35.92,
+     "p": "y"
+    },
+    {
+     "ini": 35.92,
+     "fin": 36.2,
+     "p": "cómo"
+    },
+    {
+     "ini": 36.2,
+     "fin": 36.5,
+     "p": "uno"
+    },
+    {
+     "ini": 36.5,
+     "fin": 36.76,
+     "p": "va"
+    },
+    {
+     "ini": 36.76,
+     "fin": 37.1,
+     "p": "de"
+    },
+    {
+     "ini": 37.1,
+     "fin": 37.32,
+     "p": "primer"
+    },
+    {
+     "ini": 37.32,
+     "fin": 37.54,
+     "p": "año,"
+    },
+    {
+     "ini": 37.7,
+     "fin": 37.84,
+     "p": "segundo"
+    },
+    {
+     "ini": 37.84,
+     "fin": 38.0,
+     "p": "año,"
+    },
+    {
+     "ini": 38.14,
+     "fin": 38.32,
+     "p": "tercer"
+    },
+    {
+     "ini": 38.32,
+     "fin": 38.5,
+     "p": "año,"
+    }
+   ]
+  },
+  {
+   "ini": 38.56,
+   "fin": 43.78,
+   "texto": "cuarto año. Yo no conocía ese sistema, entonces no me di cuenta hasta",
+   "palabras": [
+    {
+     "ini": 38.56,
+     "fin": 38.8,
+     "p": "cuarto"
+    },
+    {
+     "ini": 38.8,
+     "fin": 39.12,
+     "p": "año."
+    },
+    {
+     "ini": 39.52,
+     "fin": 39.7,
+     "p": "Yo"
+    },
+    {
+     "ini": 39.7,
+     "fin": 39.94,
+     "p": "no"
+    },
+    {
+     "ini": 39.94,
+     "fin": 40.28,
+     "p": "conocía"
+    },
+    {
+     "ini": 40.28,
+     "fin": 40.48,
+     "p": "ese"
+    },
+    {
+     "ini": 40.48,
+     "fin": 40.92,
+     "p": "sistema,"
+    },
+    {
+     "ini": 41.58,
+     "fin": 41.86,
+     "p": "entonces"
+    },
+    {
+     "ini": 41.86,
+     "fin": 42.7,
+     "p": "no"
+    },
+    {
+     "ini": 42.7,
+     "fin": 43.16,
+     "p": "me"
+    },
+    {
+     "ini": 43.16,
+     "fin": 43.32,
+     "p": "di"
+    },
+    {
+     "ini": 43.32,
+     "fin": 43.62,
+     "p": "cuenta"
+    },
+    {
+     "ini": 43.62,
+     "fin": 43.78,
+     "p": "hasta"
+    }
+   ]
+  },
+  {
+   "ini": 43.78,
+   "fin": 49.0,
+   "texto": "un poquito tarde y por eso me costó un poco más y la presión propia que",
+   "palabras": [
+    {
+     "ini": 43.78,
+     "fin": 43.96,
+     "p": "un"
+    },
+    {
+     "ini": 43.96,
+     "fin": 44.2,
+     "p": "poquito"
+    },
+    {
+     "ini": 44.2,
+     "fin": 44.48,
+     "p": "tarde"
+    },
+    {
+     "ini": 44.48,
+     "fin": 44.62,
+     "p": "y"
+    },
+    {
+     "ini": 44.62,
+     "fin": 44.78,
+     "p": "por"
+    },
+    {
+     "ini": 44.78,
+     "fin": 44.88,
+     "p": "eso"
+    },
+    {
+     "ini": 44.88,
+     "fin": 45.04,
+     "p": "me"
+    },
+    {
+     "ini": 45.04,
+     "fin": 45.28,
+     "p": "costó"
+    },
+    {
+     "ini": 45.28,
+     "fin": 45.5,
+     "p": "un"
+    },
+    {
+     "ini": 45.5,
+     "fin": 45.68,
+     "p": "poco"
+    },
+    {
+     "ini": 45.68,
+     "fin": 46.08,
+     "p": "más"
+    },
+    {
+     "ini": 46.08,
+     "fin": 47.58,
+     "p": "y"
+    },
+    {
+     "ini": 47.58,
+     "fin": 47.98,
+     "p": "la"
+    },
+    {
+     "ini": 47.98,
+     "fin": 48.54,
+     "p": "presión"
+    },
+    {
+     "ini": 48.54,
+     "fin": 48.82,
+     "p": "propia"
+    },
+    {
+     "ini": 48.82,
+     "fin": 49.0,
+     "p": "que"
+    }
+   ]
+  },
+  {
+   "ini": 49.0,
+   "fin": 52.12,
+   "texto": "uno se ponía a decir cómo es posible que después todo el sacrificio y",
+   "palabras": [
+    {
+     "ini": 49.0,
+     "fin": 49.14,
+     "p": "uno"
+    },
+    {
+     "ini": 49.14,
+     "fin": 49.38,
+     "p": "se"
+    },
+    {
+     "ini": 49.38,
+     "fin": 49.64,
+     "p": "ponía"
+    },
+    {
+     "ini": 49.64,
+     "fin": 49.68,
+     "p": "a"
+    },
+    {
+     "ini": 49.68,
+     "fin": 49.88,
+     "p": "decir"
+    },
+    {
+     "ini": 49.88,
+     "fin": 50.08,
+     "p": "cómo"
+    },
+    {
+     "ini": 50.08,
+     "fin": 50.24,
+     "p": "es"
+    },
+    {
+     "ini": 50.24,
+     "fin": 50.6,
+     "p": "posible"
+    },
+    {
+     "ini": 50.6,
+     "fin": 50.86,
+     "p": "que"
+    },
+    {
+     "ini": 50.86,
+     "fin": 51.08,
+     "p": "después"
+    },
+    {
+     "ini": 51.08,
+     "fin": 51.28,
+     "p": "todo"
+    },
+    {
+     "ini": 51.28,
+     "fin": 51.48,
+     "p": "el"
+    },
+    {
+     "ini": 51.48,
+     "fin": 51.9,
+     "p": "sacrificio"
+    },
+    {
+     "ini": 51.9,
+     "fin": 52.12,
+     "p": "y"
+    }
+   ]
+  },
+  {
+   "ini": 52.12,
+   "fin": 58.38,
+   "texto": "esto yo yo no estoy consiguiendo digamos trabajo tan y me cuesta tanto",
+   "palabras": [
+    {
+     "ini": 52.12,
+     "fin": 52.56,
+     "p": "esto"
+    },
+    {
+     "ini": 52.56,
+     "fin": 53.6,
+     "p": "yo"
+    },
+    {
+     "ini": 53.6,
+     "fin": 53.82,
+     "p": "yo"
+    },
+    {
+     "ini": 53.82,
+     "fin": 54.4,
+     "p": "no"
+    },
+    {
+     "ini": 54.4,
+     "fin": 54.68,
+     "p": "estoy"
+    },
+    {
+     "ini": 54.68,
+     "fin": 55.58,
+     "p": "consiguiendo"
+    },
+    {
+     "ini": 55.58,
+     "fin": 56.02,
+     "p": "digamos"
+    },
+    {
+     "ini": 56.02,
+     "fin": 56.38,
+     "p": "trabajo"
+    },
+    {
+     "ini": 56.38,
+     "fin": 56.88,
+     "p": "tan"
+    },
+    {
+     "ini": 56.88,
+     "fin": 57.72,
+     "p": "y"
+    },
+    {
+     "ini": 57.72,
+     "fin": 57.84,
+     "p": "me"
+    },
+    {
+     "ini": 57.84,
+     "fin": 58.08,
+     "p": "cuesta"
+    },
+    {
+     "ini": 58.08,
+     "fin": 58.38,
+     "p": "tanto"
+    }
+   ]
+  }
+ ]
+}

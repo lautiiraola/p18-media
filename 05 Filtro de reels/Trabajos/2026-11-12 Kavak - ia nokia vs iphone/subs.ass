@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,548,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.16,P18,,0,0,0,,tecnología es como, imagínate que
+Dialogue: 0,0:00:02.16,0:00:05.46,P18,,0,0,0,,tú tengas el Nokia, te
+Dialogue: 0,0:00:05.46,0:00:06.46,P18,,0,0,0,,acuerdas el Nokia la culebrita,
+Dialogue: 0,0:00:06.46,0:00:07.22,P18,,0,0,0,,tú llegaste a tener ese,
+Dialogue: 0,0:00:08.28,0:00:10.46,P18,,0,0,0,,y de repente salga el iphone 16
+Dialogue: 0,0:00:10.46,0:00:13.68,P18,,0,0,0,,y que tú le des el iphone 16 a
+Dialogue: 0,0:00:13.68,0:00:14.90,P18,,0,0,0,,alguien y le digas mira cuéntame
+Dialogue: 0,0:00:14.90,0:00:16.10,P18,,0,0,0,,cómo funciona esto,
+Dialogue: 0,0:00:18.59,0:00:19.63,P18,,0,0,0,,eso es lo que está pasando hoy,
+Dialogue: 0,0:00:20.43,0:00:21.79,P18,,0,0,0,,la gente está agarrando y le está
+Dialogue: 0,0:00:21.79,0:00:23.55,P18,,0,0,0,,dando el iphone 16 a ver a alguien
+Dialogue: 0,0:00:23.55,0:00:24.79,P18,,0,0,0,,que le interprete digamos esta
+Dialogue: 0,0:00:24.79,0:00:26.97,P18,,0,0,0,,tecnología Y la versión de eso es
+Dialogue: 0,0:00:26.97,0:00:29.61,P18,,0,0,0,,usar chat GPT, o
+Dialogue: 0,0:00:29.61,0:00:31.99,P18,,0,0,0,,sea, el iPhone 16 es
+Dialogue: 0,0:00:31.99,0:00:35.21,P18,,0,0,0,,increíble, relativo al
+Dialogue: 0,0:00:35.21,0:00:36.41,P18,,0,0,0,,Nokia de la Culebrita.
+Dialogue: 0,0:00:36.97,0:00:37.97,P18,,0,0,0,,Entonces ahorita todo el mundo
+Dialogue: 0,0:00:37.97,0:00:39.21,P18,,0,0,0,,tiene que entrarle de una manera
+Dialogue: 0,0:00:39.21,0:00:40.95,P18,,0,0,0,,muy profunda y hacerlo ellos
+Dialogue: 0,0:00:40.95,0:00:43.39,P18,,0,0,0,,mismos y sentarte a estudiar y
+Dialogue: 0,0:00:43.39,0:00:44.53,P18,,0,0,0,,sentarte a montar tus propios
+Dialogue: 0,0:00:44.53,0:00:45.23,P18,,0,0,0,,robots
+Dialogue: 0,0:00:46.91,0:00:48.67,P18,,0,0,0,,y explorarlo para que luego veas
+Dialogue: 0,0:00:48.67,0:00:49.97,P18,,0,0,0,,cómo eso puede aumentar tu vida.

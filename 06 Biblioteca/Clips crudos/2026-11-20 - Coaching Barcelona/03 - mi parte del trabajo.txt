@@ -1,0 +1,28 @@
+CLIP 03 — PRESENTATE A TU PARTE DEL TRABAJO: EL RESTO NO DEPENDE DE VOS
+
+Inicio:     14:34.5  (874.52 s)
+Fin:        15:29.0  (929.01 s)
+Duración:   54.5 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  PRESENTATE A TU PARTE DEL TRABAJO: EL RESTO NO DEPENDE DE VOS   (en el reel, en lima: PRESENTATE)
+Departamento:     Crecimiento personal
+Área:             Hábitos y constancia
+Tema:             Seguir aunque no salga perfecto
+Fuente:           Coaching Barcelona — "ELIZABETH GILBERT Subtitulado Español "El GENIO de la Creatividad" Conferencia TED 2009 medium"
+                  https://www.youtube.com/watch?v=T3CrEXKPsHE&t=874s
+
+Por qué lo elegí:
+Primera persona, momento de desesperación al crear y la frase 'dejá constancia de que yo me presenté'. Idea accionable: hacé tu parte y seguí.
+
+Gancho (primeros 3 s): it already saved me once this idea
+
+Notas para la revisión: Dice 'what the hell' una vez; el filtro traduce suave.
+
+Transcripción del clip:
+writing Eat, Pray, Love and I fell into one of those sort of pits of despair that we all fall into when we're working on something and it's not coming and you start to think this is going to be a disaster. This is going to be the worst book ever written. Not just bad, but the worst book ever written. And I started to think I should just dump this project, you know. But then I remembered Tom talking to the open air and I tried it. So I just lifted my face up from the script and I directed my comments to an empty corner of the room and I said aloud listen you thing you and I both know that if this book isn't brilliant that is not entirely my fault right because you can see that I am putting everything I have into this you know I don't have any more than this so if you wanted to be better then you got to show up and do your part of the deal okay but if you don't do that you know what the hell with it I'm gonna keep writing anyway because that's my job and I would please like the record to reflect today that I showed up for my part of the job.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-20 - Coaching Barcelona/03 - mi parte del trabajo.mp4" "*PRESENTATE* A TU PARTE DEL TRABAJO: EL RESTO NO DEPENDE DE VOS" --fuente "Coaching Barcelona"
+
+Saturación aplicada al reel (regla 2026-11-23, sólo al video): eq=saturation=0.7 (media S 0.373, 32% px S>0.6)

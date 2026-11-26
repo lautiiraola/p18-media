@@ -1,0 +1,10 @@
+RENDER Y VALIDACIÓN
+
+Master social: 1080 × 1920, 60 fps, H.264, AAC.
+Crear preview liviano antes del master.
+Validar que la duración coincida con la voz y que el master dure entre 30 y 50 s (nunca más de 50).
+Revisar frames inicial, final y cortes de escena.
+Revisar fuentes faltantes y assets rotos.
+Revisar safe zones y subtítulos.
+Revisar audio sin clipping.
+Guardar comandos y versión de dependencias en production-report.txt.

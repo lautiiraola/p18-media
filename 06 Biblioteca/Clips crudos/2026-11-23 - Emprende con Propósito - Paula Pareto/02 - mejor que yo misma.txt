@@ -1,0 +1,26 @@
+CLIP 02 — NO QUIERO SER MEJOR QUE NADIE: QUIERO SER MEJOR QUE YO MISMA
+
+Inicio:     04:22.3  (262.32 s)
+Fin:        04:54.5  (294.47 s)
+Duración:   32.2 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  NO QUIERO SER MEJOR QUE NADIE: QUIERO SER MEJOR QUE YO MISMA   (en el reel, en lima: YO MISMA)
+Departamento:     Deporte y mentalidad
+Área:             Mentalidad aplicada
+Tema:             Competir para mejorar, no para ganarle al otro
+Fuente:           Emprende con Propósito - Paula Pareto — "Entrevista a Paula Pareto | EP 256"
+                  https://www.youtube.com/watch?v=wLjYIBPIjPI&t=262s
+
+Por qué lo elegí:
+Una idea completa sobre el rival como parte del juego y la meta de superarse a uno mismo. Valores del deporte aplicados a la vida.
+
+Gancho (primeros 3 s): El saludo inicial y el saludo final en judo
+
+Notas para la revisión: Dura cerca de 31 s.
+
+Transcripción del clip:
+el saludo inicial y el saludo final en judo particularmente es una cuestión de respeto, pero respetas a tu rival, si es tu rival, no es tu enemigo, sin el otro no podrías ni ganar ni perder, no habría deporte directamente, entonces ante todo, a ver, que se entienda que lo competitivo no tiene que verse mal sino bien, creo que en la competencia ganamos todos, porque es lo que te hace forzarte a querer ser mejor, yo no quiero ser mejor que nadie, yo quiero ser mejor que en cualquier ámbito de la vida y respetar y honrar a los que son mejores porque son la guía a seguir.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-23 - Emprende con Propósito - Paula Pareto/02 - mejor que yo misma.mp4" "NO QUIERO SER MEJOR QUE NADIE: QUIERO SER MEJOR QUE *YO MISMA*" --fuente "Emprende con Propósito - Paula Pareto"

@@ -1,0 +1,128 @@
+{
+ "fecha": "2026-11-19",
+ "ventana": "2026-11-12/2026-11-19",
+ "fuentes_usadas": "rss.json (97 items) + 4 busquedas/fetch",
+ "candidatas": [
+  {
+   "id": 1,
+   "hecho": "OpenAI lanzo GPT-6.2 Astra y Sol en ChatGPT (Plus/Pro/Enterprise/Edu) y API; Astra baja 20% su precio de API.",
+   "quien": "OpenAI",
+   "fecha": "2026-11-17",
+   "fuente_primaria": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "otras_fuentes": [
+    "https://www.digitaltrends.com/computing/openai-gpt-6-2-astra-sol-launch/",
+    "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark"
+   ],
+   "tema": "modelos"
+  },
+  {
+   "id": 2,
+   "hecho": "Google presento Gemini 4 Neon: #3 en Artificial Analysis Index, 32% mas barato por tarea que Carbon; en la app solo Pro/Ultra.",
+   "quien": "Google",
+   "fecha": "2026-11-18",
+   "fuente_primaria": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "otras_fuentes": [
+    "https://www.xataka.com/robotica-e-ia/google-quiere-que-gemini-4-neon-sea-tu-modelo-para-casi-todo-rapido-que-carbon-barato-tarea"
+   ],
+   "tema": "modelos"
+  },
+  {
+   "id": 3,
+   "hecho": "AI Mode de Google Search suma hilos temporales (tipo incognito) que no se guardan ni personalizan, a nivel mundial.",
+   "quien": "Google",
+   "fecha": "2026-11-18",
+   "fuente_primaria": "",
+   "otras_fuentes": [
+    "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
+   ],
+   "tema": "privacidad",
+   "estado": "un medio serio; sin fuente primaria"
+  },
+  {
+   "id": 4,
+   "hecho": "OpenAI lanzo ChatGPT Wallet: agentes pagan sin ver la tarjeta; solo Pro en EE.UU. con tarjetas de EE.UU.",
+   "quien": "OpenAI",
+   "fecha": "2026-11-13",
+   "fuente_primaria": "https://openai.com/index/introducing-chatgpt-wallet",
+   "otras_fuentes": [
+    "https://www.ghacks.net/2026/11/15/openai-launches-chatgpt-wallet-so-agents-can-pay-without-seeing-your-card-details/",
+    "https://www.fintechfutures.com/digital-payments/openai-chatgpt-wallet-launch"
+   ],
+   "tema": "agentes"
+  },
+  {
+   "id": 5,
+   "hecho": "Encuesta reportada por Wired: mas de un tercio de la Gen Z usa IA como amistad.",
+   "quien": "Wired",
+   "fecha": "2026-11-18",
+   "fuente_primaria": "",
+   "otras_fuentes": [
+    "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/"
+   ],
+   "tema": "sociedad",
+   "estado": "sin_confirmar (Wired no accesible, metodologia desconocida)"
+  },
+  {
+   "id": 6,
+   "hecho": "Gemini app disponible en Android con poca memoria.",
+   "quien": "Google",
+   "fecha": "2026-11-18",
+   "fuente_primaria": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "otras_fuentes": [],
+   "tema": "productos"
+  },
+  {
+   "id": 7,
+   "hecho": "Genie 4 ya esta disponible (DeepMind).",
+   "quien": "Google DeepMind",
+   "fecha": "2026-11-18",
+   "fuente_primaria": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "otras_fuentes": [],
+   "tema": "modelos"
+  },
+  {
+   "id": 8,
+   "hecho": "Lovable quiere que 'vibe codees' un trabajo.",
+   "quien": "Lovable",
+   "fecha": "2026-11-18",
+   "fuente_primaria": "",
+   "otras_fuentes": [
+    "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/"
+   ],
+   "tema": "trabajo",
+   "estado": "sin_confirmar (no leida)"
+  },
+  {
+   "id": 9,
+   "hecho": "Nvidia: salida de Jensen Huang como CEO y sucesion interina.",
+   "quien": "Nvidia",
+   "fecha": "2026-11-17",
+   "fuente_primaria": "",
+   "otras_fuentes": [
+    "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+    "https://techcrunch.com/2026/11/18/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+   ],
+   "tema": "empresas",
+   "estado": "drama corporativo"
+  },
+  {
+   "id": 10,
+   "hecho": "OpenAI for Chile: programa de OpenAI para Chile.",
+   "quien": "OpenAI",
+   "fecha": "2026-11-17",
+   "fuente_primaria": "https://openai.com/index/introducing-openai-for-chile",
+   "otras_fuentes": [],
+   "tema": "regional"
+  },
+  {
+   "id": 11,
+   "hecho": "Anthropic fija precio de IPO (ya cubierta como 2026-11-19-1).",
+   "quien": "Anthropic",
+   "fecha": "2026-11-18",
+   "fuente_primaria": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "otras_fuentes": [],
+   "tema": "economia",
+   "estado": "repetida, descartada"
+  }
+ ]
+}

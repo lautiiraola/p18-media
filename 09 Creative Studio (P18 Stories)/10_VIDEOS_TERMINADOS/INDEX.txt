@@ -1,0 +1,7 @@
+P18 CREATIVE STUDIO — ÍNDICE DE VIDEOS TERMINADOS
+
+video_id | título | protagonista | fecha | duración | master | estado
+
+P18-001 | Ya lo habría hecho alguien | James Dyson | 2026-11-24 | 2:03 (123,41 s) | P18-001-james-dyson/07_renders/final/P18-001-james-dyson-master-v05.mp4 | archived (v05: sin imágenes repetidas, subtítulos por frase, cinético, cierre fijo)
+P18-002 | 19 de 20 | Marcos Galperin | 2026-11-24 | 0:50 (49,86 s) | P18-002-marcos-galperin/07_renders/final/P18-002-marcos-galperin-master-v05.mp4 | archived (v05: sin imágenes repetidas, subtítulos por frase, cinético, cierre fijo)
+P18-003 | La empresa que lo echó | Steve Jobs | 2026-11-25 | 0:43 (42,86 s) | P18-003-steve-jobs/07_renders/final/P18-003-steve-jobs-master-v01.mp4 | archived (v01: reglas vigentes; música de MacLeod, CC BY 3.0: atribución obligatoria)

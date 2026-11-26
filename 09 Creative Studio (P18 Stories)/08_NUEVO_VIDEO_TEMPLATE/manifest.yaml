@@ -1,0 +1,20 @@
+schema_version: 1
+video_id: P18-000
+slug: replace-me
+title: ""
+protagonist: ""
+creation_mode: assigned
+status: idea
+created_at: ""
+updated_at: ""
+duration_target_seconds: null  # obligatorio: 30–50 s, nunca más de 50
+format: p18_story_vertical
+resolution: 1080x1920
+fps: 60
+voiceover_status: pending
+facts_verified: false
+assets_cleared: false
+storyboard_approved: false
+creative_review: pending
+technical_review: pending
+final_render: null

@@ -1,0 +1,26 @@
+CLIP 01 — SI NO TE ESTÁS *EQUIVOCANDO*, NO ESTÁS *CONSTRUYENDO*
+
+Inicio:     29:09.8  (1749.80 s)
+Fin:        30:06.9  (1806.87 s)
+Duración:   57.1 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  SI NO TE ESTÁS *EQUIVOCANDO*, NO ESTÁS *CONSTRUYENDO*
+Departamento:     Crecimiento personal
+Área:             Mentalidad y adaptación
+Tema:             Equivocarse es parte del proceso
+Fuente:           Cracks Podcast - Carlos García — "La Historia de KAVAK | CARLOS GARCIA en Cracks Podcast #373"
+                  https://www.youtube.com/watch?v=oYDI7Y4vJTk&t=1749s
+
+Por qué lo elegí:
+Arranca con una frase fuerte y se entiende sola: equivocarse es parte de hacer cosas, lo importante es levantarse al otro día, mirar qué pasó y ajustar. Le saca el miedo al error a alguien que recién empieza. Encaja con el tema 'Errores' de la grilla (12/11).
+
+Gancho (primeros 3 s): Primero que nada, creo que uno tiene que cometer errores.
+
+Notas para la revisión: Usa 'data' y menciona 'PowerPoints y Excel' de pasada; se entiende igual. No habla de plata.
+
+Transcripción del clip:
+Primero que nada creo que uno tiene que cometer errores, o sea si tú no estás cometiendo errores no estás construyendo. Entonces parte del proceso es entender que si vas a tomar decisiones te vas a equivocar. Lo importante es que te pares al día siguiente, veas la data y cambias opinión. Si la decisión es mala y si la decisión es buena, le metas más recursos y sigas construyendo. Entonces no puedes construir nada en la vida sin cometer errores. En el micro tienes que estar perdiendo y calibrando y en el macro vas a estar ganando porque constantemente estás recalibrando y el riesgo percibido o sea no funciona como funcionan los powerpoints y en los excel que te dicen que si haces A todo se va para el infierno lo que estás descontando de eso es que yo me voy a parar todos los días a revisarlo y a asegurar de no terminar en el infierno entonces todos los días alejas un poco como ese resultado negativo. Primero ese es el mindset, o sea no puedes vivir la vida pensando en que va a salir mal.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-11 - Cracks Podcast - Carlos García/01 - errores.mp4" "SI NO TE ESTÁS *EQUIVOCANDO*, NO ESTÁS *CONSTRUYENDO*" --fuente "Cracks Podcast - Carlos García"

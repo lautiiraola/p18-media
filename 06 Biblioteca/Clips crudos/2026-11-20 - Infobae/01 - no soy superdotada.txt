@@ -1,0 +1,26 @@
+CLIP 01 — NO SOY SUPERDOTADA: LO QUE ME LLEVÓ A UN ORO OLÍMPICO FUE ESFUERZO
+
+Inicio:     00:00.0  (0.00 s)
+Fin:        00:57.0  (57.05 s)
+Duración:   57.0 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  NO SOY SUPERDOTADA: LO QUE ME LLEVÓ A UN ORO OLÍMPICO FUE ESFUERZO   (en el reel, en lima: SUPERDOTADA, ESFUERZO)
+Departamento:     Deporte y mentalidad
+Área:             Disciplina y proceso
+Tema:             Esfuerzo y constancia
+Fuente:           Infobae — "Paula Pareto: la obsesión por el orden, el “dolor mental” y por qué no tiene lugar para el amor"
+                  https://www.youtube.com/watch?v=iCd-y-0b4-c&t=0s
+
+Por qué lo elegí:
+Gancho con la pregunta que más le hacen; responde simple: encontrar lo que te gusta y sostener el esfuerzo. Idea completa, para quien duda de si 'sirve'.
+
+Gancho (primeros 3 s): Mensaje que yo hoy puedo dar y lo que la mayoría me consulta es eso, cómo hago
+
+Notas para la revisión: Menciona título olímpico/medicina como contexto; el foco es el proceso, no el éxito.
+
+Transcripción del clip:
+El mensaje que yo hoy puedo dar y lo que la mayoría me consulta es eso, ¿cómo hago? Yo no soy ni una superdotada en el estudio ni una superdotada en el deporte. Ninguna de las dos le pueden consultar a cualquiera de todos mis amigos en judo o en la facultad o en el colegio o lo que sea. Si me sentaba horas a estudiar y si me puse horas a entrenar, creo que la clave es esa. Encontrar lo que a uno le gusta y obviamente todo tiene un esfuerzo de por medio. a nadie le gusta levantarse a las seis de la mañana, o sea, es como eso es lógico, pero cuando me preguntan y cómo haces, no lo pienso, me levanto. O cuando llegan las diez de la noche y me acuesto, digo, bueno, tengo el día cumplido, hice todo lo que tenía que hacer y así después también cuando llega el momento, por ejemplo, de una competencia y me va bien, sé que fue porque hice las cosas bien y cuando llega el momento de un examen y me va bien o digo, bueno, hoy soy médica, estoy a punto también de recibirme en la especialidad de traumatología, es porque hice ese esfuerzo.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-20 - Infobae/01 - no soy superdotada.mp4" "NO SOY *SUPERDOTADA*: LO QUE ME LLEVÓ A UN ORO OLÍMPICO FUE *ESFUERZO*" --fuente "Infobae"

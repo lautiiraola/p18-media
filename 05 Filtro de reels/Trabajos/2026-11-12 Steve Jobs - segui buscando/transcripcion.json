@@ -1,0 +1,809 @@
+{
+ "idioma": "en",
+ "duracion": 41.45,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 2.36,
+   "texto": "Sometimes life's gonna hit you in the head with a brick.",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.62,
+     "p": "Sometimes"
+    },
+    {
+     "ini": 0.62,
+     "fin": 1.04,
+     "p": "life's"
+    },
+    {
+     "ini": 1.04,
+     "fin": 1.14,
+     "p": "gonna"
+    },
+    {
+     "ini": 1.14,
+     "fin": 1.32,
+     "p": "hit"
+    },
+    {
+     "ini": 1.32,
+     "fin": 1.48,
+     "p": "you"
+    },
+    {
+     "ini": 1.48,
+     "fin": 1.6,
+     "p": "in"
+    },
+    {
+     "ini": 1.6,
+     "fin": 1.64,
+     "p": "the"
+    },
+    {
+     "ini": 1.64,
+     "fin": 1.74,
+     "p": "head"
+    },
+    {
+     "ini": 1.74,
+     "fin": 1.92,
+     "p": "with"
+    },
+    {
+     "ini": 1.92,
+     "fin": 2.08,
+     "p": "a"
+    },
+    {
+     "ini": 2.08,
+     "fin": 2.36,
+     "p": "brick."
+    }
+   ]
+  },
+  {
+   "ini": 2.98,
+   "fin": 3.92,
+   "texto": "Don't lose faith.",
+   "palabras": [
+    {
+     "ini": 2.98,
+     "fin": 3.32,
+     "p": "Don't"
+    },
+    {
+     "ini": 3.32,
+     "fin": 3.56,
+     "p": "lose"
+    },
+    {
+     "ini": 3.56,
+     "fin": 3.92,
+     "p": "faith."
+    }
+   ]
+  },
+  {
+   "ini": 4.84,
+   "fin": 6.88,
+   "texto": "I'm convinced that the only thing that kept me going",
+   "palabras": [
+    {
+     "ini": 4.84,
+     "fin": 5.16,
+     "p": "I'm"
+    },
+    {
+     "ini": 5.16,
+     "fin": 5.46,
+     "p": "convinced"
+    },
+    {
+     "ini": 5.46,
+     "fin": 5.64,
+     "p": "that"
+    },
+    {
+     "ini": 5.64,
+     "fin": 5.78,
+     "p": "the"
+    },
+    {
+     "ini": 5.78,
+     "fin": 5.94,
+     "p": "only"
+    },
+    {
+     "ini": 5.94,
+     "fin": 6.08,
+     "p": "thing"
+    },
+    {
+     "ini": 6.08,
+     "fin": 6.26,
+     "p": "that"
+    },
+    {
+     "ini": 6.26,
+     "fin": 6.34,
+     "p": "kept"
+    },
+    {
+     "ini": 6.34,
+     "fin": 6.56,
+     "p": "me"
+    },
+    {
+     "ini": 6.56,
+     "fin": 6.88,
+     "p": "going"
+    }
+   ]
+  },
+  {
+   "ini": 6.88,
+   "fin": 8.42,
+   "texto": "was that I loved what I did.",
+   "palabras": [
+    {
+     "ini": 6.88,
+     "fin": 7.28,
+     "p": "was"
+    },
+    {
+     "ini": 7.28,
+     "fin": 7.42,
+     "p": "that"
+    },
+    {
+     "ini": 7.42,
+     "fin": 7.64,
+     "p": "I"
+    },
+    {
+     "ini": 7.64,
+     "fin": 7.82,
+     "p": "loved"
+    },
+    {
+     "ini": 7.82,
+     "fin": 8.0,
+     "p": "what"
+    },
+    {
+     "ini": 8.0,
+     "fin": 8.16,
+     "p": "I"
+    },
+    {
+     "ini": 8.16,
+     "fin": 8.42,
+     "p": "did."
+    }
+   ]
+  },
+  {
+   "ini": 8.94,
+   "fin": 10.84,
+   "texto": "You've got to find what you love,",
+   "palabras": [
+    {
+     "ini": 8.94,
+     "fin": 9.32,
+     "p": "You've"
+    },
+    {
+     "ini": 9.32,
+     "fin": 9.52,
+     "p": "got"
+    },
+    {
+     "ini": 9.52,
+     "fin": 9.8,
+     "p": "to"
+    },
+    {
+     "ini": 9.8,
+     "fin": 10.04,
+     "p": "find"
+    },
+    {
+     "ini": 10.04,
+     "fin": 10.28,
+     "p": "what"
+    },
+    {
+     "ini": 10.28,
+     "fin": 10.58,
+     "p": "you"
+    },
+    {
+     "ini": 10.58,
+     "fin": 10.84,
+     "p": "love,"
+    }
+   ]
+  },
+  {
+   "ini": 10.92,
+   "fin": 13.82,
+   "texto": "and that is as true for work as it is for your lovers.",
+   "palabras": [
+    {
+     "ini": 10.92,
+     "fin": 11.32,
+     "p": "and"
+    },
+    {
+     "ini": 11.32,
+     "fin": 11.52,
+     "p": "that"
+    },
+    {
+     "ini": 11.52,
+     "fin": 11.68,
+     "p": "is"
+    },
+    {
+     "ini": 11.68,
+     "fin": 11.9,
+     "p": "as"
+    },
+    {
+     "ini": 11.9,
+     "fin": 12.02,
+     "p": "true"
+    },
+    {
+     "ini": 12.02,
+     "fin": 12.28,
+     "p": "for"
+    },
+    {
+     "ini": 12.28,
+     "fin": 12.62,
+     "p": "work"
+    },
+    {
+     "ini": 12.62,
+     "fin": 12.9,
+     "p": "as"
+    },
+    {
+     "ini": 12.9,
+     "fin": 13.0,
+     "p": "it"
+    },
+    {
+     "ini": 13.0,
+     "fin": 13.18,
+     "p": "is"
+    },
+    {
+     "ini": 13.18,
+     "fin": 13.36,
+     "p": "for"
+    },
+    {
+     "ini": 13.36,
+     "fin": 13.56,
+     "p": "your"
+    },
+    {
+     "ini": 13.56,
+     "fin": 13.82,
+     "p": "lovers."
+    }
+   ]
+  },
+  {
+   "ini": 14.8,
+   "fin": 17.0,
+   "texto": "Your work is gonna fill a large part of your life,",
+   "palabras": [
+    {
+     "ini": 14.8,
+     "fin": 15.08,
+     "p": "Your"
+    },
+    {
+     "ini": 15.08,
+     "fin": 15.26,
+     "p": "work"
+    },
+    {
+     "ini": 15.26,
+     "fin": 15.44,
+     "p": "is"
+    },
+    {
+     "ini": 15.44,
+     "fin": 15.58,
+     "p": "gonna"
+    },
+    {
+     "ini": 15.58,
+     "fin": 15.8,
+     "p": "fill"
+    },
+    {
+     "ini": 15.8,
+     "fin": 16.02,
+     "p": "a"
+    },
+    {
+     "ini": 16.02,
+     "fin": 16.24,
+     "p": "large"
+    },
+    {
+     "ini": 16.24,
+     "fin": 16.42,
+     "p": "part"
+    },
+    {
+     "ini": 16.42,
+     "fin": 16.52,
+     "p": "of"
+    },
+    {
+     "ini": 16.52,
+     "fin": 16.7,
+     "p": "your"
+    },
+    {
+     "ini": 16.7,
+     "fin": 17.0,
+     "p": "life,"
+    }
+   ]
+  },
+  {
+   "ini": 17.16,
+   "fin": 19.14,
+   "texto": "and the only way to be truly satisfied",
+   "palabras": [
+    {
+     "ini": 17.16,
+     "fin": 17.4,
+     "p": "and"
+    },
+    {
+     "ini": 17.4,
+     "fin": 17.56,
+     "p": "the"
+    },
+    {
+     "ini": 17.56,
+     "fin": 17.76,
+     "p": "only"
+    },
+    {
+     "ini": 17.76,
+     "fin": 17.92,
+     "p": "way"
+    },
+    {
+     "ini": 17.92,
+     "fin": 18.02,
+     "p": "to"
+    },
+    {
+     "ini": 18.02,
+     "fin": 18.2,
+     "p": "be"
+    },
+    {
+     "ini": 18.2,
+     "fin": 18.46,
+     "p": "truly"
+    },
+    {
+     "ini": 18.46,
+     "fin": 19.14,
+     "p": "satisfied"
+    }
+   ]
+  },
+  {
+   "ini": 19.14,
+   "fin": 21.38,
+   "texto": "is to do what you believe is great work.",
+   "palabras": [
+    {
+     "ini": 19.14,
+     "fin": 19.48,
+     "p": "is"
+    },
+    {
+     "ini": 19.48,
+     "fin": 19.7,
+     "p": "to"
+    },
+    {
+     "ini": 19.7,
+     "fin": 19.8,
+     "p": "do"
+    },
+    {
+     "ini": 19.8,
+     "fin": 19.94,
+     "p": "what"
+    },
+    {
+     "ini": 19.94,
+     "fin": 20.28,
+     "p": "you"
+    },
+    {
+     "ini": 20.28,
+     "fin": 20.46,
+     "p": "believe"
+    },
+    {
+     "ini": 20.46,
+     "fin": 20.76,
+     "p": "is"
+    },
+    {
+     "ini": 20.76,
+     "fin": 21.0,
+     "p": "great"
+    },
+    {
+     "ini": 21.0,
+     "fin": 21.38,
+     "p": "work."
+    }
+   ]
+  },
+  {
+   "ini": 21.66,
+   "fin": 23.44,
+   "texto": "And the only way to do great work",
+   "palabras": [
+    {
+     "ini": 21.66,
+     "fin": 21.88,
+     "p": "And"
+    },
+    {
+     "ini": 21.88,
+     "fin": 22.06,
+     "p": "the"
+    },
+    {
+     "ini": 22.06,
+     "fin": 22.4,
+     "p": "only"
+    },
+    {
+     "ini": 22.4,
+     "fin": 22.56,
+     "p": "way"
+    },
+    {
+     "ini": 22.56,
+     "fin": 22.72,
+     "p": "to"
+    },
+    {
+     "ini": 22.72,
+     "fin": 22.84,
+     "p": "do"
+    },
+    {
+     "ini": 22.84,
+     "fin": 23.16,
+     "p": "great"
+    },
+    {
+     "ini": 23.16,
+     "fin": 23.44,
+     "p": "work"
+    }
+   ]
+  },
+  {
+   "ini": 23.44,
+   "fin": 25.14,
+   "texto": "is to love what you do.",
+   "palabras": [
+    {
+     "ini": 23.44,
+     "fin": 23.74,
+     "p": "is"
+    },
+    {
+     "ini": 23.74,
+     "fin": 24.04,
+     "p": "to"
+    },
+    {
+     "ini": 24.04,
+     "fin": 24.36,
+     "p": "love"
+    },
+    {
+     "ini": 24.36,
+     "fin": 24.62,
+     "p": "what"
+    },
+    {
+     "ini": 24.62,
+     "fin": 24.86,
+     "p": "you"
+    },
+    {
+     "ini": 24.86,
+     "fin": 25.14,
+     "p": "do."
+    }
+   ]
+  },
+  {
+   "ini": 25.78,
+   "fin": 27.1,
+   "texto": "If you haven't found it yet,",
+   "palabras": [
+    {
+     "ini": 25.78,
+     "fin": 25.94,
+     "p": "If"
+    },
+    {
+     "ini": 25.94,
+     "fin": 26.16,
+     "p": "you"
+    },
+    {
+     "ini": 26.16,
+     "fin": 26.4,
+     "p": "haven't"
+    },
+    {
+     "ini": 26.4,
+     "fin": 26.66,
+     "p": "found"
+    },
+    {
+     "ini": 26.66,
+     "fin": 26.88,
+     "p": "it"
+    },
+    {
+     "ini": 26.88,
+     "fin": 27.1,
+     "p": "yet,"
+    }
+   ]
+  },
+  {
+   "ini": 27.1,
+   "fin": 31.9,
+   "texto": "keep looking and don't settle. As with all matters of the heart,",
+   "palabras": [
+    {
+     "ini": 27.1,
+     "fin": 27.62,
+     "p": "keep"
+    },
+    {
+     "ini": 27.62,
+     "fin": 28.02,
+     "p": "looking"
+    },
+    {
+     "ini": 28.02,
+     "fin": 28.78,
+     "p": "and"
+    },
+    {
+     "ini": 28.78,
+     "fin": 29.26,
+     "p": "don't"
+    },
+    {
+     "ini": 29.26,
+     "fin": 29.58,
+     "p": "settle."
+    },
+    {
+     "ini": 30.44,
+     "fin": 30.56,
+     "p": "As"
+    },
+    {
+     "ini": 30.56,
+     "fin": 30.76,
+     "p": "with"
+    },
+    {
+     "ini": 30.76,
+     "fin": 30.98,
+     "p": "all"
+    },
+    {
+     "ini": 30.98,
+     "fin": 31.26,
+     "p": "matters"
+    },
+    {
+     "ini": 31.26,
+     "fin": 31.44,
+     "p": "of"
+    },
+    {
+     "ini": 31.44,
+     "fin": 31.62,
+     "p": "the"
+    },
+    {
+     "ini": 31.62,
+     "fin": 31.9,
+     "p": "heart,"
+    }
+   ]
+  },
+  {
+   "ini": 32.28,
+   "fin": 35.38,
+   "texto": "you'll know when you find it and like any great relationship",
+   "palabras": [
+    {
+     "ini": 32.28,
+     "fin": 32.46,
+     "p": "you'll"
+    },
+    {
+     "ini": 32.46,
+     "fin": 32.66,
+     "p": "know"
+    },
+    {
+     "ini": 32.66,
+     "fin": 32.8,
+     "p": "when"
+    },
+    {
+     "ini": 32.8,
+     "fin": 33.04,
+     "p": "you"
+    },
+    {
+     "ini": 33.04,
+     "fin": 33.26,
+     "p": "find"
+    },
+    {
+     "ini": 33.26,
+     "fin": 33.54,
+     "p": "it"
+    },
+    {
+     "ini": 33.54,
+     "fin": 34.14,
+     "p": "and"
+    },
+    {
+     "ini": 34.14,
+     "fin": 34.34,
+     "p": "like"
+    },
+    {
+     "ini": 34.34,
+     "fin": 34.6,
+     "p": "any"
+    },
+    {
+     "ini": 34.6,
+     "fin": 34.86,
+     "p": "great"
+    },
+    {
+     "ini": 34.86,
+     "fin": 35.38,
+     "p": "relationship"
+    }
+   ]
+  },
+  {
+   "ini": 35.38,
+   "fin": 38.54,
+   "texto": "it just gets better and better as the years roll on.",
+   "palabras": [
+    {
+     "ini": 35.38,
+     "fin": 35.88,
+     "p": "it"
+    },
+    {
+     "ini": 35.88,
+     "fin": 36.06,
+     "p": "just"
+    },
+    {
+     "ini": 36.06,
+     "fin": 36.22,
+     "p": "gets"
+    },
+    {
+     "ini": 36.22,
+     "fin": 36.5,
+     "p": "better"
+    },
+    {
+     "ini": 36.5,
+     "fin": 36.76,
+     "p": "and"
+    },
+    {
+     "ini": 36.76,
+     "fin": 37.04,
+     "p": "better"
+    },
+    {
+     "ini": 37.04,
+     "fin": 37.5,
+     "p": "as"
+    },
+    {
+     "ini": 37.5,
+     "fin": 37.66,
+     "p": "the"
+    },
+    {
+     "ini": 37.66,
+     "fin": 37.82,
+     "p": "years"
+    },
+    {
+     "ini": 37.82,
+     "fin": 38.16,
+     "p": "roll"
+    },
+    {
+     "ini": 38.16,
+     "fin": 38.54,
+     "p": "on."
+    }
+   ]
+  },
+  {
+   "ini": 38.86,
+   "fin": 41.1,
+   "texto": "So keep looking, don't settle.",
+   "palabras": [
+    {
+     "ini": 38.86,
+     "fin": 39.08,
+     "p": "So"
+    },
+    {
+     "ini": 39.08,
+     "fin": 39.38,
+     "p": "keep"
+    },
+    {
+     "ini": 39.38,
+     "fin": 39.76,
+     "p": "looking,"
+    },
+    {
+     "ini": 40.22,
+     "fin": 40.88,
+     "p": "don't"
+    },
+    {
+     "ini": 40.88,
+     "fin": 41.1,
+     "p": "settle."
+    }
+   ]
+  }
+ ]
+}

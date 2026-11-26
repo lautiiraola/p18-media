@@ -1,0 +1,12 @@
+INVESTIGACIÓN Y FACT-CHECKING
+
+1. Crear cronología preliminar.
+2. Localizar fuentes primarias: entrevistas, documentos, sitios oficiales, patentes, cartas o publicaciones originales.
+3. Incorporar fuentes secundarias reputadas.
+4. Contrastar fechas, cifras y citas.
+5. Registrar desacuerdos entre fuentes.
+6. Clasificar cada afirmación como hecho, declaración, inferencia o interpretación P18.
+7. No usar un dato controvertido como hook sin corroboración.
+8. Completar fact-check.csv antes del guion final.
+
+Dos fuentes independientes son la base. Cuando solo exista una fuente primaria, declarar la limitación.

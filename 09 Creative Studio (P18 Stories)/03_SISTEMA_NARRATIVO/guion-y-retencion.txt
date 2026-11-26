@@ -1,0 +1,25 @@
+GUION Y RETENCIÓN
+
+Escribir para ser escuchado, no leído.
+Una idea por oración.
+Eliminar saludos y presentación institucional.
+No decir “esta es una historia inspiradora”.
+Abrir una pregunta y resolverla progresivamente.
+Alternar información, conflicto, evidencia y consecuencia.
+Introducir un caveat cuando evite simplificación.
+No acelerar la voz para cumplir duración.
+Exportar el texto limpio a ElevenLabs sin indicaciones visuales.
+
+SKILLS OBLIGATORIAS (regla fija desde 2026-11-24, ver CLAUDE.txt)
+Cada guion pasa siempre por las skills de .claude/skills:
+- viral-hooks-formulas + viral-hooks: 3 hooks candidatos con su categoría, crítica de tres capas y elección justificada.
+- viral-short-form + viral-instagram-reels: estructura, retención y checklist de Reels. Si se distribuye en esas plataformas, sumar viral-tiktok-content y viral-youtube-shorts.
+- viral-captions-and-ctas: caption, CTA y texto en pantalla de la entrega.
+- viral-short-form-ideas: en modo autónomo, para elegir la historia y el ángulo.
+Las reglas P18 de veracidad y tono tienen prioridad sobre cualquier sugerencia de las skills.
+
+DURACIÓN (regla fija desde 2026-11-24)
+El video final dura entre 30 y 50 segundos. NUNCA más de 50 s.
+Presupuesto del guion: 75–108 palabras (los 3,0 s del cierre fijo outro3d entran en los 50 s) (voz Brian a unas 2,5 palabras por segundo, más pausas y 1 s de cierre). Máximo absoluto: 120 palabras.
+Contar las palabras antes de entregar el texto para ElevenLabs. Si la estimación supera los 48 s, recortar el guion; nunca acelerar la voz.
+Una historia larga se cuenta con un solo ángulo (un conflicto, una decisión, un resultado), no como resumen.

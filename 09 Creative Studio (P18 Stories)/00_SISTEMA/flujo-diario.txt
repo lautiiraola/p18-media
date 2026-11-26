@@ -1,0 +1,23 @@
+FLUJO DIARIO
+
+1. Recibir historia o ejecutar selección autónoma.
+2. Reservar el próximo video_id.
+3. Copiar 08_NUEVO_VIDEO_TEMPLATE a 09_VIDEOS_EN_PRODUCCION.
+4. Completar manifest.yaml.
+5. Investigar con fuentes primarias y secundarias.
+6. Verificar fechas, cifras, citas y causalidad.
+7. Formular hook, conflicto, decisión y reflexión.
+8. Escribir guion y exportar texto para ElevenLabs.
+9. Incorporar la voz final en 03_voiceover/approved.
+10. Buscar archivo y registrar derechos.
+11. Mapear cada frase a un recurso visual.
+12. Crear storyboard y dirección de edición.
+13. Construir o reutilizar componentes Remotion.
+14. Renderizar revisión.
+15. Ejecutar QA completo.
+16. Corregir y renderizar master.
+17. Generar informe de producción.
+18. Mover la carpeta a 10_VIDEOS_TERMINADOS.
+19. Actualizar INDEX.txt y ESTADO_DEL_ESTUDIO.txt.
+
+Nunca saltear un gate para cumplir una frecuencia diaria. La precisión y los derechos de uso tienen prioridad sobre el calendario.

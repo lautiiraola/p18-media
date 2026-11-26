@@ -1,0 +1,1128 @@
+{
+ "idioma": "es",
+ "duracion": 57.07,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 4.58,
+   "texto": "El mensaje que yo hoy puedo dar y lo que la mayoría me consulta es eso, ¿cómo hago?",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.24,
+     "p": "El"
+    },
+    {
+     "ini": 0.24,
+     "fin": 0.62,
+     "p": "mensaje"
+    },
+    {
+     "ini": 0.62,
+     "fin": 0.84,
+     "p": "que"
+    },
+    {
+     "ini": 0.84,
+     "fin": 1.34,
+     "p": "yo"
+    },
+    {
+     "ini": 1.34,
+     "fin": 1.54,
+     "p": "hoy"
+    },
+    {
+     "ini": 1.54,
+     "fin": 1.84,
+     "p": "puedo"
+    },
+    {
+     "ini": 1.84,
+     "fin": 2.12,
+     "p": "dar"
+    },
+    {
+     "ini": 2.12,
+     "fin": 2.42,
+     "p": "y"
+    },
+    {
+     "ini": 2.42,
+     "fin": 2.62,
+     "p": "lo"
+    },
+    {
+     "ini": 2.62,
+     "fin": 2.8,
+     "p": "que"
+    },
+    {
+     "ini": 2.8,
+     "fin": 2.96,
+     "p": "la"
+    },
+    {
+     "ini": 2.96,
+     "fin": 3.2,
+     "p": "mayoría"
+    },
+    {
+     "ini": 3.2,
+     "fin": 3.54,
+     "p": "me"
+    },
+    {
+     "ini": 3.54,
+     "fin": 3.82,
+     "p": "consulta"
+    },
+    {
+     "ini": 3.82,
+     "fin": 3.88,
+     "p": "es"
+    },
+    {
+     "ini": 3.88,
+     "fin": 4.12,
+     "p": "eso,"
+    },
+    {
+     "ini": 4.12,
+     "fin": 4.34,
+     "p": "¿cómo"
+    },
+    {
+     "ini": 4.34,
+     "fin": 4.58,
+     "p": "hago?"
+    }
+   ]
+  },
+  {
+   "ini": 4.74,
+   "fin": 9.44,
+   "texto": "Yo no soy ni una superdotada en el estudio, ni una superdotada en el deporte.",
+   "palabras": [
+    {
+     "ini": 4.74,
+     "fin": 4.92,
+     "p": "Yo"
+    },
+    {
+     "ini": 4.92,
+     "fin": 5.06,
+     "p": "no"
+    },
+    {
+     "ini": 5.06,
+     "fin": 5.22,
+     "p": "soy"
+    },
+    {
+     "ini": 5.22,
+     "fin": 5.36,
+     "p": "ni"
+    },
+    {
+     "ini": 5.36,
+     "fin": 5.66,
+     "p": "una"
+    },
+    {
+     "ini": 5.66,
+     "fin": 6.4,
+     "p": "superdotada"
+    },
+    {
+     "ini": 6.4,
+     "fin": 6.6,
+     "p": "en"
+    },
+    {
+     "ini": 6.6,
+     "fin": 6.84,
+     "p": "el"
+    },
+    {
+     "ini": 6.84,
+     "fin": 7.26,
+     "p": "estudio,"
+    },
+    {
+     "ini": 7.94,
+     "fin": 8.02,
+     "p": "ni"
+    },
+    {
+     "ini": 8.02,
+     "fin": 8.26,
+     "p": "una"
+    },
+    {
+     "ini": 8.26,
+     "fin": 8.72,
+     "p": "superdotada"
+    },
+    {
+     "ini": 8.72,
+     "fin": 8.88,
+     "p": "en"
+    },
+    {
+     "ini": 8.88,
+     "fin": 9.02,
+     "p": "el"
+    },
+    {
+     "ini": 9.02,
+     "fin": 9.44,
+     "p": "deporte."
+    }
+   ]
+  },
+  {
+   "ini": 9.64,
+   "fin": 13.34,
+   "texto": "Ninguna de las dos le pueden consultar a cualquiera de todos mis amigos en judo",
+   "palabras": [
+    {
+     "ini": 9.64,
+     "fin": 9.92,
+     "p": "Ninguna"
+    },
+    {
+     "ini": 9.92,
+     "fin": 10.02,
+     "p": "de"
+    },
+    {
+     "ini": 10.02,
+     "fin": 10.22,
+     "p": "las"
+    },
+    {
+     "ini": 10.22,
+     "fin": 10.38,
+     "p": "dos"
+    },
+    {
+     "ini": 10.38,
+     "fin": 10.56,
+     "p": "le"
+    },
+    {
+     "ini": 10.56,
+     "fin": 10.82,
+     "p": "pueden"
+    },
+    {
+     "ini": 10.82,
+     "fin": 11.34,
+     "p": "consultar"
+    },
+    {
+     "ini": 11.34,
+     "fin": 11.52,
+     "p": "a"
+    },
+    {
+     "ini": 11.52,
+     "fin": 11.88,
+     "p": "cualquiera"
+    },
+    {
+     "ini": 11.88,
+     "fin": 12.04,
+     "p": "de"
+    },
+    {
+     "ini": 12.04,
+     "fin": 12.16,
+     "p": "todos"
+    },
+    {
+     "ini": 12.16,
+     "fin": 12.32,
+     "p": "mis"
+    },
+    {
+     "ini": 12.32,
+     "fin": 12.66,
+     "p": "amigos"
+    },
+    {
+     "ini": 12.66,
+     "fin": 12.92,
+     "p": "en"
+    },
+    {
+     "ini": 12.92,
+     "fin": 13.34,
+     "p": "judo"
+    }
+   ]
+  },
+  {
+   "ini": 13.34,
+   "fin": 16.92,
+   "texto": "o en la facultad o en el colegio o lo que sea.",
+   "palabras": [
+    {
+     "ini": 13.34,
+     "fin": 13.64,
+     "p": "o"
+    },
+    {
+     "ini": 13.64,
+     "fin": 14.66,
+     "p": "en"
+    },
+    {
+     "ini": 14.66,
+     "fin": 14.82,
+     "p": "la"
+    },
+    {
+     "ini": 14.82,
+     "fin": 15.46,
+     "p": "facultad"
+    },
+    {
+     "ini": 15.46,
+     "fin": 15.66,
+     "p": "o"
+    },
+    {
+     "ini": 15.66,
+     "fin": 15.8,
+     "p": "en"
+    },
+    {
+     "ini": 15.8,
+     "fin": 15.98,
+     "p": "el"
+    },
+    {
+     "ini": 15.98,
+     "fin": 16.3,
+     "p": "colegio"
+    },
+    {
+     "ini": 16.3,
+     "fin": 16.34,
+     "p": "o"
+    },
+    {
+     "ini": 16.34,
+     "fin": 16.48,
+     "p": "lo"
+    },
+    {
+     "ini": 16.48,
+     "fin": 16.66,
+     "p": "que"
+    },
+    {
+     "ini": 16.66,
+     "fin": 16.92,
+     "p": "sea."
+    }
+   ]
+  },
+  {
+   "ini": 17.62,
+   "fin": 22.94,
+   "texto": "Si me sentaba horas a estudiar y si me puse horas a entrenar, creo que la clave es esa.",
+   "palabras": [
+    {
+     "ini": 17.62,
+     "fin": 17.74,
+     "p": "Si"
+    },
+    {
+     "ini": 17.74,
+     "fin": 17.92,
+     "p": "me"
+    },
+    {
+     "ini": 17.92,
+     "fin": 18.34,
+     "p": "sentaba"
+    },
+    {
+     "ini": 18.34,
+     "fin": 18.66,
+     "p": "horas"
+    },
+    {
+     "ini": 18.66,
+     "fin": 18.88,
+     "p": "a"
+    },
+    {
+     "ini": 18.88,
+     "fin": 19.3,
+     "p": "estudiar"
+    },
+    {
+     "ini": 19.3,
+     "fin": 19.64,
+     "p": "y"
+    },
+    {
+     "ini": 19.64,
+     "fin": 19.82,
+     "p": "si"
+    },
+    {
+     "ini": 19.82,
+     "fin": 20.12,
+     "p": "me"
+    },
+    {
+     "ini": 20.12,
+     "fin": 20.54,
+     "p": "puse"
+    },
+    {
+     "ini": 20.54,
+     "fin": 20.96,
+     "p": "horas"
+    },
+    {
+     "ini": 20.96,
+     "fin": 21.16,
+     "p": "a"
+    },
+    {
+     "ini": 21.16,
+     "fin": 21.78,
+     "p": "entrenar,"
+    },
+    {
+     "ini": 21.9,
+     "fin": 21.96,
+     "p": "creo"
+    },
+    {
+     "ini": 21.96,
+     "fin": 22.12,
+     "p": "que"
+    },
+    {
+     "ini": 22.12,
+     "fin": 22.3,
+     "p": "la"
+    },
+    {
+     "ini": 22.3,
+     "fin": 22.54,
+     "p": "clave"
+    },
+    {
+     "ini": 22.54,
+     "fin": 22.74,
+     "p": "es"
+    },
+    {
+     "ini": 22.74,
+     "fin": 22.94,
+     "p": "esa."
+    }
+   ]
+  },
+  {
+   "ini": 23.06,
+   "fin": 28.46,
+   "texto": "Encontrar lo que a uno le gusta y obviamente todo tiene un esfuerzo de por medio.",
+   "palabras": [
+    {
+     "ini": 23.06,
+     "fin": 23.5,
+     "p": "Encontrar"
+    },
+    {
+     "ini": 23.5,
+     "fin": 23.6,
+     "p": "lo"
+    },
+    {
+     "ini": 23.6,
+     "fin": 23.76,
+     "p": "que"
+    },
+    {
+     "ini": 23.76,
+     "fin": 23.82,
+     "p": "a"
+    },
+    {
+     "ini": 23.82,
+     "fin": 23.92,
+     "p": "uno"
+    },
+    {
+     "ini": 23.92,
+     "fin": 24.12,
+     "p": "le"
+    },
+    {
+     "ini": 24.12,
+     "fin": 24.34,
+     "p": "gusta"
+    },
+    {
+     "ini": 24.34,
+     "fin": 24.72,
+     "p": "y"
+    },
+    {
+     "ini": 24.72,
+     "fin": 26.2,
+     "p": "obviamente"
+    },
+    {
+     "ini": 26.2,
+     "fin": 26.72,
+     "p": "todo"
+    },
+    {
+     "ini": 26.72,
+     "fin": 27.08,
+     "p": "tiene"
+    },
+    {
+     "ini": 27.08,
+     "fin": 27.36,
+     "p": "un"
+    },
+    {
+     "ini": 27.36,
+     "fin": 27.86,
+     "p": "esfuerzo"
+    },
+    {
+     "ini": 27.86,
+     "fin": 28.02,
+     "p": "de"
+    },
+    {
+     "ini": 28.02,
+     "fin": 28.18,
+     "p": "por"
+    },
+    {
+     "ini": 28.18,
+     "fin": 28.46,
+     "p": "medio."
+    }
+   ]
+  },
+  {
+   "ini": 28.46,
+   "fin": 33.96,
+   "texto": "a nadie le gusta levantarse a las 6 de la mañana, o sea, eso es lógico, pero cuando",
+   "palabras": [
+    {
+     "ini": 28.46,
+     "fin": 28.72,
+     "p": "a"
+    },
+    {
+     "ini": 28.72,
+     "fin": 28.84,
+     "p": "nadie"
+    },
+    {
+     "ini": 28.84,
+     "fin": 29.0,
+     "p": "le"
+    },
+    {
+     "ini": 29.0,
+     "fin": 29.18,
+     "p": "gusta"
+    },
+    {
+     "ini": 29.18,
+     "fin": 29.66,
+     "p": "levantarse"
+    },
+    {
+     "ini": 29.66,
+     "fin": 29.78,
+     "p": "a"
+    },
+    {
+     "ini": 29.78,
+     "fin": 29.88,
+     "p": "las"
+    },
+    {
+     "ini": 29.88,
+     "fin": 30.08,
+     "p": "6"
+    },
+    {
+     "ini": 30.08,
+     "fin": 30.2,
+     "p": "de"
+    },
+    {
+     "ini": 30.2,
+     "fin": 30.4,
+     "p": "la"
+    },
+    {
+     "ini": 30.4,
+     "fin": 30.76,
+     "p": "mañana,"
+    },
+    {
+     "ini": 30.9,
+     "fin": 30.9,
+     "p": "o"
+    },
+    {
+     "ini": 30.9,
+     "fin": 31.6,
+     "p": "sea,"
+    },
+    {
+     "ini": 31.78,
+     "fin": 32.02,
+     "p": "eso"
+    },
+    {
+     "ini": 32.02,
+     "fin": 32.22,
+     "p": "es"
+    },
+    {
+     "ini": 32.22,
+     "fin": 32.64,
+     "p": "lógico,"
+    },
+    {
+     "ini": 33.34,
+     "fin": 33.34,
+     "p": "pero"
+    },
+    {
+     "ini": 33.34,
+     "fin": 33.96,
+     "p": "cuando"
+    }
+   ]
+  },
+  {
+   "ini": 33.96,
+   "fin": 37.56,
+   "texto": "me preguntan y cómo haces, no lo pienso, me levanto, o cuando llegan las 10 de la noche",
+   "palabras": [
+    {
+     "ini": 33.96,
+     "fin": 34.16,
+     "p": "me"
+    },
+    {
+     "ini": 34.16,
+     "fin": 34.46,
+     "p": "preguntan"
+    },
+    {
+     "ini": 34.46,
+     "fin": 34.56,
+     "p": "y"
+    },
+    {
+     "ini": 34.56,
+     "fin": 34.68,
+     "p": "cómo"
+    },
+    {
+     "ini": 34.68,
+     "fin": 34.92,
+     "p": "haces,"
+    },
+    {
+     "ini": 34.96,
+     "fin": 35.12,
+     "p": "no"
+    },
+    {
+     "ini": 35.12,
+     "fin": 35.32,
+     "p": "lo"
+    },
+    {
+     "ini": 35.32,
+     "fin": 35.52,
+     "p": "pienso,"
+    },
+    {
+     "ini": 35.56,
+     "fin": 35.72,
+     "p": "me"
+    },
+    {
+     "ini": 35.72,
+     "fin": 36.34,
+     "p": "levanto,"
+    },
+    {
+     "ini": 36.48,
+     "fin": 36.58,
+     "p": "o"
+    },
+    {
+     "ini": 36.58,
+     "fin": 36.74,
+     "p": "cuando"
+    },
+    {
+     "ini": 36.74,
+     "fin": 36.94,
+     "p": "llegan"
+    },
+    {
+     "ini": 36.94,
+     "fin": 37.06,
+     "p": "las"
+    },
+    {
+     "ini": 37.06,
+     "fin": 37.18,
+     "p": "10"
+    },
+    {
+     "ini": 37.18,
+     "fin": 37.28,
+     "p": "de"
+    },
+    {
+     "ini": 37.28,
+     "fin": 37.42,
+     "p": "la"
+    },
+    {
+     "ini": 37.42,
+     "fin": 37.56,
+     "p": "noche"
+    }
+   ]
+  },
+  {
+   "ini": 37.56,
+   "fin": 41.1,
+   "texto": "y me acuesto, digo, bueno, tengo el día cumplido, hice todo lo que tenía que hacer",
+   "palabras": [
+    {
+     "ini": 37.56,
+     "fin": 37.64,
+     "p": "y"
+    },
+    {
+     "ini": 37.64,
+     "fin": 37.74,
+     "p": "me"
+    },
+    {
+     "ini": 37.74,
+     "fin": 37.98,
+     "p": "acuesto,"
+    },
+    {
+     "ini": 38.04,
+     "fin": 38.16,
+     "p": "digo,"
+    },
+    {
+     "ini": 38.38,
+     "fin": 38.42,
+     "p": "bueno,"
+    },
+    {
+     "ini": 38.44,
+     "fin": 38.6,
+     "p": "tengo"
+    },
+    {
+     "ini": 38.6,
+     "fin": 38.74,
+     "p": "el"
+    },
+    {
+     "ini": 38.74,
+     "fin": 38.88,
+     "p": "día"
+    },
+    {
+     "ini": 38.88,
+     "fin": 39.66,
+     "p": "cumplido,"
+    },
+    {
+     "ini": 39.94,
+     "fin": 40.0,
+     "p": "hice"
+    },
+    {
+     "ini": 40.0,
+     "fin": 40.2,
+     "p": "todo"
+    },
+    {
+     "ini": 40.2,
+     "fin": 40.32,
+     "p": "lo"
+    },
+    {
+     "ini": 40.32,
+     "fin": 40.42,
+     "p": "que"
+    },
+    {
+     "ini": 40.42,
+     "fin": 40.6,
+     "p": "tenía"
+    },
+    {
+     "ini": 40.6,
+     "fin": 40.76,
+     "p": "que"
+    },
+    {
+     "ini": 40.76,
+     "fin": 41.1,
+     "p": "hacer"
+    }
+   ]
+  },
+  {
+   "ini": 41.1,
+   "fin": 44.54,
+   "texto": "y así después también cuando llega el momento, por ejemplo, de una competencia",
+   "palabras": [
+    {
+     "ini": 41.1,
+     "fin": 41.5,
+     "p": "y"
+    },
+    {
+     "ini": 41.5,
+     "fin": 41.68,
+     "p": "así"
+    },
+    {
+     "ini": 41.68,
+     "fin": 41.98,
+     "p": "después"
+    },
+    {
+     "ini": 41.98,
+     "fin": 42.24,
+     "p": "también"
+    },
+    {
+     "ini": 42.24,
+     "fin": 42.54,
+     "p": "cuando"
+    },
+    {
+     "ini": 42.54,
+     "fin": 42.74,
+     "p": "llega"
+    },
+    {
+     "ini": 42.74,
+     "fin": 42.92,
+     "p": "el"
+    },
+    {
+     "ini": 42.92,
+     "fin": 43.22,
+     "p": "momento,"
+    },
+    {
+     "ini": 43.24,
+     "fin": 43.42,
+     "p": "por"
+    },
+    {
+     "ini": 43.42,
+     "fin": 43.66,
+     "p": "ejemplo,"
+    },
+    {
+     "ini": 43.74,
+     "fin": 43.84,
+     "p": "de"
+    },
+    {
+     "ini": 43.84,
+     "fin": 44.02,
+     "p": "una"
+    },
+    {
+     "ini": 44.02,
+     "fin": 44.54,
+     "p": "competencia"
+    }
+   ]
+  },
+  {
+   "ini": 44.54,
+   "fin": 48.04,
+   "texto": "y me va bien, sé que fue porque hice las cosas bien y cuando llega el momento de",
+   "palabras": [
+    {
+     "ini": 44.54,
+     "fin": 44.6,
+     "p": "y"
+    },
+    {
+     "ini": 44.6,
+     "fin": 44.7,
+     "p": "me"
+    },
+    {
+     "ini": 44.7,
+     "fin": 44.84,
+     "p": "va"
+    },
+    {
+     "ini": 44.84,
+     "fin": 45.3,
+     "p": "bien,"
+    },
+    {
+     "ini": 45.6,
+     "fin": 45.68,
+     "p": "sé"
+    },
+    {
+     "ini": 45.68,
+     "fin": 45.8,
+     "p": "que"
+    },
+    {
+     "ini": 45.8,
+     "fin": 45.96,
+     "p": "fue"
+    },
+    {
+     "ini": 45.96,
+     "fin": 46.14,
+     "p": "porque"
+    },
+    {
+     "ini": 46.14,
+     "fin": 46.3,
+     "p": "hice"
+    },
+    {
+     "ini": 46.3,
+     "fin": 46.44,
+     "p": "las"
+    },
+    {
+     "ini": 46.44,
+     "fin": 46.66,
+     "p": "cosas"
+    },
+    {
+     "ini": 46.66,
+     "fin": 46.96,
+     "p": "bien"
+    },
+    {
+     "ini": 46.96,
+     "fin": 47.22,
+     "p": "y"
+    },
+    {
+     "ini": 47.22,
+     "fin": 47.44,
+     "p": "cuando"
+    },
+    {
+     "ini": 47.44,
+     "fin": 47.56,
+     "p": "llega"
+    },
+    {
+     "ini": 47.56,
+     "fin": 47.68,
+     "p": "el"
+    },
+    {
+     "ini": 47.68,
+     "fin": 47.88,
+     "p": "momento"
+    },
+    {
+     "ini": 47.88,
+     "fin": 48.04,
+     "p": "de"
+    }
+   ]
+  },
+  {
+   "ini": 48.04,
+   "fin": 53.0,
+   "texto": "un examen y me va bien o digo, bueno, hoy soy médica, estoy a punto también de",
+   "palabras": [
+    {
+     "ini": 48.04,
+     "fin": 48.14,
+     "p": "un"
+    },
+    {
+     "ini": 48.14,
+     "fin": 48.82,
+     "p": "examen"
+    },
+    {
+     "ini": 48.82,
+     "fin": 49.06,
+     "p": "y"
+    },
+    {
+     "ini": 49.06,
+     "fin": 49.18,
+     "p": "me"
+    },
+    {
+     "ini": 49.18,
+     "fin": 49.3,
+     "p": "va"
+    },
+    {
+     "ini": 49.3,
+     "fin": 49.62,
+     "p": "bien"
+    },
+    {
+     "ini": 49.62,
+     "fin": 49.96,
+     "p": "o"
+    },
+    {
+     "ini": 49.96,
+     "fin": 50.2,
+     "p": "digo,"
+    },
+    {
+     "ini": 50.74,
+     "fin": 50.74,
+     "p": "bueno,"
+    },
+    {
+     "ini": 50.92,
+     "fin": 51.08,
+     "p": "hoy"
+    },
+    {
+     "ini": 51.08,
+     "fin": 51.32,
+     "p": "soy"
+    },
+    {
+     "ini": 51.32,
+     "fin": 51.88,
+     "p": "médica,"
+    },
+    {
+     "ini": 51.98,
+     "fin": 52.12,
+     "p": "estoy"
+    },
+    {
+     "ini": 52.12,
+     "fin": 52.24,
+     "p": "a"
+    },
+    {
+     "ini": 52.24,
+     "fin": 52.42,
+     "p": "punto"
+    },
+    {
+     "ini": 52.42,
+     "fin": 52.72,
+     "p": "también"
+    },
+    {
+     "ini": 52.72,
+     "fin": 53.0,
+     "p": "de"
+    }
+   ]
+  },
+  {
+   "ini": 53.0,
+   "fin": 56.72,
+   "texto": "recibirme en la especialidad de traumatología, es porque hice ese esfuerzo.",
+   "palabras": [
+    {
+     "ini": 53.0,
+     "fin": 53.58,
+     "p": "recibirme"
+    },
+    {
+     "ini": 53.58,
+     "fin": 53.74,
+     "p": "en"
+    },
+    {
+     "ini": 53.74,
+     "fin": 53.82,
+     "p": "la"
+    },
+    {
+     "ini": 53.82,
+     "fin": 54.24,
+     "p": "especialidad"
+    },
+    {
+     "ini": 54.24,
+     "fin": 54.38,
+     "p": "de"
+    },
+    {
+     "ini": 54.38,
+     "fin": 55.02,
+     "p": "traumatología,"
+    },
+    {
+     "ini": 55.58,
+     "fin": 55.72,
+     "p": "es"
+    },
+    {
+     "ini": 55.72,
+     "fin": 55.88,
+     "p": "porque"
+    },
+    {
+     "ini": 55.88,
+     "fin": 56.08,
+     "p": "hice"
+    },
+    {
+     "ini": 56.08,
+     "fin": 56.24,
+     "p": "ese"
+    },
+    {
+     "ini": 56.24,
+     "fin": 56.72,
+     "p": "esfuerzo."
+    }
+   ]
+  }
+ ]
+}

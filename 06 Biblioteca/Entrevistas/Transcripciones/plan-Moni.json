@@ -1,0 +1,70 @@
+{
+ "video": "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Entrevistas/Editadas/Moni - video principal.mp4",
+ "salida": "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Entrevistas/Partes/Moni",
+ "fin": [
+  205.7,
+  210.7
+ ],
+ "partes": [
+  {
+   "n": 1,
+   "nombre": "Si tuvieras 18 años cero capital y una compu",
+   "tramos": [
+    [
+     15.5,
+     57.3
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "nombre": "Que le miras a un pibe sin experiencia",
+   "tramos": [
+    [
+     57.75,
+     93.2
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "nombre": "Como no quedar como espectador",
+   "tramos": [
+    [
+     93.3,
+     144.7
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "nombre": "Como te veias a los 18",
+   "tramos": [
+    [
+     144.8,
+     183.1
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "nombre": "Te arrepentis de algo",
+   "tramos": [
+    [
+     183.2,
+     193.2
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "nombre": "Un ultimo mensaje",
+   "tramos": [
+    [
+     193.3,
+     205.5
+    ]
+   ]
+  }
+ ]
+}

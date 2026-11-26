@@ -1,0 +1,927 @@
+{
+ "idioma": "es",
+ "duracion": 51.12,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 7.28,
+   "texto": "Mi mayor aprendizaje es que es muy importante hacer volumen y ser constante, ese es mi mayor",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.36,
+     "p": "Mi"
+    },
+    {
+     "ini": 0.36,
+     "fin": 0.7,
+     "p": "mayor"
+    },
+    {
+     "ini": 0.7,
+     "fin": 1.9,
+     "p": "aprendizaje"
+    },
+    {
+     "ini": 1.9,
+     "fin": 2.68,
+     "p": "es"
+    },
+    {
+     "ini": 2.68,
+     "fin": 2.8,
+     "p": "que"
+    },
+    {
+     "ini": 2.8,
+     "fin": 2.96,
+     "p": "es"
+    },
+    {
+     "ini": 2.96,
+     "fin": 3.26,
+     "p": "muy"
+    },
+    {
+     "ini": 3.26,
+     "fin": 3.62,
+     "p": "importante"
+    },
+    {
+     "ini": 3.62,
+     "fin": 4.02,
+     "p": "hacer"
+    },
+    {
+     "ini": 4.02,
+     "fin": 4.62,
+     "p": "volumen"
+    },
+    {
+     "ini": 4.62,
+     "fin": 4.9,
+     "p": "y"
+    },
+    {
+     "ini": 4.9,
+     "fin": 5.16,
+     "p": "ser"
+    },
+    {
+     "ini": 5.16,
+     "fin": 5.74,
+     "p": "constante,"
+    },
+    {
+     "ini": 6.9,
+     "fin": 6.94,
+     "p": "ese"
+    },
+    {
+     "ini": 6.94,
+     "fin": 7.04,
+     "p": "es"
+    },
+    {
+     "ini": 7.04,
+     "fin": 7.1,
+     "p": "mi"
+    },
+    {
+     "ini": 7.1,
+     "fin": 7.28,
+     "p": "mayor"
+    }
+   ]
+  },
+  {
+   "ini": 7.28,
+   "fin": 12.54,
+   "texto": "aprendizaje. O sea, si te lo tengo que resumir, es volumen, gran cantidad, durante mucho tiempo,",
+   "palabras": [
+    {
+     "ini": 7.28,
+     "fin": 7.84,
+     "p": "aprendizaje."
+    },
+    {
+     "ini": 7.98,
+     "fin": 7.98,
+     "p": "O"
+    },
+    {
+     "ini": 7.98,
+     "fin": 8.06,
+     "p": "sea,"
+    },
+    {
+     "ini": 8.1,
+     "fin": 8.22,
+     "p": "si"
+    },
+    {
+     "ini": 8.22,
+     "fin": 8.3,
+     "p": "te"
+    },
+    {
+     "ini": 8.3,
+     "fin": 8.42,
+     "p": "lo"
+    },
+    {
+     "ini": 8.42,
+     "fin": 8.5,
+     "p": "tengo"
+    },
+    {
+     "ini": 8.5,
+     "fin": 8.66,
+     "p": "que"
+    },
+    {
+     "ini": 8.66,
+     "fin": 9.32,
+     "p": "resumir,"
+    },
+    {
+     "ini": 9.5,
+     "fin": 9.7,
+     "p": "es"
+    },
+    {
+     "ini": 9.7,
+     "fin": 10.2,
+     "p": "volumen,"
+    },
+    {
+     "ini": 10.42,
+     "fin": 10.56,
+     "p": "gran"
+    },
+    {
+     "ini": 10.56,
+     "fin": 11.12,
+     "p": "cantidad,"
+    },
+    {
+     "ini": 11.58,
+     "fin": 11.76,
+     "p": "durante"
+    },
+    {
+     "ini": 11.76,
+     "fin": 12.1,
+     "p": "mucho"
+    },
+    {
+     "ini": 12.1,
+     "fin": 12.54,
+     "p": "tiempo,"
+    }
+   ]
+  },
+  {
+   "ini": 12.96,
+   "fin": 20.56,
+   "texto": "y a la larga salís a flote. Yo fui bastante, o sea, no fui pionero en la Argentina,",
+   "palabras": [
+    {
+     "ini": 12.96,
+     "fin": 13.16,
+     "p": "y"
+    },
+    {
+     "ini": 13.16,
+     "fin": 13.24,
+     "p": "a"
+    },
+    {
+     "ini": 13.24,
+     "fin": 13.36,
+     "p": "la"
+    },
+    {
+     "ini": 13.36,
+     "fin": 13.6,
+     "p": "larga"
+    },
+    {
+     "ini": 13.6,
+     "fin": 13.84,
+     "p": "salís"
+    },
+    {
+     "ini": 13.84,
+     "fin": 14.02,
+     "p": "a"
+    },
+    {
+     "ini": 14.02,
+     "fin": 14.42,
+     "p": "flote."
+    },
+    {
+     "ini": 16.78,
+     "fin": 16.78,
+     "p": "Yo"
+    },
+    {
+     "ini": 16.78,
+     "fin": 17.74,
+     "p": "fui"
+    },
+    {
+     "ini": 17.74,
+     "fin": 18.42,
+     "p": "bastante,"
+    },
+    {
+     "ini": 18.94,
+     "fin": 19.06,
+     "p": "o"
+    },
+    {
+     "ini": 19.06,
+     "fin": 19.14,
+     "p": "sea,"
+    },
+    {
+     "ini": 19.14,
+     "fin": 19.3,
+     "p": "no"
+    },
+    {
+     "ini": 19.3,
+     "fin": 19.46,
+     "p": "fui"
+    },
+    {
+     "ini": 19.46,
+     "fin": 19.86,
+     "p": "pionero"
+    },
+    {
+     "ini": 19.86,
+     "fin": 19.98,
+     "p": "en"
+    },
+    {
+     "ini": 19.98,
+     "fin": 20.16,
+     "p": "la"
+    },
+    {
+     "ini": 20.16,
+     "fin": 20.56,
+     "p": "Argentina,"
+    }
+   ]
+  },
+  {
+   "ini": 20.8,
+   "fin": 25.08,
+   "texto": "pero en el método este de subir mucho volumen y darse a conocer por todos lados, fui,",
+   "palabras": [
+    {
+     "ini": 20.8,
+     "fin": 21.04,
+     "p": "pero"
+    },
+    {
+     "ini": 21.04,
+     "fin": 21.28,
+     "p": "en"
+    },
+    {
+     "ini": 21.28,
+     "fin": 21.4,
+     "p": "el"
+    },
+    {
+     "ini": 21.4,
+     "fin": 21.64,
+     "p": "método"
+    },
+    {
+     "ini": 21.64,
+     "fin": 21.94,
+     "p": "este"
+    },
+    {
+     "ini": 21.94,
+     "fin": 22.1,
+     "p": "de"
+    },
+    {
+     "ini": 22.1,
+     "fin": 22.36,
+     "p": "subir"
+    },
+    {
+     "ini": 22.36,
+     "fin": 22.64,
+     "p": "mucho"
+    },
+    {
+     "ini": 22.64,
+     "fin": 23.12,
+     "p": "volumen"
+    },
+    {
+     "ini": 23.12,
+     "fin": 23.3,
+     "p": "y"
+    },
+    {
+     "ini": 23.3,
+     "fin": 23.52,
+     "p": "darse"
+    },
+    {
+     "ini": 23.52,
+     "fin": 23.54,
+     "p": "a"
+    },
+    {
+     "ini": 23.54,
+     "fin": 23.76,
+     "p": "conocer"
+    },
+    {
+     "ini": 23.76,
+     "fin": 23.98,
+     "p": "por"
+    },
+    {
+     "ini": 23.98,
+     "fin": 24.12,
+     "p": "todos"
+    },
+    {
+     "ini": 24.12,
+     "fin": 24.68,
+     "p": "lados,"
+    },
+    {
+     "ini": 25.02,
+     "fin": 25.08,
+     "p": "fui,"
+    }
+   ]
+  },
+  {
+   "ini": 26.02,
+   "fin": 29.04,
+   "texto": "arranqué una especie de movimiento así de grabarse, sino más medio orgánico,",
+   "palabras": [
+    {
+     "ini": 26.02,
+     "fin": 26.2,
+     "p": "arranqué"
+    },
+    {
+     "ini": 26.2,
+     "fin": 26.38,
+     "p": "una"
+    },
+    {
+     "ini": 26.38,
+     "fin": 26.68,
+     "p": "especie"
+    },
+    {
+     "ini": 26.68,
+     "fin": 26.9,
+     "p": "de"
+    },
+    {
+     "ini": 26.9,
+     "fin": 27.2,
+     "p": "movimiento"
+    },
+    {
+     "ini": 27.2,
+     "fin": 27.42,
+     "p": "así"
+    },
+    {
+     "ini": 27.42,
+     "fin": 27.6,
+     "p": "de"
+    },
+    {
+     "ini": 27.6,
+     "fin": 27.88,
+     "p": "grabarse,"
+    },
+    {
+     "ini": 27.96,
+     "fin": 28.1,
+     "p": "sino"
+    },
+    {
+     "ini": 28.1,
+     "fin": 28.28,
+     "p": "más"
+    },
+    {
+     "ini": 28.28,
+     "fin": 28.52,
+     "p": "medio"
+    },
+    {
+     "ini": 28.52,
+     "fin": 29.04,
+     "p": "orgánico,"
+    }
+   ]
+  },
+  {
+   "ini": 29.04,
+   "fin": 33.04,
+   "texto": "Y lo que me pasaba es que me quería mucha gente y me decía estoy arrancando y yo veía que muchos",
+   "palabras": [
+    {
+     "ini": 29.04,
+     "fin": 29.5,
+     "p": "Y"
+    },
+    {
+     "ini": 29.5,
+     "fin": 29.64,
+     "p": "lo"
+    },
+    {
+     "ini": 29.64,
+     "fin": 29.7,
+     "p": "que"
+    },
+    {
+     "ini": 29.7,
+     "fin": 29.84,
+     "p": "me"
+    },
+    {
+     "ini": 29.84,
+     "fin": 30.02,
+     "p": "pasaba"
+    },
+    {
+     "ini": 30.02,
+     "fin": 30.1,
+     "p": "es"
+    },
+    {
+     "ini": 30.1,
+     "fin": 30.18,
+     "p": "que"
+    },
+    {
+     "ini": 30.18,
+     "fin": 30.28,
+     "p": "me"
+    },
+    {
+     "ini": 30.28,
+     "fin": 30.44,
+     "p": "quería"
+    },
+    {
+     "ini": 30.44,
+     "fin": 30.7,
+     "p": "mucha"
+    },
+    {
+     "ini": 30.7,
+     "fin": 30.9,
+     "p": "gente"
+    },
+    {
+     "ini": 30.9,
+     "fin": 31.02,
+     "p": "y"
+    },
+    {
+     "ini": 31.02,
+     "fin": 31.02,
+     "p": "me"
+    },
+    {
+     "ini": 31.02,
+     "fin": 31.14,
+     "p": "decía"
+    },
+    {
+     "ini": 31.14,
+     "fin": 31.34,
+     "p": "estoy"
+    },
+    {
+     "ini": 31.34,
+     "fin": 31.9,
+     "p": "arrancando"
+    },
+    {
+     "ini": 31.9,
+     "fin": 32.26,
+     "p": "y"
+    },
+    {
+     "ini": 32.26,
+     "fin": 32.42,
+     "p": "yo"
+    },
+    {
+     "ini": 32.42,
+     "fin": 32.62,
+     "p": "veía"
+    },
+    {
+     "ini": 32.62,
+     "fin": 32.8,
+     "p": "que"
+    },
+    {
+     "ini": 32.8,
+     "fin": 33.04,
+     "p": "muchos"
+    }
+   ]
+  },
+  {
+   "ini": 33.04,
+   "fin": 36.98,
+   "texto": "desistían a los tres meses y los pocos que perduraron más de tres meses, porque yo los",
+   "palabras": [
+    {
+     "ini": 33.04,
+     "fin": 33.6,
+     "p": "desistían"
+    },
+    {
+     "ini": 33.6,
+     "fin": 33.72,
+     "p": "a"
+    },
+    {
+     "ini": 33.72,
+     "fin": 33.88,
+     "p": "los"
+    },
+    {
+     "ini": 33.88,
+     "fin": 34.06,
+     "p": "tres"
+    },
+    {
+     "ini": 34.06,
+     "fin": 34.34,
+     "p": "meses"
+    },
+    {
+     "ini": 34.34,
+     "fin": 34.6,
+     "p": "y"
+    },
+    {
+     "ini": 34.6,
+     "fin": 34.8,
+     "p": "los"
+    },
+    {
+     "ini": 34.8,
+     "fin": 35.02,
+     "p": "pocos"
+    },
+    {
+     "ini": 35.02,
+     "fin": 35.26,
+     "p": "que"
+    },
+    {
+     "ini": 35.26,
+     "fin": 35.72,
+     "p": "perduraron"
+    },
+    {
+     "ini": 35.72,
+     "fin": 35.92,
+     "p": "más"
+    },
+    {
+     "ini": 35.92,
+     "fin": 36.16,
+     "p": "de"
+    },
+    {
+     "ini": 36.16,
+     "fin": 36.3,
+     "p": "tres"
+    },
+    {
+     "ini": 36.3,
+     "fin": 36.52,
+     "p": "meses,"
+    },
+    {
+     "ini": 36.54,
+     "fin": 36.74,
+     "p": "porque"
+    },
+    {
+     "ini": 36.74,
+     "fin": 36.88,
+     "p": "yo"
+    },
+    {
+     "ini": 36.88,
+     "fin": 36.98,
+     "p": "los"
+    }
+   ]
+  },
+  {
+   "ini": 36.98,
+   "fin": 41.72,
+   "texto": "iba siguiendo, que me mandaban mira cómo voy, mira hoy metí un viral, mira mira. Los que",
+   "palabras": [
+    {
+     "ini": 36.98,
+     "fin": 37.12,
+     "p": "iba"
+    },
+    {
+     "ini": 37.12,
+     "fin": 38.04,
+     "p": "siguiendo,"
+    },
+    {
+     "ini": 38.22,
+     "fin": 38.3,
+     "p": "que"
+    },
+    {
+     "ini": 38.3,
+     "fin": 38.4,
+     "p": "me"
+    },
+    {
+     "ini": 38.4,
+     "fin": 38.62,
+     "p": "mandaban"
+    },
+    {
+     "ini": 38.62,
+     "fin": 38.8,
+     "p": "mira"
+    },
+    {
+     "ini": 38.8,
+     "fin": 39.06,
+     "p": "cómo"
+    },
+    {
+     "ini": 39.06,
+     "fin": 39.28,
+     "p": "voy,"
+    },
+    {
+     "ini": 39.46,
+     "fin": 39.52,
+     "p": "mira"
+    },
+    {
+     "ini": 39.52,
+     "fin": 39.68,
+     "p": "hoy"
+    },
+    {
+     "ini": 39.68,
+     "fin": 39.86,
+     "p": "metí"
+    },
+    {
+     "ini": 39.86,
+     "fin": 40.0,
+     "p": "un"
+    },
+    {
+     "ini": 40.0,
+     "fin": 40.3,
+     "p": "viral,"
+    },
+    {
+     "ini": 40.46,
+     "fin": 40.56,
+     "p": "mira"
+    },
+    {
+     "ini": 40.56,
+     "fin": 40.9,
+     "p": "mira."
+    },
+    {
+     "ini": 41.3,
+     "fin": 41.48,
+     "p": "Los"
+    },
+    {
+     "ini": 41.48,
+     "fin": 41.72,
+     "p": "que"
+    }
+   ]
+  },
+  {
+   "ini": 41.72,
+   "fin": 46.6,
+   "texto": "perduraban cuatro, cinco, seis, siete, en un momento despegaban y la curva es como exponencial,",
+   "palabras": [
+    {
+     "ini": 41.72,
+     "fin": 42.36,
+     "p": "perduraban"
+    },
+    {
+     "ini": 42.36,
+     "fin": 42.8,
+     "p": "cuatro,"
+    },
+    {
+     "ini": 42.9,
+     "fin": 43.16,
+     "p": "cinco,"
+    },
+    {
+     "ini": 43.34,
+     "fin": 43.5,
+     "p": "seis,"
+    },
+    {
+     "ini": 43.54,
+     "fin": 43.74,
+     "p": "siete,"
+    },
+    {
+     "ini": 43.8,
+     "fin": 43.9,
+     "p": "en"
+    },
+    {
+     "ini": 43.9,
+     "fin": 43.96,
+     "p": "un"
+    },
+    {
+     "ini": 43.96,
+     "fin": 44.18,
+     "p": "momento"
+    },
+    {
+     "ini": 44.18,
+     "fin": 44.82,
+     "p": "despegaban"
+    },
+    {
+     "ini": 44.82,
+     "fin": 45.28,
+     "p": "y"
+    },
+    {
+     "ini": 45.28,
+     "fin": 45.44,
+     "p": "la"
+    },
+    {
+     "ini": 45.44,
+     "fin": 45.66,
+     "p": "curva"
+    },
+    {
+     "ini": 45.66,
+     "fin": 45.84,
+     "p": "es"
+    },
+    {
+     "ini": 45.84,
+     "fin": 45.96,
+     "p": "como"
+    },
+    {
+     "ini": 45.96,
+     "fin": 46.6,
+     "p": "exponencial,"
+    }
+   ]
+  },
+  {
+   "ini": 46.76,
+   "fin": 50.76,
+   "texto": "es como que cuesta arrancar y una vez que arrancas y te empiezas a ir bien, no paras de subir.",
+   "palabras": [
+    {
+     "ini": 46.76,
+     "fin": 46.84,
+     "p": "es"
+    },
+    {
+     "ini": 46.84,
+     "fin": 46.98,
+     "p": "como"
+    },
+    {
+     "ini": 46.98,
+     "fin": 47.18,
+     "p": "que"
+    },
+    {
+     "ini": 47.18,
+     "fin": 47.4,
+     "p": "cuesta"
+    },
+    {
+     "ini": 47.4,
+     "fin": 47.7,
+     "p": "arrancar"
+    },
+    {
+     "ini": 47.7,
+     "fin": 47.84,
+     "p": "y"
+    },
+    {
+     "ini": 47.84,
+     "fin": 47.96,
+     "p": "una"
+    },
+    {
+     "ini": 47.96,
+     "fin": 48.08,
+     "p": "vez"
+    },
+    {
+     "ini": 48.08,
+     "fin": 48.26,
+     "p": "que"
+    },
+    {
+     "ini": 48.26,
+     "fin": 48.52,
+     "p": "arrancas"
+    },
+    {
+     "ini": 48.52,
+     "fin": 48.68,
+     "p": "y"
+    },
+    {
+     "ini": 48.68,
+     "fin": 48.78,
+     "p": "te"
+    },
+    {
+     "ini": 48.78,
+     "fin": 49.0,
+     "p": "empiezas"
+    },
+    {
+     "ini": 49.0,
+     "fin": 49.02,
+     "p": "a"
+    },
+    {
+     "ini": 49.02,
+     "fin": 49.12,
+     "p": "ir"
+    },
+    {
+     "ini": 49.12,
+     "fin": 49.44,
+     "p": "bien,"
+    },
+    {
+     "ini": 49.94,
+     "fin": 50.12,
+     "p": "no"
+    },
+    {
+     "ini": 50.12,
+     "fin": 50.36,
+     "p": "paras"
+    },
+    {
+     "ini": 50.36,
+     "fin": 50.54,
+     "p": "de"
+    },
+    {
+     "ini": 50.54,
+     "fin": 50.76,
+     "p": "subir."
+    }
+   ]
+  }
+ ]
+}

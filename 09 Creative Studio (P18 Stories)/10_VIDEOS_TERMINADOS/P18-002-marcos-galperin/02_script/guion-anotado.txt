@@ -1,0 +1,55 @@
+GUION ANOTADO — P18-002-marcos-galperin — "19 de 20"
+Versión: v01 (2026-11-24) · Reel/Story 9:16 · 112 palabras · unos 46 s estimados (ritmo medido de 2,49 pal/s más 1 s de cierre)
+Convenciones: / pausa corta · // pausa larga · _x_ énfasis · [C##] fact-check. No contiene decisiones visuales.
+
+BLOQUE 01 — HOOK                                    ~00:00–00:04
+Intención: dato seco, casi en voz baja. Que el número pese solo.
+  Veinte personas. // Diecinueve le dijeron que _no_ iba a funcionar. //
+Hechos: [C02]
+
+BLOQUE 02 — CONTEXTO                                ~00:04–00:10
+Intención: narrativo y claro, ritmo medio.
+  En el noventa y nueve, / Marcos Galperin estudiaba en _Stanford_ /
+  y quería crear un mercado online latinoamericano. /
+Locución: "Galperin" → "Galperín" (acento en la última). "Stanford" → "Stánford".
+Hechos: [C01] [C05]
+
+BLOQUE 03 — LA OBJECIÓN                             ~00:10–00:14
+Intención: la voz de "todos": escéptica, sin caricatura.
+  Le decían: / acá nadie va a comprar algo que no _vio_ / ni _tocó_. //
+Hechos: [C04]
+
+BLOQUE 04 — SU RESPUESTA (pico emocional)           ~00:14–00:21
+Intención: más cálido y firme. Es su frase: dicha con convicción, sin épica.
+  Él lo cuenta así: /
+  «Cuanto más me dicen que no, / más energías me dan, / porque ahí está la _oportunidad_.» //
+Hechos: [C06]. Cita textual de 2024 (S02).
+
+BLOQUE 05 — EL ARRANQUE                             ~00:21–00:23
+  Empezó en unas _cocheras_ de Buenos Aires. /
+Hechos: [C10]
+
+BLOQUE 06 — LA CRISIS (re-hook de la mitad)         ~00:23–00:31
+Intención: el ritmo se acelera y baja en "Casi lo logran".
+  Después explotó la burbuja de internet. /
+  Algunos inversores votaron para _cerrarla_. //
+  Casi lo logran. //
+Hechos: [C11] [C12]
+
+BLOQUE 07 — EL COSTO                                ~00:31–00:33
+Intención: sobrio, con peso.
+  Fueron _siete_ años perdiendo plata. //
+Hechos: [C13]
+
+BLOQUE 08 — RESULTADO                               ~00:33–00:40
+Intención: se abre, sin triunfalismo.
+  En dos mil siete llegó al _Nasdaq_: /
+  la primera tecnológica latinoamericana en lograrlo. //
+Locución: "Nasdaq" → "Násdak".
+Hechos: [C14]
+
+BLOQUE 09 — CIERRE                                  ~00:40–00:46
+Intención: vuelve el número del hook. La pregunta va directa y cercana, al espectador.
+  Diecinueve de veinte dijeron que no. //
+  ¿Y vos, / a cuántos les estás haciendo _caso_?
+Hechos: [C02] [C18]

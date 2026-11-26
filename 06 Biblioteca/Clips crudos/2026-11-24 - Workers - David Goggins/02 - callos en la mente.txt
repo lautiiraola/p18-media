@@ -1,0 +1,24 @@
+CLIP 02 — LA MENTE TAMBIÉN HACE CALLOS
+
+Inicio:     14:40.5  (880.54 s)
+Fin:        15:29.7  (929.66 s)
+Duración:   49.1 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LA MENTE TAMBIÉN HACE CALLOS   (en el reel, en lima: CALLOS)
+Departamento:     Crecimiento personal
+Área:             Hábitos y constancia
+Tema:             Microacciones incómodas todos los días
+Fuente:           Workers - David Goggins — "Como ser EXAGERADAMENTE disciplinado | David Goggins #4"
+                  https://www.youtube.com/watch?v=6r52EZzweoM&t=880s
+
+Por qué lo elegí:
+Metáfora clara (los callos en las manos) y una acción concreta: hacer todos los días algo chico que te incomoda, como tender la cama o lavar los platos, para que lo difícil se vuelva normal.
+
+Gancho (primeros 3 s): ¿Qué pasa cuando vamos al gimnasio con regularidad?
+
+Transcripción del clip:
+¿Qué pasa cuando vamos al gimnasio con regularidad? Al principio, la fricción de las mancuernas y las barras generan dolor, ardor, pero cuando empezás a hacerlo más frecuentemente, las manos se forman callos. Y ya no te vuelve a doler como antes, se vuelve tu nuevo estado normal. Con la mente pasa lo mismo, y acá da la importancia de someternos a situaciones incómodas todos los días. Cuando nos enfrentamos con la incomodidad, cuando salimos de la zona de confort seguido, nuestra mente se endurece, se crean conexiones que antes no estaban ahí. Ya el levantarte temprano se vuelve tu nuevo normal, el ir al gimnasio con frecuencia se vuelve tu nuevo normal, no tienen que ser cosas enormes, se tratan de micro acciones incómodas a diario, desde tender la cama hasta lavar los platos, todo eso que odies hacer hazelo, de esa manera encallecemos la mente, nos volvemos más fuertes y generamos un dialogo más productivo con nosotros mismos.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-24 - Workers - David Goggins/02 - callos en la mente.mp4" "LA MENTE TAMBIÉN HACE *CALLOS*" --fuente "Workers - David Goggins"

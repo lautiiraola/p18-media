@@ -1,0 +1,13 @@
+AUDIO Y MÚSICA
+
+La voz aprobada es pista maestra.
+La música acompaña arco y tensión; no fabrica heroísmo.
+Los efectos subrayan cambios semánticos, objetos o datos.
+Evitar impactos en cada corte.
+No competir con consonantes ni pausas de la voz.
+Revisar clipping, ruido, balance y loudness antes del master.
+
+ROTACIÓN DE MÚSICA (regla del operador, 2026-11-24)
+No repetir la misma cama de fondo en videos seguidos: cama_p18.wav ya se usó en P18-001 y P18-002.
+Cada video elige o crea una cama distinta, acorde a su tono, con licencia clara: CC0, dominio público, CC BY o síntesis propia (nunca CC BY-SA ni música con derechos). Se registra en 06_BIBLIOTECA_COMPARTIDA/licenses/asset-registry.csv y en la bitácora del video.
+También variar los SFX entre videos.

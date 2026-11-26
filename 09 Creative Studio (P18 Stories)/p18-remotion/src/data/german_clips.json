@@ -1,0 +1,106 @@
+{
+ "clips": [
+  {
+   "n": 1,
+   "ranges": [
+    {
+     "ini": 68.28,
+     "fin": 111.92
+    }
+   ],
+   "titulo": "18 años y una compu: resolvé un *problema* de tu barrio",
+   "departamento": "Finanzas y trabajo",
+   "area": "Ideas, proyectos y ventas",
+   "tema": "Empezar resolviendo un problema real",
+   "gancho": "Puede ser esa persona de un kiosco que tiene un problema…",
+   "porque": "Ejemplo concreto y cercano: el kiosco que no sabe llevar su stock, una solución armada con herramientas open source y crecer por cercanía en el barrio. Es accionable para alguien sin capital.",
+   "notas": "Menciona vender una suscripción mensual al kiosco: es parte del ejemplo, sin cifras ni promesas de ganancia.",
+   "source": "german/video_final.mp4",
+   "fuente": "Germán · Café IA",
+   "slug": "Empezar resolviendo un problema real",
+   "def": [
+    {
+     "bloques": "r1d-r1e"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "ranges": [
+    {
+     "ini": 119.98,
+     "fin": 155.62
+    }
+   ],
+   "titulo": "En una mesa de gente importante no hay opinión *mala*",
+   "departamento": "Crecimiento personal",
+   "area": "Mentalidad y adaptación",
+   "tema": "Animarse a proponer",
+   "gancho": "Para no quedar como espectador, atreverse. Atreverse y proponer.",
+   "porque": "Gancho inmediato y una idea que le saca presión al pibe de 18: vas a ser escuchado porque sos la cara nueva, y los que llevan años en el día a día a veces se olvidan de innovar.",
+   "source": "german/video_final.mp4",
+   "fuente": "Germán · Café IA",
+   "slug": "Animarse a proponer",
+   "def": [
+    {
+     "bloques": "r2a-r2b"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "ranges": [
+    {
+     "ini": 166.51,
+     "fin": 208.76
+    }
+   ],
+   "titulo": "Prefiero a alguien que no sabe pero *averigua*",
+   "departamento": "Finanzas y trabajo",
+   "area": "Trabajo y oportunidades",
+   "tema": "Iniciativa en el primer trabajo",
+   "gancho": "Yo lo que veo siempre de alguien, sea la edad que tenga, siempre busco la iniciativa.",
+   "porque": "Una frase muy compartible (\"prefiero mil veces una persona que me diga: no lo sé hacer, pero averiguo y lo hago\") y una actitud concreta para cualquier primer laburo: animarse y pedir ayuda.",
+   "source": "german/video_final.mp4",
+   "fuente": "Germán · Café IA",
+   "slug": "Iniciativa en el primer trabajo",
+   "def": [
+    {
+     "bloques": "r3a-r3d"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "ranges": [
+    {
+     "ini": 220.48,
+     "fin": 247.36
+    },
+    {
+     "ini": 273.6,
+     "fin": 288.02
+    }
+   ],
+   "titulo": "No compitas con la IA: no pierdas el lado *humano*",
+   "departamento": "Crear y comunicar",
+   "area": "Inteligencia artificial",
+   "tema": "Criterio frente a la IA",
+   "gancho": "Muchas personas dicen: me estoy quedando atrás porque la IA me está ganando.",
+   "porque": "Toma un miedo muy actual y lo da vuelta: no se trata de competir con la IA sino de aplicar ese conocimiento con criterio. Cierra con una idea fuerte: la máquina es un reflejo de lo que somos.",
+   "notas": "Se unen dos partes de su mensaje final, sin la repregunta del entrevistador.",
+   "source": "german/video_final.mp4",
+   "fuente": "Germán · Café IA",
+   "slug": "Criterio frente a la IA",
+   "def": [
+    {
+     "bloques": "r4b"
+    },
+    {
+     "desde": "la máquina es un reflejo",
+     "hasta": "acciones buenas, él lo va replicando"
+    }
+   ]
+  }
+ ]
+}

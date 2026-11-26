@@ -1,0 +1,886 @@
+{
+ "idioma": "es",
+ "duracion": 47.15,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 28.14,
+   "texto": "Para Goggin será una dominada más, para vos quizás sea algo así como ok, una hora más en la cama no me va a hacer mal, o porque falté a entrenar hoy y no pasa nada, fui toda la semana, y no, es acá cuando debemos interrumpir la charla, es tu cabeza intentando negociar con vos, tu mente se va a esforzar por hacerte creer que ya hiciste muchísimo, que te lo mereces, que te lo ganaste, y no, es importante que entiendas que no importa lo que estés intentando lograr, tu cabeza siempre va a buscar la comodidad y el confort,",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.34,
+     "p": "Para"
+    },
+    {
+     "ini": 0.34,
+     "fin": 0.66,
+     "p": "Goggin"
+    },
+    {
+     "ini": 0.66,
+     "fin": 0.86,
+     "p": "será"
+    },
+    {
+     "ini": 0.86,
+     "fin": 1.08,
+     "p": "una"
+    },
+    {
+     "ini": 1.08,
+     "fin": 1.44,
+     "p": "dominada"
+    },
+    {
+     "ini": 1.44,
+     "fin": 1.7,
+     "p": "más,"
+    },
+    {
+     "ini": 2.1,
+     "fin": 2.24,
+     "p": "para"
+    },
+    {
+     "ini": 2.24,
+     "fin": 2.38,
+     "p": "vos"
+    },
+    {
+     "ini": 2.38,
+     "fin": 2.64,
+     "p": "quizás"
+    },
+    {
+     "ini": 2.64,
+     "fin": 2.8,
+     "p": "sea"
+    },
+    {
+     "ini": 2.8,
+     "fin": 3.0,
+     "p": "algo"
+    },
+    {
+     "ini": 3.0,
+     "fin": 3.28,
+     "p": "así"
+    },
+    {
+     "ini": 3.28,
+     "fin": 3.56,
+     "p": "como"
+    },
+    {
+     "ini": 3.56,
+     "fin": 4.36,
+     "p": "ok,"
+    },
+    {
+     "ini": 4.76,
+     "fin": 4.9,
+     "p": "una"
+    },
+    {
+     "ini": 4.9,
+     "fin": 5.04,
+     "p": "hora"
+    },
+    {
+     "ini": 5.04,
+     "fin": 5.22,
+     "p": "más"
+    },
+    {
+     "ini": 5.22,
+     "fin": 5.36,
+     "p": "en"
+    },
+    {
+     "ini": 5.36,
+     "fin": 5.48,
+     "p": "la"
+    },
+    {
+     "ini": 5.48,
+     "fin": 5.66,
+     "p": "cama"
+    },
+    {
+     "ini": 5.66,
+     "fin": 5.82,
+     "p": "no"
+    },
+    {
+     "ini": 5.82,
+     "fin": 5.92,
+     "p": "me"
+    },
+    {
+     "ini": 5.92,
+     "fin": 6.04,
+     "p": "va"
+    },
+    {
+     "ini": 6.04,
+     "fin": 6.1,
+     "p": "a"
+    },
+    {
+     "ini": 6.1,
+     "fin": 6.22,
+     "p": "hacer"
+    },
+    {
+     "ini": 6.22,
+     "fin": 6.44,
+     "p": "mal,"
+    },
+    {
+     "ini": 6.88,
+     "fin": 7.22,
+     "p": "o"
+    },
+    {
+     "ini": 7.22,
+     "fin": 7.8,
+     "p": "porque"
+    },
+    {
+     "ini": 7.8,
+     "fin": 8.1,
+     "p": "falté"
+    },
+    {
+     "ini": 8.1,
+     "fin": 8.22,
+     "p": "a"
+    },
+    {
+     "ini": 8.22,
+     "fin": 8.5,
+     "p": "entrenar"
+    },
+    {
+     "ini": 8.5,
+     "fin": 8.66,
+     "p": "hoy"
+    },
+    {
+     "ini": 8.66,
+     "fin": 8.76,
+     "p": "y"
+    },
+    {
+     "ini": 8.76,
+     "fin": 8.8,
+     "p": "no"
+    },
+    {
+     "ini": 8.8,
+     "fin": 9.02,
+     "p": "pasa"
+    },
+    {
+     "ini": 9.02,
+     "fin": 9.4,
+     "p": "nada,"
+    },
+    {
+     "ini": 9.6,
+     "fin": 9.74,
+     "p": "fui"
+    },
+    {
+     "ini": 9.74,
+     "fin": 9.94,
+     "p": "toda"
+    },
+    {
+     "ini": 9.94,
+     "fin": 10.14,
+     "p": "la"
+    },
+    {
+     "ini": 10.14,
+     "fin": 10.38,
+     "p": "semana,"
+    },
+    {
+     "ini": 10.84,
+     "fin": 11.02,
+     "p": "y"
+    },
+    {
+     "ini": 11.02,
+     "fin": 11.22,
+     "p": "no,"
+    },
+    {
+     "ini": 11.64,
+     "fin": 11.88,
+     "p": "es"
+    },
+    {
+     "ini": 11.88,
+     "fin": 12.1,
+     "p": "acá"
+    },
+    {
+     "ini": 12.1,
+     "fin": 12.3,
+     "p": "cuando"
+    },
+    {
+     "ini": 12.3,
+     "fin": 12.66,
+     "p": "debemos"
+    },
+    {
+     "ini": 12.66,
+     "fin": 13.14,
+     "p": "interrumpir"
+    },
+    {
+     "ini": 13.14,
+     "fin": 13.34,
+     "p": "la"
+    },
+    {
+     "ini": 13.34,
+     "fin": 13.7,
+     "p": "charla,"
+    },
+    {
+     "ini": 13.94,
+     "fin": 14.04,
+     "p": "es"
+    },
+    {
+     "ini": 14.04,
+     "fin": 14.18,
+     "p": "tu"
+    },
+    {
+     "ini": 14.18,
+     "fin": 14.54,
+     "p": "cabeza"
+    },
+    {
+     "ini": 14.54,
+     "fin": 15.06,
+     "p": "intentando"
+    },
+    {
+     "ini": 15.06,
+     "fin": 15.44,
+     "p": "negociar"
+    },
+    {
+     "ini": 15.44,
+     "fin": 15.62,
+     "p": "con"
+    },
+    {
+     "ini": 15.62,
+     "fin": 15.84,
+     "p": "vos,"
+    },
+    {
+     "ini": 16.22,
+     "fin": 16.36,
+     "p": "tu"
+    },
+    {
+     "ini": 16.36,
+     "fin": 16.68,
+     "p": "mente"
+    },
+    {
+     "ini": 16.68,
+     "fin": 16.84,
+     "p": "se"
+    },
+    {
+     "ini": 16.84,
+     "fin": 16.92,
+     "p": "va"
+    },
+    {
+     "ini": 16.92,
+     "fin": 16.94,
+     "p": "a"
+    },
+    {
+     "ini": 16.94,
+     "fin": 17.38,
+     "p": "esforzar"
+    },
+    {
+     "ini": 17.38,
+     "fin": 17.58,
+     "p": "por"
+    },
+    {
+     "ini": 17.58,
+     "fin": 17.88,
+     "p": "hacerte"
+    },
+    {
+     "ini": 17.88,
+     "fin": 18.18,
+     "p": "creer"
+    },
+    {
+     "ini": 18.18,
+     "fin": 18.38,
+     "p": "que"
+    },
+    {
+     "ini": 18.38,
+     "fin": 18.54,
+     "p": "ya"
+    },
+    {
+     "ini": 18.54,
+     "fin": 18.8,
+     "p": "hiciste"
+    },
+    {
+     "ini": 18.8,
+     "fin": 19.26,
+     "p": "muchísimo,"
+    },
+    {
+     "ini": 19.48,
+     "fin": 19.62,
+     "p": "que"
+    },
+    {
+     "ini": 19.62,
+     "fin": 19.78,
+     "p": "te"
+    },
+    {
+     "ini": 19.78,
+     "fin": 19.92,
+     "p": "lo"
+    },
+    {
+     "ini": 19.92,
+     "fin": 20.3,
+     "p": "mereces,"
+    },
+    {
+     "ini": 20.48,
+     "fin": 20.6,
+     "p": "que"
+    },
+    {
+     "ini": 20.6,
+     "fin": 20.7,
+     "p": "te"
+    },
+    {
+     "ini": 20.7,
+     "fin": 20.84,
+     "p": "lo"
+    },
+    {
+     "ini": 20.84,
+     "fin": 21.28,
+     "p": "ganaste,"
+    },
+    {
+     "ini": 21.42,
+     "fin": 21.6,
+     "p": "y"
+    },
+    {
+     "ini": 21.6,
+     "fin": 21.92,
+     "p": "no,"
+    },
+    {
+     "ini": 22.32,
+     "fin": 22.56,
+     "p": "es"
+    },
+    {
+     "ini": 22.56,
+     "fin": 22.94,
+     "p": "importante"
+    },
+    {
+     "ini": 22.94,
+     "fin": 23.14,
+     "p": "que"
+    },
+    {
+     "ini": 23.14,
+     "fin": 23.54,
+     "p": "entiendas"
+    },
+    {
+     "ini": 23.54,
+     "fin": 23.66,
+     "p": "que"
+    },
+    {
+     "ini": 23.66,
+     "fin": 23.84,
+     "p": "no"
+    },
+    {
+     "ini": 23.84,
+     "fin": 24.04,
+     "p": "importa"
+    },
+    {
+     "ini": 24.04,
+     "fin": 24.2,
+     "p": "lo"
+    },
+    {
+     "ini": 24.2,
+     "fin": 24.28,
+     "p": "que"
+    },
+    {
+     "ini": 24.28,
+     "fin": 24.52,
+     "p": "estés"
+    },
+    {
+     "ini": 24.52,
+     "fin": 24.94,
+     "p": "intentando"
+    },
+    {
+     "ini": 24.94,
+     "fin": 25.58,
+     "p": "lograr,"
+    },
+    {
+     "ini": 25.76,
+     "fin": 25.82,
+     "p": "tu"
+    },
+    {
+     "ini": 25.82,
+     "fin": 26.2,
+     "p": "cabeza"
+    },
+    {
+     "ini": 26.2,
+     "fin": 26.68,
+     "p": "siempre"
+    },
+    {
+     "ini": 26.68,
+     "fin": 26.84,
+     "p": "va"
+    },
+    {
+     "ini": 26.84,
+     "fin": 26.84,
+     "p": "a"
+    },
+    {
+     "ini": 26.84,
+     "fin": 27.06,
+     "p": "buscar"
+    },
+    {
+     "ini": 27.06,
+     "fin": 27.24,
+     "p": "la"
+    },
+    {
+     "ini": 27.24,
+     "fin": 27.56,
+     "p": "comodidad"
+    },
+    {
+     "ini": 27.56,
+     "fin": 27.68,
+     "p": "y"
+    },
+    {
+     "ini": 27.68,
+     "fin": 27.84,
+     "p": "el"
+    },
+    {
+     "ini": 27.84,
+     "fin": 28.14,
+     "p": "confort,"
+    }
+   ]
+  },
+  {
+   "ini": 28.14,
+   "fin": 32.86,
+   "texto": "Y no es que tu mente te quiera sabotear o algo así, es tan simple como entender las",
+   "palabras": [
+    {
+     "ini": 28.14,
+     "fin": 28.74,
+     "p": "Y"
+    },
+    {
+     "ini": 28.74,
+     "fin": 28.9,
+     "p": "no"
+    },
+    {
+     "ini": 28.9,
+     "fin": 29.02,
+     "p": "es"
+    },
+    {
+     "ini": 29.02,
+     "fin": 29.12,
+     "p": "que"
+    },
+    {
+     "ini": 29.12,
+     "fin": 29.18,
+     "p": "tu"
+    },
+    {
+     "ini": 29.18,
+     "fin": 29.46,
+     "p": "mente"
+    },
+    {
+     "ini": 29.46,
+     "fin": 29.68,
+     "p": "te"
+    },
+    {
+     "ini": 29.68,
+     "fin": 29.88,
+     "p": "quiera"
+    },
+    {
+     "ini": 29.88,
+     "fin": 30.42,
+     "p": "sabotear"
+    },
+    {
+     "ini": 30.42,
+     "fin": 30.48,
+     "p": "o"
+    },
+    {
+     "ini": 30.48,
+     "fin": 30.62,
+     "p": "algo"
+    },
+    {
+     "ini": 30.62,
+     "fin": 30.96,
+     "p": "así,"
+    },
+    {
+     "ini": 31.3,
+     "fin": 31.46,
+     "p": "es"
+    },
+    {
+     "ini": 31.46,
+     "fin": 31.6,
+     "p": "tan"
+    },
+    {
+     "ini": 31.6,
+     "fin": 31.84,
+     "p": "simple"
+    },
+    {
+     "ini": 31.84,
+     "fin": 32.06,
+     "p": "como"
+    },
+    {
+     "ini": 32.06,
+     "fin": 32.48,
+     "p": "entender"
+    },
+    {
+     "ini": 32.48,
+     "fin": 32.86,
+     "p": "las"
+    }
+   ]
+  },
+  {
+   "ini": 32.86,
+   "fin": 37.36,
+   "texto": "motivaciones humanas más básicas. El ser humano siempre busca dos cosas, acercarse",
+   "palabras": [
+    {
+     "ini": 32.86,
+     "fin": 33.32,
+     "p": "motivaciones"
+    },
+    {
+     "ini": 33.32,
+     "fin": 33.68,
+     "p": "humanas"
+    },
+    {
+     "ini": 33.68,
+     "fin": 33.88,
+     "p": "más"
+    },
+    {
+     "ini": 33.88,
+     "fin": 34.52,
+     "p": "básicas."
+    },
+    {
+     "ini": 34.82,
+     "fin": 34.9,
+     "p": "El"
+    },
+    {
+     "ini": 34.9,
+     "fin": 35.02,
+     "p": "ser"
+    },
+    {
+     "ini": 35.02,
+     "fin": 35.3,
+     "p": "humano"
+    },
+    {
+     "ini": 35.3,
+     "fin": 35.6,
+     "p": "siempre"
+    },
+    {
+     "ini": 35.6,
+     "fin": 35.88,
+     "p": "busca"
+    },
+    {
+     "ini": 35.88,
+     "fin": 36.12,
+     "p": "dos"
+    },
+    {
+     "ini": 36.12,
+     "fin": 36.48,
+     "p": "cosas,"
+    },
+    {
+     "ini": 37.04,
+     "fin": 37.36,
+     "p": "acercarse"
+    }
+   ]
+  },
+  {
+   "ini": 37.36,
+   "fin": 41.26,
+   "texto": "al placer y alejarse del dolor. Entender esto va a hacer que cuando empiece la negociación",
+   "palabras": [
+    {
+     "ini": 37.36,
+     "fin": 37.5,
+     "p": "al"
+    },
+    {
+     "ini": 37.5,
+     "fin": 37.8,
+     "p": "placer"
+    },
+    {
+     "ini": 37.8,
+     "fin": 37.96,
+     "p": "y"
+    },
+    {
+     "ini": 37.96,
+     "fin": 38.32,
+     "p": "alejarse"
+    },
+    {
+     "ini": 38.32,
+     "fin": 38.42,
+     "p": "del"
+    },
+    {
+     "ini": 38.42,
+     "fin": 38.72,
+     "p": "dolor."
+    },
+    {
+     "ini": 39.1,
+     "fin": 39.42,
+     "p": "Entender"
+    },
+    {
+     "ini": 39.42,
+     "fin": 39.66,
+     "p": "esto"
+    },
+    {
+     "ini": 39.66,
+     "fin": 39.84,
+     "p": "va"
+    },
+    {
+     "ini": 39.84,
+     "fin": 39.92,
+     "p": "a"
+    },
+    {
+     "ini": 39.92,
+     "fin": 39.98,
+     "p": "hacer"
+    },
+    {
+     "ini": 39.98,
+     "fin": 40.12,
+     "p": "que"
+    },
+    {
+     "ini": 40.12,
+     "fin": 40.34,
+     "p": "cuando"
+    },
+    {
+     "ini": 40.34,
+     "fin": 40.62,
+     "p": "empiece"
+    },
+    {
+     "ini": 40.62,
+     "fin": 40.8,
+     "p": "la"
+    },
+    {
+     "ini": 40.8,
+     "fin": 41.26,
+     "p": "negociación"
+    }
+   ]
+  },
+  {
+   "ini": 41.26,
+   "fin": 46.0,
+   "texto": "con vos mismo sepas identificar rápidamente lo que sucede, y de manera consciente puedes",
+   "palabras": [
+    {
+     "ini": 41.26,
+     "fin": 41.44,
+     "p": "con"
+    },
+    {
+     "ini": 41.44,
+     "fin": 41.58,
+     "p": "vos"
+    },
+    {
+     "ini": 41.58,
+     "fin": 41.9,
+     "p": "mismo"
+    },
+    {
+     "ini": 41.9,
+     "fin": 42.24,
+     "p": "sepas"
+    },
+    {
+     "ini": 42.24,
+     "fin": 42.88,
+     "p": "identificar"
+    },
+    {
+     "ini": 42.88,
+     "fin": 43.4,
+     "p": "rápidamente"
+    },
+    {
+     "ini": 43.4,
+     "fin": 43.58,
+     "p": "lo"
+    },
+    {
+     "ini": 43.58,
+     "fin": 43.74,
+     "p": "que"
+    },
+    {
+     "ini": 43.74,
+     "fin": 44.04,
+     "p": "sucede,"
+    },
+    {
+     "ini": 44.6,
+     "fin": 44.72,
+     "p": "y"
+    },
+    {
+     "ini": 44.72,
+     "fin": 44.96,
+     "p": "de"
+    },
+    {
+     "ini": 44.96,
+     "fin": 45.26,
+     "p": "manera"
+    },
+    {
+     "ini": 45.26,
+     "fin": 45.82,
+     "p": "consciente"
+    },
+    {
+     "ini": 45.82,
+     "fin": 46.0,
+     "p": "puedes"
+    }
+   ]
+  },
+  {
+   "ini": 46.0,
+   "fin": 46.78,
+   "texto": "¿Puedes decir no?",
+   "palabras": [
+    {
+     "ini": 46.0,
+     "fin": 46.04,
+     "p": "¿Puedes"
+    },
+    {
+     "ini": 46.04,
+     "fin": 46.38,
+     "p": "decir"
+    },
+    {
+     "ini": 46.38,
+     "fin": 46.78,
+     "p": "no?"
+    }
+   ]
+  },
+  {
+   "ini": 47.08,
+   "fin": 47.12,
+   "texto": "Quizás.",
+   "palabras": [
+    {
+     "ini": 47.08,
+     "fin": 47.12,
+     "p": "Quizás."
+    }
+   ]
+  }
+ ]
+}

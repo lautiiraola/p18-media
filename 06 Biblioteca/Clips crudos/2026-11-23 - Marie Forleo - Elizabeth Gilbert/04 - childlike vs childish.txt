@@ -1,0 +1,26 @@
+CLIP 04 — SER CURIOSO NO ES SER CAPRICHOSO: ENTRÁ AL MUNDO ABIERTO
+
+Inicio:     21:06.6  (1266.56 s)
+Fin:        21:59.6  (1319.60 s)
+Duración:   53.0 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  SER CURIOSO NO ES SER CAPRICHOSO: ENTRÁ AL MUNDO ABIERTO   (en el reel, en lima: CURIOSO)
+Departamento:     Crecimiento personal
+Área:             Mentalidad y adaptación
+Tema:             Curiosidad sin berrinche
+Fuente:           Marie Forleo - Elizabeth Gilbert — "Elizabeth Gilbert Talks “Big Magic” — Fear, Failure, & the Mystery of Creativity"
+                  https://www.youtube.com/watch?v=HyUYa-BnjU8&t=1266s
+
+Por qué lo elegí:
+Distingue ser abierto y curioso de hacer berrinche cuando algo no sale; se puede ser maduro y curioso a la vez.
+
+Gancho (primeros 3 s): You have to be childlike in the pursuit of your life, but you cannot be childish
+
+Notas para la revisión: Audio en inglés (el filtro traduce). Tramo centrado en actitud, sin plata.
+
+Transcripción del clip:
+you have to be child -like in the pursuit of your life, but you cannot be child -ish. And this is a really big difference. Child -like means walking into the world with wide -open wonder and being open and letting go of bitterness and ready to be amazed, ready to be taught, ready for everything to be new. That's child -like. Child -ish means I want it and I should have it. And I don't like the way this turned out. It's not fair. I'm gonna have a temper tantrum now. Nothing ever goes my way. I didn't grow up in the right family. I don't have the right tools. I didn't get to go to the right school. Nobody likes me. I quit. And just because I want it, I should have it. That's childish. Yeah. So you have to separate those things out. I believe you can be childlike and mature at the same time. And mature means looking after yourself in the real world in a real way.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-23 - Marie Forleo - Elizabeth Gilbert/04 - childlike vs childish.mp4" "SER *CURIOSO* NO ES SER CAPRICHOSO: ENTRÁ AL MUNDO ABIERTO" --fuente "Marie Forleo - Elizabeth Gilbert"

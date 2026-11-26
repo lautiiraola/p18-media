@@ -1,0 +1,16 @@
+CAMBIO 2026-11-25 (decisión de la persona de P18, dueña del proyecto): la voz ya NO la genera Valentín a mano.
+La genera el agente p18-historias con la API de ElevenLabs: tools/voz_elevenlabs.py TEXTO.txt SALIDA.wav
+(clave en ~/.config/p18/elevenlabs.env; misma voz "Brian - Warm, Smooth, Confident", stability 0.50, similarity 0.75).
+
+Lo que se mantiene del gate original:
+- La voz es la pista maestra del montaje: nada audiovisual se arma antes de tener la voz final.
+- Nunca usar una voz sintética del protagonista (clones), ni otra voz que no sea la de la serie.
+- Validar SIEMPRE el audio antes de seguir: ffprobe, ebur128/astats, silencedetect y transcripción local con whisper
+  palabra por palabra contra el texto. Si hay errores de pronunciación o palabras cambiadas, corregir el texto
+  (fonética, cifras en palabras) y generar de nuevo. Máximo 3 tomas por video para no gastar caracteres.
+- Guardar el original en 03_voiceover/inbox y la aprobada en 03_voiceover/approved.
+- Registrar en la bitácora cuántos caracteres se gastaron y cuántas tomas hicieron falta.
+
+Regla anterior (2026-11-24, Valentín): entregar guion + texto limpio + guía de voz, poner waiting_voiceover y detenerse
+hasta recibir el audio. Queda como alternativa sólo si falta la clave de ElevenLabs o se acaban los caracteres del mes:
+en ese caso el agente deja el guion listo, marca la historia "guion" en la biblioteca y avisa.

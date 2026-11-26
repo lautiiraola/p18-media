@@ -1,0 +1,26 @@
+CLIP 01 — SI NO DISFRUTÁS EL PROCESO, NO VAS A DISFRUTAR EL RESULTADO
+
+Inicio:     26:02.2  (1562.18 s)
+Fin:        26:38.2  (1598.25 s)
+Duración:   36.1 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  SI NO DISFRUTÁS EL PROCESO, NO VAS A DISFRUTAR EL RESULTADO   (en el reel, en lima: PROCESO, RESULTADO)
+Departamento:     Deporte y mentalidad
+Área:             Disciplina y proceso
+Tema:             Disfrutar el proceso
+Fuente:           Nude Project - Toni Nadal — "La mente detrás de Rafael Nadal, Toni Nadal"
+                  https://www.youtube.com/watch?v=kXF9-_UTNJM&t=1562s
+
+Por qué lo elegí:
+Arranca con la idea entera en una frase. Toni cuenta que lo que lo hizo feliz no fueron los títulos sino la lucha diaria por mejorar un poco: sirve para el estudio o cualquier proyecto.
+
+Gancho (primeros 3 s): Si tú no encuentras satisfacción en el proceso, difícilmente vas a encontrar satisfacción en el resultado final.
+
+Notas para la revisión: Menciona Roland Garros y Wimbledon como ejemplo, sin foco en ganar.
+
+Transcripción del clip:
+si tú no encuentras satisfacción en el proceso, difícilmente vas a encontrar satisfacción en el resultado final. Mi sobrino pasó gusto del proceso. Yo pasé, como entrenador, casi más gusto del proceso que del resultado final. A mí, el resultado final, claro que me importó ver ganar a mi sobrino en Roland -Garros o en Wimbledon, pero a mí lo que realmente me proporcionó la felicidad fue la lucha diaria de intentar hacer las cosas cada día un poco mejor.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - Nude Project - Toni Nadal/01 - disfrutar el proceso.mp4" "SI NO DISFRUTÁS EL *PROCESO*, NO VAS A DISFRUTAR EL *RESULTADO*" --fuente "Nude Project - Toni Nadal"

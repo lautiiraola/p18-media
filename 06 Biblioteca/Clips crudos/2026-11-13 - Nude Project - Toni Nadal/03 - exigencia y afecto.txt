@@ -1,0 +1,26 @@
+CLIP 03 — SER EXIGENTE CON ALGUIEN TAMBIÉN ES UNA FORMA DE QUERERLO
+
+Inicio:     32:43.9  (1963.88 s)
+Fin:        33:35.1  (2015.13 s)
+Duración:   51.2 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  SER EXIGENTE CON ALGUIEN TAMBIÉN ES UNA FORMA DE QUERERLO   (en el reel, en lima: EXIGENTE, QUERERLO)
+Departamento:     Deporte y mentalidad
+Área:             Liderazgo y equipo
+Tema:             Exigencia y afecto
+Fuente:           Nude Project - Toni Nadal — "La mente detrás de Rafael Nadal, Toni Nadal"
+                  https://www.youtube.com/watch?v=kXF9-_UTNJM&t=1963s
+
+Por qué lo elegí:
+Toni explica sus tres razones para ser exigente con Rafa y cierra con que la exigencia tiene que ir con aprecio. Útil para pensar en entrenadores, profes o liderar un grupo.
+
+Gancho (primeros 3 s): Yo era un tipo duro, a veces demasiado.
+
+Notas para la revisión: Él mismo reconoce 'a veces demasiado'; no promueve la dureza sin afecto.
+
+Transcripción del clip:
+Yo era un tipo duro, a veces demasiado. Yo era un tipo duro, pero era un tipo duro básicamente por tres razones. La primera, porque el reto que nos propusimos era muy elevado. Luego, no queda más remedio que asumir una cierta dureza, una gran dosis de exigencia. Después, yo era duro porque vi a un chico que estuvo dispuesto a soportar esa dureza y después sobre todo yo fui duro porque le tenía una gran estima yo nunca sería duro con alguien por el que no siento un gran aprecio una gran estima yo le yo cuando era el director de la academia de rafael nadal yo le decía a los entrenadores sed muy exigentes pero al mismo tiempo los chicos tienen que notar en vosotros vuestro aprecio vuestra estima
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - Nude Project - Toni Nadal/03 - exigencia y afecto.mp4" "SER *EXIGENTE* CON ALGUIEN TAMBIÉN ES UNA FORMA DE *QUERERLO*" --fuente "Nude Project - Toni Nadal"

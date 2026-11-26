@@ -1,0 +1,26 @@
+CLIP 04 — SI TUVIERA 16: SÉ HONESTO CON LO QUE TE GUSTA Y METELE
+
+Inicio:     1:03:41.9  (3821.94 s)
+Fin:        1:04:25.2  (3865.23 s)
+Duración:   43.3 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  SI TUVIERA 16: SÉ HONESTO CON LO QUE TE GUSTA Y METELE   (en el reel, en lima: HONESTO, METELE)
+Departamento:     Crecimiento personal
+Área:             Autoconocimiento
+Tema:             Descubrir lo que te gusta
+Fuente:           30X - Felipe Martínez — "De repartir pizzas a crear marcas virales | Felipe Martínez, director creativo de Holii y 30X"
+                  https://www.youtube.com/watch?v=a0nhFmWtWug&t=3821s
+
+Por qué lo elegí:
+Le habla directo a alguien de la edad de P18: a los 16 no sabés qué hacer, pero ya tenés una idea de lo que te gusta; ser honesto con eso y trabajar duro, en vez de aburrirse a la semana.
+
+Gancho (primeros 3 s): Si yo fuera Felipe de 16 años
+
+Notas para la revisión: Dice "no tiene puta idea" (mala palabra): cortarla o decidir si va.
+
+Transcripción del clip:
+si yo fuera Felipe de 16 años, uno a los 16 igual no tiene puta idea qué va a hacer con su vida, pero uno ya tiene una idea, entonces uno dice como a mí me gusta la música o me gusta la economía o me gustan los bichos, entonces voy a ser entomólogo o si me entiendes, como que en realidad es ser honesto con uno mismo y meterle, o sea, también trabajar duro por eso porque hay gente que solamente le mete... es que también hay un problema hoy en día sobre todo con las redes y es que la gente después de una semana se aburre de cosas
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-12 - 30X - Felipe Martínez/04 - si tuviera 16.mp4" "SI TUVIERA 16: SÉ *HONESTO* CON LO QUE TE GUSTA Y *METELE*" --fuente "30X - Felipe Martínez"

@@ -1,0 +1,477 @@
+{
+ "idioma": "es",
+ "duracion": 34.6,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 5.35,
+   "texto": "Muchas de las cosas buenas que a mí me pasaron en realidad fueron gracias a terceros alrededor mío,",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.62,
+     "p": "Muchas"
+    },
+    {
+     "ini": 0.62,
+     "fin": 0.78,
+     "p": "de"
+    },
+    {
+     "ini": 0.78,
+     "fin": 0.96,
+     "p": "las"
+    },
+    {
+     "ini": 0.96,
+     "fin": 1.24,
+     "p": "cosas"
+    },
+    {
+     "ini": 1.24,
+     "fin": 1.52,
+     "p": "buenas"
+    },
+    {
+     "ini": 1.52,
+     "fin": 1.68,
+     "p": "que"
+    },
+    {
+     "ini": 1.68,
+     "fin": 1.72,
+     "p": "a"
+    },
+    {
+     "ini": 1.72,
+     "fin": 1.84,
+     "p": "mí"
+    },
+    {
+     "ini": 1.84,
+     "fin": 2.08,
+     "p": "me"
+    },
+    {
+     "ini": 2.08,
+     "fin": 2.44,
+     "p": "pasaron"
+    },
+    {
+     "ini": 2.44,
+     "fin": 2.66,
+     "p": "en"
+    },
+    {
+     "ini": 2.66,
+     "fin": 2.94,
+     "p": "realidad"
+    },
+    {
+     "ini": 2.94,
+     "fin": 3.28,
+     "p": "fueron"
+    },
+    {
+     "ini": 3.28,
+     "fin": 3.68,
+     "p": "gracias"
+    },
+    {
+     "ini": 3.68,
+     "fin": 4.08,
+     "p": "a"
+    },
+    {
+     "ini": 4.08,
+     "fin": 4.58,
+     "p": "terceros"
+    },
+    {
+     "ini": 4.58,
+     "fin": 5.1,
+     "p": "alrededor"
+    },
+    {
+     "ini": 5.1,
+     "fin": 5.35,
+     "p": "mío,"
+    }
+   ]
+  },
+  {
+   "ini": 6.4,
+   "fin": 13.78,
+   "texto": "gente que me acompañó, que me asesoró bien, que me pudo apoyar. Entonces, lo más importante que",
+   "palabras": [
+    {
+     "ini": 6.4,
+     "fin": 6.54,
+     "p": "gente"
+    },
+    {
+     "ini": 6.54,
+     "fin": 6.76,
+     "p": "que"
+    },
+    {
+     "ini": 6.76,
+     "fin": 7.14,
+     "p": "me"
+    },
+    {
+     "ini": 7.14,
+     "fin": 7.5,
+     "p": "acompañó,"
+    },
+    {
+     "ini": 7.5,
+     "fin": 7.64,
+     "p": "que"
+    },
+    {
+     "ini": 7.64,
+     "fin": 7.86,
+     "p": "me"
+    },
+    {
+     "ini": 7.86,
+     "fin": 8.26,
+     "p": "asesoró"
+    },
+    {
+     "ini": 8.26,
+     "fin": 8.44,
+     "p": "bien,"
+    },
+    {
+     "ini": 8.46,
+     "fin": 8.66,
+     "p": "que"
+    },
+    {
+     "ini": 8.66,
+     "fin": 8.86,
+     "p": "me"
+    },
+    {
+     "ini": 8.86,
+     "fin": 9.08,
+     "p": "pudo"
+    },
+    {
+     "ini": 9.08,
+     "fin": 9.78,
+     "p": "apoyar."
+    },
+    {
+     "ini": 10.94,
+     "fin": 10.94,
+     "p": "Entonces,"
+    },
+    {
+     "ini": 11.88,
+     "fin": 11.9,
+     "p": "lo"
+    },
+    {
+     "ini": 11.9,
+     "fin": 12.28,
+     "p": "más"
+    },
+    {
+     "ini": 12.28,
+     "fin": 13.04,
+     "p": "importante"
+    },
+    {
+     "ini": 13.04,
+     "fin": 13.78,
+     "p": "que"
+    }
+   ]
+  },
+  {
+   "ini": 13.78,
+   "fin": 20.04,
+   "texto": "yo transmitiría a la gente que piensa, digamos, cómo hacer esto es, cuando uno está pensando",
+   "palabras": [
+    {
+     "ini": 13.78,
+     "fin": 14.04,
+     "p": "yo"
+    },
+    {
+     "ini": 14.04,
+     "fin": 14.6,
+     "p": "transmitiría"
+    },
+    {
+     "ini": 14.6,
+     "fin": 14.7,
+     "p": "a"
+    },
+    {
+     "ini": 14.7,
+     "fin": 14.84,
+     "p": "la"
+    },
+    {
+     "ini": 14.84,
+     "fin": 15.06,
+     "p": "gente"
+    },
+    {
+     "ini": 15.06,
+     "fin": 15.34,
+     "p": "que"
+    },
+    {
+     "ini": 15.34,
+     "fin": 15.84,
+     "p": "piensa,"
+    },
+    {
+     "ini": 15.88,
+     "fin": 16.24,
+     "p": "digamos,"
+    },
+    {
+     "ini": 16.78,
+     "fin": 16.9,
+     "p": "cómo"
+    },
+    {
+     "ini": 16.9,
+     "fin": 17.18,
+     "p": "hacer"
+    },
+    {
+     "ini": 17.18,
+     "fin": 17.44,
+     "p": "esto"
+    },
+    {
+     "ini": 17.44,
+     "fin": 18.34,
+     "p": "es,"
+    },
+    {
+     "ini": 18.54,
+     "fin": 18.82,
+     "p": "cuando"
+    },
+    {
+     "ini": 18.82,
+     "fin": 19.06,
+     "p": "uno"
+    },
+    {
+     "ini": 19.06,
+     "fin": 19.28,
+     "p": "está"
+    },
+    {
+     "ini": 19.28,
+     "fin": 20.04,
+     "p": "pensando"
+    }
+   ]
+  },
+  {
+   "ini": 22.52,
+   "fin": 27.04,
+   "texto": "en terceros, en los demás, es cuando las cosas buenas pasan. En realidad,",
+   "palabras": [
+    {
+     "ini": 22.52,
+     "fin": 23.02,
+     "p": "en"
+    },
+    {
+     "ini": 23.02,
+     "fin": 23.52,
+     "p": "terceros,"
+    },
+    {
+     "ini": 23.64,
+     "fin": 23.72,
+     "p": "en"
+    },
+    {
+     "ini": 23.72,
+     "fin": 23.94,
+     "p": "los"
+    },
+    {
+     "ini": 23.94,
+     "fin": 24.24,
+     "p": "demás,"
+    },
+    {
+     "ini": 24.44,
+     "fin": 24.56,
+     "p": "es"
+    },
+    {
+     "ini": 24.56,
+     "fin": 24.72,
+     "p": "cuando"
+    },
+    {
+     "ini": 24.72,
+     "fin": 24.9,
+     "p": "las"
+    },
+    {
+     "ini": 24.9,
+     "fin": 25.12,
+     "p": "cosas"
+    },
+    {
+     "ini": 25.12,
+     "fin": 25.34,
+     "p": "buenas"
+    },
+    {
+     "ini": 25.34,
+     "fin": 26.2,
+     "p": "pasan."
+    },
+    {
+     "ini": 26.36,
+     "fin": 26.54,
+     "p": "En"
+    },
+    {
+     "ini": 26.54,
+     "fin": 27.04,
+     "p": "realidad,"
+    }
+   ]
+  },
+  {
+   "ini": 27.04,
+   "fin": 33.64,
+   "texto": "Muchas de las cosas que me pasaron a mí, el éxito no viene a través de uno mismo, viene a través de terceros.",
+   "palabras": [
+    {
+     "ini": 27.04,
+     "fin": 27.54,
+     "p": "Muchas"
+    },
+    {
+     "ini": 27.54,
+     "fin": 27.68,
+     "p": "de"
+    },
+    {
+     "ini": 27.68,
+     "fin": 27.8,
+     "p": "las"
+    },
+    {
+     "ini": 27.8,
+     "fin": 27.94,
+     "p": "cosas"
+    },
+    {
+     "ini": 27.94,
+     "fin": 28.08,
+     "p": "que"
+    },
+    {
+     "ini": 28.08,
+     "fin": 28.28,
+     "p": "me"
+    },
+    {
+     "ini": 28.28,
+     "fin": 28.64,
+     "p": "pasaron"
+    },
+    {
+     "ini": 28.64,
+     "fin": 28.8,
+     "p": "a"
+    },
+    {
+     "ini": 28.8,
+     "fin": 28.98,
+     "p": "mí,"
+    },
+    {
+     "ini": 29.26,
+     "fin": 29.34,
+     "p": "el"
+    },
+    {
+     "ini": 29.34,
+     "fin": 29.72,
+     "p": "éxito"
+    },
+    {
+     "ini": 29.72,
+     "fin": 29.94,
+     "p": "no"
+    },
+    {
+     "ini": 29.94,
+     "fin": 30.16,
+     "p": "viene"
+    },
+    {
+     "ini": 30.16,
+     "fin": 30.36,
+     "p": "a"
+    },
+    {
+     "ini": 30.36,
+     "fin": 30.6,
+     "p": "través"
+    },
+    {
+     "ini": 30.6,
+     "fin": 30.94,
+     "p": "de"
+    },
+    {
+     "ini": 30.94,
+     "fin": 31.14,
+     "p": "uno"
+    },
+    {
+     "ini": 31.14,
+     "fin": 31.62,
+     "p": "mismo,"
+    },
+    {
+     "ini": 32.6,
+     "fin": 32.76,
+     "p": "viene"
+    },
+    {
+     "ini": 32.76,
+     "fin": 32.94,
+     "p": "a"
+    },
+    {
+     "ini": 32.94,
+     "fin": 33.06,
+     "p": "través"
+    },
+    {
+     "ini": 33.06,
+     "fin": 33.28,
+     "p": "de"
+    },
+    {
+     "ini": 33.28,
+     "fin": 33.64,
+     "p": "terceros."
+    }
+   ]
+  }
+ ]
+}

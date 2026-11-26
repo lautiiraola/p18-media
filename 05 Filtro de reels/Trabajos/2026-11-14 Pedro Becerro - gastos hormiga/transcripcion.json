@@ -1,0 +1,872 @@
+{
+ "idioma": "es",
+ "duracion": 53.16,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 5.2,
+   "texto": "Los gastos de hormigas, eso es, a mí el concepto de gasto de hormiga me encanta porque es,",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.34,
+     "p": "Los"
+    },
+    {
+     "ini": 0.34,
+     "fin": 0.62,
+     "p": "gastos"
+    },
+    {
+     "ini": 0.62,
+     "fin": 0.76,
+     "p": "de"
+    },
+    {
+     "ini": 0.76,
+     "fin": 1.68,
+     "p": "hormigas,"
+    },
+    {
+     "ini": 1.92,
+     "fin": 2.02,
+     "p": "eso"
+    },
+    {
+     "ini": 2.02,
+     "fin": 2.22,
+     "p": "es,"
+    },
+    {
+     "ini": 2.3,
+     "fin": 2.38,
+     "p": "a"
+    },
+    {
+     "ini": 2.38,
+     "fin": 2.62,
+     "p": "mí"
+    },
+    {
+     "ini": 2.62,
+     "fin": 2.84,
+     "p": "el"
+    },
+    {
+     "ini": 2.84,
+     "fin": 3.16,
+     "p": "concepto"
+    },
+    {
+     "ini": 3.16,
+     "fin": 3.22,
+     "p": "de"
+    },
+    {
+     "ini": 3.22,
+     "fin": 3.42,
+     "p": "gasto"
+    },
+    {
+     "ini": 3.42,
+     "fin": 3.54,
+     "p": "de"
+    },
+    {
+     "ini": 3.54,
+     "fin": 3.62,
+     "p": "hormiga"
+    },
+    {
+     "ini": 3.62,
+     "fin": 3.82,
+     "p": "me"
+    },
+    {
+     "ini": 3.82,
+     "fin": 4.14,
+     "p": "encanta"
+    },
+    {
+     "ini": 4.14,
+     "fin": 4.44,
+     "p": "porque"
+    },
+    {
+     "ini": 4.44,
+     "fin": 5.2,
+     "p": "es,"
+    }
+   ]
+  },
+  {
+   "ini": 5.24,
+   "fin": 11.08,
+   "texto": "oye es un gasto muy pequeñito, tú no lo ves, no eres consciente y cuando lo sumas todo",
+   "palabras": [
+    {
+     "ini": 5.24,
+     "fin": 5.4,
+     "p": "oye"
+    },
+    {
+     "ini": 5.4,
+     "fin": 5.5,
+     "p": "es"
+    },
+    {
+     "ini": 5.5,
+     "fin": 5.6,
+     "p": "un"
+    },
+    {
+     "ini": 5.6,
+     "fin": 5.82,
+     "p": "gasto"
+    },
+    {
+     "ini": 5.82,
+     "fin": 6.02,
+     "p": "muy"
+    },
+    {
+     "ini": 6.02,
+     "fin": 6.72,
+     "p": "pequeñito,"
+    },
+    {
+     "ini": 7.06,
+     "fin": 7.2,
+     "p": "tú"
+    },
+    {
+     "ini": 7.2,
+     "fin": 7.34,
+     "p": "no"
+    },
+    {
+     "ini": 7.34,
+     "fin": 7.52,
+     "p": "lo"
+    },
+    {
+     "ini": 7.52,
+     "fin": 7.8,
+     "p": "ves,"
+    },
+    {
+     "ini": 8.66,
+     "fin": 8.82,
+     "p": "no"
+    },
+    {
+     "ini": 8.82,
+     "fin": 9.0,
+     "p": "eres"
+    },
+    {
+     "ini": 9.0,
+     "fin": 9.56,
+     "p": "consciente"
+    },
+    {
+     "ini": 9.56,
+     "fin": 10.06,
+     "p": "y"
+    },
+    {
+     "ini": 10.06,
+     "fin": 10.28,
+     "p": "cuando"
+    },
+    {
+     "ini": 10.28,
+     "fin": 10.48,
+     "p": "lo"
+    },
+    {
+     "ini": 10.48,
+     "fin": 10.74,
+     "p": "sumas"
+    },
+    {
+     "ini": 10.74,
+     "fin": 11.08,
+     "p": "todo"
+    }
+   ]
+  },
+  {
+   "ini": 11.08,
+   "fin": 15.58,
+   "texto": "de repente es un gasto muy grande, a mí me gusta poner el ejemplo de tomarse un café",
+   "palabras": [
+    {
+     "ini": 11.08,
+     "fin": 11.38,
+     "p": "de"
+    },
+    {
+     "ini": 11.38,
+     "fin": 11.6,
+     "p": "repente"
+    },
+    {
+     "ini": 11.6,
+     "fin": 11.76,
+     "p": "es"
+    },
+    {
+     "ini": 11.76,
+     "fin": 11.82,
+     "p": "un"
+    },
+    {
+     "ini": 11.82,
+     "fin": 12.48,
+     "p": "gasto"
+    },
+    {
+     "ini": 12.48,
+     "fin": 12.66,
+     "p": "muy"
+    },
+    {
+     "ini": 12.66,
+     "fin": 12.9,
+     "p": "grande,"
+    },
+    {
+     "ini": 13.02,
+     "fin": 13.14,
+     "p": "a"
+    },
+    {
+     "ini": 13.14,
+     "fin": 13.2,
+     "p": "mí"
+    },
+    {
+     "ini": 13.2,
+     "fin": 13.34,
+     "p": "me"
+    },
+    {
+     "ini": 13.34,
+     "fin": 13.46,
+     "p": "gusta"
+    },
+    {
+     "ini": 13.46,
+     "fin": 13.64,
+     "p": "poner"
+    },
+    {
+     "ini": 13.64,
+     "fin": 13.8,
+     "p": "el"
+    },
+    {
+     "ini": 13.8,
+     "fin": 14.0,
+     "p": "ejemplo"
+    },
+    {
+     "ini": 14.0,
+     "fin": 14.86,
+     "p": "de"
+    },
+    {
+     "ini": 14.86,
+     "fin": 15.16,
+     "p": "tomarse"
+    },
+    {
+     "ini": 15.16,
+     "fin": 15.32,
+     "p": "un"
+    },
+    {
+     "ini": 15.32,
+     "fin": 15.58,
+     "p": "café"
+    }
+   ]
+  },
+  {
+   "ini": 16.26,
+   "fin": 22.1,
+   "texto": "en un bar, es un euro y medio, dos euros, depende del sitio donde vayas, ese euro y",
+   "palabras": [
+    {
+     "ini": 16.26,
+     "fin": 16.66,
+     "p": "en"
+    },
+    {
+     "ini": 16.66,
+     "fin": 16.8,
+     "p": "un"
+    },
+    {
+     "ini": 16.8,
+     "fin": 17.0,
+     "p": "bar,"
+    },
+    {
+     "ini": 17.62,
+     "fin": 17.76,
+     "p": "es"
+    },
+    {
+     "ini": 17.76,
+     "fin": 17.88,
+     "p": "un"
+    },
+    {
+     "ini": 17.88,
+     "fin": 18.0,
+     "p": "euro"
+    },
+    {
+     "ini": 18.0,
+     "fin": 18.16,
+     "p": "y"
+    },
+    {
+     "ini": 18.16,
+     "fin": 18.44,
+     "p": "medio,"
+    },
+    {
+     "ini": 18.78,
+     "fin": 18.96,
+     "p": "dos"
+    },
+    {
+     "ini": 18.96,
+     "fin": 19.22,
+     "p": "euros,"
+    },
+    {
+     "ini": 19.34,
+     "fin": 19.56,
+     "p": "depende"
+    },
+    {
+     "ini": 19.56,
+     "fin": 19.66,
+     "p": "del"
+    },
+    {
+     "ini": 19.66,
+     "fin": 19.82,
+     "p": "sitio"
+    },
+    {
+     "ini": 19.82,
+     "fin": 20.0,
+     "p": "donde"
+    },
+    {
+     "ini": 20.0,
+     "fin": 21.32,
+     "p": "vayas,"
+    },
+    {
+     "ini": 21.64,
+     "fin": 21.82,
+     "p": "ese"
+    },
+    {
+     "ini": 21.82,
+     "fin": 21.96,
+     "p": "euro"
+    },
+    {
+     "ini": 21.96,
+     "fin": 22.1,
+     "p": "y"
+    }
+   ]
+  },
+  {
+   "ini": 22.1,
+   "fin": 27.72,
+   "texto": "medio, esos dos euros, son dos euros, pero y si te lo tomas todos los días del",
+   "palabras": [
+    {
+     "ini": 22.1,
+     "fin": 22.24,
+     "p": "medio,"
+    },
+    {
+     "ini": 22.36,
+     "fin": 22.5,
+     "p": "esos"
+    },
+    {
+     "ini": 22.5,
+     "fin": 22.76,
+     "p": "dos"
+    },
+    {
+     "ini": 22.76,
+     "fin": 23.34,
+     "p": "euros,"
+    },
+    {
+     "ini": 23.84,
+     "fin": 23.98,
+     "p": "son"
+    },
+    {
+     "ini": 23.98,
+     "fin": 24.24,
+     "p": "dos"
+    },
+    {
+     "ini": 24.24,
+     "fin": 24.76,
+     "p": "euros,"
+    },
+    {
+     "ini": 25.36,
+     "fin": 25.6,
+     "p": "pero"
+    },
+    {
+     "ini": 25.6,
+     "fin": 25.76,
+     "p": "y"
+    },
+    {
+     "ini": 25.76,
+     "fin": 25.86,
+     "p": "si"
+    },
+    {
+     "ini": 25.86,
+     "fin": 25.98,
+     "p": "te"
+    },
+    {
+     "ini": 25.98,
+     "fin": 26.14,
+     "p": "lo"
+    },
+    {
+     "ini": 26.14,
+     "fin": 26.88,
+     "p": "tomas"
+    },
+    {
+     "ini": 26.88,
+     "fin": 27.2,
+     "p": "todos"
+    },
+    {
+     "ini": 27.2,
+     "fin": 27.36,
+     "p": "los"
+    },
+    {
+     "ini": 27.36,
+     "fin": 27.5,
+     "p": "días"
+    },
+    {
+     "ini": 27.5,
+     "fin": 27.72,
+     "p": "del"
+    }
+   ]
+  },
+  {
+   "ini": 28.34,
+   "fin": 35.7,
+   "texto": "son 500 euros el tabaco si alguien está intentando dejar de fumar si lo piensas",
+   "palabras": [
+    {
+     "ini": 28.34,
+     "fin": 28.88,
+     "p": "son"
+    },
+    {
+     "ini": 28.88,
+     "fin": 29.26,
+     "p": "500"
+    },
+    {
+     "ini": 29.26,
+     "fin": 29.9,
+     "p": "euros"
+    },
+    {
+     "ini": 29.9,
+     "fin": 31.02,
+     "p": "el"
+    },
+    {
+     "ini": 31.02,
+     "fin": 31.72,
+     "p": "tabaco"
+    },
+    {
+     "ini": 31.72,
+     "fin": 32.16,
+     "p": "si"
+    },
+    {
+     "ini": 32.16,
+     "fin": 32.34,
+     "p": "alguien"
+    },
+    {
+     "ini": 32.34,
+     "fin": 32.54,
+     "p": "está"
+    },
+    {
+     "ini": 32.54,
+     "fin": 32.94,
+     "p": "intentando"
+    },
+    {
+     "ini": 32.94,
+     "fin": 33.2,
+     "p": "dejar"
+    },
+    {
+     "ini": 33.2,
+     "fin": 33.4,
+     "p": "de"
+    },
+    {
+     "ini": 33.4,
+     "fin": 34.82,
+     "p": "fumar"
+    },
+    {
+     "ini": 34.82,
+     "fin": 35.24,
+     "p": "si"
+    },
+    {
+     "ini": 35.24,
+     "fin": 35.44,
+     "p": "lo"
+    },
+    {
+     "ini": 35.44,
+     "fin": 35.7,
+     "p": "piensas"
+    }
+   ]
+  },
+  {
+   "ini": 35.7,
+   "fin": 39.72,
+   "texto": "desde el punto de vista económico una cajetilla de tabaco no sé cuánto vale",
+   "palabras": [
+    {
+     "ini": 35.7,
+     "fin": 35.82,
+     "p": "desde"
+    },
+    {
+     "ini": 35.82,
+     "fin": 35.92,
+     "p": "el"
+    },
+    {
+     "ini": 35.92,
+     "fin": 36.08,
+     "p": "punto"
+    },
+    {
+     "ini": 36.08,
+     "fin": 36.16,
+     "p": "de"
+    },
+    {
+     "ini": 36.16,
+     "fin": 36.32,
+     "p": "vista"
+    },
+    {
+     "ini": 36.32,
+     "fin": 37.36,
+     "p": "económico"
+    },
+    {
+     "ini": 37.36,
+     "fin": 37.78,
+     "p": "una"
+    },
+    {
+     "ini": 37.78,
+     "fin": 38.2,
+     "p": "cajetilla"
+    },
+    {
+     "ini": 38.2,
+     "fin": 38.36,
+     "p": "de"
+    },
+    {
+     "ini": 38.36,
+     "fin": 38.86,
+     "p": "tabaco"
+    },
+    {
+     "ini": 38.86,
+     "fin": 39.28,
+     "p": "no"
+    },
+    {
+     "ini": 39.28,
+     "fin": 39.36,
+     "p": "sé"
+    },
+    {
+     "ini": 39.36,
+     "fin": 39.58,
+     "p": "cuánto"
+    },
+    {
+     "ini": 39.58,
+     "fin": 39.72,
+     "p": "vale"
+    }
+   ]
+  },
+  {
+   "ini": 39.72,
+   "fin": 45.72,
+   "texto": "porque no fumo pero seis siete euros oye si te compras ocho cajetillas de",
+   "palabras": [
+    {
+     "ini": 39.72,
+     "fin": 39.94,
+     "p": "porque"
+    },
+    {
+     "ini": 39.94,
+     "fin": 40.16,
+     "p": "no"
+    },
+    {
+     "ini": 40.16,
+     "fin": 40.4,
+     "p": "fumo"
+    },
+    {
+     "ini": 40.4,
+     "fin": 41.0,
+     "p": "pero"
+    },
+    {
+     "ini": 41.0,
+     "fin": 41.56,
+     "p": "seis"
+    },
+    {
+     "ini": 41.56,
+     "fin": 41.92,
+     "p": "siete"
+    },
+    {
+     "ini": 41.92,
+     "fin": 42.42,
+     "p": "euros"
+    },
+    {
+     "ini": 42.42,
+     "fin": 43.56,
+     "p": "oye"
+    },
+    {
+     "ini": 43.56,
+     "fin": 43.68,
+     "p": "si"
+    },
+    {
+     "ini": 43.68,
+     "fin": 43.92,
+     "p": "te"
+    },
+    {
+     "ini": 43.92,
+     "fin": 44.46,
+     "p": "compras"
+    },
+    {
+     "ini": 44.46,
+     "fin": 45.08,
+     "p": "ocho"
+    },
+    {
+     "ini": 45.08,
+     "fin": 45.5,
+     "p": "cajetillas"
+    },
+    {
+     "ini": 45.5,
+     "fin": 45.72,
+     "p": "de"
+    }
+   ]
+  },
+  {
+   "ini": 45.72,
+   "fin": 49.88,
+   "texto": "tabaco al mes son 50 euros también que se te están yendo entonces esos",
+   "palabras": [
+    {
+     "ini": 45.72,
+     "fin": 46.06,
+     "p": "tabaco"
+    },
+    {
+     "ini": 46.06,
+     "fin": 46.3,
+     "p": "al"
+    },
+    {
+     "ini": 46.3,
+     "fin": 46.72,
+     "p": "mes"
+    },
+    {
+     "ini": 46.72,
+     "fin": 47.04,
+     "p": "son"
+    },
+    {
+     "ini": 47.04,
+     "fin": 47.46,
+     "p": "50"
+    },
+    {
+     "ini": 47.46,
+     "fin": 47.74,
+     "p": "euros"
+    },
+    {
+     "ini": 47.74,
+     "fin": 47.94,
+     "p": "también"
+    },
+    {
+     "ini": 47.94,
+     "fin": 48.14,
+     "p": "que"
+    },
+    {
+     "ini": 48.14,
+     "fin": 48.24,
+     "p": "se"
+    },
+    {
+     "ini": 48.24,
+     "fin": 48.36,
+     "p": "te"
+    },
+    {
+     "ini": 48.36,
+     "fin": 48.48,
+     "p": "están"
+    },
+    {
+     "ini": 48.48,
+     "fin": 49.22,
+     "p": "yendo"
+    },
+    {
+     "ini": 49.22,
+     "fin": 49.6,
+     "p": "entonces"
+    },
+    {
+     "ini": 49.6,
+     "fin": 49.88,
+     "p": "esos"
+    }
+   ]
+  },
+  {
+   "ini": 49.88,
+   "fin": 53.08,
+   "texto": "pequeños gastos que de por sí solos no valen nada suman un montón",
+   "palabras": [
+    {
+     "ini": 49.88,
+     "fin": 50.28,
+     "p": "pequeños"
+    },
+    {
+     "ini": 50.28,
+     "fin": 50.74,
+     "p": "gastos"
+    },
+    {
+     "ini": 50.74,
+     "fin": 50.94,
+     "p": "que"
+    },
+    {
+     "ini": 50.94,
+     "fin": 51.06,
+     "p": "de"
+    },
+    {
+     "ini": 51.06,
+     "fin": 51.2,
+     "p": "por"
+    },
+    {
+     "ini": 51.2,
+     "fin": 51.38,
+     "p": "sí"
+    },
+    {
+     "ini": 51.38,
+     "fin": 51.6,
+     "p": "solos"
+    },
+    {
+     "ini": 51.6,
+     "fin": 51.76,
+     "p": "no"
+    },
+    {
+     "ini": 51.76,
+     "fin": 52.06,
+     "p": "valen"
+    },
+    {
+     "ini": 52.06,
+     "fin": 52.36,
+     "p": "nada"
+    },
+    {
+     "ini": 52.36,
+     "fin": 52.72,
+     "p": "suman"
+    },
+    {
+     "ini": 52.72,
+     "fin": 52.9,
+     "p": "un"
+    },
+    {
+     "ini": 52.9,
+     "fin": 53.08,
+     "p": "montón"
+    }
+   ]
+  }
+ ]
+}

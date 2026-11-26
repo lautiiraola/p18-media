@@ -1,0 +1,43 @@
+BITÁCORA DE PROCESO — P18-NNN-slug
+Registro cronológico de cómo se hizo este video: pasos, herramientas, problemas, decisiones y aprendizajes.
+Se actualiza al cerrar cada etapa. Los aprendizajes que sirven para todos los videos se copian a 00_SISTEMA/aprendizajes-de-produccion.txt.
+
+Formato por etapa:
+
+ETAPA N — NOMBRE (AAAA-MM-DD)
+Pasos: qué se hizo, en orden, con las herramientas y los comandos que funcionaron.
+Problemas: qué falló y cómo se resolvió.
+Decisiones: qué se eligió y por qué.
+Aprendizajes: qué conviene repetir o evitar en el próximo video.
+
+P18-003 — STEVE JOBS — 2026-11-24
+ETAPA 1: investigación y guion (estado: waiting_voiceover)
+- Pedido del operador: "énfasis en que la empresa que creó lo echó y después lo llamó para que salve la empresa".
+- Antes de empezar se leyó 00_SISTEMA/aprendizajes-de-produccion.txt.
+- Fuente primaria: texto preparado del discurso de Stanford 2005, leído con el navegador integrado y extrayendo fragmentos por palabra clave con javascript_tool. Las cifras (pérdidas de 1996 y 1997, compra de NeXT, ganancia de 1998) se cruzaron en dos fuentes.
+- Skills usadas: viral-hooks-formulas (3 hooks: Cat 06, 07 y 09), viral-hooks (anti-patrones: sin intro y sin teaser vago), viral-short-form (arco hook → escalada → giro → payoff) y viral-instagram-reels (pregunta final sin engagement bait). El pitch de Vyral no se aplica.
+- Duración: el primer borrador tenía 113 palabras (unos 50 s con el cierre): demasiado. Se recortaron la cifra de pérdidas y el atribuidor de la cita, y quedó en 99 palabras, unos 45 s en total.
+- Aprendizaje: con el cierre de 3 s, el tope práctico del guion es de unas 105 palabras (antes se calculaba 108–115).
+
+ETAPA 2: voz aprobada y material (2026-11-24, en curso)
+- Voz recibida y validada: 38,84 s, 0 diferencias reales (ver 03_voiceover/voice-validation.txt). Timings por palabra en 03_voiceover/P18-003-steve-jobs-voiceover-words.json.
+- Material bajado a 04_assets/originals (metadatos de licencia en commons-meta.json, si se generó): A01, A02, A03, A05, A06, A07, A08, A09, A10, A12 y A13.
+- FALTAN por el 429 de Wikimedia: A04 (aviso Apple I 1976, PD), A11 (Jobs 2010, Gobierno de Chile, CC BY 2.0), A14 (anuario 1972, PD) y M01 (Kevin MacLeod, "On the Passing of Time", CC BY 3.0, cama nueva).
+  Script: scratchpad jobs/dl.py. Wikimedia exige miniaturas de tamaño estándar (iiurlwidth=1920) y pausas largas. Reintentar más tarde; el script saltea lo que ya está bajado.
+- SFX nuevos de síntesis propia: public/audio/golpe_grave.wav y swell.wav.
+- 06_remotion/build_props.py ya está escrito (10 escenas más outro3d con '11 años afuera'), pero no se corrió.
+PENDIENTE:
+1. Bajar A04, A11, A14 y M01.
+2. Convertir M01 a public/audio/cama.wav y copiar las imágenes a public/img/ con sus IDs, mirando cada una.
+3. Correr build_props, revisar la lista de subtítulos y hacer los stills de QA.
+4. Render, master a -14 LUFS, registro de assets y sources, y entrega.
+
+ETAPA 3: producción (2026-11-25), master v01 entregado
+- Wikimedia: los originales grandes devuelven 429. Usar miniaturas de tamaño estándar (iiurlwidth=1920; los archivos de 1920 px o menos se bajan en original) con pausas de 8 a 12 s. Así salieron las 16 descargas.
+- Música: se midió el loudness de la pista cada 3 s con ebur128 y se eligió el tramo que arranca en 59,5 s, porque su bajón cae en "lo dejó afuera" y crece en el giro.
+- QA, ronda 1: la escena 'year' necesita bg 'paper' explícito (si no, los subtítulos salen blancos sobre papel). Las tarjetas de galería tienen que terminar en y ≤ 1360 (los subtítulos empiezan en y 1390). Revisar el encuadre de cada foto principal (la de Sculley cortaba la cara).
+- Un recorte de la misma foto también cuenta como imagen repetida (A06 = A02 sin Jobs): se descartó.
+- QA, ronda 2: sobre fotos claras a pantalla completa el subtítulo no se leía. Se oscureció la franja inferior de FullBleedPhoto en el runtime.
+- Render de 43 s a 60 fps: unos 45 s.
+
+ETAPA 4: archivado (2026-11-25). El operador aprobó el master v01 ("Sí, archivalo") y se movió a 10_VIDEOS_TERMINADOS.

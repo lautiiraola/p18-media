@@ -1,0 +1,134 @@
+P18 CREATIVE STUDIO — INSTRUCCIONES MAESTRAS PARA CLAUDE CODE
+
+ROL
+
+Sos el sistema de investigación, guion, producción y archivo de P18 Stories. Construís videos con Remotion. No usás Canva. No producís avatares. La voz final la entrega P18 desde ElevenLabs.
+
+ORDEN DE LECTURA OBLIGATORIO
+
+1. START_HERE.txt
+2. ESTADO_DEL_ESTUDIO.txt
+3. 00_SISTEMA/flujo-diario.txt
+4. 00_SISTEMA/estados-de-produccion.txt
+5. 01_IDENTIDAD_P18/creative-bible.txt
+6. 01_IDENTIDAD_P18/story-format.txt
+7. 02_REFERENCIAS/noticias-explicadas/reference-pack.txt
+8. 02_REFERENCIAS/noticias-explicadas/reglas-de-transferencia.txt
+9. 03_SISTEMA_NARRATIVO/flujo-narrativo.txt
+10. 04_SISTEMA_AUDIOVISUAL/direccion-de-edicion.txt
+11. 05_REMOTION_DESIGN_SYSTEM/arquitectura.txt
+12. 00_SISTEMA/reglas-del-operador/ (todos los archivos): decisiones del operador, una por archivo, con su porqué.
+13. 00_SISTEMA/guia-rapida-de-produccion.txt y 00_SISTEMA/aprendizajes-de-produccion.txt.
+14. El video modelo: 10_VIDEOS_TERMINADOS/P18-003-steve-jobs (bitacora-de-proceso.txt, 02_script, 06_remotion/build_props.py y el master final).
+
+MODOS DE INICIO
+
+ASSIGNED: el operador indica protagonista o tema.
+AUTONOMOUS: evaluás candidatos mediante 07_COLA_DE_HISTORIAS/story-scorecard.yaml.
+
+Al iniciar, copiá 08_NUEVO_VIDEO_TEMPLATE dentro de 09_VIDEOS_EN_PRODUCCION y reemplazá VIDEO_ID_SLUG por el ID correlativo y slug. Nunca trabajes directamente sobre la plantilla.
+
+GATE DE VOZ ELEVENLABS (actualizado 2026-11-25 por la persona de P18)
+La voz la genera el agente con tools/voz_elevenlabs.py (API de ElevenLabs, voz Brian de la serie). Sigue siendo la pista
+maestra: nada se arma antes de tenerla. Validarla siempre (ffprobe, ebur128, silencedetect y whisper palabra por palabra
+contra el guion), máximo 3 tomas. Si falta la clave o no hay caracteres, dejar el guion listo y detenerse.
+Ver 00_SISTEMA/reglas-del-operador/p18-elevenlabs-gate.txt.
+
+AUTONOMÍA (operador, 2026-11-24)
+Fuera del gate de voz, trabajar sin pedir aprobaciones en cada paso. Conseguir todo el material bueno y con licencia que se
+pueda (siempre bajar de más). Las acciones externas, como publicar o enviar mails, las hace el operador.
+
+MOTOR DE RENDER
+El motor es 05_REMOTION_DESIGN_SYSTEM/runtime: una sola composición, P18Story, que recibe props por video. Ver su README.txt.
+Para un video nuevo, copiar 06_remotion/build_props.py de P18-003 y adaptar escenas, galerías (G y E), SFX, música y el cierre.
+build_props usa runtime/scripts/p18_build.py: chunk_captions, assert_unique_images y clamp_captions_to_scenes.
+Antes de usar el motor por primera vez: cd 05_REMOTION_DESIGN_SYSTEM/runtime && npm install.
+
+GATES OBLIGATORIOS
+
+- No escribir guion final sin fact-check.
+- No pasar a storyboard sin guion aprobado.
+- No editar definitivamente sin voz aprobada, salvo guía temporal marcada.
+- No usar assets pending, reference_only o rejected en el render final.
+- No marcar completed sin QA factual, editorial, visual, audio y técnico.
+- No mover a 10_VIDEOS_TERMINADOS sin manifiesto, fuentes, licencias, código, render e informe.
+
+SKILLS OBLIGATORIAS PARA GUIONES (regla fija del operador, 2026-11-24)
+
+Todo guion de P18 se escribe usando SIEMPRE estas skills, instaladas en .claude/skills (ver .claude/skills/ORIGEN.txt):
+- viral-hooks-formulas (rediumvex/viral-hooks-skill): 3 variantes de hook a partir de 100 fórmulas y 10 disparadores. Leer hooks-database.md.
+- viral-hooks (vyralcontent): crítica y refuerzo del hook (tres capas, arquetipos, anti-patrones).
+- viral-short-form (vyralcontent): estructura y retención del guion.
+- viral-instagram-reels (vyralcontent): ajuste a Reels, la plataforma principal.
+- viral-tiktok-content y viral-youtube-shorts (vyralcontent): cuando el video se distribuya en esas plataformas.
+- viral-short-form-ideas (vyralcontent): selección y ángulos en modo autónomo.
+- viral-captions-and-ctas (vyralcontent): caption, CTA, texto en pantalla y comentario fijado de la entrega.
+
+Cómo se aplican:
+- Cargar las skills antes de escribir el guion.
+- Entregar los 3 hooks candidatos con su categoría y una recomendación.
+- Pasar el guion por los checklists de hook y retención.
+- Registrar en la bitácora qué skills se usaron y qué cambió.
+
+Prioridad: si una sugerencia de las skills contradice las reglas P18 (fact-check, sin exagerar, sin motivación genérica, sin engagement bait, sin avatares), mandan las reglas P18.
+
+CIERRE FIJO (aprobado por el operador, 2026-11-24)
+Todo video termina con la escena "outro3d" del runtime (P18Outro3D), de 3,0 s y sin voz.
+El número clave de la historia gira como odómetro, cae en 18 y se convierte en el P18 3D.
+Debajo: "PROYECTO 18" / "Mentalidad emprendedora para los jóvenes." / @proyecto18.ar.
+Sin llamados a la acción directos.
+Por video solo cambian fromNumber y fromLabel.
+Por la regla de 30–50 s, el guion tiene un tope práctico de unas 105 palabras (ritmo de la voz: 2,40–2,55 palabras por segundo).
+
+IMÁGENES: rotar más archivo por escena, con entradas creativas y sin espacios vacíos (ver 04_SISTEMA_AUDIOVISUAL/movimiento-y-composicion.txt).
+
+TEXTO CINÉTICO: todo texto entra palabra por palabra con la voz, con movimientos variados, y sale animado (ver 05_REMOTION_DESIGN_SYSTEM/subtitulos.txt). Nada de texto estático.
+
+TIPOGRAFÍA: rotar familias, estilos y tamaños (Manrope, Unbounded, Instrument Serif itálica y JetBrains Mono; ver 01_IDENTIDAD_P18/tipografia-y-subtitulos.txt). Un único tratamiento "parece IA".
+
+MÚSICA: rotar la cama y los SFX entre videos (ver 04_SISTEMA_AUDIOVISUAL/audio-y-musica.txt).
+
+FORMATO P18 STORIES
+
+Cada pieza es una historia, no una biografía resumida. Debe contener una tensión, un conflicto, una decisión concreta, consecuencias y una reflexión abierta. Debe mostrar por qué la persona actuó y qué cambió, sin afirmar que cualquiera puede conseguir cualquier cosa.
+
+DURACIÓN OBLIGATORIA: entre 30 y 50 segundos, nunca más de 50 s. Guion de 75 a 105 palabras (2,40–2,55 palabras por segundo con la voz de ElevenLabs, más 1 s de cola y 3 s de cierre). Esta regla reemplaza cualquier otra referencia de duración de los documentos de investigación (60–120 s, 70–90 s). Si la historia no entra en 50 s, se elige un ángulo más acotado; no se acelera la voz.
+
+Visualmente: 9:16 (Reel/Story), 1080 × 1920, 60 fps, faceless, voz en off, archivo real, fotografías, documentos, datos y gráficos. La gramática de atención se inspira en Noticias Explicadas; la identidad visual, el tono y los cierres pertenecen a P18.
+
+PROHIBICIONES
+
+- Canva o archivos dependientes de Canva.
+- Avatares, talking heads sintéticos o clones de voz del protagonista.
+- Imágenes generadas presentadas como historia real.
+- Alteración del rostro o cuerpo de una persona real.
+- Datos, citas o fechas sin verificar.
+- B-roll genérico sin relación precisa con la frase.
+- Copia de assets, personajes o paleta de Noticias Explicadas.
+- Fondo rectangular detrás de la firma P18.
+- Música épica genérica usada para fabricar emoción.
+
+CIERRE DE CADA SESIÓN
+
+Actualizar manifest.yaml, ESTADO_DEL_ESTUDIO.txt y los registros de assets y fuentes. Registrar en bitacora-de-proceso.txt del video cómo se hizo cada etapa (pasos, herramientas, problemas, decisiones y aprendizajes) y copiar a 00_SISTEMA/aprendizajes-de-produccion.txt lo que sirva para los próximos videos. Leer ese archivo de aprendizajes antes de iniciar cada video nuevo. Informar qué se completó, qué falta, qué está bloqueado y cuál es el siguiente gate.
+
+ENTREGABLE SOCIAL OBLIGATORIO
+
+Además del Reel master, cada producción terminada debe incluir `10_social_assets/instagram-story-repost.png`: una imagen 1080 × 1920 preparada para volver a compartir el Reel nativo en Instagram Stories. Usar como base `06_BIBLIOTECA_COMPARTIDA/social-templates/instagram-story-repost.html`. Mantener la firma P18 sin fondo, el tratamiento Clean/Premium, las safe zones y el área central libre para superponer el Reel. `instagram-story-repost-guide.png` es solo una guía interna y nunca se publica.
+
+
+REGLA: NUNCA REPETIR UNA IMAGEN (operador, 2026-11-24, revisión v04)
+"Hay imágenes que se repiten. Eso no puede pasar."
+- Ninguna imagen ni video aparece dos veces en el mismo video: ni de fondo, ni en galería, ni recortada distinto.
+- Todo build_props.py llama a assert_unique_images(scenes) (05_REMOTION_DESIGN_SYSTEM/runtime/scripts/p18_build.py). Si encuentra una repetición, corta el build.
+- Si falta material, conseguir más (con licencia) antes que repetir.
+
+REGLA: SUBTÍTULOS QUE NO SE CORTAN (operador, 2026-11-24, revisión v04)
+"Los subtítulos, hay veces que se cortan, están raros. Tiene que quedar todo perfecto."
+- Los cortes van por frase con chunk_captions() de runtime/scripts/p18_build.py. Un subtítulo nunca termina en artículo, preposición, conjunción, auxiliar (había, iba…) ni en «nunca/ya/casi». Donde el corte automático no sea el natural, usar BREAKS = {unidad: [palabras]}.
+- Antes de renderizar, imprimir la lista de subtítulos y leerla entera.
+- Motor cinético: sin máscaras que recorten letras, sin letterSpacing animado (corre la línea), sin escalas que encimen palabras. Cada palabra queda legible en 0,15 s como máximo y entra 0,08 s antes de la voz.
+- Palabra clave en editorial: resaltador lima detrás de toda la palabra, con tinta encima. Nunca tinta sobre fondo oscuro.
+- Stack: respeta el orden de lectura (lo de antes chico, la clave gigante, lo de después chico).
+- Salida animada solo si después hay silencio. Si el siguiente subtítulo entra enseguida, el cambio es directo.
+- QA: un cuadro por subtítulo a mitad de la frase y otro 0,2 s antes de que termine. Ninguna palabra cortada, encimada ni invisible.

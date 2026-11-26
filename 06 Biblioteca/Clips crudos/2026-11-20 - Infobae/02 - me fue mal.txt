@@ -1,0 +1,28 @@
+CLIP 02 — ME FUE MAL Y QUISE RETIRARME: LO QUE APRENDÍ DESPUÉS
+
+Inicio:     14:34.1  (874.12 s)
+Fin:        15:31.5  (931.52 s)
+Duración:   57.4 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  ME FUE MAL Y QUISE RETIRARME: LO QUE APRENDÍ DESPUÉS   (en el reel, en lima: ME FUE MAL)
+Departamento:     Deporte y mentalidad
+Área:             Presión y dificultad
+Tema:             Un mal día no define todo
+Fuente:           Infobae — "Paula Pareto: la obsesión por el orden, el “dolor mental” y por qué no tiene lugar para el amor"
+                  https://www.youtube.com/watch?v=iCd-y-0b4-c&t=874s
+
+Por qué lo elegí:
+Historia honesta de frustración antes de un juego olímpico y cómo aprendió a separar un mal resultado de lo que valés. Cercano y accionable.
+
+Gancho (primeros 3 s): en ese torneo me fue mal, muy mal
+
+Notas para la revisión: Habla de llorar y frustración; no es salud mental clínica.
+
+Transcripción del clip:
+Y me acuerdo que en ese torneo me fue mal, muy mal. Gané dos luchas, perdí dos, pero para mí me había ido mal, no me había sentido bien como había luchado. Y sí, empecé a decir que le decía a los compañeros con los que estaba, no, ya está, yo no sirvo para esto. Después de Beijing, porque ya estaba clasificada, había que ir al Juego Olímpico, yo me voy a retirar porque ya está, no sirvo. O sea, no me sentía bien, es como que me pasó esto de frustrarme, de llorar mucho, de no sentir que había hecho bien las cosas, porque eso fue lo que más me dolió, creo. Y, bueno, después la verdad que se me pasó, fue el mismo día, pero yo estaba convencida de que después de Beijing no luchaba más. Y después en Beijing se dio la medalla de bronce, que fue una gran sorpresa para mí, creo que para todos mis compañeros, y creo que eso también me incitó a decir, bueno, hay que saber diferenciar entre cuando te va bien y cuando te va mal. Es un juego, o sea, está todo permitido.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-20 - Infobae/02 - me fue mal.mp4" "*ME FUE MAL* Y QUISE RETIRARME: LO QUE APRENDÍ DESPUÉS" --fuente "Infobae"
+
+Saturación aplicada al reel (regla 2026-11-23, sólo al video): eq=saturation=0.7 (media S 0.676, 73% px S>0.6)

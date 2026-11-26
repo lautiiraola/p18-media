@@ -1,0 +1,25 @@
+VALIDACIÓN DE VOZ — P18-003-steve-jobs
+Fecha: 2026-11-24
+Resultado: APROBADA. Coincide palabra por palabra con 02_script/voiceover-final.txt. Dura 38,84 s (con 1 s de cola y 3 s de cierre, unos 42,8 s: dentro de la regla de 30–50 s).
+
+ARCHIVO RECIBIDO (original sin modificar)
+03_voiceover/inbox/ElevenLabs_2026-11-24T22_57_03_Brian - Warm, Smooth, Confident_pvc_s50_sim75_v4.mp3
+SHA-256: 6d52595292043724c5578b258c586f8588c310624bc0542e62195eae3da347b1
+Voz: Brian - Warm, Smooth, Confident (pvc, s50, sim75, v4). Es la voz de la serie.
+
+DATOS TÉCNICOS
+MP3 de 128 kbps, 44.100 Hz, mono. Duración: 38,84 s.
+Loudness: -21,5 LUFS. Pico: -2,1 dBFS. Sin clipping. Piso de ruido: -81 dB.
+Ritmo: 99 palabras en 38,84 s, o sea 2,55 palabras por segundo. Más rápido que en P18-002 (2,40); la estimación previa era de unos 41 s.
+
+COMPARACIÓN DE TEXTO (whisper.cpp ggml-small, es)
+99 palabras contra 99. Única diferencia: "hacés" → "haces". Es solo la tilde que pone el reconocimiento; no es una diferencia.
+Diferencias reales: 0. "Steve Jobs", "Apple", "NeXT" (transcripto "Next") y "Pixar" se reconocen correctamente.
+
+PAUSAS (silencios de 0,45 s o más, a -40 dB)
+3,15 s (0,62 s, después del hook) · 5,57 · 8,13 · 13,71 · 20,45 · 28,09 · 31,41 · 35,69 s (0,65 s, antes de la pregunta final).
+
+ARCHIVOS GENERADOS
+- 03_voiceover/approved/P18-003-steve-jobs-voiceover-approved.wav: MP3 decodificado a PCM 16-bit, 44,1 kHz, mono. Sin edición.
+  SHA-256: ee7ad5521aa301a3cbcad73961074ff3268ae52ada3565431789f5b884b6ae77
+- 03_voiceover/P18-003-steve-jobs-voiceover-words.json: timings por palabra.

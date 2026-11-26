@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# p18-clipear preparar URL|video.mp4 [--fuente "..."]   |   p18-clipear cortar CARPETA plan.json
+set -euo pipefail
+SRC="${BASH_SOURCE[0]}"
+while [[ -L "$SRC" ]]; do D="$(cd "$(dirname "$SRC")" && pwd)"; SRC="$(readlink "$SRC")"; [[ "$SRC" != /* ]] && SRC="$D/$SRC"; done
+DIR="$(cd "$(dirname "$SRC")" && pwd)"
+VENV="${P18_VENV:-$HOME/.local/share/p18/venv}"
+[[ -x "$VENV/bin/python" ]] || bash "$DIR/setup.sh"
+export PATH="/opt/homebrew/bin:$PATH"   # deno (yt-dlp lo usa para YouTube)
+exec "$VENV/bin/python" "$DIR/clipear.py" "$@"

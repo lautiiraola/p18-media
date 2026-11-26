@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,582,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.56,P18,,0,0,0,,Y me acuerdo que en ese torneo me
+Dialogue: 0,0:00:01.56,0:00:03.06,P18,,0,0,0,,fue mal, muy mal.
+Dialogue: 0,0:00:03.50,0:00:05.52,P18,,0,0,0,,Va, gané dos luchas, perdí dos,
+Dialogue: 0,0:00:05.52,0:00:06.78,P18,,0,0,0,,pero para mí me había ido mal,
+Dialogue: 0,0:00:06.78,0:00:08.08,P18,,0,0,0,,no me había sentido bien cómo
+Dialogue: 0,0:00:08.08,0:00:11.52,P18,,0,0,0,,había luchado y sí,
+Dialogue: 0,0:00:11.52,0:00:13.10,P18,,0,0,0,,empecé a decir que le decía a los
+Dialogue: 0,0:00:13.10,0:00:14.16,P18,,0,0,0,,compañeros con los que estaba,
+Dialogue: 0,0:00:14.16,0:00:15.54,P18,,0,0,0,,no, ya está, yo no sirvo para
+Dialogue: 0,0:00:15.54,0:00:16.00,P18,,0,0,0,,esto.
+Dialogue: 0,0:00:16.00,0:00:17.38,P18,,0,0,0,,Después de Beijing, porque ya
+Dialogue: 0,0:00:17.38,0:00:18.98,P18,,0,0,0,,estaba clasificada, había que ir
+Dialogue: 0,0:00:18.98,0:00:20.62,P18,,0,0,0,,al Juego Olímpico, yo me voy a
+Dialogue: 0,0:00:20.62,0:00:22.06,P18,,0,0,0,,retirar porque ya está,
+Dialogue: 0,0:00:22.06,0:00:23.74,P18,,0,0,0,,no sirvo, o sea, no me sentía
+Dialogue: 0,0:00:23.74,0:00:26.20,P18,,0,0,0,,bien, es como que me pasó esto de
+Dialogue: 0,0:00:26.20,0:00:27.60,P18,,0,0,0,,frustrarme, de llorar mucho,
+Dialogue: 0,0:00:28.06,0:00:29.78,P18,,0,0,0,,de no sentir que había hecho bien
+Dialogue: 0,0:00:29.78,0:00:31.00,P18,,0,0,0,,las cosas, porque eso fue lo que
+Dialogue: 0,0:00:31.00,0:00:32.12,P18,,0,0,0,,más me dolió creo.
+Dialogue: 0,0:00:33.62,0:00:35.54,P18,,0,0,0,,Y bueno, después la verdad que se
+Dialogue: 0,0:00:35.54,0:00:37.14,P18,,0,0,0,,me pasó, fue el mismo día,
+Dialogue: 0,0:00:37.14,0:00:38.42,P18,,0,0,0,,pero yo estaba convencida de que
+Dialogue: 0,0:00:38.42,0:00:39.78,P18,,0,0,0,,después de Beijing no luchaba más.
+Dialogue: 0,0:00:40.32,0:00:41.40,P18,,0,0,0,,Y después en Beijing se dio la
+Dialogue: 0,0:00:41.40,0:00:42.80,P18,,0,0,0,,medalla de bronce que fue una gran
+Dialogue: 0,0:00:42.80,0:00:44.24,P18,,0,0,0,,sorpresa para mí, creo que para
+Dialogue: 0,0:00:44.24,0:00:46.62,P18,,0,0,0,,todos mis compañeros, y creo que
+Dialogue: 0,0:00:46.62,0:00:48.12,P18,,0,0,0,,eso también me incitó a decir
+Dialogue: 0,0:00:48.12,0:00:50.96,P18,,0,0,0,,bueno, hay que saber diferenciar
+Dialogue: 0,0:00:50.96,0:00:53.03,P18,,0,0,0,,entre cuando te está bien y cuando
+Dialogue: 0,0:00:53.03,0:00:55.07,P18,,0,0,0,,te va mal es un juego,
+Dialogue: 0,0:00:55.07,0:00:56.85,P18,,0,0,0,,o sea, está todo permitido.

@@ -1,0 +1,26 @@
+CLIP 01 — NO HAY NADA PEOR QUE TRATAR DE VENDERTE
+
+Inicio:     06:58.6  (418.56 s)
+Fin:        07:28.9  (448.92 s)
+Duración:   30.4 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  NO HAY NADA PEOR QUE TRATAR DE VENDERTE   (en el reel, en lima: VENDERTE)
+Departamento:     Crecimiento personal
+Área:             Mentalidad y adaptación
+Tema:             Menos presión, más cerca
+Fuente:           El Buscador - Diego Peretti — "DIEGO PERETTI: "El secreto de la vida es manejar los pensamientos y no que te manejen" | EL BUSCADOR"
+                  https://www.youtube.com/watch?v=hKY1xAQZnz0&t=418s
+
+Por qué lo elegí:
+Idea corta y clara: cuanta menos presión le ponés a la ambición, más relajado estás y más cerca del objetivo. Útil para entrevistas, castings o una presentación.
+
+Gancho (primeros 3 s): Yo soy de esos que creen que no hay nada peor que tratar de vender algo, incluso si pretendés venderte a vos mismo.
+
+Notas para la revisión: Dura justo 30 s.
+
+Transcripción del clip:
+yo soy de esos que creen que no hay nada peor que tratar de vender algo. Incluso si pretendés vender a vos mismo. Y a mí me funcionó siempre al revés, en el sentido de que cuanto menos carga y presión le pones a la ambición de lograr algo, yo, estás más cerca de estar relajado y acercarte un poquitito más al objetivo. Digo, no como estrategia, digo como funcionamiento para ser feliz, que es más importante.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - El Buscador - Diego Peretti/01 - no venderse.mp4" "NO HAY NADA PEOR QUE TRATAR DE *VENDERTE*" --fuente "El Buscador - Diego Peretti"

@@ -1,0 +1,9 @@
+Valentín pidió (2026-11-24): "guardá siempre el proceso de cómo creamos cada video para ir mejorando en cada caso".
+
+POR QUÉ: quiere que cada producción de P18 Stories mejore la siguiente; el proceso, problemas y aprendizajes no deben perderse entre sesiones.
+
+CÓMO SE APLICA:
+- Al cerrar cada etapa de un video, actualizar `09_VIDEOS_EN_PRODUCCION/<P18-NNN-slug>/bitacora-de-proceso.txt` (pasos, herramientas/comandos que funcionaron, problemas, decisiones, aprendizajes). La plantilla `08_NUEVO_VIDEO_TEMPLATE` ya incluye ese archivo.
+- Copiar lo reutilizable a `00_SISTEMA/aprendizajes-de-produccion.txt`, y leer ese archivo antes de iniciar cada video nuevo.
+- Esta regla también quedó escrita en `CLAUDE.txt` (sección CIERRE DE CADA SESIÓN).
+- Se complementa con p18-elevenlabs-gate: nunca avanzar a producción audiovisual sin el audio final de ElevenLabs entregado por Valentín.

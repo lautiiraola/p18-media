@@ -1,0 +1,31 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,582,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.28,P18,,0,0,0,,Si tú no encuentras satisfacción
+Dialogue: 0,0:00:03.28,0:00:04.38,P18,,0,0,0,,en el proceso,
+Dialogue: 0,0:00:05.18,0:00:06.48,P18,,0,0,0,,difícilmente vas a encontrar
+Dialogue: 0,0:00:06.48,0:00:08.62,P18,,0,0,0,,satisfacción en el resultado
+Dialogue: 0,0:00:08.62,0:00:09.32,P18,,0,0,0,,final.
+Dialogue: 0,0:00:10.18,0:00:12.18,P18,,0,0,0,,Mi sobrino pasó gusto del proceso.
+Dialogue: 0,0:00:12.84,0:00:14.80,P18,,0,0,0,,Yo pasé, como entrenador,
+Dialogue: 0,0:00:14.80,0:00:17.44,P18,,0,0,0,,casi más gusto del proceso que del
+Dialogue: 0,0:00:17.44,0:00:18.44,P18,,0,0,0,,resultado final.
+Dialogue: 0,0:00:18.44,0:00:20.26,P18,,0,0,0,,A mí, el resultado final,
+Dialogue: 0,0:00:20.26,0:00:22.58,P18,,0,0,0,,claro que me importó ver ganar a
+Dialogue: 0,0:00:22.58,0:00:24.20,P18,,0,0,0,,mi sobrino en Roland Garros o en
+Dialogue: 0,0:00:24.20,0:00:26.28,P18,,0,0,0,,Wimbledon, pero a mí lo que
+Dialogue: 0,0:00:26.28,0:00:28.00,P18,,0,0,0,,realmente me proporcionó la
+Dialogue: 0,0:00:28.00,0:00:30.98,P18,,0,0,0,,felicidad fue la lucha
+Dialogue: 0,0:00:30.98,0:00:34.14,P18,,0,0,0,,diaria de intentar hacer las cosas
+Dialogue: 0,0:00:34.14,0:00:35.70,P18,,0,0,0,,cada día un poco mejor.

@@ -1,0 +1,264 @@
+<title>Un día de P18</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Manrope:wght@400;500;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: cabecera con reloj del día, dos carriles comparados hora por hora, lo que sale publicado y la cuenta final */
+:root{
+  --bg:#F3F5EE; --surface:#FFFFFF; --ink:#0B2E1F; --muted:#56685E; --line:#D9DFD3;
+  --lime:#C6F432; --lime-ink:#2C3A05; --green:#0F4D33; --mac:#4B5D8C; --mac-soft:#E7EAF3;
+  --cloud:#0F6E56; --cloud-soft:#DDF1E8; --warn:#9A5B00; --warn-soft:#FBEFD9; --bad:#A32D2D; --bad-soft:#F8E3E3;
+  --display:"Bricolage Grotesque", "Avenir Next", system-ui, sans-serif;
+  --body:"Manrope", "Helvetica Neue", system-ui, sans-serif;
+  --mono:"JetBrains Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0C1712; --surface:#13221B; --ink:#E6EFE8; --muted:#9BB0A3; --line:#26392F;
+  --lime:#C6F432; --lime-ink:#2C3A05; --green:#C6F432; --mac:#AFC0EE; --mac-soft:#1D2538;
+  --cloud:#7FD8B6; --cloud-soft:#12302A; --warn:#F2B866; --warn-soft:#33260F; --bad:#F29A9A; --bad-soft:#381A1A; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0C1712; --surface:#13221B; --ink:#E6EFE8; --muted:#9BB0A3; --line:#26392F;
+  --lime:#C6F432; --lime-ink:#2C3A05; --green:#C6F432; --mac:#AFC0EE; --mac-soft:#1D2538;
+  --cloud:#7FD8B6; --cloud-soft:#12302A; --warn:#F2B866; --warn-soft:#33260F; --bad:#F29A9A; --bad-soft:#381A1A; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.55;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 64px}
+.wrap{max-width:1080px;margin:0 auto;display:flex;flex-direction:column;gap:40px}
+h1,h2,h3{font-family:var(--display);text-wrap:balance;margin:0;line-height:1.1}
+h1{font-size:clamp(30px,5vw,48px);font-weight:700;letter-spacing:-.02em}
+h2{font-size:24px;font-weight:700}
+h3{font-size:16px;font-weight:700}
+p{margin:0}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.lede{max-width:62ch;color:var(--muted);font-size:16px}
+header{display:grid;grid-template-columns:1fr auto;gap:24px;align-items:end}
+.clock{font-family:var(--mono);font-variant-numeric:tabular-nums;background:var(--ink);color:var(--bg);border-radius:14px;padding:14px 18px;text-align:right;min-width:170px}
+.clock b{display:block;font-size:34px;font-weight:500;letter-spacing:.02em;color:var(--lime)}
+:root[data-theme="dark"] .clock b{color:var(--lime-ink)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .clock b{color:var(--lime-ink)}}
+.clock span{font-size:12px;opacity:.75}
+.controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+button.play{font:700 15px var(--body);background:var(--lime);color:var(--lime-ink);border:0;border-radius:999px;padding:11px 20px;cursor:pointer}
+button.play:focus-visible,.toggle input:focus-visible+span{outline:3px solid var(--cloud);outline-offset:2px}
+button.ghost{font:500 14px var(--body);background:transparent;color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:10px 16px;cursor:pointer}
+.toggle{display:flex;align-items:center;gap:8px;font-size:14px;cursor:pointer;user-select:none;border:1px solid var(--line);border-radius:999px;padding:8px 14px 8px 8px;background:var(--surface)}
+.toggle input{position:absolute;opacity:0;width:1px;height:1px}
+.toggle span.sw{width:34px;height:20px;border-radius:999px;background:var(--line);position:relative;transition:background .2s}
+.toggle span.sw::after{content:"";position:absolute;top:3px;left:3px;width:14px;height:14px;border-radius:50%;background:var(--surface);transition:transform .2s}
+.toggle input:checked+span.sw{background:var(--bad)}
+.toggle input:checked+span.sw::after{transform:translateX(14px)}
+.lanes-head{display:grid;grid-template-columns:72px 1fr 1fr;gap:12px;position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding-block:10px;z-index:2;border-bottom:1px solid var(--line)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.lane-title{display:flex;flex-direction:column;gap:2px}
+.lane-title small{color:var(--muted);font-size:13px}
+.tag{display:inline-flex;align-items:center;gap:6px;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:3px 8px;border-radius:6px;width:max-content}
+.tag.mac{background:var(--mac-soft);color:var(--mac)}
+.tag.cloud{background:var(--cloud-soft);color:var(--cloud)}
+.rows{display:flex;flex-direction:column}
+.row{display:grid;grid-template-columns:72px 1fr 1fr;gap:12px;padding-block:14px;border-bottom:1px dashed var(--line);transition:opacity .3s}
+.row.future{opacity:.38}
+.row.now .time{background:var(--lime);color:var(--lime-ink)}
+.time{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:14px;font-weight:500;align-self:start;padding:4px 8px;border-radius:8px;width:max-content}
+.step{min-width:0;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;display:flex;flex-direction:column;gap:6px}
+.step .what{font-weight:700}
+.step .how{color:var(--muted);font-size:14px}
+.state{display:inline-flex;gap:6px;align-items:center;font-size:12.5px;font-weight:700;padding:3px 9px;border-radius:999px;width:max-content}
+.ok{background:var(--cloud-soft);color:var(--cloud)}
+.late{background:var(--warn-soft);color:var(--warn)}
+.fail{background:var(--bad-soft);color:var(--bad)}
+.you{background:var(--mac-soft);color:var(--mac)}
+.common{grid-column:2 / 4;background:transparent;border-style:dashed}
+.feed{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.piece{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.piece .k{display:flex;justify-content:space-between;gap:8px;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.piece .cap{font-size:14px}
+.piece.pending{border-style:dashed}
+.piece.skipped{opacity:.5}
+.piece .area{font-size:12.5px;color:var(--muted)}
+table{border-collapse:collapse;width:100%;min-width:620px;font-size:14px}
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+th,td{text-align:left;padding:11px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500}
+tr:last-child td{border-bottom:0}
+td:first-child{font-weight:700;width:26%}
+.verdict{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:10px}
+.card ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px}
+.note{font-size:13px;color:var(--muted)}
+section{display:flex;flex-direction:column;gap:16px}
+@media (max-width:720px){
+  header{grid-template-columns:1fr}
+  .clock{text-align:left}
+  .lanes-head{grid-template-columns:1fr 1fr;padding-left:0}
+  .lanes-head .spacer{display:none}
+  .row{grid-template-columns:1fr 1fr}
+  .row .time{grid-column:1 / 3}
+  .common{grid-column:1 / 3}
+  .verdict{grid-template-columns:1fr}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div style="display:flex;flex-direction:column;gap:12px">
+      <span class="eyebrow">Simulación · miércoles 25/11 · grilla real</span>
+      <h1>Un día de P18, en tu Mac o en la nube</h1>
+      <p class="lede">Es el día real de mañana: 3 reels, 3 posts, un carrusel, 3 historias de repost y la frase. Tocá “Reproducir el día” y probá los interruptores para ver qué pasa en cada escenario cuando algo sale mal.</p>
+    </div>
+    <div class="clock" aria-live="polite"><span>Hora en Buenos Aires</span><b id="clock">23:30</b><span id="clockLabel">Aviso</span></div>
+  </header>
+
+  <div class="controls">
+    <button class="play" id="play" type="button">Reproducir el día</button>
+    <button class="ghost" id="all" type="button">Ver todo junto</button>
+    <label class="toggle"><input type="checkbox" id="macOff"><span class="sw" aria-hidden="true"></span>Mac apagada o dormida a la noche</label>
+    <label class="toggle"><input type="checkbox" id="ytBlock"><span class="sw" aria-hidden="true"></span>YouTube bloquea la descarga en la nube</label>
+  </div>
+
+  <section aria-label="Comparación hora por hora">
+    <div class="lanes-head">
+      <span class="spacer"></span>
+      <div class="lane-title"><span class="tag mac">Quedarse</span><h3>En Claude, en tu Mac</h3><small>Como hoy: tareas programadas de la app</small></div>
+      <div class="lane-title"><span class="tag cloud">Mudarse</span><h3>En la nube</h3><small>Panel en Cloudflare, Supabase, agentes en la nube</small></div>
+    </div>
+    <div class="rows" id="rows"></div>
+  </section>
+
+  <section>
+    <div style="display:flex;flex-direction:column;gap:6px">
+      <span class="eyebrow">Lo que sale en @p18 a las 23 h</span>
+      <h2 id="feedTitle">Lo que se publica</h2>
+      <p class="note" id="feedNote"></p>
+    </div>
+    <div class="feed" id="feed"></div>
+  </section>
+
+  <section>
+    <h2>La cuenta</h2>
+    <div class="tbl"><table>
+      <thead><tr><th></th><th>En Claude, en tu Mac</th><th>En la nube</th></tr></thead>
+      <tbody>
+        <tr><td>Qué tiene que estar prendido</td><td>La Mac despierta y la app de Claude abierta a la 01 h y a las 23 h</td><td>Nada tuyo. Corre en la nube aunque la Mac esté apagada</td></tr>
+        <tr><td>Cargar links desde el celu</td><td>Sí, abriendo la Biblioteca viva en claude.ai</td><td>Sí, en el panel P18 propio</td></tr>
+        <tr><td>Bajar videos de YouTube</td><td>Funciona: sale desde tu conexión de casa</td><td>Puede bloquearse. Se resuelve con un proxy residencial o un aparatito en casa</td></tr>
+        <tr><td>Si algo falla</td><td>Lo ves cuando abrís la app</td><td>Te llega un aviso por Telegram o mail</td></tr>
+        <tr><td>Costo por mes</td><td>0 extra (tu plan de Claude)</td><td>0 a 8 USD de servidor, más unos pocos USD de proxy si hace falta</td></tr>
+        <tr><td>Trabajo para llegar</td><td>Ninguno, ya está</td><td>Mudar la Biblioteca, armar el panel, preparar el servidor y probar YouTube: unos días</td></tr>
+        <tr><td>Calidad de las piezas</td><td>La de hoy</td><td>Igual: mismos agentes y mismas skills</td></tr>
+      </tbody>
+    </table></div>
+  </section>
+
+  <section>
+    <h2>Cuándo conviene cada uno</h2>
+    <div class="verdict">
+      <div class="card">
+        <span class="tag mac">Quedarse en Claude</span>
+        <ul>
+          <li>Si la Mac queda prendida casi todas las noches y no te molesta.</li>
+          <li>Si preferís no sumar cuentas ni servidores todavía.</li>
+          <li>Truco: que la Mac se despierte sola a las 00:55 y 22:55 desde Ajustes, con la app abierta.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <span class="tag cloud">Mudarse</span>
+        <ul>
+          <li>Si querés que P18 publique aunque estés de viaje o con la Mac cerrada.</li>
+          <li>Si querés avisos en el celu y ver todo desde el panel.</li>
+          <li>Paso intermedio sin riesgo: primero mudar la Biblioteca al panel y seguir corriendo en la Mac.</li>
+        </ul>
+      </div>
+    </div>
+    <p class="note">Simulación armada con la grilla del 25/11 de la Biblioteca viva. Los horarios son los de tus tareas programadas: preparar a la 01 h y publicar a las 23 h.</p>
+  </section>
+</div>
+
+<script>
+const S = [
+  {t:"Mar 24", label:"El día anterior", what:"Pegás dos links nuevos de YouTube",
+    mac:{how:"En la Biblioteca viva, desde claude.ai en la compu o el celu.", st:()=>["you","Lo hacés vos"]},
+    cloud:{how:"En el panel P18 (Cloudflare), desde cualquier lado.", st:()=>["you","Lo hacés vos"]}},
+  {t:"01:00", label:"Preparar", what:"Analizar los links y armar lo de hoy + 2 días",
+    mac:{how:"La tarea “Preparar y revisar” lanza al preparador: skills 0 a 4.",
+      st:s=>s.macOff?["late","No corre: espera a que abras la Mac"]:["ok","Corre en tu Mac"]},
+    cloud:{how:"n8n o una rutina en la nube lanza al mismo preparador, con las mismas skills.",
+      st:()=>["ok","Corre en la nube"]}},
+  {t:"01:10", label:"Clipear", what:"Bajar el video de Networking y cortar el clip del reel 1",
+    mac:{how:"yt-dlp desde tu conexión de casa; whisper y ffmpeg en la Mac.",
+      st:s=>s.macOff?["late","Pendiente"]:["ok","Clip listo"]},
+    cloud:{how:"yt-dlp desde el servidor; el reel terminado queda en Cloudflare R2.",
+      st:s=>s.ytBlock?["fail","YouTube pide verificación: el reel 1 queda sin clip"]:["ok","Clip listo"]}},
+  {t:"01:40", label:"Formato y textos", what:"Filtro P18, caption, comentario, post y repost del reel 1",
+    mac:{how:"p18-filtro, p18-publicar y p18-contenido; quedan en la carpeta del día.",
+      st:s=>s.macOff?["late","Pendiente"]:["ok","Listo"]},
+    cloud:{how:"Lo mismo; los textos van a Supabase y las imágenes a R2.",
+      st:s=>s.ytBlock?["fail","Sin clip, no hay reel 1 ni su post"]:["ok","Listo"]}},
+  {t:"02:20", label:"Revisar", what:"El revisor chequea que cada texto coincida con el video",
+    mac:{how:"Hasta 2 vueltas de corrección entre el revisor y el preparador.",
+      st:s=>s.macOff?["late","Pendiente"]:["ok","Aprobado"]},
+    cloud:{how:"Igual, en la misma corrida.",
+      st:s=>s.ytBlock?["late","Bloquea los slots 1 y 2"]:["ok","Aprobado"]}},
+  {t:"23:00", label:"Publicar", what:"Subir 3 reels, 3 posts, el carrusel, 3 historias y la frase",
+    mac:{how:"La tarea de las 23 h lanza al publicador: Instagram, y los reels también a YouTube y TikTok.",
+      st:s=>s.macOff?["fail","No publica: la Mac está dormida"]:["ok","Publicado"]},
+    cloud:{how:"El publicador corre en la nube y toma los videos de R2.",
+      st:s=>s.ytBlock?["late","Publica 5 de 7: saltea reel 1 y post 1"]:["ok","Publicado"]}},
+  {t:"23:30", label:"Aviso", what:"Te enterás de cómo salió",
+    mac:{how:"Lo ves al abrir la app de Claude.", st:s=>s.macOff?["late","Te enterás mañana"]:["you","Al abrir la app"]},
+    cloud:{how:"Te llega un resumen por Telegram o mail con los links.", st:()=>["ok","Aviso en el celu"]}}
+];
+
+const FEED = [
+  {k:"Reel 1", area:"Trabajo y oportunidades · Networking", cap:"Lo arma el preparador a la 01 h con un clip nuevo.", nuevo:true, slot:1},
+  {k:"Post 1", area:"Trabajo y oportunidades · Networking", cap:"Se escribe a partir del reel 1.", nuevo:true, slot:2},
+  {k:"Reel 2", area:"Pensamiento creativo · Copiar para aprender", cap:"El miedo no se va aunque ya hayas llegado lejos.", slot:3},
+  {k:"Post 2", area:"Pensamiento creativo", cap:"El miedo no es una señal de que no sirvas para esto.", slot:4},
+  {k:"Reel 3", area:"Autoconocimiento · Decisiones", cap:"Detrás de cada oportunidad hay un esfuerzo que no siempre ves.", slot:5},
+  {k:"Post 3", area:"Autoconocimiento", cap:"Casi todo lo que hoy tenés tuvo a alguien que se esforzó antes.", slot:6},
+  {k:"Carrusel", area:"Mentalidad aplicada · Estrategia", cap:"La bronca después de perder puede ser combustible.", slot:7},
+  {k:"Historias", area:"3 reposts de los reels", cap:"Cada una justo después de su reel.", slot:0},
+  {k:"Frase del día", area:"Historia", cap:"Ni el miedo ni la bronca deciden por vos: lo que cuenta es qué hacés con ellos.", slot:0}
+];
+
+const state = {macOff:false, ytBlock:false, step:S.length-1, playing:false};
+const rows = document.getElementById("rows");
+const feed = document.getElementById("feed");
+
+function pill(st){return '<span class="state '+st[0]+'">'+st[1]+'</span>';}
+
+function render(){
+  rows.innerHTML = S.map((s,i)=>{
+    const cls = i>state.step ? "future" : (i===state.step && state.playing ? "now" : "");
+    const common = i===0;
+    const lane = (side,c)=>'<div class="step"><span class="what">'+s.what+'</span><span class="how">'+c.how+'</span>'+pill(c.st(state))+'</div>';
+    return '<div class="row '+cls+'"><span class="time">'+s.t+'</span>'+lane("mac",s.mac)+lane("cloud",s.cloud)+'</div>';
+  }).join("");
+  const cur = S[Math.min(state.step,S.length-1)];
+  document.getElementById("clock").textContent = cur.t;
+  document.getElementById("clockLabel").textContent = cur.label;
+
+  const macFails = state.macOff, cloudSkips = state.ytBlock;
+  feed.innerHTML = FEED.map(f=>{
+    const skipped = f.slot===1||f.slot===2 ? cloudSkips : false;
+    const extra = macFails ? '<span class="state late">Tu Mac: no sale hoy</span>' : '<span class="state ok">Tu Mac: sale</span>';
+    const extraC = skipped ? '<span class="state fail">Nube: se saltea</span>' : '<span class="state ok">Nube: sale</span>';
+    return '<div class="piece'+(f.nuevo?' pending':'')+'"><div class="k"><span>'+f.k+'</span><span>'+(f.slot?('slot '+f.slot):'')+'</span></div><span class="area">'+f.area+'</span><span class="cap">'+f.cap+'</span><div style="display:flex;flex-wrap:wrap;gap:6px">'+extra+extraC+'</div></div>';
+  }).join("");
+  const n = [];
+  if(!macFails && !cloudSkips) n.push("Con todo en orden, los dos escenarios publican lo mismo.");
+  if(macFails) n.push("Con la Mac dormida, en Claude no sale nada hasta que la abras.");
+  if(cloudSkips) n.push("Con YouTube bloqueando la nube, salen 5 de 7 piezas y te avisa cuáles faltan.");
+  document.getElementById("feedNote").textContent = n.join(" ");
+}
+
+let timer=null;
+document.getElementById("play").addEventListener("click",()=>{
+  clearInterval(timer); state.playing=true; state.step=0; render();
+  timer=setInterval(()=>{ if(state.step>=S.length-1){clearInterval(timer);state.playing=false;render();return;} state.step++; render(); },1400);
+});
+document.getElementById("all").addEventListener("click",()=>{clearInterval(timer);state.playing=false;state.step=S.length-1;render();});
+document.getElementById("macOff").addEventListener("change",e=>{state.macOff=e.target.checked;render();});
+document.getElementById("ytBlock").addEventListener("change",e=>{state.ytBlock=e.target.checked;render();});
+render();
+</script>

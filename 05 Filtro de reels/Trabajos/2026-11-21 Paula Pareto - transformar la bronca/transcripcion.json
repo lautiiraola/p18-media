@@ -1,0 +1,752 @@
+{
+ "idioma": "es",
+ "duracion": 40.3,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 5.7,
+   "texto": "Y al mes del Panamericano y al año, bueno, del tema de la japonesa del Mundial,",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.44,
+     "p": "Y"
+    },
+    {
+     "ini": 0.44,
+     "fin": 0.68,
+     "p": "al"
+    },
+    {
+     "ini": 0.68,
+     "fin": 0.8,
+     "p": "mes"
+    },
+    {
+     "ini": 0.8,
+     "fin": 1.02,
+     "p": "del"
+    },
+    {
+     "ini": 1.02,
+     "fin": 1.8,
+     "p": "Panamericano"
+    },
+    {
+     "ini": 1.8,
+     "fin": 2.2,
+     "p": "y"
+    },
+    {
+     "ini": 2.2,
+     "fin": 2.42,
+     "p": "al"
+    },
+    {
+     "ini": 2.42,
+     "fin": 2.62,
+     "p": "año,"
+    },
+    {
+     "ini": 2.62,
+     "fin": 2.88,
+     "p": "bueno,"
+    },
+    {
+     "ini": 3.68,
+     "fin": 3.86,
+     "p": "del"
+    },
+    {
+     "ini": 3.86,
+     "fin": 4.08,
+     "p": "tema"
+    },
+    {
+     "ini": 4.08,
+     "fin": 4.2,
+     "p": "de"
+    },
+    {
+     "ini": 4.2,
+     "fin": 4.38,
+     "p": "la"
+    },
+    {
+     "ini": 4.38,
+     "fin": 4.8,
+     "p": "japonesa"
+    },
+    {
+     "ini": 4.8,
+     "fin": 4.94,
+     "p": "del"
+    },
+    {
+     "ini": 4.94,
+     "fin": 5.7,
+     "p": "Mundial,"
+    }
+   ]
+  },
+  {
+   "ini": 5.86,
+   "fin": 11.08,
+   "texto": "vuelvo a una final con una japonesa y yo digo, esta final no se me va a escapar.",
+   "palabras": [
+    {
+     "ini": 5.86,
+     "fin": 6.3,
+     "p": "vuelvo"
+    },
+    {
+     "ini": 6.3,
+     "fin": 6.44,
+     "p": "a"
+    },
+    {
+     "ini": 6.44,
+     "fin": 6.62,
+     "p": "una"
+    },
+    {
+     "ini": 6.62,
+     "fin": 6.94,
+     "p": "final"
+    },
+    {
+     "ini": 6.94,
+     "fin": 7.74,
+     "p": "con"
+    },
+    {
+     "ini": 7.74,
+     "fin": 7.96,
+     "p": "una"
+    },
+    {
+     "ini": 7.96,
+     "fin": 8.5,
+     "p": "japonesa"
+    },
+    {
+     "ini": 8.5,
+     "fin": 8.64,
+     "p": "y"
+    },
+    {
+     "ini": 8.64,
+     "fin": 8.84,
+     "p": "yo"
+    },
+    {
+     "ini": 8.84,
+     "fin": 9.06,
+     "p": "digo,"
+    },
+    {
+     "ini": 9.48,
+     "fin": 9.54,
+     "p": "esta"
+    },
+    {
+     "ini": 9.54,
+     "fin": 9.88,
+     "p": "final"
+    },
+    {
+     "ini": 9.88,
+     "fin": 10.14,
+     "p": "no"
+    },
+    {
+     "ini": 10.14,
+     "fin": 10.3,
+     "p": "se"
+    },
+    {
+     "ini": 10.3,
+     "fin": 10.32,
+     "p": "me"
+    },
+    {
+     "ini": 10.32,
+     "fin": 10.44,
+     "p": "va"
+    },
+    {
+     "ini": 10.44,
+     "fin": 10.46,
+     "p": "a"
+    },
+    {
+     "ini": 10.46,
+     "fin": 11.08,
+     "p": "escapar."
+    }
+   ]
+  },
+  {
+   "ini": 11.5,
+   "fin": 15.02,
+   "texto": "Ya perdí hace un mes y me sentí con mucha bronca y mucha impotencia",
+   "palabras": [
+    {
+     "ini": 11.5,
+     "fin": 11.7,
+     "p": "Ya"
+    },
+    {
+     "ini": 11.7,
+     "fin": 11.96,
+     "p": "perdí"
+    },
+    {
+     "ini": 11.96,
+     "fin": 12.08,
+     "p": "hace"
+    },
+    {
+     "ini": 12.08,
+     "fin": 12.26,
+     "p": "un"
+    },
+    {
+     "ini": 12.26,
+     "fin": 12.44,
+     "p": "mes"
+    },
+    {
+     "ini": 12.44,
+     "fin": 12.72,
+     "p": "y"
+    },
+    {
+     "ini": 12.72,
+     "fin": 12.9,
+     "p": "me"
+    },
+    {
+     "ini": 12.9,
+     "fin": 13.16,
+     "p": "sentí"
+    },
+    {
+     "ini": 13.16,
+     "fin": 13.4,
+     "p": "con"
+    },
+    {
+     "ini": 13.4,
+     "fin": 13.66,
+     "p": "mucha"
+    },
+    {
+     "ini": 13.66,
+     "fin": 14.04,
+     "p": "bronca"
+    },
+    {
+     "ini": 14.04,
+     "fin": 14.2,
+     "p": "y"
+    },
+    {
+     "ini": 14.2,
+     "fin": 14.4,
+     "p": "mucha"
+    },
+    {
+     "ini": 14.4,
+     "fin": 15.02,
+     "p": "impotencia"
+    }
+   ]
+  },
+  {
+   "ini": 15.02,
+   "fin": 16.3,
+   "texto": "y no quiero que me vuelva a pasar.",
+   "palabras": [
+    {
+     "ini": 15.02,
+     "fin": 15.34,
+     "p": "y"
+    },
+    {
+     "ini": 15.34,
+     "fin": 15.52,
+     "p": "no"
+    },
+    {
+     "ini": 15.52,
+     "fin": 15.64,
+     "p": "quiero"
+    },
+    {
+     "ini": 15.64,
+     "fin": 15.78,
+     "p": "que"
+    },
+    {
+     "ini": 15.78,
+     "fin": 15.88,
+     "p": "me"
+    },
+    {
+     "ini": 15.88,
+     "fin": 16.02,
+     "p": "vuelva"
+    },
+    {
+     "ini": 16.02,
+     "fin": 16.12,
+     "p": "a"
+    },
+    {
+     "ini": 16.12,
+     "fin": 16.3,
+     "p": "pasar."
+    }
+   ]
+  },
+  {
+   "ini": 16.4,
+   "fin": 19.56,
+   "texto": "Y ya me pasó hace un año con una japonesa también.",
+   "palabras": [
+    {
+     "ini": 16.4,
+     "fin": 16.56,
+     "p": "Y"
+    },
+    {
+     "ini": 16.56,
+     "fin": 16.64,
+     "p": "ya"
+    },
+    {
+     "ini": 16.64,
+     "fin": 16.86,
+     "p": "me"
+    },
+    {
+     "ini": 16.86,
+     "fin": 17.0,
+     "p": "pasó"
+    },
+    {
+     "ini": 17.0,
+     "fin": 17.18,
+     "p": "hace"
+    },
+    {
+     "ini": 17.18,
+     "fin": 17.38,
+     "p": "un"
+    },
+    {
+     "ini": 17.38,
+     "fin": 17.64,
+     "p": "año"
+    },
+    {
+     "ini": 17.64,
+     "fin": 18.48,
+     "p": "con"
+    },
+    {
+     "ini": 18.48,
+     "fin": 18.72,
+     "p": "una"
+    },
+    {
+     "ini": 18.72,
+     "fin": 19.18,
+     "p": "japonesa"
+    },
+    {
+     "ini": 19.18,
+     "fin": 19.56,
+     "p": "también."
+    }
+   ]
+  },
+  {
+   "ini": 19.98,
+   "fin": 22.14,
+   "texto": "Y ya me sentí con mucha bronca y mucha impotencia.",
+   "palabras": [
+    {
+     "ini": 19.98,
+     "fin": 20.2,
+     "p": "Y"
+    },
+    {
+     "ini": 20.2,
+     "fin": 20.34,
+     "p": "ya"
+    },
+    {
+     "ini": 20.34,
+     "fin": 20.48,
+     "p": "me"
+    },
+    {
+     "ini": 20.48,
+     "fin": 20.76,
+     "p": "sentí"
+    },
+    {
+     "ini": 20.76,
+     "fin": 20.98,
+     "p": "con"
+    },
+    {
+     "ini": 20.98,
+     "fin": 21.18,
+     "p": "mucha"
+    },
+    {
+     "ini": 21.18,
+     "fin": 21.42,
+     "p": "bronca"
+    },
+    {
+     "ini": 21.42,
+     "fin": 21.56,
+     "p": "y"
+    },
+    {
+     "ini": 21.56,
+     "fin": 21.72,
+     "p": "mucha"
+    },
+    {
+     "ini": 21.72,
+     "fin": 22.14,
+     "p": "impotencia."
+    }
+   ]
+  },
+  {
+   "ini": 22.7,
+   "fin": 26.06,
+   "texto": "Entonces, como que transformé esa bronca impotencia del momento",
+   "palabras": [
+    {
+     "ini": 22.7,
+     "fin": 23.14,
+     "p": "Entonces,"
+    },
+    {
+     "ini": 23.32,
+     "fin": 23.42,
+     "p": "como"
+    },
+    {
+     "ini": 23.42,
+     "fin": 23.82,
+     "p": "que"
+    },
+    {
+     "ini": 23.82,
+     "fin": 24.26,
+     "p": "transformé"
+    },
+    {
+     "ini": 24.26,
+     "fin": 24.44,
+     "p": "esa"
+    },
+    {
+     "ini": 24.44,
+     "fin": 24.72,
+     "p": "bronca"
+    },
+    {
+     "ini": 24.72,
+     "fin": 25.26,
+     "p": "impotencia"
+    },
+    {
+     "ini": 25.26,
+     "fin": 25.5,
+     "p": "del"
+    },
+    {
+     "ini": 25.5,
+     "fin": 26.06,
+     "p": "momento"
+    }
+   ]
+  },
+  {
+   "ini": 26.06,
+   "fin": 31.22,
+   "texto": "Y yo creo que fue el punto de partida para que en esa competencia sí logre ganar,",
+   "palabras": [
+    {
+     "ini": 26.06,
+     "fin": 26.84,
+     "p": "Y"
+    },
+    {
+     "ini": 26.84,
+     "fin": 27.02,
+     "p": "yo"
+    },
+    {
+     "ini": 27.02,
+     "fin": 27.12,
+     "p": "creo"
+    },
+    {
+     "ini": 27.12,
+     "fin": 27.36,
+     "p": "que"
+    },
+    {
+     "ini": 27.36,
+     "fin": 27.54,
+     "p": "fue"
+    },
+    {
+     "ini": 27.54,
+     "fin": 27.78,
+     "p": "el"
+    },
+    {
+     "ini": 27.78,
+     "fin": 28.14,
+     "p": "punto"
+    },
+    {
+     "ini": 28.14,
+     "fin": 28.32,
+     "p": "de"
+    },
+    {
+     "ini": 28.32,
+     "fin": 28.72,
+     "p": "partida"
+    },
+    {
+     "ini": 28.72,
+     "fin": 29.12,
+     "p": "para"
+    },
+    {
+     "ini": 29.12,
+     "fin": 29.52,
+     "p": "que"
+    },
+    {
+     "ini": 29.52,
+     "fin": 29.7,
+     "p": "en"
+    },
+    {
+     "ini": 29.7,
+     "fin": 29.92,
+     "p": "esa"
+    },
+    {
+     "ini": 29.92,
+     "fin": 30.54,
+     "p": "competencia"
+    },
+    {
+     "ini": 30.54,
+     "fin": 30.74,
+     "p": "sí"
+    },
+    {
+     "ini": 30.74,
+     "fin": 30.94,
+     "p": "logre"
+    },
+    {
+     "ini": 30.94,
+     "fin": 31.22,
+     "p": "ganar,"
+    }
+   ]
+  },
+  {
+   "ini": 31.36,
+   "fin": 38.48,
+   "texto": "que fue una diferencia mínima, pero creo que esa diferencia mínima la hizo justamente el sentarme un ratito antes de la competencia,",
+   "palabras": [
+    {
+     "ini": 31.36,
+     "fin": 31.38,
+     "p": "que"
+    },
+    {
+     "ini": 31.38,
+     "fin": 31.52,
+     "p": "fue"
+    },
+    {
+     "ini": 31.52,
+     "fin": 31.66,
+     "p": "una"
+    },
+    {
+     "ini": 31.66,
+     "fin": 32.1,
+     "p": "diferencia"
+    },
+    {
+     "ini": 32.1,
+     "fin": 32.86,
+     "p": "mínima,"
+    },
+    {
+     "ini": 33.08,
+     "fin": 33.16,
+     "p": "pero"
+    },
+    {
+     "ini": 33.16,
+     "fin": 33.3,
+     "p": "creo"
+    },
+    {
+     "ini": 33.3,
+     "fin": 33.44,
+     "p": "que"
+    },
+    {
+     "ini": 33.44,
+     "fin": 33.56,
+     "p": "esa"
+    },
+    {
+     "ini": 33.56,
+     "fin": 34.02,
+     "p": "diferencia"
+    },
+    {
+     "ini": 34.02,
+     "fin": 34.36,
+     "p": "mínima"
+    },
+    {
+     "ini": 34.36,
+     "fin": 34.54,
+     "p": "la"
+    },
+    {
+     "ini": 34.54,
+     "fin": 34.78,
+     "p": "hizo"
+    },
+    {
+     "ini": 34.78,
+     "fin": 35.28,
+     "p": "justamente"
+    },
+    {
+     "ini": 35.28,
+     "fin": 35.5,
+     "p": "el"
+    },
+    {
+     "ini": 35.5,
+     "fin": 36.22,
+     "p": "sentarme"
+    },
+    {
+     "ini": 36.22,
+     "fin": 36.48,
+     "p": "un"
+    },
+    {
+     "ini": 36.48,
+     "fin": 36.84,
+     "p": "ratito"
+    },
+    {
+     "ini": 36.84,
+     "fin": 37.14,
+     "p": "antes"
+    },
+    {
+     "ini": 37.14,
+     "fin": 37.96,
+     "p": "de"
+    },
+    {
+     "ini": 37.96,
+     "fin": 38.06,
+     "p": "la"
+    },
+    {
+     "ini": 38.06,
+     "fin": 38.48,
+     "p": "competencia,"
+    }
+   ]
+  },
+  {
+   "ini": 38.58,
+   "fin": 40.02,
+   "texto": "es decir, no se me va a escapar de vuelta.",
+   "palabras": [
+    {
+     "ini": 38.58,
+     "fin": 38.58,
+     "p": "es"
+    },
+    {
+     "ini": 38.58,
+     "fin": 38.78,
+     "p": "decir,"
+    },
+    {
+     "ini": 38.9,
+     "fin": 39.04,
+     "p": "no"
+    },
+    {
+     "ini": 39.04,
+     "fin": 39.14,
+     "p": "se"
+    },
+    {
+     "ini": 39.14,
+     "fin": 39.2,
+     "p": "me"
+    },
+    {
+     "ini": 39.2,
+     "fin": 39.32,
+     "p": "va"
+    },
+    {
+     "ini": 39.32,
+     "fin": 39.32,
+     "p": "a"
+    },
+    {
+     "ini": 39.32,
+     "fin": 39.64,
+     "p": "escapar"
+    },
+    {
+     "ini": 39.64,
+     "fin": 39.78,
+     "p": "de"
+    },
+    {
+     "ini": 39.78,
+     "fin": 40.02,
+     "p": "vuelta."
+    }
+   ]
+  }
+ ]
+}

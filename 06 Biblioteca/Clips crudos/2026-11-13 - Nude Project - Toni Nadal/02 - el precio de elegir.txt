@@ -1,0 +1,26 @@
+CLIP 02 — NO ES SACRIFICIO: ES EL PRECIO DE LO QUE ELEGISTE
+
+Inicio:     21:56.2  (1316.18 s)
+Fin:        22:54.7  (1374.73 s)
+Duración:   58.5 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  NO ES SACRIFICIO: ES EL PRECIO DE LO QUE ELEGISTE   (en el reel, en lima: PRECIO)
+Departamento:     Deporte y mentalidad
+Área:             Mentalidad aplicada
+Tema:             Renuncias y elecciones
+Fuente:           Nude Project - Toni Nadal — "La mente detrás de Rafael Nadal, Toni Nadal"
+                  https://www.youtube.com/watch?v=kXF9-_UTNJM&t=1316s
+
+Por qué lo elegí:
+Idea clara para chicos que eligen carrera o proyecto: todo lo que elegís implica renunciar a algo; si no te compensa, cambiá. Distingue sacrificio (por otro) de precio (por vos).
+
+Gancho (primeros 3 s): Es que en la vida es un tema de renuncias, siempre.
+
+Notas para la revisión: Nombra a Alcaraz y una referencia a Jesucristo como ejemplo de sacrificio; se entiende sin contexto. Corta antes de la parte de que gana más dinero.
+
+Transcripción del clip:
+es que en la vida es un tema de renuncias. Siempre no es un tema solo de hacer lo que yo quiero. Tú tienes que renunciar. Hay a veces a la gente le compensa y a veces no. ¿Sabes? Si no te compensa, mejor que cambies de trabajo. Espero que Alcaraz no lo cambie, evidentemente, porque es uno de los mejores del mundo. Pero uno tiene que asumir, el reto tiene que asumir que lo que uno está haciendo en la vida va a comportar una serie de renuncias. Yo no hablo de sacrificios, porque el sacrificio entiendo que es lo que tú haces por otro. El sacrificio que hizo Jesucristo teóricamente lo hizo por otros. cuando tú lo haces por ti, es el precio que tienes que pagar,
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - Nude Project - Toni Nadal/02 - el precio de elegir.mp4" "NO ES SACRIFICIO: ES EL *PRECIO* DE LO QUE ELEGISTE" --fuente "Nude Project - Toni Nadal"

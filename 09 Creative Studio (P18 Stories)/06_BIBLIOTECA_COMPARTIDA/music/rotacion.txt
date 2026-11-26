@@ -1,0 +1,8 @@
+ROTACIÓN DE CAMAS MUSICALES — P18 STORIES
+Regla (operador, 2026-11-24): no repetir la misma cama en videos seguidos. Variar también los SFX.
+
+video_id | cama | fuente / licencia | notas
+P18-001 | cama_p18.wav | P18, uso autorizado | 
+P18-002 | cama_p18.wav (tramo 30–82 s) | P18, uso autorizado | 
+P18-003 | Kevin MacLeod, "On the Passing of Time" (tramo de 59,5 a 103 s) | CC BY 3.0, Wikimedia Commons | Piano. SFX nuevos: golpe_grave y swell (síntesis propia)
+P18-004 | (otra: no MacLeod "Passing of Time" ni cama_p18) | | 

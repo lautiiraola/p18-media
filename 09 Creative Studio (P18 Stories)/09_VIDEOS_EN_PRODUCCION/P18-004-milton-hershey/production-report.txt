@@ -1,0 +1,17 @@
+PRODUCTION REPORT
+
+Video ID:
+Título:
+Protagonista:
+Modo de creación:
+Duración:
+Versión master:
+Resumen creativo:
+Fuentes principales:
+Assets y licencias:
+Componentes reutilizados:
+Componentes nuevos promovidos:
+Problemas encontrados:
+Decisiones tomadas:
+Comandos de render:
+Resultado de QA:

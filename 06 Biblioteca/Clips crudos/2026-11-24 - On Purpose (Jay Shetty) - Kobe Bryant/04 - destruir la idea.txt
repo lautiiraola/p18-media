@@ -1,0 +1,24 @@
+CLIP 04 — MI MÉTODO: TRATAR DE DESTRUIR MI PROPIA IDEA
+
+Inicio:     37:17.4  (2237.42 s)
+Fin:        38:00.1  (2280.05 s)
+Duración:   36.6 s
+Corte:      recortado a mano en los bordes (24/11) · ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  MI MÉTODO: TRATAR DE DESTRUIR MI PROPIA IDEA   (en el reel, en lima: DESTRUIR)
+Departamento:     Creatividad
+Área:             Pensamiento creativo
+Tema:             Buscarle los agujeros a tu idea antes de hacerla
+Fuente:           On Purpose (Jay Shetty) - Kobe Bryant — "Jay Shetty & Kobe Bryant: ON How to be Strategic & Obsessive to Find Your Purpose"
+                  https://www.youtube.com/watch?v=C5UWJRSRZh8&t=2237s
+
+Por qué lo elegí:
+Herramienta concreta para cualquier proyecto: antes de enamorarte de una idea, buscá todo lo que puede fallar. Kobe lo usó para su show y sus novelas.
+
+Gancho (primeros 3 s): What I try to do is shoot the idea down
+
+Transcripción del clip:
+now, build around it. I try to, what I try to do is shoot the idea down and figure out everything that's wrong with the idea. Ooh, okay. Right, this show won't work because, like detail for example, like this show won't work because it's not for fans. It's for the 1 % athlete. Yeah. All right, well, will it be successful? People connect to it. Like, you know, you start unpacking every little thing. How will we shoot it? Can I even get Peyton Manning to do it? Could I get, you know? and you start shooting them down. Same thing with the novels, like characters and plots and stories. Does this make any sense? No, here's why. Pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop. And I felt like that really helps me. Yeah, I like that approach a lot actually, because I think sometimes, especially right now in the world, we
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-24 - On Purpose (Jay Shetty) - Kobe Bryant/04 - destruir la idea.mp4" "MI MÉTODO: TRATAR DE *DESTRUIR* MI PROPIA IDEA" --fuente "On Purpose (Jay Shetty) - Kobe Bryant"

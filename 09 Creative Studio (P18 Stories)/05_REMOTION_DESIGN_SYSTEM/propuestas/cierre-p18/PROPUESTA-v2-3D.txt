@@ -1,0 +1,47 @@
+CIERRE FIJO — v2 (3D) — P18 STORIES — APROBADO (2026-11-24)
+El operador eligió la línea "Mentalidad emprendedora para los jóvenes." (subrayado en "los jóvenes").
+"El número que se vuelve 18" — 2026-11-24
+Reemplaza la v1 (PROPUESTA.txt, texto plano), descartada por el operador: era demasiado genérica y tenía llamados a la acción directos ("seguí", "conocé").
+
+CRITERIO DEL OPERADOR
+- La invitación a seguir a P18 tiene que ser indirecta: que el cierre sea tan bueno que den ganas de seguirlos.
+- Línea de identidad tipo "Proyecto 18, implementamos la mentalidad emprendedora en jóvenes", pero sin que suene genérica.
+- La mejor tecnología disponible y un resultado realista.
+
+QUÉ HACE (3,0 s, sin voz)
+0,00–0,75  El número de la historia gira como odómetro, con su etiqueta en clay ("19 · dijeron que no" / "5127 · prototipos").
+0,75–1,05  Cae en 18 y el 18 plano se transforma en un 18 3D real.
+1,05–1,60  Entra la "P" en 3D y se forma P18.
+1,20–2,60  Una luz barre la superficie; la cámara orbita y se acerca lento; sombra suave en el piso.
+1,55–3,00  Debajo: "PROYECTO 18" / "Mentalidad emprendedora desde los 18." (subrayado lima en "desde los 18") / @proyecto18.ar como firma. Ningún verbo de acción.
+
+TECNOLOGÍA
+- 3D real dentro de Remotion: @remotion/three 4.0.545 + three.js 0.170 + React Three Fiber 9.1.2, render WebGL con ANGLE.
+- El logo usa la tipografía real: contornos de Manrope ExtraBold (wght 800), extraídos con fontTools de la fuente de la biblioteca y extruidos con bisel de 8 segmentos.
+  Script: runtime/scripts/extract_glyphs.py → src/assets/p18-glyphs.json.
+- Material físico (MeshPhysicalMaterial con clearcoat) en el lima de marca #C2F542. Reflejos de un entorno procedural (RoomEnvironment + PMREM), sin archivos remotos.
+- Iluminación: key con sombras suaves PCF de 2048 px, spot que barre la superficie y contraluz azul P18. Tone mapping Neutral para no desaturar el lima.
+- Todo es determinista por cuadro: no hay animaciones por tiempo real.
+
+LÍNEA DE IDENTIDAD
+- Propuesta: "Mentalidad emprendedora desde los 18."
+  Toma la idea del operador ("mentalidad emprendedora en jóvenes") y la ata al número del cierre, así no queda como una frase institucional genérica.
+- Alternativas para elegir:
+  · "Mentalidad emprendedora, a los 18."
+  · "Donde la mentalidad emprendedora empieza a los 18."
+  · "Proyecto 18. Formamos la mentalidad emprendedora de los que tienen 18."
+- Cambiar la línea es un solo campo en los props ("line" y "lineAccent").
+
+DURACIÓN
+- Igual que la v1: 3,0 s.
+- P18-002 con cierre: 49,85 s (entra en la regla de 30–50 s).
+- Futuros guiones: tope de unas 108 palabras.
+
+PREVIEWS
+- preview-cierre3d-P18-002-galperin.mp4 (los últimos 8,9 s)
+- preview-cierre3d-P18-001-dyson.mp4 (los últimos 8,4 s)
+Los videos archivados siguen sin tocar.
+
+SI SE APRUEBA
+1. Generar el master v02 de P18-001 y P18-002 con este cierre, sin pisar los v01.
+2. Fijarlo como cierre obligatorio en CLAUDE.txt, story-format.txt, la plantilla (build_props), el checklist y la memoria. El tope del guion baja a 108 palabras.

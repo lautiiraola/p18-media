@@ -1,0 +1,1082 @@
+{
+ "idioma": "es",
+ "duracion": 57.4,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 3.06,
+   "texto": "Y me acuerdo que en ese torneo me fue mal, muy mal.",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.16,
+     "p": "Y"
+    },
+    {
+     "ini": 0.16,
+     "fin": 0.36,
+     "p": "me"
+    },
+    {
+     "ini": 0.36,
+     "fin": 0.56,
+     "p": "acuerdo"
+    },
+    {
+     "ini": 0.56,
+     "fin": 0.74,
+     "p": "que"
+    },
+    {
+     "ini": 0.74,
+     "fin": 0.88,
+     "p": "en"
+    },
+    {
+     "ini": 0.88,
+     "fin": 1.02,
+     "p": "ese"
+    },
+    {
+     "ini": 1.02,
+     "fin": 1.38,
+     "p": "torneo"
+    },
+    {
+     "ini": 1.38,
+     "fin": 1.56,
+     "p": "me"
+    },
+    {
+     "ini": 1.56,
+     "fin": 1.7,
+     "p": "fue"
+    },
+    {
+     "ini": 1.7,
+     "fin": 2.02,
+     "p": "mal,"
+    },
+    {
+     "ini": 2.16,
+     "fin": 2.42,
+     "p": "muy"
+    },
+    {
+     "ini": 2.42,
+     "fin": 3.06,
+     "p": "mal."
+    }
+   ]
+  },
+  {
+   "ini": 3.5,
+   "fin": 6.72,
+   "texto": "Va, gané dos luchas, perdí dos, pero para mí me había ido mal,",
+   "palabras": [
+    {
+     "ini": 3.5,
+     "fin": 3.86,
+     "p": "Va,"
+    },
+    {
+     "ini": 4.26,
+     "fin": 4.44,
+     "p": "gané"
+    },
+    {
+     "ini": 4.44,
+     "fin": 4.54,
+     "p": "dos"
+    },
+    {
+     "ini": 4.54,
+     "fin": 4.98,
+     "p": "luchas,"
+    },
+    {
+     "ini": 5.02,
+     "fin": 5.32,
+     "p": "perdí"
+    },
+    {
+     "ini": 5.32,
+     "fin": 5.44,
+     "p": "dos,"
+    },
+    {
+     "ini": 5.52,
+     "fin": 5.72,
+     "p": "pero"
+    },
+    {
+     "ini": 5.72,
+     "fin": 5.92,
+     "p": "para"
+    },
+    {
+     "ini": 5.92,
+     "fin": 6.04,
+     "p": "mí"
+    },
+    {
+     "ini": 6.04,
+     "fin": 6.18,
+     "p": "me"
+    },
+    {
+     "ini": 6.18,
+     "fin": 6.28,
+     "p": "había"
+    },
+    {
+     "ini": 6.28,
+     "fin": 6.44,
+     "p": "ido"
+    },
+    {
+     "ini": 6.44,
+     "fin": 6.72,
+     "p": "mal,"
+    }
+   ]
+  },
+  {
+   "ini": 6.78,
+   "fin": 11.38,
+   "texto": "no me había sentido bien cómo había luchado y sí,",
+   "palabras": [
+    {
+     "ini": 6.78,
+     "fin": 6.92,
+     "p": "no"
+    },
+    {
+     "ini": 6.92,
+     "fin": 7.0,
+     "p": "me"
+    },
+    {
+     "ini": 7.0,
+     "fin": 7.16,
+     "p": "había"
+    },
+    {
+     "ini": 7.16,
+     "fin": 7.52,
+     "p": "sentido"
+    },
+    {
+     "ini": 7.52,
+     "fin": 7.88,
+     "p": "bien"
+    },
+    {
+     "ini": 7.88,
+     "fin": 8.08,
+     "p": "cómo"
+    },
+    {
+     "ini": 8.08,
+     "fin": 8.3,
+     "p": "había"
+    },
+    {
+     "ini": 8.3,
+     "fin": 9.44,
+     "p": "luchado"
+    },
+    {
+     "ini": 9.44,
+     "fin": 11.04,
+     "p": "y"
+    },
+    {
+     "ini": 11.04,
+     "fin": 11.38,
+     "p": "sí,"
+    }
+   ]
+  },
+  {
+   "ini": 11.52,
+   "fin": 13.96,
+   "texto": "empecé a decir que le decía a los compañeros con los que estaba,",
+   "palabras": [
+    {
+     "ini": 11.52,
+     "fin": 11.74,
+     "p": "empecé"
+    },
+    {
+     "ini": 11.74,
+     "fin": 11.88,
+     "p": "a"
+    },
+    {
+     "ini": 11.88,
+     "fin": 12.08,
+     "p": "decir"
+    },
+    {
+     "ini": 12.08,
+     "fin": 12.58,
+     "p": "que"
+    },
+    {
+     "ini": 12.58,
+     "fin": 12.74,
+     "p": "le"
+    },
+    {
+     "ini": 12.74,
+     "fin": 12.88,
+     "p": "decía"
+    },
+    {
+     "ini": 12.88,
+     "fin": 13.0,
+     "p": "a"
+    },
+    {
+     "ini": 13.0,
+     "fin": 13.1,
+     "p": "los"
+    },
+    {
+     "ini": 13.1,
+     "fin": 13.42,
+     "p": "compañeros"
+    },
+    {
+     "ini": 13.42,
+     "fin": 13.54,
+     "p": "con"
+    },
+    {
+     "ini": 13.54,
+     "fin": 13.64,
+     "p": "los"
+    },
+    {
+     "ini": 13.64,
+     "fin": 13.8,
+     "p": "que"
+    },
+    {
+     "ini": 13.8,
+     "fin": 13.96,
+     "p": "estaba,"
+    }
+   ]
+  },
+  {
+   "ini": 14.16,
+   "fin": 15.82,
+   "texto": "no, ya está, yo no sirvo para esto.",
+   "palabras": [
+    {
+     "ini": 14.16,
+     "fin": 14.3,
+     "p": "no,"
+    },
+    {
+     "ini": 14.3,
+     "fin": 14.52,
+     "p": "ya"
+    },
+    {
+     "ini": 14.52,
+     "fin": 14.64,
+     "p": "está,"
+    },
+    {
+     "ini": 14.68,
+     "fin": 14.84,
+     "p": "yo"
+    },
+    {
+     "ini": 14.84,
+     "fin": 15.02,
+     "p": "no"
+    },
+    {
+     "ini": 15.02,
+     "fin": 15.24,
+     "p": "sirvo"
+    },
+    {
+     "ini": 15.24,
+     "fin": 15.54,
+     "p": "para"
+    },
+    {
+     "ini": 15.54,
+     "fin": 15.82,
+     "p": "esto."
+    }
+   ]
+  },
+  {
+   "ini": 16.0,
+   "fin": 18.32,
+   "texto": "Después de Beijing, porque ya estaba clasificada,",
+   "palabras": [
+    {
+     "ini": 16.0,
+     "fin": 16.2,
+     "p": "Después"
+    },
+    {
+     "ini": 16.2,
+     "fin": 16.36,
+     "p": "de"
+    },
+    {
+     "ini": 16.36,
+     "fin": 16.68,
+     "p": "Beijing,"
+    },
+    {
+     "ini": 16.98,
+     "fin": 17.16,
+     "p": "porque"
+    },
+    {
+     "ini": 17.16,
+     "fin": 17.38,
+     "p": "ya"
+    },
+    {
+     "ini": 17.38,
+     "fin": 17.5,
+     "p": "estaba"
+    },
+    {
+     "ini": 17.5,
+     "fin": 18.32,
+     "p": "clasificada,"
+    }
+   ]
+  },
+  {
+   "ini": 18.72,
+   "fin": 21.12,
+   "texto": "había que ir al Juego Olímpico, yo me voy a retirar",
+   "palabras": [
+    {
+     "ini": 18.72,
+     "fin": 18.78,
+     "p": "había"
+    },
+    {
+     "ini": 18.78,
+     "fin": 18.88,
+     "p": "que"
+    },
+    {
+     "ini": 18.88,
+     "fin": 18.98,
+     "p": "ir"
+    },
+    {
+     "ini": 18.98,
+     "fin": 19.08,
+     "p": "al"
+    },
+    {
+     "ini": 19.08,
+     "fin": 19.22,
+     "p": "Juego"
+    },
+    {
+     "ini": 19.22,
+     "fin": 19.72,
+     "p": "Olímpico,"
+    },
+    {
+     "ini": 20.02,
+     "fin": 20.2,
+     "p": "yo"
+    },
+    {
+     "ini": 20.2,
+     "fin": 20.34,
+     "p": "me"
+    },
+    {
+     "ini": 20.34,
+     "fin": 20.48,
+     "p": "voy"
+    },
+    {
+     "ini": 20.48,
+     "fin": 20.62,
+     "p": "a"
+    },
+    {
+     "ini": 20.62,
+     "fin": 21.12,
+     "p": "retirar"
+    }
+   ]
+  },
+  {
+   "ini": 21.12,
+   "fin": 24.14,
+   "texto": "porque ya está, no sirvo, o sea, no me sentía bien,",
+   "palabras": [
+    {
+     "ini": 21.12,
+     "fin": 21.5,
+     "p": "porque"
+    },
+    {
+     "ini": 21.5,
+     "fin": 21.84,
+     "p": "ya"
+    },
+    {
+     "ini": 21.84,
+     "fin": 21.98,
+     "p": "está,"
+    },
+    {
+     "ini": 22.06,
+     "fin": 22.22,
+     "p": "no"
+    },
+    {
+     "ini": 22.22,
+     "fin": 22.54,
+     "p": "sirvo,"
+    },
+    {
+     "ini": 22.6,
+     "fin": 22.68,
+     "p": "o"
+    },
+    {
+     "ini": 22.68,
+     "fin": 22.8,
+     "p": "sea,"
+    },
+    {
+     "ini": 22.8,
+     "fin": 23.2,
+     "p": "no"
+    },
+    {
+     "ini": 23.2,
+     "fin": 23.42,
+     "p": "me"
+    },
+    {
+     "ini": 23.42,
+     "fin": 23.74,
+     "p": "sentía"
+    },
+    {
+     "ini": 23.74,
+     "fin": 24.14,
+     "p": "bien,"
+    }
+   ]
+  },
+  {
+   "ini": 24.28,
+   "fin": 27.6,
+   "texto": "es como que me pasó esto de frustrarme, de llorar mucho,",
+   "palabras": [
+    {
+     "ini": 24.28,
+     "fin": 24.36,
+     "p": "es"
+    },
+    {
+     "ini": 24.36,
+     "fin": 24.52,
+     "p": "como"
+    },
+    {
+     "ini": 24.52,
+     "fin": 25.2,
+     "p": "que"
+    },
+    {
+     "ini": 25.2,
+     "fin": 25.38,
+     "p": "me"
+    },
+    {
+     "ini": 25.38,
+     "fin": 25.52,
+     "p": "pasó"
+    },
+    {
+     "ini": 25.52,
+     "fin": 25.74,
+     "p": "esto"
+    },
+    {
+     "ini": 25.74,
+     "fin": 26.2,
+     "p": "de"
+    },
+    {
+     "ini": 26.2,
+     "fin": 26.8,
+     "p": "frustrarme,"
+    },
+    {
+     "ini": 26.86,
+     "fin": 26.96,
+     "p": "de"
+    },
+    {
+     "ini": 26.96,
+     "fin": 27.24,
+     "p": "llorar"
+    },
+    {
+     "ini": 27.24,
+     "fin": 27.6,
+     "p": "mucho,"
+    }
+   ]
+  },
+  {
+   "ini": 28.06,
+   "fin": 32.12,
+   "texto": "de no sentir que había hecho bien las cosas, porque eso fue lo que más me dolió creo.",
+   "palabras": [
+    {
+     "ini": 28.06,
+     "fin": 28.44,
+     "p": "de"
+    },
+    {
+     "ini": 28.44,
+     "fin": 28.82,
+     "p": "no"
+    },
+    {
+     "ini": 28.82,
+     "fin": 29.12,
+     "p": "sentir"
+    },
+    {
+     "ini": 29.12,
+     "fin": 29.3,
+     "p": "que"
+    },
+    {
+     "ini": 29.3,
+     "fin": 29.38,
+     "p": "había"
+    },
+    {
+     "ini": 29.38,
+     "fin": 29.58,
+     "p": "hecho"
+    },
+    {
+     "ini": 29.58,
+     "fin": 29.78,
+     "p": "bien"
+    },
+    {
+     "ini": 29.78,
+     "fin": 30.0,
+     "p": "las"
+    },
+    {
+     "ini": 30.0,
+     "fin": 30.18,
+     "p": "cosas,"
+    },
+    {
+     "ini": 30.36,
+     "fin": 30.42,
+     "p": "porque"
+    },
+    {
+     "ini": 30.42,
+     "fin": 30.6,
+     "p": "eso"
+    },
+    {
+     "ini": 30.6,
+     "fin": 30.74,
+     "p": "fue"
+    },
+    {
+     "ini": 30.74,
+     "fin": 30.88,
+     "p": "lo"
+    },
+    {
+     "ini": 30.88,
+     "fin": 31.0,
+     "p": "que"
+    },
+    {
+     "ini": 31.0,
+     "fin": 31.1,
+     "p": "más"
+    },
+    {
+     "ini": 31.1,
+     "fin": 31.3,
+     "p": "me"
+    },
+    {
+     "ini": 31.3,
+     "fin": 31.56,
+     "p": "dolió"
+    },
+    {
+     "ini": 31.56,
+     "fin": 32.12,
+     "p": "creo."
+    }
+   ]
+  },
+  {
+   "ini": 33.62,
+   "fin": 38.16,
+   "texto": "Y bueno, después la verdad que se me pasó, fue el mismo día, pero yo estaba convencida",
+   "palabras": [
+    {
+     "ini": 33.62,
+     "fin": 33.68,
+     "p": "Y"
+    },
+    {
+     "ini": 33.68,
+     "fin": 33.94,
+     "p": "bueno,"
+    },
+    {
+     "ini": 34.08,
+     "fin": 34.22,
+     "p": "después"
+    },
+    {
+     "ini": 34.22,
+     "fin": 34.28,
+     "p": "la"
+    },
+    {
+     "ini": 34.28,
+     "fin": 34.48,
+     "p": "verdad"
+    },
+    {
+     "ini": 34.48,
+     "fin": 35.38,
+     "p": "que"
+    },
+    {
+     "ini": 35.38,
+     "fin": 35.54,
+     "p": "se"
+    },
+    {
+     "ini": 35.54,
+     "fin": 35.7,
+     "p": "me"
+    },
+    {
+     "ini": 35.7,
+     "fin": 35.88,
+     "p": "pasó,"
+    },
+    {
+     "ini": 35.96,
+     "fin": 36.1,
+     "p": "fue"
+    },
+    {
+     "ini": 36.1,
+     "fin": 36.2,
+     "p": "el"
+    },
+    {
+     "ini": 36.2,
+     "fin": 36.46,
+     "p": "mismo"
+    },
+    {
+     "ini": 36.46,
+     "fin": 36.84,
+     "p": "día,"
+    },
+    {
+     "ini": 37.14,
+     "fin": 37.36,
+     "p": "pero"
+    },
+    {
+     "ini": 37.36,
+     "fin": 37.56,
+     "p": "yo"
+    },
+    {
+     "ini": 37.56,
+     "fin": 37.7,
+     "p": "estaba"
+    },
+    {
+     "ini": 37.7,
+     "fin": 38.16,
+     "p": "convencida"
+    }
+   ]
+  },
+  {
+   "ini": 38.16,
+   "fin": 41.88,
+   "texto": "de que después de Beijing no luchaba más. Y después en Beijing se dio la medalla de",
+   "palabras": [
+    {
+     "ini": 38.16,
+     "fin": 38.34,
+     "p": "de"
+    },
+    {
+     "ini": 38.34,
+     "fin": 38.42,
+     "p": "que"
+    },
+    {
+     "ini": 38.42,
+     "fin": 38.64,
+     "p": "después"
+    },
+    {
+     "ini": 38.64,
+     "fin": 38.82,
+     "p": "de"
+    },
+    {
+     "ini": 38.82,
+     "fin": 38.92,
+     "p": "Beijing"
+    },
+    {
+     "ini": 38.92,
+     "fin": 39.12,
+     "p": "no"
+    },
+    {
+     "ini": 39.12,
+     "fin": 39.52,
+     "p": "luchaba"
+    },
+    {
+     "ini": 39.52,
+     "fin": 39.78,
+     "p": "más."
+    },
+    {
+     "ini": 40.32,
+     "fin": 40.48,
+     "p": "Y"
+    },
+    {
+     "ini": 40.48,
+     "fin": 40.64,
+     "p": "después"
+    },
+    {
+     "ini": 40.64,
+     "fin": 40.8,
+     "p": "en"
+    },
+    {
+     "ini": 40.8,
+     "fin": 41.04,
+     "p": "Beijing"
+    },
+    {
+     "ini": 41.04,
+     "fin": 41.18,
+     "p": "se"
+    },
+    {
+     "ini": 41.18,
+     "fin": 41.24,
+     "p": "dio"
+    },
+    {
+     "ini": 41.24,
+     "fin": 41.4,
+     "p": "la"
+    },
+    {
+     "ini": 41.4,
+     "fin": 41.68,
+     "p": "medalla"
+    },
+    {
+     "ini": 41.68,
+     "fin": 41.88,
+     "p": "de"
+    }
+   ]
+  },
+  {
+   "ini": 41.88,
+   "fin": 46.48,
+   "texto": "bronce que fue una gran sorpresa para mí, creo que para todos mis compañeros, y creo",
+   "palabras": [
+    {
+     "ini": 41.88,
+     "fin": 42.06,
+     "p": "bronce"
+    },
+    {
+     "ini": 42.06,
+     "fin": 42.22,
+     "p": "que"
+    },
+    {
+     "ini": 42.22,
+     "fin": 42.42,
+     "p": "fue"
+    },
+    {
+     "ini": 42.42,
+     "fin": 42.62,
+     "p": "una"
+    },
+    {
+     "ini": 42.62,
+     "fin": 42.8,
+     "p": "gran"
+    },
+    {
+     "ini": 42.8,
+     "fin": 43.24,
+     "p": "sorpresa"
+    },
+    {
+     "ini": 43.24,
+     "fin": 43.5,
+     "p": "para"
+    },
+    {
+     "ini": 43.5,
+     "fin": 43.68,
+     "p": "mí,"
+    },
+    {
+     "ini": 43.7,
+     "fin": 43.82,
+     "p": "creo"
+    },
+    {
+     "ini": 43.82,
+     "fin": 43.98,
+     "p": "que"
+    },
+    {
+     "ini": 43.98,
+     "fin": 44.24,
+     "p": "para"
+    },
+    {
+     "ini": 44.24,
+     "fin": 44.56,
+     "p": "todos"
+    },
+    {
+     "ini": 44.56,
+     "fin": 44.82,
+     "p": "mis"
+    },
+    {
+     "ini": 44.82,
+     "fin": 45.6,
+     "p": "compañeros,"
+    },
+    {
+     "ini": 45.98,
+     "fin": 46.36,
+     "p": "y"
+    },
+    {
+     "ini": 46.36,
+     "fin": 46.48,
+     "p": "creo"
+    }
+   ]
+  },
+  {
+   "ini": 46.48,
+   "fin": 52.45,
+   "texto": "que eso también me incitó a decir bueno, hay que saber diferenciar entre cuando te",
+   "palabras": [
+    {
+     "ini": 46.48,
+     "fin": 46.62,
+     "p": "que"
+    },
+    {
+     "ini": 46.62,
+     "fin": 46.74,
+     "p": "eso"
+    },
+    {
+     "ini": 46.74,
+     "fin": 47.0,
+     "p": "también"
+    },
+    {
+     "ini": 47.0,
+     "fin": 47.6,
+     "p": "me"
+    },
+    {
+     "ini": 47.6,
+     "fin": 47.86,
+     "p": "incitó"
+    },
+    {
+     "ini": 47.86,
+     "fin": 47.98,
+     "p": "a"
+    },
+    {
+     "ini": 47.98,
+     "fin": 48.12,
+     "p": "decir"
+    },
+    {
+     "ini": 48.12,
+     "fin": 48.64,
+     "p": "bueno,"
+    },
+    {
+     "ini": 48.78,
+     "fin": 48.94,
+     "p": "hay"
+    },
+    {
+     "ini": 48.94,
+     "fin": 49.12,
+     "p": "que"
+    },
+    {
+     "ini": 49.12,
+     "fin": 49.6,
+     "p": "saber"
+    },
+    {
+     "ini": 49.6,
+     "fin": 50.96,
+     "p": "diferenciar"
+    },
+    {
+     "ini": 50.96,
+     "fin": 52.06,
+     "p": "entre"
+    },
+    {
+     "ini": 52.06,
+     "fin": 52.26,
+     "p": "cuando"
+    },
+    {
+     "ini": 52.26,
+     "fin": 52.45,
+     "p": "te"
+    }
+   ]
+  },
+  {
+   "ini": 52.45,
+   "fin": 56.85,
+   "texto": "está bien y cuando te va mal es un juego, o sea, está todo permitido.",
+   "palabras": [
+    {
+     "ini": 52.45,
+     "fin": 52.55,
+     "p": "está"
+    },
+    {
+     "ini": 52.55,
+     "fin": 52.73,
+     "p": "bien"
+    },
+    {
+     "ini": 52.73,
+     "fin": 52.91,
+     "p": "y"
+    },
+    {
+     "ini": 52.91,
+     "fin": 53.03,
+     "p": "cuando"
+    },
+    {
+     "ini": 53.03,
+     "fin": 53.19,
+     "p": "te"
+    },
+    {
+     "ini": 53.19,
+     "fin": 53.31,
+     "p": "va"
+    },
+    {
+     "ini": 53.31,
+     "fin": 53.71,
+     "p": "mal"
+    },
+    {
+     "ini": 53.71,
+     "fin": 54.47,
+     "p": "es"
+    },
+    {
+     "ini": 54.47,
+     "fin": 54.67,
+     "p": "un"
+    },
+    {
+     "ini": 54.67,
+     "fin": 55.07,
+     "p": "juego,"
+    },
+    {
+     "ini": 55.07,
+     "fin": 55.07,
+     "p": "o"
+    },
+    {
+     "ini": 55.07,
+     "fin": 55.65,
+     "p": "sea,"
+    },
+    {
+     "ini": 55.73,
+     "fin": 55.85,
+     "p": "está"
+    },
+    {
+     "ini": 55.85,
+     "fin": 56.09,
+     "p": "todo"
+    },
+    {
+     "ini": 56.09,
+     "fin": 56.85,
+     "p": "permitido."
+    }
+   ]
+  }
+ ]
+}

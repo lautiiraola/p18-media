@@ -1,0 +1,37 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,548,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.68,0:00:03.46,P18,,0,0,0,,Y eso genera unas
+Dialogue: 0,0:00:03.46,0:00:06.44,P18,,0,0,0,,oportunidades que si uno mantiene
+Dialogue: 0,0:00:06.44,0:00:09.40,P18,,0,0,0,,la mente abierta a esas nuevas
+Dialogue: 0,0:00:09.40,0:00:11.58,P18,,0,0,0,,experiencias y más importante
+Dialogue: 0,0:00:11.58,0:00:14.94,P18,,0,0,0,,la mente abierta
+Dialogue: 0,0:00:14.94,0:00:16.96,P18,,0,0,0,,a sentirse incómodo porque muchas
+Dialogue: 0,0:00:16.96,0:00:18.02,P18,,0,0,0,,muchas de estas partes yo estaba
+Dialogue: 0,0:00:18.02,0:00:20.34,P18,,0,0,0,,cómodo, obviamente estaba cómodo
+Dialogue: 0,0:00:20.34,0:00:21.58,P18,,0,0,0,,en Formosa cuando me tocó ir a
+Dialogue: 0,0:00:21.58,0:00:22.86,P18,,0,0,0,,Buenos Aires, estaba cómodo en
+Dialogue: 0,0:00:22.86,0:00:24.40,P18,,0,0,0,,Buenos Aires cuando estaba
+Dialogue: 0,0:00:24.40,0:00:27.58,P18,,0,0,0,,terminando la secundaria y estaba
+Dialogue: 0,0:00:27.58,0:00:29.02,P18,,0,0,0,,cómodo cuando estaba manejando
+Dialogue: 0,0:00:29.02,0:00:32.02,P18,,0,0,0,,Latinoamérica y me tenía que ir a
+Dialogue: 0,0:00:32.02,0:00:33.68,P18,,0,0,0,,Asia y estaba cómodo en JP Morgan
+Dialogue: 0,0:00:33.68,0:00:35.66,P18,,0,0,0,,cuando se me presentó la
+Dialogue: 0,0:00:35.66,0:00:37.36,P18,,0,0,0,,oportunidad de manejar la bolsa de
+Dialogue: 0,0:00:37.36,0:00:38.78,P18,,0,0,0,,comercio de Hong Kong,
+Dialogue: 0,0:00:38.78,0:00:40.62,P18,,0,0,0,,pero ponernos un poquito en esa
+Dialogue: 0,0:00:40.62,0:00:43.14,P18,,0,0,0,,zona fuera de la zona de confort,
+Dialogue: 0,0:00:43.72,0:00:44.94,P18,,0,0,0,,generalmente yo siempre digo que
+Dialogue: 0,0:00:44.94,0:00:46.92,P18,,0,0,0,,la magia ocurre cuando uno sale de
+Dialogue: 0,0:00:46.92,0:00:48.16,P18,,0,0,0,,fuera de la zona de confort.

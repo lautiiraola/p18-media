@@ -1,0 +1,100 @@
+{
+ "carruseles": [
+  {
+   "id": "CARRUSEL_01",
+   "idea": "No hay que competir con la IA: hay que aplicarla con criterio y sin perder el lado humano.",
+   "caption": "¿Sentís que la IA te está ganando?\nGermán, en el Café IA, propone otra pregunta: no competir con la inteligencia artificial, sino aplicar ese conocimiento con criterio y sin perder el lado humano.\nGuardalo y compartilo con alguien que usa IA todos los días.\n\n🎙 Fuente: entrevista P18 con Germán · Café IA\n#proyecto18 #inteligenciaartificial #IA #criterio #jovenes",
+   "slides": [
+    {
+     "tipo": "portada",
+     "foto": "carrusel/german_340.jpg",
+     "focoY": 20,
+     "chip": "Inteligencia artificial",
+     "titulo": "No compitas con la *IA*.",
+     "bajada": "Germán, en el Café IA, sobre el miedo a quedarse atrás frente a la inteligencia artificial."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/german_dupla.jpg",
+     "focoY": 30,
+     "etiqueta": "El mito",
+     "titulo": "La IA te va a *ganar*.",
+     "texto": "Es el miedo de muchos. Germán propone cambiar la pregunta: qué hacés vos con todo ese conocimiento."
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/german_280.jpg",
+     "focoY": 20,
+     "cita": "“Lo importante es no competir con la inteligencia artificial. Lo importante es cómo nosotros ese conocimiento lo aplicamos, sin perder el lado *humano*.”",
+     "firma": "Germán · Café IA"
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Tener criterio",
+     "titulo": "Cuestioná a la *máquina*.",
+     "texto": "“Nosotros siempre tenemos que tener el criterio de decirle a la máquina, de cuestionar a la máquina.”"
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/german_160.jpg",
+     "focoY": 20,
+     "cita": "“Al final de cuentas, la máquina es un *reflejo* de lo que nosotros somos.”",
+     "firma": "Germán · Café IA"
+    },
+    {
+     "tipo": "cierre",
+     "frase": "Hay que ser muy *crítico* y no perder el lado humano.",
+     "pregunta": "¿Cuándo fue la última vez que le discutiste una respuesta a la IA?",
+     "accion": "Guardalo y compartilo con alguien que use IA todos los días."
+    }
+   ]
+  },
+  {
+   "id": "CARRUSEL_02",
+   "idea": "Con 18 años y una compu, el primer paso es encontrar un problema real cerca tuyo y resolverlo con algo chico.",
+   "caption": "18 años, cero capital y una compu: ¿por dónde arrancar?\nEl plan de Germán, en el Café IA: investigar, encontrar un problema real en tu barrio y resolverlo con algo chico.\nContanos en los comentarios qué problema podrías resolver.\n\n🎙 Fuente: entrevista P18 con Germán · Café IA\n#proyecto18 #emprender #proyectos #tecnologia #jovenes",
+   "slides": [
+    {
+     "tipo": "portada",
+     "foto": "carrusel/german_280.jpg",
+     "focoY": 20,
+     "chip": "Ideas, proyectos y ventas",
+     "titulo": "Empezá por un *problema* real.",
+     "bajada": "Si tuviera 18 años, cero capital y una compu, esto haría Germán, en el Café IA."
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Paso 1",
+     "titulo": "*Investigá*.",
+     "texto": "Asociate con personas mayores que vos y preguntales qué problemas tienen en el día a día."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/german_dupla.jpg",
+     "focoY": 30,
+     "etiqueta": "Paso 2",
+     "titulo": "Mirá tu *barrio*.",
+     "texto": "Por ejemplo, el kiosco que no tiene cómo llevar el stock y no sabe qué está ganando ni qué está perdiendo."
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Paso 3",
+     "titulo": "Armá algo *chico*.",
+     "texto": "Un MVP: la versión más simple de tu idea. Hay mucho open source en GitHub que podés ajustar a esa necesidad."
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Paso 4",
+     "titulo": "Crecé por *cercanía*.",
+     "texto": "Después buscás otra persona a la que le pase lo mismo, y así vas creciendo en tu barrio."
+    },
+    {
+     "tipo": "cierre",
+     "frase": "“Comienzo a investigar, investigar, investigar y a partir de eso construyo un *producto*.”",
+     "pregunta": "¿Qué problema de tu barrio podrías resolver?",
+     "accion": "Contalo en los comentarios y guardalo para cuando arranques."
+    }
+   ]
+  }
+ ]
+}

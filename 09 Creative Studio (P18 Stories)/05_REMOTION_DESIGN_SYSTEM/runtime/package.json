@@ -1,0 +1,24 @@
+{
+  "name": "p18-stories-runtime",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Runtime compartido P18 Stories (9:16, 1080x1920, 60 fps). Datos y assets de cada video viven en su carpeta de produccion y se pasan con --props y --public-dir.",
+  "scripts": {
+    "studio": "remotion studio",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.1.2",
+    "@remotion/cli": "4.0.545",
+    "@remotion/three": "4.0.545",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.545",
+    "three": "0.170.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/three": "0.170.0",
+    "typescript": "7.0.2"
+  }
+}

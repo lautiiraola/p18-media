@@ -1,0 +1,26 @@
+CLIP 01 — LA PERSONA QUE MÁS ME AYUDÓ LA CONOCÍ EN EL COLEGIO
+
+Inicio:     17:20.7  (1040.72 s)
+Fin:        18:02.5  (1082.50 s)
+Duración:   41.8 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LA PERSONA QUE MÁS ME AYUDÓ LA CONOCÍ EN EL COLEGIO   (en el reel, en lima: COLEGIO)
+Departamento:     Finanzas y trabajo
+Área:             Trabajo y oportunidades
+Tema:             Armar tu red de contactos
+Fuente:           UTAMED - Félix Ruiz — "EMPRENDIMIENTO y TECNOLOGÍA con Félix Ruiz |  Mirando a los Ojos de las Empresas 1x03"
+                  https://www.youtube.com/watch?v=8ZPEjEmeKlg&t=1040s
+
+Por qué lo elegí:
+Historia en primera persona de cómo una amistad del colegio abrió su primera oportunidad y de ahí armó su propia red. Idea completa y cercana.
+
+Gancho (primeros 3 s): Yo creo que las relaciones, en mi caso, han sido algo clave
+
+Notas para la revisión: Sin cifras.
+
+Transcripción del clip:
+Yo creo que las relaciones, en mi caso, han sido algo clave y las mejores las he sacado de mi formación académica. Yo siempre comento que, en el colegio donde yo estudié, conocí a la persona que probablemente más me haya orientado o más me haya ayudado en todo mi desarrollo profesional, que fue un chico con el que yo salía de copas, me lo pasaba muy bien, obviamente era muy inteligente muy listo y él me dio la oportunidad de formar parte de 20 desde el primer día, luego obviamente eso fue derivando en otras cosas y me voy creando pues mi propia red, mis propios contactos, pero al final todo nace una base,
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-23 - UTAMED - Félix Ruiz/01 - red de contactos.mp4" "LA PERSONA QUE MÁS ME AYUDÓ LA CONOCÍ EN EL *COLEGIO*" --fuente "UTAMED - Félix Ruiz"

@@ -1,0 +1,26 @@
+CLIP 02 — EL ESFUERZO SIRVE PARA LO QUE SEA, NO SÓLO PARA EL BÁSQUET
+
+Inicio:     01:19.8  (79.82 s)
+Fin:        02:19.4  (139.45 s)
+Duración:   59.6 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  EL ESFUERZO SIRVE PARA LO QUE SEA, NO SÓLO PARA EL BÁSQUET   (en el reel, en lima: LO QUE SEA)
+Departamento:     Deporte y mentalidad
+Área:             Mentalidad aplicada
+Tema:             Esfuerzo, respeto y equipo en cualquier camino
+Fuente:           Manu Ginóbili — "Motivación de Manu Ginobili"
+                  https://www.youtube.com/watch?v=PpDULFMScsk&t=79s
+
+Por qué lo elegí:
+Lleva el mensaje a cualquier camino (dentista, profesor, lo que sea): esfuerzo, respeto por quienes te enseñan y por tus compañeros, y lo que te deja ser parte de un equipo. Cierra con pasión y un objetivo.
+
+Gancho (primeros 3 s): Pero eso no solo va relativo al básquet.
+
+Notas para la revisión: Dice 'romperse el culo' y cierra con 'mátense por un objetivo' (figurado): revisar si va en el reel.
+
+Transcripción del clip:
+Pero eso no solo va relativo al basque o al deporte. Si ustedes quieren ser dentistas, si quieren ser profesores, si quieren ser lo que sea, es para todo igual. Hay que esforzarse, romperse el culo, ser respetuoso tanto de los que te enseñan como tus compañeros, como tus pares. Así que creo que esas son cosas que por hoy se están perdiendo un poco y es una lástima porque son las que te hacen llegar muy arriba. Así que no se bajonen si no están jugando tan bien el basket, si ven que esto no va a ser lo suyo. El hecho de jugar, de compartir un equipo y esas cosas te hacen mejor persona, te hacen convivir, compartir cosas que de otra manera no lo harías y creo que es una gran sensa para todos. Así que si es con el basket de árbol o si es con estudio igual de bien y en lo que sea. Pónganle pasión, respeto y mátense por un objetivo, creo que es la forma de llegar.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-12 - Manu Ginóbili/02 - para lo que sea.mp4" "EL ESFUERZO SIRVE PARA *LO QUE SEA*, NO SÓLO PARA EL BÁSQUET" --fuente "Manu Ginóbili"

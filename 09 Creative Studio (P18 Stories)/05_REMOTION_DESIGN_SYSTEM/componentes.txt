@@ -1,0 +1,15 @@
+COMPONENTES REUTILIZABLES
+
+P18BrandSignature: firma P18 sin fondo.
+NarrativeSubtitle: texto de una o dos líneas con una unidad activa.
+ArchivePhoto: fotografía con encuadre, atribución y movimiento por frame.
+ArchiveVideo: clip real con crop y timing controlado.
+DocumentCard: documento, fecha o titular con procedencia.
+Timeline: progresión temporal.
+Metric: cifra con contexto.
+Comparison: antes/después o dos recorridos.
+SourceCaption: fuente visible en previews; configurable en master.
+QuestionClose: pregunta final P18.
+AudioBed: música y automatización de niveles.
+
+Cada componente recibe props tipadas y no busca contenido en internet durante el render.

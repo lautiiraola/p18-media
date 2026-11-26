@@ -1,0 +1,83 @@
+DIRECCIÓN DE VOZ Y PRONUNCIACIÓN — P18-001-james-dyson
+Texto a grabar: 02_script/voiceover-final.txt (299 palabras). Las pausas y los énfasis por frase están en guion-anotado.txt.
+Entrega: 09_VIDEOS_EN_PRODUCCION/P18-001-james-dyson/03_voiceover/inbox
+
+────────────────────────────────────────
+1. INTENCIÓN GENERAL
+Un narrador que cuenta algo que le parece genuinamente interesante, no un locutor publicitario.
+Español rioplatense natural, comprensible en toda Hispanoamérica, sin modismos forzados.
+Cercano, claro y sobrio. Hay algo de ironía en la frase de "los grandes", pero ningún tono épico, motivacional ni solemne.
+Referencia de registro: alguien inteligente que le cuenta la historia a un amigo, sin apuro.
+
+2. RITMO Y DURACIÓN
+- Velocidad natural, ni lenta ni acelerada. Estimación: 1:40 a 1:55 con pausas.
+- No acelerar para entrar en una duración. Si el video tiene que ser más corto, se recorta texto (ver narrative-map.txt), no velocidad.
+- Las frases cortas ("Construyó uno. No se tapaba nunca.") necesitan aire entre sí. No encadenarlas.
+- El bloque "Un prototipo. Una medición. Un solo cambio." tiene ritmo de taller: tres golpes parejos.
+
+3. ENERGÍA Y EVOLUCIÓN EMOCIONAL
+  Hook (0–7 s): energía media-alta, ironía seca en la cita.
+  Contexto e idea (7–31 s): curiosidad; sube un poco en "un ciclón".
+  Primer rechazo (31–40 s): baja; frustración contenida.
+  Obstáculo y proceso (40–70 s): concentración; la energía se sostiene sin subir. Más cálida en la línea de Deirdre.
+  Clímax técnico ("El cinco mil ciento veintisiete, sí."): contenido. La fuerza está en el silencio previo, no en el volumen.
+  Rechazo comercial (70–82 s): cansancio lúcido; media sonrisa en "Otra vez, la misma frase".
+  Decisión (82–94 s): el punto más firme del relato, un poco más lento.
+  Resultado (94–103 s): sobrio, informativo.
+  Reflexión (103 s–final): más íntima, volumen algo más bajo. La pregunta es real, no retórica, y termina con entonación de pregunta.
+
+4. PAUSAS IMPORTANTES
+- Después de la cita del hook: pausa larga.
+- Después de "Parecía funcionar.": pausa larga; prepara el giro.
+- Antes de "El cinco mil ciento veintisiete, sí.": pausa larga.
+- Entre "Con el dinero de Japón y un préstamo con su casa como garantía," y "decidió fabricarla él.": pausa breve, con peso.
+- Antes de la pregunta final: pausa larga.
+Si ElevenLabs no respeta estas pausas, NO agregar marcas dentro del texto. Generar de nuevo o ajustar estabilidad. Las pausas finas se resuelven después en la edición, sin cortar palabras.
+
+5. ÉNFASIS
+mejor / grandes (hook) · años · ciclón · nunca · sí (se tapaba) · cartón · grandes (socios) · fino · probar · no (funcionaron) · veintisiete · no (fabricantes) · rosa · casa · él · apellido · cambiar · nada
+Una sola palabra activa por frase. No subrayar todo.
+
+6. PRONUNCIACIÓN
+  James Dyson  → "Yéims Dáison" (inglés: /dʒeɪmz ˈdaɪsən/). No decir "Ja-mes Dí-son".
+  Dyson (solo) → "Dáison".
+  Deirdre      → "Díirdre" (inglés: /ˈdɪərdrə/). Dos sílabas y acento en la primera. No decir "Deir-dré".
+  G-Force      → "Yi Fors" (en inglés). No decir "Ge Force" ni "Ge-fór-ce".
+  DC cero uno  → "de ce, cero uno". Ya va escrito así para evitar "DC uno". Es el modelo DC01.
+  ciclón       → acento en la "o". Sin dificultad.
+  aserradero   → sin dificultad; verificar que no lo diga "aserrradero".
+
+7. CIFRAS Y FECHAS
+Todas van escritas en palabras para que ElevenLabs no las interprete mal:
+  "cinco mil ciento veintiséis" (5.126) · "cinco mil ciento veintisiete" (5.127)
+  "mil novecientos noventa y tres" (1993) · "ochenta y cuatro" (84)
+  "Diez años" y "Fines de los setenta" ya están en palabras.
+Revisar en la escucha que "veintiséis" y "veintisiete" se distingan bien, porque es el corazón del video.
+
+8. SIGNOS QUE PUEDEN DAR PROBLEMAS
+- Las comillas «» del hook: si la voz cambia de forma rara en la cita, probar sin comillas. NO cambiar ninguna palabra.
+- Los dos puntos (":") en varias frases indican una pausa breve y una explicación. Si la voz los ignora, se acepta.
+- No usar SSML, corchetes ni etiquetas de emoción dentro del texto: ElevenLabs podría leerlos.
+
+9. AJUSTES SUGERIDOS (orientativos; la voz y el modelo los elige P18)
+El estudio no tiene documentada todavía una voz oficial. Sería bueno fijarla para toda la serie P18 Stories.
+Como punto de partida para un modelo multilingüe de ElevenLabs:
+  Stability: 45–55 % (variación natural sin perder consistencia)
+  Similarity: 75 %
+  Style exaggeration: 0–15 %
+  Speaker boost: activado
+  Speed: 1.0 (no superar 1.0)
+Generar el texto completo en una sola toma o en bloques largos, para mantener un tono continuo.
+
+10. FORMATO DE ENTREGA
+WAV de preferencia, 44,1 o 48 kHz, 16 o 24 bit. MP3 de 192 kbps o más, solo si no hay WAV.
+Un solo archivo, con el texto completo y sin música.
+Nombre sugerido: P18-001-james-dyson-voiceover-v01.wav. Al aprobarse, se copia a approved/ como P18-001-james-dyson-voiceover-approved.wav, sin borrar el original.
+
+VOZ UTILIZADA (registrada el 2026-11-24)
+ElevenLabs: "Brian - Warm, Smooth, Confident". El nombre del archivo indica pvc, stability 50, similarity 75, v4.
+Resultado: 120,27 s, 0 diferencias de texto, pronunciaciones correctas. Ver 03_voiceover/voice-validation.txt.
+
+11. QUÉ VOY A VERIFICAR AL RECIBIRLA
+Duración, formato, sample rate, canales, clipping y diferencias de palabras respecto de voiceover-final.txt.
+Si cambió alguna palabra, voy a pedir aprobación o una nueva toma. No se acelera ni se recorta la voz.

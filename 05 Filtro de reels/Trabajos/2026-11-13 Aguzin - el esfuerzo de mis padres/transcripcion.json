@@ -1,0 +1,636 @@
+{
+ "idioma": "es",
+ "duracion": 44.07,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 5.34,
+   "texto": "entonces ellos decían yo nosotros no vamos a comer si es necesario pero nuestros hijos van a",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.64,
+     "p": "entonces"
+    },
+    {
+     "ini": 0.64,
+     "fin": 0.8,
+     "p": "ellos"
+    },
+    {
+     "ini": 0.8,
+     "fin": 1.22,
+     "p": "decían"
+    },
+    {
+     "ini": 1.22,
+     "fin": 1.72,
+     "p": "yo"
+    },
+    {
+     "ini": 1.72,
+     "fin": 2.16,
+     "p": "nosotros"
+    },
+    {
+     "ini": 2.16,
+     "fin": 2.44,
+     "p": "no"
+    },
+    {
+     "ini": 2.44,
+     "fin": 2.72,
+     "p": "vamos"
+    },
+    {
+     "ini": 2.72,
+     "fin": 2.98,
+     "p": "a"
+    },
+    {
+     "ini": 2.98,
+     "fin": 3.2,
+     "p": "comer"
+    },
+    {
+     "ini": 3.2,
+     "fin": 3.42,
+     "p": "si"
+    },
+    {
+     "ini": 3.42,
+     "fin": 3.6,
+     "p": "es"
+    },
+    {
+     "ini": 3.6,
+     "fin": 3.98,
+     "p": "necesario"
+    },
+    {
+     "ini": 3.98,
+     "fin": 4.32,
+     "p": "pero"
+    },
+    {
+     "ini": 4.32,
+     "fin": 4.66,
+     "p": "nuestros"
+    },
+    {
+     "ini": 4.66,
+     "fin": 4.98,
+     "p": "hijos"
+    },
+    {
+     "ini": 4.98,
+     "fin": 5.18,
+     "p": "van"
+    },
+    {
+     "ini": 5.18,
+     "fin": 5.34,
+     "p": "a"
+    }
+   ]
+  },
+  {
+   "ini": 5.34,
+   "fin": 11.44,
+   "texto": "tener una buena educación y él tenía este sueño de que aprenda a hablar inglés así que me mandó",
+   "palabras": [
+    {
+     "ini": 5.34,
+     "fin": 5.52,
+     "p": "tener"
+    },
+    {
+     "ini": 5.52,
+     "fin": 5.82,
+     "p": "una"
+    },
+    {
+     "ini": 5.82,
+     "fin": 5.98,
+     "p": "buena"
+    },
+    {
+     "ini": 5.98,
+     "fin": 6.54,
+     "p": "educación"
+    },
+    {
+     "ini": 6.54,
+     "fin": 7.62,
+     "p": "y"
+    },
+    {
+     "ini": 7.62,
+     "fin": 7.98,
+     "p": "él"
+    },
+    {
+     "ini": 7.98,
+     "fin": 8.22,
+     "p": "tenía"
+    },
+    {
+     "ini": 8.22,
+     "fin": 8.46,
+     "p": "este"
+    },
+    {
+     "ini": 8.46,
+     "fin": 8.78,
+     "p": "sueño"
+    },
+    {
+     "ini": 8.78,
+     "fin": 8.98,
+     "p": "de"
+    },
+    {
+     "ini": 8.98,
+     "fin": 9.3,
+     "p": "que"
+    },
+    {
+     "ini": 9.3,
+     "fin": 9.6,
+     "p": "aprenda"
+    },
+    {
+     "ini": 9.6,
+     "fin": 9.8,
+     "p": "a"
+    },
+    {
+     "ini": 9.8,
+     "fin": 9.86,
+     "p": "hablar"
+    },
+    {
+     "ini": 9.86,
+     "fin": 10.28,
+     "p": "inglés"
+    },
+    {
+     "ini": 10.28,
+     "fin": 10.68,
+     "p": "así"
+    },
+    {
+     "ini": 10.68,
+     "fin": 11.0,
+     "p": "que"
+    },
+    {
+     "ini": 11.0,
+     "fin": 11.24,
+     "p": "me"
+    },
+    {
+     "ini": 11.24,
+     "fin": 11.44,
+     "p": "mandó"
+    }
+   ]
+  },
+  {
+   "ini": 11.44,
+   "fin": 18.68,
+   "texto": "al san jorge yo no estaba muy contento porque tenía 10 años y la verdad que cuando fui extrañaba",
+   "palabras": [
+    {
+     "ini": 11.44,
+     "fin": 11.58,
+     "p": "al"
+    },
+    {
+     "ini": 11.58,
+     "fin": 11.78,
+     "p": "san"
+    },
+    {
+     "ini": 11.78,
+     "fin": 12.7,
+     "p": "jorge"
+    },
+    {
+     "ini": 12.7,
+     "fin": 13.76,
+     "p": "yo"
+    },
+    {
+     "ini": 13.76,
+     "fin": 13.98,
+     "p": "no"
+    },
+    {
+     "ini": 13.98,
+     "fin": 14.12,
+     "p": "estaba"
+    },
+    {
+     "ini": 14.12,
+     "fin": 14.34,
+     "p": "muy"
+    },
+    {
+     "ini": 14.34,
+     "fin": 14.86,
+     "p": "contento"
+    },
+    {
+     "ini": 14.86,
+     "fin": 15.2,
+     "p": "porque"
+    },
+    {
+     "ini": 15.2,
+     "fin": 15.52,
+     "p": "tenía"
+    },
+    {
+     "ini": 15.52,
+     "fin": 15.76,
+     "p": "10"
+    },
+    {
+     "ini": 15.76,
+     "fin": 16.22,
+     "p": "años"
+    },
+    {
+     "ini": 16.22,
+     "fin": 16.92,
+     "p": "y"
+    },
+    {
+     "ini": 16.92,
+     "fin": 17.06,
+     "p": "la"
+    },
+    {
+     "ini": 17.06,
+     "fin": 17.3,
+     "p": "verdad"
+    },
+    {
+     "ini": 17.3,
+     "fin": 17.56,
+     "p": "que"
+    },
+    {
+     "ini": 17.56,
+     "fin": 17.78,
+     "p": "cuando"
+    },
+    {
+     "ini": 17.78,
+     "fin": 18.08,
+     "p": "fui"
+    },
+    {
+     "ini": 18.08,
+     "fin": 18.68,
+     "p": "extrañaba"
+    }
+   ]
+  },
+  {
+   "ini": 18.68,
+   "fin": 29.08,
+   "texto": "muchísimo así que fue fue difícil a veces cuando volvíamos yo le decía por favor si si puedo",
+   "palabras": [
+    {
+     "ini": 18.68,
+     "fin": 19.42,
+     "p": "muchísimo"
+    },
+    {
+     "ini": 19.42,
+     "fin": 20.22,
+     "p": "así"
+    },
+    {
+     "ini": 20.22,
+     "fin": 20.7,
+     "p": "que"
+    },
+    {
+     "ini": 20.7,
+     "fin": 21.18,
+     "p": "fue"
+    },
+    {
+     "ini": 21.18,
+     "fin": 21.38,
+     "p": "fue"
+    },
+    {
+     "ini": 21.38,
+     "fin": 21.86,
+     "p": "difícil"
+    },
+    {
+     "ini": 21.86,
+     "fin": 22.04,
+     "p": "a"
+    },
+    {
+     "ini": 22.04,
+     "fin": 22.22,
+     "p": "veces"
+    },
+    {
+     "ini": 22.22,
+     "fin": 22.56,
+     "p": "cuando"
+    },
+    {
+     "ini": 22.56,
+     "fin": 23.88,
+     "p": "volvíamos"
+    },
+    {
+     "ini": 23.88,
+     "fin": 26.78,
+     "p": "yo"
+    },
+    {
+     "ini": 26.78,
+     "fin": 27.02,
+     "p": "le"
+    },
+    {
+     "ini": 27.02,
+     "fin": 27.16,
+     "p": "decía"
+    },
+    {
+     "ini": 27.16,
+     "fin": 27.44,
+     "p": "por"
+    },
+    {
+     "ini": 27.44,
+     "fin": 27.86,
+     "p": "favor"
+    },
+    {
+     "ini": 27.86,
+     "fin": 28.42,
+     "p": "si"
+    },
+    {
+     "ini": 28.42,
+     "fin": 28.64,
+     "p": "si"
+    },
+    {
+     "ini": 28.64,
+     "fin": 29.08,
+     "p": "puedo"
+    }
+   ]
+  },
+  {
+   "ini": 29.08,
+   "fin": 36.08,
+   "texto": "puedo quedarme en Formosa, sería bárbaro, pero lo charlábamos y él me explicaba que",
+   "palabras": [
+    {
+     "ini": 29.08,
+     "fin": 29.58,
+     "p": "puedo"
+    },
+    {
+     "ini": 29.58,
+     "fin": 30.04,
+     "p": "quedarme"
+    },
+    {
+     "ini": 30.04,
+     "fin": 30.26,
+     "p": "en"
+    },
+    {
+     "ini": 30.26,
+     "fin": 30.58,
+     "p": "Formosa,"
+    },
+    {
+     "ini": 30.78,
+     "fin": 30.9,
+     "p": "sería"
+    },
+    {
+     "ini": 30.9,
+     "fin": 31.6,
+     "p": "bárbaro,"
+    },
+    {
+     "ini": 32.38,
+     "fin": 32.54,
+     "p": "pero"
+    },
+    {
+     "ini": 32.54,
+     "fin": 32.9,
+     "p": "lo"
+    },
+    {
+     "ini": 32.9,
+     "fin": 33.86,
+     "p": "charlábamos"
+    },
+    {
+     "ini": 33.86,
+     "fin": 35.2,
+     "p": "y"
+    },
+    {
+     "ini": 35.2,
+     "fin": 35.36,
+     "p": "él"
+    },
+    {
+     "ini": 35.36,
+     "fin": 35.64,
+     "p": "me"
+    },
+    {
+     "ini": 35.64,
+     "fin": 35.92,
+     "p": "explicaba"
+    },
+    {
+     "ini": 35.92,
+     "fin": 36.08,
+     "p": "que"
+    }
+   ]
+  },
+  {
+   "ini": 36.08,
+   "fin": 39.88,
+   "texto": "eso era muy importante para el futuro, todo era muy duro para ellos también porque obviamente",
+   "palabras": [
+    {
+     "ini": 36.08,
+     "fin": 36.24,
+     "p": "eso"
+    },
+    {
+     "ini": 36.24,
+     "fin": 36.34,
+     "p": "era"
+    },
+    {
+     "ini": 36.34,
+     "fin": 36.62,
+     "p": "muy"
+    },
+    {
+     "ini": 36.62,
+     "fin": 37.06,
+     "p": "importante"
+    },
+    {
+     "ini": 37.06,
+     "fin": 37.28,
+     "p": "para"
+    },
+    {
+     "ini": 37.28,
+     "fin": 37.46,
+     "p": "el"
+    },
+    {
+     "ini": 37.46,
+     "fin": 37.8,
+     "p": "futuro,"
+    },
+    {
+     "ini": 38.0,
+     "fin": 38.06,
+     "p": "todo"
+    },
+    {
+     "ini": 38.06,
+     "fin": 38.2,
+     "p": "era"
+    },
+    {
+     "ini": 38.2,
+     "fin": 38.4,
+     "p": "muy"
+    },
+    {
+     "ini": 38.4,
+     "fin": 38.6,
+     "p": "duro"
+    },
+    {
+     "ini": 38.6,
+     "fin": 38.82,
+     "p": "para"
+    },
+    {
+     "ini": 38.82,
+     "fin": 39.0,
+     "p": "ellos"
+    },
+    {
+     "ini": 39.0,
+     "fin": 39.24,
+     "p": "también"
+    },
+    {
+     "ini": 39.24,
+     "fin": 39.48,
+     "p": "porque"
+    },
+    {
+     "ini": 39.48,
+     "fin": 39.88,
+     "p": "obviamente"
+    }
+   ]
+  },
+  {
+   "ini": 39.88,
+   "fin": 43.64,
+   "texto": "ellos también me extrañaban muchísimo. O sea que eso fue la primera parte.",
+   "palabras": [
+    {
+     "ini": 39.88,
+     "fin": 40.1,
+     "p": "ellos"
+    },
+    {
+     "ini": 40.1,
+     "fin": 40.3,
+     "p": "también"
+    },
+    {
+     "ini": 40.3,
+     "fin": 40.52,
+     "p": "me"
+    },
+    {
+     "ini": 40.52,
+     "fin": 40.88,
+     "p": "extrañaban"
+    },
+    {
+     "ini": 40.88,
+     "fin": 41.36,
+     "p": "muchísimo."
+    },
+    {
+     "ini": 41.86,
+     "fin": 41.94,
+     "p": "O"
+    },
+    {
+     "ini": 41.94,
+     "fin": 42.02,
+     "p": "sea"
+    },
+    {
+     "ini": 42.02,
+     "fin": 42.2,
+     "p": "que"
+    },
+    {
+     "ini": 42.2,
+     "fin": 42.34,
+     "p": "eso"
+    },
+    {
+     "ini": 42.34,
+     "fin": 42.72,
+     "p": "fue"
+    },
+    {
+     "ini": 42.72,
+     "fin": 43.1,
+     "p": "la"
+    },
+    {
+     "ini": 43.1,
+     "fin": 43.32,
+     "p": "primera"
+    },
+    {
+     "ini": 43.32,
+     "fin": 43.64,
+     "p": "parte."
+    }
+   ]
+  }
+ ]
+}

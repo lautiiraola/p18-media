@@ -1,0 +1,21 @@
+schema_version: 1
+candidate: ""
+scores:
+  p18_affinity: 0
+  conflict_strength: 0
+  transformative_decision: 0
+  primary_sources: 0
+  authentic_archive: 0
+  hook_strength: 0
+  originality: 0
+  catalogue_diversity: 0
+  low_generic_motivation_risk: 0
+  legal_and_production_viability: 0
+scale: "1-5"
+minimum_total: 38
+automatic_rejection:
+  - insufficient_evidence
+  - no_ethical_visual_representation
+  - rights_risk_unresolved
+decision: ""
+justification: ""

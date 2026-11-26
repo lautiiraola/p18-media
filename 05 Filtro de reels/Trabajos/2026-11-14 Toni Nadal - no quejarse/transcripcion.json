@@ -1,0 +1,706 @@
+{
+ "idioma": "ca",
+ "duracion": 46.48,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 3.28,
+   "texto": "Per mi, l'essencial és no queixar-se en la vida.",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.2,
+     "p": "Per"
+    },
+    {
+     "ini": 0.2,
+     "fin": 0.64,
+     "p": "mi,"
+    },
+    {
+     "ini": 1.22,
+     "fin": 1.26,
+     "p": "l"
+    },
+    {
+     "ini": 1.26,
+     "fin": 1.78,
+     "p": "'essencial"
+    },
+    {
+     "ini": 1.78,
+     "fin": 1.96,
+     "p": "és"
+    },
+    {
+     "ini": 1.96,
+     "fin": 2.18,
+     "p": "no"
+    },
+    {
+     "ini": 2.18,
+     "fin": 2.64,
+     "p": "queixar"
+    },
+    {
+     "ini": 2.64,
+     "fin": 2.74,
+     "p": "-se"
+    },
+    {
+     "ini": 2.74,
+     "fin": 2.8,
+     "p": "en"
+    },
+    {
+     "ini": 2.8,
+     "fin": 2.94,
+     "p": "la"
+    },
+    {
+     "ini": 2.94,
+     "fin": 3.28,
+     "p": "vida."
+    }
+   ]
+  },
+  {
+   "ini": 3.62,
+   "fin": 5.7,
+   "texto": "A més, jo he pogut comprovar",
+   "palabras": [
+    {
+     "ini": 3.62,
+     "fin": 3.72,
+     "p": "A"
+    },
+    {
+     "ini": 3.72,
+     "fin": 3.92,
+     "p": "més,"
+    },
+    {
+     "ini": 3.96,
+     "fin": 4.08,
+     "p": "jo"
+    },
+    {
+     "ini": 4.08,
+     "fin": 4.14,
+     "p": "he"
+    },
+    {
+     "ini": 4.14,
+     "fin": 4.46,
+     "p": "pogut"
+    },
+    {
+     "ini": 4.46,
+     "fin": 5.7,
+     "p": "comprovar"
+    }
+   ]
+  },
+  {
+   "ini": 5.7,
+   "fin": 10.38,
+   "texto": "que la immensa majoria de gent que s'acostuma a queixar-se",
+   "palabras": [
+    {
+     "ini": 5.7,
+     "fin": 6.64,
+     "p": "que"
+    },
+    {
+     "ini": 6.64,
+     "fin": 6.72,
+     "p": "la"
+    },
+    {
+     "ini": 6.72,
+     "fin": 7.04,
+     "p": "immensa"
+    },
+    {
+     "ini": 7.04,
+     "fin": 7.48,
+     "p": "majoria"
+    },
+    {
+     "ini": 7.48,
+     "fin": 7.58,
+     "p": "de"
+    },
+    {
+     "ini": 7.58,
+     "fin": 7.88,
+     "p": "gent"
+    },
+    {
+     "ini": 7.88,
+     "fin": 8.12,
+     "p": "que"
+    },
+    {
+     "ini": 8.12,
+     "fin": 8.26,
+     "p": "s"
+    },
+    {
+     "ini": 8.26,
+     "fin": 8.86,
+     "p": "'acostuma"
+    },
+    {
+     "ini": 8.86,
+     "fin": 8.98,
+     "p": "a"
+    },
+    {
+     "ini": 8.98,
+     "fin": 10.14,
+     "p": "queixar"
+    },
+    {
+     "ini": 10.14,
+     "fin": 10.38,
+     "p": "-se"
+    }
+   ]
+  },
+  {
+   "ini": 10.38,
+   "fin": 13.16,
+   "texto": "és la gent que està menys disposada a fer coses",
+   "palabras": [
+    {
+     "ini": 10.38,
+     "fin": 10.54,
+     "p": "és"
+    },
+    {
+     "ini": 10.54,
+     "fin": 10.66,
+     "p": "la"
+    },
+    {
+     "ini": 10.66,
+     "fin": 10.9,
+     "p": "gent"
+    },
+    {
+     "ini": 10.9,
+     "fin": 11.12,
+     "p": "que"
+    },
+    {
+     "ini": 11.12,
+     "fin": 11.34,
+     "p": "està"
+    },
+    {
+     "ini": 11.34,
+     "fin": 11.74,
+     "p": "menys"
+    },
+    {
+     "ini": 11.74,
+     "fin": 12.22,
+     "p": "disposada"
+    },
+    {
+     "ini": 12.22,
+     "fin": 12.46,
+     "p": "a"
+    },
+    {
+     "ini": 12.46,
+     "fin": 12.56,
+     "p": "fer"
+    },
+    {
+     "ini": 12.56,
+     "fin": 13.16,
+     "p": "coses"
+    }
+   ]
+  },
+  {
+   "ini": 13.16,
+   "fin": 15.4,
+   "texto": "per canviar la seva situació.",
+   "palabras": [
+    {
+     "ini": 13.16,
+     "fin": 13.9,
+     "p": "per"
+    },
+    {
+     "ini": 13.9,
+     "fin": 14.3,
+     "p": "canviar"
+    },
+    {
+     "ini": 14.3,
+     "fin": 14.6,
+     "p": "la"
+    },
+    {
+     "ini": 14.6,
+     "fin": 14.84,
+     "p": "seva"
+    },
+    {
+     "ini": 14.84,
+     "fin": 15.4,
+     "p": "situació."
+    }
+   ]
+  },
+  {
+   "ini": 15.8,
+   "fin": 19.16,
+   "texto": "La gent que no sé, que s'acostuma a no queixar,",
+   "palabras": [
+    {
+     "ini": 15.8,
+     "fin": 15.96,
+     "p": "La"
+    },
+    {
+     "ini": 15.96,
+     "fin": 16.26,
+     "p": "gent"
+    },
+    {
+     "ini": 16.26,
+     "fin": 16.48,
+     "p": "que"
+    },
+    {
+     "ini": 16.48,
+     "fin": 16.52,
+     "p": "no"
+    },
+    {
+     "ini": 16.52,
+     "fin": 17.02,
+     "p": "sé,"
+    },
+    {
+     "ini": 17.26,
+     "fin": 17.94,
+     "p": "que"
+    },
+    {
+     "ini": 17.94,
+     "fin": 18.06,
+     "p": "s"
+    },
+    {
+     "ini": 18.06,
+     "fin": 18.54,
+     "p": "'acostuma"
+    },
+    {
+     "ini": 18.54,
+     "fin": 18.6,
+     "p": "a"
+    },
+    {
+     "ini": 18.6,
+     "fin": 18.76,
+     "p": "no"
+    },
+    {
+     "ini": 18.76,
+     "fin": 19.16,
+     "p": "queixar,"
+    }
+   ]
+  },
+  {
+   "ini": 19.84,
+   "fin": 25.18,
+   "texto": "és gent que entén els problemes i que intenta buscar solució.",
+   "palabras": [
+    {
+     "ini": 19.84,
+     "fin": 19.9,
+     "p": "és"
+    },
+    {
+     "ini": 19.9,
+     "fin": 20.22,
+     "p": "gent"
+    },
+    {
+     "ini": 20.22,
+     "fin": 21.14,
+     "p": "que"
+    },
+    {
+     "ini": 21.14,
+     "fin": 21.58,
+     "p": "entén"
+    },
+    {
+     "ini": 21.58,
+     "fin": 21.88,
+     "p": "els"
+    },
+    {
+     "ini": 21.88,
+     "fin": 22.4,
+     "p": "problemes"
+    },
+    {
+     "ini": 22.4,
+     "fin": 22.66,
+     "p": "i"
+    },
+    {
+     "ini": 22.66,
+     "fin": 22.9,
+     "p": "que"
+    },
+    {
+     "ini": 22.9,
+     "fin": 23.7,
+     "p": "intenta"
+    },
+    {
+     "ini": 23.7,
+     "fin": 24.1,
+     "p": "buscar"
+    },
+    {
+     "ini": 24.1,
+     "fin": 25.18,
+     "p": "solució."
+    }
+   ]
+  },
+  {
+   "ini": 25.94,
+   "fin": 29.1,
+   "texto": "Doncs quan venia Rafael, jo que li deia a Rafael,",
+   "palabras": [
+    {
+     "ini": 25.94,
+     "fin": 26.46,
+     "p": "Doncs"
+    },
+    {
+     "ini": 26.46,
+     "fin": 26.92,
+     "p": "quan"
+    },
+    {
+     "ini": 26.92,
+     "fin": 27.28,
+     "p": "venia"
+    },
+    {
+     "ini": 27.28,
+     "fin": 27.68,
+     "p": "Rafael,"
+    },
+    {
+     "ini": 27.8,
+     "fin": 27.98,
+     "p": "jo"
+    },
+    {
+     "ini": 27.98,
+     "fin": 28.1,
+     "p": "que"
+    },
+    {
+     "ini": 28.1,
+     "fin": 28.3,
+     "p": "li"
+    },
+    {
+     "ini": 28.3,
+     "fin": 28.46,
+     "p": "deia"
+    },
+    {
+     "ini": 28.46,
+     "fin": 28.5,
+     "p": "a"
+    },
+    {
+     "ini": 28.5,
+     "fin": 29.1,
+     "p": "Rafael,"
+    }
+   ]
+  },
+  {
+   "ini": 29.1,
+   "fin": 32.6,
+   "texto": "Tranquil, que no hi ha mal que 100 anys duri.",
+   "palabras": [
+    {
+     "ini": 29.1,
+     "fin": 30.0,
+     "p": "Tranquil,"
+    },
+    {
+     "ini": 30.1,
+     "fin": 30.22,
+     "p": "que"
+    },
+    {
+     "ini": 30.22,
+     "fin": 30.32,
+     "p": "no"
+    },
+    {
+     "ini": 30.32,
+     "fin": 30.42,
+     "p": "hi"
+    },
+    {
+     "ini": 30.42,
+     "fin": 30.46,
+     "p": "ha"
+    },
+    {
+     "ini": 30.46,
+     "fin": 30.64,
+     "p": "mal"
+    },
+    {
+     "ini": 30.64,
+     "fin": 30.94,
+     "p": "que"
+    },
+    {
+     "ini": 30.94,
+     "fin": 31.2,
+     "p": "100"
+    },
+    {
+     "ini": 31.2,
+     "fin": 31.52,
+     "p": "anys"
+    },
+    {
+     "ini": 31.52,
+     "fin": 32.6,
+     "p": "duri."
+    }
+   ]
+  },
+  {
+   "ini": 33.12,
+   "fin": 40.16,
+   "texto": "Nosaltres hem d'estar preparats per quan tornem a estar amb la capa de manera positiva,",
+   "palabras": [
+    {
+     "ini": 33.12,
+     "fin": 33.44,
+     "p": "Nosaltres"
+    },
+    {
+     "ini": 33.44,
+     "fin": 33.7,
+     "p": "hem"
+    },
+    {
+     "ini": 33.7,
+     "fin": 33.92,
+     "p": "d"
+    },
+    {
+     "ini": 33.92,
+     "fin": 34.2,
+     "p": "'estar"
+    },
+    {
+     "ini": 34.2,
+     "fin": 35.02,
+     "p": "preparats"
+    },
+    {
+     "ini": 35.02,
+     "fin": 35.32,
+     "p": "per"
+    },
+    {
+     "ini": 35.32,
+     "fin": 35.56,
+     "p": "quan"
+    },
+    {
+     "ini": 35.56,
+     "fin": 36.78,
+     "p": "tornem"
+    },
+    {
+     "ini": 36.78,
+     "fin": 37.22,
+     "p": "a"
+    },
+    {
+     "ini": 37.22,
+     "fin": 37.52,
+     "p": "estar"
+    },
+    {
+     "ini": 37.52,
+     "fin": 37.76,
+     "p": "amb"
+    },
+    {
+     "ini": 37.76,
+     "fin": 37.94,
+     "p": "la"
+    },
+    {
+     "ini": 37.94,
+     "fin": 38.9,
+     "p": "capa"
+    },
+    {
+     "ini": 38.9,
+     "fin": 39.18,
+     "p": "de"
+    },
+    {
+     "ini": 39.18,
+     "fin": 39.52,
+     "p": "manera"
+    },
+    {
+     "ini": 39.52,
+     "fin": 40.16,
+     "p": "positiva,"
+    }
+   ]
+  },
+  {
+   "ini": 40.22,
+   "fin": 43.22,
+   "texto": "per estar bé, i tranquil, que això es solucionarà.",
+   "palabras": [
+    {
+     "ini": 40.22,
+     "fin": 40.38,
+     "p": "per"
+    },
+    {
+     "ini": 40.38,
+     "fin": 40.66,
+     "p": "estar"
+    },
+    {
+     "ini": 40.66,
+     "fin": 40.94,
+     "p": "bé,"
+    },
+    {
+     "ini": 41.12,
+     "fin": 41.2,
+     "p": "i"
+    },
+    {
+     "ini": 41.2,
+     "fin": 41.6,
+     "p": "tranquil,"
+    },
+    {
+     "ini": 41.76,
+     "fin": 41.9,
+     "p": "que"
+    },
+    {
+     "ini": 41.9,
+     "fin": 42.04,
+     "p": "això"
+    },
+    {
+     "ini": 42.04,
+     "fin": 42.22,
+     "p": "es"
+    },
+    {
+     "ini": 42.22,
+     "fin": 43.22,
+     "p": "solucionarà."
+    }
+   ]
+  },
+  {
+   "ini": 43.78,
+   "fin": 46.14,
+   "texto": "Perquè jo crec que en la vida gairebé sempre hi ha solució.",
+   "palabras": [
+    {
+     "ini": 43.78,
+     "fin": 44.12,
+     "p": "Perquè"
+    },
+    {
+     "ini": 44.12,
+     "fin": 44.26,
+     "p": "jo"
+    },
+    {
+     "ini": 44.26,
+     "fin": 44.44,
+     "p": "crec"
+    },
+    {
+     "ini": 44.44,
+     "fin": 44.6,
+     "p": "que"
+    },
+    {
+     "ini": 44.6,
+     "fin": 44.6,
+     "p": "en"
+    },
+    {
+     "ini": 44.6,
+     "fin": 44.76,
+     "p": "la"
+    },
+    {
+     "ini": 44.76,
+     "fin": 44.94,
+     "p": "vida"
+    },
+    {
+     "ini": 44.94,
+     "fin": 45.32,
+     "p": "gairebé"
+    },
+    {
+     "ini": 45.32,
+     "fin": 45.52,
+     "p": "sempre"
+    },
+    {
+     "ini": 45.52,
+     "fin": 45.52,
+     "p": "hi"
+    },
+    {
+     "ini": 45.52,
+     "fin": 45.6,
+     "p": "ha"
+    },
+    {
+     "ini": 45.6,
+     "fin": 46.14,
+     "p": "solució."
+    }
+   ]
+  }
+ ]
+}

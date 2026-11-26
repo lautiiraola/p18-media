@@ -1,0 +1,106 @@
+{
+ "clips": [
+  {
+   "n": 1,
+   "def": [
+    {
+     "bloques": "r1b-r1f"
+    }
+   ],
+   "titulo": "Canalizá tu *obsesión* en algo que te sirva",
+   "departamento": "Crecimiento personal",
+   "area": "Mentalidad y adaptación",
+   "tema": "Enfocarse en una sola cosa",
+   "gancho": "Yo me atrincheré mal con jueguitos.",
+   "porque": "Una confesión honesta (jugaba 18 horas por día y no está orgulloso) convertida en idea útil: esa capacidad de obsesionarse, puesta en aprender inteligencia artificial y en una sola cosa, es una ventaja a los 18.",
+   "ranges": [
+    {
+     "ini": 23.34,
+     "fin": 76.92
+    }
+   ],
+   "source": "argento/video_final.mp4",
+   "fuente": "Lucas · Argento Invierte",
+   "slug": "Enfocarse en una sola cosa"
+  },
+  {
+   "n": 2,
+   "def": [
+    {
+     "bloques": "r2a-r2b"
+    }
+   ],
+   "titulo": "Lo que no se aprende es la *actitud*",
+   "departamento": "Finanzas y trabajo",
+   "area": "Trabajo y oportunidades",
+   "tema": "Qué se mira sin experiencia",
+   "gancho": "Yo he tenido experiencia contratando gente sin experiencia: no veo fotos, no veo presentación.",
+   "porque": "Responde directo qué mira al contratar (actitud, curiosidad, disciplina) y lo refuerza con su historia de autodidacta al que le decían caradura en 2014.",
+   "notas": "Dura 58 s, cerca del máximo.",
+   "ranges": [
+    {
+     "ini": 96.18,
+     "fin": 155.82
+    }
+   ],
+   "source": "argento/video_final.mp4",
+   "fuente": "Lucas · Argento Invierte",
+   "slug": "Qué se mira sin experiencia"
+  },
+  {
+   "n": 3,
+   "def": [
+    {
+     "bloques": "r3a-r3e"
+    }
+   ],
+   "titulo": "La primera inversión es en *vos*",
+   "departamento": "Finanzas y trabajo",
+   "area": "Finanzas personales",
+   "tema": "Finanzas para empezar",
+   "gancho": "Siempre cuento una anécdota que es la de Warren Buffett.",
+   "porque": "Educación financiera simple y sin promesas: empezar temprano, gastar menos, invertir en uno mismo con un libro y el hábito de leer 10 o 15 minutos por día.",
+   "notas": "Menciona a Warren Buffett e \"interés compuesto\" como concepto, sin recomendar productos ni prometer ganancias.",
+   "ranges": [
+    {
+     "ini": 158.41,
+     "fin": 211.92
+    }
+   ],
+   "source": "argento/video_final.mp4",
+   "fuente": "Lucas · Argento Invierte",
+   "slug": "Finanzas para empezar"
+  },
+  {
+   "n": 4,
+   "def": [
+    {
+     "bloques": "r1g"
+    },
+    {
+     "bloques": "r4"
+    }
+   ],
+   "titulo": "Aprendé de los errores de los *demás*",
+   "departamento": "Crecimiento personal",
+   "area": "Mentalidad y adaptación",
+   "tema": "Aprender preguntando y de otros",
+   "gancho": "Con curiosidad, ser autodidacta funciona.",
+   "porque": "Une dos ideas de la misma entrevista sobre cómo aprender: preguntar todo lo que no entendés y aprender de los errores de los demás, no sólo de los propios. Cierra con su propósito: que otros aprendan de sus errores.",
+   "notas": "Une dos momentos distintos de la charla (respuesta 1 y cierre).",
+   "ranges": [
+    {
+     "ini": 76.94,
+     "fin": 88.96
+    },
+    {
+     "ini": 211.94,
+     "fin": 241.15
+    }
+   ],
+   "source": "argento/video_final.mp4",
+   "fuente": "Lucas · Argento Invierte",
+   "slug": "Aprender preguntando y de otros"
+  }
+ ]
+}

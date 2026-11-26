@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,548,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.64,P18,,0,0,0,,La parte más difícil es la presión
+Dialogue: 0,0:00:01.64,0:00:04.44,P18,,0,0,0,,que uno mismo se pone porque yo
+Dialogue: 0,0:00:04.44,0:00:07.78,P18,,0,0,0,,había o sea mis padres y toda mi
+Dialogue: 0,0:00:07.78,0:00:09.20,P18,,0,0,0,,familia hicieron muchísimos
+Dialogue: 0,0:00:09.20,0:00:10.66,P18,,0,0,0,,sacrificios para que yo tenga esta
+Dialogue: 0,0:00:10.66,0:00:12.00,P18,,0,0,0,,oportunidad de estudiar en Estados
+Dialogue: 0,0:00:12.00,0:00:15.06,P18,,0,0,0,,Unidos y yo me sentía como que
+Dialogue: 0,0:00:15.06,0:00:16.62,P18,,0,0,0,,bueno había ido a Estados Unidos y
+Dialogue: 0,0:00:16.62,0:00:17.78,P18,,0,0,0,,cómo era posible que no podía
+Dialogue: 0,0:00:17.78,0:00:20.50,P18,,0,0,0,,conseguir trabajo entonces y fui a
+Dialogue: 0,0:00:20.50,0:00:22.88,P18,,0,0,0,,la mejor universidad de Estados
+Dialogue: 0,0:00:22.88,0:00:24.26,P18,,0,0,0,,Unidos prácticamente para negocio
+Dialogue: 0,0:00:24.26,0:00:26.04,P18,,0,0,0,,y que me estaba consiguiendo,
+Dialogue: 0,0:00:26.04,0:00:28.02,P18,,0,0,0,,me estaba haciendo tan difícil
+Dialogue: 0,0:00:28.02,0:00:28.72,P18,,0,0,0,,eso.
+Dialogue: 0,0:00:29.28,0:00:30.72,P18,,0,0,0,,Parte también era de que el
+Dialogue: 0,0:00:30.72,0:00:33.34,P18,,0,0,0,,sistema americano es muy
+Dialogue: 0,0:00:33.34,0:00:35.14,P18,,0,0,0,,estructurado en cómo conseguir
+Dialogue: 0,0:00:35.14,0:00:37.32,P18,,0,0,0,,trabajo y cómo uno va de primer
+Dialogue: 0,0:00:37.32,0:00:38.56,P18,,0,0,0,,año, segundo año, tercer año,
+Dialogue: 0,0:00:38.56,0:00:39.26,P18,,0,0,0,,cuarto año.
+Dialogue: 0,0:00:39.52,0:00:40.92,P18,,0,0,0,,Yo no conocía ese sistema,
+Dialogue: 0,0:00:41.58,0:00:43.96,P18,,0,0,0,,entonces no me di cuenta hasta un
+Dialogue: 0,0:00:43.96,0:00:45.28,P18,,0,0,0,,poquito tarde y por eso me costó
+Dialogue: 0,0:00:45.28,0:00:48.54,P18,,0,0,0,,un poco más y la presión
+Dialogue: 0,0:00:48.54,0:00:49.88,P18,,0,0,0,,propia que uno se ponía a decir
+Dialogue: 0,0:00:49.88,0:00:51.28,P18,,0,0,0,,cómo es posible que después todo
+Dialogue: 0,0:00:51.28,0:00:54.40,P18,,0,0,0,,el sacrificio y esto yo yo no
+Dialogue: 0,0:00:54.40,0:00:56.38,P18,,0,0,0,,estoy consiguiendo digamos trabajo
+Dialogue: 0,0:00:56.38,0:00:58.38,P18,,0,0,0,,tan y me cuesta tanto

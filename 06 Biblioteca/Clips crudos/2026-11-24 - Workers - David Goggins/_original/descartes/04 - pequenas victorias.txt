@@ -1,0 +1,26 @@
+CLIP 04 — GUARDÁ TUS PEQUEÑAS VICTORIAS
+
+Inicio:     18:03.3  (1083.30 s)
+Fin:        18:32.4  (1112.43 s)
+Duración:   29.1 s  ⚠ dura 29.1s (buscado: 30–60s)
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  GUARDÁ TUS PEQUEÑAS VICTORIAS   (en el reel, en lima: PEQUEÑAS VICTORIAS)
+Departamento:     Crecimiento personal
+Área:             Autoconocimiento
+Tema:             El frasco de galletas: recordar lo que ya lograste
+Fuente:           Workers - David Goggins — "Como ser EXAGERADAMENTE disciplinado | David Goggins #4"
+                  https://www.youtube.com/watch?v=6r52EZzweoM&t=1083s
+
+Por qué lo elegí:
+Idea simple para la autoconfianza: anotar lo que ya lograste, grande o chico, y volver a eso cuando algo cuesta.
+
+Gancho (primeros 3 s): Este concepto es poderosísimo
+
+Notas para la revisión: Dura ~29 s. Corta justo antes del ejemplo de bajar de peso.
+
+Transcripción del clip:
+Este concepto es poderosísimo, porque al igual que Godin's, todos tenemos nuestro propio frasco de galletas con cada una de esas victorias dentro. No importa si son grandes o pequeñas victorias, lo que importa es que están ahí, y lo mejor de todo es que podemos acceder a ellas en el momento que queramos. Las pequeñas victorias van construyendo nuestro autoestima. Nos recuerdan lo que ya hicimos, de lo que fuimos capaces una vez, de lo que podemos llegar a lograr si nos lo proponemos y hacemos lo necesario. Muchas veces ignoramos lo poderosas que son las pequeñas victorias, pero son la chispa que enciende el motor para
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-24 - Workers - David Goggins/04 - pequenas victorias.mp4" "GUARDÁ TUS *PEQUEÑAS VICTORIAS*" --fuente "Workers - David Goggins"

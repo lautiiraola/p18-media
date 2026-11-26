@@ -1,0 +1,2480 @@
+{
+ "data": {
+  "videoId": "P18-001",
+  "fps": 60,
+  "durationInFrames": 7404,
+  "voice": "audio/voz.wav",
+  "music": {
+   "file": "audio/cama.wav",
+   "points": [
+    [
+     0,
+     0.0
+    ],
+    [
+     0.6,
+     0.1
+    ],
+    [
+     32.6,
+     0.1
+    ],
+    [
+     32.9,
+     0.07
+    ],
+    [
+     34.28,
+     0.1
+    ],
+    [
+     67.28,
+     0.1
+    ],
+    [
+     72.14999999999999,
+     0.15
+    ],
+    [
+     72.35,
+     0.0
+    ],
+    [
+     73.35,
+     0.0
+    ],
+    [
+     73.94999999999999,
+     0.1
+    ],
+    [
+     104.44,
+     0.1
+    ],
+    [
+     108.04,
+     0.07
+    ],
+    [
+     112.74,
+     0.06
+    ],
+    [
+     114.74,
+     0.0
+    ],
+    [
+     119.9,
+     0.04
+    ],
+    [
+     120.65,
+     0.12
+    ],
+    [
+     123.0,
+     0.09
+    ],
+    [
+     123.4,
+     0.0
+    ]
+   ]
+  },
+  "sfx": [
+   {
+    "file": "audio/whoosh_suave.wav",
+    "at": 15.12,
+    "vol": 0.16
+   },
+   {
+    "file": "audio/whoosh_corto.wav",
+    "at": 51.36,
+    "vol": 0.16
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 53.24,
+    "vol": 0.25
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 54.4,
+    "vol": 0.25
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 55.56,
+    "vol": 0.25
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 67.28,
+    "vol": 0.16
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 67.98,
+    "vol": 0.16
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 68.53,
+    "vol": 0.16
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 68.93,
+    "vol": 0.16
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 69.23,
+    "vol": 0.16
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 69.43,
+    "vol": 0.16
+   },
+   {
+    "file": "audio/riser.wav",
+    "at": 69.55,
+    "vol": 0.2
+   },
+   {
+    "file": "audio/pop.wav",
+    "at": 72.35,
+    "vol": 0.22
+   },
+   {
+    "file": "audio/whoosh_corto.wav",
+    "at": 78.52,
+    "vol": 0.14
+   },
+   {
+    "file": "audio/whoosh_suave.wav",
+    "at": 83.48,
+    "vol": 0.16
+   },
+   {
+    "file": "audio/riser.wav",
+    "at": 94.04,
+    "vol": 0.2
+   },
+   {
+    "file": "audio/impacto_suave.wav",
+    "at": 98.61,
+    "vol": 0.25
+   },
+   {
+    "file": "audio/pop.wav",
+    "at": 99.38,
+    "vol": 0.2
+   },
+   {
+    "file": "audio/pop.wav",
+    "at": 106.38,
+    "vol": 0.2
+   },
+   {
+    "file": "audio/whoosh_suave.wav",
+    "at": 111.36,
+    "vol": 0.1
+   },
+   {
+    "file": "audio/whoosh_suave.wav",
+    "at": 120.4,
+    "vol": 0.12
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 120.52,
+    "vol": 0.11
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 120.63,
+    "vol": 0.11
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 120.74,
+    "vol": 0.11
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 120.85,
+    "vol": 0.11
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 120.96,
+    "vol": 0.11
+   },
+   {
+    "file": "audio/tick.wav",
+    "at": 121.07,
+    "vol": 0.11
+   },
+   {
+    "file": "audio/pop.wav",
+    "at": 121.18,
+    "vol": 0.2
+   }
+  ],
+  "captions": [
+   {
+    "unit": 2,
+    "start": 5.28,
+    "end": 7.52,
+    "words": [
+     {
+      "text": "A",
+      "t0": 5.28,
+      "active": false
+     },
+     {
+      "text": "James",
+      "t0": 5.37,
+      "active": false
+     },
+     {
+      "text": "Dyson",
+      "t0": 5.84,
+      "active": false
+     },
+     {
+      "text": "le",
+      "t0": 6.27,
+      "active": false
+     },
+     {
+      "text": "repitieron",
+      "t0": 6.45,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 2,
+    "start": 7.52,
+    "end": 9.4,
+    "words": [
+     {
+      "text": "esa",
+      "t0": 7.52,
+      "active": false
+     },
+     {
+      "text": "frase",
+      "t0": 7.62,
+      "active": false
+     },
+     {
+      "text": "durante",
+      "t0": 8.07,
+      "active": false
+     },
+     {
+      "text": "años.",
+      "t0": 8.71,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 3,
+    "start": 9.4,
+    "end": 11.0,
+    "words": [
+     {
+      "text": "Fines",
+      "t0": 9.4,
+      "active": false
+     },
+     {
+      "text": "de",
+      "t0": 9.96,
+      "active": false
+     },
+     {
+      "text": "los",
+      "t0": 10.02,
+      "active": false
+     },
+     {
+      "text": "setenta.",
+      "t0": 10.26,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 4,
+    "start": 11.0,
+    "end": 12.77,
+    "words": [
+     {
+      "text": "En",
+      "t0": 11.0,
+      "active": false
+     },
+     {
+      "text": "su",
+      "t0": 11.14,
+      "active": false
+     },
+     {
+      "text": "fábrica",
+      "t0": 11.3,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "de",
+      "t0": 11.77,
+      "active": false
+     },
+     {
+      "text": "carretillas,",
+      "t0": 11.91,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 4,
+    "start": 12.77,
+    "end": 15.12,
+    "words": [
+     {
+      "text": "un",
+      "t0": 12.77,
+      "active": false
+     },
+     {
+      "text": "filtro",
+      "t0": 12.89,
+      "active": false
+     },
+     {
+      "text": "se",
+      "t0": 13.41,
+      "active": false
+     },
+     {
+      "text": "tapaba",
+      "t0": 13.58,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "cada",
+      "t0": 14.1,
+      "active": false
+     },
+     {
+      "text": "hora.",
+      "t0": 14.45,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 5,
+    "start": 15.12,
+    "end": 16.92,
+    "words": [
+     {
+      "text": "En",
+      "t0": 15.12,
+      "active": false
+     },
+     {
+      "text": "un",
+      "t0": 15.27,
+      "active": false
+     },
+     {
+      "text": "aserradero",
+      "t0": 15.42,
+      "active": false
+     },
+     {
+      "text": "había",
+      "t0": 16.23,
+      "active": false
+     },
+     {
+      "text": "visto",
+      "t0": 16.54,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 5,
+    "start": 16.92,
+    "end": 19.24,
+    "words": [
+     {
+      "text": "la",
+      "t0": 16.92,
+      "active": false
+     },
+     {
+      "text": "solución:",
+      "t0": 17.07,
+      "active": false
+     },
+     {
+      "text": "un",
+      "t0": 17.96,
+      "active": false
+     },
+     {
+      "text": "ciclón.",
+      "t0": 18.28,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 6,
+    "start": 19.24,
+    "end": 20.38,
+    "words": [
+     {
+      "text": "Hace",
+      "t0": 19.24,
+      "active": false
+     },
+     {
+      "text": "girar",
+      "t0": 19.55,
+      "active": false
+     },
+     {
+      "text": "el",
+      "t0": 19.92,
+      "active": false
+     },
+     {
+      "text": "aire",
+      "t0": 20.07,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 6,
+    "start": 20.38,
+    "end": 22.36,
+    "words": [
+     {
+      "text": "hasta",
+      "t0": 20.38,
+      "active": false
+     },
+     {
+      "text": "que",
+      "t0": 20.76,
+      "active": false
+     },
+     {
+      "text": "el",
+      "t0": 21.01,
+      "active": false
+     },
+     {
+      "text": "polvo",
+      "t0": 21.14,
+      "active": false
+     },
+     {
+      "text": "cae",
+      "t0": 21.52,
+      "active": false
+     },
+     {
+      "text": "solo.",
+      "t0": 21.74,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 7,
+    "start": 22.36,
+    "end": 23.6,
+    "words": [
+     {
+      "text": "Construyó",
+      "t0": 22.36,
+      "active": false
+     },
+     {
+      "text": "uno.",
+      "t0": 23.09,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 8,
+    "start": 23.6,
+    "end": 25.64,
+    "words": [
+     {
+      "text": "No",
+      "t0": 23.6,
+      "active": false
+     },
+     {
+      "text": "se",
+      "t0": 23.82,
+      "active": false
+     },
+     {
+      "text": "tapaba",
+      "t0": 24.04,
+      "active": false
+     },
+     {
+      "text": "nunca.",
+      "t0": 24.71,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 9,
+    "start": 25.64,
+    "end": 26.4,
+    "words": [
+     {
+      "text": "En",
+      "t0": 25.64,
+      "active": false
+     },
+     {
+      "text": "su",
+      "t0": 25.79,
+      "active": false
+     },
+     {
+      "text": "casa,",
+      "t0": 25.95,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 9,
+    "start": 26.4,
+    "end": 29.2,
+    "words": [
+     {
+      "text": "la",
+      "t0": 26.4,
+      "active": false
+     },
+     {
+      "text": "bolsa",
+      "t0": 26.55,
+      "active": false
+     },
+     {
+      "text": "de",
+      "t0": 26.93,
+      "active": false
+     },
+     {
+      "text": "la",
+      "t0": 27.08,
+      "active": false
+     },
+     {
+      "text": "aspiradora",
+      "t0": 27.23,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "sí",
+      "t0": 28.01,
+      "active": true
+     },
+     {
+      "text": "se",
+      "t0": 28.16,
+      "active": false
+     },
+     {
+      "text": "tapaba.",
+      "t0": 28.31,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 10,
+    "start": 29.2,
+    "end": 30.6,
+    "words": [
+     {
+      "text": "Armó",
+      "t0": 29.2,
+      "active": false
+     },
+     {
+      "text": "un",
+      "t0": 29.42,
+      "active": false
+     },
+     {
+      "text": "ciclón",
+      "t0": 29.56,
+      "active": false
+     },
+     {
+      "text": "de",
+      "t0": 30.0,
+      "active": false
+     },
+     {
+      "text": "cartón",
+      "t0": 30.15,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 10,
+    "start": 30.6,
+    "end": 32.6,
+    "words": [
+     {
+      "text": "y",
+      "t0": 30.6,
+      "active": false
+     },
+     {
+      "text": "lo",
+      "t0": 30.67,
+      "active": false
+     },
+     {
+      "text": "puso",
+      "t0": 30.89,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "en",
+      "t0": 31.11,
+      "active": false
+     },
+     {
+      "text": "lugar",
+      "t0": 31.36,
+      "active": false
+     },
+     {
+      "text": "de",
+      "t0": 31.63,
+      "active": false
+     },
+     {
+      "text": "la",
+      "t0": 31.78,
+      "active": false
+     },
+     {
+      "text": "bolsa.",
+      "t0": 31.93,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 11,
+    "start": 32.6,
+    "end": 34.28,
+    "words": [
+     {
+      "text": "Parecía",
+      "t0": 32.6,
+      "active": true
+     },
+     {
+      "text": "funcionar.",
+      "t0": 33.21,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 13,
+    "start": 40.32,
+    "end": 43.08,
+    "words": [
+     {
+      "text": "Dyson",
+      "t0": 40.32,
+      "active": false
+     },
+     {
+      "text": "se",
+      "t0": 40.75,
+      "active": false
+     },
+     {
+      "text": "fue",
+      "t0": 40.92,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "y",
+      "t0": 41.18,
+      "active": false
+     },
+     {
+      "text": "siguió",
+      "t0": 41.26,
+      "active": false
+     },
+     {
+      "text": "por",
+      "t0": 41.78,
+      "active": false
+     },
+     {
+      "text": "su",
+      "t0": 42.09,
+      "active": false
+     },
+     {
+      "text": "cuenta.",
+      "t0": 42.21,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 14,
+    "start": 43.08,
+    "end": 44.21,
+    "words": [
+     {
+      "text": "Un",
+      "t0": 43.08,
+      "active": false
+     },
+     {
+      "text": "experto",
+      "t0": 43.23,
+      "active": false
+     },
+     {
+      "text": "le",
+      "t0": 43.76,
+      "active": false
+     },
+     {
+      "text": "dijo",
+      "t0": 43.91,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 14,
+    "start": 44.21,
+    "end": 45.84,
+    "words": [
+     {
+      "text": "que",
+      "t0": 44.21,
+      "active": false
+     },
+     {
+      "text": "no",
+      "t0": 44.44,
+      "active": false
+     },
+     {
+      "text": "iba",
+      "t0": 44.59,
+      "active": false
+     },
+     {
+      "text": "a",
+      "t0": 44.85,
+      "active": false
+     },
+     {
+      "text": "funcionar:",
+      "t0": 44.89,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 14,
+    "start": 45.84,
+    "end": 47.22,
+    "words": [
+     {
+      "text": "el",
+      "t0": 45.84,
+      "active": false
+     },
+     {
+      "text": "polvo",
+      "t0": 46.0,
+      "active": false
+     },
+     {
+      "text": "de",
+      "t0": 46.44,
+      "active": false
+     },
+     {
+      "text": "una",
+      "t0": 46.61,
+      "active": false
+     },
+     {
+      "text": "casa",
+      "t0": 46.87,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 14,
+    "start": 47.22,
+    "end": 48.84,
+    "words": [
+     {
+      "text": "es",
+      "t0": 47.22,
+      "active": false
+     },
+     {
+      "text": "demasiado",
+      "t0": 47.39,
+      "active": false
+     },
+     {
+      "text": "fino.",
+      "t0": 48.18,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 15,
+    "start": 48.84,
+    "end": 51.36,
+    "words": [
+     {
+      "text": "Las",
+      "t0": 48.84,
+      "active": false
+     },
+     {
+      "text": "fórmulas",
+      "t0": 49.06,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "no",
+      "t0": 49.65,
+      "active": false
+     },
+     {
+      "text": "se",
+      "t0": 49.8,
+      "active": false
+     },
+     {
+      "text": "ponían",
+      "t0": 49.95,
+      "active": false
+     },
+     {
+      "text": "de",
+      "t0": 50.39,
+      "active": false
+     },
+     {
+      "text": "acuerdo.",
+      "t0": 50.61,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 16,
+    "start": 51.36,
+    "end": 53.24,
+    "words": [
+     {
+      "text": "Así",
+      "t0": 51.36,
+      "active": false
+     },
+     {
+      "text": "que",
+      "t0": 51.61,
+      "active": false
+     },
+     {
+      "text": "empezó",
+      "t0": 51.92,
+      "active": false
+     },
+     {
+      "text": "a",
+      "t0": 52.36,
+      "active": false
+     },
+     {
+      "text": "probar.",
+      "t0": 52.47,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 17,
+    "start": 53.24,
+    "end": 54.4,
+    "words": [
+     {
+      "text": "Un",
+      "t0": 53.24,
+      "active": false
+     },
+     {
+      "text": "prototipo.",
+      "t0": 53.4,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 18,
+    "start": 54.4,
+    "end": 55.56,
+    "words": [
+     {
+      "text": "Una",
+      "t0": 54.4,
+      "active": false
+     },
+     {
+      "text": "medición.",
+      "t0": 54.64,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 19,
+    "start": 55.56,
+    "end": 57.08,
+    "words": [
+     {
+      "text": "Un",
+      "t0": 55.56,
+      "active": false
+     },
+     {
+      "text": "solo",
+      "t0": 55.75,
+      "active": true
+     },
+     {
+      "text": "cambio.",
+      "t0": 56.13,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 20,
+    "start": 57.08,
+    "end": 59.12,
+    "words": [
+     {
+      "text": "Si",
+      "t0": 57.08,
+      "active": false
+     },
+     {
+      "text": "mejoraba,",
+      "t0": 57.16,
+      "active": false
+     },
+     {
+      "text": "sabía",
+      "t0": 57.96,
+      "active": false
+     },
+     {
+      "text": "por",
+      "t0": 58.36,
+      "active": false
+     },
+     {
+      "text": "qué.",
+      "t0": 58.6,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 21,
+    "start": 59.12,
+    "end": 61.16,
+    "words": [
+     {
+      "text": "Si",
+      "t0": 59.12,
+      "active": false
+     },
+     {
+      "text": "empeoraba,",
+      "t0": 59.29,
+      "active": false
+     },
+     {
+      "text": "también.",
+      "t0": 60.23,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 22,
+    "start": 61.16,
+    "end": 62.72,
+    "words": [
+     {
+      "text": "Deirdre,",
+      "t0": 61.16,
+      "active": false
+     },
+     {
+      "text": "su",
+      "t0": 61.92,
+      "active": false
+     },
+     {
+      "text": "mujer,",
+      "t0": 62.09,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 22,
+    "start": 62.72,
+    "end": 63.84,
+    "words": [
+     {
+      "text": "daba",
+      "t0": 62.72,
+      "active": false
+     },
+     {
+      "text": "clases",
+      "t0": 62.99,
+      "active": false
+     },
+     {
+      "text": "de",
+      "t0": 63.4,
+      "active": false
+     },
+     {
+      "text": "arte",
+      "t0": 63.54,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 22,
+    "start": 63.84,
+    "end": 65.52,
+    "words": [
+     {
+      "text": "para",
+      "t0": 63.84,
+      "active": false
+     },
+     {
+      "text": "sostener",
+      "t0": 64.1,
+      "active": false
+     },
+     {
+      "text": "a",
+      "t0": 64.62,
+      "active": false
+     },
+     {
+      "text": "la",
+      "t0": 64.68,
+      "active": false
+     },
+     {
+      "text": "familia.",
+      "t0": 64.81,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 23,
+    "start": 65.52,
+    "end": 67.28,
+    "words": [
+     {
+      "text": "Las",
+      "t0": 65.52,
+      "active": false
+     },
+     {
+      "text": "deudas",
+      "t0": 65.82,
+      "active": true
+     },
+     {
+      "text": "crecían.",
+      "t0": 66.33,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 26,
+    "start": 74.84,
+    "end": 76.28,
+    "words": [
+     {
+      "text": "Tenía",
+      "t0": 74.84,
+      "active": false
+     },
+     {
+      "text": "la",
+      "t0": 75.25,
+      "active": false
+     },
+     {
+      "text": "máquina.",
+      "t0": 75.41,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 27,
+    "start": 76.28,
+    "end": 78.52,
+    "words": [
+     {
+      "text": "Le",
+      "t0": 76.28,
+      "active": false
+     },
+     {
+      "text": "faltaba",
+      "t0": 76.44,
+      "active": false
+     },
+     {
+      "text": "quién",
+      "t0": 76.99,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "la",
+      "t0": 77.39,
+      "active": false
+     },
+     {
+      "text": "fabricara.",
+      "t0": 77.55,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 28,
+    "start": 78.52,
+    "end": 79.94,
+    "words": [
+     {
+      "text": "Los",
+      "t0": 78.52,
+      "active": false
+     },
+     {
+      "text": "grandes",
+      "t0": 78.72,
+      "active": false
+     },
+     {
+      "text": "fabricantes",
+      "t0": 79.19,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 28,
+    "start": 79.94,
+    "end": 81.12,
+    "words": [
+     {
+      "text": "le",
+      "t0": 79.94,
+      "active": false
+     },
+     {
+      "text": "dijeron",
+      "t0": 80.07,
+      "active": false
+     },
+     {
+      "text": "que",
+      "t0": 80.53,
+      "active": false
+     },
+     {
+      "text": "no.",
+      "t0": 80.76,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 30,
+    "start": 83.48,
+    "end": 85.84,
+    "words": [
+     {
+      "text": "En",
+      "t0": 83.48,
+      "active": false
+     },
+     {
+      "text": "Japón,",
+      "t0": 83.63,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "una",
+      "t0": 84.16,
+      "active": false
+     },
+     {
+      "text": "empresa",
+      "t0": 84.39,
+      "active": false
+     },
+     {
+      "text": "se",
+      "t0": 84.93,
+      "active": false
+     },
+     {
+      "text": "animó:",
+      "t0": 85.08,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 30,
+    "start": 85.84,
+    "end": 88.88,
+    "words": [
+     {
+      "text": "una",
+      "t0": 85.84,
+      "active": false
+     },
+     {
+      "text": "aspiradora",
+      "t0": 86.07,
+      "active": false
+     },
+     {
+      "text": "rosa",
+      "t0": 87.06,
+      "active": true,
+      "br": true
+     },
+     {
+      "text": "llamada",
+      "t0": 87.53,
+      "active": false
+     },
+     {
+      "text": "G-Force.",
+      "t0": 88.16,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 31,
+    "start": 88.88,
+    "end": 90.02,
+    "words": [
+     {
+      "text": "Diez",
+      "t0": 88.88,
+      "active": false
+     },
+     {
+      "text": "años",
+      "t0": 89.28,
+      "active": false
+     },
+     {
+      "text": "después",
+      "t0": 89.55,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 31,
+    "start": 90.02,
+    "end": 91.2,
+    "words": [
+     {
+      "text": "del",
+      "t0": 90.02,
+      "active": false
+     },
+     {
+      "text": "ciclón",
+      "t0": 90.22,
+      "active": false
+     },
+     {
+      "text": "de",
+      "t0": 90.65,
+      "active": false
+     },
+     {
+      "text": "cartón,",
+      "t0": 90.74,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 31,
+    "start": 91.2,
+    "end": 93.2,
+    "words": [
+     {
+      "text": "dejó",
+      "t0": 91.2,
+      "active": false
+     },
+     {
+      "text": "de",
+      "t0": 91.51,
+      "active": false
+     },
+     {
+      "text": "buscar",
+      "t0": 91.76,
+      "active": false
+     },
+     {
+      "text": "fabricante.",
+      "t0": 92.15,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 32,
+    "start": 93.2,
+    "end": 94.48,
+    "words": [
+     {
+      "text": "Con",
+      "t0": 93.2,
+      "active": false
+     },
+     {
+      "text": "el",
+      "t0": 93.41,
+      "active": false
+     },
+     {
+      "text": "dinero",
+      "t0": 93.55,
+      "active": false
+     },
+     {
+      "text": "de",
+      "t0": 93.97,
+      "active": false
+     },
+     {
+      "text": "Japón",
+      "t0": 94.11,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 32,
+    "start": 94.48,
+    "end": 96.84,
+    "words": [
+     {
+      "text": "y",
+      "t0": 94.48,
+      "active": false
+     },
+     {
+      "text": "un",
+      "t0": 94.54,
+      "active": false
+     },
+     {
+      "text": "préstamo",
+      "t0": 94.67,
+      "active": false
+     },
+     {
+      "text": "con",
+      "t0": 95.44,
+      "active": false
+     },
+     {
+      "text": "su",
+      "t0": 95.45,
+      "active": false
+     },
+     {
+      "text": "casa",
+      "t0": 95.59,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "como",
+      "t0": 95.88,
+      "active": false
+     },
+     {
+      "text": "garantía,",
+      "t0": 96.2,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 32,
+    "start": 96.84,
+    "end": 99.08,
+    "words": [
+     {
+      "text": "decidió",
+      "t0": 96.84,
+      "active": false
+     },
+     {
+      "text": "fabricarla",
+      "t0": 97.54,
+      "active": false
+     },
+     {
+      "text": "él.",
+      "t0": 98.61,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 33,
+    "start": 99.08,
+    "end": 103.3,
+    "words": [
+     {
+      "text": "En",
+      "t0": 99.08,
+      "active": false
+     },
+     {
+      "text": "1993",
+      "t0": 99.38,
+      "active": false
+     },
+     {
+      "text": "lanzó",
+      "t0": 100.98,
+      "active": false
+     },
+     {
+      "text": "el",
+      "t0": 101.65,
+      "active": false
+     },
+     {
+      "text": "DC01.",
+      "t0": 101.92,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 34,
+    "start": 103.3,
+    "end": 104.44,
+    "words": [
+     {
+      "text": "Con",
+      "t0": 103.3,
+      "active": false
+     },
+     {
+      "text": "su",
+      "t0": 103.5,
+      "active": false
+     },
+     {
+      "text": "apellido.",
+      "t0": 103.65,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 35,
+    "start": 104.44,
+    "end": 108.04,
+    "words": [
+     {
+      "text": "Hoy,",
+      "t0": 104.44,
+      "active": false,
+      "br": true
+     },
+     {
+      "text": "su",
+      "t0": 105.0,
+      "active": false
+     },
+     {
+      "text": "empresa",
+      "t0": 105.11,
+      "active": false
+     },
+     {
+      "text": "está",
+      "t0": 105.79,
+      "active": false
+     },
+     {
+      "text": "en",
+      "t0": 106.21,
+      "active": false
+     },
+     {
+      "text": "84",
+      "t0": 106.38,
+      "active": false
+     },
+     {
+      "text": "mercados.",
+      "t0": 106.94,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 36,
+    "start": 108.04,
+    "end": 109.4,
+    "words": [
+     {
+      "text": "Cada",
+      "t0": 108.04,
+      "active": false
+     },
+     {
+      "text": "intento",
+      "t0": 108.35,
+      "active": false
+     },
+     {
+      "text": "fallido",
+      "t0": 108.87,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 36,
+    "start": 109.4,
+    "end": 111.36,
+    "words": [
+     {
+      "text": "le",
+      "t0": 109.4,
+      "active": false
+     },
+     {
+      "text": "había",
+      "t0": 109.55,
+      "active": false
+     },
+     {
+      "text": "dicho",
+      "t0": 109.93,
+      "active": false
+     },
+     {
+      "text": "qué",
+      "t0": 110.31,
+      "active": false
+     },
+     {
+      "text": "cambiar.",
+      "t0": 110.54,
+      "active": true
+     }
+    ]
+   },
+   {
+    "unit": 37,
+    "start": 111.36,
+    "end": 113.01,
+    "words": [
+     {
+      "text": "La",
+      "t0": 111.36,
+      "active": false
+     },
+     {
+      "text": "frase",
+      "t0": 111.53,
+      "active": false
+     },
+     {
+      "text": "de",
+      "t0": 111.97,
+      "active": false
+     },
+     {
+      "text": "los",
+      "t0": 112.14,
+      "active": false
+     },
+     {
+      "text": "grandes",
+      "t0": 112.4,
+      "active": false
+     }
+    ]
+   },
+   {
+    "unit": 37,
+    "start": 113.01,
+    "end": 114.74,
+    "words": [
+     {
+      "text": "nunca",
+      "t0": 113.01,
+      "active": false
+     },
+     {
+      "text": "le",
+      "t0": 113.6,
+      "active": false
+     },
+     {
+      "text": "dijo",
+      "t0": 113.63,
+      "active": false
+     },
+     {
+      "text": "nada.",
+      "t0": 113.98,
+      "active": true
+     }
+    ]
+   }
+  ],
+  "scenes": [
+   {
+    "id": "S01",
+    "t": [
+     0.0,
+     5.28
+    ],
+    "type": "quote",
+    "kicker": "La frase",
+    "bg": "deep",
+    "words": [
+     {
+      "text": "Si",
+      "t0": 0.08
+     },
+     {
+      "text": "existiera",
+      "t0": 0.15
+     },
+     {
+      "text": "una",
+      "t0": 0.82
+     },
+     {
+      "text": "aspiradora",
+      "t0": 1.11
+     },
+     {
+      "text": "mejor,",
+      "t0": 1.77
+     },
+     {
+      "text": "ya",
+      "t0": 2.35
+     },
+     {
+      "text": "la",
+      "t0": 2.5
+     },
+     {
+      "text": "habría",
+      "t0": 2.65
+     },
+     {
+      "text": "inventado",
+      "t0": 3.11
+     },
+     {
+      "text": "alguna",
+      "t0": 3.81
+     },
+     {
+      "text": "de",
+      "t0": 4.28
+     },
+     {
+      "text": "las",
+      "t0": 4.42
+     },
+     {
+      "text": "grandes.",
+      "t0": 4.66
+     }
+    ],
+    "underline": [
+     "alguna",
+     "de",
+     "las",
+     "grandes."
+    ],
+    "gallery": [
+     {
+      "src": "img/A26.jpg",
+      "x": 80,
+      "y": 880,
+      "w": 520,
+      "h": 292,
+      "rot": -5,
+      "enter": "drop",
+      "fx": 0.82,
+      "credit": "Aspiradora con bolsa · Foto: Dyson ©",
+      "at": 1.4
+     }
+    ]
+   },
+   {
+    "id": "S02",
+    "t": [
+     5.28,
+     9.4
+    ],
+    "type": "portrait",
+    "kicker": "La frase",
+    "src": "img/A25c.jpg",
+    "label": "James Dyson",
+    "credit": "Foto: Dyson ©",
+    "miniQuote": "Si existiera una aspiradora mejor, ya la habría inventado alguna de las grandes."
+   },
+   {
+    "id": "S03",
+    "t": [
+     9.4,
+     11.0
+    ],
+    "type": "year",
+    "kicker": "El problema",
+    "bg": "paper",
+    "year": "1978",
+    "caption": "Inglaterra · fines de los 70",
+    "gallery": [
+     {
+      "src": "img/A30.jpg",
+      "x": 470,
+      "y": 960,
+      "w": 520,
+      "h": 370,
+      "rot": 4,
+      "enter": "slide",
+      "credit": "Los Ballbarrow, años 70 · Foto: Dyson ©",
+      "at": 9.7
+     }
+    ]
+   },
+   {
+    "id": "S04",
+    "t": [
+     11.0,
+     15.12
+    ],
+    "type": "document",
+    "kicker": "El problema",
+    "bg": "paper",
+    "src": "img/A02.png",
+    "from": 1.0,
+    "to": 1.18,
+    "focusX": 0.82,
+    "focusY": 0.75,
+    "credit": "Patente US 4.058.344 (Ballbarrow) · dominio público",
+    "overlay": "clog"
+   },
+   {
+    "id": "S05",
+    "t": [
+     15.12,
+     19.24
+    ],
+    "type": "photo",
+    "kicker": "La pista",
+    "src": "img/A14.jpg",
+    "from": 1.05,
+    "to": 1.22,
+    "focusX": 0.62,
+    "focusY": 0.28,
+    "panY": [
+     0.55,
+     0.2
+    ],
+    "credit": "Ciclón del aserradero Hill Leigh, Bath · Foto: Dyson ©",
+    "enter": "iris",
+    "gallery": [
+     {
+      "src": "img/A15.jpg",
+      "x": 560,
+      "y": 1010,
+      "w": 440,
+      "h": 248,
+      "rot": 5,
+      "enter": "drop",
+      "credit": "Hill Leigh, Bath · Foto: Dyson ©",
+      "at": 17.12
+     }
+    ]
+   },
+   {
+    "id": "S06",
+    "t": [
+     19.24,
+     25.64
+    ],
+    "type": "cyclone",
+    "kicker": "La pista",
+    "bg": "deep",
+    "grow": 22.36,
+    "hours": 23.6,
+    "label": "Representación gráfica"
+   },
+   {
+    "id": "S09",
+    "t": [
+     25.64,
+     29.2
+    ],
+    "type": "bag",
+    "kicker": "El problema",
+    "bg": "deep",
+    "label": "Representación gráfica"
+   },
+   {
+    "id": "S10",
+    "t": [
+     29.2,
+     34.28
+    ],
+    "type": "cardboard",
+    "kicker": "La idea",
+    "bg": "deep",
+    "freeze": 32.6,
+    "label": "Representación gráfica"
+   },
+   {
+    "id": "S12",
+    "t": [
+     34.28,
+     40.32
+    ],
+    "type": "quote",
+    "kicker": "El rechazo",
+    "bg": "paper",
+    "attribution": "Sus socios no quisieron saber nada",
+    "words": [
+     {
+      "text": "Si",
+      "t0": 36.72
+     },
+     {
+      "text": "fuera",
+      "t0": 36.86
+     },
+     {
+      "text": "posible,",
+      "t0": 37.28
+     },
+     {
+      "text": "ya",
+      "t0": 37.87
+     },
+     {
+      "text": "lo",
+      "t0": 38.01
+     },
+     {
+      "text": "habría",
+      "t0": 38.15
+     },
+     {
+      "text": "hecho",
+      "t0": 38.58
+     },
+     {
+      "text": "una",
+      "t0": 38.96
+     },
+     {
+      "text": "de",
+      "t0": 39.16
+     },
+     {
+      "text": "las",
+      "t0": 39.3
+     },
+     {
+      "text": "grandes.",
+      "t0": 39.52
+     }
+    ],
+    "underline": [
+     "una",
+     "de",
+     "las",
+     "grandes."
+    ]
+   },
+   {
+    "id": "S13",
+    "t": [
+     40.32,
+     43.08
+    ],
+    "type": "photo",
+    "kicker": "Por su cuenta",
+    "src": "img/A17c.jpg",
+    "from": 1.0,
+    "to": 1.1,
+    "focusX": 0.52,
+    "focusY": 0.45,
+    "mono": true,
+    "credit": "El taller de la cochera, con un prototipo · Foto: Dyson ©",
+    "enter": "wipe",
+    "gallery": [
+     {
+      "src": "img/A17b.jpg",
+      "x": 560,
+      "y": 1000,
+      "w": 430,
+      "h": 242,
+      "rot": -4,
+      "enter": "slide",
+      "credit": "La Coach House · Foto: Dyson ©",
+      "at": 41.22
+     }
+    ]
+   },
+   {
+    "id": "S14",
+    "t": [
+     43.08,
+     48.84
+    ],
+    "type": "microns",
+    "kicker": "El obstáculo",
+    "bg": "deep",
+    "label": "Según Dyson · Representación gráfica"
+   },
+   {
+    "id": "S15",
+    "t": [
+     48.84,
+     51.36
+    ],
+    "type": "formulas",
+    "kicker": "El obstáculo",
+    "bg": "deep"
+   },
+   {
+    "id": "S16",
+    "t": [
+     51.36,
+     53.24
+    ],
+    "type": "document",
+    "kicker": "El método",
+    "bg": "paper",
+    "src": "img/A01-p1.png",
+    "from": 1.0,
+    "to": 1.9,
+    "focusX": 0.3,
+    "focusY": 0.12,
+    "credit": "Patente US 4.373.228 · solicitada en el Reino Unido en 1979 · dominio público"
+   },
+   {
+    "id": "S17",
+    "t": [
+     53.24,
+     61.16
+    ],
+    "type": "method",
+    "kicker": "El método",
+    "bg": "deep",
+    "src": "img/A01-p3.png",
+    "beats": [
+     53.24,
+     54.4,
+     55.56,
+     57.08,
+     59.12
+    ],
+    "gallery": [
+     {
+      "src": "img/A23.jpg",
+      "x": 600,
+      "y": 1140,
+      "w": 400,
+      "h": 225,
+      "rot": 3,
+      "enter": "blinds",
+      "credit": "Boceto del ciclón · Foto: Dyson ©",
+      "at": 57.24
+     }
+    ]
+   },
+   {
+    "id": "S22",
+    "t": [
+     61.16,
+     65.52
+    ],
+    "type": "photo",
+    "kicker": "El costo",
+    "src": "img/A16.jpg",
+    "from": 1.0,
+    "to": 1.12,
+    "focusX": 0.5,
+    "focusY": 0.42,
+    "panX": [
+     0.4,
+     0.55
+    ],
+    "credit": "Deirdre Dyson, 1977 · Foto: Dyson ©",
+    "label": "Deirdre Dyson",
+    "enter": "flip"
+   },
+   {
+    "id": "S23",
+    "t": [
+     65.52,
+     67.28
+    ],
+    "type": "debt",
+    "kicker": "El costo",
+    "bg": "deep"
+   },
+   {
+    "id": "S24",
+    "t": [
+     67.28,
+     74.84
+    ],
+    "type": "counter",
+    "kicker": "El método",
+    "bg": "deep",
+    "hit": 72.35
+   },
+   {
+    "id": "S26",
+    "t": [
+     74.84,
+     76.28
+    ],
+    "type": "document",
+    "kicker": "El rechazo",
+    "bg": "paper",
+    "src": "img/A01-p2.png",
+    "from": 1.0,
+    "to": 1.15,
+    "focusX": 0.33,
+    "focusY": 0.45,
+    "credit": "Patente US 4.373.228, fig. 1 · dominio público"
+   },
+   {
+    "id": "S27",
+    "t": [
+     76.28,
+     78.52
+    ],
+    "type": "field",
+    "kicker": "El rechazo",
+    "bg": "paper"
+   },
+   {
+    "id": "S28",
+    "t": [
+     78.52,
+     81.12
+    ],
+    "type": "rejections",
+    "kicker": "El rechazo",
+    "bg": "paper",
+    "label": "Representación gráfica"
+   },
+   {
+    "id": "S29",
+    "t": [
+     81.12,
+     83.48
+    ],
+    "type": "quote",
+    "kicker": "El rechazo",
+    "bg": "deep",
+    "worn": true,
+    "words": [
+     {
+      "text": "Si",
+      "t0": 81.12
+     },
+     {
+      "text": "existiera",
+      "t0": 81.12
+     },
+     {
+      "text": "una",
+      "t0": 81.12
+     },
+     {
+      "text": "aspiradora",
+      "t0": 81.12
+     },
+     {
+      "text": "mejor,",
+      "t0": 81.12
+     },
+     {
+      "text": "ya",
+      "t0": 81.12
+     },
+     {
+      "text": "la",
+      "t0": 81.12
+     },
+     {
+      "text": "habría",
+      "t0": 81.12
+     },
+     {
+      "text": "inventado",
+      "t0": 81.12
+     },
+     {
+      "text": "alguna",
+      "t0": 81.12
+     },
+     {
+      "text": "de",
+      "t0": 81.12
+     },
+     {
+      "text": "las",
+      "t0": 81.12
+     },
+     {
+      "text": "grandes.",
+      "t0": 81.12
+     }
+    ],
+    "caption": "Otra vez, la misma frase.",
+    "captionT": 81.12
+   },
+   {
+    "id": "S30",
+    "t": [
+     83.48,
+     88.88
+    ],
+    "type": "japan",
+    "kicker": "Japón",
+    "bg": "deep",
+    "src": "img/A19.jpg",
+    "photoAt": 86.07,
+    "credit": "Dyson con la G-Force, 1986 · Foto: Dyson ©",
+    "gallery": [
+     {
+      "src": "img/A18.jpg",
+      "x": 90,
+      "y": 620,
+      "w": 430,
+      "h": 242,
+      "rot": -5,
+      "enter": "drop",
+      "credit": "Japón, 1985 · Foto: Dyson ©",
+      "at": 83.88,
+      "until": 85.92
+     },
+     {
+      "src": "img/A17.jpg",
+      "x": 560,
+      "y": 900,
+      "w": 430,
+      "h": 242,
+      "rot": 4,
+      "enter": "zoom",
+      "credit": "Japón, 1985 · Foto: Dyson ©",
+      "at": 84.58,
+      "until": 85.92
+     }
+    ]
+   },
+   {
+    "id": "S31",
+    "t": [
+     88.88,
+     93.2
+    ],
+    "type": "timeline",
+    "kicker": "La decisión",
+    "bg": "deep"
+   },
+   {
+    "id": "S32",
+    "t": [
+     93.2,
+     99.08
+    ],
+    "type": "guarantee",
+    "kicker": "La decisión",
+    "bg": "deep",
+    "src": "img/A22.jpg",
+    "cut": 96.84,
+    "credit": "Primera línea de producción del DC01, Chippenham, 1993 · Foto: Dyson ©"
+   },
+   {
+    "id": "S33",
+    "t": [
+     99.08,
+     104.44
+    ],
+    "type": "photo",
+    "kicker": "El resultado",
+    "src": "img/A21.jpg",
+    "from": 1.0,
+    "to": 1.08,
+    "focusX": 0.45,
+    "focusY": 0.45,
+    "label": "1993 · DC01",
+    "credit": "James Dyson con el DC01, 1993 · Foto: Dyson ©",
+    "zoomAt": 103.3,
+    "zoomTo": {
+     "scale": 2.2,
+     "focusX": 0.9,
+     "focusY": 0.45
+    },
+    "gallery": [
+     {
+      "src": "img/A27.jpg",
+      "x": 560,
+      "y": 1170,
+      "w": 400,
+      "h": 200,
+      "rot": 4,
+      "enter": "slide",
+      "credit": "DC01 · Ilustración: Dyson ©",
+      "at": 100.48,
+      "until": 103.3
+     }
+    ]
+   },
+   {
+    "id": "S35",
+    "t": [
+     104.44,
+     108.04
+    ],
+    "type": "metric",
+    "kicker": "El resultado",
+    "bg": "deep",
+    "value": 84,
+    "unit": "mercados",
+    "countAt": 106.38,
+    "note": "Dato oficial de Dyson, consultado en 2026",
+    "gallery": [
+     {
+      "src": "img/A25r.jpg",
+      "x": 620,
+      "y": 470,
+      "w": 360,
+      "h": 372,
+      "rot": 3,
+      "enter": "iris",
+      "credit": "Hoy · Foto: Dyson ©",
+      "at": 104.94
+     }
+    ]
+   },
+   {
+    "id": "S36",
+    "t": [
+     108.04,
+     111.36
+    ],
+    "type": "grid",
+    "kicker": "La pregunta",
+    "bg": "deep"
+   },
+   {
+    "id": "S37",
+    "t": [
+     111.36,
+     114.74
+    ],
+    "type": "dissolve",
+    "kicker": "La pregunta",
+    "bg": "deep",
+    "text": "Si existiera una aspiradora mejor, ya la habría inventado alguna de las grandes."
+   },
+   {
+    "id": "S38",
+    "t": [
+     114.74,
+     120.4
+    ],
+    "type": "question",
+    "bg": "paper",
+    "words": [
+     {
+      "text": "¿Cuántas",
+      "t0": 114.74
+     },
+     {
+      "text": "ideas",
+      "t0": 115.24
+     },
+     {
+      "text": "dejamos",
+      "t0": 115.43
+     },
+     {
+      "text": "sin",
+      "t0": 115.84
+     },
+     {
+      "text": "probar",
+      "t0": 116.02
+     },
+     {
+      "text": "porque,",
+      "t0": 116.6
+     },
+     {
+      "text": "si",
+      "t0": 117.16
+     },
+     {
+      "text": "fueran",
+      "t0": 117.3
+     },
+     {
+      "text": "buenas,",
+      "t0": 117.82
+     },
+     {
+      "text": "otro",
+      "t0": 118.56
+     },
+     {
+      "text": "ya",
+      "t0": 118.94
+     },
+     {
+      "text": "las",
+      "t0": 119.1
+     },
+     {
+      "text": "habría",
+      "t0": 119.37
+     },
+     {
+      "text": "hecho?",
+      "t0": 119.91
+     }
+    ],
+    "underline": [
+     "sin",
+     "probar"
+    ]
+   },
+   {
+    "id": "OUTRO",
+    "t": [
+     120.4,
+     123.4
+    ],
+    "type": "outro3d",
+    "fromNumber": "5127",
+    "fromLabel": "prototipos",
+    "line": "Mentalidad emprendedora para los jóvenes.",
+    "lineAccent": "los jóvenes",
+    "handle": "@proyecto18.ar"
+   }
+  ],
+  "footer": "Historias para actuar"
+ }
+}

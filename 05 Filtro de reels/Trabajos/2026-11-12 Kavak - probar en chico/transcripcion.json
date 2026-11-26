@@ -1,0 +1,1004 @@
+{
+ "idioma": "es",
+ "duracion": 59.08,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.6,
+   "fin": 5.42,
+   "texto": "o sea nosotros hicimos también un experimento de ibitesteo, o sea dijimos en algún en un país",
+   "palabras": [
+    {
+     "ini": 0.6,
+     "fin": 0.96,
+     "p": "o"
+    },
+    {
+     "ini": 0.96,
+     "fin": 1.08,
+     "p": "sea"
+    },
+    {
+     "ini": 1.08,
+     "fin": 1.38,
+     "p": "nosotros"
+    },
+    {
+     "ini": 1.38,
+     "fin": 1.66,
+     "p": "hicimos"
+    },
+    {
+     "ini": 1.66,
+     "fin": 1.9,
+     "p": "también"
+    },
+    {
+     "ini": 1.9,
+     "fin": 2.06,
+     "p": "un"
+    },
+    {
+     "ini": 2.06,
+     "fin": 2.86,
+     "p": "experimento"
+    },
+    {
+     "ini": 2.86,
+     "fin": 2.94,
+     "p": "de"
+    },
+    {
+     "ini": 2.94,
+     "fin": 3.62,
+     "p": "ibitesteo,"
+    },
+    {
+     "ini": 3.74,
+     "fin": 3.74,
+     "p": "o"
+    },
+    {
+     "ini": 3.74,
+     "fin": 3.84,
+     "p": "sea"
+    },
+    {
+     "ini": 3.84,
+     "fin": 4.24,
+     "p": "dijimos"
+    },
+    {
+     "ini": 4.24,
+     "fin": 4.96,
+     "p": "en"
+    },
+    {
+     "ini": 4.96,
+     "fin": 5.0,
+     "p": "algún"
+    },
+    {
+     "ini": 5.0,
+     "fin": 5.0,
+     "p": "en"
+    },
+    {
+     "ini": 5.0,
+     "fin": 5.18,
+     "p": "un"
+    },
+    {
+     "ini": 5.18,
+     "fin": 5.42,
+     "p": "país"
+    }
+   ]
+  },
+  {
+   "ini": 5.42,
+   "fin": 9.5,
+   "texto": "vamos a ir vamos a agarrar y vamos a construir infraestructura desde el día 1 y vamos a entrar",
+   "palabras": [
+    {
+     "ini": 5.42,
+     "fin": 5.7,
+     "p": "vamos"
+    },
+    {
+     "ini": 5.7,
+     "fin": 5.94,
+     "p": "a"
+    },
+    {
+     "ini": 5.94,
+     "fin": 6.4,
+     "p": "ir"
+    },
+    {
+     "ini": 6.4,
+     "fin": 7.18,
+     "p": "vamos"
+    },
+    {
+     "ini": 7.18,
+     "fin": 7.26,
+     "p": "a"
+    },
+    {
+     "ini": 7.26,
+     "fin": 7.58,
+     "p": "agarrar"
+    },
+    {
+     "ini": 7.58,
+     "fin": 7.64,
+     "p": "y"
+    },
+    {
+     "ini": 7.64,
+     "fin": 7.76,
+     "p": "vamos"
+    },
+    {
+     "ini": 7.76,
+     "fin": 7.82,
+     "p": "a"
+    },
+    {
+     "ini": 7.82,
+     "fin": 7.98,
+     "p": "construir"
+    },
+    {
+     "ini": 7.98,
+     "fin": 8.46,
+     "p": "infraestructura"
+    },
+    {
+     "ini": 8.46,
+     "fin": 8.62,
+     "p": "desde"
+    },
+    {
+     "ini": 8.62,
+     "fin": 8.74,
+     "p": "el"
+    },
+    {
+     "ini": 8.74,
+     "fin": 8.86,
+     "p": "día"
+    },
+    {
+     "ini": 8.86,
+     "fin": 9.12,
+     "p": "1"
+    },
+    {
+     "ini": 9.12,
+     "fin": 9.24,
+     "p": "y"
+    },
+    {
+     "ini": 9.24,
+     "fin": 9.32,
+     "p": "vamos"
+    },
+    {
+     "ini": 9.32,
+     "fin": 9.42,
+     "p": "a"
+    },
+    {
+     "ini": 9.42,
+     "fin": 9.5,
+     "p": "entrar"
+    }
+   ]
+  },
+  {
+   "ini": 9.5,
+   "fin": 12.94,
+   "texto": "el recurso el día 1 y vamos a tratar de crecerlo lo más rápido posible con la información que",
+   "palabras": [
+    {
+     "ini": 9.5,
+     "fin": 9.62,
+     "p": "el"
+    },
+    {
+     "ini": 9.62,
+     "fin": 9.88,
+     "p": "recurso"
+    },
+    {
+     "ini": 9.88,
+     "fin": 9.98,
+     "p": "el"
+    },
+    {
+     "ini": 9.98,
+     "fin": 10.14,
+     "p": "día"
+    },
+    {
+     "ini": 10.14,
+     "fin": 10.22,
+     "p": "1"
+    },
+    {
+     "ini": 10.22,
+     "fin": 10.3,
+     "p": "y"
+    },
+    {
+     "ini": 10.3,
+     "fin": 10.4,
+     "p": "vamos"
+    },
+    {
+     "ini": 10.4,
+     "fin": 10.48,
+     "p": "a"
+    },
+    {
+     "ini": 10.48,
+     "fin": 10.62,
+     "p": "tratar"
+    },
+    {
+     "ini": 10.62,
+     "fin": 10.8,
+     "p": "de"
+    },
+    {
+     "ini": 10.8,
+     "fin": 11.28,
+     "p": "crecerlo"
+    },
+    {
+     "ini": 11.28,
+     "fin": 11.4,
+     "p": "lo"
+    },
+    {
+     "ini": 11.4,
+     "fin": 11.54,
+     "p": "más"
+    },
+    {
+     "ini": 11.54,
+     "fin": 11.78,
+     "p": "rápido"
+    },
+    {
+     "ini": 11.78,
+     "fin": 12.2,
+     "p": "posible"
+    },
+    {
+     "ini": 12.2,
+     "fin": 12.38,
+     "p": "con"
+    },
+    {
+     "ini": 12.38,
+     "fin": 12.5,
+     "p": "la"
+    },
+    {
+     "ini": 12.5,
+     "fin": 12.74,
+     "p": "información"
+    },
+    {
+     "ini": 12.74,
+     "fin": 12.94,
+     "p": "que"
+    }
+   ]
+  },
+  {
+   "ini": 12.94,
+   "fin": 18.96,
+   "texto": "tenemos. En otro país vamos a ir lentísimo y vamos a ver vamos a seguir el cliente, en otro",
+   "palabras": [
+    {
+     "ini": 12.94,
+     "fin": 13.24,
+     "p": "tenemos."
+    },
+    {
+     "ini": 13.68,
+     "fin": 13.94,
+     "p": "En"
+    },
+    {
+     "ini": 13.94,
+     "fin": 14.08,
+     "p": "otro"
+    },
+    {
+     "ini": 14.08,
+     "fin": 14.26,
+     "p": "país"
+    },
+    {
+     "ini": 14.26,
+     "fin": 14.4,
+     "p": "vamos"
+    },
+    {
+     "ini": 14.4,
+     "fin": 14.5,
+     "p": "a"
+    },
+    {
+     "ini": 14.5,
+     "fin": 14.52,
+     "p": "ir"
+    },
+    {
+     "ini": 14.52,
+     "fin": 15.18,
+     "p": "lentísimo"
+    },
+    {
+     "ini": 15.18,
+     "fin": 16.4,
+     "p": "y"
+    },
+    {
+     "ini": 16.4,
+     "fin": 16.56,
+     "p": "vamos"
+    },
+    {
+     "ini": 16.56,
+     "fin": 16.76,
+     "p": "a"
+    },
+    {
+     "ini": 16.76,
+     "fin": 16.9,
+     "p": "ver"
+    },
+    {
+     "ini": 16.9,
+     "fin": 17.1,
+     "p": "vamos"
+    },
+    {
+     "ini": 17.1,
+     "fin": 17.24,
+     "p": "a"
+    },
+    {
+     "ini": 17.24,
+     "fin": 17.36,
+     "p": "seguir"
+    },
+    {
+     "ini": 17.36,
+     "fin": 17.5,
+     "p": "el"
+    },
+    {
+     "ini": 17.5,
+     "fin": 18.32,
+     "p": "cliente,"
+    },
+    {
+     "ini": 18.44,
+     "fin": 18.76,
+     "p": "en"
+    },
+    {
+     "ini": 18.76,
+     "fin": 18.96,
+     "p": "otro"
+    }
+   ]
+  },
+  {
+   "ini": 18.96,
+   "fin": 23.46,
+   "texto": "país vamos a probar esta parte del producto, vamos a tratar de rotar el inventario lo más rápido",
+   "palabras": [
+    {
+     "ini": 18.96,
+     "fin": 19.2,
+     "p": "país"
+    },
+    {
+     "ini": 19.2,
+     "fin": 19.4,
+     "p": "vamos"
+    },
+    {
+     "ini": 19.4,
+     "fin": 19.58,
+     "p": "a"
+    },
+    {
+     "ini": 19.58,
+     "fin": 20.1,
+     "p": "probar"
+    },
+    {
+     "ini": 20.1,
+     "fin": 20.3,
+     "p": "esta"
+    },
+    {
+     "ini": 20.3,
+     "fin": 20.58,
+     "p": "parte"
+    },
+    {
+     "ini": 20.58,
+     "fin": 20.74,
+     "p": "del"
+    },
+    {
+     "ini": 20.74,
+     "fin": 21.16,
+     "p": "producto,"
+    },
+    {
+     "ini": 21.24,
+     "fin": 21.48,
+     "p": "vamos"
+    },
+    {
+     "ini": 21.48,
+     "fin": 21.82,
+     "p": "a"
+    },
+    {
+     "ini": 21.82,
+     "fin": 22.06,
+     "p": "tratar"
+    },
+    {
+     "ini": 22.06,
+     "fin": 22.26,
+     "p": "de"
+    },
+    {
+     "ini": 22.26,
+     "fin": 22.46,
+     "p": "rotar"
+    },
+    {
+     "ini": 22.46,
+     "fin": 22.6,
+     "p": "el"
+    },
+    {
+     "ini": 22.6,
+     "fin": 22.88,
+     "p": "inventario"
+    },
+    {
+     "ini": 22.88,
+     "fin": 23.04,
+     "p": "lo"
+    },
+    {
+     "ini": 23.04,
+     "fin": 23.2,
+     "p": "más"
+    },
+    {
+     "ini": 23.2,
+     "fin": 23.46,
+     "p": "rápido"
+    }
+   ]
+  },
+  {
+   "ini": 23.46,
+   "fin": 30.08,
+   "texto": "posible. Entonces, una cosa que me encantó fue que construimos un laboratorio de pruebas,",
+   "palabras": [
+    {
+     "ini": 23.46,
+     "fin": 23.92,
+     "p": "posible."
+    },
+    {
+     "ini": 24.78,
+     "fin": 24.78,
+     "p": "Entonces,"
+    },
+    {
+     "ini": 25.86,
+     "fin": 25.92,
+     "p": "una"
+    },
+    {
+     "ini": 25.92,
+     "fin": 26.1,
+     "p": "cosa"
+    },
+    {
+     "ini": 26.1,
+     "fin": 26.22,
+     "p": "que"
+    },
+    {
+     "ini": 26.22,
+     "fin": 26.42,
+     "p": "me"
+    },
+    {
+     "ini": 26.42,
+     "fin": 27.2,
+     "p": "encantó"
+    },
+    {
+     "ini": 27.2,
+     "fin": 27.42,
+     "p": "fue"
+    },
+    {
+     "ini": 27.42,
+     "fin": 27.82,
+     "p": "que"
+    },
+    {
+     "ini": 27.82,
+     "fin": 28.04,
+     "p": "construimos"
+    },
+    {
+     "ini": 28.04,
+     "fin": 28.28,
+     "p": "un"
+    },
+    {
+     "ini": 28.28,
+     "fin": 28.92,
+     "p": "laboratorio"
+    },
+    {
+     "ini": 28.92,
+     "fin": 29.84,
+     "p": "de"
+    },
+    {
+     "ini": 29.84,
+     "fin": 30.08,
+     "p": "pruebas,"
+    }
+   ]
+  },
+  {
+   "ini": 31.12,
+   "fin": 37.12,
+   "texto": "donde no tenías tanto, o sea, podías equivocarte con las diferentes pruebas y automáticamente ese",
+   "palabras": [
+    {
+     "ini": 31.12,
+     "fin": 31.12,
+     "p": "donde"
+    },
+    {
+     "ini": 31.12,
+     "fin": 31.38,
+     "p": "no"
+    },
+    {
+     "ini": 31.38,
+     "fin": 31.74,
+     "p": "tenías"
+    },
+    {
+     "ini": 31.74,
+     "fin": 32.32,
+     "p": "tanto,"
+    },
+    {
+     "ini": 32.8,
+     "fin": 32.8,
+     "p": "o"
+    },
+    {
+     "ini": 32.8,
+     "fin": 32.94,
+     "p": "sea,"
+    },
+    {
+     "ini": 32.94,
+     "fin": 33.22,
+     "p": "podías"
+    },
+    {
+     "ini": 33.22,
+     "fin": 34.1,
+     "p": "equivocarte"
+    },
+    {
+     "ini": 34.1,
+     "fin": 34.42,
+     "p": "con"
+    },
+    {
+     "ini": 34.42,
+     "fin": 34.6,
+     "p": "las"
+    },
+    {
+     "ini": 34.6,
+     "fin": 34.94,
+     "p": "diferentes"
+    },
+    {
+     "ini": 34.94,
+     "fin": 35.26,
+     "p": "pruebas"
+    },
+    {
+     "ini": 35.26,
+     "fin": 35.5,
+     "p": "y"
+    },
+    {
+     "ini": 35.5,
+     "fin": 36.7,
+     "p": "automáticamente"
+    },
+    {
+     "ini": 36.7,
+     "fin": 37.12,
+     "p": "ese"
+    }
+   ]
+  },
+  {
+   "ini": 37.12,
+   "fin": 41.1,
+   "texto": "laboratorio se convirtió en un benchmark para todos los diferentes países. Entonces, de repente,",
+   "palabras": [
+    {
+     "ini": 37.12,
+     "fin": 37.68,
+     "p": "laboratorio"
+    },
+    {
+     "ini": 37.68,
+     "fin": 37.92,
+     "p": "se"
+    },
+    {
+     "ini": 37.92,
+     "fin": 38.26,
+     "p": "convirtió"
+    },
+    {
+     "ini": 38.26,
+     "fin": 38.4,
+     "p": "en"
+    },
+    {
+     "ini": 38.4,
+     "fin": 38.58,
+     "p": "un"
+    },
+    {
+     "ini": 38.58,
+     "fin": 39.0,
+     "p": "benchmark"
+    },
+    {
+     "ini": 39.0,
+     "fin": 39.6,
+     "p": "para"
+    },
+    {
+     "ini": 39.6,
+     "fin": 39.74,
+     "p": "todos"
+    },
+    {
+     "ini": 39.74,
+     "fin": 39.92,
+     "p": "los"
+    },
+    {
+     "ini": 39.92,
+     "fin": 40.16,
+     "p": "diferentes"
+    },
+    {
+     "ini": 40.16,
+     "fin": 40.48,
+     "p": "países."
+    },
+    {
+     "ini": 40.6,
+     "fin": 40.76,
+     "p": "Entonces,"
+    },
+    {
+     "ini": 40.8,
+     "fin": 40.88,
+     "p": "de"
+    },
+    {
+     "ini": 40.88,
+     "fin": 41.1,
+     "p": "repente,"
+    }
+   ]
+  },
+  {
+   "ini": 41.38,
+   "fin": 46.16,
+   "texto": "en un país aprendíamos, o sea, imagínate, una iniciativa que lanzamos en Chile que funcionaba",
+   "palabras": [
+    {
+     "ini": 41.38,
+     "fin": 41.38,
+     "p": "en"
+    },
+    {
+     "ini": 41.38,
+     "fin": 41.5,
+     "p": "un"
+    },
+    {
+     "ini": 41.5,
+     "fin": 41.74,
+     "p": "país"
+    },
+    {
+     "ini": 41.74,
+     "fin": 42.3,
+     "p": "aprendíamos,"
+    },
+    {
+     "ini": 42.74,
+     "fin": 42.8,
+     "p": "o"
+    },
+    {
+     "ini": 42.8,
+     "fin": 42.92,
+     "p": "sea,"
+    },
+    {
+     "ini": 42.98,
+     "fin": 43.6,
+     "p": "imagínate,"
+    },
+    {
+     "ini": 43.86,
+     "fin": 44.06,
+     "p": "una"
+    },
+    {
+     "ini": 44.06,
+     "fin": 44.5,
+     "p": "iniciativa"
+    },
+    {
+     "ini": 44.5,
+     "fin": 44.66,
+     "p": "que"
+    },
+    {
+     "ini": 44.66,
+     "fin": 44.98,
+     "p": "lanzamos"
+    },
+    {
+     "ini": 44.98,
+     "fin": 45.12,
+     "p": "en"
+    },
+    {
+     "ini": 45.12,
+     "fin": 45.26,
+     "p": "Chile"
+    },
+    {
+     "ini": 45.26,
+     "fin": 45.54,
+     "p": "que"
+    },
+    {
+     "ini": 45.54,
+     "fin": 46.16,
+     "p": "funcionaba"
+    }
+   ]
+  },
+  {
+   "ini": 46.16,
+   "fin": 51.6,
+   "texto": "y que no teníamos miedo de probarla ya porque éramos chiquitos, si yo luego la traía para",
+   "palabras": [
+    {
+     "ini": 46.16,
+     "fin": 46.82,
+     "p": "y"
+    },
+    {
+     "ini": 46.82,
+     "fin": 47.78,
+     "p": "que"
+    },
+    {
+     "ini": 47.78,
+     "fin": 47.8,
+     "p": "no"
+    },
+    {
+     "ini": 47.8,
+     "fin": 48.14,
+     "p": "teníamos"
+    },
+    {
+     "ini": 48.14,
+     "fin": 48.38,
+     "p": "miedo"
+    },
+    {
+     "ini": 48.38,
+     "fin": 48.56,
+     "p": "de"
+    },
+    {
+     "ini": 48.56,
+     "fin": 48.84,
+     "p": "probarla"
+    },
+    {
+     "ini": 48.84,
+     "fin": 49.02,
+     "p": "ya"
+    },
+    {
+     "ini": 49.02,
+     "fin": 49.16,
+     "p": "porque"
+    },
+    {
+     "ini": 49.16,
+     "fin": 49.4,
+     "p": "éramos"
+    },
+    {
+     "ini": 49.4,
+     "fin": 50.1,
+     "p": "chiquitos,"
+    },
+    {
+     "ini": 50.6,
+     "fin": 50.74,
+     "p": "si"
+    },
+    {
+     "ini": 50.74,
+     "fin": 50.86,
+     "p": "yo"
+    },
+    {
+     "ini": 50.86,
+     "fin": 51.06,
+     "p": "luego"
+    },
+    {
+     "ini": 51.06,
+     "fin": 51.24,
+     "p": "la"
+    },
+    {
+     "ini": 51.24,
+     "fin": 51.38,
+     "p": "traía"
+    },
+    {
+     "ini": 51.38,
+     "fin": 51.6,
+     "p": "para"
+    }
+   ]
+  },
+  {
+   "ini": 52.28,
+   "fin": 58.92,
+   "texto": "o sea, era increíble poder lanzar una cosa acá y el retorno de ese tiempo era monumental.",
+   "palabras": [
+    {
+     "ini": 52.28,
+     "fin": 52.84,
+     "p": "o"
+    },
+    {
+     "ini": 52.84,
+     "fin": 53.04,
+     "p": "sea,"
+    },
+    {
+     "ini": 53.14,
+     "fin": 53.24,
+     "p": "era"
+    },
+    {
+     "ini": 53.24,
+     "fin": 53.78,
+     "p": "increíble"
+    },
+    {
+     "ini": 53.78,
+     "fin": 54.04,
+     "p": "poder"
+    },
+    {
+     "ini": 54.04,
+     "fin": 54.7,
+     "p": "lanzar"
+    },
+    {
+     "ini": 54.7,
+     "fin": 54.84,
+     "p": "una"
+    },
+    {
+     "ini": 54.84,
+     "fin": 55.02,
+     "p": "cosa"
+    },
+    {
+     "ini": 55.02,
+     "fin": 55.3,
+     "p": "acá"
+    },
+    {
+     "ini": 55.3,
+     "fin": 55.84,
+     "p": "y"
+    },
+    {
+     "ini": 55.84,
+     "fin": 56.02,
+     "p": "el"
+    },
+    {
+     "ini": 56.02,
+     "fin": 56.48,
+     "p": "retorno"
+    },
+    {
+     "ini": 56.48,
+     "fin": 57.14,
+     "p": "de"
+    },
+    {
+     "ini": 57.14,
+     "fin": 57.28,
+     "p": "ese"
+    },
+    {
+     "ini": 57.28,
+     "fin": 57.66,
+     "p": "tiempo"
+    },
+    {
+     "ini": 57.66,
+     "fin": 58.34,
+     "p": "era"
+    },
+    {
+     "ini": 58.34,
+     "fin": 58.92,
+     "p": "monumental."
+    }
+   ]
+  }
+ ]
+}

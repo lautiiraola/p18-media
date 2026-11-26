@@ -1,0 +1,66 @@
+# P18 Stories — Frame Reference: James Dyson
+
+## Propósito
+
+Esta secuencia demuestra cómo debe verse una pieza faceless de P18 Stories: voz en off, archivo real, gráficos explicativos, subtítulos jerarquizados y colores P18. No es el guion final del piloto ni autoriza automáticamente el uso comercial de todos los materiales.
+
+## Secuencia de referencia
+
+| Frame | Tiempo | Función | Decisión visual |
+|---:|---:|---|---|
+| 01 | 00:00 | Hook | Producto real parcialmente revelado; “5.126” aparece antes del nombre |
+| 02 | 00:04 | Contexto | Retrato auténtico, año y problema cotidiano |
+| 03 | 00:11 | Problema | Diagrama de bolsa, polvo y flujo bloqueado |
+| 04 | 00:18 | Observación | Ciclón abstracto; claramente rotulado como metáfora visual |
+| 05 | 00:27 | Proceso | La cantidad de prototipos se vuelve progresión |
+| 06 | 00:38 | Conflicto | Rechazos representados como documentos gráficos, no documentos falsos |
+| 07 | 00:47 | Decisión | Dos caminos; el lima identifica la acción tomada |
+| 08 | 00:56 | Resultado | Fotografía real del DC01 y año de lanzamiento |
+| 09 | 01:05 | Reflexión | Hecho comprobado separado de interpretación P18 |
+| 10 | 01:12 | Cierre | Pregunta abierta y firma de marca mínima |
+
+## Reglas transferibles a cualquier historia
+
+- La fotografía prueba; el diseño explica.
+- El hook muestra una anomalía antes de presentar una biografía.
+- Cada frame responde a una función narrativa distinta.
+- El verde profundo crea continuidad; el lima identifica decisión; el azul identifica explicación; el papel contiene hechos y reflexión.
+- Las imágenes reales nunca se modifican para simular otro momento histórico.
+- Si falta archivo, usar gráfico abstracto rotulado, no una recreación fotorrealista.
+- Las fuentes pueden figurar en metadata o documentación de producción; en estos mockups aparecen visibles para hacer auditable la referencia.
+
+## Tratamiento tipográfico aprobado — Clean/Premium
+
+- Familia: Manrope, sin agregar una segunda tipografía.
+- Texto narrativo habitual: peso 600–750.
+- Peso 800 reservado para cifras o una palabra decisiva.
+- Hook: aproximadamente 62–82 px en lienzo 1080 × 1920.
+- Subtítulos y titulares narrativos: aproximadamente 50–62 px, máximo dos líneas cuando estén sincronizados con la voz.
+- Una sola unidad destacada por composición.
+- El lima funciona principalmente como subrayado editorial, línea o acento; evitar grandes bloques rectangulares.
+- Etiquetas superiores pequeñas, con tracking amplio y una línea lateral P18.
+- Mayor espacio negativo y más protagonismo del archivo.
+- El texto nunca debe competir con el rostro, documento u objeto que prueba la historia.
+- La firma `P18` se presenta sin cápsula ni fondo: lima sobre escenas oscuras y verde/tinta sobre fondos claros.
+
+## Hechos utilizados
+
+- En 1978, Dyson investigó la pérdida de succión causada por la bolsa de su aspiradora.
+- Observó tecnología ciclónica utilizada para separar partículas del aire.
+- Desarrolló 5.127 prototipos durante aproximadamente cinco años.
+- Los principales fabricantes rechazaron licenciar el diseño.
+- El DC01 se lanzó en 1993.
+
+Fuentes primarias: James Dyson Foundation y Dyson.
+
+## Licencias de las fotografías del mockup
+
+- **Retrato:** “Sir James Dyson CBE FREng FRS”, Royal Society uploader, CC BY-SA 4.0. [Ficha de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sir_James_Dyson_CBE_FREng_FRS.jpg).
+- **Dyson DC01, vistas 01 y 02:** Lankyrider, CC BY-SA 4.0. [Vista 01](https://commons.wikimedia.org/wiki/File:Dyson_DC01._01.jpg) · [Vista 02](https://commons.wikimedia.org/wiki/File:Dyson_DC01._02.jpg).
+
+## Fuentes factuales
+
+- [James Dyson Foundation — Our Story](https://www.jamesdysonfoundation.com/who-we-are/our-story)
+- [Dyson — James Dyson](https://www.dyson.com/james-dyson)
+- [Dyson — Filtration at Dyson](https://www.dyson.com/discover/innovation/behind-the-invention/filtration-at-dyson)
+

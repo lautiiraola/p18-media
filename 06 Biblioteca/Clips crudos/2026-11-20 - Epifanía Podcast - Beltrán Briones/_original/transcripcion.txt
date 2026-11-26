@@ -1,0 +1,913 @@
+# Lo que nadie sabe sobre Beltrán Briones — Epifanía Podcast - Beltrán Briones
+# idioma: es · duración: 1:01:14.3 · texto: faster-whisper medium
+# formato: [inicio – fin] (segundos para plan.json) texto
+
+[00:04.1 – 00:06.7] (4.1–6.7) Mirá, mirá la que sacaste, boludo.
+[00:06.8 – 00:09.3] (6.8–9.3) Vos decís que no querés ser famoso, pero de chico querías ser actor.
+[00:09.6 – 00:10.6] (9.6–10.6) ¿Cómo se relaciona eso?
+[00:12.6 – 00:14.4] (12.6–14.4) Tengo una imitación de padrino que es excelente.
+[00:14.5 – 00:15.4] (14.5–15.4) ¿Vas a hacerlo ahora o no?
+[00:15.9 – 00:16.9] (15.9–16.9) Ehh, ¿cuál querés?
+[00:17.0 – 00:21.6] (17.0–21.6) Todo lo creado, Grupo Briones, El Rey, Tel Libro, Las Obras, Paraguay.
+[00:23.0 – 00:24.5] (23.0–24.5) Todo arranca con los videos.
+[00:24.7 – 00:26.6] (24.7–26.6) ¿Cuánto me costó a mí hacer los videos?
+[00:27.4 – 00:27.7] (27.4–27.7) Poco.
+[00:28.0 – 00:29.6] (28.0–29.6) ¿Es talento o es habilidad?
+[00:29.6 – 00:31.7] (29.6–31.7) ¿Sentís que lo tenías o que lo desarrollaste?
+[00:31.7 – 00:34.2] (31.7–34.2) No, lo desarrollé. Mi primer hoyo es una garcha.
+[00:34.2 – 00:35.1] (34.2–35.1) ¿Comprarías un banco ahora?
+[00:35.5 – 00:38.0] (35.5–38.0) Si alguien viendo este podcast tiene mucha idea de banco,
+[00:38.1 – 00:40.0] (38.1–40.0) si tiene unidad de negocio ahí, lo podemos hablar.
+[00:40.1 – 00:41.6] (40.1–41.6) Si aparece, yo quiero el 1%.
+[00:42.1 – 00:43.9] (42.1–43.9) Es una fortuna el 1%.
+[00:43.9 – 00:44.8] (43.9–44.8) Está bien, es lo que quiero.
+[00:45.0 – 00:46.5] (45.0–46.5) ¿Cuál es la estrategia detrás de Chang?
+[00:46.7 – 00:49.3] (46.7–49.3) Es la menos estratégica, es de todas las que mencionaste,
+[00:49.3 – 00:52.7] (49.3–52.7) la que más hago porque simple y llanamente me divierto haciéndolo,
+[00:53.2 – 00:57.2] (53.2–57.2) pero también sí cumple un propósito de elevar la marca personal de mis amigos.
+[00:57.2 – 01:00.9] (57.2–60.9) De hecho, yo creo que me ha perjudicado más mi carrera de lo que me ha ayudado,
+[01:01.0 – 01:03.5] (61.0–63.5) pero es una de esas cosas que hago únicamente por diversión.
+[01:03.6 – 01:06.1] (63.6–66.1) Si nosotros pudiésemos no subir clips, por mí, ideal,
+[01:06.2 – 01:08.6] (66.2–68.6) porque cada vez que subimos un clip, la cago con algo.
+[01:08.8 – 01:12.9] (68.8–72.9) Hace poquito también me salió uno de que comprar un departamento en Recoleta salió 12 mil pesos.
+[01:13.8 – 01:15.6] (73.8–75.6) Y hay gente que cae, bueno.
+[01:15.6 – 01:17.6] (75.6–77.6) Y hay gente que pone este video viejo, ¿viste?
+[01:17.8 – 01:18.4] (77.8–78.4) No puede ser.
+[01:18.6 – 01:19.3] (78.6–79.3) No, es increíble.
+[01:19.6 – 01:22.0] (79.6–82.0) Lo estamos llevando al fallo a ver dónde está la vara.
+[01:22.2 – 01:24.2] (82.2–84.2) ¿No tuviste problemas con la política por eso, por ejemplo?
+[01:24.5 – 01:24.8] (84.5–84.8) Sí.
+[01:24.8 – 01:27.1] (84.8–87.1) ¿Cuánta plata tiene alguien de clase alta en Argentina?
+[01:27.4 – 01:28.9] (87.4–88.9) Ese es un hijo de puta, boludo.
+[01:29.1 – 01:30.2] (89.1–90.2) Hoy la guita cambió de manos,
+[01:30.4 – 01:32.5] (90.4–92.5) hoy un dueño de un frigorífico y un caballito es millonario,
+[01:32.6 – 01:35.5] (92.6–95.5) pero es un pibe que hablas, le explicás una inversión inmobiliaria,
+[01:35.6 – 01:38.7] (95.6–98.7) te dice che, me parece lógico y te dice bueno, me llevo el de 500.000 dólares.
+[01:39.2 – 01:39.8] (99.2–99.8) Como si nada.
+[01:39.9 – 01:42.5] (99.9–102.5) Y por ahí al otro, viste, al de recoleta con corbatita,
+[01:42.6 – 01:44.3] (102.6–104.3) lo tenés que exprimir durante siete meses
+[01:44.3 – 01:46.8] (104.3–106.8) manojándole toda la suspensión en la historia de la humanidad
+[01:46.8 – 01:49.7] (106.8–109.7) para que te compre un monumento de 100.000 dólares financiado a siete años.
+[01:49.9 – 01:51.2] (109.9–111.2) ¿Cómo te gustaría ser recordado?
+[01:51.7 – 01:52.1] (111.7–112.1) ¡Epa!
+[01:53.2 – 01:53.9] (113.2–113.9) ¡Qué pregunta!
+[01:56.2 – 02:01.3] (116.2–121.3) En Epifanía escuchas como otros construyeron sus negocios, pero me encantaría que también
+[02:01.3 – 02:03.9] (121.3–123.9) sea el lugar donde empiece tu propia historia.
+[02:04.1 – 02:09.4] (124.1–129.4) Por eso armamos un diagnóstico gratuito para ayudarte a encontrar tu mejor próximo paso,
+[02:09.8 – 02:12.7] (129.8–132.7) ya sea que estés arrancando o quieras crecer tu negocio.
+[02:12.9 – 02:17.1] (132.9–137.1) En menos de dos minutos respondés siete preguntas sobre tu situación, tus recursos
+[02:17.1 – 02:21.7] (137.1–141.7) y lo que querés construir y en base a toda la información que recolectamos de todas
+[02:21.7 – 02:26.5] (141.7–146.5) entrevistas Epifanía te vamos a dar una recomendación concreta para avanzar. Lo
+[02:26.5 – 02:31.5] (146.5–151.5) encontrarás en el primer link de la descripción o en el QR que tenés en pantalla. Seguimos con la
+[02:31.5 – 02:35.9] (151.5–155.9) entrevista. Bienvenido Beltrán, muchísimas gracias por su tiempo. Me gustaría que se presente
+[02:35.9 – 02:42.0] (155.9–162.0) sin decir su nombre ni su cargo. Boludo, me tenés que tutear. Para empezar a hablar me tenés
+[02:42.0 – 02:47.0] (162.0–167.0) que tutear. ¿Lo puedo tutear? Sí, obvio que sí. Beltrán, decime quién sos sin decirme
+[02:47.0 – 02:54.9] (167.0–174.9) tu nombre ni a qué te dedicas. Soy un joven, empresario,
+[02:56.9 – 03:01.1] (176.9–181.1) novio de Anita, hijo de mis padres, amigo de mi grupo. Me la complicas, boludo.
+[03:01.4 – 03:05.2] (181.4–185.2) Apasionado del real estate, apasionado de la comunicación.
+[03:06.4 – 03:10.5] (186.4–190.5) Muy limitante esto, pero bueno, esa sería mi intro. Te saco el límite, ahora
+[03:10.5 – 03:15.6] (190.5–195.6) presentate cómo te gustaría que te presenten. Beltrán Briones, cofundador
+[03:15.6 – 03:21.8] (195.6–201.8) Presidente del Grupo Briones, desarrollador inmobiliario. Esa es mi intro, mi tarjetita dice eso.
+[03:22.0 – 03:25.4] (202.0–205.4) ¿Cuál es el costo de que 100 millones de personas te vean todos los meses?
+[03:26.2 – 03:31.9] (206.2–211.9) Definitivamente hay uno. Es mucho más bajo que el beneficio. Digo, tengo que meter ese disclaimer.
+[03:32.6 – 03:37.0] (212.6–217.0) El costo es el reconocimiento, que te miren, que te evalúen, que te puten, que te juzguen,
+[03:37.1 – 03:42.3] (217.1–222.3) que te investiguen, que te graben, estar caminando y que te apunten. Ese es el costo,
+[03:42.3 – 03:43.9] (222.3–223.9) que para mí no es tan alto.
+[03:44.7 – 03:46.1] (224.7–226.1) El beneficio es gigante.
+[03:46.5 – 03:51.1] (226.5–231.1) Comunicación, contactos, clientes, oportunidades, conexiones, networking,
+[03:51.8 – 03:52.1] (231.8–232.1) por mil.
+[03:52.7 – 03:55.0] (232.7–235.0) Pero bueno, esos son para mí los principales costos.
+[03:55.1 – 03:58.5] (235.1–238.5) Sí, yo ya salía asumiendo que tiene el lado malo que es el que nadie se espera.
+[03:59.3 – 04:02.5] (239.3–242.5) Y tendrías algún anécdota, algún ejemplo de algo que digas,
+[04:02.5 – 04:06.7] (242.5–246.7) che, en este momento dije, me arrepiento de subir 180 mil videos por hora.
+[04:07.2 – 04:08.5] (247.2–248.5) No, nunca me arrepentí.
+[04:08.7 – 04:11.3] (248.7–251.3) Pero porque siempre pongo en la balanza lo bueno y lo malo,
+[04:11.3 – 04:13.6] (251.3–253.6) hay muchas cosas malas, hay muchísimas cosas buenas.
+[04:13.9 – 04:16.1] (253.9–256.1) Entonces, para mí el over all me da positivo.
+[04:16.3 – 04:18.0] (256.3–258.0) Entonces nunca me arrepentí como tal.
+[04:18.1 – 04:20.6] (258.1–260.6) Ahora hay situaciones que son una paja.
+[04:20.8 – 04:22.8] (260.8–262.8) Sí, no sé, entra a un avión
+[04:22.8 – 04:25.0] (262.8–265.0) y que literalmente todos te apunten y susurren.
+[04:25.7 – 04:27.9] (265.7–267.9) Ayer estaba en el gimnasio, me pidieron tres videos.
+[04:28.3 – 04:30.4] (268.3–270.4) ¿Me mandas un video a mi primo no sé qué que es tu fan?
+[04:30.8 – 04:31.7] (270.8–271.7) Hola, yo todo chivado.
+[04:31.9 – 04:33.1] (271.9–273.1) Hola, primo no sé qué.
+[04:33.2 – 04:34.3] (273.2–274.3) Acá Beltrán Briones.
+[04:34.7 – 04:36.2] (274.7–276.2) Te mando un abrazo grande, loco.
+[04:36.4 – 04:36.9] (276.4–276.9) Todo chivado.
+[04:37.0 – 04:39.1] (277.0–279.1) Y si le decís que no, sos un hijo de mil puta.
+[04:39.1 – 04:40.9] (279.1–280.9) ¿Por qué? Pero sos un mala onda.
+[04:41.4 – 04:42.1] (281.4–282.1) Y vos ahí...
+[04:42.7 – 04:43.0] (282.7–283.0) ¡Hola!
+[04:44.2 – 04:44.5] (284.2–284.5) Bueno...
+[04:44.5 – 04:45.1] (284.5–285.1) Es un costo.
+[04:45.2 – 04:46.3] (285.2–286.3) Tampoco me voy a llorar, digo.
+[04:46.3 – 04:47.4] (286.3–287.4) Me parece cero grave.
+[04:47.9 – 04:48.4] (287.9–288.4) Pero es un costo.
+[04:48.4 – 04:50.3] (288.4–290.3) Sí, sí. Hay gente que va a la guerra o trabaja en una mina.
+[04:50.6 – 04:51.4] (290.6–291.4) Boludo. Tal cual.
+[04:51.5 – 04:52.0] (291.5–292.0) Tal cual.
+[04:52.1 – 04:55.6] (292.1–295.6) Yo lo hablo mucho con gente que es no, pero no me quiero exponer, hacer videos.
+[04:56.4 – 04:56.7] (296.4–296.7) Digo...
+[04:56.7 – 04:58.1] (296.7–298.1) Si ese es tu problema, agradecé.
+[04:58.3 – 04:59.9] (298.3–299.9) Tenés el problema menos honesto de la historia.
+[05:00.1 – 05:00.4] (300.1–300.4) Literal.
+[05:00.5 – 05:02.6] (300.5–302.6) ¿No sabés lo que hay gente que hace para ganar plata?
+[05:02.7 – 05:04.2] (302.7–304.2) No. Y además a la gente le da vergüenza
+[05:04.7 – 05:08.4] (304.7–308.4) que su círculo íntimo de amigos y familia y gente con la que trabaja
+[05:08.4 – 05:13.5] (308.4–313.5) lo juzguen. Que ese grupo, como mucho, son 30 personas. Como mucho. Digo, vos a tu cumpleaños
+[05:13.5 – 05:20.4] (313.5–320.4) cuánta gente invitas? 30. Menos. Esa es la gente que te importa. Versus cientos de miles o incluso
+[05:20.4 – 05:25.1] (320.4–325.1) millones a los cuales puedes contactar, que te conozcan y que eventualmente te compren. Entonces
+[05:25.1 – 05:30.2] (325.1–330.2) uno deja de hacer algo sumamente redituable y rentable para tu compañía por la opinión de
+[05:30.2 – 05:35.3] (330.2–335.3) 20 o 30. No tiene sentido si lo pensas de forma racional. Ahora, a nivel emocional te
+[05:35.3 – 05:40.3] (335.3–340.3) la vergüenza, pero en términos racionales no tiene sentido no hacerlo, ya que además hacerlo
+[05:40.3 – 05:46.1] (340.3–346.1) tiene un costo muy bajo. Digo, la barrera de entrada que es tener un teléfono y 5 minutos
+[05:46.1 – 05:52.7] (346.1–352.7) que te tome a grabar un video. Yo lo pienso así, viste. Y te voy a dar otra reframe lógico que
+[05:52.7 – 05:57.5] (352.7–357.5) también puedes usar y es que a vos te da miedo que te vaya mal. O sea, a nadie le da miedo que
+[05:57.5 – 06:01.3] (357.5–361.3) le vaya bien, le da miedo que le vaya mal. Entonces, teniendo en cuenta que te va mal,
+[06:02.4 – 06:05.8] (362.4–365.8) ponerle que 100 personas ven tus vídeos entonces si te va mal no lo va a dar nadie
+[06:05.8 – 06:11.1] (365.8–371.1) si te va bien lo pienso así lo pienso así no puedes perder subiendo un vídeo
+[06:11.1 – 06:14.4] (371.1–374.4) porque si es una garcha no lo ve nadie si el vídeo es buenísimo lo ve todo el mundo
+[06:14.4 – 06:19.2] (374.4–379.2) te da vergüenza pero le fue bien que te van a decir no puedes perder es así yo pienso igual
+[06:19.2 – 06:24.0] (379.2–384.0) hay muy poco por perder pero crear contenido es la mejor herramienta que existe de desarrollo
+[06:24.0 – 06:28.6] (384.0–388.6) personal pues tenés que tener espalda o desarrollo como le quieres decir como para
+[06:28.6 – 06:33.7] (388.6–393.7) dejar algo dicho por mí. Yo digo esto, pienso esto y si estás sin acuerdo no me importa. Llegar a
+[06:33.7 – 06:38.5] (393.7–398.5) ese punto la mayoría no llega. ¿Vos de alguna forma crees que fuiste el que convenció a tu grupo
+[06:38.5 – 06:44.2] (398.5–404.2) cercano, a tu grupo de referencia de empezar a subir vídeos? Sí, convencí a mi viejo, a mi
+[06:44.2 – 06:49.1] (404.2–409.1) novia y a mis amigos y a todos les fue bien y a todos le mejoró el negocio, a todos. ¿Qué vende
+[06:49.1 – 06:56.2] (409.1–416.2) tu novia? Mi novia tiene su marca personal tipo influencer y le va bien con eso y además es
+[06:56.2 – 07:02.9] (416.2–422.9) trabaja como médica especialización en pediatría y celebró mil oportunidades por las redes. En el
+[07:02.9 – 07:07.7] (422.9–427.7) mundo laboral de la medicina y después en el mundo como vida influencer, un montón de eventos,
+[07:07.8 – 07:11.4] (427.8–431.4) invitaciones, personas, gente que la conocía, gente que conoció que ella quería conocer,
+[07:12.1 – 07:15.7] (432.1–435.7) fue espectacular. Después mi viejo vende lo mismo que yo, laburamos juntos en la empresa,
+[07:15.8 – 07:20.4] (435.8–440.4) vende departamentos y le llega un montón de gente, elites recalificados, tienen menos
+[07:20.4 – 07:25.2] (440.4–445.2) alcance que yo, pero hace videos un poco más técnicos, entonces atrae clientes potenciales,
+[07:25.2 – 07:30.3] (445.2–450.3) veces mejor calificados. Y mi grupo de amigos todos tienen hitos negocios que también vía
+[07:30.3 – 07:35.4] (450.3–455.4) redes les fue bárbaro. Recién me dijiste que conocen los costos y también los beneficios que
+[07:35.4 – 07:41.5] (455.4–461.5) entre ellos están las oportunidades networking leads. Si tuvieras que darme una micro historia
+[07:41.5 – 07:47.0] (461.5–467.0) de el mejor networking, la mejor oportunidad, el mejor lead, como para que la gente termine
+[07:47.0 – 07:55.2] (467.0–475.2) de mencionar realmente tangible che, subo un video y qué pasa en mi vida. También subo el
+[07:55.2 – 08:00.2] (475.2–480.2) puerta del local o qué pasa? Mirá boludo, yo entré a laburar en el mundo del real estate en una
+[08:00.2 – 08:04.5] (480.2–484.5) desarrolladora de la cual mi viejo era uno de los socios. Eran varios socios, mi viejo era un
+[08:04.5 – 08:09.5] (484.5–489.5) socio minoritario. Yo me metí a trabajar con él, arranqué con las redes, me hicieron socio,
+[08:09.7 – 08:14.5] (489.7–494.5) después me fue también con las redes que nos abrimos una empresa propia. Digo y hoy en día
+[08:14.5 – 08:18.5] (494.5–498.5) estamos con una empresa propia donde somos los dueños papá y yo, donde antes era un porcentaje
+[08:18.5 – 08:22.6] (498.5–502.6) minoritario en una desarrolladora. Después lanzamos este fondo común de inversión que es un
+[08:22.6 – 08:27.2] (502.6–507.2) que cotiza en bolsa, donde juntamos millones de dólares junto con mi socio IEB. Después
+[08:27.2 – 08:31.1] (507.2–511.1) lancé un libro que es un bestseller. Digo, hay un millón de betas a contestar esta pregunta.
+[08:31.1 – 08:34.3] (511.1–514.3) Si querés te digo alguna puntual. Yo tengo un podcast que es ya en el Club del Ladrillo,
+[08:34.5 – 08:38.6] (514.5–518.6) donde entrevisto a gente del real estate. Ahí conocí un tipo, pegué muy buena onda,
+[08:38.8 – 08:42.2] (518.8–522.2) él estaba re bien conectado en Asunción, Paraguay. Me conectó con el mejor constructor de
+[08:42.2 – 08:45.4] (522.2–525.4) Paraguay. Ese tipo me conectó con los mejores políticos de Paraguay. Hoy estamos haciendo
+[08:45.4 – 08:50.4] (525.4–530.4) una torre de lujo en Paraguay y todo por haber entrevistado a un chabón. En ese mismo podcast
+[08:50.4 – 08:52.1] (530.4–532.1) conocí un tipo que fue a funcionar el gobierno,
+[08:52.4 – 08:53.7] (532.4–533.7) me presentó gente del gobierno de la ciudad.
+[08:53.9 – 08:56.0] (533.9–536.0) Terminé conociendo a toda la cúpula directiva del gobierno
+[08:56.0 – 08:57.7] (536.0–537.7) de la ciudad, tengo excelente relación.
+[08:58.0 – 09:01.0] (538.0–541.0) Y cuando yo hago una obra, vos presentás un plano
+[09:01.0 – 09:03.4] (541.0–543.4) arquitectónico que la ciudad te lo tiene que aprobar.
+[09:03.5 – 09:06.3] (543.5–546.3) Hoy por hoy estoy en tiempo récord de aprobación de planos
+[09:06.3 – 09:09.0] (546.3–549.0) porque sé a quién enviárselo, sé qué consultar, che,
+[09:09.1 – 09:10.5] (549.1–550.5) qué está mal, qué te tengo que arreglar.
+[09:11.0 – 09:13.2] (551.0–553.2) Y algo que por ahí antes tardaba 15 meses,
+[09:13.5 – 09:14.7] (553.5–554.7) hoy estoy tardando 2 meses.
+[09:15.0 – 09:17.0] (555.0–557.0) Y eso es guita que tenés enterrada.
+[09:17.3 – 09:18.6] (557.3–558.6) Una cosa es tener guita enterrada 2 meses,
+[09:18.8 – 09:19.8] (558.8–559.8) otra cosa es tener guita enterrada,
+[09:19.8 – 09:25.0] (559.8–565.0) hasta estar dos años esperando que me aprueban planos. Te estoy dando algunos ejemplos, pero de
+[09:25.0 – 09:31.4] (565.0–571.4) verdad hay millones. Mira, fui al gimnasio la semana pasada. Te hablo del gimnasio porque retomé
+[09:31.4 – 09:35.3] (571.4–575.3) hace un mes, boludo. No es que yo sea un adicto al gimnasio, estaba gordo y empecé a ir. Vi en un
+[09:35.3 – 09:39.5] (575.3–579.5) tipo, me dice Abel Trampriones y yo trago uno en Morgan Stanley, Miami, Estados Unidos. Hace tantos
+[09:39.5 – 09:44.0] (579.5–584.0) años me dedico a manejar la guita de fondos de inversión alternativos como BlackRock, entre
+[09:44.0 – 09:48.4] (584.0–588.4) otros. Están buscando poner guita en Real Estate Latam, pero no tienen un vehículo formal
+[09:48.4 – 09:52.5] (588.4–592.5) para hacerlo. Juntémonos por tu raid. Me dejó un T, le super intereso, cuando haga más una
+[09:52.5 – 09:56.5] (592.5–596.5) nueva emisión va a traer los fondos de Estados Unidos a poner guita en el raid. Un chabón que
+[09:56.5 – 10:02.3] (596.5–602.3) me cruza en el gym. ¿Por qué me habló él? Porque me tenía visto de redes. Bueno, así de esta
+[10:02.3 – 10:08.3] (602.3–608.3) que te cuento me pasan dos o tres por día. Por día. ¿Hoy por ejemplo? Hoy recién salgo de mi
+[10:08.3 – 10:14.4] (608.3–614.4) casa, pero por ejemplo viniendo de mi casa acá, que yo estoy a seis cuadras, me saludaron unas
+[10:14.4 – 10:19.8] (614.4–619.8) personas en la calle. Entre ellas, uno yo vine caminando con mi libro que te lo quiero regalar,
+[10:20.2 – 10:24.4] (620.2–624.4) y uno me dijo, eh Beltrán, sos un crack, tengo que comprar tu libro. Yo tenía el libro en la mano,
+[10:24.4 – 10:27.5] (624.4–627.5) entonces me saludó desde el auto y me dijo, ese chabón va a comprar mi libro porque me
+[10:27.5 – 10:31.7] (627.5–631.7) veo caminando por la calle con mi libro. Y aprovecho para regalarte mi libro,
+[10:32.2 – 10:36.9] (632.2–636.9) el Método Briones para vos, querido. Puede ser que este sea un best seller en
+[10:36.9 – 10:40.3] (636.9–640.3) Mercado Libre que superó todos los records. Me sacaste las palabras de la boca,
+[10:40.3 – 10:45.2] (640.3–645.2) pero no es un bestseller en mercado de libros, es un bestseller en el país, es el libro más
+[10:45.2 – 10:49.3] (645.2–649.3) vendido del 2026 en la Argentina. Así que en verdad yo me vería a presentar no como desarrollador
+[10:49.3 – 10:53.6] (649.3–653.6) inmobiliario, sino como autor. La verdad que soy eso. ¿Contra quién este me dice en los libros?
+[10:53.7 – 10:58.1] (653.7–658.1) ¿Quién es el bestseller histórico de libros? Rolón es muy fuerte. Pasa que la autoayuda es
+[10:58.6 – 11:02.6] (658.6–662.6) el rubro que más se vende. Mi libro no es de autoayuda, pero a mi Penguin me dijo, boludo,
+[11:02.7 – 11:06.6] (662.7–666.6) que es mi editorial. Si haces un libro autoayuda la rompes. Pasa que yo no escribo autoayuda.
+[11:07.3 – 11:10.0] (667.3–670.0) Rolón es muy bueno, después Isabel Allende, una chilena.
+[11:10.0 – 11:11.1] (670.0–671.1) ¿A Cristina le ganaste, Ponelle?
+[11:12.1 – 11:14.7] (672.1–674.7) No, Cristina sinceramente vendió mucho.
+[11:14.9 – 11:17.7] (674.9–677.7) Fue de los libros de la última década que más se vendió.
+[11:17.8 – 11:18.2] (677.8–678.2) ¿Y a Macri?
+[11:18.6 – 11:20.0] (678.6–680.0) Sí, a Macri le gané por mucho.
+[11:20.6 – 11:21.6] (680.6–681.6) Bien, felices sesiones.
+[11:21.9 – 11:22.6] (681.9–682.6) Muchas gracias.
+[11:23.7 – 11:25.6] (683.7–685.6) Así que bueno, nada, networking, boludo, me pasa.
+[11:26.1 – 11:28.5] (686.1–688.5) Podría estar dos horas hablándote de situaciones de networking
+[11:28.5 – 11:30.6] (688.5–690.6) que se me dieron porque la gente me tenía vista en redes.
+[11:30.9 – 11:33.3] (690.9–693.3) Ir a un restaurante que me frena la mesa a hablar,
+[11:33.4 – 11:36.1] (693.4–696.1) sentarme en la mesa con esa gente que me compra un departamento de 500.000 dólares.
+[11:36.1 – 11:40.4] (696.1–700.4) no sé, me pasa todo el tiempo, boludo. Me llama mucho la atención porque vos ni siquiera
+[11:40.4 – 11:45.5] (700.4–705.5) te dedicas al marketing, vos te dedicas a la construcción, al desarrollo. El marketing
+[11:45.5 – 11:50.5] (705.5–710.5) es simplemente el vehículo como para atraer gente que te termine comprando eso y nunca
+[11:51.3 – 11:55.6] (711.3–715.6) consideraste pivotar hacia otro lado. Cómo decir, tipo, este vehículo de marketing
+[11:55.6 – 12:00.1] (715.6–720.1) que tengo, este músculo de atraer gente, si lo canalizara en otro modelo de negocios
+[12:00.1 – 12:01.1] (720.1–721.1) podría ganar majita.
+[12:02.0 – 12:04.9] (722.0–724.9) Sí, pero es un pensamiento bastante mazoquista ese.
+[12:05.3 – 12:07.6] (725.3–727.6) Como, che, si yo no me dedicase al real estate y me dedicase al
+[12:07.6 – 12:09.9] (727.6–729.9) oil and gas y hubiese arrancado en el 2021,
+[12:09.9 – 12:11.6] (729.9–731.6) hoy tendría tanta majita.
+[12:12.0 – 12:14.5] (732.0–734.5) Me dedico a lo que me dedico y tengo cierto know-how en ello
+[12:14.5 – 12:16.0] (734.5–736.0) y tengo mucho contacto en ello.
+[12:16.5 – 12:18.3] (736.5–738.3) Y en ese sentido soy bastante conservador.
+[12:18.9 – 12:22.1] (738.9–742.1) Me mantengo en lo que sé hacer, no soy delirante.
+[12:22.4 – 12:24.4] (742.4–744.4) Tipo, a mí me ofrecen unidades de negocio o
+[12:25.0 – 12:26.5] (745.0–746.5) inversiones a diario, muchas.
+[12:26.6 – 12:28.8] (746.6–748.8) Y digo que no, al 99%.
+[12:28.8 – 12:32.0] (748.8–752.0) o nuevos negocios, o nuevas provincias, o nuevos tipos de construcciones,
+[12:32.0 – 12:34.7] (752.0–754.7) y digo no, no, no. Digo no mucho más de lo que digo sí.
+[12:36.4 – 12:39.3] (756.4–759.3) Y yo siento que las unidades de negocios son como los dedos de una mano.
+[12:39.7 – 12:41.9] (759.7–761.9) Y si vos movés la mano para acá, tienen que ir todos para allá.
+[12:41.9 – 12:44.2] (761.9–764.2) O sea, tengo el Club de Ladrillo, que es un podcast de Real Estate.
+[12:44.5 – 12:47.4] (764.5–767.4) Tengo mi libro donde hablo de Real Estate y mi marketing y mi empresa.
+[12:47.6 – 12:49.7] (767.6–769.7) Tengo mi empresa donde construyo y desarrollo edificios.
+[12:49.8 – 12:52.3] (769.8–772.3) Tenés el fondo que se dedica a juntar capital
+[12:52.3 – 12:54.2] (772.3–774.2) para comprar propiedades en la ciudad de Buenos Aires.
+[12:54.6 – 12:56.3] (774.6–776.3) Doy charlas de vez en cuando, soy orador,
+[12:56.5 – 12:58.5] (776.5–778.5) o hablo en redes sociales sobre Real Estate y marketing.
+[12:58.5 – 13:02.8] (778.5–782.8) entonces todo está alineado si yo digo che el mercado de mobiliario va a subir beneficia a todos
+[13:02.8 – 13:10.2] (782.8–790.2) mis negocios y si yo me pusiese a vender corbatas qué carajo tiene que ver eso con esto entonces
+[13:10.2 – 13:15.2] (790.2–795.2) intento de que todo esté alineado no las corbatas igual son lo que se viene te lo digo yo a ver
+[13:15.2 – 13:20.4] (795.2–800.4) por qué no tengo por qué bueno a mí para te digo algo me junté con pablo bañares un lo tenés
+[13:20.4 – 13:28.4] (800.4–808.4) y el andrés tan chango fenómeno y me dijo hoy el nuevo signo de rebeldía es usar corbata y le
+[13:28.4 – 13:34.3] (808.4–814.3) de los simuladores. Ah bueno, está bien. No lo había relacionado que era de los simuladores.
+[13:34.5 – 13:37.9] (814.5–817.9) Hay una escena en la serie, la mejor serie argentina en la historia que es los simuladores,
+[13:38.4 – 13:44.8] (818.4–824.8) donde hay un tipo vestido como con ropa, no sé cómo decirlo, darko, esa gente que se viste raro,
+[13:46.6 – 13:52.7] (826.6–832.7) y automáticamente él dice yo soy un rebelión anticultural, vanguardista, y Santos le dice mira
+[13:52.7 – 13:58.4] (832.7–838.4) a tu alrededor, la que te vende esa ropa es una empresa que está siendo millonaria. Si
+[13:58.4 – 14:00.6] (838.4–840.6) Contra-cultural, tenés que usar saco y corbata.
+[14:00.6 – 14:02.3] (840.6–842.3) Es tal cual, estoy de acuerdo.
+[14:02.6 – 14:03.4] (842.6–843.4) ¿Vos querés ser famoso?
+[14:04.4 – 14:04.8] (844.4–844.8) No.
+[14:05.5 – 14:06.1] (845.5–846.1) No, pero sí.
+[14:07.1 – 14:09.8] (847.1–849.8) No, porque lo que implica ser famoso es un garrón.
+[14:10.3 – 14:14.2] (850.3–854.2) Sí, porque la fama, para mí fama no es la palabra adecuada.
+[14:14.3 – 14:16.7] (854.3–856.7) El hecho de que la gente y tu mercado te conozca,
+[14:16.9 – 14:19.5] (856.9–859.5) hace que comercializar tu producto sea muchísimo más
+[14:19.5 – 14:21.3] (859.5–861.3) fácil y te abre muchísimas puertas.
+[14:21.6 – 14:23.4] (861.6–863.4) Entonces, la respuesta real es sí,
+[14:23.7 – 14:25.4] (863.7–865.4) pero no por los motivos que mucha gente cree.
+[14:25.6 – 14:27.7] (865.6–867.7) Porque uno dice, ¿querés ser famoso para que te saluden,
+[14:27.7 – 14:30.6] (867.7–870.6) para que te conozcan, para que te inflen el ego. Eso a mí no me gusta.
+[14:31.2 – 14:34.1] (871.2–874.1) Quiero ser conocido para que cuando llame a alguien, me tome una reunión,
+[14:34.2 – 14:37.6] (874.2–877.6) que cuando pide un número de teléfono me lo den, cuando necesito un favor me lo den.
+[14:37.7 – 14:40.9] (877.7–880.9) Pase ese favor, cuando quiera levantar capital lo levanté rápidamente.
+[14:41.4 – 14:45.5] (881.4–885.5) Entonces la respuesta por ahí sería sí, pero no por los motivos que la gran mayoría de la gente quiere, ¿no?
+[14:46.2 – 14:50.0] (886.2–890.0) Claro, o sea, lo que la gente considera que es bueno de la fama para vos es un costo.
+[14:50.2 – 14:50.5] (890.2–890.5) Exacto.
+[14:51.0 – 14:53.8] (891.0–893.8) Pero eso es básicamente porque además de famoso, sos empresario.
+[14:53.8 – 14:54.0] (893.8–894.0) Sí.
+[14:54.1 – 14:56.7] (894.1–896.7) Porque si no tenés la empresa, no tenés vehículo para monetizar la fama.
+[14:56.7 – 15:00.9] (896.7–900.9) Correcto, ser famoso sin una empresa detrás o sin algo para vender, me parece un tiro en las pelotas.
+[15:02.2 – 15:08.7] (902.2–908.7) Sí, Iman Gatzi con un mentor que tuve, él dice que se mata si es más famoso que millonario,
+[15:08.9 – 15:12.3] (908.9–912.3) tipo el objetivo es ser más millonario que famoso, como que no suba uno sin el otro,
+[15:12.4 – 15:13.7] (912.4–913.7) porque si se da vuelta te querés matar.
+[15:14.1 – 15:17.7] (914.1–917.7) Y no tiene sentido, la gente cree que es divertido, pero no tiene sentido,
+[15:18.2 – 15:20.5] (918.2–920.5) no tiene ningún sentido lo que conlleva.
+[15:20.7 – 15:23.2] (920.7–923.2) Vos decís que no querés ser famoso, pero de chico querías ser actor,
+[15:23.6 – 15:24.6] (923.6–924.6) ¿cómo se relaciona eso?
+[15:26.5 – 15:31.4] (926.5–931.4) Eso te lo voy a haber dicho alguien. Yo era fanático del cine de chicos, sigo siendo,
+[15:31.5 – 15:37.0] (931.5–937.0) me encanta el cine. Y hacía unas imitaciones de Marlon Brando, imitaba al padrino. Tengo
+[15:37.0 – 15:41.4] (937.0–941.4) una imitación del padrino que es excelente, entre otras imitaciones que hago. Y yo decía
+[15:41.4 – 15:45.9] (941.4–945.9) que me gustaría ser Tony Montana, imitamos a varios, ¿viste? ¿Vas a hacerlo ahora
+[15:45.9 – 15:55.1] (945.9–955.1) o no? ¿Cuál quieres? Tony Montana. Tony Montana, que es una performance tremenda,
+[15:55.1 – 15:58.3] (955.1–958.3) Pero yo siempre que entraba a un lugar, me abría de piernas,
+[15:58.6 – 16:00.8] (958.6–960.8) agarraba así y decía, say hello to my little friend.
+[16:01.7 – 16:04.7] (961.7–964.7) Siempre, siempre que entraba a un cuarto hacía eso, con 9 años.
+[16:06.7 – 16:09.2] (966.7–969.2) Y me divertía, pero la realidad es que, bueno,
+[16:09.2 – 16:12.3] (969.2–972.3) hoy ha cambiado mi profesión, entre otras cosas.
+[16:12.4 – 16:13.8] (972.4–973.8) Pero de alguna manera soy un actor.
+[16:14.2 – 16:17.5] (974.2–977.5) Salís, comunicás, das a conocer, tenés que hacer que la gente te entienda,
+[16:17.7 – 16:19.9] (977.7–979.9) tenés que hacer que la gente confíe.
+[16:20.7 – 16:23.5] (980.7–983.5) No sé si es actuar, pero definitivamente me volví un comunicador.
+[16:24.4 – 16:31.8] (984.4–991.8) No es un actor, pero si es un personaje. Y no digo como que sea algo inventado y que no quieras mostrar tu realidad, pero en la red es solo una parte.
+[16:32.4 – 16:37.5] (992.4–997.5) Correcto, correcto, correcto. Y no, y sobre todas las cosas creo que un actor comunica y, digamos, yo me la paso comunicando.
+[16:38.5 – 16:42.8] (998.5–1002.8) Creo que hay algo de similitud entre lo que decía de chico y lo que va a haber en día.
+[16:43.5 – 16:48.3] (1003.5–1008.3) Pero un actor, siempre el objetivo final del actor es ser famoso. O sea, nadie quiere ser actor de ver algunas novistas.
+[16:49.1 – 16:51.5] (1009.1–1011.5) Es verdad, sí, sí, es verdad, es verdad, es verdad.
+[16:51.5 – 16:54.9] (1011.5–1014.9) Vamos a ver, después le vamos a preguntar a Rolón qué opina de todo lo que estamos hablando.
+[16:55.6 – 17:00.7] (1015.6–1020.7) Qué grande Rolón. Si me tuvieras que dar un dato que nadie sabe, y eso que te ven
+[17:00.7 – 17:04.7] (1020.7–1024.7) cien millones de personas por mes diciendo cualquier tipo de cosas, un
+[17:04.7 – 17:07.7] (1024.7–1027.7) dato que nadie se espere de Beltrán, pero que es verdad.
+[17:08.5 – 17:12.5] (1028.5–1032.5) Estudio en promedio más de una hora y media por día, leyendo.
+[17:12.9 – 17:15.7] (1032.9–1035.7) Pero dame uno más random. Yo por ejemplo, sé hacer beatbox. Soy muy bueno.
+[17:19.8 – 17:26.0] (1039.8–1046.0) mira me gané es que depende qué dato pero me gané todos los assassins creed
+[17:26.0 – 17:30.8] (1046.0–1050.8) más de tres veces cada uno todos al menos una vez al cien por cien estamos
+[17:30.8 – 17:35.0] (1050.8–1055.0) hablando de más de mil horas de gameplay fanático del assassins creed
+[17:35.5 – 17:39.9] (1055.5–1059.9) tengo varios juegos así todos los gta's no tenés pinta de fifa pero si black ops
+[17:39.9 – 17:45.5] (1059.9–1065.5) fifa le rentré toda mi vida toda mi vida jugaba el fifa fuerte al día de hoy sigo
+[17:45.5 – 17:51.7] (1065.5–1071.7) con mis amigos 2 vs 2 Black Ops re jugué. Datos random, esto igual he sabido, llegué al round 113 en
+[17:51.7 – 17:56.1] (1071.7–1076.1) Keener Totten en Black Ops, en el Black Ops 1, muy bueno jugando al Black Ops Zombies era,
+[17:56.4 – 18:00.7] (1076.4–1080.7) sigo siendo bueno, juego de vez en cuando. Y sin ningún bug? No, no, normal, rápida normal.
+[18:02.5 – 18:08.2] (1082.5–1088.2) Fue a regamer, pero esos datos por ahí no son tan conocidos, no? Y después de haber
+[18:08.2 – 18:13.7] (1088.2–1093.7) tenido oportunidades, networking, cosas que pasaron, muchísima atención, cuál fue el
+[18:13.7 – 18:18.8] (1093.7–1098.8) y quiero que me lo describas para ponerme en tus zapatos que dijiste dónde estoy,
+[18:18.8 – 18:21.6] (1098.8–1101.6) qué está pasando. No puede ser que gracias a sus videos estoy acá.
+[18:22.1 – 18:26.1] (1102.1–1106.1) Y mirá boludo, por ahí te tengo que decir hace un mes, por ahí.
+[18:26.3 – 18:31.5] (1106.3–1111.5) Hace un mes yo estaba parado en mi oficina, acabamos de comprar el noveno lote en la
+[18:31.5 – 18:38.0] (1111.5–1118.0) ciudad de Buenos Aires en un año. El noveno lote en un año, los lotes valen fortunas.
+[18:38.4 – 18:40.1] (1118.4–1120.1) El noveno lote en la ciudad de Buenos Aires.
+[18:41.4 – 18:43.4] (1121.4–1123.4) ¿Abajo de 10 millones? ¿Arriba de 3 millones?
+[18:44.0 – 18:47.9] (1124.0–1127.9) Algo así, exactamente. Algo así es lo que van en los lotes que compramos nosotros.
+[18:48.0 – 18:53.7] (1128.0–1133.7) Hay lotes más baratos, hay lotes más caros, pero nosotros compramos lotes entre 2 y 10 palos verdes, el costo del lote.
+[18:53.9 – 18:57.9] (1133.9–1137.9) Estábamos comprando el noveno lote en un año, iniciando una torre en Paraguay,
+[18:58.1 – 19:02.2] (1138.1–1142.2) con el fondo de este rate que lanzamos cotizando en bolsa, con todo el mundo hablando de nuestro fondo,
+[19:02.6 – 19:08.1] (1142.6–1148.1) con el libro que ya era un bestseller, con mi grupo de amigos que estaban todos emprendiendo y haciendo sus cosas en sus redes,
+[19:08.5 – 19:10.8] (1148.5–1150.8) laburando con mi familia, porque yo laburo con mi viejo,
+[19:11.0 – 19:13.5] (1151.0–1153.5) laburando con amigos, porque tengo amigos que laburan conmigo.
+[19:14.5 – 19:19.1] (1154.5–1159.1) Y todo lo creado, Grupo Briones, El Rey, Tel Libro, Las Obras, Paraguay,
+[19:20.6 – 19:22.1] (1160.6–1162.1) todo arranca con los videos.
+[19:25.8 – 19:29.7] (1165.8–1169.7) Y te lo dije al principio, ¿cuánto me costó a mí hacer los videos?
+[19:30.4 – 19:33.1] (1170.4–1173.1) Poco, me costó poco, al día de hoy me cuesta poco.
+[19:33.2 – 19:35.3] (1173.2–1175.3) Luego tengo una idea, te digo, grabame, lo hago y lo subo.
+[19:35.3 – 19:42.1] (1175.3–1182.1) siento que es como un hack a emprender. Es un hack. Si lo haces bien, después tienes que tener
+[19:42.1 – 19:48.7] (1182.1–1188.7) cierto talento, pero es una locura. ¿Es talento o es habilidad? ¿Sentís que lo tenías o que lo
+[19:48.7 – 19:53.2] (1188.7–1193.2) desarrollaste? No, lo desarrollé. Mi primer video es una garcha. Después fueron mejorando con el
+[19:53.2 – 19:57.1] (1193.2–1197.1) tiempo. Al día de hoy considero que siguen mejorando. Hoy hago videos menos virales,
+[19:57.1 – 20:02.0] (1197.1–1202.0) pero comercialmente mucho mejores. Y al día de hoy sigo descifrando cuál es el punto
+[20:02.0 – 20:07.0] (1202.0–1207.0) entre viralidad y comercialización. Porque si yo hago todo contenido comercial, pierdo mucha
+[20:07.0 – 20:11.7] (1207.0–1211.7) audiencia. Si yo hago mucho contenido viral, gano mucha audiencia de mierda. Entonces estoy buscando
+[20:11.7 – 20:16.8] (1211.7–1216.8) el balance de qué es lo óptimo. Cuánto tribuñar, cuánto vender. Y al día de hoy sigo descifrando
+[20:16.8 – 20:22.4] (1216.8–1222.4) cuál es el sweet spot donde ubicarme. Es dedicarse al marketing se basa eso. Literal. Cuánto
+[20:22.4 – 20:26.7] (1222.4–1226.7) web mes y cuanta nutrición. Totalmente. Y al día de hoy sigo descifrando cuál es el óptimo.
+[20:26.9 – 20:32.0] (1226.9–1232.0) No lo sabes, pero hoy para dónde van tus conclusiones. Hoy yo tengo una audiencia muy
+[20:32.0 – 20:37.3] (1232.0–1237.3) que me gané en los últimos dos años y hoy estoy haciendo contenido mucho más comercial para esa
+[20:37.3 – 20:44.4] (1237.3–1244.4) audiencia. La noticia y sorpresa grata que me estoy llevando es que haciendo contenido de nicho,
+[20:45.1 – 20:49.9] (1245.1–1249.9) técnico y específico aún así tengo una audiencia muy grande. La semana pasada subí un
+[20:49.9 – 20:55.7] (1249.9–1255.7) vídeo de tres minutos explicando todos los impuestos que quitó mi ley, cómo impactó la
+[20:55.7 – 20:59.5] (1255.7–1259.5) ley de alquileres haberla derogado, cómo impactó el fondo de garantía de sustentabilidad en la
+[20:59.5 – 21:04.7] (1259.5–1264.7) de créditos hipotecarios. Un video muy técnico, hablando de porcentajes de impuestos de la ciudad,
+[21:04.9 – 21:10.0] (1264.9–1270.0) de impuestos de nación, y ese video lo vieron 300 mil personas. En verdad, entre TikTok e
+[21:10.0 – 21:14.8] (1270.0–1274.8) Instagram la vieron 600 mil personas ese video. Un video que te lo digo así, y es un embole,
+[21:14.9 – 21:20.5] (1274.9–1280.5) no lo puedes ver, a menos que estés en el rubro. Y me estoy llevando esta sorpresa grata que mis
+[21:20.5 – 21:25.9] (1280.5–1285.9) videos, que yo pensaba esto es ultranicho y mirable, a la gente le gusta, boludo. Lo cual es
+[21:25.9 – 21:27.4] (1285.9–1287.4) espectacular, ¿no? Obviamente.
+[21:27.5 – 21:31.5] (1287.5–1291.5) Claro, y ya empezaste a desarrollar esa muñeca como para decir cómo hago que este video que
+[21:31.5 – 21:35.5] (1291.5–1295.5) es súper aburrido, por lo menos tenga una... porque me lo presentaste como las cosas que
+[21:35.5 – 21:37.3] (1295.5–1297.3) hizo Millay, como metiéndole un poquito de...
+[21:37.3 – 21:38.1] (1297.3–1298.1) Sí, sí, sí.
+[21:38.2 – 21:42.7] (1298.2–1302.7) Porque puedes decir actualización tributaria y no. Pero si decís che, esto es lo que
+[21:42.7 – 21:47.7] (1302.7–1307.7) hizo Millay mejor que los K, y ahí lo contás, es como que empezás a desarrollar
+[21:47.7 – 21:48.0] (1307.7–1308.0) esa...
+[21:48.3 – 21:48.7] (1308.3–1308.7) Totalmente.
+[21:49.0 – 21:49.5] (1309.0–1309.5) Esa muñeca.
+[21:49.6 – 21:50.8] (1309.6–1310.8) Eso que decís es verdad, es tal cual.
+[21:50.9 – 21:52.8] (1310.9–1312.8) Que ya lo tenés natural, que es una virtud.
+[21:52.8 – 21:56.5] (1312.8–1316.5) Sí, el video arranca. Voy a enumerar todas las cosas que hizo el gobierno de Javier Millet
+[21:56.5 – 21:57.8] (1316.5–1317.8) por el mercado inmobiliario.
+[21:58.0 – 21:58.2] (1318.0–1318.2) Claro.
+[21:58.3 – 21:59.1] (1318.3–1319.1) Así arranca el video.
+[21:59.3 – 22:02.7] (1319.3–1322.7) Cuando hay otra persona que va a agarrar la misma ley y se va a poner a reaccionar.
+[22:03.1 – 22:05.3] (1323.1–1325.3) Bueno, esta es la actualización tributaria a septiembre.
+[22:05.9 – 22:08.5] (1325.9–1328.5) ¿Cuál dirías que es el mejor contacto que tenés en WhatsApp?
+[22:09.8 – 22:12.3] (1329.8–1332.3) El más importante es Javier Millet.
+[22:13.2 – 22:14.5] (1333.2–1334.5) ¿Y si le mandas un WhatsApp te responde?
+[22:15.4 – 22:16.5] (1335.4–1336.5) Jamás le mandaría un WhatsApp.
+[22:16.8 – 22:17.5] (1336.8–1337.5) ¿Pero crees que sí?
+[22:19.5 – 22:20.3] (1339.5–1340.3) No debería.
+[22:20.3 – 22:26.5] (1340.3–1346.5) Siento que si me responde es un boludo. No me debería responder a mí. Y el más útil...
+[22:30.2 – 22:37.3] (1350.2–1357.3) El contador o la abogado. Literal, boludo. Pero es como que... sí, son súper útiles, la verdad,
+[22:38.6 – 22:43.5] (1358.6–1363.5) pero no lo puedo nombrar, boludo. Ah, sí puedes. No crees que es otra cosa. Sí, correcto.
+[22:45.1 – 22:51.4] (1365.1–1371.4) No, bueno, para mi unidad de negocio, gente que se ocupa de la aprobación municipal de los planos,
+[22:52.2 – 22:55.0] (1372.2–1375.0) que te dicen que está mal, que tienes que corregir para que te lo aprueben,
+[22:55.2 – 22:58.0] (1375.2–1378.0) eso para mi unidad de negocio es el contacto más útil que podés tener.
+[22:58.4 – 23:02.1] (1378.4–1382.1) Claro, o sea, es la barrera de entrada más alta para una persona que no lo tiene.
+[23:03.0 – 23:03.1] (1383.0–1383.1) Sí.
+[23:03.1 – 23:06.7] (1383.1–1386.7) Estuvimos hablando de lo bajo que es el costo de hacer vídeos y los altos beneficios que
+[23:06.7 – 23:11.1] (1386.7–1391.1) tiene. Y más o menos cuál es la diferencia entre algo que es muy aburrido y algo que es
+[23:11.1 – 23:16.1] (1391.1–1396.1) divertido y la gente quiere ver. ¿Qué sentí que caracteriza un buen video?
+[23:18.3 – 23:20.8] (1398.3–1400.8) Bueno. Porque también te he escuchado decir que
+[23:20.8 – 23:24.1] (1400.8–1404.1) gente hace videos muy malos. Que es muy malo, que es muy bueno.
+[23:24.7 – 23:30.5] (1404.7–1410.5) Un video muy malo es un video que no comunica nada, que no se entiende. O sea, vos querés
+[23:30.5 – 23:36.2] (1410.5–1416.2) explicar algo y no sos claro y no se te entiende. Y no aportas valor ni entretenes.
+[23:36.3 – 23:39.6] (1416.3–1419.6) Eso sería un video muy malo. Yo lo que noto en los videos que son buenos es,
+[23:39.6 – 23:50.7] (1419.6–1430.7) 1. Lo explico a prueba de boludos, para que cualquiera me pueda entender e intento evitar usar lenguaje técnico, difícil o específico para que cualquier persona, aunque no sea de mi rubro, me pueda entender.
+[23:51.5 – 23:59.5] (1431.5–1439.5) 2. Intento hablar claro, modular, ser claro y enfático en las cosas que digo para que cuando se me vea, se me entienda.
+[24:00.2 – 24:04.2] (1440.2–1444.2) 3. Intento aportar valor. Yo no soy tanto de entretener, soy más de aportar valor.
+[24:04.2 – 24:11.4] (1444.2–1451.4) Entonces, intento darte un dato que no conocías o mostrarte una serie de datos y hacer un análisis de cómo esos datos en conjunto funcionan.
+[24:12.4 – 24:19.6] (1452.4–1459.6) Y cuatro, la verdad es que la gente tiene una tensión relativamente corta. Entonces, no irte por las ramas, intentar
+[24:20.2 – 24:26.6] (1460.2–1466.6) contestar un tema, explicarlo rápido, siguiente pregunta. A vos te va a haber pasado en las entrevistas que le haces una pregunta al chabón y habla 40 minutos.
+[24:27.0 – 24:31.3] (1467.0–1471.3) Yo intento evitar eso, porque siento que a la gente no le importa. Entonces, te doy respuestas más concisas.
+[24:31.3 – 24:36.2] (1471.3–1476.2) Y creo que la combinación de esas cosas, más ponerle subtítulos, que esto lo digo siempre,
+[24:36.7 – 24:40.0] (1476.7–1480.0) el 50% de la gente que consume Instagram lo hace en silencio.
+[24:40.2 – 24:44.1] (1480.2–1484.1) Entonces, si vos no pones subtítulos, perdés al 50% de la audiencia potencial.
+[24:45.3 – 24:48.6] (1485.3–1488.6) Esas cosas me parecen que son lo principal para sacar un buen video.
+[24:49.7 – 24:54.5] (1489.7–1494.5) Te declaraste fanático del cine, así que no te voy a permitir decir que el entretenimiento no aporta valor.
+[24:55.5 – 24:59.6] (1495.5–1499.6) Sin duda, hay tres tipos de valor, el entretenimiento, la emoción y la información.
+[25:00.4 – 25:05.2] (1500.4–1505.2) la información es que querés aprender algo, el entretenimiento es, laburé todo el día
+[25:05.2 – 25:09.0] (1505.2–1509.0) y ahora quiero dispersarme y entrar en mi lado artístico, y la emoción es que quiero
+[25:09.9 – 25:14.9] (1509.9–1514.9) generarte motivación o tristeza o miedo, que es otro tipo de valor.
+[25:15.5 – 25:17.2] (1515.5–1517.2) Estoy de acuerdo, estoy de acuerdo, total.
+[25:18.2 – 25:24.1] (1518.2–1524.1) Y no me gusta ser el que mete así la púa, pero me acabas de decir que para resumirlo
+[25:24.1 – 25:28.7] (1524.1–1528.7) como lenguaje un poquito más técnico sería una sola idea, el lenguaje sencillo,
+[25:29.1 – 25:32.3] (1529.1–1532.3) Pero recién me dijiste que hiciste un video explicando la nueva actualización tributaria.
+[25:32.6 – 25:34.4] (1532.6–1534.4) Entonces, ¿cómo sería eso, el lenguaje sencillo?
+[25:34.8 – 25:39.4] (1534.8–1539.4) Mira, al principio es lenguaje sencillo. Para llegar a una gran audiencia, que esa audiencia te
+[25:39.4 – 25:43.6] (1539.4–1543.6) conozca. Y yo te describí un buen video de awareness, para que la gente sea consciente
+[25:43.6 – 25:48.3] (1543.6–1548.3) de quién sos vos y cuál es tu marca. Después, otra cosa es un buen video comercial. Un buen
+[25:48.3 – 25:52.8] (1548.3–1552.8) video comercial es, hacés una oferta, le explicás al cliente por qué necesita tu oferta,
+[25:52.9 – 25:58.6] (1552.9–1558.6) le encontrás algún punto de dolor. Como che, vos tenés 200 mil dólares que se te
+[25:58.6 – 26:03.6] (1558.6–1563.6) Es verdad. Y ahí lo haces sentir mal y después le ofrecés un producto y tiras un call to action,
+[26:03.7 – 26:06.9] (1563.7–1566.9) que es un llamado a la acción. Eso sería un video más comercial. Lo que yo te describía
+[26:06.9 – 26:10.8] (1566.9–1570.8) al principio es un video, como bien decís vos, para que te conozca más gente. Son distintos
+[26:10.8 – 26:15.1] (1570.8–1575.1) tipos de video. Aunque mucha gente tiene la definición errónea de que a un video le vaya
+[26:15.1 – 26:19.2] (1575.1–1579.2) bien es que se haga viral y tengo muchos me gusta. Si buscas eso, haces lo que dije.
+[26:19.3 – 26:23.6] (1579.3–1583.6) Un mensaje claro y que se entienda fácil. Vos debes estar acostumbrado porque de alguna
+[26:23.6 – 26:27.5] (1583.6–1587.5) forma tenés esa filosofía de los videos vendedores, los tiene que ver poca gente,
+[26:27.5 – 26:30.9] (1587.5–1590.9) pero bueno, los tuyos, como sos tan conocido, los ven 300 mil personas.
+[26:31.3 – 26:34.8] (1591.3–1594.8) Pero después está el tipo que vende turbinas termonucleares,
+[26:34.9 – 26:38.8] (1594.9–1598.8) que apunta a tener un millón de views. Un millón de personas no saben qué es lo que vende.
+[26:38.8 – 26:39.1] (1598.8–1599.1) Total.
+[26:39.3 – 26:42.4] (1599.3–1602.4) ¿Cómo esperas a tenerlos? ¿Qué le dirías a alguien que vende un producto específico?
+[26:43.4 – 26:46.9] (1603.4–1606.9) Normalmente mejor si es caro y quiere ser viral.
+[26:47.4 – 26:49.1] (1607.4–1609.1) No, que haga los números de su mercado.
+[26:49.4 – 26:52.5] (1609.4–1612.5) ¿Cuánta gente compra este tipo de turbinas en la Argentina?
+[26:52.5 – 26:58.5] (1612.5–1618.5) 10.000. Ponle que vos tenés un video de 100.000 personas y un 10% de esas 100.000 son tu nicho,
+[26:58.6 – 27:04.0] (1618.6–1624.0) le llega hasta todo el mercado. No pretendas más. Yo cuando tengo un video de 5 millones de vistas,
+[27:04.7 – 27:10.5] (1624.7–1630.5) sé que no me aporta nada. Porque sé que no hay 5 millones de personas en la Argentina interesadas
+[27:10.5 – 27:13.5] (1630.5–1633.5) en invertir en real estate en la ciudad de Buenos Aires. Entonces sé que es un video que
+[27:13.5 – 27:18.5] (1633.5–1638.5) excedió a mi público totalmente. No tiene sentido buscar eso. Y yo creo que hay un tema
+[27:18.5 – 27:22.9] (1638.5–1642.9) vanidad, siempre muy involucrado con las redes sociales, de que querés tener altos números de
+[27:22.9 – 27:27.5] (1642.9–1647.5) visualizaciones y de me gusta para sentirte importante o querido. Pero en verdad si vos usas
+[27:27.5 – 27:31.5] (1647.5–1651.5) las redes con el fin de comercializar o vender algo, no tenés que analizarlo de esa manera.
+[27:31.5 – 27:35.5] (1651.5–1655.5) Si no tenés que analizar cuántas consultas me llegan por video, que es la mejor pregunta que
+[27:35.5 – 27:39.5] (1655.5–1659.5) le podés hacer a alguien. ¿Cómo te está yendo con las redes? Te deberían contestar bien,
+[27:39.6 – 27:43.3] (1659.6–1663.3) más o menos bien. ¿Cuántas consultas tenés por video? Y esa es la pregunta que a todo
+[27:43.3 – 27:47.3] (1663.3–1667.3) emprendedor le debería interesar, no cuántos me gusta, no cuántas visualizaciones. Muchas
+[27:47.3 – 27:50.6] (1667.3–1670.6) entrevistas me dicen cómo logro muchas visualizaciones. Yo te la contesto a esa
+[27:50.6 – 27:55.3] (1670.6–1675.3) pregunta, pero para mí no tiene sentido esa pregunta, así que deberían pensar en
+[27:55.3 – 27:59.1] (1675.3–1679.1) su nicho. Tengo un amigo que vende paneles solares, Javo Dots, fenómeno, es
+[27:59.1 – 28:02.9] (1679.1–1682.9) divino, arrancó con redes sociales, sus vídeos tienen en promedio 3.000 vistas
+[28:02.9 – 28:07.0] (1682.9–1687.0) y no para de vender paneles solares. 3.000 vistas, pasa que no es algo tan de
+[28:07.0 – 28:09.7] (1687.0–1689.7) público conocimiento, no andas por la vida comprando un panel solar todo
+[28:09.7 – 28:13.6] (1689.7–1693.6) el tiempo, pero el chabón, videitos de 3.000 vistas, mete 2-3 videitos por
+[28:13.6 – 28:20.3] (1693.6–1700.3) y está vendiendo a lo loco. Y mete ventas de cinco palos, mete venta de un palo verde. 5.000,
+[28:20.3 – 28:25.6] (1700.3–1705.6) imagínate 5.000 acá. Imagínate 5.000 personas. Bueno, no hay que subestimar los números.
+[28:26.6 – 28:30.8] (1706.6–1710.8) Sí, básicamente es el concepto de TAM, que es el Target Adoresable Market. ¿Cuántas
+[28:30.8 – 28:34.6] (1710.8–1714.6) personas hay que puedan consumir lo tuyo? ¿Cuántas personas pueden comprar panenezonares?
+[28:34.9 – 28:37.8] (1714.9–1717.8) O sea, no tantas. Y a partir de ahí es la gente que se puede identificar con vos,
+[28:38.0 – 28:42.9] (1718.0–1722.9) porque al mismo tiempo vos tenés características de joven hombre argentino. Ya automáticamente
+[28:42.9 – 28:48.6] (1722.9–1728.6) te deja afuera, no sé, le quiero comprar a una mujer, o me cae mejor a la linda izquierda, o
+[28:48.6 – 28:52.1] (1728.6–1732.1) prefiero comprar a un chileno. Total. Entonces, del tam ni siquiera puede llegarle a todo.
+[28:52.5 – 28:57.1] (1732.5–1737.1) Tipo, una persona que tiene más del 30% del mercado ya se considera monopólica.
+[28:57.2 – 29:01.0] (1737.2–1741.0) Les ponen que les puede llegar, de esos 10.000 vos le puedes vender a 2.000. Bueno,
+[29:01.0 – 29:04.0] (1741.0–1744.0) ¿cómo hago para llegarle a estos 2.000? Si me llegan a un millón significa que
+[29:05.1 – 29:08.1] (1745.1–1748.1) 998.000 no me pueden comprar, no sirven para nada.
+[29:08.5 – 29:12.2] (1748.5–1752.2) Totalmente. Y te digo a lo que descubrí con las redes, el algoritmo funciona
+[29:12.2 – 29:18.1] (1752.2–1758.1) cada vez mejor. Entonces yo arranco algunos videos con una intro sumamente específica y
+[29:18.1 – 29:22.0] (1758.1–1762.0) funciona de maravilla. Por ejemplo, en un momento, este año lo hice, tiré un par de
+[29:22.0 – 29:27.5] (1762.0–1767.5) videos para vender departamentos diciendo, hola, si sos un futbolista, tenés entre 25 y 30 años,
+[29:27.7 – 29:31.7] (1767.7–1771.7) estás ganando muy buena guita porque juegas en primera y no sabes que hacer con tus ahorros,
+[29:31.9 – 29:36.5] (1771.9–1776.5) déjame mostrar este proyecto que tengo en Palermo. Cagate de risa, empezaron a seguir como
+[29:36.5 – 29:40.4] (1776.5–1780.4) 300 jugadores en la primera división del fútbol argentino por ese video. Funcionó de
+[29:40.4 – 29:44.2] (1780.4–1784.2) hice lo mismo con el rugby, hice lo mismo con el polo. A mí el de rugby me llegó. ¿A vos te llegó
+[29:44.2 – 29:48.5] (1784.2–1788.5) el de rugby? Sí. ¿Me lo mandaron un par de los pumas? Me decían boludo estamos quebrados, o sea no
+[29:48.5 – 29:53.3] (1788.5–1793.3) apuntes a este nicho me mandaban. Pero sí boludo, me empezaron a salir todos los pumas boludo.
+[29:54.5 – 29:59.4] (1794.5–1799.4) El algoritmo funciona maravilla. Tipo estás buscando comprar una corbata de la puta madre,
+[29:59.6 – 30:04.6] (1799.6–1804.6) vivís en recoleta y te querés vestir como una persona bien, digna del Jockey Club. Bueno,
+[30:04.8 – 30:08.4] (1804.8–1808.4) mira lo que tengo para vos. Corbata de mes, de primera. Se van todos corriendo.
+[30:08.4 – 30:14.3] (1808.4–1814.3) le pegas a todo el target, o sea vos querés que te saluden Recoleta, haz ese vídeo. El algoritmo...
+[30:14.7 – 30:20.0] (1814.7–1820.0) Bueno, hay uno que vende departamentos acá en Recoleta. Rafa. La máquina. La máquina. Amigo,
+[30:20.0 – 30:24.4] (1820.0–1824.4) amigo. Un crack. Es que es el marketing perfecto, que obviamente el 90% de la gente que lo sigue
+[30:24.4 – 30:28.0] (1824.4–1828.0) lo debe bardear en todos los vídeos. Sí. Porque qué más fácil que pegarle un cheto que sube
+[30:28.0 – 30:33.2] (1828.0–1833.2) vídeos. Pero a la gente de acá no le paran de salir vídeos. Yo veo cómo lo saludan para calle.
+[30:33.5 – 30:37.7] (1833.5–1837.7) Ah, lo ves a Raja. Sí, camina siempre por acá. Sí, sí, sí, sí. Todos sus vídeos son para acá.
+[30:37.7 – 30:44.2] (1837.7–1844.2) sí boludo Rafa a su nicho le pega pero exactamente en el medio del nicho y la rompe y sus videos no
+[30:44.2 – 30:49.7] (1844.2–1849.7) tienen millones de visualizaciones por ahí tienen 10.000 pero 10.000 ultra high net worth interesados
+[30:49.7 – 30:54.2] (1849.7–1854.2) en departamento de dos palos verdes para arriba en Recoleta y Palermo Chico y le pega perfectamente
+[30:54.2 – 30:58.2] (1854.2–1858.2) a su nicho es un ejemplo muy bueno el de él. Como la gente que escucha este podcast que son
+[30:58.2 – 31:02.9] (1858.2–1862.9) todos que tienen arriba de cinco palos verdes ahorrados, están viendo donde invertir. Exactamente igual.
+[31:02.9 – 31:05.0] (1862.9–1865.0) ¿Qué querías hacer antes de ser Beltrán Brones?
+[31:07.1 – 31:11.8] (1867.1–1871.8) Cuando estabas en Sudáfrica estudiando, tu viejo todavía no era socio acá.
+[31:12.8 – 31:16.8] (1872.8–1876.8) Se volvió con la guita del banco y dijo, bueno, me asocio acá, ponemos todo.
+[31:17.6 – 31:21.0] (1877.6–1881.0) Estabas estudiando, jugando rock en Sudáfrica. ¿A qué aspirabas?
+[31:21.3 – 31:25.3] (1881.3–1885.3) Yo quería ser dueño de un banco de chico, porque mi papá era banquero.
+[31:25.5 – 31:27.4] (1885.5–1887.4) ¿Viste que de chico es como, ¿a qué se dedica tu viejo?
+[31:27.5 – 31:29.2] (1887.5–1889.2) Bueno, yo quiero hacer eso. Bueno, al menos yo.
+[31:29.7 – 31:31.2] (1889.7–1891.2) Y yo quería ser dueño de un banco.
+[31:31.2 – 31:36.7] (1891.2–1896.7) Y yo además, cuando empecé a entender más de grande, me di cuenta que el banco central, si vos la cagabas, te rescataba.
+[31:38.0 – 31:43.5] (1898.0–1903.5) Si bien estaba bastante regulado, sentía que no podías perder, como había poca chance de perder y había mucha chance de ganar muy buena guita.
+[31:44.2 – 31:48.1] (1904.2–1908.1) Y además podías prestar plata que no tenías. Entonces a mí me pareció un negocio redondo.
+[31:48.3 – 31:51.8] (1908.3–1911.8) Después, más de grande, que yo seguía con la ilusión de ser dueño de un banco,
+[31:52.1 – 31:56.8] (1912.1–1916.8) me di cuenta que tener las licencias y las aprobaciones de banco era un quilombo total, que era más fácil comprar un banco.
+[31:56.9 – 31:59.1] (1916.9–1919.1) Comprar un banco, salir una fortuna y desistir.
+[31:59.2 – 32:00.9] (1919.2–1920.9) Pero de chico yo quería ser dueño de un banco.
+[32:02.2 – 32:05.8] (1922.2–1925.8) Cero romántica mi respuesta, boludo. Es un horror, pero bueno, es verdad.
+[32:06.3 – 32:10.4] (1926.3–1930.4) Y resististe porque todavía no tenías las redes, porque ahora ponete a juntar el plato y compramos un banco.
+[32:10.7 – 32:12.9] (1930.7–1932.9) Y bueno, boludo, a lo mejor no lo descarto.
+[32:13.2 – 32:17.2] (1933.2–1937.2) Ahora todos los brokers lo que hacen es comprar bancos quebrados en la provincia de Buenos Aires,
+[32:17.7 – 32:20.8] (1937.7–1940.8) o en el interior de Buenos Aires, o en cualquier lugar de la Argentina,
+[32:21.7 – 32:23.5] (1941.7–1943.5) y agarran esa licencia y se lo transfieren.
+[32:23.8 – 32:24.2] (1943.8–1944.2) Exactamente.
+[32:24.2 – 32:26.0] (1944.2–1946.0) Hay un par de juicios activos por esas cosas.
+[32:26.7 – 32:29.0] (1946.7–1949.0) Bueno, no estaba contemplado cuando se hicieron los estatutos.
+[32:29.3 – 32:30.2] (1949.3–1950.2) Comprarías un banco ahora.
+[32:31.2 – 32:32.7] (1951.2–1952.7) No, en este momento no.
+[32:32.9 – 32:35.5] (1952.9–1955.5) ¿Metes todo? ¿Metes la financiación para tus edificios? ¿La ofrecés vos?
+[32:36.2 – 32:39.8] (1956.2–1959.8) Sí, pero en este momento siento que es, visto un poco lo que hablamos ahora,
+[32:40.0 – 32:43.1] (1960.0–1963.1) salirme del foco de lo que estoy haciendo, me está yendo muy bien con lo mío
+[32:43.1 – 32:45.8] (1963.1–1965.8) y siento que meterme en una nueva unidad de negocio, la cual sinceramente
+[32:45.8 – 32:49.2] (1965.8–1969.2) no soy experto y no conozco, sería un error garrafal.
+[32:49.3 – 32:53.2] (1969.3–1973.2) A menos que me asocie con un experto en el tema que confíe plenamente,
+[32:53.5 – 32:55.3] (1973.5–1975.3) en cuyo caso podría llegar a hacerse.
+[32:55.7 – 32:58.2] (1975.7–1978.2) Si alguien viendo este podcast tiene mucha idea de banco,
+[32:58.2 – 33:03.1] (1978.2–1983.1) si tiene unidad de negocio ahí lo podemos hablar. Si aparece yo quiero el uno por ciento. Es una
+[33:03.1 – 33:07.1] (1983.1–1987.1) fortuna el uno por ciento. Está bien, es lo que quiero. Bueno, está bien. ¿Cuál es tu mayor
+[33:07.1 – 33:13.5] (1987.1–1993.5) aprendizaje de marketing hasta el momento? En una oración viene tu sobrino y te dice che,
+[33:14.4 – 33:21.0] (1994.4–2001.0) ¿qué es el marketing? Mi mayor aprendizaje es que es muy importante hacer volumen y ser
+[33:21.0 – 33:26.0] (2001.0–2006.0) constante. Ese es mi mayor aprendizaje. O sea, si te lo tengo que resumir, es volumen,
+[33:26.0 – 33:35.0] (2006.0–2015.0) gran cantidad durante mucho tiempo, y a la larga salís a flote. Yo fui bastante, o sea,
+[33:35.0 – 33:39.4] (2015.0–2019.4) no fui pionero en la Argentina, pero en el método este de subir mucho volumen y darse
+[33:39.4 – 33:43.8] (2019.4–2023.8) a conocer por todos lados, fui, arranqué una especie de movimiento así de grabarse
+[33:43.8 – 33:46.9] (2023.8–2026.9) así nomás medio orgánico, y lo que me pasaba es que me criaba mucha gente y me
+[33:46.9 – 33:50.9] (2026.9–2030.9) decía estoy arrancando. Y yo veía que muchos desistían a los tres meses, y los pocos
+[33:50.9 – 33:54.7] (2030.9–2034.7) que perduraron más de tres meses, porque yo los iba siguiendo, que me mandaban mira
+[33:54.7 – 34:01.3] (2034.7–2041.3) como voy mira hoy metí un viral mira mira los que perduran 4 5 6 7 en un momento despegaban y la
+[34:01.3 – 34:04.8] (2041.3–2044.8) curva es como exponencial es como que cuesta arrancar y una vez que arrancas y te empieza
+[34:04.8 – 34:11.9] (2044.8–2051.9) a ir bien no paras de subir y en un momento se aplana la curva pero definitivamente los que
+[34:13.2 – 34:17.0] (2053.2–2057.0) tienen constancia y se mantienen y siguen subiendo a pesar de no ver resultados en el
+[34:17.0 – 34:22.1] (2057.0–2062.1) corto plazo yo noto que son los que mejor le va. Te voy a regalar también otra creencia a los
+[34:22.1 – 34:26.8] (2062.1–2066.8) que le puedes instaurar a la gente. No conoces a nadie que suba videos hace cinco años y le
+[34:26.8 – 34:31.5] (2066.8–2071.5) va a llamar. No conocen a nadie, no existe esa persona. Totalmente. Totalmente. Puede ser porque
+[34:31.5 – 34:35.1] (2071.5–2075.1) nunca les ha ido bien y no te apareció el video o porque eventualmente les empezó bien. No,
+[34:35.1 – 34:38.8] (2075.1–2078.8) porque eventualmente dijeron che, no puedo subir videos todos los días y que sean todos tan
+[34:38.8 – 34:43.4] (2078.8–2083.4) malos, tengo que empezar a ver qué es bueno. Total. Y si tú eras cinco años así, tenés una
+[34:43.4 – 34:47.5] (2083.4–2087.5) perseverancia de fierro, sos lo suficientemente bueno para perseverar, sos bueno como para
+[34:47.5 – 34:51.7] (2087.5–2091.7) entender que funciona. Total. Totalmente. Estoy totalmente de acuerdo. Si viene mi sobrino,
+[34:51.7 – 34:58.8] (2091.7–2098.8) me dice que es el marketing le digo volumen y constancia total y qué fue tu mejor aprendizaje
+[34:58.8 – 35:04.6] (2098.8–2104.6) sobre vender cosas caras o sea para productos de ticket alto que tenés que ser muy transparente
+[35:05.3 – 35:12.6] (2105.3–2112.6) las mentiras tienen patas cortas tenés que decir la verdad y el networking es un activo muy valioso
+[35:12.6 – 35:17.9] (2112.6–2117.9) si yo te vendo a vos y a vos te fue bien conmigo vos le decís a él yo te recomiendo a Beltrán
+[35:17.9 – 35:23.2] (2117.9–2123.2) venderle a él es una papa, es pan comido. La gente confía mucho en la opinión de
+[35:23.2 – 35:27.4] (2123.2–2127.4) sus allegados o de su círculo íntimo, entonces es conseguir un círculo de
+[35:27.4 – 35:32.1] (2127.4–2132.1) gente que te compre a puro pulmón, hacer que esa gente le vaya bien, cumplir con
+[35:32.1 – 35:36.1] (2132.1–2136.1) lo prometido y esa gente sola te va a traer amigos y familia y conocidos, y
+[35:36.1 – 35:38.1] (2136.1–2138.1) esos conocidos venderles como pescar en una pecera.
+[35:40.3 – 35:43.4] (2140.3–2143.4) Entonces lo que aprendí es, uno portate bien, cumplí y una vez que
+[35:43.4 – 35:46.7] (2143.4–2146.7) hayas cumplido, ocupate de manejar a los referidos, que no hay nada más
+[35:46.7 – 35:52.0] (2146.7–2152.0) que un referido. Un referido siendo alguien que viene recomendado a tu empresa por otro. Y esa es
+[35:52.0 – 35:57.5] (2152.0–2157.5) la forma de crecer, en particular vendiendo un producto de ticket de 200 mil, 300 mil, 500 mil
+[35:57.5 – 36:03.2] (2157.5–2163.2) dólares. Te diría que eso. Y la objeción que te deben poner todo el tiempo es, no bueno sí,
+[36:03.6 – 36:08.2] (2163.6–2168.2) pero ¿a quién te voy a recomendar si le estás vendiendo algo que sale 300 mil dólares? Estás
+[36:08.2 – 36:13.4] (2168.2–2173.4) lleno de gente que tiene 300 mil dólares. Lleno. Muchísima gente tiene mucha guita y
+[36:13.4 – 36:15.9] (2173.4–2175.9) Muchas veces es gente que uno no lo espera.
+[36:16.6 – 36:19.8] (2176.6–2179.8) Mucha gente prejuga y cree que el que tiene guita es el que vive en Recoleta
+[36:19.8 – 36:21.4] (2179.8–2181.4) y anda con Corbatita como nosotros.
+[36:21.6 – 36:22.0] (2181.6–2182.0) Pero no.
+[36:22.1 – 36:23.6] (2182.1–2183.6) Y ese pibe por lo general no tiene un mango.
+[36:24.0 – 36:26.4] (2184.0–2186.4) Ese pibe es su tatarabuelo, tenía guita y hoy está quebrado.
+[36:27.1 – 36:28.3] (2187.1–2188.3) Hoy la guita cambió de manos.
+[36:28.4 – 36:30.6] (2188.4–2190.6) Hoy un dueño de un frigorífico en Caballito es millonario.
+[36:31.1 – 36:34.0] (2191.1–2194.0) Hoy un pibe que vende cursos en Puerto Madero es millonario.
+[36:34.8 – 36:38.2] (2194.8–2198.2) Hoy un pibe que tiene una casa mega grasa en Nordelta es millonario.
+[36:38.7 – 36:40.8] (2198.7–2200.8) Hoy un pibe que juega al fútbol es millonario.
+[36:40.8 – 36:48.9] (2200.8–2208.9) hoy un pibe que tiene una caballeriza de caballos y alquila al espacio es millonario y por ahí todos
+[36:48.9 – 36:56.5] (2208.9–2216.5) están peleándose por el CEO del banco o el gerente de la compañía o el capo de una
+[36:56.5 – 37:01.7] (2216.5–2221.7) corpo y ese pie gana por medio de cinco mil dólares y vos te das vuelta y miras al empresario Pime,
+[37:01.9 – 37:05.3] (2221.9–2225.3) el que tiene una pequeña y mediana empresa que la mitad de la guita acá se la hace groncha,
+[37:05.6 – 37:10.1] (2225.6–2230.1) ese pie tiene mucha maguita y está lleno de esa gente y lo que yo noto es que mucha de esa
+[37:10.1 – 37:13.8] (2230.1–2233.8) gente no hace show-off, es perfil bajo, tiene plata, pero no la muestra.
+[37:13.9 – 37:15.8] (2233.9–2235.8) Que va de la mano de que la mitad la hace groncha.
+[37:16.0 – 37:19.4] (2236.0–2239.4) Correcto, va de la mano que la mitad está groncha, pero es un pibe que
+[37:19.4 – 37:22.4] (2239.4–2242.4) hablás, le explicás una inversión inmobiliaria, te dice, me parece lógico
+[37:22.4 – 37:24.7] (2242.4–2244.7) y te dice, bueno, me llevo el de $500,000 dólares.
+[37:24.8 – 37:25.4] (2244.8–2245.4) Como si nada.
+[37:26.1 – 37:28.7] (2246.1–2248.7) Y por ahí al otro, viste, al de recoleta con corbatita,
+[37:28.8 – 37:31.5] (2248.8–2251.5) lo tenés que exprimir durante siete meses manojándole todas las
+[37:31.5 – 37:33.9] (2251.5–2253.9) objeciones de la historia de la humanidad para que te compre un
+[37:33.9 – 37:35.9] (2253.9–2255.9) monumento de $100,000 dólares financiado a siete años.
+[37:36.9 – 37:38.2] (2256.9–2258.2) Y eso lo entendí rápido.
+[37:38.2 – 37:41.9] (2258.2–2261.9) Yo empecé a apuntarle a otro público, a otro tipo de gente y me empecé a ir muy bien.
+[37:42.3 – 37:48.2] (2262.3–2268.2) A las 11 de la noche, cuando dejas el teléfono, te acostas en la cama y decís, voy a intentarme a dormir.
+[37:49.1 – 37:54.6] (2269.1–2274.6) ¿No sentís una presión de que tanta gente te conozca, te vea, te juzgue, que todo lo que haces es público?
+[37:55.8 – 38:00.1] (2275.8–2280.1) Cuando te vas a dormir, ¿no te sentís la presión de tanta fama?
+[38:00.8 – 38:02.8] (2280.8–2282.8) No. Por eso soy un inconsciente.
+[38:03.5 – 38:08.8] (2283.5–2288.8) Pero yo estoy en modo, si no te gusta lo que hago, chúpala y tengo certeza de que me irá bien.
+[38:09.4 – 38:17.9] (2289.4–2297.9) Certeza. Es como que no, no... Suena bastante arrobante y a veces lo soy, pero no dudo ni por un segundo que los edificios que hago los entrego
+[38:17.9 – 38:22.1] (2297.9–2302.1) y que el fondo que hago va a rendir bien y que el libro aporta valor y que el curio de ladrillo está buenísimo
+[38:22.1 – 38:25.4] (2302.1–2305.4) y que todos los proyectos que tengo son maravillosos. O sea, amo lo que hago,
+[38:26.0 – 38:30.2] (2306.0–2310.2) confío plenamente en que el producto va a ser entregado en tiempo y forma y va a cumplir con las expectativas.
+[38:30.8 – 38:35.6] (2310.8–2315.6) Entonces, si alguien me ataca es tipo, bueno, tira, puto, ¿viste qué le vas a decir?
+[38:37.0 – 38:41.8] (2317.0–2321.8) Y no, no, no siento para nada una presión. De hecho, me gusta. Digo, me gusta jugar ahí,
+[38:41.9 – 38:46.6] (2321.9–2326.6) me gusta estar en el ojo de todos y decir, si yo la cago me matan. Y me gusta sentir eso,
+[38:46.7 – 38:49.9] (2326.7–2329.9) porque siento que estoy vivo, siento que estoy más pillo, siento que se me ocurre una de más,
+[38:50.1 – 38:53.7] (2330.1–2333.7) siento que soy un poquito más inteligente. Por ejemplo, un ejemplo, el fondo este que
+[38:53.7 – 38:57.3] (2333.7–2337.3) lanzamos, que juntamos guita y con esa guita compramos inmuebles y los ponemos en alquiler.
+[38:58.1 – 39:02.3] (2338.1–2342.3) cuando yo voy a comprar una propiedad, dejo la vida en la negociación, hacemos ofertas super
+[39:02.3 – 39:06.8] (2342.3–2346.8) agresivas, peleamos todos los precios, peleamos alquileres, porque es la guita de terceros y
+[39:06.8 – 39:10.0] (2346.8–2350.0) sé que todos van a estar juzgando esa compra y me encanta que lo hagan.
+[39:10.4 – 39:12.0] (2350.4–2352.0) Y si vas a publicar cuánto.
+[39:12.1 – 39:16.5] (2352.1–2356.5) Exacto, voy a publicar cuánto la padez, cuánto estaba, cuánto la cerramos y me encanta
+[39:16.5 – 39:20.4] (2356.5–2360.4) que la gente opine, porque hace que yo quiera pelear más los precios, defienda más la
+[39:20.4 – 39:25.8] (2360.4–2365.8) guita, sea más duro en la negociación, diga que no a más cosas y siento que me hace más
+[39:26.8 – 39:32.2] (2366.8–2372.2) Así que esa especie de presión, ojo público, siento que hace que yo performe mejor.
+[39:34.9 – 39:39.8] (2374.9–2379.8) Estaba caro el edificio Megathlon, pero lo compramos barato, mil dólares el metro,
+[39:40.6 – 39:41.5] (2380.6–2381.5) pero mucho cocheras.
+[39:42.1 – 39:46.0] (2382.1–2386.0) Sí, pero ahí las cocheras, ¿cuánto vale una cochera ahí en esa zona de recoleta?
+[39:46.2 – 39:47.1] (2386.2–2387.1) Arenales y Rebamba.
+[39:47.5 – 39:48.7] (2387.5–2388.7) Sí, son pan caliente.
+[39:49.2 – 39:49.6] (2389.2–2389.6) Olvidate.
+[39:50.6 – 39:51.8] (2390.6–2391.8) Ahora vamos a hacer una dinámica.
+[39:51.9 – 39:52.3] (2391.9–2392.3) Bien.
+[39:52.7 – 39:54.2] (2392.7–2394.2) ¿Cuál es la estrategia detrás?
+[39:54.5 – 39:57.6] (2394.5–2397.6) Y yo sé que todo el tiempo decís que basás tus decisiones en datos,
+[39:58.3 – 40:02.6] (2398.3–2402.6) Entonces quiero entender, en un pequeño resumen porque podríamos hacer una entrevista de cada uno,
+[40:03.0 – 40:07.0] (2403.0–2407.0) pero cuál es la estrategia detrás de, y te voy a tirar, cuatro categorías.
+[40:07.0 – 40:07.2] (2407.0–2407.2) Dale.
+[40:07.4 – 40:11.1] (2407.4–2411.1) Siempre y cuando sabiendo que la empresa es Beltrán-Briones y estos son los proyectos de la
+[40:11.1 – 40:11.8] (2411.1–2411.8) empresa. Dale.
+[40:12.4 – 40:14.2] (2412.4–2414.2) ¿Cuál es la estrategia detrás del método Briones?
+[40:15.7 – 40:22.5] (2415.7–2422.5) Bueno, uno, darle un producto más barato que un departamento a la gente para que alguien
+[40:22.5 – 40:27.2] (2422.5–2427.2) se considere cliente mío sin necesariamente pagarme 200.000 dólares. Porque vos me compras
+[40:27.2 – 40:31.3] (2427.2–2431.3) este libro de 20 mil pesos y ya sos cliente mío y yo ya te entregué un
+[40:31.3 – 40:35.4] (2431.3–2435.4) producto y vos ya confías en mí. Y hay una máxima que es la segunda venta,
+[40:35.6 – 40:38.7] (2435.6–2438.7) siempre es más fácil que la primera, porque la primera tengo que hacer que me
+[40:38.7 – 40:41.9] (2438.7–2441.9) conozcas, que confíes en mí y que desembolses. Entonces vos me compraste un
+[40:41.9 – 40:44.9] (2441.9–2444.9) libro, el paso siguiente es que me compres un departamento. Pero vos ya
+[40:44.9 – 40:49.5] (2444.9–2449.5) confías, ya me conoces, ya te entregué el producto. Y lo otro es la gente, no
+[40:49.5 – 40:52.4] (2449.5–2452.4) sé si alguna vez te pasó, que estás discutiendo con alguien algo y te
+[40:52.4 – 40:56.0] (2452.4–2456.0) dicen citame la fuente y te citan un libro. Como si en los libros no se
+[40:56.0 – 41:01.1] (2456.0–2461.1) se decirá lo que es falso. Automáticamente te volvés un referente y lo que decís en el libro es la
+[41:01.1 – 41:05.2] (2461.1–2465.2) verdad máxima. Nadie chequeó los datos que yo puse en el libro. Igual los datos que puse en el libro
+[41:05.2 – 41:10.2] (2465.2–2470.2) son verdaderos, pero te da una autoridad que un video que el YouTube no te da y lo otro es que
+[41:10.2 – 41:14.6] (2470.2–2474.6) el libro es inmortal. De acá a tres mil años el libro va a seguir, han perdurado en la historia
+[41:14.6 – 41:19.5] (2474.6–2479.5) de la humanidad. Los videos se cae YouTube, se cae Instagram, se cae Facebook y yo desaparecí.
+[41:19.6 – 41:25.0] (2479.6–2485.0) El libro queda. Esa fue la estrategia y además la gente a la que le llegas, la gente dispuesta a
+[41:25.0 – 41:29.1] (2485.0–2489.1) leer un libro, la gente que va a una librería a comprar un libro, es un lead calificado. Ya de
+[41:29.1 – 41:33.8] (2489.1–2493.8) por sí sabe leer, está dispuesto a leer, quiere aprender y ese tipo de gente es muy valiosa para
+[41:33.8 – 41:39.3] (2493.8–2499.3) mí. ¿Y no pensaste nunca sacar un producto en el medio? Porque de 20 lucas a 200 mil dólares,
+[41:40.3 – 41:45.3] (2500.3–2505.3) hay una diferencia. Sí, sería ideal departamentos de 40 mil dólares que de alguna manera en
+[41:45.3 – 41:49.3] (2505.3–2509.3) Paraguay lo voy a lograr. Voy a vender unos departamentos muy baratos allá. O sea,
+[41:49.3 – 41:53.9] (2509.3–2513.9) puedes hacer los containers que vienen con tipo glamping.
+[41:54.1 – 41:57.1] (2514.1–2517.1) Ah, ubico, ubico. Y bueno, boludo, sí, estaría buenísimo.
+[41:57.3 – 41:59.8] (2517.3–2519.8) Estaría, o cuantos más productos intermedios tengas, mejor,
+[41:59.9 – 42:02.4] (2519.9–2522.4) porque la gente confía, te paga, le entregas.
+[42:02.6 – 42:04.1] (2522.6–2524.1) ¿Cuál es la estrategia detrás del rate?
+[42:04.5 – 42:07.3] (2524.5–2527.3) Bueno, hacer que la gente que quiere invertir en real estate
+[42:07.3 – 42:09.0] (2527.3–2529.0) y no le alcanza para un departamento,
+[42:09.1 – 42:11.6] (2529.1–2531.6) que el departamento más barato es, saldrá a 100.000 dólares,
+[42:12.0 – 42:14.6] (2532.0–2534.6) puede invertir y puede hacerlo a través de un vehículo
+[42:14.6 – 42:18.1] (2534.6–2538.1) regulado por la Comisión Nacional de Valores, que cotiza en bolsa,
+[42:18.3 – 42:19.1] (2538.3–2539.1) entre otras cosas.
+[42:19.1 – 42:26.3] (2539.1–2546.3) es como acercarle el real estate a cualquiera y dejar de tener la objeción de che te quiero vender un depto
+[42:26.3 – 42:30.1] (2546.3–2550.1) si Beltrán pero tengo 40 mil dólares no llego perfecto invertí en el rate
+[42:31.2 – 42:36.6] (2551.2–2556.6) buenísimo me encanta entonces manejé la objeción de no me alcanza para el depto ahora te alcanza
+[42:36.6 – 42:40.2] (2556.6–2560.2) porque se puede entrar desde mil pesos o sea no hay nadie que no puede invertir en el rate
+[42:41.2 – 42:45.5] (2561.2–2565.5) y porque alguien compraría un departamento y no el rate bueno alguien compraría un departamento
+[42:45.5 – 42:51.0] (2565.5–2571.0) porque tiene toda la guita junta en el mismo tiempo, puede comprar un departamento en pozo que
+[42:51.0 – 42:55.5] (2571.0–2575.5) te ganas la apreciación mientras el departamento se construye, lo compras en 500 mil y terminado
+[42:55.5 – 43:00.9] (2575.5–2580.9) vale 700 mil, que el rate no invierte en pozo, los departamentos puedes comprar en pozo y además
+[43:00.9 – 43:05.5] (2580.9–2585.5) los departamentos tenés beneficios fiscales. Para invertir en el rate vos tenés que bancarizar
+[43:05.5 – 43:09.6] (2585.5–2589.6) la guita, mandarlo a una cuenta comitente y transferir. Si vos sos el dueño de un frigorífico
+[43:09.6 – 43:15.2] (2589.6–2595.2) en caballito y la tenés groncha, bueno, no digo que sea el caso, pero muchas veces hay beneficios
+[43:15.2 – 43:22.7] (2595.2–2602.7) por invertir en pozo para ese tipo de consumidor. Y al invertir en pozo ser más riesgoso por lo
+[43:22.7 – 43:28.0] (2602.7–2608.0) general te deja una ganancia mayor. Al invertir en el rate que compra propiedades terminadas es
+[43:28.0 – 43:32.0] (2608.0–2612.0) menos riesgoso, es más segura la inversión pero por ahí el rendimiento del pozo es mayor. Entonces
+[43:32.0 – 43:44.9] (2612.0–2624.9) son distintas opciones de inversión. Yo hago ambas. ¿Cuál es la estrategia detrás del grupo de
+[43:44.9 – 43:50.3] (2624.9–2630.3) y la dirección de la compañía, manejar yo junto a mi viejo el ritmo de crecimiento que queremos,
+[43:51.0 – 43:56.6] (2631.0–2636.6) también ponerle mi apellido, que creo que mi apellido hoy, Briones, está muy, muy marcado
+[43:56.6 – 43:59.5] (2636.6–2639.5) en el mercado inmobiliario de la Argentina. Yo creo que cualquier persona en el rubro
+[43:59.5 – 44:03.8] (2639.5–2643.8) inmobiliario me tiene visto, Beltrán Briones me conoce, Grupo Briones genera confianza a
+[44:03.8 – 44:07.2] (2643.8–2647.2) palancar el uno del otro, porque Beltrán Briones vos me ves y soy un influencer.
+[44:07.8 – 44:12.3] (2647.8–2652.3) Grupo Briones che, solidez, empresa, proyectos, obra, edificios, entregas,
+[44:12.3 – 44:17.1] (2652.3–2657.1) entonces se complementan en uno con el otro. Grupo Briones a mí me da un respaldo económico,
+[44:17.3 – 44:21.5] (2657.3–2661.5) financiero y de solidez empresarial que un influencer por sí solo no tiene y yo a Grupo
+[44:21.5 – 44:26.4] (2661.5–2666.4) Briones le doy una exposición, un conocimiento, le traigo leads que por sí solo no tiene y nos
+[44:27.6 – 44:32.6] (2667.6–2672.6) complementamos. ¿Cuál es la estrategia detrás de Changu? Es de todas las que me nombraste la que
+[44:32.6 – 44:40.4] (2672.6–2680.4) menos estrategia tiene. De hecho yo creo que me ha perjudicado más mi carrera de lo que me ha
+[44:40.9 – 44:45.6] (2680.9–2685.6) diversión. De hecho, yo siempre digo, si nosotros pudiésemos no subir clips, por mi ideal, porque cada
+[44:45.6 – 44:51.7] (2685.6–2691.7) vez que subimos un clip la cago con algo, porque hablamos de política, de pelotudeces, malas
+[44:51.7 – 44:57.6] (2691.7–2697.6) palabras, invitamos gente, hablamos de cualquier forrada. De todo lo que mencionaste es la menos
+[44:57.6 – 45:01.9] (2697.6–2701.9) estratégica, es de todas las que mencionaste la que más hago porque simple y llanamente me
+[45:01.9 – 45:07.0] (2701.9–2707.0) divierto haciéndolo, pero también sí cumple un propósito de elevar la marca personal de
+[45:07.0 – 45:11.5] (2707.0–2711.5) amigos. Digo yo soy contento, yo estoy contento cuando a mi familia y a mis amigos le va bien.
+[45:12.0 – 45:16.5] (2712.0–2716.5) Si a mí me va bárbaro y mis amigos están todos quebrados, yo no voy a estar contento. Y siento
+[45:16.5 – 45:21.9] (2716.5–2721.9) que con Chango le dimos un empujón fuerte. Entre todos nos ayudamos. Creo que yo por ahí
+[45:21.9 – 45:27.0] (2721.9–2727.0) ayudé más a ellos que ellos a mí, siendo que cada vez que voy con ellos me cancelan. Pero
+[45:27.0 – 45:31.7] (2727.0–2731.7) empezaron con la marca personal, empezaron a hacer algunos chivos, empezaron a tener algunas
+[45:31.7 – 45:35.8] (2731.7–2735.8) marcas, empezaron a hacerse conocidos, lo cual les abrió muchas puertas de networking.
+[45:35.8 – 45:42.1] (2735.8–2742.1) y que a ellos les vaya bien a mí me pone contento. Entonces, Chango tiene un valor más sentimental,
+[45:42.5 – 45:48.2] (2742.5–2748.2) no tanto de rédito económico o ahí directamente relacionado, es más emocional para mí.
+[45:48.9 – 45:53.4] (2748.9–2753.4) Chango es tu faceta de actor de performance, porque hacer un clip diciendo que un asado sale
+[45:53.4 – 45:57.8] (2753.4–2757.8) 500 lucas. Bueno, de sí que vos te diste cuenta que era joda. Nosotros terminamos diciendo que
+[45:57.8 – 46:03.6] (2757.8–2763.6) un asado por persona salía 650 mil pesos, que ahí te doy son 400 dólares, y la gente
+[46:03.6 – 46:11.1] (2763.6–2771.1) creyó que era verdad. Y bueno, me acuerdo en Patente la ley de glaciares. Buenísimo. ¿Cómo era
+[46:11.1 – 46:17.5] (2771.1–2777.5) ese? Estaba el tema de la ley de glaciares, todo el mundo, viste, en shock con Millay, que era un
+[46:17.5 – 46:22.0] (2777.5–2782.0) hijo de puta, qué sé yo, y nosotros hablamos de la ley de glaciares, viste, full bait y bueno,
+[46:22.3 – 46:26.0] (2782.3–2786.0) bueno, la ley de glaciares no tengo ni idea qué es, pero si los cucas están en contra yo
+[46:26.0 – 46:34.3] (2786.0–2794.3) a favor. Así. Clip, diario, gente llorando, puteadas, scratche, todo. Te repito, no me
+[46:34.3 – 46:39.0] (2794.3–2799.0) benefician nada ese programa de mierda, pero yo me invierto a haciéndolo, boludo. O sea,
+[46:39.0 – 46:45.2] (2799.0–2805.2) eso es tribuniar. Obvio que es tribuniar. ¿Y qué sería tribuniar? Es hacer un video para
+[46:45.2 – 46:49.8] (2805.2–2809.8) que lo vea mucha gente, generar una reacción de algunos muy en contra, y yo creo que lo lindo
+[46:49.8 – 46:54.7] (2809.8–2814.7) de tribuniar es, por ejemplo, tu caso. Yo hago un video diciendo que un asado sale 650 mil pesos
+[46:54.7 – 47:00.2] (2814.7–2820.2) persona vos obviamente te das cuenta que nosotros estamos jodiendo pero vos tenés
+[47:00.2 – 47:03.7] (2820.2–2823.7) el privilegio de ver a la gente que no se da cuenta interactuando con la
+[47:03.7 – 47:09.5] (2823.7–2829.5) publicación y yo disfruto imaginándote a vos viendo esa situación ¿se entiende?
+[47:10.2 – 47:13.5] (2830.2–2833.5) creo que el que más disfruta un bait es el que se da cuenta que es bait y
+[47:13.5 – 47:15.6] (2833.5–2835.6) lee los comentarios de la gente que no se dio cuenta.
+[47:15.9 – 47:20.4] (2835.9–2840.4) O sea básicamente sería que la gente con contexto entienda que creo hace
+[47:20.4 – 47:23.3] (2840.4–2843.3) poquito también me salió uno de que comprar un departamento en Recoleta
+[47:23.3 – 47:31.5] (2843.3–2851.5) salió 12 mil pesos. Y hay gente que pone este video viejo. No puede ser. No, es increíble. Lo
+[47:31.5 – 47:36.2] (2851.5–2856.2) estamos llevando al fallo a ver dónde está la vara. Después una vez dijimos que irte una
+[47:36.2 – 47:42.4] (2856.2–2862.4) quincena a Miramar, una familia con dos hijos salía a 100 mil dólares. La gente entró.
+[47:43.7 – 47:50.0] (2863.7–2870.0) Estamos testiando el límite. Ayer hicimos uno, porque ayer tuve chango jueves, donde dijimos
+[47:53.4 – 48:00.0] (2873.4–2880.0) creo que ¿cuánto te sale vivir en un country? y como que tiramos precios ultra mega ultra mega
+[48:00.0 – 48:05.1] (2880.0–2885.1) ultra caros y vamos a testear a ver si la gente entra. Y bueno, nos divertimos boludo,
+[48:05.2 – 48:11.3] (2885.2–2891.3) nos divertimos con poco. La vara es cancelación. Sí. Bueno, yo tuve un tremendo ejemplo acá en el
+[48:11.3 – 48:18.3] (2891.3–2898.3) podcast de Lando Simonetti, dueño de la Martina. Leyenda. Que dijo que Cambiaso era
+[48:18.3 – 48:23.7] (2898.3–2903.7) mejor deportista que Messi. Fue la primera vez que todos los diarios, pero todos los
+[48:23.7 – 48:29.0] (2903.7–2909.0) diarios, creo que ese día hubo 10 millones de visualizaciones de eso, de lo que dijo
+[48:29.0 – 48:32.4] (2909.0–2912.4) el dueño de la Martina, que en serio lo presentaban como el dueño de la Martina, lo cual no
+[48:32.4 – 48:35.7] (2912.4–2915.7) se dan cuenta que entraron perfectamente en ese juego, pero para los que dicen que
+[48:35.7 – 48:40.8] (2915.7–2920.8) las redes sociales son para los chicos, Lando, 80 largos, lo entendí mejor que
+[48:40.8 – 48:41.0] (2920.8–2921.0) todos.
+[48:41.0 – 48:43.8] (2921.0–2923.8) Lo conozco, es un crack, es un crack no tiene un pelo de boludo.
+[48:43.8 – 48:47.1] (2923.8–2927.1) Vos dejaste la facultad. Sos el ejemplo de rebeldía.
+[48:48.2 – 48:49.0] (2928.2–2929.0) Uso corbata.
+[48:49.4 – 48:50.8] (2929.4–2930.8) ¿Quién crees que te siga en tus redes?
+[48:51.8 – 48:55.5] (2931.8–2935.5) Yo quiero que me siga el avatar que por lo general compra Real Estate.
+[48:55.8 – 49:00.1] (2935.8–2940.1) Hombre de 50 años, clase media alta de la Argentina.
+[49:00.5 – 49:02.1] (2940.5–2942.1) Y últimamente del exterior también.
+[49:02.5 – 49:05.9] (2942.5–2945.9) Pero hombre de 50 años, clase media alta, interesado en Real Estate.
+[49:06.0 – 49:07.0] (2946.0–2947.0) Ese es el ideal para mí.
+[49:07.8 – 49:09.9] (2947.8–2949.9) Y si esa fue, si esa es la estrategia comercial,
+[49:10.0 – 49:13.1] (2950.0–2953.1) no te convendría más tirar los contenidos desde la cuenta de tu padre,
+[49:13.1 – 49:18.7] (2953.1–2958.7) que es ese perfil entonces es más fácil que se identifiquen que es de la tuya. 100% lo hacemos
+[49:18.7 – 49:25.2] (2958.7–2965.2) papá tira mucho contenido que él tiene 58 años es un pibe grande de clase media alta que le gusta
+[49:25.2 – 49:30.9] (2965.2–2970.9) el real estate él es exactamente eso y sus vídeos nos va re bien y a mis vídeos también nos va re
+[49:30.9 – 49:36.6] (2970.9–2976.6) bien los dos le llevamos esa audiencia de hecho mi audiencia más fuerte es esa 45 55 esa es mi
+[49:36.6 – 49:44.2] (2976.6–2984.2) más fuerte. No, Embra 35-45 es la más fuerte y después 45-55. O sea, estoy ahí. Pero ese es
+[49:44.2 – 49:49.4] (2984.2–2989.4) nuestro ideal. ¿Cuánta plata tiene alguien de clase alta en Argentina? Eso es un hijo de puta, boluda.
+[49:50.4 – 49:55.6] (2990.4–2995.6) Mira, la definición por Infobae, según la pirámide de clase alta, es una familia que tiene
+[49:55.6 – 50:01.9] (2995.6–3001.9) ingresos por 7 millones de pesos por mes. Lo cual es muy poco. Por 7200 dólares por hogar.
+[50:04.1 – 50:07.2] (3004.1–3007.2) ¿Cómo? La que salió ese poquito en Infobae, 7200 dólares por hogar.
+[50:07.8 – 50:12.1] (3007.8–3012.1) el clase alta 6 por ciento. Y bueno, me quedé atrás. Yo me quedé en 7 palos, pesos.
+[50:12.7 – 50:16.7] (3012.7–3016.7) Y el ultra rich es más de 36 mil dólares por mes por bar.
+[50:17.4 – 50:23.4] (3017.4–3023.4) Ok. Bueno, eso. No, pero eso no es la realidad, porque eso mide plata blanca, no existe.
+[50:23.9 – 50:27.2] (3023.9–3027.2) Ah, ¿eso es blanco? Sí. O sea, que no creo que tengan informes.
+[50:27.2 – 50:30.3] (3027.2–3030.3) Te digo la verdad, para mí, para vivir bien, si sos clase alta,
+[50:30.5 – 50:34.1] (3030.5–3034.1) tenés que ganar 20 mil dólares por mes. Digo, esto es mía, la mía, no la de info ade.
+[50:34.1 – 50:36.2] (3034.1–3036.2) Porque a tu viejo le acabas de decir clase media alta.
+[50:36.2 – 50:44.2] (3036.2–3044.2) No, bueno, entonces no. A papá le da mejor. Pero 20 mil dólares por mes estás bien. Pasa que 20
+[50:44.2 – 50:50.9] (3044.2–3050.9) mil dólares por mes no es clase alta tampoco. Clase alta, alta, alta es dueño de mil hectáreas,
+[50:51.1 – 50:58.2] (3051.1–3058.2) dueño de mil empresas. Clase alta es tener en el bolsillo ultra high net worth individual 30
+[50:58.2 – 51:04.1] (3058.2–3064.1) palos verdes. ¿Y cuál es tu número? ¿Cuál es tu número para decir acá estoy a partir de ahora
+[51:04.1 – 51:08.7] (3064.1–3068.7) laburo porque me gusta. Y mirá, yo tenía un número, lo alcancé y ahora tengo un
+[51:08.7 – 51:12.5] (3068.7–3072.5) nuevo número. Siempre hay un número más. Y hablé con un pibe que tiene mucha
+[51:12.5 – 51:16.1] (3072.5–3076.1) muchaguita y le dije ¿Cuál era tu número? Tal. Le dije, vos lo recontratenés.
+[51:16.2 – 51:19.5] (3076.2–3079.5) Olídate, el día siguiente tiene un número. ¿Cuál era? Tal. Vos ya lo tenés.
+[51:19.6 – 51:22.5] (3079.6–3082.5) Olídate, el día siguiente tiene un número. Siempre hay un nuevo número.
+[51:23.6 – 51:27.1] (3083.6–3087.1) No laburo por la plata. Yo ya no laburo por la plata. Laburo por la gloria.
+[51:28.3 – 51:32.1] (3088.3–3092.1) Por la tribuna. Por la gloria. Por decirlo hice, me divertí haciéndolo,
+[51:32.1 – 51:36.0] (3092.1–3096.0) está bueno hacerlo, somos los primeros en hacerlo. Ese tipo de cosas me motivan.
+[51:37.0 – 51:41.9] (3097.0–3101.9) Y como dropout universitario, ya sé que estadísticamente la gente que lo ven
+[51:41.9 – 51:47.4] (3101.9–3107.4) a decir gana más plata y todo, pero más allá del seguidor lead, el seguidor a nivel inspiración.
+[51:47.7 – 51:51.0] (3107.7–3111.0) Gente que está viendo esta entrevista dice, a mí me gustaría hacer una carrera como Ana
+[51:51.0 – 51:57.5] (3111.0–3117.5) Beltrán. Y ese tipo es el tipo que te sigue. ¿Qué mensaje le darías a esa persona que está
+[51:57.5 – 52:02.8] (3117.5–3122.8) buscando emprender, le gusta tu visión y ahora están a facultad o lo que sea, no quiero que digas
+[52:02.8 – 52:10.1] (3122.8–3130.1) que lo dejen, pero digo, ¿qué mensaje tenés para esas personas? Intentar formarse en tu tiempo
+[52:10.1 – 52:14.3] (3130.1–3134.3) libre más allá de las materias que tenés. Por ejemplo, uno, tenés que leer el método
+[52:14.3 – 52:19.2] (3134.3–3139.2) Breones. Fuera joda. Dos, podcast cada vez que te subís al auto o te subís al transporte público.
+[52:19.4 – 52:23.1] (3139.4–3143.1) Podcasts de negocios, de empresas, de empresarios aprendiendo de ellos. Puede ser este,
+[52:23.1 – 52:25.2] (3143.1–3145.2) puede ser el club de ladrillo, puede ser el que le quiera,
+[52:25.3 – 52:25.5] (3145.3–3145.5) ¿viste?
+[52:25.6 – 52:27.1] (3145.6–3147.1) Relacionado a tu nicho.
+[52:27.3 – 52:30.6] (3147.3–3150.6) Tres, me parece que hoy está muy fácil el tema comercial
+[52:30.6 – 52:31.7] (3150.6–3151.7) gracias a las redes sociales.
+[52:32.0 – 52:33.8] (3152.0–3153.8) Es la herramienta definitiva para cualquier emprendedor.
+[52:33.9 – 52:36.5] (3153.9–3156.5) Entonces, estudia redes sociales y haces redes sociales
+[52:36.5 – 52:37.8] (3156.5–3157.8) y aprende mientras haces.
+[52:38.2 – 52:39.6] (3158.2–3159.6) Me parece que tiene mucho sentido.
+[52:40.3 – 52:42.6] (3160.3–3162.6) Y después, lo otro, intenta ir a los eventos,
+[52:42.7 – 52:44.4] (3162.7–3164.4) al cumpleaños de la tía infumable,
+[52:44.6 – 52:46.3] (3164.6–3166.3) al evento corporativo de fin de año,
+[52:46.5 – 52:48.7] (3166.5–3168.7) al evento de un amigo del tío que te invitó,
+[52:48.8 – 52:51.4] (3168.8–3171.4) porque creo que el valor de tener una gama,
+[52:51.4 – 52:57.9] (3171.4–3177.9) una amplia base de contactos es fundamental. Todavía no lo sabes, pero a futuro esa base de contactos
+[52:57.9 – 53:03.4] (3177.9–3183.4) te va a ayudar con un contacto, con una ayuda, con un pedido, con un trámite. Entonces serían esos
+[53:03.4 – 53:09.1] (3183.4–3189.1) los consejos. Formarse por tu cuenta, empezar a entender y usar redes sociales, si puedes
+[53:09.1 – 53:13.6] (3189.1–3193.6) un laburito part-time, porque para mí aprendes mucho laburando y hace mucho networking.
+[53:14.9 – 53:16.8] (3194.9–3196.8) ¿Nunca conseguiste volver y terminar la carrera?
+[53:17.0 – 53:17.4] (3197.0–3197.4) No.
+[53:19.6 – 53:21.0] (3199.6–3201.0) ¿Nunca sentiste síndrome de impostor?
+[53:21.3 – 53:21.8] (3201.3–3201.8) No.
+[53:22.6 – 53:27.1] (3202.6–3207.1) No, seguro. En pequeñas medidas por momento sí,
+[53:27.2 – 53:32.5] (3207.2–3212.5) pero no una cosa grave. Pero a veces, yo me acuerdo, tenía 22 años y me sentaba con inversores de
+[53:33.8 – 53:39.9] (3213.8–3219.9) un palo verde a venderle real estate, yo cobrando en su momento un sueldo de 500 dólares. Y yo
+[53:39.9 – 53:43.3] (3219.9–3223.3) decían, no, no, a vos te conviene poner el palo acá, porque acá lo que va a pasar es la
+[53:43.3 – 53:49.9] (3223.3–3229.9) realización ASA y nosotros te lo vendemos acá en tanto y vas a haber ganado tanto y en
+[53:49.9 – 53:54.7] (3229.9–3234.7) de 500 dólares y ahí decís qué carajo estoy haciendo pero por otro lado era che lo que digo
+[53:54.7 – 54:00.6] (3234.7–3240.6) es verdad pero la puta madre viste qué hago hablando de estos montos entonces por momentos si
+[54:00.6 – 54:06.4] (3240.6–3246.4) sentís algo de eso inflás el pecho y te olvidás o a veces no sé dando una conferencia frente a
+[54:06.4 – 54:11.7] (3246.4–3251.7) miles de personas súper expertas en no sé una vez me pasó que una conferencia en un evento
+[54:11.7 – 54:18.2] (3251.7–3258.2) de seguros de productores de aseguradoras de lo cual yo no sé absolutamente nada y les di una
+[54:18.2 – 54:23.6] (3258.2–3263.6) charla de una hora de cómo vender y nada al principio es que hago acá boludo
+[54:23.6 – 54:27.5] (3263.6–3267.5) después la charla fue buena y vender un sillón y vender un pantalón a fin de
+[54:27.5 – 54:30.9] (3267.5–3270.9) cuentas más o menos lo mismo pero por momento es que hago acá y después
+[54:30.9 – 54:33.7] (3270.9–3273.7) inflas el pecho y te olvidas. Nunca nadie te paró el carro?
+[54:34.9 – 54:41.0] (3274.9–3281.0) mil veces. Te acordas de alguna rosa? No, me han reputeado, me han reputeado mal.
+[54:41.6 – 54:44.2] (3281.6–3284.2) Pero a este inversor que vos le estás explicando cómo tiene que alocar sus
+[54:44.2 – 54:51.9] (3284.2–3291.9) y te dice para pendejo, como alguna vez tu vieja o tu novia o un amigo tipo para.
+[54:52.8 – 54:57.9] (3292.8–3297.9) Mi viejo mil veces, mi viejo que yo laburo con él mil veces yo me acuerdo más de chico yo
+[54:57.9 – 55:01.2] (3297.9–3301.2) proponía hacer distintas cosas en la empresa y me decía para pendejo no tenés idea de lo que
+[55:01.2 – 55:06.8] (3301.2–3306.8) estás hablando y yo eso no me lo tomaba mal ni personal era cómo hago para que él entienda lo
+[55:06.8 – 55:11.2] (3306.8–3311.2) que yo entiendo y porque yo estoy convencido que esto funciona y era un laburo de lobby de
+[55:11.2 – 55:18.8] (3311.2–3318.8) de venderle la idea a papá. Pero me pasó mil veces. Yo tengo un humor muy ácido y me gusta
+[55:18.8 – 55:25.8] (3318.8–3325.8) pelotudiar a la gente. O sea, no pelotudiar, pero tipo... No sé, tengo un humor ácido, ¿viste? Y usar
+[55:25.8 – 55:30.1] (3325.8–3330.1) el humor ácido con ciertas personas me dice, che, ese humor conmigo no. La puta que me parió.
+[55:31.7 – 55:36.0] (3331.7–3336.0) No sé, me paro en el carro mil veces, boludo. O sea, de estar en la televisión a hacer un
+[55:36.0 – 55:39.3] (3336.0–3339.3) comentario de mierda y que me diga, che, ese comentario, guárdatelo en medio de la tele,
+[55:39.3 – 55:43.3] (3339.3–3343.3) En vivo. Yo, tipo, ¡uy la puta madre! Porque también soy mal hablado, digo malas palabras.
+[55:43.7 – 55:44.0] (3343.7–3344.0) ¿En serio?
+[55:44.4 – 55:49.4] (3344.4–3349.4) Bueno, ¿viste? Que putedo de vez en cuando. No es que soy un ordinario, pero digo, soy bastante de las largas.
+[55:49.4 – 55:51.8] (3349.4–3351.8) Para la gente que vive por acá, eso ya entra en ordinario.
+[55:52.0 – 55:57.3] (3352.0–3357.3) ¿Viste? Por eso, mil veces me he parado el carro, boludo. Un montón.
+[55:57.8 – 56:00.6] (3357.8–3360.6) ¿Cuál es el logro profesional del que más orgulloso estás?
+[56:01.0 – 56:03.6] (3361.0–3363.6) De la empresa que creamos con papá, del Grupo Organes.
+[56:03.8 – 56:04.8] (3363.8–3364.8) ¿De tener una empresa propia?
+[56:04.9 – 56:05.3] (3364.9–3365.3) Sí.
+[56:05.6 – 56:08.5] (3365.6–3368.5) ¿O de la facturación, o de los metros vendidos, o de los clientes?
+[56:08.5 – 56:12.8] (3368.5–3372.8) Todo. Todo como empresa haberla creado, que le esté yendo bien, la gente que empleamos,
+[56:12.8 – 56:16.4] (3372.8–3376.4) los proyectos que hacemos, estoy muy orgulloso. A nivel profesional es lo máximo.
+[56:17.1 – 56:18.8] (3377.1–3378.8) ¿Y cuál es el próximo gran objetivo?
+[56:19.1 – 56:25.4] (3379.1–3385.4) Hay muchos, pero yo tengo uno que es bastante vanidoso. No tiene mucho sentido, pero viste
+[56:25.4 – 56:29.4] (3385.4–3389.4) cuando te pica el bichito de algo medio irracional. Quiero hacer una torre de lujo
+[56:29.9 – 56:30.8] (3389.9–3390.8) en Buenos Aires.
+[56:31.2 – 56:32.1] (3391.2–3392.1) ¿Cuál es la que más te gusta hoy?
+[56:32.2 – 56:35.8] (3392.2–3395.8) Hay torres de la concha de la Lora en Puerto Madero, pero no me gusta la onda
+[56:35.8 – 56:40.9] (3395.8–3400.9) de Puerto Madero, ni la arquitectura que se usa ahí, lo que me gusta es el tamaño y la financiación
+[56:40.9 – 56:45.4] (3400.9–3405.4) y la ingeniería financiera para hacerlas. Si me decís estéticamente, a mí personalmente el
+[56:45.4 – 56:51.0] (3405.4–3411.0) Kavanagh me parece un ícono de Buenos Aires, me parece que el Libertador 4444, que es una
+[56:51.0 – 56:57.2] (3411.0–3417.2) torre espectacular, viste, cerca al Tatarsal, me parece infernal, las torres Forum me parecen
+[56:57.2 – 57:05.7] (3417.2–3425.7) infernales, hay varias muy lindas. Yo quiero hacer una torre de 50 pisos en la Concha de la Lora.
+[57:06.2 – 57:10.5] (3426.2–3430.5) Sí. Algo así. Algo así. Que sea un punto turístico de la ciudad de Buenos Aires.
+[57:10.6 – 57:11.0] (3430.6–3431.0) ¿Y qué falta?
+[57:11.2 – 57:16.8] (3431.2–3436.8) El lote, la aprobación municipal y inversores de ese calibre. Yo hoy no la puedo hacer. Conmiguita.
+[57:16.9 – 57:22.1] (3436.9–3442.1) Tendría que buscar inversores, lo cual se puede hacer. Digo, la Trump Tower de la Fifth Avenue,
+[57:22.2 – 57:28.0] (3442.2–3448.0) Donald Trump no puso un dólar. O sea, la puso todo a terceros. Pero también tenés que
+[57:28.0 – 57:31.7] (3448.0–3451.7) animar a encarar un proyecto que de punta a punta dura seis años. En el medio tenés un
+[57:31.7 – 57:37.4] (3451.7–3457.4) gobierno presidencial, si se trazan las aprobaciones que agaste para que te aprueben semejante torre,
+[57:37.6 – 57:40.8] (3457.6–3460.8) por ahí tenés que adornar a ciertas personas, lo cual es algo que yo no hago.
+[57:41.9 – 57:42.3] (3461.9–3462.3) Nunca.
+[57:42.4 – 57:48.0] (3462.4–3468.0) No, no. Tiene muchas complicaciones. Por eso también la gloria en hacerlo.
+[57:48.7 – 57:53.7] (3468.7–3473.7) No, y además Buenos Aires tiene pocos, tiene el rulero, el cabana, el obelisco,
+[57:53.8 – 57:55.3] (3473.8–3475.3) la mansión del Four Seasons y...
+[57:55.8 – 57:57.5] (3475.8–3477.5) No tiene mucha torre de lujo, no.
+[57:57.8 – 58:00.8] (3477.8–3480.8) No, pero más allá de torre de lujo, así como edificio de ir a ver.
+[58:00.8 – 58:02.8] (3480.8–3482.8) Sí, el de Vita comiéndose una hamburguesa.
+[58:03.4 – 58:03.9] (3483.4–3483.9) Sí.
+[58:05.6 – 58:07.1] (3485.6–3487.1) El Colón, el Palacio del Agua
+[58:07.1 – 58:08.6] (3487.1–3488.6) y la Beltrán Tower.
+[58:08.9 – 58:11.1] (3488.9–3491.1) Correcto. Sí, hay varios edificios lindos,
+[58:11.1 – 58:12.9] (3491.1–3492.9) hay varios, pero estoy de acuerdo
+[58:12.9 – 58:15.1] (3492.9–3495.1) que a mí me gustaría, viste, el Palacio Barolo,
+[58:15.3 – 58:17.3] (3495.3–3497.3) me gustaría meterle una fichita, algo moderno,
+[58:17.3 – 58:18.6] (3497.3–3498.6) algo lindo. Sí.
+[58:18.9 – 58:20.9] (3498.9–3500.9) ¿Tenés alguna cosa de la que te arrepientas
+[58:20.9 – 58:22.3] (3500.9–3502.3) de haber hecho? Obviamente.
+[58:22.7 – 58:25.0] (3502.7–3505.0) Pero una grossa. Pero ¿sabés qué pasa?
+[58:25.4 – 58:26.6] (3505.4–3506.6) Si quieres saber, la metemos en eso.
+[58:27.3 – 58:28.9] (3507.3–3508.9) Pero es injusto, porque viste que
+[58:28.9 – 58:33.6] (3508.9–3513.6) cuando vos te equivocas, digo, gracias a ese error no lo cometiste dos veces y saliste para adelante y
+[58:33.6 – 58:40.3] (3513.6–3520.3) te diste cuenta de lo que funcionaba. Entonces es injusto conmigo mismo decir, che, me arrepiento
+[58:40.3 – 58:44.9] (3520.3–3524.9) de esto, porque gracias a eso aprendí lo que ahora sé. Y porque tiraste 10, pegaste 1 y bueno,
+[58:44.9 – 58:49.2] (3524.9–3529.2) no vas a ser injusto con las nueve que no. Exacto. Pero alguna que diga, tipo, igual esta de ninguna
+[58:49.2 – 58:55.2] (3529.2–3535.2) forma era y me estiré igual. Me voy de boca mucho, hay muchas veces que me fui de boca. ¿No tuviste
+[58:55.2 – 59:03.8] (3535.2–3543.8) problemas con la política por eso por ejemplo? Sí. ¿Alguna priete? Sí, la verdad que sí. No, no,
+[59:03.8 – 59:08.7] (3543.8–3548.7) por irme de boca me ha pasado que boludo no sé, voy a comer con mis amigos, ponle que pago yo la
+[59:08.7 – 59:14.2] (3548.7–3554.2) cuenta, mis amigos me transfieren su parte y me habla la WIF y me dice justificame esta transferencia
+[59:14.2 – 59:19.5] (3554.2–3559.5) de 30 mil pesos. Y yo tipo no tengo cómo justificarlo, yo pade la cuenta y mis amigos
+[59:19.5 – 59:25.7] (3559.5–3565.7) transferieron. Es un ingreso negro. ¿Qué vamos a hacer? Y tener que dibujar 30 mil pesos que me
+[59:25.7 – 59:32.2] (3565.7–3572.2) transfieron a mí. O que te caiga Yerik o Wokra una obra y te la quieran clausurar. O que te llamen
+[59:32.2 – 59:38.5] (3572.2–3578.5) del gobierno local y que te digan che, borrata el vídeo. Me ha pasado. No me arrepiento igual,
+[59:38.6 – 59:43.2] (3578.6–3583.2) porque es lo que después te da poder de negociación. Si vos sos un pinche cuatro de
+[59:43.2 – 59:48.4] (3583.2–3588.4) copas sin alcance, te aprietan y te quedas pillo. Si vos tenés una buena red de comunicación,
+[59:48.4 – 59:53.6] (3588.4–3593.6) te tratan como un lorde inglés, con tal de que no digas nada malo. Es una herramienta de negociación.
+[59:53.9 – 59:59.2] (3593.9–3599.2) Ahora vos me preguntaste si me arrepiento de algo, la verdad lo más justo sería decirte que no.
+[59:59.4 – 1:00:03.7] (3599.4–3603.7) Eso sería lo más justo, boludo. La ley de glaciares no me ayudó en nada ese vídeo. Me
+[1:00:03.7 – 1:00:07.7] (3603.7–3607.7) escracharon por todos lados. Ahora tampoco ando por la vida diciendo no, por qué subí ese
+[1:00:07.7 – 1:00:14.1] (3607.7–3614.1) vídeo. Ya está, ¿me entendés? No es grave. ¿Cómo te gustaría ser recordado? Depende por
+[1:00:15.1 – 1:00:23.6] (3615.1–3623.6) Por mi novia... Por decir la mesa chica. Familia, novia y cinco amigos. Un divino. Un divino muy
+[1:00:23.6 – 1:00:29.7] (3623.6–3629.7) divertido, siempre me dio una mano cuando pudo. Un divino muy divertido. Y a mí me gusta, me gusta
+[1:00:29.7 – 1:00:33.9] (3629.7–3633.9) divertirme, me gusta estar con gente, me gusta pasarla bien. No me gusta hablar de temas amargos,
+[1:00:33.9 – 1:00:38.3] (3633.9–3638.3) no soy un amargo, no me gusta quejarme. Si me junto con alguien es para cagarme de riza,
+[1:00:38.5 – 1:00:43.3] (3638.5–3643.3) para salir a comer, para pasarla bien. Un divino, un divertido, cero kilombero,
+[1:00:43.3 – 1:00:48.1] (3643.3–3648.1) cada vez que me pudo ayudar me ayudó. Y por el resto me gustaría motivar a la gente. Hay algo
+[1:00:48.1 – 1:00:51.9] (3648.1–3651.9) que me gusta motivar a la gente. Que arranquen, que se animen. Ché, vi lo que hizo este pibe,
+[1:00:52.0 – 1:00:56.1] (3652.0–3656.1) me animé. Ché, vi el librito que escribió, empezó a usarlo, me fue bien. Eso es espectacular.
+[1:00:56.3 – 1:01:02.1] (3656.3–3662.1) Sí, me gusta eso, me gusta. Y es como que te llena un poquito de decir le doy algo a la
+[1:01:02.1 – 1:01:07.7] (3662.1–3667.7) gente que me bancó, les doy una mano, los ayudo con lo que puedo. Y ya, eso,
+[1:01:07.7 – 1:01:11.2] (3667.7–3671.2) soy bastante sencillo. Muchas gracias. Gracias a vos querido.

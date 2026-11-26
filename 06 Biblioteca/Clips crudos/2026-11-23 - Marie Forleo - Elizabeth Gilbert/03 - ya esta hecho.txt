@@ -1,0 +1,26 @@
+CLIP 03 — 'YA ESTÁ HECHO' ES VERDAD, PERO NO LO HICISTE VOS
+
+Inicio:     07:28.7  (448.72 s)
+Fin:        08:11.5  (491.49 s)
+Duración:   42.8 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  'YA ESTÁ HECHO' ES VERDAD, PERO NO LO HICISTE VOS   (en el reel, en lima: NO LO HICISTE VOS)
+Departamento:     Creatividad
+Área:             Pensamiento creativo
+Tema:             Todo está hecho, pero no por vos
+Fuente:           Marie Forleo - Elizabeth Gilbert — "Elizabeth Gilbert Talks “Big Magic” — Fear, Failure, & the Mystery of Creativity"
+                  https://www.youtube.com/watch?v=HyUYa-BnjU8&t=448s
+
+Por qué lo elegí:
+Responde al miedo más común ('ya está hecho'): casi todo ya se hizo, hasta Shakespeare tomó historias viejas, pero nadie lo hizo como vos.
+
+Gancho (primeros 3 s): So whenever I talk to somebody who has an idea that they're tremulously excited about
+
+Notas para la revisión: Audio en inglés (el filtro traduce). Sin malas palabras.
+
+Transcripción del clip:
+whenever I talk to somebody who has an idea that they're tremulously excited about, generally speaking within the next two minutes they will say, but, you know, it's not very original, it's already been done, and I always say, but it has not yet been done by you. It has not yet been done by you. And the answer is, yeah, guaranteed it's already been done. Because humans are really inventive and inquisitive and creative, and we've had 40 ,000 years of the arts and pretty much everything has been done, you know? And that's fine. Like even Shakespeare, half of his stories he totally stole from older stories because there aren't that many new stories to tell. But he told them in a way that had never been told before. And then 500 years later, we're still borrowing them from him. We're
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-23 - Marie Forleo - Elizabeth Gilbert/03 - ya esta hecho.mp4" "'YA ESTÁ HECHO' ES VERDAD, PERO *NO LO HICISTE VOS*" --fuente "Marie Forleo - Elizabeth Gilbert"

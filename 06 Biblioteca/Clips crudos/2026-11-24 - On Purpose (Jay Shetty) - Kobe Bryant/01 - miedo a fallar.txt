@@ -1,0 +1,24 @@
+CLIP 01 — ¿MIEDO A FALLAR? DESARMALO PREGUNTA POR PREGUNTA
+
+Inicio:     13:12.3  (792.30 s)
+Fin:        13:55.1  (835.10 s)
+Duración:   39.3 s
+Corte:      recortado a mano en los bordes (24/11) · ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  ¿MIEDO A FALLAR? DESARMALO PREGUNTA POR PREGUNTA   (en el reel, en lima: FALLAR)
+Departamento:     Deporte y mentalidad
+Área:             Presión y dificultad
+Tema:             Desarmar el miedo a fallar
+Fuente:           On Purpose (Jay Shetty) - Kobe Bryant — "Jay Shetty & Kobe Bryant: ON How to be Strategic & Obsessive to Find Your Purpose"
+                  https://www.youtube.com/watch?v=C5UWJRSRZh8&t=792s
+
+Por qué lo elegí:
+Kobe muestra un método concreto: preguntarte de qué tenés miedo de verdad hasta ver que es imaginación. Sirve para un examen, una entrevista o hablar en público.
+
+Gancho (primeros 3 s): You think about game-winning shots…
+
+Transcripción del clip:
+thing, you know? Like you think about game winning shots or game winning free throws and people go to the free throw line and they're nervous about it. Well, what are you really nervous about? If you unpack that, okay, you're nervous that you're gonna miss the shot. All right, so you missed the shot, then what happens? People are gonna be embarrassed. You're gonna be embarrassed because thousands of people, millions of people see you missed the shot. All right, and then what? People are gonna talk bad about you. Okay, right? And so you're looking at it and you go, are those things even important? You know what I mean? If that is my fear, like, what is, you're worried about letting your teammates down? Okay, have you let them down before? Oh, I'm sure. And practice and things of that nature, right? They're still there, you know? And so when you're able to unpack it, you kind of look at it for what it is, which is really nothing. Yeah, I love that. Breaking it down. I think that's so important.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-24 - On Purpose (Jay Shetty) - Kobe Bryant/01 - miedo a fallar.mp4" "¿MIEDO A *FALLAR*? DESARMALO PREGUNTA POR PREGUNTA" --fuente "On Purpose (Jay Shetty) - Kobe Bryant"

@@ -1,0 +1,1107 @@
+{
+ "idioma": "en",
+ "duracion": 57.39,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 4.48,
+   "texto": "this little fragment of melody, you know, that comes into his head as",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.42,
+     "p": "this"
+    },
+    {
+     "ini": 0.42,
+     "fin": 1.28,
+     "p": "little"
+    },
+    {
+     "ini": 1.28,
+     "fin": 1.78,
+     "p": "fragment"
+    },
+    {
+     "ini": 1.78,
+     "fin": 2.2,
+     "p": "of"
+    },
+    {
+     "ini": 2.2,
+     "fin": 2.6,
+     "p": "melody,"
+    },
+    {
+     "ini": 2.66,
+     "fin": 2.8,
+     "p": "you"
+    },
+    {
+     "ini": 2.8,
+     "fin": 2.88,
+     "p": "know,"
+    },
+    {
+     "ini": 2.94,
+     "fin": 3.12,
+     "p": "that"
+    },
+    {
+     "ini": 3.12,
+     "fin": 3.26,
+     "p": "comes"
+    },
+    {
+     "ini": 3.26,
+     "fin": 3.48,
+     "p": "into"
+    },
+    {
+     "ini": 3.48,
+     "fin": 3.68,
+     "p": "his"
+    },
+    {
+     "ini": 3.68,
+     "fin": 3.84,
+     "p": "head"
+    },
+    {
+     "ini": 3.84,
+     "fin": 4.48,
+     "p": "as"
+    }
+   ]
+  },
+  {
+   "ini": 4.48,
+   "fin": 7.96,
+   "texto": "inspiration often comes elusive and tantalizing, and he wants it, you know,",
+   "palabras": [
+    {
+     "ini": 4.48,
+     "fin": 4.9,
+     "p": "inspiration"
+    },
+    {
+     "ini": 4.9,
+     "fin": 5.3,
+     "p": "often"
+    },
+    {
+     "ini": 5.3,
+     "fin": 5.56,
+     "p": "comes"
+    },
+    {
+     "ini": 5.56,
+     "fin": 6.1,
+     "p": "elusive"
+    },
+    {
+     "ini": 6.1,
+     "fin": 6.36,
+     "p": "and"
+    },
+    {
+     "ini": 6.36,
+     "fin": 6.92,
+     "p": "tantalizing,"
+    },
+    {
+     "ini": 6.92,
+     "fin": 7.06,
+     "p": "and"
+    },
+    {
+     "ini": 7.06,
+     "fin": 7.22,
+     "p": "he"
+    },
+    {
+     "ini": 7.22,
+     "fin": 7.5,
+     "p": "wants"
+    },
+    {
+     "ini": 7.5,
+     "fin": 7.74,
+     "p": "it,"
+    },
+    {
+     "ini": 7.74,
+     "fin": 7.86,
+     "p": "you"
+    },
+    {
+     "ini": 7.86,
+     "fin": 7.96,
+     "p": "know,"
+    }
+   ]
+  },
+  {
+   "ini": 7.96,
+   "fin": 9.32,
+   "texto": "it's gorgeous, and",
+   "palabras": [
+    {
+     "ini": 7.96,
+     "fin": 8.22,
+     "p": "it's"
+    },
+    {
+     "ini": 8.22,
+     "fin": 8.66,
+     "p": "gorgeous,"
+    },
+    {
+     "ini": 9.14,
+     "fin": 9.32,
+     "p": "and"
+    }
+   ]
+  },
+  {
+   "ini": 9.32,
+   "fin": 12.1,
+   "texto": "and he longs for it, but he has no way to get it. He doesn't have a piece of paper,",
+   "palabras": [
+    {
+     "ini": 9.32,
+     "fin": 9.38,
+     "p": "and"
+    },
+    {
+     "ini": 9.38,
+     "fin": 9.56,
+     "p": "he"
+    },
+    {
+     "ini": 9.56,
+     "fin": 9.82,
+     "p": "longs"
+    },
+    {
+     "ini": 9.82,
+     "fin": 9.98,
+     "p": "for"
+    },
+    {
+     "ini": 9.98,
+     "fin": 10.04,
+     "p": "it,"
+    },
+    {
+     "ini": 10.04,
+     "fin": 10.14,
+     "p": "but"
+    },
+    {
+     "ini": 10.14,
+     "fin": 10.22,
+     "p": "he"
+    },
+    {
+     "ini": 10.22,
+     "fin": 10.42,
+     "p": "has"
+    },
+    {
+     "ini": 10.42,
+     "fin": 10.54,
+     "p": "no"
+    },
+    {
+     "ini": 10.54,
+     "fin": 10.64,
+     "p": "way"
+    },
+    {
+     "ini": 10.64,
+     "fin": 10.84,
+     "p": "to"
+    },
+    {
+     "ini": 10.84,
+     "fin": 10.98,
+     "p": "get"
+    },
+    {
+     "ini": 10.98,
+     "fin": 11.08,
+     "p": "it."
+    },
+    {
+     "ini": 11.08,
+     "fin": 11.18,
+     "p": "He"
+    },
+    {
+     "ini": 11.18,
+     "fin": 11.4,
+     "p": "doesn't"
+    },
+    {
+     "ini": 11.4,
+     "fin": 11.64,
+     "p": "have"
+    },
+    {
+     "ini": 11.64,
+     "fin": 11.78,
+     "p": "a"
+    },
+    {
+     "ini": 11.78,
+     "fin": 11.92,
+     "p": "piece"
+    },
+    {
+     "ini": 11.92,
+     "fin": 11.92,
+     "p": "of"
+    },
+    {
+     "ini": 11.92,
+     "fin": 12.1,
+     "p": "paper,"
+    }
+   ]
+  },
+  {
+   "ini": 12.18,
+   "fin": 14.04,
+   "texto": "he doesn't have a pencil, he doesn't have a tape recorder,",
+   "palabras": [
+    {
+     "ini": 12.18,
+     "fin": 12.18,
+     "p": "he"
+    },
+    {
+     "ini": 12.18,
+     "fin": 12.38,
+     "p": "doesn't"
+    },
+    {
+     "ini": 12.38,
+     "fin": 12.6,
+     "p": "have"
+    },
+    {
+     "ini": 12.6,
+     "fin": 12.76,
+     "p": "a"
+    },
+    {
+     "ini": 12.76,
+     "fin": 12.92,
+     "p": "pencil,"
+    },
+    {
+     "ini": 12.98,
+     "fin": 13.0,
+     "p": "he"
+    },
+    {
+     "ini": 13.0,
+     "fin": 13.22,
+     "p": "doesn't"
+    },
+    {
+     "ini": 13.22,
+     "fin": 13.38,
+     "p": "have"
+    },
+    {
+     "ini": 13.38,
+     "fin": 13.52,
+     "p": "a"
+    },
+    {
+     "ini": 13.52,
+     "fin": 13.72,
+     "p": "tape"
+    },
+    {
+     "ini": 13.72,
+     "fin": 14.04,
+     "p": "recorder,"
+    }
+   ]
+  },
+  {
+   "ini": 14.32,
+   "fin": 17.66,
+   "texto": "so he starts to feel all that old anxiety start to rise in him, like",
+   "palabras": [
+    {
+     "ini": 14.32,
+     "fin": 14.54,
+     "p": "so"
+    },
+    {
+     "ini": 14.54,
+     "fin": 14.7,
+     "p": "he"
+    },
+    {
+     "ini": 14.7,
+     "fin": 14.86,
+     "p": "starts"
+    },
+    {
+     "ini": 14.86,
+     "fin": 15.06,
+     "p": "to"
+    },
+    {
+     "ini": 15.06,
+     "fin": 15.16,
+     "p": "feel"
+    },
+    {
+     "ini": 15.16,
+     "fin": 15.44,
+     "p": "all"
+    },
+    {
+     "ini": 15.44,
+     "fin": 15.66,
+     "p": "that"
+    },
+    {
+     "ini": 15.66,
+     "fin": 15.86,
+     "p": "old"
+    },
+    {
+     "ini": 15.86,
+     "fin": 16.44,
+     "p": "anxiety"
+    },
+    {
+     "ini": 16.44,
+     "fin": 16.7,
+     "p": "start"
+    },
+    {
+     "ini": 16.7,
+     "fin": 16.94,
+     "p": "to"
+    },
+    {
+     "ini": 16.94,
+     "fin": 17.12,
+     "p": "rise"
+    },
+    {
+     "ini": 17.12,
+     "fin": 17.28,
+     "p": "in"
+    },
+    {
+     "ini": 17.28,
+     "fin": 17.42,
+     "p": "him,"
+    },
+    {
+     "ini": 17.42,
+     "fin": 17.66,
+     "p": "like"
+    }
+   ]
+  },
+  {
+   "ini": 17.66,
+   "fin": 20.84,
+   "texto": "I'm gonna lose this thing, you know, and I'm gonna be haunted by this song",
+   "palabras": [
+    {
+     "ini": 17.66,
+     "fin": 18.08,
+     "p": "I'm"
+    },
+    {
+     "ini": 18.08,
+     "fin": 18.18,
+     "p": "gonna"
+    },
+    {
+     "ini": 18.18,
+     "fin": 18.5,
+     "p": "lose"
+    },
+    {
+     "ini": 18.5,
+     "fin": 18.86,
+     "p": "this"
+    },
+    {
+     "ini": 18.86,
+     "fin": 19.02,
+     "p": "thing,"
+    },
+    {
+     "ini": 19.08,
+     "fin": 19.18,
+     "p": "you"
+    },
+    {
+     "ini": 19.18,
+     "fin": 19.4,
+     "p": "know,"
+    },
+    {
+     "ini": 19.46,
+     "fin": 19.66,
+     "p": "and"
+    },
+    {
+     "ini": 19.66,
+     "fin": 19.84,
+     "p": "I'm"
+    },
+    {
+     "ini": 19.84,
+     "fin": 19.9,
+     "p": "gonna"
+    },
+    {
+     "ini": 19.9,
+     "fin": 20.08,
+     "p": "be"
+    },
+    {
+     "ini": 20.08,
+     "fin": 20.34,
+     "p": "haunted"
+    },
+    {
+     "ini": 20.34,
+     "fin": 20.54,
+     "p": "by"
+    },
+    {
+     "ini": 20.54,
+     "fin": 20.72,
+     "p": "this"
+    },
+    {
+     "ini": 20.72,
+     "fin": 20.84,
+     "p": "song"
+    }
+   ]
+  },
+  {
+   "ini": 20.84,
+   "fin": 22.82,
+   "texto": "forever, and I'm not good enough, and I can't do it.",
+   "palabras": [
+    {
+     "ini": 20.84,
+     "fin": 21.14,
+     "p": "forever,"
+    },
+    {
+     "ini": 21.14,
+     "fin": 21.28,
+     "p": "and"
+    },
+    {
+     "ini": 21.28,
+     "fin": 21.4,
+     "p": "I'm"
+    },
+    {
+     "ini": 21.4,
+     "fin": 21.58,
+     "p": "not"
+    },
+    {
+     "ini": 21.58,
+     "fin": 21.74,
+     "p": "good"
+    },
+    {
+     "ini": 21.74,
+     "fin": 21.88,
+     "p": "enough,"
+    },
+    {
+     "ini": 21.88,
+     "fin": 22.0,
+     "p": "and"
+    },
+    {
+     "ini": 22.0,
+     "fin": 22.06,
+     "p": "I"
+    },
+    {
+     "ini": 22.06,
+     "fin": 22.28,
+     "p": "can't"
+    },
+    {
+     "ini": 22.28,
+     "fin": 22.44,
+     "p": "do"
+    },
+    {
+     "ini": 22.44,
+     "fin": 22.82,
+     "p": "it."
+    }
+   ]
+  },
+  {
+   "ini": 22.92,
+   "fin": 26.14,
+   "texto": "And instead of panicking, he just stopped, he just",
+   "palabras": [
+    {
+     "ini": 22.92,
+     "fin": 23.28,
+     "p": "And"
+    },
+    {
+     "ini": 23.28,
+     "fin": 23.52,
+     "p": "instead"
+    },
+    {
+     "ini": 23.52,
+     "fin": 23.78,
+     "p": "of"
+    },
+    {
+     "ini": 23.78,
+     "fin": 24.64,
+     "p": "panicking,"
+    },
+    {
+     "ini": 24.8,
+     "fin": 24.88,
+     "p": "he"
+    },
+    {
+     "ini": 24.88,
+     "fin": 25.24,
+     "p": "just"
+    },
+    {
+     "ini": 25.24,
+     "fin": 25.4,
+     "p": "stopped,"
+    },
+    {
+     "ini": 25.46,
+     "fin": 25.58,
+     "p": "he"
+    },
+    {
+     "ini": 25.58,
+     "fin": 26.14,
+     "p": "just"
+    }
+   ]
+  },
+  {
+   "ini": 26.14,
+   "fin": 29.52,
+   "texto": "stopped that whole mental process, and he did something completely novel.",
+   "palabras": [
+    {
+     "ini": 26.14,
+     "fin": 26.26,
+     "p": "stopped"
+    },
+    {
+     "ini": 26.26,
+     "fin": 26.42,
+     "p": "that"
+    },
+    {
+     "ini": 26.42,
+     "fin": 26.6,
+     "p": "whole"
+    },
+    {
+     "ini": 26.6,
+     "fin": 26.8,
+     "p": "mental"
+    },
+    {
+     "ini": 26.8,
+     "fin": 27.1,
+     "p": "process,"
+    },
+    {
+     "ini": 27.1,
+     "fin": 27.24,
+     "p": "and"
+    },
+    {
+     "ini": 27.24,
+     "fin": 27.32,
+     "p": "he"
+    },
+    {
+     "ini": 27.32,
+     "fin": 27.48,
+     "p": "did"
+    },
+    {
+     "ini": 27.48,
+     "fin": 27.96,
+     "p": "something"
+    },
+    {
+     "ini": 27.96,
+     "fin": 28.94,
+     "p": "completely"
+    },
+    {
+     "ini": 28.94,
+     "fin": 29.52,
+     "p": "novel."
+    }
+   ]
+  },
+  {
+   "ini": 29.52,
+   "fin": 34.86,
+   "texto": "He just looked up at the sky and he said excuse me. Can you not see that I'm driving?",
+   "palabras": [
+    {
+     "ini": 29.52,
+     "fin": 30.1,
+     "p": "He"
+    },
+    {
+     "ini": 30.1,
+     "fin": 30.48,
+     "p": "just"
+    },
+    {
+     "ini": 30.48,
+     "fin": 30.7,
+     "p": "looked"
+    },
+    {
+     "ini": 30.7,
+     "fin": 30.96,
+     "p": "up"
+    },
+    {
+     "ini": 30.96,
+     "fin": 31.1,
+     "p": "at"
+    },
+    {
+     "ini": 31.1,
+     "fin": 31.26,
+     "p": "the"
+    },
+    {
+     "ini": 31.26,
+     "fin": 31.46,
+     "p": "sky"
+    },
+    {
+     "ini": 31.46,
+     "fin": 31.62,
+     "p": "and"
+    },
+    {
+     "ini": 31.62,
+     "fin": 31.82,
+     "p": "he"
+    },
+    {
+     "ini": 31.82,
+     "fin": 31.98,
+     "p": "said"
+    },
+    {
+     "ini": 31.98,
+     "fin": 32.5,
+     "p": "excuse"
+    },
+    {
+     "ini": 32.5,
+     "fin": 32.88,
+     "p": "me."
+    },
+    {
+     "ini": 32.98,
+     "fin": 33.22,
+     "p": "Can"
+    },
+    {
+     "ini": 33.22,
+     "fin": 33.42,
+     "p": "you"
+    },
+    {
+     "ini": 33.42,
+     "fin": 33.72,
+     "p": "not"
+    },
+    {
+     "ini": 33.72,
+     "fin": 33.92,
+     "p": "see"
+    },
+    {
+     "ini": 33.92,
+     "fin": 34.1,
+     "p": "that"
+    },
+    {
+     "ini": 34.1,
+     "fin": 34.36,
+     "p": "I'm"
+    },
+    {
+     "ini": 34.36,
+     "fin": 34.86,
+     "p": "driving?"
+    }
+   ]
+  },
+  {
+   "ini": 38.73,
+   "fin": 41.29,
+   "texto": "Do I look like I can write down a song right now?",
+   "palabras": [
+    {
+     "ini": 38.73,
+     "fin": 38.91,
+     "p": "Do"
+    },
+    {
+     "ini": 38.91,
+     "fin": 39.15,
+     "p": "I"
+    },
+    {
+     "ini": 39.15,
+     "fin": 39.31,
+     "p": "look"
+    },
+    {
+     "ini": 39.31,
+     "fin": 39.53,
+     "p": "like"
+    },
+    {
+     "ini": 39.53,
+     "fin": 39.63,
+     "p": "I"
+    },
+    {
+     "ini": 39.63,
+     "fin": 39.83,
+     "p": "can"
+    },
+    {
+     "ini": 39.83,
+     "fin": 40.07,
+     "p": "write"
+    },
+    {
+     "ini": 40.07,
+     "fin": 40.27,
+     "p": "down"
+    },
+    {
+     "ini": 40.27,
+     "fin": 40.47,
+     "p": "a"
+    },
+    {
+     "ini": 40.47,
+     "fin": 40.67,
+     "p": "song"
+    },
+    {
+     "ini": 40.67,
+     "fin": 40.99,
+     "p": "right"
+    },
+    {
+     "ini": 40.99,
+     "fin": 41.29,
+     "p": "now?"
+    }
+   ]
+  },
+  {
+   "ini": 41.39,
+   "fin": 46.97,
+   "texto": "You know if you really want to exist come back at a more opportune moment when I can take care of you",
+   "palabras": [
+    {
+     "ini": 41.39,
+     "fin": 41.47,
+     "p": "You"
+    },
+    {
+     "ini": 41.47,
+     "fin": 41.67,
+     "p": "know"
+    },
+    {
+     "ini": 41.67,
+     "fin": 41.85,
+     "p": "if"
+    },
+    {
+     "ini": 41.85,
+     "fin": 42.15,
+     "p": "you"
+    },
+    {
+     "ini": 42.15,
+     "fin": 42.47,
+     "p": "really"
+    },
+    {
+     "ini": 42.47,
+     "fin": 42.63,
+     "p": "want"
+    },
+    {
+     "ini": 42.63,
+     "fin": 42.83,
+     "p": "to"
+    },
+    {
+     "ini": 42.83,
+     "fin": 43.25,
+     "p": "exist"
+    },
+    {
+     "ini": 43.25,
+     "fin": 43.57,
+     "p": "come"
+    },
+    {
+     "ini": 43.57,
+     "fin": 43.81,
+     "p": "back"
+    },
+    {
+     "ini": 43.81,
+     "fin": 43.95,
+     "p": "at"
+    },
+    {
+     "ini": 43.95,
+     "fin": 44.09,
+     "p": "a"
+    },
+    {
+     "ini": 44.09,
+     "fin": 44.31,
+     "p": "more"
+    },
+    {
+     "ini": 44.31,
+     "fin": 44.89,
+     "p": "opportune"
+    },
+    {
+     "ini": 44.89,
+     "fin": 45.27,
+     "p": "moment"
+    },
+    {
+     "ini": 45.27,
+     "fin": 45.49,
+     "p": "when"
+    },
+    {
+     "ini": 45.49,
+     "fin": 45.63,
+     "p": "I"
+    },
+    {
+     "ini": 45.63,
+     "fin": 45.85,
+     "p": "can"
+    },
+    {
+     "ini": 45.85,
+     "fin": 46.07,
+     "p": "take"
+    },
+    {
+     "ini": 46.07,
+     "fin": 46.23,
+     "p": "care"
+    },
+    {
+     "ini": 46.23,
+     "fin": 46.47,
+     "p": "of"
+    },
+    {
+     "ini": 46.47,
+     "fin": 46.97,
+     "p": "you"
+    }
+   ]
+  },
+  {
+   "ini": 46.97,
+   "fin": 52.01,
+   "texto": "Otherwise go bother somebody else today go bother Leonard Cohen",
+   "palabras": [
+    {
+     "ini": 46.97,
+     "fin": 47.63,
+     "p": "Otherwise"
+    },
+    {
+     "ini": 47.63,
+     "fin": 48.23,
+     "p": "go"
+    },
+    {
+     "ini": 48.23,
+     "fin": 48.57,
+     "p": "bother"
+    },
+    {
+     "ini": 48.57,
+     "fin": 48.93,
+     "p": "somebody"
+    },
+    {
+     "ini": 48.93,
+     "fin": 49.29,
+     "p": "else"
+    },
+    {
+     "ini": 49.29,
+     "fin": 49.83,
+     "p": "today"
+    },
+    {
+     "ini": 49.83,
+     "fin": 50.47,
+     "p": "go"
+    },
+    {
+     "ini": 50.47,
+     "fin": 51.09,
+     "p": "bother"
+    },
+    {
+     "ini": 51.09,
+     "fin": 51.53,
+     "p": "Leonard"
+    },
+    {
+     "ini": 51.53,
+     "fin": 52.01,
+     "p": "Cohen"
+    }
+   ]
+  },
+  {
+   "ini": 52.01,
+   "fin": 57.37,
+   "texto": "You know and and his whole work process changed after that not the work the work",
+   "palabras": [
+    {
+     "ini": 52.01,
+     "fin": 52.45,
+     "p": "You"
+    },
+    {
+     "ini": 52.45,
+     "fin": 52.81,
+     "p": "know"
+    },
+    {
+     "ini": 52.81,
+     "fin": 53.53,
+     "p": "and"
+    },
+    {
+     "ini": 53.53,
+     "fin": 54.37,
+     "p": "and"
+    },
+    {
+     "ini": 54.37,
+     "fin": 54.69,
+     "p": "his"
+    },
+    {
+     "ini": 54.69,
+     "fin": 54.97,
+     "p": "whole"
+    },
+    {
+     "ini": 54.97,
+     "fin": 55.27,
+     "p": "work"
+    },
+    {
+     "ini": 55.27,
+     "fin": 55.79,
+     "p": "process"
+    },
+    {
+     "ini": 55.79,
+     "fin": 56.17,
+     "p": "changed"
+    },
+    {
+     "ini": 56.17,
+     "fin": 56.37,
+     "p": "after"
+    },
+    {
+     "ini": 56.37,
+     "fin": 56.53,
+     "p": "that"
+    },
+    {
+     "ini": 56.53,
+     "fin": 56.73,
+     "p": "not"
+    },
+    {
+     "ini": 56.73,
+     "fin": 56.97,
+     "p": "the"
+    },
+    {
+     "ini": 56.97,
+     "fin": 57.15,
+     "p": "work"
+    },
+    {
+     "ini": 57.15,
+     "fin": 57.29,
+     "p": "the"
+    },
+    {
+     "ini": 57.29,
+     "fin": 57.37,
+     "p": "work"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,893 @@
+{
+ "idioma": "es",
+ "duracion": 49.12,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 2.14,
+   "texto": "¿Qué pasa cuando vamos al gimnasio con regularidad?",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.2,
+     "p": "¿Qué"
+    },
+    {
+     "ini": 0.2,
+     "fin": 0.44,
+     "p": "pasa"
+    },
+    {
+     "ini": 0.44,
+     "fin": 0.66,
+     "p": "cuando"
+    },
+    {
+     "ini": 0.66,
+     "fin": 0.9,
+     "p": "vamos"
+    },
+    {
+     "ini": 0.9,
+     "fin": 1.04,
+     "p": "al"
+    },
+    {
+     "ini": 1.04,
+     "fin": 1.46,
+     "p": "gimnasio"
+    },
+    {
+     "ini": 1.46,
+     "fin": 1.7,
+     "p": "con"
+    },
+    {
+     "ini": 1.7,
+     "fin": 2.14,
+     "p": "regularidad?"
+    }
+   ]
+  },
+  {
+   "ini": 2.48,
+   "fin": 7.28,
+   "texto": "Al principio la fricción de las mancuernas y las barras generan dolor, ardor, pero cuando",
+   "palabras": [
+    {
+     "ini": 2.48,
+     "fin": 2.7,
+     "p": "Al"
+    },
+    {
+     "ini": 2.7,
+     "fin": 3.04,
+     "p": "principio"
+    },
+    {
+     "ini": 3.04,
+     "fin": 3.22,
+     "p": "la"
+    },
+    {
+     "ini": 3.22,
+     "fin": 3.58,
+     "p": "fricción"
+    },
+    {
+     "ini": 3.58,
+     "fin": 3.7,
+     "p": "de"
+    },
+    {
+     "ini": 3.7,
+     "fin": 3.82,
+     "p": "las"
+    },
+    {
+     "ini": 3.82,
+     "fin": 4.3,
+     "p": "mancuernas"
+    },
+    {
+     "ini": 4.3,
+     "fin": 4.42,
+     "p": "y"
+    },
+    {
+     "ini": 4.42,
+     "fin": 4.62,
+     "p": "las"
+    },
+    {
+     "ini": 4.62,
+     "fin": 4.8,
+     "p": "barras"
+    },
+    {
+     "ini": 4.8,
+     "fin": 5.16,
+     "p": "generan"
+    },
+    {
+     "ini": 5.16,
+     "fin": 5.58,
+     "p": "dolor,"
+    },
+    {
+     "ini": 6.0,
+     "fin": 6.46,
+     "p": "ardor,"
+    },
+    {
+     "ini": 6.74,
+     "fin": 6.98,
+     "p": "pero"
+    },
+    {
+     "ini": 6.98,
+     "fin": 7.28,
+     "p": "cuando"
+    }
+   ]
+  },
+  {
+   "ini": 7.28,
+   "fin": 10.72,
+   "texto": "empezás a hacerlo más frecuentemente, las manos se forman callos.",
+   "palabras": [
+    {
+     "ini": 7.28,
+     "fin": 7.64,
+     "p": "empezás"
+    },
+    {
+     "ini": 7.64,
+     "fin": 7.9,
+     "p": "a"
+    },
+    {
+     "ini": 7.9,
+     "fin": 7.98,
+     "p": "hacerlo"
+    },
+    {
+     "ini": 7.98,
+     "fin": 8.3,
+     "p": "más"
+    },
+    {
+     "ini": 8.3,
+     "fin": 9.0,
+     "p": "frecuentemente,"
+    },
+    {
+     "ini": 9.26,
+     "fin": 9.34,
+     "p": "las"
+    },
+    {
+     "ini": 9.34,
+     "fin": 9.6,
+     "p": "manos"
+    },
+    {
+     "ini": 9.6,
+     "fin": 9.9,
+     "p": "se"
+    },
+    {
+     "ini": 9.9,
+     "fin": 10.22,
+     "p": "forman"
+    },
+    {
+     "ini": 10.22,
+     "fin": 10.72,
+     "p": "callos."
+    }
+   ]
+  },
+  {
+   "ini": 10.94,
+   "fin": 14.82,
+   "texto": "Y ya no te vuelve a doler como antes, se vuelve tu nuevo estado normal.",
+   "palabras": [
+    {
+     "ini": 10.94,
+     "fin": 11.26,
+     "p": "Y"
+    },
+    {
+     "ini": 11.26,
+     "fin": 11.4,
+     "p": "ya"
+    },
+    {
+     "ini": 11.4,
+     "fin": 11.48,
+     "p": "no"
+    },
+    {
+     "ini": 11.48,
+     "fin": 11.62,
+     "p": "te"
+    },
+    {
+     "ini": 11.62,
+     "fin": 11.78,
+     "p": "vuelve"
+    },
+    {
+     "ini": 11.78,
+     "fin": 11.86,
+     "p": "a"
+    },
+    {
+     "ini": 11.86,
+     "fin": 12.06,
+     "p": "doler"
+    },
+    {
+     "ini": 12.06,
+     "fin": 12.24,
+     "p": "como"
+    },
+    {
+     "ini": 12.24,
+     "fin": 12.62,
+     "p": "antes,"
+    },
+    {
+     "ini": 12.92,
+     "fin": 13.04,
+     "p": "se"
+    },
+    {
+     "ini": 13.04,
+     "fin": 13.26,
+     "p": "vuelve"
+    },
+    {
+     "ini": 13.26,
+     "fin": 13.42,
+     "p": "tu"
+    },
+    {
+     "ini": 13.42,
+     "fin": 14.02,
+     "p": "nuevo"
+    },
+    {
+     "ini": 14.02,
+     "fin": 14.34,
+     "p": "estado"
+    },
+    {
+     "ini": 14.34,
+     "fin": 14.82,
+     "p": "normal."
+    }
+   ]
+  },
+  {
+   "ini": 15.28,
+   "fin": 18.6,
+   "texto": "Con la mente pasa lo mismo, y acá da la importancia de someternos a situaciones",
+   "palabras": [
+    {
+     "ini": 15.28,
+     "fin": 15.44,
+     "p": "Con"
+    },
+    {
+     "ini": 15.44,
+     "fin": 15.56,
+     "p": "la"
+    },
+    {
+     "ini": 15.56,
+     "fin": 15.74,
+     "p": "mente"
+    },
+    {
+     "ini": 15.74,
+     "fin": 15.98,
+     "p": "pasa"
+    },
+    {
+     "ini": 15.98,
+     "fin": 16.14,
+     "p": "lo"
+    },
+    {
+     "ini": 16.14,
+     "fin": 16.4,
+     "p": "mismo,"
+    },
+    {
+     "ini": 16.6,
+     "fin": 16.72,
+     "p": "y"
+    },
+    {
+     "ini": 16.72,
+     "fin": 16.8,
+     "p": "acá"
+    },
+    {
+     "ini": 16.8,
+     "fin": 16.92,
+     "p": "da"
+    },
+    {
+     "ini": 16.92,
+     "fin": 17.08,
+     "p": "la"
+    },
+    {
+     "ini": 17.08,
+     "fin": 17.44,
+     "p": "importancia"
+    },
+    {
+     "ini": 17.44,
+     "fin": 17.6,
+     "p": "de"
+    },
+    {
+     "ini": 17.6,
+     "fin": 18.1,
+     "p": "someternos"
+    },
+    {
+     "ini": 18.1,
+     "fin": 18.22,
+     "p": "a"
+    },
+    {
+     "ini": 18.22,
+     "fin": 18.6,
+     "p": "situaciones"
+    }
+   ]
+  },
+  {
+   "ini": 18.6,
+   "fin": 19.78,
+   "texto": "incómodas todos los días.",
+   "palabras": [
+    {
+     "ini": 18.6,
+     "fin": 19.1,
+     "p": "incómodas"
+    },
+    {
+     "ini": 19.1,
+     "fin": 19.36,
+     "p": "todos"
+    },
+    {
+     "ini": 19.36,
+     "fin": 19.54,
+     "p": "los"
+    },
+    {
+     "ini": 19.54,
+     "fin": 19.78,
+     "p": "días."
+    }
+   ]
+  },
+  {
+   "ini": 20.1,
+   "fin": 23.92,
+   "texto": "Cuando nos enfrentamos con la incomodidad, cuando salimos de la zona de confort seguido,",
+   "palabras": [
+    {
+     "ini": 20.1,
+     "fin": 20.32,
+     "p": "Cuando"
+    },
+    {
+     "ini": 20.32,
+     "fin": 20.54,
+     "p": "nos"
+    },
+    {
+     "ini": 20.54,
+     "fin": 20.94,
+     "p": "enfrentamos"
+    },
+    {
+     "ini": 20.94,
+     "fin": 21.06,
+     "p": "con"
+    },
+    {
+     "ini": 21.06,
+     "fin": 21.16,
+     "p": "la"
+    },
+    {
+     "ini": 21.16,
+     "fin": 21.64,
+     "p": "incomodidad,"
+    },
+    {
+     "ini": 21.96,
+     "fin": 22.14,
+     "p": "cuando"
+    },
+    {
+     "ini": 22.14,
+     "fin": 22.46,
+     "p": "salimos"
+    },
+    {
+     "ini": 22.46,
+     "fin": 22.58,
+     "p": "de"
+    },
+    {
+     "ini": 22.58,
+     "fin": 22.66,
+     "p": "la"
+    },
+    {
+     "ini": 22.66,
+     "fin": 22.86,
+     "p": "zona"
+    },
+    {
+     "ini": 22.86,
+     "fin": 23.06,
+     "p": "de"
+    },
+    {
+     "ini": 23.06,
+     "fin": 23.32,
+     "p": "confort"
+    },
+    {
+     "ini": 23.32,
+     "fin": 23.92,
+     "p": "seguido,"
+    }
+   ]
+  },
+  {
+   "ini": 24.14,
+   "fin": 27.2,
+   "texto": "nuestra mente se endurece, se crean conexiones que antes no estaban ahí.",
+   "palabras": [
+    {
+     "ini": 24.14,
+     "fin": 24.26,
+     "p": "nuestra"
+    },
+    {
+     "ini": 24.26,
+     "fin": 24.5,
+     "p": "mente"
+    },
+    {
+     "ini": 24.5,
+     "fin": 24.72,
+     "p": "se"
+    },
+    {
+     "ini": 24.72,
+     "fin": 25.1,
+     "p": "endurece,"
+    },
+    {
+     "ini": 25.28,
+     "fin": 25.48,
+     "p": "se"
+    },
+    {
+     "ini": 25.48,
+     "fin": 25.7,
+     "p": "crean"
+    },
+    {
+     "ini": 25.7,
+     "fin": 26.2,
+     "p": "conexiones"
+    },
+    {
+     "ini": 26.2,
+     "fin": 26.38,
+     "p": "que"
+    },
+    {
+     "ini": 26.38,
+     "fin": 26.56,
+     "p": "antes"
+    },
+    {
+     "ini": 26.56,
+     "fin": 26.8,
+     "p": "no"
+    },
+    {
+     "ini": 26.8,
+     "fin": 26.96,
+     "p": "estaban"
+    },
+    {
+     "ini": 26.96,
+     "fin": 27.2,
+     "p": "ahí."
+    }
+   ]
+  },
+  {
+   "ini": 27.2,
+   "fin": 32.06,
+   "texto": "Ya el levantarte temprano se vuelve tu nuevo normal, el ir al gimnasio con frecuencia se",
+   "palabras": [
+    {
+     "ini": 27.2,
+     "fin": 27.8,
+     "p": "Ya"
+    },
+    {
+     "ini": 27.8,
+     "fin": 27.92,
+     "p": "el"
+    },
+    {
+     "ini": 27.92,
+     "fin": 28.34,
+     "p": "levantarte"
+    },
+    {
+     "ini": 28.34,
+     "fin": 28.96,
+     "p": "temprano"
+    },
+    {
+     "ini": 28.96,
+     "fin": 29.12,
+     "p": "se"
+    },
+    {
+     "ini": 29.12,
+     "fin": 29.38,
+     "p": "vuelve"
+    },
+    {
+     "ini": 29.38,
+     "fin": 29.5,
+     "p": "tu"
+    },
+    {
+     "ini": 29.5,
+     "fin": 29.7,
+     "p": "nuevo"
+    },
+    {
+     "ini": 29.7,
+     "fin": 30.1,
+     "p": "normal,"
+    },
+    {
+     "ini": 30.62,
+     "fin": 30.72,
+     "p": "el"
+    },
+    {
+     "ini": 30.72,
+     "fin": 30.82,
+     "p": "ir"
+    },
+    {
+     "ini": 30.82,
+     "fin": 30.92,
+     "p": "al"
+    },
+    {
+     "ini": 30.92,
+     "fin": 31.34,
+     "p": "gimnasio"
+    },
+    {
+     "ini": 31.34,
+     "fin": 31.54,
+     "p": "con"
+    },
+    {
+     "ini": 31.54,
+     "fin": 31.9,
+     "p": "frecuencia"
+    },
+    {
+     "ini": 31.9,
+     "fin": 32.06,
+     "p": "se"
+    }
+   ]
+  },
+  {
+   "ini": 32.06,
+   "fin": 36.44,
+   "texto": "vuelve tu nuevo normal, no tienen que ser cosas enormes, se tratan de microacciones",
+   "palabras": [
+    {
+     "ini": 32.06,
+     "fin": 32.28,
+     "p": "vuelve"
+    },
+    {
+     "ini": 32.28,
+     "fin": 32.44,
+     "p": "tu"
+    },
+    {
+     "ini": 32.44,
+     "fin": 32.62,
+     "p": "nuevo"
+    },
+    {
+     "ini": 32.62,
+     "fin": 33.08,
+     "p": "normal,"
+    },
+    {
+     "ini": 33.56,
+     "fin": 33.68,
+     "p": "no"
+    },
+    {
+     "ini": 33.68,
+     "fin": 33.88,
+     "p": "tienen"
+    },
+    {
+     "ini": 33.88,
+     "fin": 34.0,
+     "p": "que"
+    },
+    {
+     "ini": 34.0,
+     "fin": 34.16,
+     "p": "ser"
+    },
+    {
+     "ini": 34.16,
+     "fin": 34.44,
+     "p": "cosas"
+    },
+    {
+     "ini": 34.44,
+     "fin": 35.02,
+     "p": "enormes,"
+    },
+    {
+     "ini": 35.12,
+     "fin": 35.3,
+     "p": "se"
+    },
+    {
+     "ini": 35.3,
+     "fin": 35.68,
+     "p": "tratan"
+    },
+    {
+     "ini": 35.68,
+     "fin": 35.86,
+     "p": "de"
+    },
+    {
+     "ini": 35.86,
+     "fin": 36.44,
+     "p": "microacciones"
+    }
+   ]
+  },
+  {
+   "ini": 36.44,
+   "fin": 42.12,
+   "texto": "incómodas a diario, desde tender la cama hasta lavar los platos, todo eso que odies",
+   "palabras": [
+    {
+     "ini": 36.44,
+     "fin": 37.08,
+     "p": "incómodas"
+    },
+    {
+     "ini": 37.08,
+     "fin": 37.22,
+     "p": "a"
+    },
+    {
+     "ini": 37.22,
+     "fin": 37.92,
+     "p": "diario,"
+    },
+    {
+     "ini": 38.24,
+     "fin": 38.46,
+     "p": "desde"
+    },
+    {
+     "ini": 38.46,
+     "fin": 38.88,
+     "p": "tender"
+    },
+    {
+     "ini": 38.88,
+     "fin": 39.12,
+     "p": "la"
+    },
+    {
+     "ini": 39.12,
+     "fin": 39.36,
+     "p": "cama"
+    },
+    {
+     "ini": 39.36,
+     "fin": 39.7,
+     "p": "hasta"
+    },
+    {
+     "ini": 39.7,
+     "fin": 39.98,
+     "p": "lavar"
+    },
+    {
+     "ini": 39.98,
+     "fin": 40.24,
+     "p": "los"
+    },
+    {
+     "ini": 40.24,
+     "fin": 41.04,
+     "p": "platos,"
+    },
+    {
+     "ini": 41.4,
+     "fin": 41.5,
+     "p": "todo"
+    },
+    {
+     "ini": 41.5,
+     "fin": 41.74,
+     "p": "eso"
+    },
+    {
+     "ini": 41.74,
+     "fin": 41.84,
+     "p": "que"
+    },
+    {
+     "ini": 41.84,
+     "fin": 42.12,
+     "p": "odies"
+    }
+   ]
+  },
+  {
+   "ini": 42.12,
+   "fin": 46.4,
+   "texto": "hacer, hazelo, de esa manera encallecemos la mente, nos volvemos más fuertes y",
+   "palabras": [
+    {
+     "ini": 42.12,
+     "fin": 42.52,
+     "p": "hacer,"
+    },
+    {
+     "ini": 42.76,
+     "fin": 42.94,
+     "p": "hazelo,"
+    },
+    {
+     "ini": 43.3,
+     "fin": 43.4,
+     "p": "de"
+    },
+    {
+     "ini": 43.4,
+     "fin": 43.56,
+     "p": "esa"
+    },
+    {
+     "ini": 43.56,
+     "fin": 43.88,
+     "p": "manera"
+    },
+    {
+     "ini": 43.88,
+     "fin": 44.38,
+     "p": "encallecemos"
+    },
+    {
+     "ini": 44.38,
+     "fin": 44.58,
+     "p": "la"
+    },
+    {
+     "ini": 44.58,
+     "fin": 44.82,
+     "p": "mente,"
+    },
+    {
+     "ini": 45.06,
+     "fin": 45.18,
+     "p": "nos"
+    },
+    {
+     "ini": 45.18,
+     "fin": 45.54,
+     "p": "volvemos"
+    },
+    {
+     "ini": 45.54,
+     "fin": 45.76,
+     "p": "más"
+    },
+    {
+     "ini": 45.76,
+     "fin": 46.2,
+     "p": "fuertes"
+    },
+    {
+     "ini": 46.2,
+     "fin": 46.4,
+     "p": "y"
+    }
+   ]
+  },
+  {
+   "ini": 46.4,
+   "fin": 48.8,
+   "texto": "generamos un dialogo más productivo con nosotros mismos.",
+   "palabras": [
+    {
+     "ini": 46.4,
+     "fin": 46.8,
+     "p": "generamos"
+    },
+    {
+     "ini": 46.8,
+     "fin": 46.94,
+     "p": "un"
+    },
+    {
+     "ini": 46.94,
+     "fin": 47.26,
+     "p": "dialogo"
+    },
+    {
+     "ini": 47.26,
+     "fin": 47.6,
+     "p": "más"
+    },
+    {
+     "ini": 47.6,
+     "fin": 48.0,
+     "p": "productivo"
+    },
+    {
+     "ini": 48.0,
+     "fin": 48.18,
+     "p": "con"
+    },
+    {
+     "ini": 48.18,
+     "fin": 48.52,
+     "p": "nosotros"
+    },
+    {
+     "ini": 48.52,
+     "fin": 48.8,
+     "p": "mismos."
+    }
+   ]
+  }
+ ]
+}

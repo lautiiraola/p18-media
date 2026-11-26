@@ -1,0 +1,78 @@
+GUÍA RÁPIDA DE PRODUCCIÓN — P18 STORIES
+Versión: 2026-11-25. Resume cómo se hacen los videos con el estilo actual (P18-001 a P18-003, con todas las correcciones del operador).
+
+QUÉ ES ESTO
+Es el sistema completo con el que se hacen los P18 Stories: Reels/Stories verticales 9:16, documentales sin cara, con
+voz de ElevenLabs y montaje en Remotion (código, no editor). Trae todas las reglas de estilo, el motor de render y
+3 videos terminados como ejemplos completos (proceso, guion, armado y master final).
+Sirve para producir videos nuevos con el mismo estilo, o para adaptarlo a la biblioteca viva de P18.
+
+EMPEZÁ POR ACÁ (en este orden)
+1. Mirá los 3 masters finales, para ver el estilo:
+   10_VIDEOS_TERMINADOS/P18-003-steve-jobs/07_renders/final/        ← el más nuevo, con todas las reglas
+   10_VIDEOS_TERMINADOS/P18-002-marcos-galperin/07_renders/final/
+   10_VIDEOS_TERMINADOS/P18-001-james-dyson/07_renders/final/       ← es de antes de la regla de 30–50 s (dura 2:03)
+2. START_HERE.txt y CLAUDE.txt: el punto de entrada y las reglas fijas del estudio.
+3. 00_SISTEMA/reglas-del-operador/: las decisiones de Valentín, una por archivo, con el porqué (ver la lista abajo).
+4. 00_SISTEMA/aprendizajes-de-produccion.txt: qué funcionó y qué falló en cada video.
+5. 10_VIDEOS_TERMINADOS/P18-003-steve-jobs/bitacora-de-proceso.txt: el proceso real de un video, paso por paso.
+
+LAS REGLAS QUE DEFINEN EL ESTILO (resumen)
+- Formato: siempre 9:16, 1080×1920, 60 fps.
+- Duración: entre 30 y 50 s, nunca más. El guion tiene 75–105 palabras (la voz Brian va a unas 2,4–2,55 palabras por segundo).
+- Guion: un solo arco (hook → caída → giro → resultado → pregunta). Todo dato verificado en dos fuentes (fact-check.csv).
+  Sin engagement bait ni motivación genérica.
+- Skills de guion obligatorias: viral-hooks-formulas, viral-hooks, viral-short-form y viral-instagram-reels (en .claude/skills).
+  Siempre se proponen 3 hooks de categorías distintas.
+- Voz: la genera Valentín en ElevenLabs (Brian - Warm, Smooth, Confident; stability 50, similarity 75).
+  Nunca se avanza a producción sin el audio final, y el audio se valida con whisper palabra por palabra.
+- Texto cinético: cada palabra entra cuando la voz la dice. Los subtítulos rotan 4 estilos y nunca repiten dos seguidos:
+  editorial (resaltador lima), serif itálica, caps y stack (la palabra clave gigante).
+- Tipografía rotativa: Manrope (base), Unbounded (cifras), Instrument Serif itálica (citas), JetBrains Mono (créditos).
+- Subtítulos cortados por frase. Nunca terminan en artículo, preposición ni auxiliar, y no siguen después de un cambio de escena.
+- Imágenes rotativas: 2–4 por escena, con entradas distintas (iris, wipe, blinds, drop, zoom, slide, flip) y sin espacios vacíos.
+- NUNCA repetir una imagen en un mismo video, tampoco recortada de otra forma.
+- Solo material con licencia: dominio público, CC0, CC BY o propio/autorizado. Nunca CC BY-SA ni material con copyright sin permiso.
+  Crédito en pantalla y registro en asset-registry.csv.
+- Música rotativa: no repetir la cama entre videos seguidos (ver 06_BIBLIOTECA_COMPARTIDA/music/rotacion.txt).
+- Cierre fijo de 3 s (outro3d): un número de la historia rueda hasta 18, el logo P18 en 3D y la línea
+  «Mentalidad emprendedora para los jóvenes.»
+- Master a -14 LUFS, con un pico por debajo de -1,5 dBTP.
+
+CÓMO SE ARMA UN VIDEO (resumen técnico)
+1. Copiar 08_NUEVO_VIDEO_TEMPLATE a 09_VIDEOS_EN_PRODUCCION/P18-NNN-slug.
+2. Investigación y fact-check (01_research), guion y texto para ElevenLabs (02_script). Frenar y esperar la voz.
+3. Validar la voz (03_voiceover) y sacar los timings por palabra con whisper.cpp.
+4. Buscar material con licencia (04_assets) y registrarlo.
+5. Escribir 06_remotion/build_props.py. Conviene copiar el de P18-003 y cambiar escenas, galerías, SFX y música.
+   Ese script alinea guion y voz, arma subtítulos y escenas, controla que no haya imágenes repetidas y escribe el props.json.
+6. Render con el motor compartido:
+     cd 05_REMOTION_DESIGN_SYSTEM/runtime
+     npm install                     (la primera vez; las dependencias no van en el zip)
+     npx remotion render P18Story <salida.mp4> --props=<props.json> --public-dir=<carpeta 06_remotion/public del video> \
+       --codec=h264 --crf=18 --audio-codec=aac --audio-bitrate=320k
+7. QA de cuadros (hojas de contacto y 3 cuadros por subtítulo), después master a -14 LUFS con ffmpeg (detalle en la bitácora de P18-003).
+
+QUÉ HAY EN CADA CARPETA
+00_SISTEMA                    reglas, checklist general, aprendizajes, reglas-del-operador/
+01_IDENTIDAD_P18              tono, formato de las Stories, tipografía y subtítulos
+02_REFERENCIAS                referencias visuales del estilo
+03_SISTEMA_NARRATIVO          guion y retención
+04_SISTEMA_AUDIOVISUAL        audio, música, movimiento y composición
+05_REMOTION_DESIGN_SYSTEM     motor de render (runtime/src: escenas, subtítulos cinéticos, galerías, cierre 3D), más la propuesta del cierre
+06_BIBLIOTECA_COMPARTIDA      fuentes (OFL), SFX, rotación de música, plantillas
+07_COLA_DE_HISTORIAS          candidatos a próximos videos
+08_NUEVO_VIDEO_TEMPLATE       plantilla de carpeta para un video nuevo
+10_VIDEOS_TERMINADOS          los 3 videos con todo su proceso y el master final
+11_PROMPTS                    prompts usados para arrancar
+.claude/skills                skills de guion (las usa Claude Code automáticamente)
+
+SI ESTA CARPETA LLEGÓ COMO ZIP (paquete de entrega)
+- No trae node_modules: correr npm install en 05_REMOTION_DESIGN_SYSTEM/runtime antes de renderizar.
+- p18-remotion/ (proyecto anterior del 18/11) viene con su código, pero sin los 21 GB de video crudo de personas
+  (argento, german, leo, mariano, moni, tom, victoria). Ese material lo tiene el operador.
+- Los videos terminados traen proceso completo, master final y public/ para volver a renderizar; no traen renders de
+  revisión, snapshots del motor ni originales pesados de assets.
+
+PARA PUBLICAR P18-003: va con música de Kevin MacLeod (CC BY 3.0), con atribución obligatoria en la descripción.
+Está en 10_VIDEOS_TERMINADOS/P18-003-steve-jobs/10_social_assets/caption.txt.

@@ -1,0 +1,209 @@
+# P18 Stories — Dirección creativa v2
+
+**Estado:** propuesta corregida tras devolución del equipo.  
+**Formato:** faceless documental.  
+**Referencia de montaje:** Noticias Explicadas.  
+**Identidad visual:** Proyecto 18.  
+
+---
+
+## 1. Definición inequívoca
+
+P18 Stories cuenta historias reales de superación, iniciativa y construcción personal mediante:
+
+- voz en off provista por P18 y generada en ElevenLabs;
+- fotografías reales del protagonista;
+- videos originales, entrevistas y archivo documental;
+- documentos, titulares, fechas, mapas, cifras y objetos reales;
+- motion graphics que organizan y explican el material;
+- subtítulos y jerarquías visuales con la identidad de P18.
+
+No hay presentador en cámara. No hay avatar. No hay personaje digital. No se genera una versión artificial del protagonista.
+
+La fórmula aprobada es:
+
+> **Ingeniería de atención de Noticias Explicadas + historias humanas verificadas + archivo real + colores de P18.**
+
+---
+
+## 2. Reglas no negociables
+
+1. **No avatares.** Nunca reemplazar una persona real por una ilustración, muñeco, talking head sintético o recreación generada.
+2. **No falsos documentos.** Una imagen generada no puede presentarse como fotografía histórica, entrevista, fábrica, oficina, producto o acontecimiento real.
+3. **Archivo con procedencia.** Cada fotografía, video, captura o documento debe tener URL, autor o propietario, fecha de consulta y estado de licencia.
+4. **La voz dirige el montaje.** Cada unidad narrativa debe tener una respuesta visual específica.
+5. **No slideshow.** Las imágenes se recortan, conectan, comparan, revelan y transforman; no se suceden como diapositivas independientes.
+6. **No movimiento ornamental.** Todo zoom, paneo, máscara o transición debe revelar información, producir continuidad o aumentar tensión.
+7. **No copiar la estética sintética.** Se replica la gramática editorial de Noticias Explicadas, no sus muñecos, fondos ni assets.
+8. **P18 antes que la referencia.** Paleta, tipografía, voz y cierres pertenecen a Proyecto 18.
+
+---
+
+## 3. Biblioteca obligatoria de referencias
+
+Claude debe estudiar estas piezas antes de definir componentes o editar el primer video. Debe registrar qué patrón extrae de cada una. Los enlaces siguientes fueron verificados.
+
+### R1 — Contradicción inmediata
+
+**Reel:** [Estudiante detenido por ICE](https://www.instagram.com/noticiasexplicadas/reel/DgHaJS7DiZt/)  
+**Tramo:** 00:00–00:04.  
+**Observar:** el conflicto se entiende antes de terminar la primera frase; visado válido y encierro conviven en una misma composición.  
+**Transferir a P18:** abrir con el fracaso, rechazo o imposibilidad aparente.  
+**No copiar:** barrotes, personaje ilustrado ni colores de la pieza.
+
+### R2 — Consecuencia antes que tecnicismo
+
+**Reel:** [Satélite nuclear ruso](https://www.instagram.com/noticiasexplicadas/reel/DgHoOTDmVL0/)  
+**Tramo:** 00:00–00:08.  
+**Observar:** el tema lejano se conecta con una consecuencia reconocible: perder el GPS.  
+**Transferir a P18:** explicar primero por qué la decisión del protagonista importa. Evitar “Esta es la historia de…”.
+
+### R3 — Comparación y trayectoria
+
+**Reel:** [BepiColombo llega a Mercurio](https://www.instagram.com/noticiasexplicadas/reel/DgGxAUlFG00/)  
+**Tramos:** 00:00–00:08 y 00:25–00:40.  
+**Observar:** distancias y recorridos vuelven comprensible un proceso complejo.  
+**Transferir a P18:** visualizar años, intentos, rechazos y cambios de dirección como trayectorias comparables.
+
+### R4 — Cifras convertidas en estructura
+
+**Reel:** [Permiso por nacimiento](https://www.instagram.com/noticiasexplicadas/reel/DgH12m7gJc-/)  
+**Tramos:** 00:00–00:10 y 00:30–00:55.  
+**Observar:** semanas y etapas se transforman en bloques y calendario.  
+**Transferir a P18:** representar cantidades mediante acumulación, secuencia o escala: 12 rechazos, tres prototipos, cinco años.
+
+### R5 — Abstracción convertida en acción
+
+**Reel:** [Hipótesis de Riemann e IA](https://www.instagram.com/noticiasexplicadas/reel/DgF7DtMDUKe/)  
+**Tramos:** 00:00–00:08 y 00:35–00:55.  
+**Observar:** puertas, partículas y cadenas representan problema, intento y validación.  
+**Transferir a P18:** hacer visibles deuda, incertidumbre, aprendizaje o perseverancia sin fabricar escenas históricas.
+
+### R6 — Una metáfora rectora
+
+**Reel:** [Debate a ocho](https://www.instagram.com/noticiasexplicadas/reel/DgGo7F7E46x/)  
+**Tramo:** 00:00–00:10.  
+**Observar:** una casa y ocho llaves organizan el tema completo.  
+**Transferir a P18:** elegir un único sistema visual dominante por historia: puerta, recorrido, pila de rechazos, prototipo o cuenta regresiva.
+
+### R7 — Magnitud, conflicto y consecuencia
+
+**Reel:** [Plus Ultra](https://www.instagram.com/noticiasexplicadas/reel/DgGHyAWnLyf/)  
+**Tramo:** 00:00–00:05.  
+**Observar:** una cifra y una consecuencia visible producen escala instantánea.  
+**Transferir a P18:** usar una cifra verificable para dimensionar el riesgo, nunca para inflar artificialmente la historia.
+
+### R8 — Remontada humana
+
+**Pieza estudiada:** Marc Márquez y el Mundial que parecía perdido.  
+**Hook observado:** “¿Cómo ha ganado Marc Márquez un Mundial que ya daba por perdido?”  
+**Valor:** es la referencia narrativa más cercana a P18: resultado extraordinario, adversidad, decisiones, progresión y consecuencia.  
+**Limitación:** se analizó el MP4 publicado por la web oficial, pero no se verificó el enlace directo del Reel. No inventar ni completar ese URL.
+
+---
+
+## 4. Qué significa “editar como Noticias Explicadas”
+
+No significa usar sus personajes. Significa cumplir estas reglas de comportamiento:
+
+- comenzar con voz e imagen desde el primer frame;
+- formular una tensión concreta en los primeros tres segundos;
+- dividir la narración en unidades breves de causa y efecto;
+- asignar una transformación visual a cada unidad;
+- mantener algún elemento entre escenas para generar continuidad;
+- destacar solo la palabra que cambia el sentido de la frase;
+- convertir cifras y fechas en relaciones espaciales;
+- alternar escala general, detalle, documento y consecuencia;
+- incluir un caveat cuando la historia no permita una conclusión absoluta;
+- cerrar rápido, sin outro larga ni resumen redundante.
+
+La frecuencia visual no se mide solamente por cortes. Debe existir una modificación semántica perceptible aproximadamente cada 1,5–3 segundos: nuevo recorte, acercamiento, dato, relación, máscara, objeto o reencuadre. Un plano puede durar más cuando existe evolución interna o una pausa emocional deliberada.
+
+---
+
+## 5. Sistema visual de P18
+
+| Función | Color | Uso |
+|---|---|---|
+| Fondo y pausa | Verde profundo `#14251D` | Escenas emocionales, contraste, cierres |
+| Acción o decisión | Lima `#C2F542` | Palabra activa, fecha decisiva, giro narrativo |
+| Documento | Papel `#F5F5EB` | Titulares, fichas, cronologías, citas |
+| Evidencia y contexto | Azul `#8EC3E6` | Fuentes, anotaciones, información secundaria |
+| Texto principal | Tinta `#172019` o blanco cálido | Según contraste |
+
+**Tipografía:** Manrope.  
+**Subtítulos:** una o dos líneas; frases cortas; peso 700–800; una palabra activa como máximo; nunca karaoke palabra por palabra durante toda la pieza.  
+**Firma:** cápsula P18 pequeña y persistente, fuera de las áreas de interfaz de Instagram.  
+
+---
+
+## 6. Jerarquía de materiales
+
+Claude debe buscar y priorizar en este orden:
+
+1. material oficial del protagonista o su organización;
+2. entrevistas y conferencias originales;
+3. fotografías y videos históricos verificables;
+4. documentos, patentes, cartas, prototipos, productos o publicaciones originales;
+5. medios periodísticos confiables;
+6. bibliotecas públicas y Wikimedia Commons;
+7. bancos de archivo con licencia compatible;
+8. metáforas gráficas abstractas cuando no exista evidencia visual.
+
+Si no existe una imagen verificable, Claude debe señalar el vacío y proponer una representación abstracta. No debe resolverlo inventando una escena.
+
+---
+
+## 7. Mapeo obligatorio de voz a imagen
+
+Antes de editar, Claude debe producir una tabla con estas columnas:
+
+| Tiempo | Voz en off | Función narrativa | Recurso visual | Fuente | Movimiento | Texto visible | Sonido |
+|---:|---|---|---|---|---|---|---|
+
+Ninguna frase puede quedar asociada a “imagen relacionada” o “B-roll genérico”. El recurso debe nombrarse de forma precisa y justificar su relación con la frase.
+
+---
+
+## 8. Uso de la voz de ElevenLabs
+
+P18 entrega el archivo final de voz en off. Claude debe tratarlo como pista maestra:
+
+- no cambiar palabras ni acelerar la voz para forzar duración;
+- detectar pausas y énfasis reales;
+- sincronizar cambios visuales con unidades semánticas, no con intervalos arbitrarios;
+- reservar respiración visual para las frases de mayor peso;
+- mezclar música y efectos sin competir con la inteligibilidad de la voz.
+
+---
+
+## 9. Prueba de aceptación
+
+Un corte solo se considera P18 Stories si cumple todo lo siguiente:
+
+- funciona sin mostrar un presentador;
+- no contiene avatares ni recreaciones de personas reales;
+- cada afirmación importante tiene fuente;
+- cada frase tiene una intención visual definida;
+- el primer conflicto aparece antes del segundo 3;
+- se reconoce la gramática de Noticias Explicadas sin parecer una copia estética;
+- se reconoce P18 antes de que aparezca el logo;
+- las imágenes reales aportan prueba y humanidad;
+- las animaciones aportan explicación o continuidad;
+- el cierre deja una idea, no una moraleja prefabricada.
+
+---
+
+## 10. Formato rector
+
+> Una voz cuenta una historia real. El archivo demuestra que ocurrió. El diseño permite entenderla. El montaje mantiene la curiosidad. P18 convierte el resultado en una pregunta sobre la capacidad de actuar.
+
+---
+
+## 11. Referencia visual aplicada
+
+La dirección se acompaña con una secuencia de diez frames aplicada a la historia de James Dyson. Esta referencia muestra el resultado esperado en pantalla: archivo real, gráficos explicativos, jerarquía de subtítulos y colores P18, sin avatares.
+
+- Galería: `p18-stories-dyson-frame-reference/index.html`
+- Especificación: `02_REFERENCIAS/p18-stories/james-dyson-ejemplo/frame-spec.txt`
+

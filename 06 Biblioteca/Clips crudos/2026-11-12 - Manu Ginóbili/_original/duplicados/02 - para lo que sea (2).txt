@@ -1,0 +1,26 @@
+CLIP 02 — SEA EL BÁSQUET O EL ESTUDIO: PASIÓN Y RESPETO
+
+Inicio:     01:19.7  (79.68 s)
+Fin:        02:19.4  (139.45 s)
+Duración:   59.8 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  SEA EL BÁSQUET O EL ESTUDIO: PASIÓN Y RESPETO   (en el reel, en lima: PASIÓN, RESPETO)
+Departamento:     Deporte y mentalidad
+Área:             Disciplina y proceso
+Tema:             Esfuerzo para cualquier meta
+Fuente:           Manu Ginóbili — "Motivación de Manu Ginobili"
+                  https://www.youtube.com/watch?v=PpDULFMScsk&t=79s
+
+Por qué lo elegí:
+Lleva el esfuerzo del deporte a cualquier camino (dentista, profe, lo que sea) y suma respeto por los que te enseñan y por tus compañeros, y lo que te da jugar en equipo.
+
+Gancho (primeros 3 s): Pero eso no sólo va para el básquet…
+
+Notas para la revisión: Dice 'romperse el culo' y 'mátense por un objetivo' (forma de hablar). Revisar si va así.
+
+Transcripción del clip:
+Pero eso no solo va relativo al basque o al deporte. Si ustedes quieren ser dentistas, si quieren ser profesores, si quieren ser lo que sea, es para todo igual. Hay que esforzarse, romperse el culo, ser respetuoso tanto de los que te enseñan como tus compañeros, como tus pares. Así que creo que esas son cosas que por hoy se están perdiendo un poco y es una lástima porque son las que te hacen llegar muy arriba. Así que no se bajonen si no están jugando tan bien el basket, si ven que esto no va a ser lo suyo. El hecho de jugar, de compartir un equipo y esas cosas te hacen mejor persona, te hacen convivir, compartir cosas que de otra manera no lo harías y creo que es una gran sensa para todos. Así que si es con el basket de árbol o si es con estudio igual de bien y en lo que sea. Pónganle pasión, respeto y mátense por un objetivo, creo que es la forma de llegar.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-12 - Manu Ginóbili/02 - para lo que sea (2).mp4" "SEA EL BÁSQUET O EL ESTUDIO: *PASIÓN* Y *RESPETO*" --fuente "Manu Ginóbili"

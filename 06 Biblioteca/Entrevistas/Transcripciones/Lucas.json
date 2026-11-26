@@ -1,0 +1,4301 @@
+{
+ "idioma": "es",
+ "duracion": 246.37,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 3.36,
+   "texto": "Hay algo que dice que el que aprende sus errores es inteligente",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.32,
+     "p": "Hay"
+    },
+    {
+     "ini": 0.32,
+     "fin": 0.48,
+     "p": "algo"
+    },
+    {
+     "ini": 0.48,
+     "fin": 0.66,
+     "p": "que"
+    },
+    {
+     "ini": 0.66,
+     "fin": 0.84,
+     "p": "dice"
+    },
+    {
+     "ini": 0.84,
+     "fin": 1.56,
+     "p": "que"
+    },
+    {
+     "ini": 1.56,
+     "fin": 1.72,
+     "p": "el"
+    },
+    {
+     "ini": 1.72,
+     "fin": 1.86,
+     "p": "que"
+    },
+    {
+     "ini": 1.86,
+     "fin": 2.12,
+     "p": "aprende"
+    },
+    {
+     "ini": 2.12,
+     "fin": 2.36,
+     "p": "sus"
+    },
+    {
+     "ini": 2.36,
+     "fin": 2.64,
+     "p": "errores"
+    },
+    {
+     "ini": 2.64,
+     "fin": 2.88,
+     "p": "es"
+    },
+    {
+     "ini": 2.88,
+     "fin": 3.36,
+     "p": "inteligente"
+    }
+   ]
+  },
+  {
+   "ini": 3.36,
+   "fin": 5.94,
+   "texto": "pero el que aprende los errores de los demás es un genio.",
+   "palabras": [
+    {
+     "ini": 3.36,
+     "fin": 3.54,
+     "p": "pero"
+    },
+    {
+     "ini": 3.54,
+     "fin": 3.7,
+     "p": "el"
+    },
+    {
+     "ini": 3.7,
+     "fin": 3.84,
+     "p": "que"
+    },
+    {
+     "ini": 3.84,
+     "fin": 4.08,
+     "p": "aprende"
+    },
+    {
+     "ini": 4.08,
+     "fin": 4.3,
+     "p": "los"
+    },
+    {
+     "ini": 4.3,
+     "fin": 4.6,
+     "p": "errores"
+    },
+    {
+     "ini": 4.6,
+     "fin": 4.76,
+     "p": "de"
+    },
+    {
+     "ini": 4.76,
+     "fin": 4.9,
+     "p": "los"
+    },
+    {
+     "ini": 4.9,
+     "fin": 5.14,
+     "p": "demás"
+    },
+    {
+     "ini": 5.14,
+     "fin": 5.38,
+     "p": "es"
+    },
+    {
+     "ini": 5.38,
+     "fin": 5.56,
+     "p": "un"
+    },
+    {
+     "ini": 5.56,
+     "fin": 5.94,
+     "p": "genio."
+    }
+   ]
+  },
+  {
+   "ini": 6.1,
+   "fin": 10.76,
+   "texto": "Hola Comunidad de P18, acá estamos en el café ya, organizado por Mariano y Tom",
+   "palabras": [
+    {
+     "ini": 6.1,
+     "fin": 6.18,
+     "p": "Hola"
+    },
+    {
+     "ini": 6.18,
+     "fin": 6.52,
+     "p": "Comunidad"
+    },
+    {
+     "ini": 6.52,
+     "fin": 6.66,
+     "p": "de"
+    },
+    {
+     "ini": 6.66,
+     "fin": 7.26,
+     "p": "P18,"
+    },
+    {
+     "ini": 7.5,
+     "fin": 7.68,
+     "p": "acá"
+    },
+    {
+     "ini": 7.68,
+     "fin": 7.98,
+     "p": "estamos"
+    },
+    {
+     "ini": 7.98,
+     "fin": 8.08,
+     "p": "en"
+    },
+    {
+     "ini": 8.08,
+     "fin": 8.3,
+     "p": "el"
+    },
+    {
+     "ini": 8.3,
+     "fin": 8.54,
+     "p": "café"
+    },
+    {
+     "ini": 8.54,
+     "fin": 8.94,
+     "p": "ya,"
+    },
+    {
+     "ini": 9.08,
+     "fin": 9.48,
+     "p": "organizado"
+    },
+    {
+     "ini": 9.48,
+     "fin": 9.98,
+     "p": "por"
+    },
+    {
+     "ini": 9.98,
+     "fin": 10.24,
+     "p": "Mariano"
+    },
+    {
+     "ini": 10.24,
+     "fin": 10.44,
+     "p": "y"
+    },
+    {
+     "ini": 10.44,
+     "fin": 10.76,
+     "p": "Tom"
+    }
+   ]
+  },
+  {
+   "ini": 10.76,
+   "fin": 13.76,
+   "texto": "y estamos con Lucas de Argento Invierte.",
+   "palabras": [
+    {
+     "ini": 10.76,
+     "fin": 11.48,
+     "p": "y"
+    },
+    {
+     "ini": 11.48,
+     "fin": 11.72,
+     "p": "estamos"
+    },
+    {
+     "ini": 11.72,
+     "fin": 11.98,
+     "p": "con"
+    },
+    {
+     "ini": 11.98,
+     "fin": 12.24,
+     "p": "Lucas"
+    },
+    {
+     "ini": 12.24,
+     "fin": 12.82,
+     "p": "de"
+    },
+    {
+     "ini": 12.82,
+     "fin": 13.2,
+     "p": "Argento"
+    },
+    {
+     "ini": 13.2,
+     "fin": 13.76,
+     "p": "Invierte."
+    }
+   ]
+  },
+  {
+   "ini": 14.28,
+   "fin": 19.46,
+   "texto": "Si hoy tuvieras 18 años, cero capital y una compuconía, ¿qué haces maneando?",
+   "palabras": [
+    {
+     "ini": 14.28,
+     "fin": 14.28,
+     "p": "Si"
+    },
+    {
+     "ini": 14.28,
+     "fin": 14.44,
+     "p": "hoy"
+    },
+    {
+     "ini": 14.44,
+     "fin": 14.7,
+     "p": "tuvieras"
+    },
+    {
+     "ini": 14.7,
+     "fin": 15.14,
+     "p": "18"
+    },
+    {
+     "ini": 15.14,
+     "fin": 15.98,
+     "p": "años,"
+    },
+    {
+     "ini": 16.24,
+     "fin": 16.44,
+     "p": "cero"
+    },
+    {
+     "ini": 16.44,
+     "fin": 16.9,
+     "p": "capital"
+    },
+    {
+     "ini": 16.9,
+     "fin": 17.2,
+     "p": "y"
+    },
+    {
+     "ini": 17.2,
+     "fin": 17.48,
+     "p": "una"
+    },
+    {
+     "ini": 17.48,
+     "fin": 18.16,
+     "p": "compuconía,"
+    },
+    {
+     "ini": 18.82,
+     "fin": 18.9,
+     "p": "¿qué"
+    },
+    {
+     "ini": 18.9,
+     "fin": 19.1,
+     "p": "haces"
+    },
+    {
+     "ini": 19.1,
+     "fin": 19.46,
+     "p": "maneando?"
+    }
+   ]
+  },
+  {
+   "ini": 19.64,
+   "fin": 22.72,
+   "texto": "Una compuconía ya es un capital, ya es un muy buen capital.",
+   "palabras": [
+    {
+     "ini": 19.64,
+     "fin": 19.94,
+     "p": "Una"
+    },
+    {
+     "ini": 19.94,
+     "fin": 20.46,
+     "p": "compuconía"
+    },
+    {
+     "ini": 20.46,
+     "fin": 20.6,
+     "p": "ya"
+    },
+    {
+     "ini": 20.6,
+     "fin": 20.66,
+     "p": "es"
+    },
+    {
+     "ini": 20.66,
+     "fin": 20.76,
+     "p": "un"
+    },
+    {
+     "ini": 20.76,
+     "fin": 21.12,
+     "p": "capital,"
+    },
+    {
+     "ini": 21.58,
+     "fin": 21.74,
+     "p": "ya"
+    },
+    {
+     "ini": 21.74,
+     "fin": 21.84,
+     "p": "es"
+    },
+    {
+     "ini": 21.84,
+     "fin": 21.98,
+     "p": "un"
+    },
+    {
+     "ini": 21.98,
+     "fin": 22.16,
+     "p": "muy"
+    },
+    {
+     "ini": 22.16,
+     "fin": 22.28,
+     "p": "buen"
+    },
+    {
+     "ini": 22.28,
+     "fin": 22.72,
+     "p": "capital."
+    }
+   ]
+  },
+  {
+   "ini": 23.38,
+   "fin": 28.38,
+   "texto": "Yo me trincharé mal con un jueguito, me dediqué mucho a jugar,",
+   "palabras": [
+    {
+     "ini": 23.38,
+     "fin": 23.5,
+     "p": "Yo"
+    },
+    {
+     "ini": 23.5,
+     "fin": 23.68,
+     "p": "me"
+    },
+    {
+     "ini": 23.68,
+     "fin": 24.26,
+     "p": "trincharé"
+    },
+    {
+     "ini": 24.26,
+     "fin": 25.42,
+     "p": "mal"
+    },
+    {
+     "ini": 25.42,
+     "fin": 26.56,
+     "p": "con"
+    },
+    {
+     "ini": 26.56,
+     "fin": 26.72,
+     "p": "un"
+    },
+    {
+     "ini": 26.72,
+     "fin": 26.96,
+     "p": "jueguito,"
+    },
+    {
+     "ini": 27.1,
+     "fin": 27.32,
+     "p": "me"
+    },
+    {
+     "ini": 27.32,
+     "fin": 27.6,
+     "p": "dediqué"
+    },
+    {
+     "ini": 27.6,
+     "fin": 27.86,
+     "p": "mucho"
+    },
+    {
+     "ini": 27.86,
+     "fin": 28.0,
+     "p": "a"
+    },
+    {
+     "ini": 28.0,
+     "fin": 28.38,
+     "p": "jugar,"
+    }
+   ]
+  },
+  {
+   "ini": 28.38,
+   "fin": 34.5,
+   "texto": "jugaba a esa edad, capaz que 18 horas por día, no, no estoy orgulloso de eso, pero eso me",
+   "palabras": [
+    {
+     "ini": 28.38,
+     "fin": 29.34,
+     "p": "jugaba"
+    },
+    {
+     "ini": 29.34,
+     "fin": 29.62,
+     "p": "a"
+    },
+    {
+     "ini": 29.62,
+     "fin": 29.76,
+     "p": "esa"
+    },
+    {
+     "ini": 29.76,
+     "fin": 30.3,
+     "p": "edad,"
+    },
+    {
+     "ini": 30.38,
+     "fin": 30.6,
+     "p": "capaz"
+    },
+    {
+     "ini": 30.6,
+     "fin": 30.78,
+     "p": "que"
+    },
+    {
+     "ini": 30.78,
+     "fin": 31.06,
+     "p": "18"
+    },
+    {
+     "ini": 31.06,
+     "fin": 31.24,
+     "p": "horas"
+    },
+    {
+     "ini": 31.24,
+     "fin": 31.46,
+     "p": "por"
+    },
+    {
+     "ini": 31.46,
+     "fin": 31.72,
+     "p": "día,"
+    },
+    {
+     "ini": 32.26,
+     "fin": 32.56,
+     "p": "no,"
+    },
+    {
+     "ini": 32.68,
+     "fin": 32.68,
+     "p": "no"
+    },
+    {
+     "ini": 32.68,
+     "fin": 32.8,
+     "p": "estoy"
+    },
+    {
+     "ini": 32.8,
+     "fin": 33.22,
+     "p": "orgulloso"
+    },
+    {
+     "ini": 33.22,
+     "fin": 33.36,
+     "p": "de"
+    },
+    {
+     "ini": 33.36,
+     "fin": 33.46,
+     "p": "eso,"
+    },
+    {
+     "ini": 33.9,
+     "fin": 33.96,
+     "p": "pero"
+    },
+    {
+     "ini": 33.96,
+     "fin": 34.24,
+     "p": "eso"
+    },
+    {
+     "ini": 34.24,
+     "fin": 34.5,
+     "p": "me"
+    }
+   ]
+  },
+  {
+   "ini": 34.5,
+   "fin": 38.54,
+   "texto": "desarrolló la obsesión y me obsesioné un montón con ser el mejor en el juego que",
+   "palabras": [
+    {
+     "ini": 34.5,
+     "fin": 34.82,
+     "p": "desarrolló"
+    },
+    {
+     "ini": 34.82,
+     "fin": 34.96,
+     "p": "la"
+    },
+    {
+     "ini": 34.96,
+     "fin": 35.44,
+     "p": "obsesión"
+    },
+    {
+     "ini": 35.44,
+     "fin": 36.02,
+     "p": "y"
+    },
+    {
+     "ini": 36.02,
+     "fin": 36.14,
+     "p": "me"
+    },
+    {
+     "ini": 36.14,
+     "fin": 36.48,
+     "p": "obsesioné"
+    },
+    {
+     "ini": 36.48,
+     "fin": 36.6,
+     "p": "un"
+    },
+    {
+     "ini": 36.6,
+     "fin": 36.94,
+     "p": "montón"
+    },
+    {
+     "ini": 36.94,
+     "fin": 37.44,
+     "p": "con"
+    },
+    {
+     "ini": 37.44,
+     "fin": 37.66,
+     "p": "ser"
+    },
+    {
+     "ini": 37.66,
+     "fin": 37.84,
+     "p": "el"
+    },
+    {
+     "ini": 37.84,
+     "fin": 38.04,
+     "p": "mejor"
+    },
+    {
+     "ini": 38.04,
+     "fin": 38.2,
+     "p": "en"
+    },
+    {
+     "ini": 38.2,
+     "fin": 38.3,
+     "p": "el"
+    },
+    {
+     "ini": 38.3,
+     "fin": 38.4,
+     "p": "juego"
+    },
+    {
+     "ini": 38.4,
+     "fin": 38.54,
+     "p": "que"
+    }
+   ]
+  },
+  {
+   "ini": 38.54,
+   "fin": 45.0,
+   "texto": "yo jugaba. Quiero que trasladaría esa obsesión a la inteligencia artificial.",
+   "palabras": [
+    {
+     "ini": 38.54,
+     "fin": 38.64,
+     "p": "yo"
+    },
+    {
+     "ini": 38.64,
+     "fin": 39.08,
+     "p": "jugaba."
+    },
+    {
+     "ini": 39.32,
+     "fin": 39.54,
+     "p": "Quiero"
+    },
+    {
+     "ini": 39.54,
+     "fin": 40.36,
+     "p": "que"
+    },
+    {
+     "ini": 40.36,
+     "fin": 41.0,
+     "p": "trasladaría"
+    },
+    {
+     "ini": 41.0,
+     "fin": 41.36,
+     "p": "esa"
+    },
+    {
+     "ini": 41.36,
+     "fin": 42.5,
+     "p": "obsesión"
+    },
+    {
+     "ini": 42.5,
+     "fin": 44.08,
+     "p": "a"
+    },
+    {
+     "ini": 44.08,
+     "fin": 44.28,
+     "p": "la"
+    },
+    {
+     "ini": 44.28,
+     "fin": 44.64,
+     "p": "inteligencia"
+    },
+    {
+     "ini": 44.64,
+     "fin": 45.0,
+     "p": "artificial."
+    }
+   ]
+  },
+  {
+   "ini": 45.52,
+   "fin": 50.24,
+   "texto": "Hoy en día si logras hacer eso, que es el capital que tenés, que es la computadora",
+   "palabras": [
+    {
+     "ini": 45.52,
+     "fin": 45.64,
+     "p": "Hoy"
+    },
+    {
+     "ini": 45.64,
+     "fin": 45.8,
+     "p": "en"
+    },
+    {
+     "ini": 45.8,
+     "fin": 46.06,
+     "p": "día"
+    },
+    {
+     "ini": 46.06,
+     "fin": 46.32,
+     "p": "si"
+    },
+    {
+     "ini": 46.32,
+     "fin": 46.66,
+     "p": "logras"
+    },
+    {
+     "ini": 46.66,
+     "fin": 46.9,
+     "p": "hacer"
+    },
+    {
+     "ini": 46.9,
+     "fin": 47.06,
+     "p": "eso,"
+    },
+    {
+     "ini": 47.72,
+     "fin": 47.72,
+     "p": "que"
+    },
+    {
+     "ini": 47.72,
+     "fin": 48.48,
+     "p": "es"
+    },
+    {
+     "ini": 48.48,
+     "fin": 48.56,
+     "p": "el"
+    },
+    {
+     "ini": 48.56,
+     "fin": 48.88,
+     "p": "capital"
+    },
+    {
+     "ini": 48.88,
+     "fin": 49.04,
+     "p": "que"
+    },
+    {
+     "ini": 49.04,
+     "fin": 49.22,
+     "p": "tenés,"
+    },
+    {
+     "ini": 49.24,
+     "fin": 49.36,
+     "p": "que"
+    },
+    {
+     "ini": 49.36,
+     "fin": 49.68,
+     "p": "es"
+    },
+    {
+     "ini": 49.68,
+     "fin": 49.96,
+     "p": "la"
+    },
+    {
+     "ini": 49.96,
+     "fin": 50.24,
+     "p": "computadora"
+    }
+   ]
+  },
+  {
+   "ini": 50.24,
+   "fin": 56.72,
+   "texto": "con inteligencia artificial y obviamente la capacidad de obsesionarte con la frescura",
+   "palabras": [
+    {
+     "ini": 50.24,
+     "fin": 50.44,
+     "p": "con"
+    },
+    {
+     "ini": 50.44,
+     "fin": 50.74,
+     "p": "inteligencia"
+    },
+    {
+     "ini": 50.74,
+     "fin": 51.14,
+     "p": "artificial"
+    },
+    {
+     "ini": 51.14,
+     "fin": 52.38,
+     "p": "y"
+    },
+    {
+     "ini": 52.38,
+     "fin": 53.04,
+     "p": "obviamente"
+    },
+    {
+     "ini": 53.04,
+     "fin": 54.66,
+     "p": "la"
+    },
+    {
+     "ini": 54.66,
+     "fin": 55.06,
+     "p": "capacidad"
+    },
+    {
+     "ini": 55.06,
+     "fin": 55.28,
+     "p": "de"
+    },
+    {
+     "ini": 55.28,
+     "fin": 55.84,
+     "p": "obsesionarte"
+    },
+    {
+     "ini": 55.84,
+     "fin": 56.06,
+     "p": "con"
+    },
+    {
+     "ini": 56.06,
+     "fin": 56.34,
+     "p": "la"
+    },
+    {
+     "ini": 56.34,
+     "fin": 56.72,
+     "p": "frescura"
+    }
+   ]
+  },
+  {
+   "ini": 56.72,
+   "fin": 64.14,
+   "texto": "los 18 años y la idea es justamente poder enfocarse a full, poder estar con el tema de",
+   "palabras": [
+    {
+     "ini": 56.72,
+     "fin": 56.86,
+     "p": "los"
+    },
+    {
+     "ini": 56.86,
+     "fin": 57.2,
+     "p": "18"
+    },
+    {
+     "ini": 57.2,
+     "fin": 57.82,
+     "p": "años"
+    },
+    {
+     "ini": 57.82,
+     "fin": 58.58,
+     "p": "y"
+    },
+    {
+     "ini": 58.58,
+     "fin": 58.84,
+     "p": "la"
+    },
+    {
+     "ini": 58.84,
+     "fin": 59.12,
+     "p": "idea"
+    },
+    {
+     "ini": 59.12,
+     "fin": 59.58,
+     "p": "es"
+    },
+    {
+     "ini": 59.58,
+     "fin": 60.66,
+     "p": "justamente"
+    },
+    {
+     "ini": 60.66,
+     "fin": 61.32,
+     "p": "poder"
+    },
+    {
+     "ini": 61.32,
+     "fin": 61.74,
+     "p": "enfocarse"
+    },
+    {
+     "ini": 61.74,
+     "fin": 61.92,
+     "p": "a"
+    },
+    {
+     "ini": 61.92,
+     "fin": 62.1,
+     "p": "full,"
+    },
+    {
+     "ini": 62.34,
+     "fin": 62.4,
+     "p": "poder"
+    },
+    {
+     "ini": 62.4,
+     "fin": 62.92,
+     "p": "estar"
+    },
+    {
+     "ini": 62.92,
+     "fin": 63.82,
+     "p": "con"
+    },
+    {
+     "ini": 63.82,
+     "fin": 63.82,
+     "p": "el"
+    },
+    {
+     "ini": 63.82,
+     "fin": 64.02,
+     "p": "tema"
+    },
+    {
+     "ini": 64.02,
+     "fin": 64.14,
+     "p": "de"
+    }
+   ]
+  },
+  {
+   "ini": 64.14,
+   "fin": 68.18,
+   "texto": "inteligencia artificial, que es lo que hoy está haciendo que el mundo cambie.",
+   "palabras": [
+    {
+     "ini": 64.14,
+     "fin": 64.5,
+     "p": "inteligencia"
+    },
+    {
+     "ini": 64.5,
+     "fin": 64.86,
+     "p": "artificial,"
+    },
+    {
+     "ini": 65.32,
+     "fin": 65.34,
+     "p": "que"
+    },
+    {
+     "ini": 65.34,
+     "fin": 65.44,
+     "p": "es"
+    },
+    {
+     "ini": 65.44,
+     "fin": 65.58,
+     "p": "lo"
+    },
+    {
+     "ini": 65.58,
+     "fin": 65.7,
+     "p": "que"
+    },
+    {
+     "ini": 65.7,
+     "fin": 65.9,
+     "p": "hoy"
+    },
+    {
+     "ini": 65.9,
+     "fin": 66.38,
+     "p": "está"
+    },
+    {
+     "ini": 66.38,
+     "fin": 67.52,
+     "p": "haciendo"
+    },
+    {
+     "ini": 67.52,
+     "fin": 67.64,
+     "p": "que"
+    },
+    {
+     "ini": 67.64,
+     "fin": 67.74,
+     "p": "el"
+    },
+    {
+     "ini": 67.74,
+     "fin": 67.86,
+     "p": "mundo"
+    },
+    {
+     "ini": 67.86,
+     "fin": 68.18,
+     "p": "cambie."
+    }
+   ]
+  },
+  {
+   "ini": 68.22,
+   "fin": 72.4,
+   "texto": "Hay que sesionarme en una sola cosa y enfocarme solamente en aprender y en",
+   "palabras": [
+    {
+     "ini": 68.22,
+     "fin": 68.36,
+     "p": "Hay"
+    },
+    {
+     "ini": 68.36,
+     "fin": 68.38,
+     "p": "que"
+    },
+    {
+     "ini": 68.38,
+     "fin": 69.06,
+     "p": "sesionarme"
+    },
+    {
+     "ini": 69.06,
+     "fin": 69.18,
+     "p": "en"
+    },
+    {
+     "ini": 69.18,
+     "fin": 69.3,
+     "p": "una"
+    },
+    {
+     "ini": 69.3,
+     "fin": 69.46,
+     "p": "sola"
+    },
+    {
+     "ini": 69.46,
+     "fin": 69.88,
+     "p": "cosa"
+    },
+    {
+     "ini": 69.88,
+     "fin": 70.64,
+     "p": "y"
+    },
+    {
+     "ini": 70.64,
+     "fin": 71.0,
+     "p": "enfocarme"
+    },
+    {
+     "ini": 71.0,
+     "fin": 71.34,
+     "p": "solamente"
+    },
+    {
+     "ini": 71.34,
+     "fin": 71.5,
+     "p": "en"
+    },
+    {
+     "ini": 71.5,
+     "fin": 71.9,
+     "p": "aprender"
+    },
+    {
+     "ini": 71.9,
+     "fin": 72.14,
+     "p": "y"
+    },
+    {
+     "ini": 72.14,
+     "fin": 72.4,
+     "p": "en"
+    }
+   ]
+  },
+  {
+   "ini": 72.4,
+   "fin": 76.64,
+   "texto": "estudiar lo máximo posible. Estudiar, estudiar, adquirir experiencia, conocimiento.",
+   "palabras": [
+    {
+     "ini": 72.4,
+     "fin": 72.5,
+     "p": "estudiar"
+    },
+    {
+     "ini": 72.5,
+     "fin": 72.64,
+     "p": "lo"
+    },
+    {
+     "ini": 72.64,
+     "fin": 72.86,
+     "p": "máximo"
+    },
+    {
+     "ini": 72.86,
+     "fin": 73.34,
+     "p": "posible."
+    },
+    {
+     "ini": 73.64,
+     "fin": 74.04,
+     "p": "Estudiar,"
+    },
+    {
+     "ini": 74.1,
+     "fin": 74.46,
+     "p": "estudiar,"
+    },
+    {
+     "ini": 74.62,
+     "fin": 75.14,
+     "p": "adquirir"
+    },
+    {
+     "ini": 75.14,
+     "fin": 75.66,
+     "p": "experiencia,"
+    },
+    {
+     "ini": 75.82,
+     "fin": 76.64,
+     "p": "conocimiento."
+    }
+   ]
+  },
+  {
+   "ini": 77.04,
+   "fin": 81.8,
+   "texto": "Con curiosidad, ser autodidacta funciona, pero sin curiosidad, sin",
+   "palabras": [
+    {
+     "ini": 77.04,
+     "fin": 77.18,
+     "p": "Con"
+    },
+    {
+     "ini": 77.18,
+     "fin": 78.02,
+     "p": "curiosidad,"
+    },
+    {
+     "ini": 78.3,
+     "fin": 78.6,
+     "p": "ser"
+    },
+    {
+     "ini": 78.6,
+     "fin": 79.3,
+     "p": "autodidacta"
+    },
+    {
+     "ini": 79.3,
+     "fin": 79.7,
+     "p": "funciona,"
+    },
+    {
+     "ini": 79.78,
+     "fin": 80.04,
+     "p": "pero"
+    },
+    {
+     "ini": 80.04,
+     "fin": 80.3,
+     "p": "sin"
+    },
+    {
+     "ini": 80.3,
+     "fin": 81.12,
+     "p": "curiosidad,"
+    },
+    {
+     "ini": 81.52,
+     "fin": 81.8,
+     "p": "sin"
+    }
+   ]
+  },
+  {
+   "ini": 81.8,
+   "fin": 86.26,
+   "texto": "mantener el bichito vivo de estar despierto y preguntar por todo, todo",
+   "palabras": [
+    {
+     "ini": 81.8,
+     "fin": 82.22,
+     "p": "mantener"
+    },
+    {
+     "ini": 82.22,
+     "fin": 82.42,
+     "p": "el"
+    },
+    {
+     "ini": 82.42,
+     "fin": 82.74,
+     "p": "bichito"
+    },
+    {
+     "ini": 82.74,
+     "fin": 82.98,
+     "p": "vivo"
+    },
+    {
+     "ini": 82.98,
+     "fin": 83.74,
+     "p": "de"
+    },
+    {
+     "ini": 83.74,
+     "fin": 83.98,
+     "p": "estar"
+    },
+    {
+     "ini": 83.98,
+     "fin": 84.48,
+     "p": "despierto"
+    },
+    {
+     "ini": 84.48,
+     "fin": 84.74,
+     "p": "y"
+    },
+    {
+     "ini": 84.74,
+     "fin": 85.62,
+     "p": "preguntar"
+    },
+    {
+     "ini": 85.62,
+     "fin": 85.94,
+     "p": "por"
+    },
+    {
+     "ini": 85.94,
+     "fin": 86.1,
+     "p": "todo,"
+    },
+    {
+     "ini": 86.1,
+     "fin": 86.26,
+     "p": "todo"
+    }
+   ]
+  },
+  {
+   "ini": 86.26,
+   "fin": 88.88,
+   "texto": "pero si te quieres de todo lo que no entiendas, hay que preguntar.",
+   "palabras": [
+    {
+     "ini": 86.26,
+     "fin": 86.26,
+     "p": "pero"
+    },
+    {
+     "ini": 86.26,
+     "fin": 86.42,
+     "p": "si"
+    },
+    {
+     "ini": 86.42,
+     "fin": 86.56,
+     "p": "te"
+    },
+    {
+     "ini": 86.56,
+     "fin": 86.66,
+     "p": "quieres"
+    },
+    {
+     "ini": 86.66,
+     "fin": 86.76,
+     "p": "de"
+    },
+    {
+     "ini": 86.76,
+     "fin": 86.84,
+     "p": "todo"
+    },
+    {
+     "ini": 86.84,
+     "fin": 86.94,
+     "p": "lo"
+    },
+    {
+     "ini": 86.94,
+     "fin": 86.94,
+     "p": "que"
+    },
+    {
+     "ini": 86.94,
+     "fin": 87.16,
+     "p": "no"
+    },
+    {
+     "ini": 87.16,
+     "fin": 87.76,
+     "p": "entiendas,"
+    },
+    {
+     "ini": 87.92,
+     "fin": 87.98,
+     "p": "hay"
+    },
+    {
+     "ini": 87.98,
+     "fin": 88.14,
+     "p": "que"
+    },
+    {
+     "ini": 88.14,
+     "fin": 88.88,
+     "p": "preguntar."
+    }
+   ]
+  },
+  {
+   "ini": 91.48,
+   "fin": 95.46,
+   "texto": "Si tuviera que contratar un pibe sin experiencia, ¿qué le miras?",
+   "palabras": [
+    {
+     "ini": 91.48,
+     "fin": 91.92,
+     "p": "Si"
+    },
+    {
+     "ini": 91.92,
+     "fin": 92.28,
+     "p": "tuviera"
+    },
+    {
+     "ini": 92.28,
+     "fin": 92.52,
+     "p": "que"
+    },
+    {
+     "ini": 92.52,
+     "fin": 92.9,
+     "p": "contratar"
+    },
+    {
+     "ini": 92.9,
+     "fin": 93.2,
+     "p": "un"
+    },
+    {
+     "ini": 93.2,
+     "fin": 93.76,
+     "p": "pibe"
+    },
+    {
+     "ini": 93.76,
+     "fin": 94.06,
+     "p": "sin"
+    },
+    {
+     "ini": 94.06,
+     "fin": 94.6,
+     "p": "experiencia,"
+    },
+    {
+     "ini": 94.82,
+     "fin": 94.88,
+     "p": "¿qué"
+    },
+    {
+     "ini": 94.88,
+     "fin": 95.06,
+     "p": "le"
+    },
+    {
+     "ini": 95.06,
+     "fin": 95.46,
+     "p": "miras?"
+    }
+   ]
+  },
+  {
+   "ini": 96.34,
+   "fin": 99.06,
+   "texto": "Yo he tenido experiencia con tratar gente sin experiencia,",
+   "palabras": [
+    {
+     "ini": 96.34,
+     "fin": 96.78,
+     "p": "Yo"
+    },
+    {
+     "ini": 96.78,
+     "fin": 97.22,
+     "p": "he"
+    },
+    {
+     "ini": 97.22,
+     "fin": 97.4,
+     "p": "tenido"
+    },
+    {
+     "ini": 97.4,
+     "fin": 97.76,
+     "p": "experiencia"
+    },
+    {
+     "ini": 97.76,
+     "fin": 97.96,
+     "p": "con"
+    },
+    {
+     "ini": 97.96,
+     "fin": 98.14,
+     "p": "tratar"
+    },
+    {
+     "ini": 98.14,
+     "fin": 98.38,
+     "p": "gente"
+    },
+    {
+     "ini": 98.38,
+     "fin": 98.58,
+     "p": "sin"
+    },
+    {
+     "ini": 98.58,
+     "fin": 99.06,
+     "p": "experiencia,"
+    }
+   ]
+  },
+  {
+   "ini": 99.24,
+   "fin": 105.04,
+   "texto": "no veo fotos, no veo presentación, lo que veo es actitud,",
+   "palabras": [
+    {
+     "ini": 99.24,
+     "fin": 99.46,
+     "p": "no"
+    },
+    {
+     "ini": 99.46,
+     "fin": 100.28,
+     "p": "veo"
+    },
+    {
+     "ini": 100.28,
+     "fin": 100.82,
+     "p": "fotos,"
+    },
+    {
+     "ini": 101.1,
+     "fin": 101.16,
+     "p": "no"
+    },
+    {
+     "ini": 101.16,
+     "fin": 101.9,
+     "p": "veo"
+    },
+    {
+     "ini": 101.9,
+     "fin": 102.74,
+     "p": "presentación,"
+    },
+    {
+     "ini": 102.98,
+     "fin": 103.1,
+     "p": "lo"
+    },
+    {
+     "ini": 103.1,
+     "fin": 103.24,
+     "p": "que"
+    },
+    {
+     "ini": 103.24,
+     "fin": 103.42,
+     "p": "veo"
+    },
+    {
+     "ini": 103.42,
+     "fin": 104.52,
+     "p": "es"
+    },
+    {
+     "ini": 104.52,
+     "fin": 105.04,
+     "p": "actitud,"
+    }
+   ]
+  },
+  {
+   "ini": 105.1,
+   "fin": 108.3,
+   "texto": "lo que no se puede aprender es la actitud, la curiosidad, lo que hablamos antes,",
+   "palabras": [
+    {
+     "ini": 105.1,
+     "fin": 105.24,
+     "p": "lo"
+    },
+    {
+     "ini": 105.24,
+     "fin": 105.34,
+     "p": "que"
+    },
+    {
+     "ini": 105.34,
+     "fin": 105.52,
+     "p": "no"
+    },
+    {
+     "ini": 105.52,
+     "fin": 105.68,
+     "p": "se"
+    },
+    {
+     "ini": 105.68,
+     "fin": 105.82,
+     "p": "puede"
+    },
+    {
+     "ini": 105.82,
+     "fin": 106.22,
+     "p": "aprender"
+    },
+    {
+     "ini": 106.22,
+     "fin": 106.44,
+     "p": "es"
+    },
+    {
+     "ini": 106.44,
+     "fin": 106.62,
+     "p": "la"
+    },
+    {
+     "ini": 106.62,
+     "fin": 106.82,
+     "p": "actitud,"
+    },
+    {
+     "ini": 106.9,
+     "fin": 107.04,
+     "p": "la"
+    },
+    {
+     "ini": 107.04,
+     "fin": 107.46,
+     "p": "curiosidad,"
+    },
+    {
+     "ini": 107.58,
+     "fin": 107.6,
+     "p": "lo"
+    },
+    {
+     "ini": 107.6,
+     "fin": 107.68,
+     "p": "que"
+    },
+    {
+     "ini": 107.68,
+     "fin": 107.92,
+     "p": "hablamos"
+    },
+    {
+     "ini": 107.92,
+     "fin": 108.3,
+     "p": "antes,"
+    }
+   ]
+  },
+  {
+   "ini": 108.7,
+   "fin": 111.4,
+   "texto": "tener la capacidad de estar despierto, continuamente aprendiendo.",
+   "palabras": [
+    {
+     "ini": 108.7,
+     "fin": 108.96,
+     "p": "tener"
+    },
+    {
+     "ini": 108.96,
+     "fin": 109.16,
+     "p": "la"
+    },
+    {
+     "ini": 109.16,
+     "fin": 109.5,
+     "p": "capacidad"
+    },
+    {
+     "ini": 109.5,
+     "fin": 109.6,
+     "p": "de"
+    },
+    {
+     "ini": 109.6,
+     "fin": 109.78,
+     "p": "estar"
+    },
+    {
+     "ini": 109.78,
+     "fin": 110.26,
+     "p": "despierto,"
+    },
+    {
+     "ini": 110.46,
+     "fin": 110.76,
+     "p": "continuamente"
+    },
+    {
+     "ini": 110.76,
+     "fin": 111.4,
+     "p": "aprendiendo."
+    }
+   ]
+  },
+  {
+   "ini": 111.76,
+   "fin": 113.78,
+   "texto": "Y una capacidad que estoy valorando mucho últimamente",
+   "palabras": [
+    {
+     "ini": 111.76,
+     "fin": 111.82,
+     "p": "Y"
+    },
+    {
+     "ini": 111.82,
+     "fin": 111.96,
+     "p": "una"
+    },
+    {
+     "ini": 111.96,
+     "fin": 112.28,
+     "p": "capacidad"
+    },
+    {
+     "ini": 112.28,
+     "fin": 112.42,
+     "p": "que"
+    },
+    {
+     "ini": 112.42,
+     "fin": 112.66,
+     "p": "estoy"
+    },
+    {
+     "ini": 112.66,
+     "fin": 113.12,
+     "p": "valorando"
+    },
+    {
+     "ini": 113.12,
+     "fin": 113.3,
+     "p": "mucho"
+    },
+    {
+     "ini": 113.3,
+     "fin": 113.78,
+     "p": "últimamente"
+    }
+   ]
+  },
+  {
+   "ini": 113.78,
+   "fin": 118.64,
+   "texto": "es la capacidad de ordenarse la disciplina. A los 18 lo único que sabía hacer era mover",
+   "palabras": [
+    {
+     "ini": 113.78,
+     "fin": 113.86,
+     "p": "es"
+    },
+    {
+     "ini": 113.86,
+     "fin": 114.28,
+     "p": "la"
+    },
+    {
+     "ini": 114.28,
+     "fin": 114.72,
+     "p": "capacidad"
+    },
+    {
+     "ini": 114.72,
+     "fin": 115.0,
+     "p": "de"
+    },
+    {
+     "ini": 115.0,
+     "fin": 115.52,
+     "p": "ordenarse"
+    },
+    {
+     "ini": 115.52,
+     "fin": 115.7,
+     "p": "la"
+    },
+    {
+     "ini": 115.7,
+     "fin": 116.86,
+     "p": "disciplina."
+    },
+    {
+     "ini": 117.02,
+     "fin": 117.24,
+     "p": "A"
+    },
+    {
+     "ini": 117.24,
+     "fin": 117.38,
+     "p": "los"
+    },
+    {
+     "ini": 117.38,
+     "fin": 117.64,
+     "p": "18"
+    },
+    {
+     "ini": 117.64,
+     "fin": 117.78,
+     "p": "lo"
+    },
+    {
+     "ini": 117.78,
+     "fin": 117.92,
+     "p": "único"
+    },
+    {
+     "ini": 117.92,
+     "fin": 118.04,
+     "p": "que"
+    },
+    {
+     "ini": 118.04,
+     "fin": 118.22,
+     "p": "sabía"
+    },
+    {
+     "ini": 118.22,
+     "fin": 118.34,
+     "p": "hacer"
+    },
+    {
+     "ini": 118.34,
+     "fin": 118.52,
+     "p": "era"
+    },
+    {
+     "ini": 118.52,
+     "fin": 118.64,
+     "p": "mover"
+    }
+   ]
+  },
+  {
+   "ini": 118.64,
+   "fin": 123.88,
+   "texto": "el mago para jugar, mover los dedos rápido. La curiosidad fue la que me permitió ir",
+   "palabras": [
+    {
+     "ini": 118.64,
+     "fin": 118.76,
+     "p": "el"
+    },
+    {
+     "ini": 118.76,
+     "fin": 118.86,
+     "p": "mago"
+    },
+    {
+     "ini": 118.86,
+     "fin": 119.02,
+     "p": "para"
+    },
+    {
+     "ini": 119.02,
+     "fin": 119.4,
+     "p": "jugar,"
+    },
+    {
+     "ini": 120.2,
+     "fin": 120.3,
+     "p": "mover"
+    },
+    {
+     "ini": 120.3,
+     "fin": 120.9,
+     "p": "los"
+    },
+    {
+     "ini": 120.9,
+     "fin": 121.14,
+     "p": "dedos"
+    },
+    {
+     "ini": 121.14,
+     "fin": 121.56,
+     "p": "rápido."
+    },
+    {
+     "ini": 122.28,
+     "fin": 122.36,
+     "p": "La"
+    },
+    {
+     "ini": 122.36,
+     "fin": 123.0,
+     "p": "curiosidad"
+    },
+    {
+     "ini": 123.0,
+     "fin": 123.18,
+     "p": "fue"
+    },
+    {
+     "ini": 123.18,
+     "fin": 123.3,
+     "p": "la"
+    },
+    {
+     "ini": 123.3,
+     "fin": 123.44,
+     "p": "que"
+    },
+    {
+     "ini": 123.44,
+     "fin": 123.5,
+     "p": "me"
+    },
+    {
+     "ini": 123.5,
+     "fin": 123.72,
+     "p": "permitió"
+    },
+    {
+     "ini": 123.72,
+     "fin": 123.88,
+     "p": "ir"
+    }
+   ]
+  },
+  {
+   "ini": 123.88,
+   "fin": 127.74,
+   "texto": "adelante y la anécdota del ser autodidacta. Hoy tengo un amigo que todavía me lo recuerda,",
+   "palabras": [
+    {
+     "ini": 123.88,
+     "fin": 124.18,
+     "p": "adelante"
+    },
+    {
+     "ini": 124.18,
+     "fin": 124.58,
+     "p": "y"
+    },
+    {
+     "ini": 124.58,
+     "fin": 124.7,
+     "p": "la"
+    },
+    {
+     "ini": 124.7,
+     "fin": 124.98,
+     "p": "anécdota"
+    },
+    {
+     "ini": 124.98,
+     "fin": 125.32,
+     "p": "del"
+    },
+    {
+     "ini": 125.32,
+     "fin": 125.62,
+     "p": "ser"
+    },
+    {
+     "ini": 125.62,
+     "fin": 126.2,
+     "p": "autodidacta."
+    },
+    {
+     "ini": 126.26,
+     "fin": 126.44,
+     "p": "Hoy"
+    },
+    {
+     "ini": 126.44,
+     "fin": 126.62,
+     "p": "tengo"
+    },
+    {
+     "ini": 126.62,
+     "fin": 126.76,
+     "p": "un"
+    },
+    {
+     "ini": 126.76,
+     "fin": 126.88,
+     "p": "amigo"
+    },
+    {
+     "ini": 126.88,
+     "fin": 127.02,
+     "p": "que"
+    },
+    {
+     "ini": 127.02,
+     "fin": 127.16,
+     "p": "todavía"
+    },
+    {
+     "ini": 127.16,
+     "fin": 127.3,
+     "p": "me"
+    },
+    {
+     "ini": 127.3,
+     "fin": 127.5,
+     "p": "lo"
+    },
+    {
+     "ini": 127.5,
+     "fin": 127.74,
+     "p": "recuerda,"
+    }
+   ]
+  },
+  {
+   "ini": 127.78,
+   "fin": 133.04,
+   "texto": "todavía me dice, dice, no, vos en el curriculum cuando te contrate decías que eras autodidacta,",
+   "palabras": [
+    {
+     "ini": 127.78,
+     "fin": 127.94,
+     "p": "todavía"
+    },
+    {
+     "ini": 127.94,
+     "fin": 128.08,
+     "p": "me"
+    },
+    {
+     "ini": 128.08,
+     "fin": 128.14,
+     "p": "dice,"
+    },
+    {
+     "ini": 128.22,
+     "fin": 128.34,
+     "p": "dice,"
+    },
+    {
+     "ini": 128.68,
+     "fin": 128.78,
+     "p": "no,"
+    },
+    {
+     "ini": 128.92,
+     "fin": 129.04,
+     "p": "vos"
+    },
+    {
+     "ini": 129.04,
+     "fin": 129.2,
+     "p": "en"
+    },
+    {
+     "ini": 129.2,
+     "fin": 129.36,
+     "p": "el"
+    },
+    {
+     "ini": 129.36,
+     "fin": 129.76,
+     "p": "curriculum"
+    },
+    {
+     "ini": 129.76,
+     "fin": 130.38,
+     "p": "cuando"
+    },
+    {
+     "ini": 130.38,
+     "fin": 130.62,
+     "p": "te"
+    },
+    {
+     "ini": 130.62,
+     "fin": 131.26,
+     "p": "contrate"
+    },
+    {
+     "ini": 131.26,
+     "fin": 131.92,
+     "p": "decías"
+    },
+    {
+     "ini": 131.92,
+     "fin": 132.08,
+     "p": "que"
+    },
+    {
+     "ini": 132.08,
+     "fin": 132.26,
+     "p": "eras"
+    },
+    {
+     "ini": 132.26,
+     "fin": 133.04,
+     "p": "autodidacta,"
+    }
+   ]
+  },
+  {
+   "ini": 133.16,
+   "fin": 139.04,
+   "texto": "sos un caradura. En ese momento en el 2014 no se hablaba de eso, se hablaba de ser autodidacta.",
+   "palabras": [
+    {
+     "ini": 133.16,
+     "fin": 133.28,
+     "p": "sos"
+    },
+    {
+     "ini": 133.28,
+     "fin": 133.48,
+     "p": "un"
+    },
+    {
+     "ini": 133.48,
+     "fin": 133.88,
+     "p": "caradura."
+    },
+    {
+     "ini": 134.28,
+     "fin": 134.42,
+     "p": "En"
+    },
+    {
+     "ini": 134.42,
+     "fin": 134.54,
+     "p": "ese"
+    },
+    {
+     "ini": 134.54,
+     "fin": 134.94,
+     "p": "momento"
+    },
+    {
+     "ini": 134.94,
+     "fin": 135.34,
+     "p": "en"
+    },
+    {
+     "ini": 135.34,
+     "fin": 135.54,
+     "p": "el"
+    },
+    {
+     "ini": 135.54,
+     "fin": 136.3,
+     "p": "2014"
+    },
+    {
+     "ini": 136.3,
+     "fin": 136.52,
+     "p": "no"
+    },
+    {
+     "ini": 136.52,
+     "fin": 136.66,
+     "p": "se"
+    },
+    {
+     "ini": 136.66,
+     "fin": 137.0,
+     "p": "hablaba"
+    },
+    {
+     "ini": 137.0,
+     "fin": 137.16,
+     "p": "de"
+    },
+    {
+     "ini": 137.16,
+     "fin": 137.26,
+     "p": "eso,"
+    },
+    {
+     "ini": 137.28,
+     "fin": 137.42,
+     "p": "se"
+    },
+    {
+     "ini": 137.42,
+     "fin": 137.6,
+     "p": "hablaba"
+    },
+    {
+     "ini": 137.6,
+     "fin": 137.8,
+     "p": "de"
+    },
+    {
+     "ini": 137.8,
+     "fin": 138.12,
+     "p": "ser"
+    },
+    {
+     "ini": 138.12,
+     "fin": 139.04,
+     "p": "autodidacta."
+    }
+   ]
+  },
+  {
+   "ini": 139.56,
+   "fin": 143.0,
+   "texto": "Yo era un loco que decía, no che, yo aprendo solo. Pero esa capacidad de aprender solo",
+   "palabras": [
+    {
+     "ini": 139.56,
+     "fin": 139.7,
+     "p": "Yo"
+    },
+    {
+     "ini": 139.7,
+     "fin": 139.8,
+     "p": "era"
+    },
+    {
+     "ini": 139.8,
+     "fin": 139.94,
+     "p": "un"
+    },
+    {
+     "ini": 139.94,
+     "fin": 140.14,
+     "p": "loco"
+    },
+    {
+     "ini": 140.14,
+     "fin": 140.34,
+     "p": "que"
+    },
+    {
+     "ini": 140.34,
+     "fin": 140.48,
+     "p": "decía,"
+    },
+    {
+     "ini": 140.58,
+     "fin": 140.68,
+     "p": "no"
+    },
+    {
+     "ini": 140.68,
+     "fin": 140.86,
+     "p": "che,"
+    },
+    {
+     "ini": 140.9,
+     "fin": 141.04,
+     "p": "yo"
+    },
+    {
+     "ini": 141.04,
+     "fin": 141.34,
+     "p": "aprendo"
+    },
+    {
+     "ini": 141.34,
+     "fin": 141.6,
+     "p": "solo."
+    },
+    {
+     "ini": 142.04,
+     "fin": 142.14,
+     "p": "Pero"
+    },
+    {
+     "ini": 142.14,
+     "fin": 142.24,
+     "p": "esa"
+    },
+    {
+     "ini": 142.24,
+     "fin": 142.58,
+     "p": "capacidad"
+    },
+    {
+     "ini": 142.58,
+     "fin": 142.78,
+     "p": "de"
+    },
+    {
+     "ini": 142.78,
+     "fin": 142.82,
+     "p": "aprender"
+    },
+    {
+     "ini": 142.82,
+     "fin": 143.0,
+     "p": "solo"
+    }
+   ]
+  },
+  {
+   "ini": 143.0,
+   "fin": 148.76,
+   "texto": "es porque le hunto y con el tiempo de fiar, o sea, esa fue como mi naturaleza de estar",
+   "palabras": [
+    {
+     "ini": 143.0,
+     "fin": 143.06,
+     "p": "es"
+    },
+    {
+     "ini": 143.06,
+     "fin": 143.38,
+     "p": "porque"
+    },
+    {
+     "ini": 143.38,
+     "fin": 143.8,
+     "p": "le"
+    },
+    {
+     "ini": 143.8,
+     "fin": 144.1,
+     "p": "hunto"
+    },
+    {
+     "ini": 144.1,
+     "fin": 144.24,
+     "p": "y"
+    },
+    {
+     "ini": 144.24,
+     "fin": 144.32,
+     "p": "con"
+    },
+    {
+     "ini": 144.32,
+     "fin": 144.42,
+     "p": "el"
+    },
+    {
+     "ini": 144.42,
+     "fin": 144.58,
+     "p": "tiempo"
+    },
+    {
+     "ini": 144.58,
+     "fin": 144.74,
+     "p": "de"
+    },
+    {
+     "ini": 144.74,
+     "fin": 145.0,
+     "p": "fiar,"
+    },
+    {
+     "ini": 145.12,
+     "fin": 145.18,
+     "p": "o"
+    },
+    {
+     "ini": 145.18,
+     "fin": 145.8,
+     "p": "sea,"
+    },
+    {
+     "ini": 145.96,
+     "fin": 146.16,
+     "p": "esa"
+    },
+    {
+     "ini": 146.16,
+     "fin": 146.32,
+     "p": "fue"
+    },
+    {
+     "ini": 146.32,
+     "fin": 146.54,
+     "p": "como"
+    },
+    {
+     "ini": 146.54,
+     "fin": 146.82,
+     "p": "mi"
+    },
+    {
+     "ini": 146.82,
+     "fin": 147.48,
+     "p": "naturaleza"
+    },
+    {
+     "ini": 147.48,
+     "fin": 148.4,
+     "p": "de"
+    },
+    {
+     "ini": 148.4,
+     "fin": 148.76,
+     "p": "estar"
+    }
+   ]
+  },
+  {
+   "ini": 148.76,
+   "fin": 153.54,
+   "texto": "atento a ver qué pasaba porque tenía hambre y ganas de salir adelante y bueno, eso es",
+   "palabras": [
+    {
+     "ini": 148.76,
+     "fin": 149.46,
+     "p": "atento"
+    },
+    {
+     "ini": 149.46,
+     "fin": 149.52,
+     "p": "a"
+    },
+    {
+     "ini": 149.52,
+     "fin": 149.7,
+     "p": "ver"
+    },
+    {
+     "ini": 149.7,
+     "fin": 149.9,
+     "p": "qué"
+    },
+    {
+     "ini": 149.9,
+     "fin": 150.24,
+     "p": "pasaba"
+    },
+    {
+     "ini": 150.24,
+     "fin": 150.54,
+     "p": "porque"
+    },
+    {
+     "ini": 150.54,
+     "fin": 150.96,
+     "p": "tenía"
+    },
+    {
+     "ini": 150.96,
+     "fin": 151.64,
+     "p": "hambre"
+    },
+    {
+     "ini": 151.64,
+     "fin": 151.9,
+     "p": "y"
+    },
+    {
+     "ini": 151.9,
+     "fin": 152.14,
+     "p": "ganas"
+    },
+    {
+     "ini": 152.14,
+     "fin": 152.22,
+     "p": "de"
+    },
+    {
+     "ini": 152.22,
+     "fin": 152.38,
+     "p": "salir"
+    },
+    {
+     "ini": 152.38,
+     "fin": 152.66,
+     "p": "adelante"
+    },
+    {
+     "ini": 152.66,
+     "fin": 152.86,
+     "p": "y"
+    },
+    {
+     "ini": 152.86,
+     "fin": 153.2,
+     "p": "bueno,"
+    },
+    {
+     "ini": 153.42,
+     "fin": 153.48,
+     "p": "eso"
+    },
+    {
+     "ini": 153.48,
+     "fin": 153.54,
+     "p": "es"
+    }
+   ]
+  },
+  {
+   "ini": 153.54,
+   "fin": 155.72,
+   "texto": "lo que más valora a los chicos hoy en la empresa.",
+   "palabras": [
+    {
+     "ini": 153.54,
+     "fin": 153.64,
+     "p": "lo"
+    },
+    {
+     "ini": 153.64,
+     "fin": 153.74,
+     "p": "que"
+    },
+    {
+     "ini": 153.74,
+     "fin": 153.88,
+     "p": "más"
+    },
+    {
+     "ini": 153.88,
+     "fin": 154.2,
+     "p": "valora"
+    },
+    {
+     "ini": 154.2,
+     "fin": 154.3,
+     "p": "a"
+    },
+    {
+     "ini": 154.3,
+     "fin": 154.38,
+     "p": "los"
+    },
+    {
+     "ini": 154.38,
+     "fin": 154.54,
+     "p": "chicos"
+    },
+    {
+     "ini": 154.54,
+     "fin": 154.74,
+     "p": "hoy"
+    },
+    {
+     "ini": 154.74,
+     "fin": 154.84,
+     "p": "en"
+    },
+    {
+     "ini": 154.84,
+     "fin": 154.9,
+     "p": "la"
+    },
+    {
+     "ini": 154.9,
+     "fin": 155.72,
+     "p": "empresa."
+    }
+   ]
+  },
+  {
+   "ini": 155.86,
+   "fin": 158.68,
+   "texto": "Yo sé si querés hablar algo de finanzas, de...",
+   "palabras": [
+    {
+     "ini": 155.86,
+     "fin": 156.02,
+     "p": "Yo"
+    },
+    {
+     "ini": 156.02,
+     "fin": 156.08,
+     "p": "sé"
+    },
+    {
+     "ini": 156.08,
+     "fin": 156.2,
+     "p": "si"
+    },
+    {
+     "ini": 156.2,
+     "fin": 156.38,
+     "p": "querés"
+    },
+    {
+     "ini": 156.38,
+     "fin": 156.66,
+     "p": "hablar"
+    },
+    {
+     "ini": 156.66,
+     "fin": 157.06,
+     "p": "algo"
+    },
+    {
+     "ini": 157.06,
+     "fin": 157.3,
+     "p": "de"
+    },
+    {
+     "ini": 157.3,
+     "fin": 158.24,
+     "p": "finanzas,"
+    },
+    {
+     "ini": 158.68,
+     "fin": 158.68,
+     "p": "de..."
+    }
+   ]
+  },
+  {
+   "ini": 158.68,
+   "fin": 163.6,
+   "texto": "Ahí siempre cuento una anécdota que es la de Warren Buffett, fue uno de los inversores",
+   "palabras": [
+    {
+     "ini": 158.68,
+     "fin": 158.94,
+     "p": "Ahí"
+    },
+    {
+     "ini": 158.94,
+     "fin": 159.14,
+     "p": "siempre"
+    },
+    {
+     "ini": 159.14,
+     "fin": 159.32,
+     "p": "cuento"
+    },
+    {
+     "ini": 159.32,
+     "fin": 159.44,
+     "p": "una"
+    },
+    {
+     "ini": 159.44,
+     "fin": 159.66,
+     "p": "anécdota"
+    },
+    {
+     "ini": 159.66,
+     "fin": 159.78,
+     "p": "que"
+    },
+    {
+     "ini": 159.78,
+     "fin": 159.84,
+     "p": "es"
+    },
+    {
+     "ini": 159.84,
+     "fin": 159.98,
+     "p": "la"
+    },
+    {
+     "ini": 159.98,
+     "fin": 160.1,
+     "p": "de"
+    },
+    {
+     "ini": 160.1,
+     "fin": 160.28,
+     "p": "Warren"
+    },
+    {
+     "ini": 160.28,
+     "fin": 160.86,
+     "p": "Buffett,"
+    },
+    {
+     "ini": 161.18,
+     "fin": 161.82,
+     "p": "fue"
+    },
+    {
+     "ini": 161.82,
+     "fin": 162.34,
+     "p": "uno"
+    },
+    {
+     "ini": 162.34,
+     "fin": 162.38,
+     "p": "de"
+    },
+    {
+     "ini": 162.38,
+     "fin": 162.54,
+     "p": "los"
+    },
+    {
+     "ini": 162.54,
+     "fin": 163.6,
+     "p": "inversores"
+    }
+   ]
+  },
+  {
+   "ini": 163.6,
+   "fin": 166.32,
+   "texto": "más ricos del planeta y sigue siendo uno de los inversores más ricos del planeta",
+   "palabras": [
+    {
+     "ini": 163.6,
+     "fin": 163.98,
+     "p": "más"
+    },
+    {
+     "ini": 163.98,
+     "fin": 164.18,
+     "p": "ricos"
+    },
+    {
+     "ini": 164.18,
+     "fin": 164.34,
+     "p": "del"
+    },
+    {
+     "ini": 164.34,
+     "fin": 164.5,
+     "p": "planeta"
+    },
+    {
+     "ini": 164.5,
+     "fin": 164.68,
+     "p": "y"
+    },
+    {
+     "ini": 164.68,
+     "fin": 164.78,
+     "p": "sigue"
+    },
+    {
+     "ini": 164.78,
+     "fin": 165.02,
+     "p": "siendo"
+    },
+    {
+     "ini": 165.02,
+     "fin": 165.18,
+     "p": "uno"
+    },
+    {
+     "ini": 165.18,
+     "fin": 165.18,
+     "p": "de"
+    },
+    {
+     "ini": 165.18,
+     "fin": 165.3,
+     "p": "los"
+    },
+    {
+     "ini": 165.3,
+     "fin": 165.62,
+     "p": "inversores"
+    },
+    {
+     "ini": 165.62,
+     "fin": 165.78,
+     "p": "más"
+    },
+    {
+     "ini": 165.78,
+     "fin": 165.9,
+     "p": "ricos"
+    },
+    {
+     "ini": 165.9,
+     "fin": 166.06,
+     "p": "del"
+    },
+    {
+     "ini": 166.06,
+     "fin": 166.32,
+     "p": "planeta"
+    }
+   ]
+  },
+  {
+   "ini": 166.32,
+   "fin": 169.3,
+   "texto": "y él lo logró por haber arrancado temprano, o sea no lo logró por...",
+   "palabras": [
+    {
+     "ini": 166.32,
+     "fin": 166.66,
+     "p": "y"
+    },
+    {
+     "ini": 166.66,
+     "fin": 166.9,
+     "p": "él"
+    },
+    {
+     "ini": 166.9,
+     "fin": 167.06,
+     "p": "lo"
+    },
+    {
+     "ini": 167.06,
+     "fin": 167.26,
+     "p": "logró"
+    },
+    {
+     "ini": 167.26,
+     "fin": 167.42,
+     "p": "por"
+    },
+    {
+     "ini": 167.42,
+     "fin": 167.62,
+     "p": "haber"
+    },
+    {
+     "ini": 167.62,
+     "fin": 167.98,
+     "p": "arrancado"
+    },
+    {
+     "ini": 167.98,
+     "fin": 168.7,
+     "p": "temprano,"
+    },
+    {
+     "ini": 168.72,
+     "fin": 168.92,
+     "p": "o"
+    },
+    {
+     "ini": 168.92,
+     "fin": 168.92,
+     "p": "sea"
+    },
+    {
+     "ini": 168.92,
+     "fin": 169.04,
+     "p": "no"
+    },
+    {
+     "ini": 169.04,
+     "fin": 169.16,
+     "p": "lo"
+    },
+    {
+     "ini": 169.16,
+     "fin": 169.28,
+     "p": "logró"
+    },
+    {
+     "ini": 169.28,
+     "fin": 169.3,
+     "p": "por..."
+    }
+   ]
+  },
+  {
+   "ini": 169.3,
+   "fin": 170.3,
+   "texto": "Por el interés compuesto.",
+   "palabras": [
+    {
+     "ini": 169.3,
+     "fin": 169.3,
+     "p": "Por"
+    },
+    {
+     "ini": 169.3,
+     "fin": 169.38,
+     "p": "el"
+    },
+    {
+     "ini": 169.38,
+     "fin": 169.54,
+     "p": "interés"
+    },
+    {
+     "ini": 169.54,
+     "fin": 170.3,
+     "p": "compuesto."
+    }
+   ]
+  },
+  {
+   "ini": 170.3,
+   "fin": 171.8,
+   "texto": "por el poder de interés compuesto.",
+   "palabras": [
+    {
+     "ini": 170.3,
+     "fin": 170.74,
+     "p": "por"
+    },
+    {
+     "ini": 170.74,
+     "fin": 170.9,
+     "p": "el"
+    },
+    {
+     "ini": 170.9,
+     "fin": 171.08,
+     "p": "poder"
+    },
+    {
+     "ini": 171.08,
+     "fin": 171.26,
+     "p": "de"
+    },
+    {
+     "ini": 171.26,
+     "fin": 171.44,
+     "p": "interés"
+    },
+    {
+     "ini": 171.44,
+     "fin": 171.8,
+     "p": "compuesto."
+    }
+   ]
+  },
+  {
+   "ini": 171.84,
+   "fin": 173.14,
+   "texto": "Hay dos formas de generar riqueza.",
+   "palabras": [
+    {
+     "ini": 171.84,
+     "fin": 171.88,
+     "p": "Hay"
+    },
+    {
+     "ini": 171.88,
+     "fin": 171.98,
+     "p": "dos"
+    },
+    {
+     "ini": 171.98,
+     "fin": 172.24,
+     "p": "formas"
+    },
+    {
+     "ini": 172.24,
+     "fin": 172.34,
+     "p": "de"
+    },
+    {
+     "ini": 172.34,
+     "fin": 172.6,
+     "p": "generar"
+    },
+    {
+     "ini": 172.6,
+     "fin": 173.14,
+     "p": "riqueza."
+    }
+   ]
+  },
+  {
+   "ini": 173.32,
+   "fin": 176.56,
+   "texto": "Una es ganando más y la otra es gastando menos.",
+   "palabras": [
+    {
+     "ini": 173.32,
+     "fin": 173.46,
+     "p": "Una"
+    },
+    {
+     "ini": 173.46,
+     "fin": 174.12,
+     "p": "es"
+    },
+    {
+     "ini": 174.12,
+     "fin": 174.52,
+     "p": "ganando"
+    },
+    {
+     "ini": 174.52,
+     "fin": 174.78,
+     "p": "más"
+    },
+    {
+     "ini": 174.78,
+     "fin": 175.26,
+     "p": "y"
+    },
+    {
+     "ini": 175.26,
+     "fin": 175.4,
+     "p": "la"
+    },
+    {
+     "ini": 175.4,
+     "fin": 175.56,
+     "p": "otra"
+    },
+    {
+     "ini": 175.56,
+     "fin": 176.02,
+     "p": "es"
+    },
+    {
+     "ini": 176.02,
+     "fin": 176.36,
+     "p": "gastando"
+    },
+    {
+     "ini": 176.36,
+     "fin": 176.56,
+     "p": "menos."
+    }
+   ]
+  },
+  {
+   "ini": 176.7,
+   "fin": 178.36,
+   "texto": "La primera inversión que generalmente se recomienda",
+   "palabras": [
+    {
+     "ini": 176.7,
+     "fin": 176.8,
+     "p": "La"
+    },
+    {
+     "ini": 176.8,
+     "fin": 177.14,
+     "p": "primera"
+    },
+    {
+     "ini": 177.14,
+     "fin": 177.54,
+     "p": "inversión"
+    },
+    {
+     "ini": 177.54,
+     "fin": 177.64,
+     "p": "que"
+    },
+    {
+     "ini": 177.64,
+     "fin": 177.92,
+     "p": "generalmente"
+    },
+    {
+     "ini": 177.92,
+     "fin": 178.06,
+     "p": "se"
+    },
+    {
+     "ini": 178.06,
+     "fin": 178.36,
+     "p": "recomienda"
+    }
+   ]
+  },
+  {
+   "ini": 178.36,
+   "fin": 179.46,
+   "texto": "es invertir en uno mismo.",
+   "palabras": [
+    {
+     "ini": 178.36,
+     "fin": 178.48,
+     "p": "es"
+    },
+    {
+     "ini": 178.48,
+     "fin": 178.78,
+     "p": "invertir"
+    },
+    {
+     "ini": 178.78,
+     "fin": 178.86,
+     "p": "en"
+    },
+    {
+     "ini": 178.86,
+     "fin": 179.02,
+     "p": "uno"
+    },
+    {
+     "ini": 179.02,
+     "fin": 179.46,
+     "p": "mismo."
+    }
+   ]
+  },
+  {
+   "ini": 180.1,
+   "fin": 180.92,
+   "texto": "¿Para qué sería eso?",
+   "palabras": [
+    {
+     "ini": 180.1,
+     "fin": 180.1,
+     "p": "¿Para"
+    },
+    {
+     "ini": 180.1,
+     "fin": 180.3,
+     "p": "qué"
+    },
+    {
+     "ini": 180.3,
+     "fin": 180.64,
+     "p": "sería"
+    },
+    {
+     "ini": 180.64,
+     "fin": 180.92,
+     "p": "eso?"
+    }
+   ]
+  },
+  {
+   "ini": 180.98,
+   "fin": 182.44,
+   "texto": "¿Un libro? ¿Un curso?",
+   "palabras": [
+    {
+     "ini": 180.98,
+     "fin": 181.14,
+     "p": "¿Un"
+    },
+    {
+     "ini": 181.14,
+     "fin": 181.6,
+     "p": "libro?"
+    },
+    {
+     "ini": 181.68,
+     "fin": 181.9,
+     "p": "¿Un"
+    },
+    {
+     "ini": 181.9,
+     "fin": 182.44,
+     "p": "curso?"
+    }
+   ]
+  },
+  {
+   "ini": 182.7,
+   "fin": 184.06,
+   "texto": "Y lo más barato es un libro.",
+   "palabras": [
+    {
+     "ini": 182.7,
+     "fin": 182.92,
+     "p": "Y"
+    },
+    {
+     "ini": 182.92,
+     "fin": 183.06,
+     "p": "lo"
+    },
+    {
+     "ini": 183.06,
+     "fin": 183.26,
+     "p": "más"
+    },
+    {
+     "ini": 183.26,
+     "fin": 183.6,
+     "p": "barato"
+    },
+    {
+     "ini": 183.6,
+     "fin": 183.74,
+     "p": "es"
+    },
+    {
+     "ini": 183.74,
+     "fin": 183.82,
+     "p": "un"
+    },
+    {
+     "ini": 183.82,
+     "fin": 184.06,
+     "p": "libro."
+    }
+   ]
+  },
+  {
+   "ini": 184.34,
+   "fin": 186.38,
+   "texto": "Es lo más económico y lo más sencillo",
+   "palabras": [
+    {
+     "ini": 184.34,
+     "fin": 184.46,
+     "p": "Es"
+    },
+    {
+     "ini": 184.46,
+     "fin": 184.54,
+     "p": "lo"
+    },
+    {
+     "ini": 184.54,
+     "fin": 185.04,
+     "p": "más"
+    },
+    {
+     "ini": 185.04,
+     "fin": 185.46,
+     "p": "económico"
+    },
+    {
+     "ini": 185.46,
+     "fin": 185.58,
+     "p": "y"
+    },
+    {
+     "ini": 185.58,
+     "fin": 185.64,
+     "p": "lo"
+    },
+    {
+     "ini": 185.64,
+     "fin": 185.86,
+     "p": "más"
+    },
+    {
+     "ini": 185.86,
+     "fin": 186.38,
+     "p": "sencillo"
+    }
+   ]
+  },
+  {
+   "ini": 186.38,
+   "fin": 188.26,
+   "texto": "con lo que uno puede arrancar a través de un libro.",
+   "palabras": [
+    {
+     "ini": 186.38,
+     "fin": 186.54,
+     "p": "con"
+    },
+    {
+     "ini": 186.54,
+     "fin": 186.62,
+     "p": "lo"
+    },
+    {
+     "ini": 186.62,
+     "fin": 186.68,
+     "p": "que"
+    },
+    {
+     "ini": 186.68,
+     "fin": 186.8,
+     "p": "uno"
+    },
+    {
+     "ini": 186.8,
+     "fin": 186.96,
+     "p": "puede"
+    },
+    {
+     "ini": 186.96,
+     "fin": 187.32,
+     "p": "arrancar"
+    },
+    {
+     "ini": 187.32,
+     "fin": 187.62,
+     "p": "a"
+    },
+    {
+     "ini": 187.62,
+     "fin": 187.82,
+     "p": "través"
+    },
+    {
+     "ini": 187.82,
+     "fin": 187.9,
+     "p": "de"
+    },
+    {
+     "ini": 187.9,
+     "fin": 188.0,
+     "p": "un"
+    },
+    {
+     "ini": 188.0,
+     "fin": 188.26,
+     "p": "libro."
+    }
+   ]
+  },
+  {
+   "ini": 188.54,
+   "fin": 190.94,
+   "texto": "Para diferenciar activo de pasivo,",
+   "palabras": [
+    {
+     "ini": 188.54,
+     "fin": 188.9,
+     "p": "Para"
+    },
+    {
+     "ini": 188.9,
+     "fin": 189.5,
+     "p": "diferenciar"
+    },
+    {
+     "ini": 189.5,
+     "fin": 189.82,
+     "p": "activo"
+    },
+    {
+     "ini": 189.82,
+     "fin": 189.94,
+     "p": "de"
+    },
+    {
+     "ini": 189.94,
+     "fin": 190.94,
+     "p": "pasivo,"
+    }
+   ]
+  },
+  {
+   "ini": 191.16,
+   "fin": 191.98,
+   "texto": "padre rico, padre pobre.",
+   "palabras": [
+    {
+     "ini": 191.16,
+     "fin": 191.24,
+     "p": "padre"
+    },
+    {
+     "ini": 191.24,
+     "fin": 191.42,
+     "p": "rico,"
+    },
+    {
+     "ini": 191.5,
+     "fin": 191.66,
+     "p": "padre"
+    },
+    {
+     "ini": 191.66,
+     "fin": 191.98,
+     "p": "pobre."
+    }
+   ]
+  },
+  {
+   "ini": 192.32,
+   "fin": 194.72,
+   "texto": "Para mí fue el primero que leí,",
+   "palabras": [
+    {
+     "ini": 192.32,
+     "fin": 192.54,
+     "p": "Para"
+    },
+    {
+     "ini": 192.54,
+     "fin": 192.7,
+     "p": "mí"
+    },
+    {
+     "ini": 192.7,
+     "fin": 192.98,
+     "p": "fue"
+    },
+    {
+     "ini": 192.98,
+     "fin": 193.68,
+     "p": "el"
+    },
+    {
+     "ini": 193.68,
+     "fin": 193.94,
+     "p": "primero"
+    },
+    {
+     "ini": 193.94,
+     "fin": 194.14,
+     "p": "que"
+    },
+    {
+     "ini": 194.14,
+     "fin": 194.72,
+     "p": "leí,"
+    }
+   ]
+  },
+  {
+   "ini": 194.9,
+   "fin": 198.8,
+   "texto": "fue el que me metió a lectura de vuelta fuerte en 2019,",
+   "palabras": [
+    {
+     "ini": 194.9,
+     "fin": 194.96,
+     "p": "fue"
+    },
+    {
+     "ini": 194.96,
+     "fin": 195.04,
+     "p": "el"
+    },
+    {
+     "ini": 195.04,
+     "fin": 195.12,
+     "p": "que"
+    },
+    {
+     "ini": 195.12,
+     "fin": 195.22,
+     "p": "me"
+    },
+    {
+     "ini": 195.22,
+     "fin": 195.38,
+     "p": "metió"
+    },
+    {
+     "ini": 195.38,
+     "fin": 195.46,
+     "p": "a"
+    },
+    {
+     "ini": 195.46,
+     "fin": 195.86,
+     "p": "lectura"
+    },
+    {
+     "ini": 195.86,
+     "fin": 196.06,
+     "p": "de"
+    },
+    {
+     "ini": 196.06,
+     "fin": 196.7,
+     "p": "vuelta"
+    },
+    {
+     "ini": 196.7,
+     "fin": 197.14,
+     "p": "fuerte"
+    },
+    {
+     "ini": 197.14,
+     "fin": 197.52,
+     "p": "en"
+    },
+    {
+     "ini": 197.52,
+     "fin": 198.8,
+     "p": "2019,"
+    }
+   ]
+  },
+  {
+   "ini": 199.3,
+   "fin": 199.84,
+   "texto": "antes de la pandemia.",
+   "palabras": [
+    {
+     "ini": 199.3,
+     "fin": 199.34,
+     "p": "antes"
+    },
+    {
+     "ini": 199.34,
+     "fin": 199.44,
+     "p": "de"
+    },
+    {
+     "ini": 199.44,
+     "fin": 199.56,
+     "p": "la"
+    },
+    {
+     "ini": 199.56,
+     "fin": 199.84,
+     "p": "pandemia."
+    }
+   ]
+  },
+  {
+   "ini": 199.84,
+   "fin": 206.98,
+   "texto": "Escribí un poquito el hábito de la lectura y de ahí llevo, no sé, los 40, 150 libros",
+   "palabras": [
+    {
+     "ini": 199.84,
+     "fin": 200.4,
+     "p": "Escribí"
+    },
+    {
+     "ini": 200.4,
+     "fin": 200.48,
+     "p": "un"
+    },
+    {
+     "ini": 200.48,
+     "fin": 200.72,
+     "p": "poquito"
+    },
+    {
+     "ini": 200.72,
+     "fin": 202.06,
+     "p": "el"
+    },
+    {
+     "ini": 202.06,
+     "fin": 202.34,
+     "p": "hábito"
+    },
+    {
+     "ini": 202.34,
+     "fin": 202.42,
+     "p": "de"
+    },
+    {
+     "ini": 202.42,
+     "fin": 202.56,
+     "p": "la"
+    },
+    {
+     "ini": 202.56,
+     "fin": 203.04,
+     "p": "lectura"
+    },
+    {
+     "ini": 203.04,
+     "fin": 203.5,
+     "p": "y"
+    },
+    {
+     "ini": 203.5,
+     "fin": 203.66,
+     "p": "de"
+    },
+    {
+     "ini": 203.66,
+     "fin": 204.02,
+     "p": "ahí"
+    },
+    {
+     "ini": 204.02,
+     "fin": 204.46,
+     "p": "llevo,"
+    },
+    {
+     "ini": 204.46,
+     "fin": 204.64,
+     "p": "no"
+    },
+    {
+     "ini": 204.64,
+     "fin": 205.28,
+     "p": "sé,"
+    },
+    {
+     "ini": 205.6,
+     "fin": 205.64,
+     "p": "los"
+    },
+    {
+     "ini": 205.64,
+     "fin": 206.0,
+     "p": "40,"
+    },
+    {
+     "ini": 206.1,
+     "fin": 206.6,
+     "p": "150"
+    },
+    {
+     "ini": 206.6,
+     "fin": 206.98,
+     "p": "libros"
+    }
+   ]
+  },
+  {
+   "ini": 206.98,
+   "fin": 211.84,
+   "texto": "leídos que es lo que a mí me apasiona, o sea, 10, 15 minutos al día por lo menos me dedico a leer.",
+   "palabras": [
+    {
+     "ini": 206.98,
+     "fin": 207.5,
+     "p": "leídos"
+    },
+    {
+     "ini": 207.5,
+     "fin": 208.0,
+     "p": "que"
+    },
+    {
+     "ini": 208.0,
+     "fin": 208.16,
+     "p": "es"
+    },
+    {
+     "ini": 208.16,
+     "fin": 208.3,
+     "p": "lo"
+    },
+    {
+     "ini": 208.3,
+     "fin": 208.4,
+     "p": "que"
+    },
+    {
+     "ini": 208.4,
+     "fin": 208.48,
+     "p": "a"
+    },
+    {
+     "ini": 208.48,
+     "fin": 208.6,
+     "p": "mí"
+    },
+    {
+     "ini": 208.6,
+     "fin": 208.72,
+     "p": "me"
+    },
+    {
+     "ini": 208.72,
+     "fin": 209.1,
+     "p": "apasiona,"
+    },
+    {
+     "ini": 209.1,
+     "fin": 209.16,
+     "p": "o"
+    },
+    {
+     "ini": 209.16,
+     "fin": 209.44,
+     "p": "sea,"
+    },
+    {
+     "ini": 209.62,
+     "fin": 209.7,
+     "p": "10,"
+    },
+    {
+     "ini": 209.74,
+     "fin": 209.9,
+     "p": "15"
+    },
+    {
+     "ini": 209.9,
+     "fin": 210.08,
+     "p": "minutos"
+    },
+    {
+     "ini": 210.08,
+     "fin": 210.2,
+     "p": "al"
+    },
+    {
+     "ini": 210.2,
+     "fin": 210.26,
+     "p": "día"
+    },
+    {
+     "ini": 210.26,
+     "fin": 210.48,
+     "p": "por"
+    },
+    {
+     "ini": 210.48,
+     "fin": 210.62,
+     "p": "lo"
+    },
+    {
+     "ini": 210.62,
+     "fin": 211.06,
+     "p": "menos"
+    },
+    {
+     "ini": 211.06,
+     "fin": 211.36,
+     "p": "me"
+    },
+    {
+     "ini": 211.36,
+     "fin": 211.52,
+     "p": "dedico"
+    },
+    {
+     "ini": 211.52,
+     "fin": 211.6,
+     "p": "a"
+    },
+    {
+     "ini": 211.6,
+     "fin": 211.84,
+     "p": "leer."
+    }
+   ]
+  },
+  {
+   "ini": 212.16,
+   "fin": 216.02,
+   "texto": "Hay algo que dice que el que aprende sus errores es inteligente, pero el que aprende",
+   "palabras": [
+    {
+     "ini": 212.16,
+     "fin": 212.26,
+     "p": "Hay"
+    },
+    {
+     "ini": 212.26,
+     "fin": 212.42,
+     "p": "algo"
+    },
+    {
+     "ini": 212.42,
+     "fin": 212.62,
+     "p": "que"
+    },
+    {
+     "ini": 212.62,
+     "fin": 212.76,
+     "p": "dice"
+    },
+    {
+     "ini": 212.76,
+     "fin": 213.48,
+     "p": "que"
+    },
+    {
+     "ini": 213.48,
+     "fin": 213.64,
+     "p": "el"
+    },
+    {
+     "ini": 213.64,
+     "fin": 213.8,
+     "p": "que"
+    },
+    {
+     "ini": 213.8,
+     "fin": 214.06,
+     "p": "aprende"
+    },
+    {
+     "ini": 214.06,
+     "fin": 214.3,
+     "p": "sus"
+    },
+    {
+     "ini": 214.3,
+     "fin": 214.56,
+     "p": "errores"
+    },
+    {
+     "ini": 214.56,
+     "fin": 214.8,
+     "p": "es"
+    },
+    {
+     "ini": 214.8,
+     "fin": 215.28,
+     "p": "inteligente,"
+    },
+    {
+     "ini": 215.34,
+     "fin": 215.5,
+     "p": "pero"
+    },
+    {
+     "ini": 215.5,
+     "fin": 215.64,
+     "p": "el"
+    },
+    {
+     "ini": 215.64,
+     "fin": 215.78,
+     "p": "que"
+    },
+    {
+     "ini": 215.78,
+     "fin": 216.02,
+     "p": "aprende"
+    }
+   ]
+  },
+  {
+   "ini": 216.02,
+   "fin": 218.5,
+   "texto": "los errores de los demás es un genio, por eso.",
+   "palabras": [
+    {
+     "ini": 216.02,
+     "fin": 216.28,
+     "p": "los"
+    },
+    {
+     "ini": 216.28,
+     "fin": 216.54,
+     "p": "errores"
+    },
+    {
+     "ini": 216.54,
+     "fin": 216.68,
+     "p": "de"
+    },
+    {
+     "ini": 216.68,
+     "fin": 216.86,
+     "p": "los"
+    },
+    {
+     "ini": 216.86,
+     "fin": 217.08,
+     "p": "demás"
+    },
+    {
+     "ini": 217.08,
+     "fin": 217.32,
+     "p": "es"
+    },
+    {
+     "ini": 217.32,
+     "fin": 217.5,
+     "p": "un"
+    },
+    {
+     "ini": 217.5,
+     "fin": 217.84,
+     "p": "genio,"
+    },
+    {
+     "ini": 217.9,
+     "fin": 218.06,
+     "p": "por"
+    },
+    {
+     "ini": 218.06,
+     "fin": 218.5,
+     "p": "eso."
+    }
+   ]
+  },
+  {
+   "ini": 218.74,
+   "fin": 222.84,
+   "texto": "Yo no soy un genio, soy lejos de ser un genio, entonces yo lo que soy hoy soy disciplinado,",
+   "palabras": [
+    {
+     "ini": 218.74,
+     "fin": 218.86,
+     "p": "Yo"
+    },
+    {
+     "ini": 218.86,
+     "fin": 219.0,
+     "p": "no"
+    },
+    {
+     "ini": 219.0,
+     "fin": 219.06,
+     "p": "soy"
+    },
+    {
+     "ini": 219.06,
+     "fin": 219.18,
+     "p": "un"
+    },
+    {
+     "ini": 219.18,
+     "fin": 219.84,
+     "p": "genio,"
+    },
+    {
+     "ini": 220.06,
+     "fin": 220.2,
+     "p": "soy"
+    },
+    {
+     "ini": 220.2,
+     "fin": 220.38,
+     "p": "lejos"
+    },
+    {
+     "ini": 220.38,
+     "fin": 220.46,
+     "p": "de"
+    },
+    {
+     "ini": 220.46,
+     "fin": 220.56,
+     "p": "ser"
+    },
+    {
+     "ini": 220.56,
+     "fin": 220.68,
+     "p": "un"
+    },
+    {
+     "ini": 220.68,
+     "fin": 220.9,
+     "p": "genio,"
+    },
+    {
+     "ini": 221.0,
+     "fin": 221.22,
+     "p": "entonces"
+    },
+    {
+     "ini": 221.22,
+     "fin": 221.3,
+     "p": "yo"
+    },
+    {
+     "ini": 221.3,
+     "fin": 221.38,
+     "p": "lo"
+    },
+    {
+     "ini": 221.38,
+     "fin": 221.48,
+     "p": "que"
+    },
+    {
+     "ini": 221.48,
+     "fin": 221.76,
+     "p": "soy"
+    },
+    {
+     "ini": 221.76,
+     "fin": 222.1,
+     "p": "hoy"
+    },
+    {
+     "ini": 222.1,
+     "fin": 222.36,
+     "p": "soy"
+    },
+    {
+     "ini": 222.36,
+     "fin": 222.84,
+     "p": "disciplinado,"
+    }
+   ]
+  },
+  {
+   "ini": 223.46,
+   "fin": 227.74,
+   "texto": "pero porque aprendí de mis errores. Hay gente que imagino que lo pueda aprender",
+   "palabras": [
+    {
+     "ini": 223.46,
+     "fin": 223.64,
+     "p": "pero"
+    },
+    {
+     "ini": 223.64,
+     "fin": 223.88,
+     "p": "porque"
+    },
+    {
+     "ini": 223.88,
+     "fin": 224.24,
+     "p": "aprendí"
+    },
+    {
+     "ini": 224.24,
+     "fin": 224.36,
+     "p": "de"
+    },
+    {
+     "ini": 224.36,
+     "fin": 224.5,
+     "p": "mis"
+    },
+    {
+     "ini": 224.5,
+     "fin": 225.4,
+     "p": "errores."
+    },
+    {
+     "ini": 225.54,
+     "fin": 225.7,
+     "p": "Hay"
+    },
+    {
+     "ini": 225.7,
+     "fin": 225.94,
+     "p": "gente"
+    },
+    {
+     "ini": 225.94,
+     "fin": 226.12,
+     "p": "que"
+    },
+    {
+     "ini": 226.12,
+     "fin": 226.52,
+     "p": "imagino"
+    },
+    {
+     "ini": 226.52,
+     "fin": 226.98,
+     "p": "que"
+    },
+    {
+     "ini": 226.98,
+     "fin": 227.2,
+     "p": "lo"
+    },
+    {
+     "ini": 227.2,
+     "fin": 227.36,
+     "p": "pueda"
+    },
+    {
+     "ini": 227.36,
+     "fin": 227.74,
+     "p": "aprender"
+    }
+   ]
+  },
+  {
+   "ini": 227.74,
+   "fin": 230.62,
+   "texto": "y ojalá que lo aprendan antes de lo que yo hice",
+   "palabras": [
+    {
+     "ini": 227.74,
+     "fin": 228.04,
+     "p": "y"
+    },
+    {
+     "ini": 228.04,
+     "fin": 228.34,
+     "p": "ojalá"
+    },
+    {
+     "ini": 228.34,
+     "fin": 228.42,
+     "p": "que"
+    },
+    {
+     "ini": 228.42,
+     "fin": 228.54,
+     "p": "lo"
+    },
+    {
+     "ini": 228.54,
+     "fin": 228.84,
+     "p": "aprendan"
+    },
+    {
+     "ini": 228.84,
+     "fin": 229.28,
+     "p": "antes"
+    },
+    {
+     "ini": 229.28,
+     "fin": 229.98,
+     "p": "de"
+    },
+    {
+     "ini": 229.98,
+     "fin": 229.98,
+     "p": "lo"
+    },
+    {
+     "ini": 229.98,
+     "fin": 230.08,
+     "p": "que"
+    },
+    {
+     "ini": 230.08,
+     "fin": 230.28,
+     "p": "yo"
+    },
+    {
+     "ini": 230.28,
+     "fin": 230.62,
+     "p": "hice"
+    }
+   ]
+  },
+  {
+   "ini": 230.62,
+   "fin": 232.14,
+   "texto": "porque va a ser mucho mejor que yo",
+   "palabras": [
+    {
+     "ini": 230.62,
+     "fin": 230.84,
+     "p": "porque"
+    },
+    {
+     "ini": 230.84,
+     "fin": 230.98,
+     "p": "va"
+    },
+    {
+     "ini": 230.98,
+     "fin": 231.08,
+     "p": "a"
+    },
+    {
+     "ini": 231.08,
+     "fin": 231.5,
+     "p": "ser"
+    },
+    {
+     "ini": 231.5,
+     "fin": 231.74,
+     "p": "mucho"
+    },
+    {
+     "ini": 231.74,
+     "fin": 231.94,
+     "p": "mejor"
+    },
+    {
+     "ini": 231.94,
+     "fin": 232.06,
+     "p": "que"
+    },
+    {
+     "ini": 232.06,
+     "fin": 232.14,
+     "p": "yo"
+    }
+   ]
+  },
+  {
+   "ini": 232.14,
+   "fin": 233.42,
+   "texto": "y ahí es donde queremos hacer todo",
+   "palabras": [
+    {
+     "ini": 232.14,
+     "fin": 232.34,
+     "p": "y"
+    },
+    {
+     "ini": 232.34,
+     "fin": 232.44,
+     "p": "ahí"
+    },
+    {
+     "ini": 232.44,
+     "fin": 232.5,
+     "p": "es"
+    },
+    {
+     "ini": 232.5,
+     "fin": 232.64,
+     "p": "donde"
+    },
+    {
+     "ini": 232.64,
+     "fin": 232.88,
+     "p": "queremos"
+    },
+    {
+     "ini": 232.88,
+     "fin": 233.08,
+     "p": "hacer"
+    },
+    {
+     "ini": 233.08,
+     "fin": 233.42,
+     "p": "todo"
+    }
+   ]
+  },
+  {
+   "ini": 233.42,
+   "fin": 235.76,
+   "texto": "generar gente que pueda generar influencia",
+   "palabras": [
+    {
+     "ini": 233.42,
+     "fin": 234.16,
+     "p": "generar"
+    },
+    {
+     "ini": 234.16,
+     "fin": 234.46,
+     "p": "gente"
+    },
+    {
+     "ini": 234.46,
+     "fin": 234.6,
+     "p": "que"
+    },
+    {
+     "ini": 234.6,
+     "fin": 234.8,
+     "p": "pueda"
+    },
+    {
+     "ini": 234.8,
+     "fin": 235.06,
+     "p": "generar"
+    },
+    {
+     "ini": 235.06,
+     "fin": 235.76,
+     "p": "influencia"
+    }
+   ]
+  },
+  {
+   "ini": 235.76,
+   "fin": 236.82,
+   "texto": "a través de la influencia",
+   "palabras": [
+    {
+     "ini": 235.76,
+     "fin": 235.96,
+     "p": "a"
+    },
+    {
+     "ini": 235.96,
+     "fin": 236.06,
+     "p": "través"
+    },
+    {
+     "ini": 236.06,
+     "fin": 236.18,
+     "p": "de"
+    },
+    {
+     "ini": 236.18,
+     "fin": 236.32,
+     "p": "la"
+    },
+    {
+     "ini": 236.32,
+     "fin": 236.82,
+     "p": "influencia"
+    }
+   ]
+  },
+  {
+   "ini": 236.82,
+   "fin": 237.8,
+   "texto": "que esa es mi pasión",
+   "palabras": [
+    {
+     "ini": 236.82,
+     "fin": 236.96,
+     "p": "que"
+    },
+    {
+     "ini": 236.96,
+     "fin": 237.04,
+     "p": "esa"
+    },
+    {
+     "ini": 237.04,
+     "fin": 237.16,
+     "p": "es"
+    },
+    {
+     "ini": 237.16,
+     "fin": 237.44,
+     "p": "mi"
+    },
+    {
+     "ini": 237.44,
+     "fin": 237.8,
+     "p": "pasión"
+    }
+   ]
+  },
+  {
+   "ini": 237.8,
+   "fin": 240.9,
+   "texto": "generar influencia para que las personas aprendan de mí",
+   "palabras": [
+    {
+     "ini": 237.8,
+     "fin": 238.26,
+     "p": "generar"
+    },
+    {
+     "ini": 238.26,
+     "fin": 238.78,
+     "p": "influencia"
+    },
+    {
+     "ini": 238.78,
+     "fin": 239.26,
+     "p": "para"
+    },
+    {
+     "ini": 239.26,
+     "fin": 239.74,
+     "p": "que"
+    },
+    {
+     "ini": 239.74,
+     "fin": 239.92,
+     "p": "las"
+    },
+    {
+     "ini": 239.92,
+     "fin": 240.12,
+     "p": "personas"
+    },
+    {
+     "ini": 240.12,
+     "fin": 240.7,
+     "p": "aprendan"
+    },
+    {
+     "ini": 240.7,
+     "fin": 240.8,
+     "p": "de"
+    },
+    {
+     "ini": 240.8,
+     "fin": 240.9,
+     "p": "mí"
+    }
+   ]
+  }
+ ]
+}

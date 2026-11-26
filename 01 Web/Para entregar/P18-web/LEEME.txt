@@ -1,0 +1,18 @@
+PROYECTO 18 · WEB
+
+Para verla: abrir index.html con el navegador (doble clic).
+Versión online: https://proyecto18-748.netlify.app
+
+Contenido
+- index.html: la página.
+- css/ y js/: estilos y funcionamiento.
+- assets/: logo, foto de portada.
+- favicon.*, apple-touch-icon.png, icon-*.png, site.webmanifest: íconos.
+- _headers: reglas de seguridad para el hosting (Netlify).
+
+Configuración (al principio de js/p18.js)
+- WHATSAPP: número de P18 (ya cargado: +54 9 11 2157-0660).
+- ENDPOINT: dirección de Google Sheets para que los formularios guarden datos (pendiente).
+
+Para subirla a un hosting: publicar el contenido de esta carpeta tal cual, sin compilar nada.
+Si se usa un dominio que no sea proyecto18.co o proyecto18.com, agregarlo en _headers (línea script-src, con /js/ al final).

@@ -1,0 +1,33 @@
+SISTEMA DE SUBTÍTULOS
+
+Sincronizar por unidades semánticas, no por cantidad fija de palabras.
+Máximo habitual: dos líneas.
+Peso 600–750.
+Una unidad activa por composición.
+Usar subrayado lima fino, no bloque rectangular.
+Permitir pausa sin texto cuando la imagen necesite respirar.
+No karaoke permanente.
+Exportar un archivo de timings editable y verificable.
+
+TIPOGRAFÍA CINÉTICA — REGLA FIJA (operador, 2026-11-24)
+El texto estático o con fade simple "se ve genérico". Todo texto en pantalla se mueve:
+- Cada palabra entra cuando la voz la dice (runtime/src/subtitles/Kinetic.tsx).
+- Los subtítulos rotan cuatro comportamientos, nunca dos iguales seguidos:
+  · editorial: las palabras suben desde una máscara y la clave recibe un barrido lima;
+  · serif: foco (desenfoque y tracking que se cierra) y la clave hace pop en Manrope lima;
+  · caps: golpe con escala, rotación y rebote;
+  · stack: la frase chica y la palabra clave sola, gigante, en Unbounded.
+- Cada frase sale animada (sube y se desenfoca) y deriva levemente mientras está en pantalla.
+- Citas: foco palabra por palabra con las comillas lima que giran al entrar. Titulares y kickers: letra por letra. Pregunta final: rise.
+- Control obligatorio: secuencias de stills cada 0,15–0,3 s dentro de varias frases antes del render.
+
+
+REGLA: SUBTÍTULOS QUE NO SE CORTAN (operador, 2026-11-24, revisión v04)
+"Los subtítulos, hay veces que se cortan, están raros. Tiene que quedar todo perfecto."
+- Los cortes van por frase con chunk_captions() de runtime/scripts/p18_build.py. Un subtítulo nunca termina en artículo, preposición, conjunción, auxiliar (había, iba…) ni en «nunca/ya/casi». Donde el corte automático no sea el natural, usar BREAKS = {unidad: [palabras]}.
+- Antes de renderizar, imprimir la lista de subtítulos y leerla entera.
+- Motor cinético: sin máscaras que recorten letras, sin letterSpacing animado (corre la línea), sin escalas que encimen palabras. Cada palabra queda legible en 0,15 s como máximo y entra 0,08 s antes de la voz.
+- Palabra clave en editorial: resaltador lima detrás de toda la palabra, con tinta encima. Nunca tinta sobre fondo oscuro.
+- Stack: respeta el orden de lectura (lo de antes chico, la clave gigante, lo de después chico).
+- Salida animada solo si después hay silencio. Si el siguiente subtítulo entra enseguida, el cambio es directo.
+- QA: un cuadro por subtítulo a mitad de la frase y otro 0,2 s antes de que termine. Ninguna palabra cortada, encimada ni invisible.

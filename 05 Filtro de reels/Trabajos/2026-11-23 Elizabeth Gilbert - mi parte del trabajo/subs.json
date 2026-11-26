@@ -1,0 +1,227 @@
+{
+ "idioma": "en",
+ "frases": [
+  {
+   "ini": 0.0,
+   "fin": 1.04,
+   "texto": "writing Eat, Pray, Love,",
+   "es": "Estaba escribiendo Comer, rezar, amar"
+  },
+  {
+   "ini": 1.04,
+   "fin": 2.64,
+   "texto": "and I fell into one of those sort",
+   "es": "y caí en uno de esos pozos"
+  },
+  {
+   "ini": 2.64,
+   "fin": 4.32,
+   "texto": "of pits of despair that we all",
+   "es": "de desesperación en los que"
+  },
+  {
+   "ini": 4.32,
+   "fin": 5.48,
+   "texto": "fall into when we're working on",
+   "es": "caemos cuando algo no sale"
+  },
+  {
+   "ini": 5.48,
+   "fin": 7.1,
+   "texto": "something and it's not coming and",
+   "es": "y empezás a pensar que esto"
+  },
+  {
+   "ini": 7.1,
+   "fin": 8.1,
+   "texto": "you start to think this is going",
+   "es": "va a ser un desastre,"
+  },
+  {
+   "ini": 8.1,
+   "fin": 9.42,
+   "texto": "to be a disaster, this is going to",
+   "es": "el peor libro jamás escrito,"
+  },
+  {
+   "ini": 9.42,
+   "fin": 10.72,
+   "texto": "be the worst book ever written,",
+   "es": "no sólo malo:"
+  },
+  {
+   "ini": 10.72,
+   "fin": 12.16,
+   "texto": "not just bad, but the worst book",
+   "es": "el peor libro"
+  },
+  {
+   "ini": 12.16,
+   "fin": 12.86,
+   "texto": "ever written.",
+   "es": "jamás escrito."
+  },
+  {
+   "ini": 13.44,
+   "fin": 15.18,
+   "texto": "And I sort of think I should just",
+   "es": "Y pensé que mejor dejaba"
+  },
+  {
+   "ini": 15.18,
+   "fin": 17.1,
+   "texto": "dump this project, you know.",
+   "es": "este proyecto, ¿viste?"
+  },
+  {
+   "ini": 17.1,
+   "fin": 19.04,
+   "texto": "But then I remembered Tom talking",
+   "es": "Pero me acordé de Tom hablándole"
+  },
+  {
+   "ini": 19.04,
+   "fin": 22.1,
+   "texto": "to the open air and I tried it.",
+   "es": "al aire y lo probé."
+  },
+  {
+   "ini": 22.1,
+   "fin": 24.18,
+   "texto": "So I just lifted my face up from",
+   "es": "Levanté la cara del manuscrito"
+  },
+  {
+   "ini": 24.18,
+   "fin": 25.96,
+   "texto": "the manuscript and I directed my",
+   "es": "y le hablé a un rincón"
+  },
+  {
+   "ini": 25.96,
+   "fin": 27.4,
+   "texto": "comments to an empty corner of the",
+   "es": "vacío de la habitación"
+  },
+  {
+   "ini": 27.4,
+   "fin": 28.8,
+   "texto": "room, and I said aloud,",
+   "es": "y dije en voz alta:"
+  },
+  {
+   "ini": 29.4,
+   "fin": 30.84,
+   "texto": "listen, you thing,",
+   "es": "escuchame, vos,"
+  },
+  {
+   "ini": 31.98,
+   "fin": 33.74,
+   "texto": "you and I both know that if this",
+   "es": "los dos sabemos que si este"
+  },
+  {
+   "ini": 33.74,
+   "fin": 35.0,
+   "texto": "book isn't brilliant, that is not",
+   "es": "libro no es brillante, no es"
+  },
+  {
+   "ini": 35.0,
+   "fin": 36.16,
+   "texto": "entirely my fault, right?",
+   "es": "del todo culpa mía, ¿no?"
+  },
+  {
+   "ini": 36.16,
+   "fin": 37.82,
+   "texto": "Because you can see that I am",
+   "es": "Porque ves que estoy poniendo"
+  },
+  {
+   "ini": 37.82,
+   "fin": 39.04,
+   "texto": "putting everything I have into",
+   "es": "todo lo que tengo"
+  },
+  {
+   "ini": 39.04,
+   "fin": 39.64,
+   "texto": "this, you know?",
+   "es": "en esto, ¿entendés?"
+  },
+  {
+   "ini": 39.64,
+   "fin": 40.78,
+   "texto": "I don't have any more than this,",
+   "es": "No tengo más que esto,"
+  },
+  {
+   "ini": 40.78,
+   "fin": 41.92,
+   "texto": "so if you want it to be better,",
+   "es": "así que si querés que sea mejor,"
+  },
+  {
+   "ini": 42.3,
+   "fin": 43.36,
+   "texto": "then you gotta show up and do your",
+   "es": "tenés que aparecer y hacer"
+  },
+  {
+   "ini": 43.36,
+   "fin": 44.44,
+   "texto": "part of the deal, okay,",
+   "es": "tu parte del trato, ¿ok?"
+  },
+  {
+   "ini": 44.44,
+   "fin": 46.3,
+   "texto": "but if you don't do that,",
+   "es": "Pero si no lo hacés,"
+  },
+  {
+   "ini": 46.3,
+   "fin": 47.06,
+   "texto": "you know what the hell with it,",
+   "es": "¿sabés qué?, al diablo,"
+  },
+  {
+   "ini": 47.06,
+   "fin": 48.24,
+   "texto": "I'm gonna keep writing anyway,",
+   "es": "igual voy a seguir escribiendo,"
+  },
+  {
+   "ini": 48.24,
+   "fin": 50.06,
+   "texto": "because that's my job.",
+   "es": "porque ese es mi trabajo."
+  },
+  {
+   "ini": 50.06,
+   "fin": 51.32,
+   "texto": "And I would please like the record",
+   "es": "Y quiero que quede registrado"
+  },
+  {
+   "ini": 51.32,
+   "fin": 52.92,
+   "texto": "to reflect today that I showed up",
+   "es": "hoy que yo aparecí"
+  },
+  {
+   "ini": 52.92,
+   "fin": 54.14,
+   "texto": "for my part of the job.",
+   "es": "para hacer mi parte del trabajo."
+  },
+  {
+   "ini": 54.14,
+   "fin": 54.84,
+   "texto": "You",
+   "es": ""
+  }
+ ]
+}

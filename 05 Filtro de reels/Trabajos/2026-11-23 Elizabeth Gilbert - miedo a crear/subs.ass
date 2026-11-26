@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1074,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,613,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.32,P18,,0,0,0,,¿No te da miedo no volver
+Dialogue: 0,0:00:01.32,0:00:02.94,P18,,0,0,0,,a superar ese éxito?
+Dialogue: 0,0:00:03.86,0:00:05.16,P18,,0,0,0,,¿No te da miedo seguir
+Dialogue: 0,0:00:05.16,0:00:06.62,P18,,0,0,0,,escribiendo toda la vida
+Dialogue: 0,0:00:06.62,0:00:08.12,P18,,0,0,0,,y no volver nunca más a
+Dialogue: 0,0:00:08.12,0:00:09.56,P18,,0,0,0,,crear un libro que le importe a
+Dialogue: 0,0:00:09.56,0:00:11.36,P18,,0,0,0,,alguien en el mundo,
+Dialogue: 0,0:00:11.36,0:00:12.84,P18,,0,0,0,,nunca más?
+Dialogue: 0,0:00:13.74,0:00:15.54,P18,,0,0,0,,Qué tranquilizador, ¿no?
+Dialogue: 0,0:00:16.00,0:00:17.20,P18,,0,0,0,,Sería peor,
+Dialogue: 0,0:00:17.20,0:00:18.46,P18,,0,0,0,,pero resulta que
+Dialogue: 0,0:00:18.46,0:00:20.62,P18,,0,0,0,,me acuerdo de que hace 20 años,
+Dialogue: 0,0:00:20.62,0:00:21.50,P18,,0,0,0,,cuando empecé a decirle
+Dialogue: 0,0:00:21.50,0:00:22.72,P18,,0,0,0,,a la gente, de adolescente, que
+Dialogue: 0,0:00:22.72,0:00:23.86,P18,,0,0,0,,quería ser escritora,
+Dialogue: 0,0:00:24.28,0:00:26.10,P18,,0,0,0,,me respondieron con el mismo
+Dialogue: 0,0:00:26.10,0:00:27.32,P18,,0,0,0,,tipo de reacción de miedo.
+Dialogue: 0,0:00:27.32,0:00:28.84,P18,,0,0,0,,Me decían: ¿no te da
+Dialogue: 0,0:00:28.84,0:00:30.28,P18,,0,0,0,,miedo no tener nunca
+Dialogue: 0,0:00:30.28,0:00:31.90,P18,,0,0,0,,éxito? ¿No te da miedo que la
+Dialogue: 0,0:00:31.90,0:00:33.84,P18,,0,0,0,,humillación del rechazo te mate?
+Dialogue: 0,0:00:33.84,0:00:35.46,P18,,0,0,0,,¿No te da miedo que
+Dialogue: 0,0:00:35.46,0:00:36.76,P18,,0,0,0,,trabajes toda la vida en este
+Dialogue: 0,0:00:36.76,0:00:37.72,P18,,0,0,0,,oficio y nunca salga
+Dialogue: 0,0:00:37.72,0:00:39.30,P18,,0,0,0,,nada, y mueras en un
+Dialogue: 0,0:00:39.30,0:00:41.16,P18,,0,0,0,,basural de sueños rotos con
+Dialogue: 0,0:00:41.16,0:00:43.52,P18,,0,0,0,,la boca llena de ceniza amarga
+Dialogue: 0,0:00:43.52,0:00:46.72,P18,,0,0,0,,del fracaso?
+Dialogue: 0,0:00:46.72,0:00:49.56,P18,,0,0,0,,Y la respuesta
+Dialogue: 0,0:00:49.56,0:00:51.50,P18,,0,0,0,,corta a todas esas
+Dialogue: 0,0:00:51.50,0:00:54.74,P18,,0,0,0,,preguntas es sí: tengo miedo de
+Dialogue: 0,0:00:54.74,0:00:56.74,P18,,0,0,0,,todo eso, y lo tuve.

@@ -1,0 +1,35 @@
+VALIDACIÓN DE VOZ — P18-001-james-dyson
+Fecha: 2026-11-24
+Resultado: APROBADA. Coincide palabra por palabra con 02_script/voiceover-final.txt.
+
+ARCHIVO RECIBIDO
+Original (sin modificar): 03_voiceover/inbox/ElevenLabs_2026-11-24T15_03_38_Brian - Warm, Smooth, Confident_pvc_s50_sim75_v4.mp3
+SHA-256: c491d8a602b5fd44c71e689fb98d33f81d172274d61d13006a9a212ff5fbf352
+Voz ElevenLabs (según el nombre del archivo): "Brian - Warm, Smooth, Confident". El nombre también indica pvc, stability 50, similarity 75 y v4.
+
+DATOS TÉCNICOS
+Formato: MP3, 128 kbps, 44.100 Hz, mono.
+Duración: 120,27 s (2:00,27).
+Loudness integrado: -20,9 LUFS. LRA: 3,9 LU.
+True peak: -2,5 dBTP. Clipping: no. Piso de ruido: -72 dB.
+Ritmo real: 299 palabras en 120,3 s, o sea 2,49 palabras por segundo. La estimación previa (2,9 pal/s) quedó corta.
+
+COMPARACIÓN DE TEXTO
+Método: transcripción local con whisper.cpp (modelo ggml-small, español). Normalicé los números (el ASR los devuelve en dígitos) y comparé palabra por palabra.
+Resultado: 300 palabras en el guion, 300 en la transcripción, 0 diferencias.
+Pronunciaciones verificadas en la transcripción: "James Dyson", "Deirdre", "G-Force", "DC cero uno" (transcripto como "DC-01"), 5.126, 5.127, 1993 y 84.
+
+OBSERVACIONES PARA LA EDICIÓN (no requieren nueva toma)
+1. Pausas: ElevenLabs hizo pausas parejas de unos 0,5 s (la más larga dura 0,64 s). Las pausas largas pedidas (después del hook, antes de "El cinco mil ciento veintisiete", antes de la pregunta final) quedaron cortas. Se pueden alargar en el montaje insertando silencio entre frases, sin cortar ni acelerar palabras. Requiere aprobación del operador cuando se haga.
+2. Pregunta final: whisper puntuó "¿Cuántas ideas dejamos sin probar? Porque si fueran buenas...". La puntuación del ASR no es confiable para la entonación, y no hay silencio largo en ese punto (1:56,6). El operador tiene que escuchar si la pregunta suena como una sola frase. Si no, puede pedir una nueva toma solo de esa frase.
+3. Nivel: -20,9 LUFS es correcto para una pista de voz sin masterizar. La normalización se hace en la mezcla final, no sobre este archivo.
+
+ARCHIVOS GENERADOS
+- 03_voiceover/approved/P18-001-james-dyson-voiceover-approved.wav
+  MP3 decodificado a WAV PCM 16-bit, 44,1 kHz, mono, para cumplir la convención de nombres. Sin edición, normalización ni cambio de velocidad.
+  SHA-256: 8b9afb1183d95d7414d0d89421c0d56e76527ab0c29209e1a1eef28d1bac08c9
+- 03_voiceover/P18-001-james-dyson-voiceover-words.json
+  Timings por palabra (whisper.cpp, precisión aproximada de ±0,1 s). Punto de partida para subtítulos y cortes; se revisa a mano antes de usarlo.
+
+PISTA MAESTRA
+A partir de ahora, la voz aprobada es el reloj maestro del video.

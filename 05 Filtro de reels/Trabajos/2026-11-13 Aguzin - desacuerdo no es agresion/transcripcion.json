@@ -1,0 +1,805 @@
+{
+ "idioma": "es",
+ "duracion": 53.53,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 6.24,
+   "texto": "teníamos algunas cosas que se llamaban como seminar, seminarios, y donde eran clases chicas",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.7,
+     "p": "teníamos"
+    },
+    {
+     "ini": 0.7,
+     "fin": 0.98,
+     "p": "algunas"
+    },
+    {
+     "ini": 0.98,
+     "fin": 1.16,
+     "p": "cosas"
+    },
+    {
+     "ini": 1.16,
+     "fin": 1.28,
+     "p": "que"
+    },
+    {
+     "ini": 1.28,
+     "fin": 1.46,
+     "p": "se"
+    },
+    {
+     "ini": 1.46,
+     "fin": 1.72,
+     "p": "llamaban"
+    },
+    {
+     "ini": 1.72,
+     "fin": 2.18,
+     "p": "como"
+    },
+    {
+     "ini": 2.18,
+     "fin": 2.48,
+     "p": "seminar,"
+    },
+    {
+     "ini": 2.64,
+     "fin": 3.5,
+     "p": "seminarios,"
+    },
+    {
+     "ini": 4.94,
+     "fin": 4.94,
+     "p": "y"
+    },
+    {
+     "ini": 4.94,
+     "fin": 5.22,
+     "p": "donde"
+    },
+    {
+     "ini": 5.22,
+     "fin": 5.44,
+     "p": "eran"
+    },
+    {
+     "ini": 5.44,
+     "fin": 5.74,
+     "p": "clases"
+    },
+    {
+     "ini": 5.74,
+     "fin": 6.24,
+     "p": "chicas"
+    }
+   ]
+  },
+  {
+   "ini": 6.24,
+   "fin": 12.6,
+   "texto": "de 15 alumnos, a veces inclusive más chicas, y había mucha charla, mucha discusión,",
+   "palabras": [
+    {
+     "ini": 6.24,
+     "fin": 7.22,
+     "p": "de"
+    },
+    {
+     "ini": 7.22,
+     "fin": 7.54,
+     "p": "15"
+    },
+    {
+     "ini": 7.54,
+     "fin": 8.48,
+     "p": "alumnos,"
+    },
+    {
+     "ini": 8.96,
+     "fin": 9.08,
+     "p": "a"
+    },
+    {
+     "ini": 9.08,
+     "fin": 9.3,
+     "p": "veces"
+    },
+    {
+     "ini": 9.3,
+     "fin": 9.72,
+     "p": "inclusive"
+    },
+    {
+     "ini": 9.72,
+     "fin": 9.98,
+     "p": "más"
+    },
+    {
+     "ini": 9.98,
+     "fin": 10.66,
+     "p": "chicas,"
+    },
+    {
+     "ini": 10.82,
+     "fin": 10.98,
+     "p": "y"
+    },
+    {
+     "ini": 10.98,
+     "fin": 11.14,
+     "p": "había"
+    },
+    {
+     "ini": 11.14,
+     "fin": 11.4,
+     "p": "mucha"
+    },
+    {
+     "ini": 11.4,
+     "fin": 11.78,
+     "p": "charla,"
+    },
+    {
+     "ini": 11.92,
+     "fin": 12.06,
+     "p": "mucha"
+    },
+    {
+     "ini": 12.06,
+     "fin": 12.6,
+     "p": "discusión,"
+    }
+   ]
+  },
+  {
+   "ini": 12.84,
+   "fin": 20.78,
+   "texto": "mucha interacción con los profesores y cuando uno daba una opinión era muy común que salte",
+   "palabras": [
+    {
+     "ini": 12.84,
+     "fin": 13.02,
+     "p": "mucha"
+    },
+    {
+     "ini": 13.02,
+     "fin": 13.66,
+     "p": "interacción"
+    },
+    {
+     "ini": 13.66,
+     "fin": 13.96,
+     "p": "con"
+    },
+    {
+     "ini": 13.96,
+     "fin": 14.3,
+     "p": "los"
+    },
+    {
+     "ini": 14.3,
+     "fin": 14.9,
+     "p": "profesores"
+    },
+    {
+     "ini": 14.9,
+     "fin": 16.38,
+     "p": "y"
+    },
+    {
+     "ini": 16.38,
+     "fin": 16.82,
+     "p": "cuando"
+    },
+    {
+     "ini": 16.82,
+     "fin": 17.02,
+     "p": "uno"
+    },
+    {
+     "ini": 17.02,
+     "fin": 17.26,
+     "p": "daba"
+    },
+    {
+     "ini": 17.26,
+     "fin": 17.4,
+     "p": "una"
+    },
+    {
+     "ini": 17.4,
+     "fin": 18.76,
+     "p": "opinión"
+    },
+    {
+     "ini": 18.76,
+     "fin": 19.14,
+     "p": "era"
+    },
+    {
+     "ini": 19.14,
+     "fin": 19.5,
+     "p": "muy"
+    },
+    {
+     "ini": 19.5,
+     "fin": 19.78,
+     "p": "común"
+    },
+    {
+     "ini": 19.78,
+     "fin": 20.38,
+     "p": "que"
+    },
+    {
+     "ini": 20.38,
+     "fin": 20.78,
+     "p": "salte"
+    }
+   ]
+  },
+  {
+   "ini": 20.78,
+   "fin": 25.58,
+   "texto": "otro alumno y diga no, no, estoy totalmente en desacuerdo con lo que dijo Nicolás y yo creo",
+   "palabras": [
+    {
+     "ini": 20.78,
+     "fin": 21.04,
+     "p": "otro"
+    },
+    {
+     "ini": 21.04,
+     "fin": 21.38,
+     "p": "alumno"
+    },
+    {
+     "ini": 21.38,
+     "fin": 21.56,
+     "p": "y"
+    },
+    {
+     "ini": 21.56,
+     "fin": 21.74,
+     "p": "diga"
+    },
+    {
+     "ini": 21.74,
+     "fin": 21.98,
+     "p": "no,"
+    },
+    {
+     "ini": 21.98,
+     "fin": 22.26,
+     "p": "no,"
+    },
+    {
+     "ini": 22.44,
+     "fin": 22.62,
+     "p": "estoy"
+    },
+    {
+     "ini": 22.62,
+     "fin": 23.18,
+     "p": "totalmente"
+    },
+    {
+     "ini": 23.18,
+     "fin": 23.42,
+     "p": "en"
+    },
+    {
+     "ini": 23.42,
+     "fin": 23.78,
+     "p": "desacuerdo"
+    },
+    {
+     "ini": 23.78,
+     "fin": 23.94,
+     "p": "con"
+    },
+    {
+     "ini": 23.94,
+     "fin": 24.08,
+     "p": "lo"
+    },
+    {
+     "ini": 24.08,
+     "fin": 24.2,
+     "p": "que"
+    },
+    {
+     "ini": 24.2,
+     "fin": 24.38,
+     "p": "dijo"
+    },
+    {
+     "ini": 24.38,
+     "fin": 24.96,
+     "p": "Nicolás"
+    },
+    {
+     "ini": 24.96,
+     "fin": 25.24,
+     "p": "y"
+    },
+    {
+     "ini": 25.24,
+     "fin": 25.4,
+     "p": "yo"
+    },
+    {
+     "ini": 25.4,
+     "fin": 25.58,
+     "p": "creo"
+    }
+   ]
+  },
+  {
+   "ini": 25.58,
+   "fin": 31.94,
+   "texto": "que esto y yo me acuerdo que en el colegio no era tanto que pasaba eso, o sea jamás un alumno iba a",
+   "palabras": [
+    {
+     "ini": 25.58,
+     "fin": 25.86,
+     "p": "que"
+    },
+    {
+     "ini": 25.86,
+     "fin": 26.0,
+     "p": "esto"
+    },
+    {
+     "ini": 26.0,
+     "fin": 27.08,
+     "p": "y"
+    },
+    {
+     "ini": 27.08,
+     "fin": 27.68,
+     "p": "yo"
+    },
+    {
+     "ini": 27.68,
+     "fin": 27.82,
+     "p": "me"
+    },
+    {
+     "ini": 27.82,
+     "fin": 27.96,
+     "p": "acuerdo"
+    },
+    {
+     "ini": 27.96,
+     "fin": 28.14,
+     "p": "que"
+    },
+    {
+     "ini": 28.14,
+     "fin": 28.24,
+     "p": "en"
+    },
+    {
+     "ini": 28.24,
+     "fin": 28.38,
+     "p": "el"
+    },
+    {
+     "ini": 28.38,
+     "fin": 28.7,
+     "p": "colegio"
+    },
+    {
+     "ini": 28.7,
+     "fin": 29.02,
+     "p": "no"
+    },
+    {
+     "ini": 29.02,
+     "fin": 29.26,
+     "p": "era"
+    },
+    {
+     "ini": 29.26,
+     "fin": 29.66,
+     "p": "tanto"
+    },
+    {
+     "ini": 29.66,
+     "fin": 30.0,
+     "p": "que"
+    },
+    {
+     "ini": 30.0,
+     "fin": 30.32,
+     "p": "pasaba"
+    },
+    {
+     "ini": 30.32,
+     "fin": 30.58,
+     "p": "eso,"
+    },
+    {
+     "ini": 30.64,
+     "fin": 30.64,
+     "p": "o"
+    },
+    {
+     "ini": 30.64,
+     "fin": 30.82,
+     "p": "sea"
+    },
+    {
+     "ini": 30.82,
+     "fin": 31.24,
+     "p": "jamás"
+    },
+    {
+     "ini": 31.24,
+     "fin": 31.44,
+     "p": "un"
+    },
+    {
+     "ini": 31.44,
+     "fin": 31.68,
+     "p": "alumno"
+    },
+    {
+     "ini": 31.68,
+     "fin": 31.82,
+     "p": "iba"
+    },
+    {
+     "ini": 31.82,
+     "fin": 31.94,
+     "p": "a"
+    }
+   ]
+  },
+  {
+   "ini": 31.94,
+   "fin": 38.78,
+   "texto": "decir estoy de acuerdo con el otro alumno, acá era una cultura más de debatir y eso fue un poquito",
+   "palabras": [
+    {
+     "ini": 31.94,
+     "fin": 32.02,
+     "p": "decir"
+    },
+    {
+     "ini": 32.02,
+     "fin": 32.22,
+     "p": "estoy"
+    },
+    {
+     "ini": 32.22,
+     "fin": 32.4,
+     "p": "de"
+    },
+    {
+     "ini": 32.4,
+     "fin": 32.64,
+     "p": "acuerdo"
+    },
+    {
+     "ini": 32.64,
+     "fin": 32.86,
+     "p": "con"
+    },
+    {
+     "ini": 32.86,
+     "fin": 33.02,
+     "p": "el"
+    },
+    {
+     "ini": 33.02,
+     "fin": 33.2,
+     "p": "otro"
+    },
+    {
+     "ini": 33.2,
+     "fin": 34.26,
+     "p": "alumno,"
+    },
+    {
+     "ini": 34.38,
+     "fin": 34.52,
+     "p": "acá"
+    },
+    {
+     "ini": 34.52,
+     "fin": 34.76,
+     "p": "era"
+    },
+    {
+     "ini": 34.76,
+     "fin": 35.08,
+     "p": "una"
+    },
+    {
+     "ini": 35.08,
+     "fin": 35.52,
+     "p": "cultura"
+    },
+    {
+     "ini": 35.52,
+     "fin": 35.9,
+     "p": "más"
+    },
+    {
+     "ini": 35.9,
+     "fin": 36.72,
+     "p": "de"
+    },
+    {
+     "ini": 36.72,
+     "fin": 37.72,
+     "p": "debatir"
+    },
+    {
+     "ini": 37.72,
+     "fin": 38.06,
+     "p": "y"
+    },
+    {
+     "ini": 38.06,
+     "fin": 38.26,
+     "p": "eso"
+    },
+    {
+     "ini": 38.26,
+     "fin": 38.42,
+     "p": "fue"
+    },
+    {
+     "ini": 38.42,
+     "fin": 38.54,
+     "p": "un"
+    },
+    {
+     "ini": 38.54,
+     "fin": 38.78,
+     "p": "poquito"
+    }
+   ]
+  },
+  {
+   "ini": 38.78,
+   "fin": 46.06,
+   "texto": "choqueante porque al principio yo pensé esta persona está me está casi que agrediendo y",
+   "palabras": [
+    {
+     "ini": 38.78,
+     "fin": 39.76,
+     "p": "choqueante"
+    },
+    {
+     "ini": 39.76,
+     "fin": 39.96,
+     "p": "porque"
+    },
+    {
+     "ini": 39.96,
+     "fin": 40.2,
+     "p": "al"
+    },
+    {
+     "ini": 40.2,
+     "fin": 40.48,
+     "p": "principio"
+    },
+    {
+     "ini": 40.48,
+     "fin": 40.68,
+     "p": "yo"
+    },
+    {
+     "ini": 40.68,
+     "fin": 41.12,
+     "p": "pensé"
+    },
+    {
+     "ini": 41.12,
+     "fin": 41.9,
+     "p": "esta"
+    },
+    {
+     "ini": 41.9,
+     "fin": 42.5,
+     "p": "persona"
+    },
+    {
+     "ini": 42.5,
+     "fin": 43.36,
+     "p": "está"
+    },
+    {
+     "ini": 43.36,
+     "fin": 43.8,
+     "p": "me"
+    },
+    {
+     "ini": 43.8,
+     "fin": 44.64,
+     "p": "está"
+    },
+    {
+     "ini": 44.64,
+     "fin": 45.04,
+     "p": "casi"
+    },
+    {
+     "ini": 45.04,
+     "fin": 45.32,
+     "p": "que"
+    },
+    {
+     "ini": 45.32,
+     "fin": 45.84,
+     "p": "agrediendo"
+    },
+    {
+     "ini": 45.84,
+     "fin": 46.06,
+     "p": "y"
+    }
+   ]
+  },
+  {
+   "ini": 46.06,
+   "fin": 50.46,
+   "texto": "no es una cuestión de agresión es simplemente que está planteando un punto de vista y después",
+   "palabras": [
+    {
+     "ini": 46.06,
+     "fin": 46.16,
+     "p": "no"
+    },
+    {
+     "ini": 46.16,
+     "fin": 46.26,
+     "p": "es"
+    },
+    {
+     "ini": 46.26,
+     "fin": 46.42,
+     "p": "una"
+    },
+    {
+     "ini": 46.42,
+     "fin": 46.7,
+     "p": "cuestión"
+    },
+    {
+     "ini": 46.7,
+     "fin": 46.9,
+     "p": "de"
+    },
+    {
+     "ini": 46.9,
+     "fin": 47.16,
+     "p": "agresión"
+    },
+    {
+     "ini": 47.16,
+     "fin": 47.34,
+     "p": "es"
+    },
+    {
+     "ini": 47.34,
+     "fin": 47.66,
+     "p": "simplemente"
+    },
+    {
+     "ini": 47.66,
+     "fin": 47.92,
+     "p": "que"
+    },
+    {
+     "ini": 47.92,
+     "fin": 48.26,
+     "p": "está"
+    },
+    {
+     "ini": 48.26,
+     "fin": 48.74,
+     "p": "planteando"
+    },
+    {
+     "ini": 48.74,
+     "fin": 48.86,
+     "p": "un"
+    },
+    {
+     "ini": 48.86,
+     "fin": 49.16,
+     "p": "punto"
+    },
+    {
+     "ini": 49.16,
+     "fin": 49.34,
+     "p": "de"
+    },
+    {
+     "ini": 49.34,
+     "fin": 49.64,
+     "p": "vista"
+    },
+    {
+     "ini": 49.64,
+     "fin": 50.18,
+     "p": "y"
+    },
+    {
+     "ini": 50.18,
+     "fin": 50.46,
+     "p": "después"
+    }
+   ]
+  },
+  {
+   "ini": 50.46,
+   "fin": 53.5,
+   "texto": "cuando terminara clase charlábamos y hablábamos y todo bien entonces",
+   "palabras": [
+    {
+     "ini": 50.46,
+     "fin": 50.74,
+     "p": "cuando"
+    },
+    {
+     "ini": 50.74,
+     "fin": 51.16,
+     "p": "terminara"
+    },
+    {
+     "ini": 51.16,
+     "fin": 51.4,
+     "p": "clase"
+    },
+    {
+     "ini": 51.4,
+     "fin": 52.08,
+     "p": "charlábamos"
+    },
+    {
+     "ini": 52.08,
+     "fin": 52.22,
+     "p": "y"
+    },
+    {
+     "ini": 52.22,
+     "fin": 52.56,
+     "p": "hablábamos"
+    },
+    {
+     "ini": 52.56,
+     "fin": 52.72,
+     "p": "y"
+    },
+    {
+     "ini": 52.72,
+     "fin": 52.9,
+     "p": "todo"
+    },
+    {
+     "ini": 52.9,
+     "fin": 53.22,
+     "p": "bien"
+    },
+    {
+     "ini": 53.22,
+     "fin": 53.5,
+     "p": "entonces"
+    }
+   ]
+  }
+ ]
+}

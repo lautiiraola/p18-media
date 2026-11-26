@@ -1,0 +1,41 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,646,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.34,P18,,0,0,0,,Prueba y error.
+Dialogue: 0,0:00:02.14,0:00:03.60,P18,,0,0,0,,Creciendo, metés
+Dialogue: 0,0:00:03.60,0:00:04.80,P18,,0,0,0,,tiros ganadores y es genial.
+Dialogue: 0,0:00:04.80,0:00:06.00,P18,,0,0,0,,Al otro día volvés y
+Dialogue: 0,0:00:06.00,0:00:07.48,P18,,0,0,0,,errás el tiro del final
+Dialogue: 0,0:00:07.48,0:00:08.18,P18,,0,0,0,,y es un desastre.
+Dialogue: 0,0:00:08.26,0:00:09.64,P18,,0,0,0,,Y al día siguiente
+Dialogue: 0,0:00:09.64,0:00:10.58,P18,,0,0,0,,estás jugando de nuevo.
+Dialogue: 0,0:00:10.58,0:00:12.08,P18,,0,0,0,,Entendés que la vida es
+Dialogue: 0,0:00:12.08,0:00:13.92,P18,,0,0,0,,cíclica:
+Dialogue: 0,0:00:13.92,0:00:15.40,P18,,0,0,0,,lo que hacés el lunes es
+Dialogue: 0,0:00:15.40,0:00:17.14,P18,,0,0,0,,bárbaro, pero el martes es
+Dialogue: 0,0:00:17.14,0:00:17.60,P18,,0,0,0,,un mal día.
+Dialogue: 0,0:00:17.60,0:00:18.08,P18,,0,0,0,,¿Pero sabés qué?
+Dialogue: 0,0:00:18.08,0:00:18.98,P18,,0,0,0,,Existe el miércoles.
+Dialogue: 0,0:00:18.98,0:00:20.04,P18,,0,0,0,,¿Vamos a vivir
+Dialogue: 0,0:00:20.04,0:00:21.08,P18,,0,0,0,,así, para arriba y para abajo,
+Dialogue: 0,0:00:21.08,0:00:21.78,P18,,0,0,0,,todo el tiempo?
+Dialogue: 0,0:00:22.50,0:00:23.80,P18,,0,0,0,,En vez de mantenerte estable y
+Dialogue: 0,0:00:23.80,0:00:24.62,P18,,0,0,0,,entender que en realidad
+Dialogue: 0,0:00:24.62,0:00:27.10,P18,,0,0,0,,es un camino de evolución:
+Dialogue: 0,0:00:27.10,0:00:28.48,P18,,0,0,0,,todos los días es mejorar,
+Dialogue: 0,0:00:28.48,0:00:30.32,P18,,0,0,0,,curiosidad constante,
+Dialogue: 0,0:00:30.32,0:00:31.20,P18,,0,0,0,,seguir creciendo.
+Dialogue: 0,0:00:31.68,0:00:33.46,P18,,0,0,0,,Los resultados no importan tanto.
+Dialogue: 0,0:00:34.46,0:00:36.58,P18,,0,0,0,,Lo que importa es
+Dialogue: 0,0:00:36.58,0:00:37.28,P18,,0,0,0,,ir descubriendo.

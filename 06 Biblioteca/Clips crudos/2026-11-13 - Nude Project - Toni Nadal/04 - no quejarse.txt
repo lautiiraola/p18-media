@@ -1,0 +1,26 @@
+CLIP 04 — LO ESENCIAL ES NO QUEJARSE: QUEJARSE NO CAMBIA NADA
+
+Inicio:     48:02.9  (2882.88 s)
+Fin:        48:49.4  (2929.36 s)
+Duración:   46.5 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LO ESENCIAL ES NO QUEJARSE: QUEJARSE NO CAMBIA NADA   (en el reel, en lima: NO QUEJARSE)
+Departamento:     Deporte y mentalidad
+Área:             Presión y dificultad
+Tema:             No quejarse
+Fuente:           Nude Project - Toni Nadal — "La mente detrás de Rafael Nadal, Toni Nadal"
+                  https://www.youtube.com/watch?v=kXF9-_UTNJM&t=2882s
+
+Por qué lo elegí:
+Gancho directo y una observación simple: quien se acostumbra a quejarse hace menos para cambiar su situación; quien no se queja busca soluciones. Cierra con 'casi siempre hay solución'.
+
+Gancho (primeros 3 s): Para mí, lo esencial es no quejarse en la vida.
+
+Notas para la revisión: Viene de cuando Rafa estaba lesionado; no da consejos médicos.
+
+Transcripción del clip:
+para mí, lo esencial es no quejarse en la vida. Además, yo he podido comprobar que la inmensa mayoría de gente que se acostumbra a quejarse es la gente que está menos dispuesta a hacer cosas para cambiar su situación. La gente que se acostumbra a no quejar es gente que entiende los problemas y que intenta buscar solución. Pues, cuando venía Rafael, yo que le decía a Rafael, tranquilo que no hay mal, que 100 años dure. Nosotros tenemos que estar preparados para cuando volvamos a estar con la cabeza de manera positiva, para estar bien y tranquilo que esto se va a solucionar. Porque yo creo que en la vida casi siempre hay solución.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - Nude Project - Toni Nadal/04 - no quejarse.mp4" "LO ESENCIAL ES *NO QUEJARSE*: QUEJARSE NO CAMBIA NADA" --fuente "Nude Project - Toni Nadal"

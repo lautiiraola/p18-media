@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,548,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.82,P18,,0,0,0,,¿A qué me refiero por
+Dialogue: 0,0:00:00.82,0:00:01.68,P18,,0,0,0,,circunstancias personales?
+Dialogue: 0,0:00:01.68,0:00:03.04,P18,,0,0,0,,Hay mucha gente que dice,
+Dialogue: 0,0:00:03.04,0:00:03.92,P18,,0,0,0,,mira, yo es que tengo un sueldo
+Dialogue: 0,0:00:03.92,0:00:06.44,P18,,0,0,0,,muy bajo y a mí no me merece la
+Dialogue: 0,0:00:06.44,0:00:07.80,P18,,0,0,0,,pena, porque si yo gano 1 ,000
+Dialogue: 0,0:00:07.80,0:00:10.60,P18,,0,0,0,,euros o 800 euros, ¿para qué voy a
+Dialogue: 0,0:00:10.60,0:00:11.76,P18,,0,0,0,,mejorar mis finanzas?
+Dialogue: 0,0:00:12.84,0:00:15.14,P18,,0,0,0,,Y no es verdad, porque como tú
+Dialogue: 0,0:00:15.14,0:00:17.66,P18,,0,0,0,,manejas 1 ,000 euros o 800 euros o
+Dialogue: 0,0:00:17.66,0:00:18.94,P18,,0,0,0,,5 euros en la cuenta, es como
+Dialogue: 0,0:00:18.94,0:00:20.58,P18,,0,0,0,,manejarás el día de mañana si
+Dialogue: 0,0:00:20.58,0:00:22.06,P18,,0,0,0,,tienes 10 ,000, si tienes luego
+Dialogue: 0,0:00:22.06,0:00:22.92,P18,,0,0,0,,100 ,000.
+Dialogue: 0,0:00:22.92,0:00:26.22,P18,,0,0,0,,Entonces, es una forma de ir
+Dialogue: 0,0:00:26.22,0:00:27.36,P18,,0,0,0,,adaptándote al cambio.
+Dialogue: 0,0:00:27.36,0:00:28.58,P18,,0,0,0,,Entonces, es para todo el mundo.
+Dialogue: 0,0:00:28.58,0:00:30.76,P18,,0,0,0,,Y aunque seas estudiante,
+Dialogue: 0,0:00:30.76,0:00:31.52,P18,,0,0,0,,preocupate por el tema,
+Dialogue: 0,0:00:31.52,0:00:32.20,P18,,0,0,0,,porque es como el carnet de
+Dialogue: 0,0:00:32.20,0:00:33.50,P18,,0,0,0,,conducir, ya lo irás usando.

@@ -1,0 +1,947 @@
+{
+ "idioma": "es",
+ "duracion": 47.84,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 2.96,
+   "texto": "Pero era ya algo muy loco que todo el mundo me decía Oli.",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.34,
+     "p": "Pero"
+    },
+    {
+     "ini": 0.34,
+     "fin": 0.6,
+     "p": "era"
+    },
+    {
+     "ini": 0.6,
+     "fin": 0.74,
+     "p": "ya"
+    },
+    {
+     "ini": 0.74,
+     "fin": 0.92,
+     "p": "algo"
+    },
+    {
+     "ini": 0.92,
+     "fin": 1.18,
+     "p": "muy"
+    },
+    {
+     "ini": 1.18,
+     "fin": 1.5,
+     "p": "loco"
+    },
+    {
+     "ini": 1.5,
+     "fin": 1.74,
+     "p": "que"
+    },
+    {
+     "ini": 1.74,
+     "fin": 1.98,
+     "p": "todo"
+    },
+    {
+     "ini": 1.98,
+     "fin": 2.04,
+     "p": "el"
+    },
+    {
+     "ini": 2.04,
+     "fin": 2.22,
+     "p": "mundo"
+    },
+    {
+     "ini": 2.22,
+     "fin": 2.46,
+     "p": "me"
+    },
+    {
+     "ini": 2.46,
+     "fin": 2.64,
+     "p": "decía"
+    },
+    {
+     "ini": 2.64,
+     "fin": 2.96,
+     "p": "Oli."
+    }
+   ]
+  },
+  {
+   "ini": 3.14,
+   "fin": 4.74,
+   "texto": "O sea, todo el parche de ella decía Oli.",
+   "palabras": [
+    {
+     "ini": 3.14,
+     "fin": 3.14,
+     "p": "O"
+    },
+    {
+     "ini": 3.14,
+     "fin": 3.34,
+     "p": "sea,"
+    },
+    {
+     "ini": 3.44,
+     "fin": 3.5,
+     "p": "todo"
+    },
+    {
+     "ini": 3.5,
+     "fin": 3.64,
+     "p": "el"
+    },
+    {
+     "ini": 3.64,
+     "fin": 3.86,
+     "p": "parche"
+    },
+    {
+     "ini": 3.86,
+     "fin": 3.96,
+     "p": "de"
+    },
+    {
+     "ini": 3.96,
+     "fin": 4.06,
+     "p": "ella"
+    },
+    {
+     "ini": 4.06,
+     "fin": 4.32,
+     "p": "decía"
+    },
+    {
+     "ini": 4.32,
+     "fin": 4.74,
+     "p": "Oli."
+    }
+   ]
+  },
+  {
+   "ini": 4.88,
+   "fin": 5.12,
+   "texto": "Claro.",
+   "palabras": [
+    {
+     "ini": 4.88,
+     "fin": 5.12,
+     "p": "Claro."
+    }
+   ]
+  },
+  {
+   "ini": 5.38,
+   "fin": 7.76,
+   "texto": "Y iba a otros parches y todos me decían Oli.",
+   "palabras": [
+    {
+     "ini": 5.38,
+     "fin": 5.58,
+     "p": "Y"
+    },
+    {
+     "ini": 5.58,
+     "fin": 5.72,
+     "p": "iba"
+    },
+    {
+     "ini": 5.72,
+     "fin": 5.82,
+     "p": "a"
+    },
+    {
+     "ini": 5.82,
+     "fin": 6.0,
+     "p": "otros"
+    },
+    {
+     "ini": 6.0,
+     "fin": 6.32,
+     "p": "parches"
+    },
+    {
+     "ini": 6.32,
+     "fin": 6.52,
+     "p": "y"
+    },
+    {
+     "ini": 6.52,
+     "fin": 6.68,
+     "p": "todos"
+    },
+    {
+     "ini": 6.68,
+     "fin": 6.9,
+     "p": "me"
+    },
+    {
+     "ini": 6.9,
+     "fin": 7.12,
+     "p": "decían"
+    },
+    {
+     "ini": 7.12,
+     "fin": 7.76,
+     "p": "Oli."
+    }
+   ]
+  },
+  {
+   "ini": 8.42,
+   "fin": 10.3,
+   "texto": "Y salía a farrear y me saludaban Oli.",
+   "palabras": [
+    {
+     "ini": 8.42,
+     "fin": 8.68,
+     "p": "Y"
+    },
+    {
+     "ini": 8.68,
+     "fin": 8.88,
+     "p": "salía"
+    },
+    {
+     "ini": 8.88,
+     "fin": 8.98,
+     "p": "a"
+    },
+    {
+     "ini": 8.98,
+     "fin": 9.32,
+     "p": "farrear"
+    },
+    {
+     "ini": 9.32,
+     "fin": 9.44,
+     "p": "y"
+    },
+    {
+     "ini": 9.44,
+     "fin": 9.64,
+     "p": "me"
+    },
+    {
+     "ini": 9.64,
+     "fin": 10.0,
+     "p": "saludaban"
+    },
+    {
+     "ini": 10.0,
+     "fin": 10.3,
+     "p": "Oli."
+    }
+   ]
+  },
+  {
+   "ini": 10.56,
+   "fin": 12.04,
+   "texto": "O sea, así era una locura.",
+   "palabras": [
+    {
+     "ini": 10.56,
+     "fin": 10.68,
+     "p": "O"
+    },
+    {
+     "ini": 10.68,
+     "fin": 10.92,
+     "p": "sea,"
+    },
+    {
+     "ini": 11.1,
+     "fin": 11.2,
+     "p": "así"
+    },
+    {
+     "ini": 11.2,
+     "fin": 11.3,
+     "p": "era"
+    },
+    {
+     "ini": 11.3,
+     "fin": 11.58,
+     "p": "una"
+    },
+    {
+     "ini": 11.58,
+     "fin": 12.04,
+     "p": "locura."
+    }
+   ]
+  },
+  {
+   "ini": 12.7,
+   "fin": 15.76,
+   "texto": "Y yo en mi mente decía como, guás, qué loco.",
+   "palabras": [
+    {
+     "ini": 12.7,
+     "fin": 12.84,
+     "p": "Y"
+    },
+    {
+     "ini": 12.84,
+     "fin": 13.28,
+     "p": "yo"
+    },
+    {
+     "ini": 13.28,
+     "fin": 13.4,
+     "p": "en"
+    },
+    {
+     "ini": 13.4,
+     "fin": 13.6,
+     "p": "mi"
+    },
+    {
+     "ini": 13.6,
+     "fin": 14.28,
+     "p": "mente"
+    },
+    {
+     "ini": 14.28,
+     "fin": 14.66,
+     "p": "decía"
+    },
+    {
+     "ini": 14.66,
+     "fin": 15.04,
+     "p": "como,"
+    },
+    {
+     "ini": 15.22,
+     "fin": 15.28,
+     "p": "guás,"
+    },
+    {
+     "ini": 15.28,
+     "fin": 15.42,
+     "p": "qué"
+    },
+    {
+     "ini": 15.42,
+     "fin": 15.76,
+     "p": "loco."
+    }
+   ]
+  },
+  {
+   "ini": 16.34,
+   "fin": 20.94,
+   "texto": "Y yo en Chicago había trabajado con el director creativo de Budweiser,",
+   "palabras": [
+    {
+     "ini": 16.34,
+     "fin": 16.46,
+     "p": "Y"
+    },
+    {
+     "ini": 16.46,
+     "fin": 16.58,
+     "p": "yo"
+    },
+    {
+     "ini": 16.58,
+     "fin": 16.74,
+     "p": "en"
+    },
+    {
+     "ini": 16.74,
+     "fin": 17.06,
+     "p": "Chicago"
+    },
+    {
+     "ini": 17.06,
+     "fin": 17.28,
+     "p": "había"
+    },
+    {
+     "ini": 17.28,
+     "fin": 17.8,
+     "p": "trabajado"
+    },
+    {
+     "ini": 17.8,
+     "fin": 18.22,
+     "p": "con"
+    },
+    {
+     "ini": 18.22,
+     "fin": 18.42,
+     "p": "el"
+    },
+    {
+     "ini": 18.42,
+     "fin": 18.74,
+     "p": "director"
+    },
+    {
+     "ini": 18.74,
+     "fin": 19.46,
+     "p": "creativo"
+    },
+    {
+     "ini": 19.46,
+     "fin": 19.86,
+     "p": "de"
+    },
+    {
+     "ini": 19.86,
+     "fin": 20.94,
+     "p": "Budweiser,"
+    }
+   ]
+  },
+  {
+   "ini": 21.2,
+   "fin": 22.7,
+   "texto": "que fue el que sacó la campaña,",
+   "palabras": [
+    {
+     "ini": 21.2,
+     "fin": 21.24,
+     "p": "que"
+    },
+    {
+     "ini": 21.24,
+     "fin": 21.32,
+     "p": "fue"
+    },
+    {
+     "ini": 21.32,
+     "fin": 21.46,
+     "p": "el"
+    },
+    {
+     "ini": 21.46,
+     "fin": 21.58,
+     "p": "que"
+    },
+    {
+     "ini": 21.58,
+     "fin": 21.8,
+     "p": "sacó"
+    },
+    {
+     "ini": 21.8,
+     "fin": 22.0,
+     "p": "la"
+    },
+    {
+     "ini": 22.0,
+     "fin": 22.7,
+     "p": "campaña,"
+    }
+   ]
+  },
+  {
+   "ini": 22.86,
+   "fin": 25.84,
+   "texto": "no sé si te acuerdas que se llamaban por celular.",
+   "palabras": [
+    {
+     "ini": 22.86,
+     "fin": 23.0,
+     "p": "no"
+    },
+    {
+     "ini": 23.0,
+     "fin": 23.08,
+     "p": "sé"
+    },
+    {
+     "ini": 23.08,
+     "fin": 23.14,
+     "p": "si"
+    },
+    {
+     "ini": 23.14,
+     "fin": 23.34,
+     "p": "te"
+    },
+    {
+     "ini": 23.34,
+     "fin": 23.62,
+     "p": "acuerdas"
+    },
+    {
+     "ini": 23.62,
+     "fin": 24.44,
+     "p": "que"
+    },
+    {
+     "ini": 24.44,
+     "fin": 24.68,
+     "p": "se"
+    },
+    {
+     "ini": 24.68,
+     "fin": 24.92,
+     "p": "llamaban"
+    },
+    {
+     "ini": 24.92,
+     "fin": 25.44,
+     "p": "por"
+    },
+    {
+     "ini": 25.44,
+     "fin": 25.84,
+     "p": "celular."
+    }
+   ]
+  },
+  {
+   "ini": 26.6,
+   "fin": 27.04,
+   "texto": "¡Wazaaaar!",
+   "palabras": [
+    {
+     "ini": 26.6,
+     "fin": 27.04,
+     "p": "¡Wazaaaar!"
+    }
+   ]
+  },
+  {
+   "ini": 27.06,
+   "fin": 28.94,
+   "texto": "Sí, claro, es un mega hit.",
+   "palabras": [
+    {
+     "ini": 27.06,
+     "fin": 27.4,
+     "p": "Sí,"
+    },
+    {
+     "ini": 27.4,
+     "fin": 27.68,
+     "p": "claro,"
+    },
+    {
+     "ini": 27.7,
+     "fin": 28.0,
+     "p": "es"
+    },
+    {
+     "ini": 28.0,
+     "fin": 28.38,
+     "p": "un"
+    },
+    {
+     "ini": 28.38,
+     "fin": 28.78,
+     "p": "mega"
+    },
+    {
+     "ini": 28.78,
+     "fin": 28.94,
+     "p": "hit."
+    }
+   ]
+  },
+  {
+   "ini": 28.94,
+   "fin": 35.52,
+   "texto": "Estos bebés no tenia de que estamos hablando, pero era una campaña del Super Bowl, la mas exitosa de la historia del Super Bowl",
+   "palabras": [
+    {
+     "ini": 28.94,
+     "fin": 29.46,
+     "p": "Estos"
+    },
+    {
+     "ini": 29.46,
+     "fin": 29.76,
+     "p": "bebés"
+    },
+    {
+     "ini": 29.76,
+     "fin": 29.94,
+     "p": "no"
+    },
+    {
+     "ini": 29.94,
+     "fin": 30.3,
+     "p": "tenia"
+    },
+    {
+     "ini": 30.3,
+     "fin": 30.4,
+     "p": "de"
+    },
+    {
+     "ini": 30.4,
+     "fin": 30.48,
+     "p": "que"
+    },
+    {
+     "ini": 30.48,
+     "fin": 30.72,
+     "p": "estamos"
+    },
+    {
+     "ini": 30.72,
+     "fin": 31.0,
+     "p": "hablando,"
+    },
+    {
+     "ini": 31.24,
+     "fin": 31.3,
+     "p": "pero"
+    },
+    {
+     "ini": 31.3,
+     "fin": 31.48,
+     "p": "era"
+    },
+    {
+     "ini": 31.48,
+     "fin": 31.66,
+     "p": "una"
+    },
+    {
+     "ini": 31.66,
+     "fin": 32.2,
+     "p": "campaña"
+    },
+    {
+     "ini": 32.2,
+     "fin": 32.76,
+     "p": "del"
+    },
+    {
+     "ini": 32.76,
+     "fin": 32.76,
+     "p": "Super"
+    },
+    {
+     "ini": 32.76,
+     "fin": 32.92,
+     "p": "Bowl,"
+    },
+    {
+     "ini": 33.06,
+     "fin": 33.24,
+     "p": "la"
+    },
+    {
+     "ini": 33.24,
+     "fin": 33.56,
+     "p": "mas"
+    },
+    {
+     "ini": 33.56,
+     "fin": 34.36,
+     "p": "exitosa"
+    },
+    {
+     "ini": 34.36,
+     "fin": 34.74,
+     "p": "de"
+    },
+    {
+     "ini": 34.74,
+     "fin": 34.84,
+     "p": "la"
+    },
+    {
+     "ini": 34.84,
+     "fin": 35.02,
+     "p": "historia"
+    },
+    {
+     "ini": 35.02,
+     "fin": 35.14,
+     "p": "del"
+    },
+    {
+     "ini": 35.14,
+     "fin": 35.42,
+     "p": "Super"
+    },
+    {
+     "ini": 35.42,
+     "fin": 35.52,
+     "p": "Bowl"
+    }
+   ]
+  },
+  {
+   "ini": 35.52,
+   "fin": 40.34,
+   "texto": "Y yo trabajé con ese man, y yo una vez me senté con el man y le dije, ¿como se le ocurrió esa mierda?",
+   "palabras": [
+    {
+     "ini": 35.52,
+     "fin": 35.7,
+     "p": "Y"
+    },
+    {
+     "ini": 35.7,
+     "fin": 35.84,
+     "p": "yo"
+    },
+    {
+     "ini": 35.84,
+     "fin": 36.06,
+     "p": "trabajé"
+    },
+    {
+     "ini": 36.06,
+     "fin": 36.2,
+     "p": "con"
+    },
+    {
+     "ini": 36.2,
+     "fin": 36.38,
+     "p": "ese"
+    },
+    {
+     "ini": 36.38,
+     "fin": 36.56,
+     "p": "man,"
+    },
+    {
+     "ini": 36.82,
+     "fin": 36.82,
+     "p": "y"
+    },
+    {
+     "ini": 36.82,
+     "fin": 36.94,
+     "p": "yo"
+    },
+    {
+     "ini": 36.94,
+     "fin": 37.28,
+     "p": "una"
+    },
+    {
+     "ini": 37.28,
+     "fin": 37.46,
+     "p": "vez"
+    },
+    {
+     "ini": 37.46,
+     "fin": 37.58,
+     "p": "me"
+    },
+    {
+     "ini": 37.58,
+     "fin": 37.84,
+     "p": "senté"
+    },
+    {
+     "ini": 37.84,
+     "fin": 37.96,
+     "p": "con"
+    },
+    {
+     "ini": 37.96,
+     "fin": 38.12,
+     "p": "el"
+    },
+    {
+     "ini": 38.12,
+     "fin": 38.24,
+     "p": "man"
+    },
+    {
+     "ini": 38.24,
+     "fin": 38.32,
+     "p": "y"
+    },
+    {
+     "ini": 38.32,
+     "fin": 38.44,
+     "p": "le"
+    },
+    {
+     "ini": 38.44,
+     "fin": 38.58,
+     "p": "dije,"
+    },
+    {
+     "ini": 38.78,
+     "fin": 39.12,
+     "p": "¿como"
+    },
+    {
+     "ini": 39.12,
+     "fin": 39.18,
+     "p": "se"
+    },
+    {
+     "ini": 39.18,
+     "fin": 39.34,
+     "p": "le"
+    },
+    {
+     "ini": 39.34,
+     "fin": 39.64,
+     "p": "ocurrió"
+    },
+    {
+     "ini": 39.64,
+     "fin": 39.8,
+     "p": "esa"
+    },
+    {
+     "ini": 39.8,
+     "fin": 40.34,
+     "p": "mierda?"
+    }
+   ]
+  },
+  {
+   "ini": 40.74,
+   "fin": 47.68,
+   "texto": "Y me dijo, yo llegue a la conclusión de que lo mejor que una marca puede hacer es adueñarse de un saludo, o de una expresión",
+   "palabras": [
+    {
+     "ini": 40.74,
+     "fin": 40.94,
+     "p": "Y"
+    },
+    {
+     "ini": 40.94,
+     "fin": 41.06,
+     "p": "me"
+    },
+    {
+     "ini": 41.06,
+     "fin": 41.18,
+     "p": "dijo,"
+    },
+    {
+     "ini": 41.36,
+     "fin": 41.42,
+     "p": "yo"
+    },
+    {
+     "ini": 41.42,
+     "fin": 41.66,
+     "p": "llegue"
+    },
+    {
+     "ini": 41.66,
+     "fin": 41.74,
+     "p": "a"
+    },
+    {
+     "ini": 41.74,
+     "fin": 41.92,
+     "p": "la"
+    },
+    {
+     "ini": 41.92,
+     "fin": 42.54,
+     "p": "conclusión"
+    },
+    {
+     "ini": 42.54,
+     "fin": 42.72,
+     "p": "de"
+    },
+    {
+     "ini": 42.72,
+     "fin": 42.84,
+     "p": "que"
+    },
+    {
+     "ini": 42.84,
+     "fin": 42.92,
+     "p": "lo"
+    },
+    {
+     "ini": 42.92,
+     "fin": 43.12,
+     "p": "mejor"
+    },
+    {
+     "ini": 43.12,
+     "fin": 43.26,
+     "p": "que"
+    },
+    {
+     "ini": 43.26,
+     "fin": 43.38,
+     "p": "una"
+    },
+    {
+     "ini": 43.38,
+     "fin": 43.62,
+     "p": "marca"
+    },
+    {
+     "ini": 43.62,
+     "fin": 43.84,
+     "p": "puede"
+    },
+    {
+     "ini": 43.84,
+     "fin": 44.32,
+     "p": "hacer"
+    },
+    {
+     "ini": 44.32,
+     "fin": 44.72,
+     "p": "es"
+    },
+    {
+     "ini": 44.72,
+     "fin": 45.22,
+     "p": "adueñarse"
+    },
+    {
+     "ini": 45.22,
+     "fin": 45.36,
+     "p": "de"
+    },
+    {
+     "ini": 45.36,
+     "fin": 45.5,
+     "p": "un"
+    },
+    {
+     "ini": 45.5,
+     "fin": 46.1,
+     "p": "saludo,"
+    },
+    {
+     "ini": 46.78,
+     "fin": 46.88,
+     "p": "o"
+    },
+    {
+     "ini": 46.88,
+     "fin": 46.96,
+     "p": "de"
+    },
+    {
+     "ini": 46.96,
+     "fin": 47.14,
+     "p": "una"
+    },
+    {
+     "ini": 47.14,
+     "fin": 47.68,
+     "p": "expresión"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "carruseles": [
+  {
+   "id": "CARRUSEL_01",
+   "idea": "Para un primer trabajo, lo que pesa es la actitud: las ganas de aprender valen más que el currículum.",
+   "caption": "¿Primer laburo y sin experiencia?\nMariano, organizador del Café IA, cuenta qué mira cuando contrata a alguien que recién sale de la secundaria: ganas de aprender, prestar atención y hacerse cargo.\nGuardalo para tu primera entrevista.\n\n🎙 Fuente: entrevista P18 con Mariano · Café IA\n#proyecto18 #primertrabajo #actitud #jovenes #trabajo",
+   "slides": [
+    {
+     "tipo": "portada",
+     "foto": "carrusel/mariano_145.jpg",
+     "focoY": 18,
+     "chip": "Trabajo y oportunidades",
+     "titulo": "Lo que importa es la *actitud*.",
+     "bajada": "Qué mira Mariano, organizador del Café IA, cuando contrata a alguien que recién sale de la secundaria."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/mariano_dupla.jpg",
+     "focoY": 24,
+     "etiqueta": "El mito",
+     "titulo": "Sin experiencia no tenés *nada* para mostrar.",
+     "texto": "Es lo que sienten muchos al buscar su primer laburo. Mariano mira otra cosa."
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/mariano_60.jpg",
+     "focoY": 18,
+     "cita": "“Las ganas de aprender, saber que tiene ganas de aprender y de llegar a algún lado de la vida. Esa es la *diferencia*.”",
+     "firma": "Mariano · Café IA"
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Lo que sí suma",
+     "titulo": "Lo que se nota enseguida:",
+     "lista": [
+      {
+       "n": "01",
+       "t": "Prestar atención."
+      },
+      {
+       "n": "02",
+       "t": "Intentar aprender."
+      },
+      {
+       "n": "03",
+       "t": "Querer mejorar."
+      },
+      {
+       "n": "04",
+       "t": "Hacerte cargo de lo tuyo.",
+       "d": "“Tomar ownership de lo que tiene que hacer.”"
+      }
+     ]
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/mariano_270.jpg",
+     "focoY": 18,
+     "cita": "“Esa es la persona, sin importar que venga de un background bueno o lo que sea. Lo importante es la *actitud*.”",
+     "firma": "Mariano · Café IA"
+    },
+    {
+     "tipo": "cierre",
+     "frase": "Lo que todavía no tenés en experiencia lo podés mostrar en *actitud*.",
+     "pregunta": "¿Cómo mostrarías tus ganas de aprender en una entrevista?",
+     "accion": "Guardalo para tu primer laburo."
+    }
+   ]
+  },
+  {
+   "id": "CARRUSEL_02",
+   "idea": "El éxito es estar en paz con uno mismo, y todo lo bueno lleva tiempo y esfuerzo: no hay atajos.",
+   "caption": "Todo lo bueno lleva tiempo.\nPara Mariano, organizador del Café IA, el éxito no es llegar rápido: es estar en paz con uno mismo, rodearte bien y avanzar a tu ritmo.\nGuardalo para cuando quieras ir más rápido.\n\n🎙 Fuente: entrevista P18 con Mariano · Café IA\n#proyecto18 #crecimientopersonal #exito #habitos #paciencia",
+   "slides": [
+    {
+     "tipo": "portada",
+     "foto": "carrusel/mariano_360.jpg",
+     "focoY": 18,
+     "chip": "Crecimiento personal",
+     "titulo": "Todo lo bueno lleva *tiempo*.",
+     "bajada": "El consejo de Mariano, organizador del Café IA, para los que recién arrancan."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/mariano_dupla.jpg",
+     "focoY": 24,
+     "etiqueta": "El mito",
+     "titulo": "El éxito es llegar *rápido*.",
+     "texto": "Para Mariano, el éxito no pasa por la velocidad ni por tener más."
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/mariano_270.jpg",
+     "focoY": 18,
+     "cita": "“Yo creo que el éxito es estar en *paz* con uno mismo.”",
+     "firma": "Mariano · Café IA"
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Lo que ayuda",
+     "titulo": "Para recorrer el camino:",
+     "lista": [
+      {
+       "n": "01",
+       "t": "Hábitos saludables."
+      },
+      {
+       "n": "02",
+       "t": "Rodearte bien.",
+       "d": "“Rodearse de buena gente.”"
+      },
+      {
+       "n": "03",
+       "t": "Ser responsable."
+      },
+      {
+       "n": "04",
+       "t": "Pensar a dónde querés ir.",
+       "d": "“Qué me divierte, qué me importa.”"
+      }
+     ]
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/mariano_145.jpg",
+     "focoY": 18,
+     "cita": "“Todo lo bueno en la vida lleva tiempo y lleva esfuerzo, y no hay atajos ni respuestas *fáciles*.”",
+     "firma": "Mariano · Café IA"
+    },
+    {
+     "tipo": "cierre",
+     "frase": "“Haciendo las cosas bien, al ritmo de uno, vas a ir avanzando y encontrando *respuestas*.”",
+     "pregunta": "¿Qué estás construyendo a tu ritmo?",
+     "accion": "Guardalo y volvé a leerlo cuando quieras ir más rápido."
+    }
+   ]
+  }
+ ]
+}

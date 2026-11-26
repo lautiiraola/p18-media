@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1350
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,42,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,13,0,2,146,146,370,1
+Style: Cierre,Manrope ExtraBold,32,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,5,146,146,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.50,P18,,0,0,0,,Es muy raro hacerse el payaso,
+Dialogue: 0,0:00:01.50,0:00:04.30,P18,,0,0,0,,hacerse el tonto, siendo grande.
+Dialogue: 0,0:00:04.92,0:00:05.80,P18,,0,0,0,,Tonto, quiero decir,
+Dialogue: 0,0:00:05.80,0:00:06.50,P18,,0,0,0,,despectivamente,
+Dialogue: 0,0:00:08.00,0:00:10.42,P18,,0,0,0,,pero ponerse a jugar.
+Dialogue: 0,0:00:10.42,0:00:12.04,P18,,0,0,0,,Esa es la palabra, a jugar.
+Dialogue: 0,0:00:12.04,0:00:14.42,P18,,0,0,0,,Y en el juego, podés
+Dialogue: 0,0:00:14.42,0:00:16.76,P18,,0,0,0,,vislumbrar el carácter de las
+Dialogue: 0,0:00:16.76,0:00:17.46,P18,,0,0,0,,personas.
+Dialogue: 0,0:00:18.28,0:00:20.74,P18,,0,0,0,,Sí, las podés detectar.
+Dialogue: 0,0:00:21.14,0:00:22.38,P18,,0,0,0,,Y te pueden detectar a vos
+Dialogue: 0,0:00:22.38,0:00:22.68,P18,,0,0,0,,también.
+Dialogue: 0,0:00:22.68,0:00:23.90,P18,,0,0,0,,Y es muy lindo.
+Dialogue: 0,0:00:24.48,0:00:26.46,P18,,0,0,0,,Cuando uno trabajó con un actor
+Dialogue: 0,0:00:26.46,0:00:29.74,P18,,0,0,0,,durante una temporada y después no
+Dialogue: 0,0:00:29.74,0:00:32.28,P18,,0,0,0,,lo ves durante siete años y te lo
+Dialogue: 0,0:00:32.28,0:00:33.88,P18,,0,0,0,,encontrás en un evento,
+Dialogue: 0,0:00:33.88,0:00:35.98,P18,,0,0,0,,a ese lo conocés, a esa persona
+Dialogue: 0,0:00:35.98,0:00:36.90,P18,,0,0,0,,la conocés.
+Dialogue: 0,0:00:36.90,0:00:38.86,P18,,0,0,0,,Es como encontrarse con un amigo
+Dialogue: 0,0:00:38.86,0:00:39.90,P18,,0,0,0,,de la secundaria,
+Dialogue: 0,0:00:40.58,0:00:42.18,P18,,0,0,0,,y decir, lo conozco, pueden pasar
+Dialogue: 0,0:00:42.18,0:00:42.88,P18,,0,0,0,,veinte años,
+Dialogue: 0,0:00:43.78,0:00:47.08,P18,,0,0,0,,pero yo vi el material
+Dialogue: 0,0:00:47.08,0:00:48.44,P18,,0,0,0,,en bruto de esta persona.

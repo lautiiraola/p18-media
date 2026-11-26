@@ -1,0 +1,26 @@
+CLIP 03 — EL AHORRO VA PRIMERO, NO CON LO QUE SOBRA
+
+Inicio:     23:24.2  (1404.24 s)
+Fin:        24:07.7  (1447.69 s)
+Duración:   43.5 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  EL AHORRO VA PRIMERO, NO CON LO QUE SOBRA   (en el reel, en lima: AHORRO, SOBRA)
+Departamento:     Finanzas y trabajo
+Área:             Finanzas personales
+Tema:             Ahorrar primero
+Fuente:           Tiene Sentido Pódcast - Pedro Becerro — "Experto en Finanzas: “¡dejar de hacer esto cada día puede ahorrarte 500€ al año!”"
+                  https://www.youtube.com/watch?v=i8PrcczmrSg&t=1404s
+
+Por qué lo elegí:
+Idea clave de orden: si ahorrás con lo que sobra, nunca sobra. Separarlo primero te arma un colchón.
+
+Gancho (primeros 3 s): ¿Por qué debería haber empezado por el ahorro?
+
+Notas para la revisión: Arranca con 'Eh': se puede recortar medio segundo si hace falta.
+
+Transcripción del clip:
+¿Por qué debería haber empezado? Porque he hecho algo erróneo entre comillas que es casi dejarlo para el final y muchas veces es mejor empezar por el ahorro para evitarnos no hacerlo. Porque si tú empiezas a reinar sobres de repente se acaba y ni ahorras, ni inviertes, ni haces nada. Y entonces vas viviendo al día, lo cual puede estar bien, pero para el futuro no tienes como un colchón, una protección, digamos. Hay que cuesta entender que si no tengo para alimentarme, para pagar la vivienda y para pagar la luz, ¿cómo voy a ahorrar? Eso es... estoy totalmente de acuerdo, pero a veces dentro de eso vas metiendo gastos que no deberías. Es
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-14 - Tiene Sentido Pódcast - Pedro Becerro/03 - ahorrar primero.mp4" "EL *AHORRO* VA PRIMERO, NO CON LO QUE *SOBRA*" --fuente "Tiene Sentido Pódcast - Pedro Becerro"

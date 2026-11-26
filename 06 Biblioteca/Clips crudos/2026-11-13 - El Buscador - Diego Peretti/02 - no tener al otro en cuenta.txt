@@ -1,0 +1,26 @@
+CLIP 02 — LO QUE ME DA VERGÜENZA: NO TENER AL OTRO EN CUENTA
+
+Inicio:     30:20.3  (1820.33 s)
+Fin:        31:10.3  (1870.27 s)
+Duración:   49.9 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LO QUE ME DA VERGÜENZA: NO TENER AL OTRO EN CUENTA   (en el reel, en lima: NO TENER AL OTRO)
+Departamento:     Crear y comunicar
+Área:             Vínculos y comunicación
+Tema:             Empatía y desubicación
+Fuente:           El Buscador - Diego Peretti — "DIEGO PERETTI: "El secreto de la vida es manejar los pensamientos y no que te manejen" | EL BUSCADOR"
+                  https://www.youtube.com/watch?v=hKY1xAQZnz0&t=1820s
+
+Por qué lo elegí:
+Peretti habla de la vergüenza ajena y propia cuando alguien dice o hace algo sin tener al otro en cuenta, y reconoce que a él también le pasa. Invita a mirar cómo tratamos a los demás.
+
+Gancho (primeros 3 s): Me da vergüenza la desubicación, sobre todo de algunas personas.
+
+Notas para la revisión: Arranca con la respuesta (la pregunta '¿Qué te da vergüenza?' queda afuera). Tiene algunas pausas ('este').
+
+Transcripción del clip:
+Me da vergüenza la desubicación, sobre todo, de algunas personas, la impunidad de no tener al otro en cuenta cuando se dice algo o se acciona de alguna manera, esa cosa muy egoísta. Y a veces las personas eso lo hacen sin intencionalidad, pero cuando lo veo, en alguna situación me provoca vergüenza ajena, vergüenza propia cuando caigo en una situación así y no me doy cuenta. Mucha impunidad en no tener en cuenta al otro en cualquier situación. Eso me da, me causa vergüenza ajena y propia cuando me ocurre.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - El Buscador - Diego Peretti/02 - no tener al otro en cuenta.mp4" "LO QUE ME DA VERGÜENZA: *NO TENER AL OTRO* EN CUENTA" --fuente "El Buscador - Diego Peretti"

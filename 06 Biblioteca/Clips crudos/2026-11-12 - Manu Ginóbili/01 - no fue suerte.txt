@@ -1,0 +1,26 @@
+CLIP 01 — NO FUE SUERTE: FUE ESFUERZO
+
+Inicio:     00:11.8  (11.75 s)
+Fin:        01:13.2  (73.25 s)
+Duración:   61.5 s  ⚠ dura 61.5s (buscado: 30–60s)
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  NO FUE SUERTE: FUE ESFUERZO   (en el reel, en lima: SUERTE, ESFUERZO)
+Departamento:     Deporte y mentalidad
+Área:             Disciplina y proceso
+Tema:             Resignar cosas por un objetivo
+Fuente:           Manu Ginóbili — "Motivación de Manu Ginobili"
+                  https://www.youtube.com/watch?v=PpDULFMScsk&t=11s
+
+Por qué lo elegí:
+Rompe la idea de que a los que llegan 'les tocó': Manu cuenta que desde los 14 resignó salidas y viajes con amigos para entrenar porque tenía un objetivo claro. Concepto de vida, no de entrenamiento.
+
+Gancho (primeros 3 s): Pensarán que bueno ser así, que te toque. Y la verdad que no.
+
+Notas para la revisión: Dice 'romper el culo' una vez (a los ~20 s del clip). Menciona la NBA y la plata sólo para decir que no fue regalado.
+
+Transcripción del clip:
+y pensarán que qué bueno ser así y que te toque. Y la verdad que no es tan así, tan que te toque. Si bien hay mucha gente que se esfuerza muchísimo y deja de lado muchas cosas, cuando lo ven en mí, en Luis Escobola, en Chapu Nozioni, no es algo que alguien nos regaló, se dio y nada más. Nos tuvimos que romper el culo realmente. Desde los 14 o 15 años que yo me metí en un gimnasio, me puse a entrenar, lo mismo con Luis, lo mismo con Chapu, y realmente relegamos muchísimo. Yo he hecho para dar un caso concreto de no ir al viejo sin el curso porque tenía que entrenar, tenía que jugar, o salió los fines de semana con mis amigos que la pasaban bárbaro y el otro día contaban lo que habían hecho y todas las cosas que les había pasado y yo me la tenía que bancar porque yo el otro día entrenaba, jugaba y yo tenía un objetivo bien en mente que era jugar al basquete y ser el mejor jugador que yo podía llegar a ser. Y creo que son algunas de las razones por las que se me dio todo.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-12 - Manu Ginóbili/01 - no fue suerte.mp4" "NO FUE *SUERTE*: FUE *ESFUERZO*" --fuente "Manu Ginóbili"

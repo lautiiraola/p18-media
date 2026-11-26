@@ -1,0 +1,13 @@
+Valentín (2026-11-24): "sacá todo el material que puedas, cuanto más mejor. Tratá que el material sea bueno. Y trabajá libremente. No pidas nunca más permiso."
+
+POR QUÉ: quiere velocidad y resultados completos, no checkpoints. Decide él al ver el resultado.
+
+CÓMO SE APLICA:
+- Después de la voz aprobada, avanzar sin frenar: assets → storyboard → Remotion → review → QA → master → registros. Tomar las decisiones creativas y técnicas con criterio propio y documentarlas en la bitácora en lugar de preguntar.
+- Buscar material en volumen y de calidad (Wikimedia CC0/PD/CC BY, videos CC BY, documentos públicos, gráficos propios) y descargarlo sin pedir confirmación.
+- Lo que NO cambia:
+  - el gate de ElevenLabs (p18-elevenlabs-gate), que es regla suya: el guion se entrega y se espera la voz;
+  - las reglas fijas: p18-formato-9-16, p18-duracion-30-50, p18-skills-guion;
+  - no usar material con derechos sin licencia ni CC BY-SA. Elegir siempre lo licenciable, porque publicar algo sin derechos lo expone a él.
+- Acciones hacia afuera (mails, publicaciones) siguen siendo suyas.
+- Relacionado: p18-process-log.

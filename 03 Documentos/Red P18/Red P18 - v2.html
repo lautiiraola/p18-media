@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<title>Red P18 — Quién es quién (v2)</title>
+<style>
+@font-face { font-family: Manrope; font-weight: 500; src: url("../../02 Branding/Fuentes/Manrope-500.ttf"); }
+@font-face { font-family: Manrope; font-weight: 700; src: url("../../02 Branding/Fuentes/Manrope-700.ttf"); }
+@font-face { font-family: Manrope; font-weight: 800; src: url("../../02 Branding/Fuentes/Manrope-800.ttf"); }
+@page { size: A4; margin: 0; }
+:root {
+  --lime: #C2F542; --ink: #172019; --paper: #F5F5EB; --deep: #14251D; --blue: #8EC3E6;
+  --muted: #3A463D; --muted-dark: #CDD3C8; --line: rgba(23,32,25,.18); --line-dark: rgba(245,245,235,.22);
+  --green: #42791B; --card: #FBFBF4;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { background: var(--paper); }
+body { font-family: Manrope, Arial, sans-serif; color: var(--ink); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+.page { width: 210mm; height: 297mm; padding: 16mm 16mm 14mm; position: relative; overflow: hidden; page-break-after: always; display: flex; flex-direction: column; }
+.page:last-child { page-break-after: auto; }
+.top { display: flex; justify-content: space-between; align-items: center; padding-bottom: 5mm; border-bottom: 1px solid var(--line); }
+.top img { height: 9mm; }
+.meta { font-size: 7.5pt; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+.foot { margin-top: auto; padding-top: 4mm; border-top: 1px solid var(--line); display: flex; justify-content: space-between; font-size: 7.5pt; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+h1 { font-size: 46pt; font-weight: 800; letter-spacing: -.055em; line-height: .95; margin-top: 8mm; }
+h1 .soft, h2 .soft { font-weight: 500; }
+h2 { font-size: 22pt; font-weight: 800; letter-spacing: -.045em; line-height: 1.05; margin-top: 8mm; }
+.lead { font-size: 10.5pt; line-height: 1.55; color: var(--muted); max-width: 140mm; margin-top: 4mm; }
+.sub { font-size: 9pt; line-height: 1.5; color: var(--muted); margin-top: 2mm; max-width: 150mm; }
+.kicker { font-size: 7.5pt; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; }
+.tbd { font-weight: 800; color: var(--green); }
+
+/* Mapa */
+.map { display: grid; grid-template-columns: 1fr 1fr .8fr; gap: 4mm; margin-top: 7mm; }
+.col { border-radius: 5mm; padding: 5.5mm 5mm; display: flex; flex-direction: column; gap: 2.4mm; }
+.col.young { background: var(--deep); color: var(--paper); }
+.col.adult { background: var(--blue); }
+.col.biz { box-shadow: inset 0 0 0 1.2px var(--ink); }
+.col.young .kicker { color: var(--lime); }
+.step { border-radius: 3mm; padding: 3mm 3.5mm; }
+.young .step { background: rgba(245,245,235,.08); box-shadow: inset 0 0 0 1px var(--line-dark); }
+.young .step.hi { background: var(--lime); color: var(--ink); box-shadow: none; }
+.adult .step { background: rgba(245,245,235,.55); }
+.adult .step.mid { background: var(--paper); box-shadow: inset 0 0 0 1.5px var(--ink); }
+.adult .step.hi { background: var(--ink); color: var(--paper); }
+.biz .step { background: var(--ink); color: var(--paper); }
+.step b { display: block; font-size: 12pt; font-weight: 800; letter-spacing: -.02em; }
+.step span { display: block; font-size: 7.8pt; line-height: 1.4; margin-top: .6mm; opacity: .85; }
+.arrow { text-align: center; font-size: 9pt; font-weight: 800; line-height: 1; opacity: .7; }
+.col .note { font-size: 7.6pt; line-height: 1.45; margin-top: auto; padding-top: 2mm; opacity: .85; }
+
+/* Ejes */
+.axes { display: grid; grid-template-columns: repeat(4, 1fr); gap: 3.5mm; margin-top: 5mm; }
+.axis { border-radius: 4mm; background: var(--card); box-shadow: inset 0 0 0 1px var(--line); padding: 4.5mm 4mm; }
+.axis .n { font-size: 8pt; font-weight: 800; color: var(--green); letter-spacing: .1em; }
+.axis b { display: block; font-size: 12.5pt; font-weight: 800; letter-spacing: -.02em; margin-top: 1.5mm; }
+.axis p { font-size: 8.2pt; line-height: 1.45; color: var(--muted); margin-top: 1.5mm; }
+
+/* Escala de compromiso */
+.scale { display: grid; grid-template-columns: repeat(5, 1fr); gap: 2.5mm; margin-top: 4mm; }
+.lvl { border-radius: 3mm; padding: 3.5mm 3.5mm; background: var(--card); box-shadow: inset 0 0 0 1px var(--line); }
+.lvl .dots { display: flex; gap: 1.2mm; }
+.lvl .dots i { width: 2.6mm; height: 2.6mm; border-radius: 50%; box-shadow: inset 0 0 0 1px var(--ink); }
+.lvl .dots i.on { background: var(--ink); }
+.lvl b { display: block; font-size: 10pt; font-weight: 800; margin-top: 2mm; }
+.lvl span { display: block; font-size: 7.6pt; line-height: 1.4; color: var(--muted); margin-top: .8mm; }
+
+/* Matriz */
+table { width: 100%; border-collapse: collapse; margin-top: 5mm; font-size: 7.9pt; line-height: 1.4; }
+th { text-align: left; font-size: 6.8pt; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); padding: 0 2.5mm 2.5mm 0; border-bottom: 1.5px solid var(--ink); }
+td { vertical-align: top; padding: 3mm 2.5mm 3mm 0; border-bottom: 1px solid var(--line); }
+td.role b { display: block; font-size: 10.5pt; font-weight: 800; letter-spacing: -.02em; }
+td.role span { display: inline-block; margin-top: 1mm; font-size: 6.4pt; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; padding: .6mm 1.8mm; border-radius: 10mm; }
+.y { background: var(--deep); color: var(--lime); }
+.a { background: var(--blue); color: var(--ink); }
+.b { background: var(--ink); color: var(--paper); }
+td .dots { display: flex; gap: 1mm; margin-bottom: 1mm; }
+td .dots i { width: 2.2mm; height: 2.2mm; border-radius: 50%; box-shadow: inset 0 0 0 1px var(--ink); }
+td .dots i.on { background: var(--ink); }
+td .ex { color: var(--muted); }
+tr.focus td { background: rgba(194,245,66,.28); }
+tr.focus td:first-child { padding-left: 2mm; }
+
+/* Zonas */
+.zones { display: grid; grid-template-columns: repeat(4, 1fr); gap: 2.5mm; margin-top: 4mm; }
+.zone { border-radius: 3mm; padding: 3mm 3.5mm; box-shadow: inset 0 0 0 1px var(--line); background: var(--card); }
+.zone b { display: block; font-size: 9.5pt; font-weight: 800; }
+.zone span { display: block; font-size: 7.4pt; line-height: 1.4; color: var(--muted); margin-top: .6mm; }
+
+/* Base de datos */
+.db { display: grid; grid-template-columns: 1.35fr 1fr; gap: 4mm; margin-top: 5mm; }
+.tbl { border-radius: 4mm; overflow: hidden; box-shadow: inset 0 0 0 1px var(--line); background: var(--card); }
+.tbl-head { background: var(--ink); color: var(--paper); padding: 3.5mm 4.5mm; display: flex; justify-content: space-between; align-items: baseline; }
+.tbl-head b { font-size: 11pt; font-weight: 800; }
+.tbl-head span { font-size: 7pt; color: var(--muted-dark); font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+.field { display: grid; grid-template-columns: 33mm 1fr; gap: 3mm; padding: 2.2mm 4.5mm; border-top: 1px solid var(--line); font-size: 7.9pt; line-height: 1.4; }
+.field b { font-weight: 800; }
+.field span { color: var(--muted); }
+.field.key { background: rgba(194,245,66,.28); }
+.field.kids { background: rgba(142,195,230,.25); }
+.side { display: flex; flex-direction: column; gap: 4mm; }
+.box { border-radius: 4mm; padding: 4.5mm; }
+.box.dark { background: var(--deep); color: var(--paper); }
+.box.dark .kicker { color: var(--lime); }
+.box p { font-size: 8.2pt; line-height: 1.5; margin-top: 2mm; }
+.box.dark p { color: var(--muted-dark); }
+.box.line { box-shadow: inset 0 0 0 1px var(--line); background: var(--card); }
+.legend { display: flex; gap: 4mm; margin-top: 3mm; font-size: 7.4pt; color: var(--muted); }
+.legend i { display: inline-block; width: 3mm; height: 3mm; border-radius: 1mm; vertical-align: -.4mm; margin-right: 1.2mm; }
+</style></head>
+<body>
+
+<!-- ============ 1 · El mapa y los 4 ejes ============ -->
+<section class="page">
+  <div class="top"><img src="../../02 Branding/Logos/logo.svg" alt="P18"><span class="meta">DOC-P18-02 · Red P18 · v2 · Nov 2026</span></div>
+
+  <h1>Red P18.<br><span class="soft">Quién es quién.</span></h1>
+  <p class="lead">Todos los que forman P18 tienen un rol. Cada rol se define por cuatro cosas: qué le pedimos, a qué departamento pertenece, cuánto compromiso tiene y en qué zona está. Con esas mismas cuatro cosas armamos la base de datos.</p>
+
+  <div class="map">
+    <div class="col young">
+      <span class="kicker">Jóvenes · 17 a 19</span>
+      <div class="step"><b>Comunidad</b><span>Nos siguen en redes y están en el grupo.</span></div>
+      <div class="arrow">↓</div>
+      <div class="step"><b>Aprendices</b><span>Hacen un taller y mandan su idea.</span></div>
+      <div class="arrow">↓</div>
+      <div class="step hi"><b>Delegados</b><span>Llevan P18 a su colegio y arman grupos.</span></div>
+    </div>
+    <div class="col adult">
+      <span class="kicker">Adultos · colaboradores</span>
+      <div class="step"><b>Speakers</b><span>Una participación: taller, charla, entrevista o podcast.</span></div>
+      <div class="arrow">↓</div>
+      <div class="step mid"><b>Embajadores</b><span>Representan a P18 en su red y su zona. Ej.: Tom y Mariano.</span></div>
+      <div class="arrow">↓</div>
+      <div class="step hi"><b>Mentores</b><span>Acompañan de cerca las mejores ideas.</span></div>
+    </div>
+    <div class="col biz">
+      <span class="kicker">Empresas</span>
+      <div class="step"><b>Aliados</b><span>Bancan P18 para que todo sea gratis.</span></div>
+      <p class="note">Hoy: Alpanel, Enjinia y Degalpones.<br><br>En el centro, el <b>Equipo P18</b>: Lautaro, Mati y Valen.</p>
+    </div>
+  </div>
+
+  <h2>Cómo se define <span class="soft">cada rol.</span></h2>
+  <div class="axes">
+    <div class="axis"><span class="n">01</span><b>Alcance</b><p>Qué le pedimos concretamente. Es lo que se le dice cuando se lo invita.</p></div>
+    <div class="axis"><span class="n">02</span><b>Departamento</b><p>Uno o más de los 6 de P18: el tema que sabe, enseña o le interesa.</p></div>
+    <div class="axis"><span class="n">03</span><b>Compromiso</b><p>Cuánto tiempo pone, en una escala del 0 al 4. Es lo que separa un rol de otro.</p></div>
+    <div class="axis"><span class="n">04</span><b>Zona</b><p>Región, provincia y localidad. Define quién puede ir a lo presencial.</p></div>
+  </div>
+
+  <div class="scale">
+    <div class="lvl"><div class="dots"><i></i><i></i><i></i><i></i></div><b>0 · Libre</b><span>Sin compromiso. Mira y comparte.</span></div>
+    <div class="lvl"><div class="dots"><i class="on"></i><i></i><i></i><i></i></div><b>1 · Puntual</b><span>Una participación, cuando puede.</span></div>
+    <div class="lvl"><div class="dots"><i class="on"></i><i class="on"></i><i></i><i></i></div><b>2 · Periódico</b><span>Algo concreto por mes.</span></div>
+    <div class="lvl"><div class="dots"><i class="on"></i><i class="on"></i><i class="on"></i><i></i></div><b>3 · Sostenido</b><span>Representa a P18 todo el tiempo.</span></div>
+    <div class="lvl"><div class="dots"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></div><b>4 · Cercano</b><span>Seguimiento de una persona o idea.</span></div>
+  </div>
+
+  <div class="foot"><span>Proyecto 18 · Mentalidad emprendedora</span><span>01 / 03</span></div>
+</section>
+
+<!-- ============ 2 · La matriz ============ -->
+<section class="page">
+  <div class="top"><img src="../../02 Branding/Logos/logo.svg" alt="P18"><span class="meta">DOC-P18-02 · Red P18 · v2 · Nov 2026</span></div>
+
+  <h2 style="margin-top:6mm">Cada rol, <span class="soft">en una línea.</span></h2>
+  <p class="sub">Lo marcado en verde es una propuesta para decidir entre los tres.</p>
+
+  <table>
+    <thead><tr><th style="width:24mm">Rol</th><th>Alcance: qué le pedimos</th><th style="width:30mm">Departamento</th><th style="width:27mm">Compromiso</th><th style="width:30mm">Zona</th></tr></thead>
+    <tbody>
+      <tr>
+        <td class="role"><b>Comunidad</b><span class="y">Jóvenes</span></td>
+        <td>Seguir, comentar y compartir. Proponer temas.</td>
+        <td>Sus intereses (opcional).</td>
+        <td><div class="dots"><i></i><i></i><i></i><i></i></div>0 · Libre</td>
+        <td>Todo el país, online.</td>
+      </tr>
+      <tr>
+        <td class="role"><b>Aprendices</b><span class="y">Jóvenes</span></td>
+        <td>Hacer un taller completo, hacer los ejercicios y mandar su idea antes de irse.</td>
+        <td>El del taller que hizo.</td>
+        <td><div class="dots"><i class="on"></i><i></i><i></i><i></i></div>1 · Un taller</td>
+        <td>Virtual: todo el país. Presencial: la región del taller.</td>
+      </tr>
+      <tr>
+        <td class="role"><b>Delegados</b><span class="y">Jóvenes</span></td>
+        <td>Difundir P18 en su colegio o grupo y armar un grupo para cada taller.</td>
+        <td>Todos.</td>
+        <td><div class="dots"><i class="on"></i><i class="on"></i><i></i><i></i></div>2 · <span class="tbd">Una acción por mes</span></td>
+        <td>Su colegio y su localidad.</td>
+      </tr>
+      <tr>
+        <td class="role"><b>Speakers</b><span class="a">Adultos</span></td>
+        <td>Una participación preparada (taller, charla en colegio, entrevista o podcast) y compartirla en sus redes.</td>
+        <td>Su especialidad: 1 o 2.</td>
+        <td><div class="dots"><i class="on"></i><i></i><i></i><i></i></div>1 · Puntual, puede repetir</td>
+        <td>Virtual: todo el país. Presencial: su región.</td>
+      </tr>
+      <tr class="focus">
+        <td class="role"><b>Embajadores</b><span class="a">Adultos</span></td>
+        <td>Representar a P18 en su red y su zona: compartir el contenido, traer speakers, aliados y chicos, y estar en <span class="tbd">una acción por trimestre</span>. <span class="ex">Ej.: Tom y Mariano (@nuexty).</span></td>
+        <td>1 principal (el de su red).</td>
+        <td><div class="dots"><i class="on"></i><i class="on"></i><i class="on"></i><i></i></div>3 · Sostenido</td>
+        <td><b>Una región a cargo.</b> Es lo que lo diferencia.</td>
+      </tr>
+      <tr>
+        <td class="role"><b>Mentores</b><span class="a">Adultos</span></td>
+        <td>Acompañar 1 o 2 ideas de aprendices durante <span class="tbd">3 meses</span>, con un encuentro <span class="tbd">cada 2 semanas</span>, siempre a la vista del equipo.</td>
+        <td>Su especialidad.</td>
+        <td><div class="dots"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></div>4 · Cercano</td>
+        <td>Online, cualquier zona.</td>
+      </tr>
+      <tr>
+        <td class="role"><b>Aliados</b><span class="b">Empresas</span></td>
+        <td>Aportar recursos, espacio o contactos según un acuerdo. <span class="ex">Hoy: Alpanel, Enjinia y Degalpones.</span></td>
+        <td>El que bancan, o todos.</td>
+        <td><span class="tbd">Acuerdo anual</span></td>
+        <td>Donde operan.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>Los 6 <span class="soft">departamentos.</span></h2>
+  <p class="sub">Son los mismos que usamos en la grilla de contenido, así la red y el contenido hablan el mismo idioma.</p>
+  <div class="zones">
+    <div class="zone"><b>Crecimiento personal</b><span>Autoconocimiento, hábitos, mentalidad, liderazgo.</span></div>
+    <div class="zone"><b>Finanzas y trabajo</b><span>Finanzas personales, trabajo, ideas, proyectos y ventas.</span></div>
+    <div class="zone"><b>Crear y comunicar</b><span>Comunicación, redes y contenido, inteligencia artificial.</span></div>
+    <div class="zone"><b>Creatividad</b><span>Pensamiento creativo, arte y diseño, música, escritura.</span></div>
+    <div class="zone"><b>Salud</b><span>Salud mental, vínculos, salud física, alimentación, sueño.</span></div>
+    <div class="zone"><b>Deporte y mentalidad</b><span>Disciplina, presión, liderazgo y equipo.</span></div>
+  </div>
+
+  <div class="foot"><span>Proyecto 18 · Mentalidad emprendedora</span><span>02 / 03</span></div>
+</section>
+
+<!-- ============ 3 · Zonas y base de datos ============ -->
+<section class="page">
+  <div class="top"><img src="../../02 Branding/Logos/logo.svg" alt="P18"><span class="meta">DOC-P18-02 · Red P18 · v2 · Nov 2026</span></div>
+
+  <h2 style="margin-top:6mm">Las <span class="soft">zonas.</span></h2>
+  <p class="sub">Cada persona se carga con región, provincia y localidad. Cada embajador tiene una región a cargo.</p>
+  <div class="zones">
+    <div class="zone"><b>AMBA</b><span>CABA y Gran Buenos Aires.</span></div>
+    <div class="zone"><b>Buenos Aires interior</b><span>El resto de la provincia.</span></div>
+    <div class="zone"><b>Centro</b><span>Córdoba, Santa Fe, Entre Ríos, La Pampa.</span></div>
+    <div class="zone"><b>Cuyo</b><span>Mendoza, San Juan, San Luis.</span></div>
+    <div class="zone"><b>NOA</b><span>Tucumán, Salta, Jujuy, Catamarca, Santiago del Estero, La Rioja.</span></div>
+    <div class="zone"><b>NEA</b><span>Misiones, Corrientes, Chaco, Formosa.</span></div>
+    <div class="zone"><b>Patagonia</b><span>Neuquén, Río Negro, Chubut, Santa Cruz, Tierra del Fuego.</span></div>
+    <div class="zone"><b>Exterior</b><span>Speakers o mentores fuera del país.</span></div>
+  </div>
+
+  <h2>La base <span class="soft">de datos.</span></h2>
+  <p class="sub">Dos tablas: quiénes son (Personas) y qué hicieron (Participaciones). Una persona puede tener varios roles y varios departamentos.</p>
+
+  <div class="db">
+    <div class="tbl">
+      <div class="tbl-head"><b>Personas</b><span>Una fila por persona</span></div>
+      <div class="field"><b>Nombre</b><span>Nombre y apellido.</span></div>
+      <div class="field key"><b>Rol</b><span>Uno o más: Comunidad, Aprendiz, Delegado, Speaker, Embajador, Mentor, Aliado.</span></div>
+      <div class="field key"><b>Departamento</b><span>Uno o más de los 6.</span></div>
+      <div class="field key"><b>Compromiso</b><span>0 a 4.</span></div>
+      <div class="field key"><b>Zona</b><span>Región, provincia y localidad.</span></div>
+      <div class="field"><b>Modalidad</b><span>Virtual, presencial o las dos.</span></div>
+      <div class="field"><b>Contacto</b><span>WhatsApp, mail y @ de Instagram.</span></div>
+      <div class="field"><b>Organización</b><span>Emprendimiento o empresa (por ejemplo @nuexty).</span></div>
+      <div class="field"><b>Lo trajo</b><span>Quién de la red lo sumó. Así se mide a los embajadores.</span></div>
+      <div class="field"><b>Estado</b><span>Contacto, activo o en pausa.</span></div>
+      <div class="field"><b>Fechas</b><span>Alta y última participación.</span></div>
+      <div class="field kids"><b>Sólo jóvenes</b><span>Edad, colegio y año. Si es menor, autorización de los padres.</span></div>
+    </div>
+    <div class="side">
+      <div class="tbl">
+        <div class="tbl-head"><b>Participaciones</b><span>Una fila por acción</span></div>
+        <div class="field"><b>Persona</b><span>Quién participó.</span></div>
+        <div class="field"><b>Tipo</b><span>Taller, charla en colegio, entrevista, podcast o mentoría.</span></div>
+        <div class="field"><b>Fecha y zona</b><span>Cuándo y dónde (o virtual).</span></div>
+        <div class="field"><b>Departamento</b><span>El tema que se trató.</span></div>
+        <div class="field"><b>Resultado</b><span>Link al video, cantidad de chicos e ideas recibidas.</span></div>
+      </div>
+      <div class="box dark">
+        <span class="kicker">Datos de menores</span>
+        <p>Pedimos lo mínimo y con consentimiento (Ley 25.326). Los datos de los chicos sólo los ve el equipo, nunca los mentores ni los aliados.</p>
+      </div>
+    </div>
+  </div>
+  <div class="legend"><span><i style="background:rgba(194,245,66,.5)"></i>Los 4 ejes que definen el rol</span><span><i style="background:rgba(142,195,230,.5)"></i>Sólo para jóvenes</span></div>
+
+  <div class="foot"><span>Proyecto 18 · Mentalidad emprendedora</span><span>03 / 03</span></div>
+</section>
+
+</body></html>

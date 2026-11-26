@@ -1,0 +1,24 @@
+CLIP 01 — TU CABEZA SIEMPRE VA A QUERER NEGOCIAR CON VOS
+
+Inicio:     13:15.4  (795.36 s)
+Fin:        14:02.5  (842.51 s)
+Duración:   47.1 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  TU CABEZA SIEMPRE VA A QUERER NEGOCIAR CON VOS   (en el reel, en lima: CABEZA)
+Departamento:     Deporte y mentalidad
+Área:             Disciplina y proceso
+Tema:             Decirle que no a la mente cuando busca comodidad
+Fuente:           Workers - David Goggins — "Como ser EXAGERADAMENTE disciplinado | David Goggins #4"
+                  https://www.youtube.com/watch?v=6r52EZzweoM&t=795s
+
+Por qué lo elegí:
+Baja la idea de Goggins a algo cotidiano: una hora más en la cama, faltar a entrenar porque fuiste toda la semana. Explica por qué la mente busca el confort y cómo reconocer la negociación para decir que no.
+
+Gancho (primeros 3 s): Para Goggins era una dominada más. Para vos quizás sea…
+
+Transcripción del clip:
+Para Gógin será una dominada más, para vos quizás sea algo así como ok, una hora más en la cama no me va a hacer mal, o porque falté a entrenar hoy no pasa nada, fui toda la semana. Y no, es acá cuando debemos interrumpir la charla, es tu cabeza intentando negociar con vos, tu mente se va a esforzar por hacerte creer que ya hiciste muchísimo, que te lo mereces, que te lo ganaste, y no. Es importante que entiendas que no importa lo que estés intentando lograr, tu cabeza siempre va a buscar la comodidad y el confort. Y no es que tu mente te quiera sabotear o algo así. Es tan simple como entender las motivaciones humanas más básicas. El ser humano siempre busca dos cosas, acercarse al placer y alejarse del dolor. Entender esto va a hacer que cuando empiece la negociación con vos mismo sepas identificar rápidamente lo que sucede, y de manera consciente puedas decir no.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-24 - Workers - David Goggins/01 - negociar con tu cabeza.mp4" "TU *CABEZA* SIEMPRE VA A QUERER NEGOCIAR CON VOS" --fuente "Workers - David Goggins"

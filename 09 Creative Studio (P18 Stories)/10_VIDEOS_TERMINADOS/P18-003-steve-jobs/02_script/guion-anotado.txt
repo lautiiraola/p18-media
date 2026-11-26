@@ -1,0 +1,53 @@
+GUION ANOTADO — P18-003-steve-jobs — "La empresa que lo echó"
+Versión v01 (2026-11-24). Reel/Story 9:16. 99 palabras: unos 40–41 s de voz (ritmo medido de Brian, 2,40–2,49 pal/s), más 1 s de cola y 3 s de cierre outro3d, unos 45 s en total.
+Ángulo pedido por el operador: la empresa que fundó lo echó, y después lo fue a buscar para salvarse.
+Convenciones: / pausa corta · // pausa larga · _x_ énfasis · [C##] fact-check. No contiene decisiones visuales.
+
+BLOQUE 01 — HOOK (pregunta en sus propias palabras)          ~00:00–00:05
+Intención: la pregunta dicha casi incrédula, en voz baja.
+  «¿Cómo te pueden _echar_ / de una empresa que vos _fundaste_?» //
+  Steve Jobs, / a los _treinta_. //
+Hechos: [C01] [C02]
+
+BLOQUE 02 — LA CAÍDA                                         ~00:05–00:13
+Intención: narrativo y seco. Que se escuche la ironía de "él mismo".
+  Había creado Apple en un _garaje_. /
+  Pero el directorio eligió al ejecutivo que _él mismo_ había traído, / y lo dejó _afuera_. //
+Hechos: [C03] [C04] [C05]
+
+BLOQUE 03 — NO SE QUEDA QUIETO                               ~00:13–00:17
+Intención: el ritmo levanta.
+  No se quedó quieto: / creó _NeXT_ / y compró _Pixar_. /
+Hechos: [C06] [C07]
+
+BLOQUE 04 — CONTRASTE                                        ~00:17–00:19
+  Mientras, / Apple se _hundía_ en pérdidas. //
+Hechos: [C08]
+
+BLOQUE 05 — EL GIRO (corazón del video)                      ~00:19–00:28
+Intención: pausa antes de "lo fue a buscar"; es el momento del video.
+  Once años después, / la empresa que lo había _echado_ // lo fue a _buscar_ para salvarse: /
+  compró NeXT, / y volvió Jobs. //
+Hechos: [C09] [C10] [C11]
+
+BLOQUE 06 — RESULTADO                                        ~00:28–00:31
+  Un año después, / Apple volvía a ganar _plata_. //
+Hechos: [C12]
+
+BLOQUE 07 — SU FRASE                                         ~00:31–00:36
+Intención: cálido, sin épica.
+  Después diría: / «Que me echaran fue lo _mejor_ que me pudo pasar.» //
+Hechos: [C13]
+
+BLOQUE 08 — PREGUNTA FINAL (sin engagement bait)              ~00:36–00:41
+Intención: cercano, como si se lo preguntara a una sola persona.
+  ¿Y vos, / qué hacés cuando te dejan _afuera_?
+Después: cierre fijo outro3d, 3 s (número que se vuelve 18 + «Mentalidad emprendedora para los jóvenes.»).
+
+HOOKS CANDIDATOS (skills viral-hooks-formulas + viral-hooks; se eligió el 1)
+1. Cat 06 Pregunta · es su propia pregunta (Stanford, 2005), verificable y con tensión inmediata:
+   «¿Cómo te pueden echar de una empresa que vos fundaste?»
+   Capa visual: la pregunta escrita sola, en serif, sobre negro; aparece una foto de Jobs joven. Texto en pantalla: "LO ECHARON DE APPLE".
+2. Cat 07 Historia · arranque en medio del conflicto: "Lo echaron de la empresa que él mismo había creado."
+3. Cat 09 Dato · "Treinta años: la edad a la que Steve Jobs se quedó sin Apple."
+Por qué el 1: abre con la voz del protagonista (curiosidad con forma definida) y la respuesta llega en el segundo 3. El payoff ("lo fue a buscar") cumple lo que promete el hook.

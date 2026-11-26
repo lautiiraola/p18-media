@@ -1,0 +1,616 @@
+{
+ "idioma": "es",
+ "duracion": 43.29,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 8.38,
+   "texto": "Si yo fuera Felipe de 16 años, uno de los 16 igual no tiene puta idea que va a hacer con su vida,",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.4,
+     "p": "Si"
+    },
+    {
+     "ini": 0.4,
+     "fin": 0.58,
+     "p": "yo"
+    },
+    {
+     "ini": 0.58,
+     "fin": 0.8,
+     "p": "fuera"
+    },
+    {
+     "ini": 0.8,
+     "fin": 1.34,
+     "p": "Felipe"
+    },
+    {
+     "ini": 1.34,
+     "fin": 2.08,
+     "p": "de"
+    },
+    {
+     "ini": 2.08,
+     "fin": 2.58,
+     "p": "16"
+    },
+    {
+     "ini": 2.58,
+     "fin": 4.78,
+     "p": "años,"
+    },
+    {
+     "ini": 5.12,
+     "fin": 5.2,
+     "p": "uno"
+    },
+    {
+     "ini": 5.2,
+     "fin": 5.32,
+     "p": "de"
+    },
+    {
+     "ini": 5.32,
+     "fin": 5.4,
+     "p": "los"
+    },
+    {
+     "ini": 5.4,
+     "fin": 5.74,
+     "p": "16"
+    },
+    {
+     "ini": 5.74,
+     "fin": 6.04,
+     "p": "igual"
+    },
+    {
+     "ini": 6.04,
+     "fin": 6.66,
+     "p": "no"
+    },
+    {
+     "ini": 6.66,
+     "fin": 6.92,
+     "p": "tiene"
+    },
+    {
+     "ini": 6.92,
+     "fin": 7.18,
+     "p": "puta"
+    },
+    {
+     "ini": 7.18,
+     "fin": 7.38,
+     "p": "idea"
+    },
+    {
+     "ini": 7.38,
+     "fin": 7.48,
+     "p": "que"
+    },
+    {
+     "ini": 7.48,
+     "fin": 7.66,
+     "p": "va"
+    },
+    {
+     "ini": 7.66,
+     "fin": 7.72,
+     "p": "a"
+    },
+    {
+     "ini": 7.72,
+     "fin": 7.84,
+     "p": "hacer"
+    },
+    {
+     "ini": 7.84,
+     "fin": 8.02,
+     "p": "con"
+    },
+    {
+     "ini": 8.02,
+     "fin": 8.1,
+     "p": "su"
+    },
+    {
+     "ini": 8.1,
+     "fin": 8.38,
+     "p": "vida,"
+    }
+   ]
+  },
+  {
+   "ini": 8.88,
+   "fin": 12.8,
+   "texto": "pero uno ya tiene una medio idea, entonces uno dice como a mí me gusta la música,",
+   "palabras": [
+    {
+     "ini": 8.88,
+     "fin": 9.0,
+     "p": "pero"
+    },
+    {
+     "ini": 9.0,
+     "fin": 9.14,
+     "p": "uno"
+    },
+    {
+     "ini": 9.14,
+     "fin": 9.34,
+     "p": "ya"
+    },
+    {
+     "ini": 9.34,
+     "fin": 9.54,
+     "p": "tiene"
+    },
+    {
+     "ini": 9.54,
+     "fin": 9.98,
+     "p": "una"
+    },
+    {
+     "ini": 9.98,
+     "fin": 10.34,
+     "p": "medio"
+    },
+    {
+     "ini": 10.34,
+     "fin": 10.84,
+     "p": "idea,"
+    },
+    {
+     "ini": 10.96,
+     "fin": 11.14,
+     "p": "entonces"
+    },
+    {
+     "ini": 11.14,
+     "fin": 11.28,
+     "p": "uno"
+    },
+    {
+     "ini": 11.28,
+     "fin": 11.46,
+     "p": "dice"
+    },
+    {
+     "ini": 11.46,
+     "fin": 11.68,
+     "p": "como"
+    },
+    {
+     "ini": 11.68,
+     "fin": 11.78,
+     "p": "a"
+    },
+    {
+     "ini": 11.78,
+     "fin": 11.86,
+     "p": "mí"
+    },
+    {
+     "ini": 11.86,
+     "fin": 12.04,
+     "p": "me"
+    },
+    {
+     "ini": 12.04,
+     "fin": 12.2,
+     "p": "gusta"
+    },
+    {
+     "ini": 12.2,
+     "fin": 12.42,
+     "p": "la"
+    },
+    {
+     "ini": 12.42,
+     "fin": 12.8,
+     "p": "música,"
+    }
+   ]
+  },
+  {
+   "ini": 13.4,
+   "fin": 19.8,
+   "texto": "o me gusta la economía, o me gustan los bichos, entonces voy a ser entomólogo,",
+   "palabras": [
+    {
+     "ini": 13.4,
+     "fin": 13.52,
+     "p": "o"
+    },
+    {
+     "ini": 13.52,
+     "fin": 13.68,
+     "p": "me"
+    },
+    {
+     "ini": 13.68,
+     "fin": 14.12,
+     "p": "gusta"
+    },
+    {
+     "ini": 14.12,
+     "fin": 14.82,
+     "p": "la"
+    },
+    {
+     "ini": 14.82,
+     "fin": 15.54,
+     "p": "economía,"
+    },
+    {
+     "ini": 15.7,
+     "fin": 15.74,
+     "p": "o"
+    },
+    {
+     "ini": 15.74,
+     "fin": 16.44,
+     "p": "me"
+    },
+    {
+     "ini": 16.44,
+     "fin": 16.66,
+     "p": "gustan"
+    },
+    {
+     "ini": 16.66,
+     "fin": 16.9,
+     "p": "los"
+    },
+    {
+     "ini": 16.9,
+     "fin": 17.4,
+     "p": "bichos,"
+    },
+    {
+     "ini": 17.48,
+     "fin": 17.64,
+     "p": "entonces"
+    },
+    {
+     "ini": 17.64,
+     "fin": 17.92,
+     "p": "voy"
+    },
+    {
+     "ini": 17.92,
+     "fin": 18.56,
+     "p": "a"
+    },
+    {
+     "ini": 18.56,
+     "fin": 18.78,
+     "p": "ser"
+    },
+    {
+     "ini": 18.78,
+     "fin": 19.8,
+     "p": "entomólogo,"
+    }
+   ]
+  },
+  {
+   "ini": 20.2,
+   "fin": 28.82,
+   "texto": "o si me entiendes como que en realidad es ser honesto con uno mismo y meterle,",
+   "palabras": [
+    {
+     "ini": 20.2,
+     "fin": 20.3,
+     "p": "o"
+    },
+    {
+     "ini": 20.3,
+     "fin": 20.4,
+     "p": "si"
+    },
+    {
+     "ini": 20.4,
+     "fin": 20.52,
+     "p": "me"
+    },
+    {
+     "ini": 20.52,
+     "fin": 20.76,
+     "p": "entiendes"
+    },
+    {
+     "ini": 20.76,
+     "fin": 21.88,
+     "p": "como"
+    },
+    {
+     "ini": 21.88,
+     "fin": 22.24,
+     "p": "que"
+    },
+    {
+     "ini": 22.24,
+     "fin": 22.42,
+     "p": "en"
+    },
+    {
+     "ini": 22.42,
+     "fin": 22.94,
+     "p": "realidad"
+    },
+    {
+     "ini": 22.94,
+     "fin": 23.88,
+     "p": "es"
+    },
+    {
+     "ini": 23.88,
+     "fin": 24.14,
+     "p": "ser"
+    },
+    {
+     "ini": 24.14,
+     "fin": 25.26,
+     "p": "honesto"
+    },
+    {
+     "ini": 25.26,
+     "fin": 25.48,
+     "p": "con"
+    },
+    {
+     "ini": 25.48,
+     "fin": 25.7,
+     "p": "uno"
+    },
+    {
+     "ini": 25.7,
+     "fin": 26.08,
+     "p": "mismo"
+    },
+    {
+     "ini": 26.08,
+     "fin": 28.16,
+     "p": "y"
+    },
+    {
+     "ini": 28.16,
+     "fin": 28.82,
+     "p": "meterle,"
+    }
+   ]
+  },
+  {
+   "ini": 28.82,
+   "fin": 33.76,
+   "texto": "o sea, también trabajar duro por eso, porque hay gente que solamente le mete, es que también",
+   "palabras": [
+    {
+     "ini": 28.82,
+     "fin": 28.96,
+     "p": "o"
+    },
+    {
+     "ini": 28.96,
+     "fin": 29.3,
+     "p": "sea,"
+    },
+    {
+     "ini": 29.52,
+     "fin": 29.7,
+     "p": "también"
+    },
+    {
+     "ini": 29.7,
+     "fin": 30.08,
+     "p": "trabajar"
+    },
+    {
+     "ini": 30.08,
+     "fin": 30.4,
+     "p": "duro"
+    },
+    {
+     "ini": 30.4,
+     "fin": 30.62,
+     "p": "por"
+    },
+    {
+     "ini": 30.62,
+     "fin": 31.08,
+     "p": "eso,"
+    },
+    {
+     "ini": 31.38,
+     "fin": 31.42,
+     "p": "porque"
+    },
+    {
+     "ini": 31.42,
+     "fin": 31.54,
+     "p": "hay"
+    },
+    {
+     "ini": 31.54,
+     "fin": 31.66,
+     "p": "gente"
+    },
+    {
+     "ini": 31.66,
+     "fin": 31.84,
+     "p": "que"
+    },
+    {
+     "ini": 31.84,
+     "fin": 32.28,
+     "p": "solamente"
+    },
+    {
+     "ini": 32.28,
+     "fin": 32.52,
+     "p": "le"
+    },
+    {
+     "ini": 32.52,
+     "fin": 32.8,
+     "p": "mete,"
+    },
+    {
+     "ini": 33.32,
+     "fin": 33.44,
+     "p": "es"
+    },
+    {
+     "ini": 33.44,
+     "fin": 33.58,
+     "p": "que"
+    },
+    {
+     "ini": 33.58,
+     "fin": 33.76,
+     "p": "también"
+    }
+   ]
+  },
+  {
+   "ini": 33.76,
+   "fin": 41.18,
+   "texto": "hay un problema hoy en día sobre todo con las redes y es que la gente después de una",
+   "palabras": [
+    {
+     "ini": 33.76,
+     "fin": 33.86,
+     "p": "hay"
+    },
+    {
+     "ini": 33.86,
+     "fin": 34.14,
+     "p": "un"
+    },
+    {
+     "ini": 34.14,
+     "fin": 34.38,
+     "p": "problema"
+    },
+    {
+     "ini": 34.38,
+     "fin": 34.6,
+     "p": "hoy"
+    },
+    {
+     "ini": 34.6,
+     "fin": 34.72,
+     "p": "en"
+    },
+    {
+     "ini": 34.72,
+     "fin": 34.8,
+     "p": "día"
+    },
+    {
+     "ini": 34.8,
+     "fin": 35.04,
+     "p": "sobre"
+    },
+    {
+     "ini": 35.04,
+     "fin": 35.26,
+     "p": "todo"
+    },
+    {
+     "ini": 35.26,
+     "fin": 35.84,
+     "p": "con"
+    },
+    {
+     "ini": 35.84,
+     "fin": 36.08,
+     "p": "las"
+    },
+    {
+     "ini": 36.08,
+     "fin": 36.38,
+     "p": "redes"
+    },
+    {
+     "ini": 36.38,
+     "fin": 37.36,
+     "p": "y"
+    },
+    {
+     "ini": 37.36,
+     "fin": 37.54,
+     "p": "es"
+    },
+    {
+     "ini": 37.54,
+     "fin": 39.26,
+     "p": "que"
+    },
+    {
+     "ini": 39.26,
+     "fin": 39.74,
+     "p": "la"
+    },
+    {
+     "ini": 39.74,
+     "fin": 40.04,
+     "p": "gente"
+    },
+    {
+     "ini": 40.04,
+     "fin": 40.42,
+     "p": "después"
+    },
+    {
+     "ini": 40.42,
+     "fin": 41.06,
+     "p": "de"
+    },
+    {
+     "ini": 41.06,
+     "fin": 41.18,
+     "p": "una"
+    }
+   ]
+  },
+  {
+   "ini": 41.18,
+   "fin": 42.76,
+   "texto": "semana se aburre de cosas.",
+   "palabras": [
+    {
+     "ini": 41.18,
+     "fin": 41.44,
+     "p": "semana"
+    },
+    {
+     "ini": 41.44,
+     "fin": 41.68,
+     "p": "se"
+    },
+    {
+     "ini": 41.68,
+     "fin": 42.26,
+     "p": "aburre"
+    },
+    {
+     "ini": 42.26,
+     "fin": 42.54,
+     "p": "de"
+    },
+    {
+     "ini": 42.54,
+     "fin": 42.76,
+     "p": "cosas."
+    }
+   ]
+  }
+ ]
+}

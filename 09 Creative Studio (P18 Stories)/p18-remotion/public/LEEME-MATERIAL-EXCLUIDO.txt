@@ -1,0 +1,2 @@
+En el paquete de entrega se excluyeron las carpetas de video crudo argento, german, leo, mariano, moni, tom y victoria (unos 21 GB).
+El código y el resto de public/ (fonts, sfx, carrusel, test) están completos. El material crudo lo guarda el operador.

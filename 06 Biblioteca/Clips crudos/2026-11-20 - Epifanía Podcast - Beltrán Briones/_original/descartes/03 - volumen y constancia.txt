@@ -1,0 +1,26 @@
+CLIP 03 — EL MAYOR APRENDIZAJE DE MARKETING: VOLUMEN Y CONSTANCIA
+
+Inicio:     33:16.4  (1996.39 s)
+Fin:        34:19.0  (2058.96 s)
+Duración:   62.6 s  ⚠ dura 62.6s (buscado: 30–60s)
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  EL MAYOR APRENDIZAJE DE MARKETING: VOLUMEN Y CONSTANCIA   (en el reel, en lima: MARKETING)
+Departamento:     Crear y comunicar
+Área:             Redes y contenido
+Tema:             Volumen y constancia al subir contenido
+Fuente:           Epifanía Podcast - Beltrán Briones — "Lo que nadie sabe sobre Beltrán Briones"
+                  https://www.youtube.com/watch?v=JIvROLceFzI&t=1996s
+
+Por qué lo elegí:
+Respuesta en una frase con gancho; explica que muchos abandonan a los 3 meses y quienes siguen despegan con una curva exponencial. Útil para quien empieza a crear contenido.
+
+Gancho (primeros 3 s): Mi mayor aprendizaje es que es muy importante hacer volumen y ser constante.
+
+Notas para la revisión: Arranca con el final de la pregunta del entrevistador si el corte entra antes; verificar. Está justo en el límite de 60 s.
+
+Transcripción del clip:
+aprendizaje es que es muy importante hacer volumen y ser constante. Ese es mi mayor aprendizaje. O sea, si te lo tengo que resumir, es volumen, gran cantidad, durante mucho tiempo, y a la larga salís a flote. Yo fui bastante, o sea, no fui pionero en la Argentina, pero en el método este de subir mucho volumen y darse a conocer por todos lados, fui, arranqué una de movimiento así de grabarse así nomás medio orgánico y lo que me pasaba es que me querían mucha gente me decía estoy arrancando y yo veía que muchos desistían a los tres meses y los pocos que perduraron más de tres meses porque yo los iba siguiendo que me mandaban mira cómo voy mira hoy metí un viral mira mira los que perduran cuatro cinco seis siete en un momento despegaban y la curva es como exponencial es como que cuesta arrancar y una vez que arrancas y te empieza a ir bien pum no paras de subir y en un momento se aplana la curva pero definitivamente los que tienen constancia y se mantienen y siguen subiendo, a pesar de no ver resultados en el corto plazo, yo noto que son los que mejor
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-20 - Epifanía Podcast - Beltrán Briones/03 - volumen y constancia.mp4" "EL MAYOR APRENDIZAJE DE *MARKETING*: VOLUMEN Y CONSTANCIA" --fuente "Epifanía Podcast - Beltrán Briones"

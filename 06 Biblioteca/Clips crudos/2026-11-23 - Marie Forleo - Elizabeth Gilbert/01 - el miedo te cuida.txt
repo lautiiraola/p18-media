@@ -1,0 +1,26 @@
+CLIP 01 — EL MIEDO ES LA RAZÓN POR LA QUE SEGUIMOS VIVOS
+
+Inicio:     04:53.3  (293.32 s)
+Fin:        05:37.4  (337.36 s)
+Duración:   44.0 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  EL MIEDO ES LA RAZÓN POR LA QUE SEGUIMOS VIVOS   (en el reel, en lima: MIEDO)
+Departamento:     Crecimiento personal
+Área:             Autoconocimiento
+Tema:             El miedo te cuida
+Fuente:           Marie Forleo - Elizabeth Gilbert — "Elizabeth Gilbert Talks “Big Magic” — Fear, Failure, & the Mystery of Creativity"
+                  https://www.youtube.com/watch?v=HyUYa-BnjU8&t=293s
+
+Por qué lo elegí:
+Cambia la mirada sobre el miedo: no se vence, se respeta porque nos protege, aunque exagera. Se entiende sola.
+
+Gancho (primeros 3 s): Actually, what my relationship with fear begins with is a tremendous amount of respect
+
+Notas para la revisión: Audio en inglés (el filtro traduce). Sin malas palabras.
+
+Transcripción del clip:
+actually what my relationship with fear begins with is a tremendous amount of respect and appreciation. Because fear is the reason I am still alive today. It's the reason you're still alive today. Every single one of us can point to a moment in our lives that we survived because we were afraid. Because they said the thing, the voices, said get out of that ocean, the waves are too big. You know, this car is going too fast. Don't get into the apartment with that guy. This street is not safe to walk down. all of us are here because our fear is constantly protecting us. That's its job and it does its job beautifully. It's just that it's all jacked up on Red Bull and it's really trigger happy and it doesn't know the difference between a genuinely dangerous situation and just a little bit of a nervy situation,
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-23 - Marie Forleo - Elizabeth Gilbert/01 - el miedo te cuida.mp4" "EL *MIEDO* ES LA RAZÓN POR LA QUE SEGUIMOS VIVOS" --fuente "Marie Forleo - Elizabeth Gilbert"

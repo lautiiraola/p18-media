@@ -1,0 +1,646 @@
+{
+ "idioma": "es",
+ "duracion": 48.47,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 4.3,
+   "texto": "Es muy raro hacerse el payaso, hacerse el tonto, siendo grande.",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.22,
+     "p": "Es"
+    },
+    {
+     "ini": 0.22,
+     "fin": 0.42,
+     "p": "muy"
+    },
+    {
+     "ini": 0.42,
+     "fin": 0.58,
+     "p": "raro"
+    },
+    {
+     "ini": 0.58,
+     "fin": 0.96,
+     "p": "hacerse"
+    },
+    {
+     "ini": 0.96,
+     "fin": 1.08,
+     "p": "el"
+    },
+    {
+     "ini": 1.08,
+     "fin": 1.48,
+     "p": "payaso,"
+    },
+    {
+     "ini": 1.5,
+     "fin": 1.92,
+     "p": "hacerse"
+    },
+    {
+     "ini": 1.92,
+     "fin": 2.06,
+     "p": "el"
+    },
+    {
+     "ini": 2.06,
+     "fin": 2.98,
+     "p": "tonto,"
+    },
+    {
+     "ini": 3.18,
+     "fin": 3.68,
+     "p": "siendo"
+    },
+    {
+     "ini": 3.68,
+     "fin": 4.3,
+     "p": "grande."
+    }
+   ]
+  },
+  {
+   "ini": 4.92,
+   "fin": 10.16,
+   "texto": "Tonto, quiero decir, despectivamente, pero ponerse a jugar.",
+   "palabras": [
+    {
+     "ini": 4.92,
+     "fin": 5.16,
+     "p": "Tonto,"
+    },
+    {
+     "ini": 5.24,
+     "fin": 5.28,
+     "p": "quiero"
+    },
+    {
+     "ini": 5.28,
+     "fin": 5.6,
+     "p": "decir,"
+    },
+    {
+     "ini": 5.8,
+     "fin": 6.26,
+     "p": "despectivamente,"
+    },
+    {
+     "ini": 8.0,
+     "fin": 8.04,
+     "p": "pero"
+    },
+    {
+     "ini": 8.04,
+     "fin": 8.74,
+     "p": "ponerse"
+    },
+    {
+     "ini": 8.74,
+     "fin": 9.68,
+     "p": "a"
+    },
+    {
+     "ini": 9.68,
+     "fin": 10.16,
+     "p": "jugar."
+    }
+   ]
+  },
+  {
+   "ini": 10.42,
+   "fin": 11.7,
+   "texto": "Esa es la palabra, a jugar.",
+   "palabras": [
+    {
+     "ini": 10.42,
+     "fin": 10.6,
+     "p": "Esa"
+    },
+    {
+     "ini": 10.6,
+     "fin": 10.76,
+     "p": "es"
+    },
+    {
+     "ini": 10.76,
+     "fin": 10.8,
+     "p": "la"
+    },
+    {
+     "ini": 10.8,
+     "fin": 11.12,
+     "p": "palabra,"
+    },
+    {
+     "ini": 11.18,
+     "fin": 11.3,
+     "p": "a"
+    },
+    {
+     "ini": 11.3,
+     "fin": 11.7,
+     "p": "jugar."
+    }
+   ]
+  },
+  {
+   "ini": 12.04,
+   "fin": 17.2,
+   "texto": "Y en el juego, podés vilumbrar el carácter de las personas.",
+   "palabras": [
+    {
+     "ini": 12.04,
+     "fin": 12.14,
+     "p": "Y"
+    },
+    {
+     "ini": 12.14,
+     "fin": 12.28,
+     "p": "en"
+    },
+    {
+     "ini": 12.28,
+     "fin": 12.46,
+     "p": "el"
+    },
+    {
+     "ini": 12.46,
+     "fin": 13.2,
+     "p": "juego,"
+    },
+    {
+     "ini": 13.2,
+     "fin": 14.42,
+     "p": "podés"
+    },
+    {
+     "ini": 14.42,
+     "fin": 15.44,
+     "p": "vilumbrar"
+    },
+    {
+     "ini": 15.44,
+     "fin": 16.04,
+     "p": "el"
+    },
+    {
+     "ini": 16.04,
+     "fin": 16.54,
+     "p": "carácter"
+    },
+    {
+     "ini": 16.54,
+     "fin": 16.64,
+     "p": "de"
+    },
+    {
+     "ini": 16.64,
+     "fin": 16.76,
+     "p": "las"
+    },
+    {
+     "ini": 16.76,
+     "fin": 17.2,
+     "p": "personas."
+    }
+   ]
+  },
+  {
+   "ini": 18.28,
+   "fin": 20.74,
+   "texto": "Sí, las podés detectar.",
+   "palabras": [
+    {
+     "ini": 18.28,
+     "fin": 18.52,
+     "p": "Sí,"
+    },
+    {
+     "ini": 18.52,
+     "fin": 19.12,
+     "p": "las"
+    },
+    {
+     "ini": 19.12,
+     "fin": 19.94,
+     "p": "podés"
+    },
+    {
+     "ini": 19.94,
+     "fin": 20.74,
+     "p": "detectar."
+    }
+   ]
+  },
+  {
+   "ini": 21.14,
+   "fin": 23.9,
+   "texto": "Y te pueden detectar a vos también. Y es muy lindo.",
+   "palabras": [
+    {
+     "ini": 21.14,
+     "fin": 21.36,
+     "p": "Y"
+    },
+    {
+     "ini": 21.36,
+     "fin": 21.54,
+     "p": "te"
+    },
+    {
+     "ini": 21.54,
+     "fin": 21.72,
+     "p": "pueden"
+    },
+    {
+     "ini": 21.72,
+     "fin": 22.12,
+     "p": "detectar"
+    },
+    {
+     "ini": 22.12,
+     "fin": 22.26,
+     "p": "a"
+    },
+    {
+     "ini": 22.26,
+     "fin": 22.38,
+     "p": "vos"
+    },
+    {
+     "ini": 22.38,
+     "fin": 22.6,
+     "p": "también."
+    },
+    {
+     "ini": 22.68,
+     "fin": 22.76,
+     "p": "Y"
+    },
+    {
+     "ini": 22.76,
+     "fin": 22.84,
+     "p": "es"
+    },
+    {
+     "ini": 22.84,
+     "fin": 23.02,
+     "p": "muy"
+    },
+    {
+     "ini": 23.02,
+     "fin": 23.9,
+     "p": "lindo."
+    }
+   ]
+  },
+  {
+   "ini": 24.48,
+   "fin": 29.14,
+   "texto": "Cuando uno trabajó con un actor durante una temporada",
+   "palabras": [
+    {
+     "ini": 24.48,
+     "fin": 24.68,
+     "p": "Cuando"
+    },
+    {
+     "ini": 24.68,
+     "fin": 24.94,
+     "p": "uno"
+    },
+    {
+     "ini": 24.94,
+     "fin": 25.3,
+     "p": "trabajó"
+    },
+    {
+     "ini": 25.3,
+     "fin": 25.46,
+     "p": "con"
+    },
+    {
+     "ini": 25.46,
+     "fin": 25.58,
+     "p": "un"
+    },
+    {
+     "ini": 25.58,
+     "fin": 26.46,
+     "p": "actor"
+    },
+    {
+     "ini": 26.46,
+     "fin": 28.04,
+     "p": "durante"
+    },
+    {
+     "ini": 28.04,
+     "fin": 28.56,
+     "p": "una"
+    },
+    {
+     "ini": 28.56,
+     "fin": 29.14,
+     "p": "temporada"
+    }
+   ]
+  },
+  {
+   "ini": 29.14,
+   "fin": 33.58,
+   "texto": "y después no lo ves durante siete años y te lo encontrás en un evento,",
+   "palabras": [
+    {
+     "ini": 29.14,
+     "fin": 29.44,
+     "p": "y"
+    },
+    {
+     "ini": 29.44,
+     "fin": 29.6,
+     "p": "después"
+    },
+    {
+     "ini": 29.6,
+     "fin": 29.74,
+     "p": "no"
+    },
+    {
+     "ini": 29.74,
+     "fin": 29.94,
+     "p": "lo"
+    },
+    {
+     "ini": 29.94,
+     "fin": 30.92,
+     "p": "ves"
+    },
+    {
+     "ini": 30.92,
+     "fin": 31.5,
+     "p": "durante"
+    },
+    {
+     "ini": 31.5,
+     "fin": 31.76,
+     "p": "siete"
+    },
+    {
+     "ini": 31.76,
+     "fin": 31.94,
+     "p": "años"
+    },
+    {
+     "ini": 31.94,
+     "fin": 32.04,
+     "p": "y"
+    },
+    {
+     "ini": 32.04,
+     "fin": 32.1,
+     "p": "te"
+    },
+    {
+     "ini": 32.1,
+     "fin": 32.28,
+     "p": "lo"
+    },
+    {
+     "ini": 32.28,
+     "fin": 32.88,
+     "p": "encontrás"
+    },
+    {
+     "ini": 32.88,
+     "fin": 33.16,
+     "p": "en"
+    },
+    {
+     "ini": 33.16,
+     "fin": 33.3,
+     "p": "un"
+    },
+    {
+     "ini": 33.3,
+     "fin": 33.58,
+     "p": "evento,"
+    }
+   ]
+  },
+  {
+   "ini": 33.88,
+   "fin": 36.62,
+   "texto": "a ese lo conoces a esa persona, la conoces.",
+   "palabras": [
+    {
+     "ini": 33.88,
+     "fin": 33.88,
+     "p": "a"
+    },
+    {
+     "ini": 33.88,
+     "fin": 34.08,
+     "p": "ese"
+    },
+    {
+     "ini": 34.08,
+     "fin": 34.78,
+     "p": "lo"
+    },
+    {
+     "ini": 34.78,
+     "fin": 35.1,
+     "p": "conoces"
+    },
+    {
+     "ini": 35.1,
+     "fin": 35.24,
+     "p": "a"
+    },
+    {
+     "ini": 35.24,
+     "fin": 35.36,
+     "p": "esa"
+    },
+    {
+     "ini": 35.36,
+     "fin": 35.78,
+     "p": "persona,"
+    },
+    {
+     "ini": 35.98,
+     "fin": 36.2,
+     "p": "la"
+    },
+    {
+     "ini": 36.2,
+     "fin": 36.62,
+     "p": "conoces."
+    }
+   ]
+  },
+  {
+   "ini": 36.9,
+   "fin": 39.9,
+   "texto": "Es como encontrarse con un amigo de la secundaria,",
+   "palabras": [
+    {
+     "ini": 36.9,
+     "fin": 37.08,
+     "p": "Es"
+    },
+    {
+     "ini": 37.08,
+     "fin": 37.26,
+     "p": "como"
+    },
+    {
+     "ini": 37.26,
+     "fin": 37.84,
+     "p": "encontrarse"
+    },
+    {
+     "ini": 37.84,
+     "fin": 38.54,
+     "p": "con"
+    },
+    {
+     "ini": 38.54,
+     "fin": 38.68,
+     "p": "un"
+    },
+    {
+     "ini": 38.68,
+     "fin": 38.86,
+     "p": "amigo"
+    },
+    {
+     "ini": 38.86,
+     "fin": 38.98,
+     "p": "de"
+    },
+    {
+     "ini": 38.98,
+     "fin": 39.14,
+     "p": "la"
+    },
+    {
+     "ini": 39.14,
+     "fin": 39.9,
+     "p": "secundaria,"
+    }
+   ]
+  },
+  {
+   "ini": 40.58,
+   "fin": 42.62,
+   "texto": "y decir, lo conozco, pueden pasar veinte años,",
+   "palabras": [
+    {
+     "ini": 40.58,
+     "fin": 40.58,
+     "p": "y"
+    },
+    {
+     "ini": 40.58,
+     "fin": 40.74,
+     "p": "decir,"
+    },
+    {
+     "ini": 41.16,
+     "fin": 41.3,
+     "p": "lo"
+    },
+    {
+     "ini": 41.3,
+     "fin": 41.72,
+     "p": "conozco,"
+    },
+    {
+     "ini": 41.84,
+     "fin": 41.92,
+     "p": "pueden"
+    },
+    {
+     "ini": 41.92,
+     "fin": 42.18,
+     "p": "pasar"
+    },
+    {
+     "ini": 42.18,
+     "fin": 42.44,
+     "p": "veinte"
+    },
+    {
+     "ini": 42.44,
+     "fin": 42.62,
+     "p": "años,"
+    }
+   ]
+  },
+  {
+   "ini": 43.78,
+   "fin": 48.44,
+   "texto": "pero yo vi el material en bruto de esta persona.",
+   "palabras": [
+    {
+     "ini": 43.78,
+     "fin": 43.86,
+     "p": "pero"
+    },
+    {
+     "ini": 43.86,
+     "fin": 44.38,
+     "p": "yo"
+    },
+    {
+     "ini": 44.38,
+     "fin": 44.8,
+     "p": "vi"
+    },
+    {
+     "ini": 44.8,
+     "fin": 46.8,
+     "p": "el"
+    },
+    {
+     "ini": 46.8,
+     "fin": 47.08,
+     "p": "material"
+    },
+    {
+     "ini": 47.08,
+     "fin": 47.32,
+     "p": "en"
+    },
+    {
+     "ini": 47.32,
+     "fin": 47.78,
+     "p": "bruto"
+    },
+    {
+     "ini": 47.78,
+     "fin": 48.08,
+     "p": "de"
+    },
+    {
+     "ini": 48.08,
+     "fin": 48.18,
+     "p": "esta"
+    },
+    {
+     "ini": 48.18,
+     "fin": 48.44,
+     "p": "persona."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+CLIP 01 — ¿Y SI NO VOLVÉS A HACER ALGO TAN BUENO? TENER MIEDO ES NORMAL
+
+Inicio:     01:06.3  (66.28 s)
+Fin:        02:03.3  (123.27 s)
+Duración:   57.0 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  ¿Y SI NO VOLVÉS A HACER ALGO TAN BUENO? TENER MIEDO ES NORMAL   (en el reel, en lima: TENER MIEDO)
+Departamento:     Creatividad
+Área:             Pensamiento creativo
+Tema:             Miedo a no repetir el éxito
+Fuente:           Coaching Barcelona — "ELIZABETH GILBERT Subtitulado Español "El GENIO de la Creatividad" Conferencia TED 2009 medium"
+                  https://www.youtube.com/watch?v=T3CrEXKPsHE&t=66s
+
+Por qué lo elegí:
+Gancho con la pregunta que todos temen; Gilbert responde con humor y honestidad que sí tiene miedo y sigue. Se entiende solo.
+
+Gancho (primeros 3 s): aren't you afraid you're never going to top that
+
+Notas para la revisión: Hay una referencia breve al bestseller (éxito) como contexto, no es el foco.
+
+Transcripción del clip:
+Aren't you afraid you're never gonna be able to top that? Aren't you afraid you're gonna keep writing for your whole life and you're never again gonna create a book that anybody in the world cares about at all? Ever? Again? So that's reassuring, you know? But it would be worse, except for that I happen to remember that over 20 years ago when I first started telling people when I was a teenager that I wanted to be a writer, I was met with this same kind of sort fear -based reaction and people would say aren't you afraid you're never going to have any success aren't you afraid the humiliation of rejection will kill you aren't you afraid that you're gonna work your whole life at this craft and nothing's ever gonna come of it you're gonna die on a scrap heap of broken dreams with your mouth filled with bitter ash of failure like that you know and the answer short answer to all those questions is yes yes I'm afraid of all those things, and I always have been, and
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-20 - Coaching Barcelona/01 - miedo a crear.mp4" "¿Y SI NO VOLVÉS A HACER ALGO TAN BUENO? *TENER MIEDO* ES NORMAL" --fuente "Coaching Barcelona"
+
+Saturación aplicada al reel (regla 2026-11-23, sólo al video): eq=saturation=0.7 (media S 0.363, 27% px S>0.6)

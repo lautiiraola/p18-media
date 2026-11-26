@@ -1,0 +1,44 @@
+P18 CREATIVE STUDIO — ESTADO
+
+Próximo video_id: P18-004
+Videos en producción: 0
+Esperando voz ElevenLabs: 0
+En revisión: 0
+Videos terminados: 3
+Última actualización: 2026-11-25
+
+Producciones activas:
+- Ninguna.
+
+Terminados:
+- P18-001-james-dyson | "Ya lo habría hecho alguien" | 2026-11-24 | archived
+  Master: 10_VIDEOS_TERMINADOS/P18-001-james-dyson/07_renders/final/P18-001-james-dyson-master-v05.mp4 (9:16, 60 fps, 2:03, -14 LUFS, cinético, imágenes y tipografía rotativas, cierre fijo)
+  Proceso: 10_VIDEOS_TERMINADOS/P18-001-james-dyson/bitacora-de-proceso.txt
+- P18-002-marcos-galperin | "19 de 20" | 2026-11-24 | archived
+  Master: 10_VIDEOS_TERMINADOS/P18-002-marcos-galperin/07_renders/final/P18-002-marcos-galperin-master-v05.mp4 (9:16, 60 fps, 0:50, -14 LUFS, cinético, imágenes y tipografía rotativas, cierre fijo)
+  Proceso: 10_VIDEOS_TERMINADOS/P18-002-marcos-galperin/bitacora-de-proceso.txt
+- P18-003-steve-jobs | "La empresa que lo echó" | 2026-11-25 | archived
+  Master: 10_VIDEOS_TERMINADOS/P18-003-steve-jobs/07_renders/final/P18-003-steve-jobs-master-v01.mp4 (9:16, 60 fps, 0:43, -14 LUFS; música de Kevin MacLeod, CC BY 3.0: atribución en la descripción)
+  Proceso: 10_VIDEOS_TERMINADOS/P18-003-steve-jobs/bitacora-de-proceso.txt
+
+Componentes disponibles:
+- Identidad P18 documentada.
+- Referencias Noticias Explicadas documentadas.
+- Ejemplo visual James Dyson aprobado.
+- Manrope disponible.
+- Plantilla de producción disponible (incluye bitacora-de-proceso.txt).
+- Runtime Remotion P18 Stories: 05_REMOTION_DESIGN_SYSTEM/runtime (9:16, 60 fps, composición genérica P18Story).
+- Música y SFX con uso autorizado: 06_BIBLIOTECA_COMPARTIDA/sound-effects.
+- Aprendizajes acumulados: 00_SISTEMA/aprendizajes-de-produccion.txt
+- Voz ElevenLabs de referencia: "Brian - Warm, Smooth, Confident" (pvc, s50, sim75, v4).
+
+Formato obligatorio: SIEMPRE 9:16 vertical (1080 × 1920), Reel/Story.
+Duración obligatoria: entre 30 y 50 s, nunca más de 50 (guion de 75–115 palabras).
+Nota: P18-001 (2:03) es anterior a la regla de duración.
+Cierre fijo: outro3d (ver CLAUDE.txt). Música: rotar la cama en cada video (06_BIBLIOTECA_COMPARTIDA/music/rotacion.txt).
+
+Bloqueos actuales:
+- P18-004-milton-hershey (09_VIDEOS_EN_PRODUCCION): guion y fact-check listos, voz bloqueada porque falta ~/.config/p18/elevenlabs.env (2026-11-25).
+Pendientes menores:
+- Guardar el comprobante del permiso de Dyson en 10_VIDEOS_TERMINADOS/P18-001-james-dyson/08_sources_and_licenses.
+- La cola de historias (07) está vacía: hay que cargarla para el modo autónomo.

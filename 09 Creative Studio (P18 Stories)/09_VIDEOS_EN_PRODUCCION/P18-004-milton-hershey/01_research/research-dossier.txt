@@ -1,0 +1,24 @@
+DOSSIER — P18-004-milton-hershey — "Lo vendió entero"
+Modo: AUTONOMOUS (colección historias_vida vacía el 2026-11-25).
+
+POR QUÉ ESTA HISTORIA
+- Rubro nuevo para el catálogo (comida/consumo) después de Dyson (diseño), Galperin y Jobs (tecnología).
+- Tensión distinta a Jobs: no lo echan, él decide soltar algo que le funciona. Antes había quebrado: sabe lo que es perder.
+- Decisión concreta y fechada (venta 1900, US$1 millón en efectivo) con fuente primaria (Hershey Community Archives).
+- Archivo: fotos de Hershey anteriores a 1929 en Wikimedia Commons (categoría Milton S. Hershey: c1905, 1910, aprendiz,
+  con Catherine en auto). Revisar la licencia de cada archivo en la etapa de assets (sólo PD/CC0/CC BY).
+
+SCORECARD (1-5): p18_affinity 5 · conflict_strength 4 · transformative_decision 5 · primary_sources 5 ·
+authentic_archive 4 · hook_strength 4 · originality 4 · catalogue_diversity 5 · low_generic_motivation_risk 4 ·
+legal_and_production_viability 4 = 44 (mínimo 38). Decisión: aprobada.
+
+CRONOLOGÍA VERIFICADA (ver fact-check.csv)
+1876 dulcería en Filadelfia → quiebra · 1883 vuelve a Lancaster (caramelos en carrito) · 1886 Lancaster Caramel Co. ·
+1893 Exposición Colombina, Chicago: compra maquinaria Lehmann · 1894 empieza a fabricar chocolate · primavera 1900 acuerda
+la venta por US$1.000.000 en efectivo, cierre 10/08/1900, conserva el chocolate · fines de 1900 primera barra Hershey ·
+1905 fábrica terminada · 1906 Derry Church pasa a llamarse Hershey.
+
+CUIDADOS
+- La cita es atribuida (Archivo Hershey), no grabada: rotular "según el Archivo Hershey".
+- No usar logos ni envoltorios actuales de la marca como protagonista visual; preferir archivo de época.
+- Sin cifras de facturación actual (no hacen falta y cambian).

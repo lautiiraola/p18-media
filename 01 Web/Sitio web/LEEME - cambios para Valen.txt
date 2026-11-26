@@ -1,0 +1,19 @@
+Cambios en la web de P18 (16/11/2026)
+
+NUEVO
+1. /privacidad/index.html  -> Política de privacidad (Ley 25.326). La pide TikTok para aprobar la app de publicación.
+2. /terminos/index.html    -> Términos y condiciones. También la pide TikTok.
+3. index.html: en el pie se agregaron los links "Privacidad" y "Términos".
+
+QUÉ HAY QUE HACER
+Subir las carpetas privacidad/ y terminos/ a proyecto18.com para que queden en:
+  https://proyecto18.com/privacidad/
+  https://proyecto18.com/terminos/
+y agregar esos dos links en el pie de la web oficial.
+
+Las dos páginas usan /css/p18.css, /css/home.css, /assets/logo.svg y /assets/logo-papel.svg (incluidos en este zip).
+Si la web oficial tiene otros estilos, se pueden adaptar: el texto es lo importante.
+
+Mientras tanto están publicadas en:
+  https://proyecto18-748.netlify.app/privacidad/
+  https://proyecto18-748.netlify.app/terminos/

@@ -1,0 +1,76 @@
+DIRECCIÓN DEL VIDEO — P18-001-james-dyson — "Ya lo habría hecho alguien"
+Versión: borrador v01 (2026-11-24). Estado: pendiente de aprobación del operador.
+Reloj maestro: 03_voiceover/approved/P18-001-james-dyson-voiceover-approved.wav (120,27 s).
+Detalle por unidad de voz: audiovisual-script.csv (38 unidades, S01–S38). Cada unidad tiene un recurso visual asignado.
+
+Metáfora rectora:
+LA FRASE. "Si fuera posible, ya lo habría hecho una de las grandes" es un objeto tipográfico (G01) que aparece cuatro veces:
+- S01: grande, sola; es el hook.
+- S12: en boca de los socios.
+- S29: más chica y gastada.
+- S37: se desarma en partículas que el ciclón se lleva.
+Motivo secundario: el ciclón (G02). Su giro conecta el aserradero, el prototipo de cartón, la grilla de prototipos y el cierre.
+
+Ritmo:
+Cambio semántico cada 1,2 a 3 s, siguiendo las unidades de voz. Los planos de más de 3 s (S01, S12, S14, S24, S32, S38) tienen evolución interna (tipografía, contador, máscara).
+- 00:00–00:34: curiosidad, ritmo medio.
+- 00:34–01:15: tensión que crece hasta el contador.
+- 01:15–01:40: cansancio y después decisión firme.
+- 01:40–02:00: baja, más íntimo.
+
+Momentos de aceleración:
+- S17–S21 ("Un prototipo. Una medición. Un solo cambio."): tres golpes parejos, con un tick cada uno.
+- S24: el contador de 0001 a 5126 se acelera con la música.
+
+Momentos de pausa:
+- S11 "Parecía funcionar.": la imagen casi se congela y la cama baja 3 dB.
+- S25 "El cinco mil ciento veintisiete, sí.": 1 s de silencio musical.
+- S38: la pregunta va sin música.
+Propuesta de edición de pausas (insertando silencio entre frases, sin cortar ni acelerar palabras; requiere aprobación del operador):
+- +0,4 s después de S02.
+- +0,6 s antes de S25.
+- +0,3 s antes de "decidió" (S32).
+- +0,5 s antes de S38.
+Total: +1,8 s, para una duración final aproximada de 2:02.
+
+Transición principal:
+Continuidad de objeto: el cono del ciclón (G02/G03) y la frase (G01). Cortes secos o máscaras, sin transiciones vistosas, glitches ni rebotes.
+
+Tratamiento de archivo:
+- La fotografía prueba; el diseño explica.
+- Toda foto lleva su crédito pequeño, en azul.
+- Los gráficos abstractos se rotulan "Representación gráfica".
+- No se recrea fotorrealísticamente el prototipo de cartón, ni a Dyson, ni a Deirdre.
+- El retrato de 2015 (A08) aparece en S02 como presentación y en S35 como presente. No se usa para ilustrar los años 70 u 80.
+- La foto del aserradero de Bath (A04), si se usa, NO se presenta como el aserradero de Dyson.
+
+Diseño de cierre:
+Papel (#F5F5EB) con la pregunta en tinta y una palabra activa con subrayado lima fino. Firma P18 sin fondo. Sin outro ni CTA largo.
+
+Paleta por función (tokens.txt):
+- Verde profundo: hook, intimidad y costo.
+- Lima: solo acción o decisión ("probar", "solo", "5.127", "él").
+- Azul: explicación, evidencia y créditos.
+- Papel: documentos (patentes) y cierre.
+- Clay: deuda y prototipos que empeoran.
+
+Limitaciones visuales:
+1. No hay foto verificada del prototipo de cartón: se usa G03 (gráfico rotulado).
+2. Las mejores fotos de época (Hill Leigh, Coach House, Deirdre en 1977, Japón 1985–86, DC01 en 1993) son del archivo de Dyson: hay que pedir permiso a Dyson Press Office. Cada escena tiene un plan B ya definido.
+3. La G-Force solo existe en fotos de museos (SMG o V&A) con licencias restrictivas, o en el archivo de Dyson. Si no hay ninguna, S30 queda con el mapa y el rótulo.
+4. Las fotos de Commons (DC01, retrato, Hoover) son CC BY-SA: el operador tiene que decidir si acepta la cláusula "compartir igual".
+5. Música y SFX: resuelto (ver D3).
+6. Plan mínimo (sin permisos y sin aceptar CC BY-SA): solo patentes de dominio público, el ciclón de Bath (CC BY 4.0) y gráficos P18. El video sería viable pero más gráfico y con menos archivo humano. No hay ningún retrato de Dyson con licencia que no sea BY-SA.
+
+Decisiones pendientes del operador antes de producir:
+D1. RESUELTA (2026-11-24): el operador informó que Dyson dio permiso. El archivo de Dyson se usa con el crédito "Foto: Dyson ©". Falta guardar el mail de autorización en 08_sources_and_licenses.
+D2. RESUELTA: no se usa material CC BY-SA. El archivo de Dyson lo reemplaza.
+D3. RESUELTA (2026-11-24): Valentín autorizó usar todo p18-remotion/public/sfx. Se copió a 06_BIBLIOTECA_COMPARTIDA/sound-effects y se registró como approved. Cama: cama_p18.wav. Cues en audiovisual-script.csv:
+    - whoosh en las entradas de S05, S16, S28, S30 y S37;
+    - tick en S17–S19 y en el conteo de S24;
+    - riser antes de "5127" y antes de "decidió";
+    - un solo impacto_suave en "él" (S32);
+    - pop en 5.127, 1993 y 84.
+D4. PENDIENTE: la review v01 respeta la voz intacta, sin pausas insertadas. El operador decide al ver la review.
+D5. RESUELTA: se construyó 05_REMOTION_DESIGN_SYSTEM/runtime (arquitectura.txt). p18-remotion no se tocó.
+D6. PENDIENTE: confirmar antes de publicar el master.

@@ -1,0 +1,59 @@
+QA DEL VIDEO
+
+[x] Hechos críticos verificados
+[x] Hecho e interpretación diferenciados
+[x] Hook honesto
+[x] Decisión clara
+[x] Sin motivación genérica
+[x] Archivo real prioritario
+[x] Sin avatares
+[x] Sin Canva
+[x] Sin imágenes históricas inventadas
+[x] Assets finales approved
+[x] Formato P18 Stories 9:16
+[x] 1080 × 1920
+[x] Duración entre 30 y 50 s (nunca más de 50)
+[x] 60 fps
+[x] Manrope Clean/Premium
+[x] Firma P18 sin fondo
+[x] Voz inteligible
+[x] Música subordinada
+[x] Sin clipping
+[x] Safe zones correctas
+[x] Render master reproducible
+
+QA P18-002 (2026-11-24) — review v01 y master v01
+Formato: H.264 yuv420p, 1080x1920, 60 fps, 2866 cuadros, 47,79 s (regla de 30–50 s ✓).
+Master: 07_renders/final/P18-002-marcos-galperin-master-v01.mp4 · -14,3 LUFS · -2,5 dBTP · LRA 3,1 · sin clipping.
+SHA-256 del master: 6879108137d18ae35cbcdb24147d43968be445b604a7438ecf9617a67bbbe479
+Cuadros negros: 0. Revisión visual: 20 fotogramas de control más 10 cuadros del MP4. Se hicieron 5 correcciones antes del render (ver bitácora).
+Licencias: todo el material del montaje es CC BY, CC0, dominio público, obra propia o de uso autorizado (ver 04_assets/asset-registry.csv).
+Revisión creativa: hecha de forma autónoma por instrucción del operador. Si quiere cambios, se hace una v02.
+
+2026-11-24  MASTER v02: se agregó el cierre fijo P18 (outro3d, 3,0 s; 19 "dijeron que no" → 18 → P18 3D; "Mentalidad emprendedora para los jóvenes."), aprobado por el operador.
+Review: 07_renders/review/P18-002-marcos-galperin-review-v02.mp4. Master: 07_renders/final/P18-002-marcos-galperin-master-v02.mp4 (49.86 s, -14,3 LUFS / -2,4 dBTP). SHA-256: 0e5a7f64ee7757c5c3cfbd0d4b2b161fe176237580535b9af641d2728d24d544
+Por pedido explícito del operador ("guardalos en la carpeta reemplazando los videos viejos"), el master v01 se borró. Es una excepción a control-de-versiones.txt. La review v01 queda como respaldo en 07_renders/review.
+Props: 06_remotion/p18-002-v02.props.json, generados por build_props.py (bloque "CIERRE FIJO P18").
+
+2026-11-24  MASTER v03: sistema tipográfico rotativo P18 (regla del operador: "parece muy IA").
+- Subtítulos: rotan editorial, serif, caps y punch.
+- Citas en Instrument Serif itálica, cifras y golpes en Unbounded, créditos en JetBrains Mono.
+- Se mantienen el cierre fijo outro3d, los props v02, la duración, la voz y la música.
+Review: 07_renders/review/P18-002-marcos-galperin-review-v03.mp4. Master: 07_renders/final/P18-002-marcos-galperin-master-v03.mp4 (SHA-256 ec38dd7c5cb918a7a37f21dd6ee91c4f46dd1ede217d071316ed32e58efa36ce). Sin cuadros negros, -14 LUFS.
+El master v02 se borró (reemplazo pedido por el operador). Las reviews v01/v02/v03 quedan en 07_renders/review.
+
+2026-11-24  MASTER v04, por dos pedidos del operador.
+1. Texto cinético: "los textos siguen siendo genéricos, tienen que tener movimiento". Cada palabra entra con la voz y los subtítulos rotan editorial, serif, caps y stack, con salida animada; citas con foco, titulares y kickers letra por letra.
+2. Imágenes rotativas: "que se roten más imágenes... hay muchos lugares que quedan vacíos". Galerías de archivo en polaroid con entradas rotativas (iris, wipe, blinds, drop, zoom, slide, flip) y escenas principales con entradas variadas.
+Props: 06_remotion/*-v04.props.json, generados por build_props.py (bloque "IMÁGENES ROTATIVAS"). Master: 07_renders/final/P18-002-marcos-galperin-master-v04.mp4 (SHA-256 15797ad17a71c0b43c914b9bd62c2274d3625324201b8860bd65240bbbefc6d7). -14 LUFS, sin cuadros negros.
+El master v03 se borró (reemplazo pedido por el operador). Las reviews quedan en 07_renders/review.
+
+2026-11-24  MASTER v05. Revisión del operador sobre la v04: "hay imágenes que se repiten, eso no puede pasar" y "los subtítulos hay veces que se cortan, están raros".
+Imágenes: Galperin no tenía imágenes repetidas. assert_unique_images() corre en el build.
+Subtítulos:
+- chunk_captions() hace cortes por frase y BREAKS editoriales, con saltos de línea por frase.
+- Ningún subtítulo sigue en pantalla después de un cambio de escena.
+- Motor cinético sin máscaras ni letterSpacing animado; slam más corto.
+- Resaltador lima detrás de toda la palabra clave; stack en orden de lectura.
+- Sin salida animada si el subtítulo siguiente entra enseguida.
+QA: 3 cuadros por subtítulo (a mitad de frase, última palabra y final), todos revisados. -14 LUFS, sin cuadros negros. SHA-256 4c5e5f9ddc3894f64ce5e5ecf36dd1e79c2a65bcb035ed8a34a5fbb7217a372a. El master v04 se borró.

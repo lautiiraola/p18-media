@@ -1,0 +1,26 @@
+CLIP 03 — PROBÁ TUS IDEAS *EN CHICO* ANTES DE IR *EN GRANDE*
+
+Inicio:     37:41.5  (2261.48 s)
+Fin:        38:40.6  (2320.56 s)
+Duración:   59.1 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  PROBÁ TUS IDEAS *EN CHICO* ANTES DE IR *EN GRANDE*
+Departamento:     Finanzas y trabajo
+Área:             Ideas, proyectos y ventas
+Tema:             Probar ideas
+Fuente:           Cracks Podcast - Carlos García — "La Historia de KAVAK | CARLOS GARCIA en Cracks Podcast #373"
+                  https://www.youtube.com/watch?v=oYDI7Y4vJTk&t=2261s
+
+Por qué lo elegí:
+Muestra cómo se prueban ideas en serio: varias pruebas chicas, donde equivocarse no cuesta tanto, y lo que funciona se lleva a lo grande. Aplica a cualquier proyecto, no sólo a empresas. Encaja con 'Probar ideas' de la grilla (13/11). No habla de plata ni de valuaciones.
+
+Gancho (primeros 3 s): Hicimos un experimento: en un país vamos rápido, en otro lentísimo…
+
+Notas para la revisión: Tiene palabras de negocio ('benchmark', 'rotar el inventario'); conviene que el título y el texto del posteo lo bajen a tierra.
+
+Transcripción del clip:
+o sea nosotros hicimos también un experimento de ibitesteo, o sea dijimos en un país vamos a ir vamos a agarrar y vamos a construir infraestructura desde el día 1 y vamos a enterar el recurso el día 1 y vamos a tratar de crecerlo lo más rápido posible con la información que tenemos, en otro país vamos a ir lentísimo y vamos a seguir al cliente, en otro país vamos a probar esta parte del producto, vamos a tratar de rotar el inventario lo más rápido posible, Entonces, una cosa que me encantó fue que construimos un laboratorio de pruebas donde no tenías tanto. O sea, podías equivocarte con las diferentes pruebas y automáticamente ese laboratorio se convirtió en un benchmark para todos los diferentes países. Entonces, de repente, en un país aprendíamos. O sea, imagínate una iniciativa que lanzamos en Chile que funcionaba y que no teníamos miedo de probarla ya porque éramos chiquitos. Si yo luego la traía para México, O sea, era increíble poder lanzar una cosa acá y el retorno de ese tiempo era monumental.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-11 - Cracks Podcast - Carlos García/03 - probar en chico.mp4" "PROBÁ TUS IDEAS *EN CHICO* ANTES DE IR *EN GRANDE*" --fuente "Cracks Podcast - Carlos García"

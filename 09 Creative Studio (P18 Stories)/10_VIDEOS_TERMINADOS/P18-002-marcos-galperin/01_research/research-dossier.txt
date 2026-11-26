@@ -1,0 +1,52 @@
+RESEARCH DOSSIER — P18-002-marcos-galperin
+Fecha: 2026-11-24 · Fuentes: 08_sources_and_licenses/sources.csv (S01–S09) · Afirmaciones: fact-check.csv (C01–C18)
+
+Pregunta central:
+¿Qué hace alguien cuando 19 de cada 20 personas le dicen que su idea no va a funcionar?
+
+Protagonista:
+Marcos Galperin, fundador de Mercado Libre (cofundadores: Hernán Kazah y Stelleo Tolda, S04). Ya no es CEO; hoy lo es Ariel Szarfsztejn (S01). No llamarlo "CEO" en presente.
+
+Contexto:
+- Marzo de 1999: MBA en Stanford, a dos meses de graduarse (S02).
+- Escribió el business plan de un mercado online para América Latina, que ya incluía Mercado Pago (S02, S04).
+- El consenso de la época: en la región nadie iba a comprar algo sin verlo ni tocarlo, y menos pagar una comisión (S04, S05, S06).
+
+Cronología:
+- Marzo de 1999: clase de Jack Macdonald en Stanford. 19 de 20 compañeros no le ven viabilidad (S02; S01 dice "amigos y compañeros").
+- 1999: presenta la idea a John Muse camino a su avión, después de ensayarla 150 veces. Muse quiere invertir (S02, S05).
+- 1999: empieza en unas cocheras de un edificio de su familia, en Saavedra, Buenos Aires (S01).
+- 2000: estalla la burbuja de internet. Algunos inversores quieren cerrar la empresa; votación de accionistas que casi pierden (S04). "Todas las mañanas nos decían que nos íbamos a quedar sin dinero" (S06).
+- 2001: eBay compra el 20% aportando su subsidiaria de Brasil (S02, S05).
+- 1999–c.2006: "Siete años perdiendo plata" hasta el equilibrio (S01).
+- Agosto de 2007: IPO en el Nasdaq (MELI), primera tecnológica latinoamericana en cotizar allí (S07, S04, S08).
+
+Conflicto:
+La mayoría (compañeros, inversores) contra su convicción. Después, la crisis de las puntocom y los propios inversores queriendo cerrar.
+
+Decisión:
+Seguir adelante contra la opinión mayoritaria; después, resistir la votación para cerrar la empresa.
+
+Resultado:
+Siete años de pérdidas y, en 2007, el Nasdaq. No se usa ningún ranking de valor de mercado: en 2026 Mercado Libre ya no es la más valiosa de la región (C17).
+
+Contradicciones entre fuentes:
+- Quiénes eran los 20: "compañeros de clase" de Stanford (S02) contra "amigos y compañeros" (S01). El guion dice "Veinte personas", que cubre las dos versiones. Ojo: el pedido del operador decía "amigos"; las fuentes dicen sobre todo compañeros.
+- ¿Llevó a Muse en auto o lo acompañó? S05 dice que lo llevó al aeropuerto; S02, que lo acompañó al avión. No se narra.
+- "First Latin American company" (S04) contra "first Latin American technology company" (S08). Se usa la forma acotada.
+
+Limitaciones:
+- El dato "19 de 20" depende únicamente del relato de Galperin; no hay registro independiente de esa consulta. Por eso el guion no agrega detalles que no figuran en sus entrevistas.
+- La votación de accionistas tiene una sola fuente (S04, cita directa de Galperin).
+- El prospecto de la SEC (S07) y Wikipedia (S08) se consultaron solo a través de resúmenes de búsqueda.
+
+Afirmaciones descartadas:
+C17 (empresa más valiosa de América Latina). No se usa "Mercado Libre vale X": la cifra cambia todos los días.
+
+Ángulo P18 recomendado:
+Diecinueve opiniones contra una convicción. La historia no dice que la mayoría siempre se equivoca: muestra que él vio una oportunidad justamente donde los demás veían el problema ("ahí está la oportunidad") y que esa convicción tuvo un costo real (siete años de pérdidas, una votación que casi lo deja afuera).
+
+Notas para la etapa de assets (no es storyboard):
+- Fotos de Galperin y de los primeros años: probablemente © Mercado Libre o medios. Hay que pedir permiso a prensa de Mercado Libre o buscar material oficial con licencia.
+- El prospecto de la SEC (2007) es un documento público de EE.UU.: archivo documental utilizable.
+- El "19 de 20" funciona como gráfico propio: 20 figuras, 19 en clay con "NO" y 1 en lima.

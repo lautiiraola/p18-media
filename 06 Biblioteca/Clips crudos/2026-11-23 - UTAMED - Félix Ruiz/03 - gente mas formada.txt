@@ -1,0 +1,26 @@
+CLIP 03 — LA CLAVE: TRAERTE GENTE MÁS FORMADA QUE VOS
+
+Inicio:     05:00.5  (300.52 s)
+Fin:        05:42.3  (342.28 s)
+Duración:   41.8 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LA CLAVE: TRAERTE GENTE MÁS FORMADA QUE VOS   (en el reel, en lima: MÁS FORMADA)
+Departamento:     Crecimiento personal
+Área:             Liderazgo
+Tema:             Rodearte de gente con talento
+Fuente:           UTAMED - Félix Ruiz — "EMPRENDIMIENTO y TECNOLOGÍA con Félix Ruiz |  Mirando a los Ojos de las Empresas 1x03"
+                  https://www.youtube.com/watch?v=8ZPEjEmeKlg&t=300s
+
+Por qué lo elegí:
+Una idea clara sobre rodearse de gente con más conocimiento y aprender de ella. Se entiende sola.
+
+Gancho (primeros 3 s): Yo al final siempre lo digo, la gente con la que trabajo está mucho más formada que yo
+
+Notas para la revisión: Menciona Tuenti como ejemplo; sin cifras.
+
+Transcripción del clip:
+siempre lo digo, con la gente con la que trabajo son gente que está mucho más formada que yo. Yo he tenido la suerte de que, como digo, empecé muy joven, tuve una experiencia con 27 años muy interesante que fue todo el desarrollo de Twenty, que es una empresa que ha impactado mucho a nivel tecnológico, y a partir de ahí me fui dando cuenta que lo más importante era traer gente con talento, gente muy preparada y que al final estuviese muy cualificada. Yo creo que ese es el éxito al final de cualquier proyecto, es traerte a los mejores en cada momento.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-23 - UTAMED - Félix Ruiz/03 - gente mas formada.mp4" "LA CLAVE: TRAERTE GENTE *MÁS FORMADA* QUE VOS" --fuente "UTAMED - Félix Ruiz"

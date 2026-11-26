@@ -1,0 +1,129 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+/* P18 · Historias 1080x1920 con el sistema "Editorial humano" (manual de Valentín, nov 2026), llevado a 9:16.
+   Los mismos códigos que posts y carruseles: foto documental del clip, titular breve, UNA palabra subrayada en lima,
+   Manrope y la firma P18. Zonas que tapa Instagram: arriba 250 px y abajo 340 px (no va texto ahí).
+   Query: tipo = fondo | repost (reel adentro del marco) | entrevista (pregunta + reel + "@persona responde") | frase | texto | dato
+          t = texto (*clave* subrayada; sólo la primera) ; s = CTA o bajada ; area = etiqueta ; etq = etiqueta (pisa a area)
+          img = foto ; pos = object-position ; suave = 1 (foto de baja resolución: se suaviza) ; src = fuente (dato) ; ancho = ancho del marco */
+@font-face{font-family:M;src:url(Manrope-500.ttf);font-weight:500}
+@font-face{font-family:M;src:url(Manrope-700.ttf);font-weight:600 700}
+@font-face{font-family:M;src:url(Manrope-800.ttf);font-weight:800}
+:root{--lima:#C2F542;--tinta:#172019;--papel:#F5F5EB;--prof:#14251D;--m:72px}
+*{margin:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;font-family:M;-webkit-font-smoothing:antialiased}
+body{background:var(--prof);color:var(--papel);position:relative}
+.foto{position:absolute;left:0;top:0;width:100%;height:100%;object-fit:cover}
+.foto.suave{filter:blur(5px) saturate(.9);transform:scale(1.04)}
+.sinfoto{position:absolute;inset:0;background:radial-gradient(rgba(245,245,235,.08) 1.6px,transparent 1.7px) 0 0/26px 26px,var(--prof)}
+.velo{position:absolute;inset:0}
+.tag{background:var(--lima);color:var(--tinta);font-weight:800;font-size:28px;letter-spacing:2.5px;text-transform:uppercase;padding:10px 18px;align-self:flex-start}
+.firma{position:absolute;top:268px;right:var(--m);z-index:3;line-height:0}
+.firma img{height:52px;width:auto;display:block}
+.cab{position:absolute;top:268px;left:var(--m);right:220px;z-index:3;display:flex}
+.zona{position:absolute;left:var(--m);right:var(--m);top:370px;bottom:360px;z-index:3;display:flex;flex-direction:column;gap:30px}
+.tit{font-weight:800;font-size:96px;line-height:.98;letter-spacing:-3px;text-wrap:balance}
+.tit b{font-weight:800;text-decoration:underline;text-decoration-color:var(--lima);text-decoration-thickness:10px;text-underline-offset:13px;text-decoration-skip-ink:none}
+.baj{font-weight:600;font-size:38px;line-height:1.3;opacity:.92;text-wrap:pretty}
+.pill{align-self:flex-start;border:3px solid currentColor;border-radius:999px;font-weight:800;font-size:30px;padding:14px 30px;letter-spacing:.3px;display:flex;align-items:center;gap:12px}
+.pill svg{width:30px;height:30px}
+.cred{position:absolute;z-index:4;right:var(--m);top:336px;font-weight:600;font-size:20px;color:var(--papel);opacity:.85;text-shadow:0 1px 6px rgba(0,0,0,.5)}
+
+/* fondo / repost: foto completa con velo verde + el reel en un marco */
+.R .velo{background:linear-gradient(to bottom,rgba(20,37,29,.62) 0%,rgba(20,37,29,.30) 18%,rgba(20,37,29,.38) 50%,rgba(20,37,29,.80) 80%,rgba(20,37,29,.92) 100%)}
+.R .tit{text-shadow:0 2px 18px rgba(0,0,0,.45)}
+.R .zona{align-items:center;justify-content:center;gap:34px}
+.R .tit{font-size:76px;text-align:center;letter-spacing:-2px}
+.R .pill{align-self:center;background:var(--lima);color:var(--tinta);border-color:var(--lima)}
+.marco{position:relative;flex:none;background:#0c1712;border:6px solid var(--papel);box-shadow:0 30px 90px rgba(0,0,0,.5)}
+.marco .barra{position:absolute;left:-6px;bottom:-22px;width:120px;height:10px;background:var(--lima)}
+/* entrevista: hecha para que el entrevistado la resubiera. La pregunta arriba, el video grande en un recuadro tipo
+   polaroid y el nombre como sticker lima encima del video (capa aparte). La mención real la pone la persona con el sticker de Instagram. */
+.entrevista .zona{justify-content:flex-start;align-items:center;gap:56px;top:350px;bottom:300px}
+.entrevista .tit{font-size:50px;line-height:1.06;letter-spacing:-1.2px;max-width:960px}
+.entrevista .tit b{text-decoration:none;color:var(--lima)}
+.polaroid{display:flex;flex-direction:column;align-items:stretch;flex:none;width:min-content;box-shadow:0 30px 90px rgba(0,0,0,.55)}
+.entrevista .marco{box-shadow:none;border-bottom:0}
+.entrevista .marco .barra{display:none}
+/* el nombre como sticker sobre el video: va en una capa aparte (capa=sticker) que se superpone DESPUÉS del video */
+.stk{position:absolute;z-index:6;background:var(--lima);color:var(--tinta);border-radius:999px;padding:14px 30px;
+  box-shadow:0 12px 34px rgba(0,0,0,.4);white-space:nowrap;line-height:1;font-size:34px;font-weight:600;letter-spacing:-.3px}
+.stk b{font-weight:800}
+body.solo-sticker{background:transparent!important}
+body.solo-sticker #raiz>*:not(.stk){visibility:hidden}
+body.sin-sticker .stk{visibility:hidden}
+.pie{font-weight:600;font-size:26px;opacity:.85;letter-spacing:.3px;text-align:center}
+.pie b{color:var(--lima);font-weight:800}
+
+/* frase: lima + foto que se funde (como la placa "idea") */
+.F{background:var(--lima);color:var(--tinta)}
+.F .foto{height:1040px}
+.F .fade{position:absolute;left:0;right:0;top:0;height:1040px;z-index:1;background:linear-gradient(to bottom,rgba(20,37,29,.45) 0%,rgba(20,37,29,.1) 22%,rgba(194,245,66,0) 40%,rgba(194,245,66,.6) 70%,var(--lima) 96%)}
+.F .tag{background:var(--tinta);color:var(--lima)}
+.F .zona{justify-content:flex-end;gap:40px}
+.F .tit{font-size:88px;line-height:1.02;letter-spacing:-2.5px}
+.F .tit b{text-decoration-color:var(--tinta)}
+.F .sello{display:flex;align-items:center;gap:18px;font-weight:800;font-size:30px;letter-spacing:1px}
+.F .sello i{width:84px;height:10px;background:var(--tinta)}
+.F .banda{position:absolute;left:-120px;right:-120px;bottom:-60px;height:300px;background:var(--tinta);transform:rotate(-5deg);transform-origin:left bottom;z-index:2}
+
+/* texto / dato: foto arriba que se funde en el verde profundo */
+.T .foto{height:1100px}
+.T .fade{position:absolute;left:0;right:0;top:0;height:1100px;z-index:1;background:linear-gradient(to bottom,rgba(20,37,29,.55) 0%,rgba(20,37,29,.1) 25%,rgba(20,37,29,.55) 62%,var(--prof) 100%)}
+.T .zona{justify-content:flex-end}
+.T .src{font-weight:600;font-size:26px;letter-spacing:1px;text-transform:uppercase;opacity:.75}
+</style></head><body>
+<div id="raiz"></div>
+<script>
+const q=new URLSearchParams(location.search),k=(q.get('tipo')||'texto').toLowerCase();
+const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+// una sola palabra subrayada por pieza (manual): la primera *…* se subraya, las demás quedan normales
+const fmt=s=>{let n=0;return esc(s).replace(/\*(.+?)\*/g,(m,x)=>n++?x:'<b>'+x+'</b>').replace(/\n/g,'<br>')};
+const V=(k==='fondo'||k==='repost'||k==='entrevista')?'R':(k==='frase')?'F':'T';
+document.body.className=V+' '+k;
+const img=q.get('img'),pos=q.get('pos')||'center',suave=q.get('suave')==='1'?' suave':'';
+const ETQ={entrevista:'Pregunta',fondo:'Nuevo reel',repost:'Nuevo reel',frase:'Frase P18',texto:'Para pensar',dato:'Dato'};
+const tag=q.get('etq')||(V==='R'?ETQ[k]:(q.get('area')||ETQ[k]||''));
+const UP='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>';
+let h=img?`<img class="foto${suave}" src="${esc(img)}" style="object-position:${esc(pos)}">`:(V==='F'?'':'<div class="sinfoto"></div>');
+if(V==='R')h+='<div class="velo"></div>';
+if(V!=='R'&&img)h+='<div class="fade"></div>';
+if(V==='F')h+='<div class="banda"></div>';
+if(tag)h+=`<div class="cab"><div class="tag">${esc(tag)}</div></div>`;
+h+=`<div class="firma"><img src="${(V==='F'&&!img)?'logo-tinta.svg':'logo-papel.svg'}" alt="P18"></div>`;
+let z='';
+if(V==='R'){
+  const w=+q.get('ancho')||(k==='entrevista'?640:470);
+  const mk=`<div class="marco" id="marco" style="width:${w}px;height:${Math.round((w-12)*16/9)+12}px"><div id="hueco"></div><div class="barra"></div></div>`;
+  z=k==='entrevista'
+    ?`<div class="tit" id="tit">${fmt(q.get('t'))}</div><div class="polaroid">${mk}</div><div class="pie">${q.get('s')?esc(q.get('s')):'Entrevista completa en <b>@proyecto18.ar</b>'}</div>`
+    :`<div class="tit" id="tit">${fmt(q.get('t'))}</div>${mk}<div class="pill">${UP}${esc(q.get('s')||'Reel completo en el perfil')}</div>`;
+}else if(V==='F'){
+  z=`<div class="tit" id="tit">${fmt(q.get('t'))}</div><div class="sello"><i></i>${esc(q.get('src')||'Proyecto 18')}</div>`;
+}else{
+  z=`<div class="tit" id="tit">${fmt(q.get('t'))}</div>`+(q.get('s')?`<div class="baj">${fmt(q.get('s'))}</div>`:'')+(q.get('src')?`<div class="src">Fuente: ${esc(q.get('src'))}</div>`:'');
+}
+h+=`<div class="zona" id="zona">${z}</div>`;
+if(k==='entrevista')h+=`<div class="stk" id="stk">Responde <b>${esc(q.get('quien2')||q.get('quien')||'')}</b></div>`;
+if(q.get('capa')==='sticker')document.body.classList.add('solo-sticker');
+if(q.get('capa')==='fondo')document.body.classList.add('sin-sticker');
+document.getElementById('raiz').innerHTML=h;
+// achica el titular (y en el repost, el marco) hasta que todo entre en la zona segura.
+// Espera a la tipografía y a la foto: si se mide antes, el hueco del video queda corrido.
+function ajustar(){
+  const zn=document.getElementById('zona'),ti=document.getElementById('tit');
+  let fs=parseFloat(getComputedStyle(ti).fontSize);
+  const mal=()=>zn.scrollHeight>zn.clientHeight+2;
+  if(V==='R'){const mc=document.getElementById('marco');let w=parseFloat(mc.style.width);
+    while(mal()&&w>380){w-=10;mc.style.width=w+'px';mc.style.height=(Math.round((w-12)*16/9)+12)+'px'}}
+  while(mal()&&fs>52){fs-=4;ti.style.fontSize=fs+'px'}
+  window.DESBORDA=mal();
+  const mc=document.getElementById('marco');
+  if(mc){const r=mc.getBoundingClientRect();window.HUECO={x:Math.round(r.left+6),y:Math.round(r.top+6),w:Math.round(r.width-12),h:Math.round(r.height-12)}
+    const st=document.getElementById('stk');  // el sticker se apoya en la esquina inferior izquierda del video
+    if(st){st.style.left=Math.round(r.left+r.width/2-st.offsetWidth/2)+'px';st.style.top=Math.round(r.bottom-st.offsetHeight/2)+'px'}}  // centrado, mitad sobre el borde de abajo
+  window.LISTO=true;
+}
+const fotoEl=document.querySelector('.foto');
+Promise.all([document.fonts.ready,fotoEl&&!fotoEl.complete?new Promise(r=>{fotoEl.onload=fotoEl.onerror=r}):0])
+  .then(()=>requestAnimationFrame(()=>requestAnimationFrame(ajustar)));
+</script></body></html>

@@ -1,0 +1,764 @@
+{
+ "idioma": "es",
+ "duracion": 58.55,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 3.42,
+   "texto": "Es que en la vida es un tema de renuncias,",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.28,
+     "p": "Es"
+    },
+    {
+     "ini": 0.28,
+     "fin": 0.36,
+     "p": "que"
+    },
+    {
+     "ini": 0.36,
+     "fin": 0.5,
+     "p": "en"
+    },
+    {
+     "ini": 0.5,
+     "fin": 0.62,
+     "p": "la"
+    },
+    {
+     "ini": 0.62,
+     "fin": 1.16,
+     "p": "vida"
+    },
+    {
+     "ini": 1.16,
+     "fin": 1.7,
+     "p": "es"
+    },
+    {
+     "ini": 1.7,
+     "fin": 1.86,
+     "p": "un"
+    },
+    {
+     "ini": 1.86,
+     "fin": 2.16,
+     "p": "tema"
+    },
+    {
+     "ini": 2.16,
+     "fin": 2.58,
+     "p": "de"
+    },
+    {
+     "ini": 2.58,
+     "fin": 3.42,
+     "p": "renuncias,"
+    }
+   ]
+  },
+  {
+   "ini": 3.58,
+   "fin": 7.04,
+   "texto": "siempre no es un tema solo de hacer lo que yo quiero.",
+   "palabras": [
+    {
+     "ini": 3.58,
+     "fin": 3.88,
+     "p": "siempre"
+    },
+    {
+     "ini": 3.88,
+     "fin": 4.04,
+     "p": "no"
+    },
+    {
+     "ini": 4.04,
+     "fin": 4.3,
+     "p": "es"
+    },
+    {
+     "ini": 4.3,
+     "fin": 4.48,
+     "p": "un"
+    },
+    {
+     "ini": 4.48,
+     "fin": 4.72,
+     "p": "tema"
+    },
+    {
+     "ini": 4.72,
+     "fin": 5.18,
+     "p": "solo"
+    },
+    {
+     "ini": 5.18,
+     "fin": 5.86,
+     "p": "de"
+    },
+    {
+     "ini": 5.86,
+     "fin": 6.1,
+     "p": "hacer"
+    },
+    {
+     "ini": 6.1,
+     "fin": 6.32,
+     "p": "lo"
+    },
+    {
+     "ini": 6.32,
+     "fin": 6.46,
+     "p": "que"
+    },
+    {
+     "ini": 6.46,
+     "fin": 6.72,
+     "p": "yo"
+    },
+    {
+     "ini": 6.72,
+     "fin": 7.04,
+     "p": "quiero."
+    }
+   ]
+  },
+  {
+   "ini": 7.48,
+   "fin": 9.46,
+   "texto": "Tú tienes que renunciar.",
+   "palabras": [
+    {
+     "ini": 7.48,
+     "fin": 7.66,
+     "p": "Tú"
+    },
+    {
+     "ini": 7.66,
+     "fin": 7.98,
+     "p": "tienes"
+    },
+    {
+     "ini": 7.98,
+     "fin": 8.2,
+     "p": "que"
+    },
+    {
+     "ini": 8.2,
+     "fin": 9.46,
+     "p": "renunciar."
+    }
+   ]
+  },
+  {
+   "ini": 10.56,
+   "fin": 13.36,
+   "texto": "A veces a la gente le compensa y a veces no.",
+   "palabras": [
+    {
+     "ini": 10.56,
+     "fin": 10.78,
+     "p": "A"
+    },
+    {
+     "ini": 10.78,
+     "fin": 11.14,
+     "p": "veces"
+    },
+    {
+     "ini": 11.14,
+     "fin": 11.36,
+     "p": "a"
+    },
+    {
+     "ini": 11.36,
+     "fin": 11.52,
+     "p": "la"
+    },
+    {
+     "ini": 11.52,
+     "fin": 11.7,
+     "p": "gente"
+    },
+    {
+     "ini": 11.7,
+     "fin": 12.04,
+     "p": "le"
+    },
+    {
+     "ini": 12.04,
+     "fin": 12.46,
+     "p": "compensa"
+    },
+    {
+     "ini": 12.46,
+     "fin": 12.56,
+     "p": "y"
+    },
+    {
+     "ini": 12.56,
+     "fin": 12.72,
+     "p": "a"
+    },
+    {
+     "ini": 12.72,
+     "fin": 13.04,
+     "p": "veces"
+    },
+    {
+     "ini": 13.04,
+     "fin": 13.36,
+     "p": "no."
+    }
+   ]
+  },
+  {
+   "ini": 14.18,
+   "fin": 15.92,
+   "texto": "¿Sabes? Si no te compensa,",
+   "palabras": [
+    {
+     "ini": 14.18,
+     "fin": 14.72,
+     "p": "¿Sabes?"
+    },
+    {
+     "ini": 14.72,
+     "fin": 14.94,
+     "p": "Si"
+    },
+    {
+     "ini": 14.94,
+     "fin": 15.08,
+     "p": "no"
+    },
+    {
+     "ini": 15.08,
+     "fin": 15.4,
+     "p": "te"
+    },
+    {
+     "ini": 15.4,
+     "fin": 15.92,
+     "p": "compensa,"
+    }
+   ]
+  },
+  {
+   "ini": 16.22,
+   "fin": 19.34,
+   "texto": "pues mejor que cambies de trabajo.",
+   "palabras": [
+    {
+     "ini": 16.22,
+     "fin": 16.32,
+     "p": "pues"
+    },
+    {
+     "ini": 16.32,
+     "fin": 16.66,
+     "p": "mejor"
+    },
+    {
+     "ini": 16.66,
+     "fin": 17.54,
+     "p": "que"
+    },
+    {
+     "ini": 17.54,
+     "fin": 18.2,
+     "p": "cambies"
+    },
+    {
+     "ini": 18.2,
+     "fin": 18.98,
+     "p": "de"
+    },
+    {
+     "ini": 18.98,
+     "fin": 19.34,
+     "p": "trabajo."
+    }
+   ]
+  },
+  {
+   "ini": 19.5,
+   "fin": 23.26,
+   "texto": "Espero que Alcaraz no lo cambie, evidentemente,",
+   "palabras": [
+    {
+     "ini": 19.5,
+     "fin": 19.74,
+     "p": "Espero"
+    },
+    {
+     "ini": 19.74,
+     "fin": 20.02,
+     "p": "que"
+    },
+    {
+     "ini": 20.02,
+     "fin": 20.62,
+     "p": "Alcaraz"
+    },
+    {
+     "ini": 20.62,
+     "fin": 22.02,
+     "p": "no"
+    },
+    {
+     "ini": 22.02,
+     "fin": 22.3,
+     "p": "lo"
+    },
+    {
+     "ini": 22.3,
+     "fin": 22.52,
+     "p": "cambie,"
+    },
+    {
+     "ini": 22.58,
+     "fin": 23.26,
+     "p": "evidentemente,"
+    }
+   ]
+  },
+  {
+   "ini": 23.44,
+   "fin": 26.78,
+   "texto": "porque es uno de los mejores del mundo.",
+   "palabras": [
+    {
+     "ini": 23.44,
+     "fin": 24.16,
+     "p": "porque"
+    },
+    {
+     "ini": 24.16,
+     "fin": 25.2,
+     "p": "es"
+    },
+    {
+     "ini": 25.2,
+     "fin": 25.48,
+     "p": "uno"
+    },
+    {
+     "ini": 25.48,
+     "fin": 25.62,
+     "p": "de"
+    },
+    {
+     "ini": 25.62,
+     "fin": 25.84,
+     "p": "los"
+    },
+    {
+     "ini": 25.84,
+     "fin": 26.18,
+     "p": "mejores"
+    },
+    {
+     "ini": 26.18,
+     "fin": 26.46,
+     "p": "del"
+    },
+    {
+     "ini": 26.46,
+     "fin": 26.78,
+     "p": "mundo."
+    }
+   ]
+  },
+  {
+   "ini": 26.78,
+   "fin": 30.14,
+   "texto": "Pero uno tiene que asumir,",
+   "palabras": [
+    {
+     "ini": 26.78,
+     "fin": 27.6,
+     "p": "Pero"
+    },
+    {
+     "ini": 27.6,
+     "fin": 28.94,
+     "p": "uno"
+    },
+    {
+     "ini": 28.94,
+     "fin": 29.24,
+     "p": "tiene"
+    },
+    {
+     "ini": 29.24,
+     "fin": 29.56,
+     "p": "que"
+    },
+    {
+     "ini": 29.56,
+     "fin": 30.14,
+     "p": "asumir,"
+    }
+   ]
+  },
+  {
+   "ini": 31.16,
+   "fin": 35.72,
+   "texto": "el reto tiene que asumir que lo que uno está haciendo en la vida",
+   "palabras": [
+    {
+     "ini": 31.16,
+     "fin": 31.34,
+     "p": "el"
+    },
+    {
+     "ini": 31.34,
+     "fin": 31.66,
+     "p": "reto"
+    },
+    {
+     "ini": 31.66,
+     "fin": 31.9,
+     "p": "tiene"
+    },
+    {
+     "ini": 31.9,
+     "fin": 32.08,
+     "p": "que"
+    },
+    {
+     "ini": 32.08,
+     "fin": 32.6,
+     "p": "asumir"
+    },
+    {
+     "ini": 32.6,
+     "fin": 33.3,
+     "p": "que"
+    },
+    {
+     "ini": 33.3,
+     "fin": 33.58,
+     "p": "lo"
+    },
+    {
+     "ini": 33.58,
+     "fin": 33.7,
+     "p": "que"
+    },
+    {
+     "ini": 33.7,
+     "fin": 33.92,
+     "p": "uno"
+    },
+    {
+     "ini": 33.92,
+     "fin": 34.18,
+     "p": "está"
+    },
+    {
+     "ini": 34.18,
+     "fin": 34.6,
+     "p": "haciendo"
+    },
+    {
+     "ini": 34.6,
+     "fin": 34.8,
+     "p": "en"
+    },
+    {
+     "ini": 34.8,
+     "fin": 34.96,
+     "p": "la"
+    },
+    {
+     "ini": 34.96,
+     "fin": 35.72,
+     "p": "vida"
+    }
+   ]
+  },
+  {
+   "ini": 35.72,
+   "fin": 42.14,
+   "texto": "va a comportar una serie de renuncias.",
+   "palabras": [
+    {
+     "ini": 35.72,
+     "fin": 36.44,
+     "p": "va"
+    },
+    {
+     "ini": 36.44,
+     "fin": 38.94,
+     "p": "a"
+    },
+    {
+     "ini": 38.94,
+     "fin": 39.68,
+     "p": "comportar"
+    },
+    {
+     "ini": 39.68,
+     "fin": 39.9,
+     "p": "una"
+    },
+    {
+     "ini": 39.9,
+     "fin": 40.3,
+     "p": "serie"
+    },
+    {
+     "ini": 40.3,
+     "fin": 41.3,
+     "p": "de"
+    },
+    {
+     "ini": 41.3,
+     "fin": 42.14,
+     "p": "renuncias."
+    }
+   ]
+  },
+  {
+   "ini": 42.54,
+   "fin": 46.06,
+   "texto": "Yo no hablo de sacrificios, porque el sacrificio entiendo",
+   "palabras": [
+    {
+     "ini": 42.54,
+     "fin": 42.64,
+     "p": "Yo"
+    },
+    {
+     "ini": 42.64,
+     "fin": 42.78,
+     "p": "no"
+    },
+    {
+     "ini": 42.78,
+     "fin": 42.96,
+     "p": "hablo"
+    },
+    {
+     "ini": 42.96,
+     "fin": 43.18,
+     "p": "de"
+    },
+    {
+     "ini": 43.18,
+     "fin": 43.84,
+     "p": "sacrificios,"
+    },
+    {
+     "ini": 44.08,
+     "fin": 44.2,
+     "p": "porque"
+    },
+    {
+     "ini": 44.2,
+     "fin": 44.44,
+     "p": "el"
+    },
+    {
+     "ini": 44.44,
+     "fin": 45.24,
+     "p": "sacrificio"
+    },
+    {
+     "ini": 45.24,
+     "fin": 46.06,
+     "p": "entiendo"
+    }
+   ]
+  },
+  {
+   "ini": 46.06,
+   "fin": 47.98,
+   "texto": "que es lo que tú haces por otro.",
+   "palabras": [
+    {
+     "ini": 46.06,
+     "fin": 46.5,
+     "p": "que"
+    },
+    {
+     "ini": 46.5,
+     "fin": 46.56,
+     "p": "es"
+    },
+    {
+     "ini": 46.56,
+     "fin": 46.76,
+     "p": "lo"
+    },
+    {
+     "ini": 46.76,
+     "fin": 46.84,
+     "p": "que"
+    },
+    {
+     "ini": 46.84,
+     "fin": 46.98,
+     "p": "tú"
+    },
+    {
+     "ini": 46.98,
+     "fin": 47.32,
+     "p": "haces"
+    },
+    {
+     "ini": 47.32,
+     "fin": 47.6,
+     "p": "por"
+    },
+    {
+     "ini": 47.6,
+     "fin": 47.98,
+     "p": "otro."
+    }
+   ]
+  },
+  {
+   "ini": 48.7,
+   "fin": 51.38,
+   "texto": "El sacrificio que hizo Jesucristo, teóricamente,",
+   "palabras": [
+    {
+     "ini": 48.7,
+     "fin": 48.94,
+     "p": "El"
+    },
+    {
+     "ini": 48.94,
+     "fin": 49.46,
+     "p": "sacrificio"
+    },
+    {
+     "ini": 49.46,
+     "fin": 49.58,
+     "p": "que"
+    },
+    {
+     "ini": 49.58,
+     "fin": 49.84,
+     "p": "hizo"
+    },
+    {
+     "ini": 49.84,
+     "fin": 50.54,
+     "p": "Jesucristo,"
+    },
+    {
+     "ini": 50.68,
+     "fin": 51.38,
+     "p": "teóricamente,"
+    }
+   ]
+  },
+  {
+   "ini": 52.64,
+   "fin": 53.7,
+   "texto": "lo hizo por otros.",
+   "palabras": [
+    {
+     "ini": 52.64,
+     "fin": 52.82,
+     "p": "lo"
+    },
+    {
+     "ini": 52.82,
+     "fin": 53.04,
+     "p": "hizo"
+    },
+    {
+     "ini": 53.04,
+     "fin": 53.36,
+     "p": "por"
+    },
+    {
+     "ini": 53.36,
+     "fin": 53.7,
+     "p": "otros."
+    }
+   ]
+  },
+  {
+   "ini": 53.7,
+   "fin": 57.76,
+   "texto": "Cuando tú lo haces por ti, es el precio que tienes que pagar.",
+   "palabras": [
+    {
+     "ini": 53.7,
+     "fin": 54.52,
+     "p": "Cuando"
+    },
+    {
+     "ini": 54.52,
+     "fin": 54.68,
+     "p": "tú"
+    },
+    {
+     "ini": 54.68,
+     "fin": 54.86,
+     "p": "lo"
+    },
+    {
+     "ini": 54.86,
+     "fin": 55.08,
+     "p": "haces"
+    },
+    {
+     "ini": 55.08,
+     "fin": 55.38,
+     "p": "por"
+    },
+    {
+     "ini": 55.38,
+     "fin": 55.7,
+     "p": "ti,"
+    },
+    {
+     "ini": 56.34,
+     "fin": 56.34,
+     "p": "es"
+    },
+    {
+     "ini": 56.34,
+     "fin": 56.52,
+     "p": "el"
+    },
+    {
+     "ini": 56.52,
+     "fin": 56.76,
+     "p": "precio"
+    },
+    {
+     "ini": 56.76,
+     "fin": 56.94,
+     "p": "que"
+    },
+    {
+     "ini": 56.94,
+     "fin": 57.24,
+     "p": "tienes"
+    },
+    {
+     "ini": 57.24,
+     "fin": 57.46,
+     "p": "que"
+    },
+    {
+     "ini": 57.46,
+     "fin": 57.76,
+     "p": "pagar."
+    }
+   ]
+  }
+ ]
+}

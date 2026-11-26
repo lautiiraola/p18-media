@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,903,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,506,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.46,P18,,0,0,0,,¿Qué pasa cuando vamos al gimnasio
+Dialogue: 0,0:00:01.46,0:00:02.48,P18,,0,0,0,,con regularidad?
+Dialogue: 0,0:00:02.48,0:00:03.82,P18,,0,0,0,,Al principio la fricción de las
+Dialogue: 0,0:00:03.82,0:00:05.16,P18,,0,0,0,,mancuernas y las barras generan
+Dialogue: 0,0:00:05.16,0:00:07.64,P18,,0,0,0,,dolor, ardor, pero cuando empezás
+Dialogue: 0,0:00:07.64,0:00:09.26,P18,,0,0,0,,a hacerlo más frecuentemente,
+Dialogue: 0,0:00:09.26,0:00:10.94,P18,,0,0,0,,las manos se forman callos.
+Dialogue: 0,0:00:10.94,0:00:12.24,P18,,0,0,0,,Y ya no te vuelve a doler como
+Dialogue: 0,0:00:12.24,0:00:14.34,P18,,0,0,0,,antes, se vuelve tu nuevo estado
+Dialogue: 0,0:00:14.34,0:00:15.04,P18,,0,0,0,,normal.
+Dialogue: 0,0:00:15.28,0:00:16.60,P18,,0,0,0,,Con la mente pasa lo mismo,
+Dialogue: 0,0:00:16.60,0:00:17.60,P18,,0,0,0,,y acá la importancia de
+Dialogue: 0,0:00:17.60,0:00:19.10,P18,,0,0,0,,someternos a situaciones incómodas
+Dialogue: 0,0:00:19.10,0:00:20.10,P18,,0,0,0,,todos los días.
+Dialogue: 0,0:00:20.10,0:00:21.16,P18,,0,0,0,,Cuando nos enfrentamos con la
+Dialogue: 0,0:00:21.16,0:00:22.66,P18,,0,0,0,,incomodidad, cuando salimos de la
+Dialogue: 0,0:00:22.66,0:00:24.14,P18,,0,0,0,,zona de confort seguido,
+Dialogue: 0,0:00:24.14,0:00:25.28,P18,,0,0,0,,nuestra mente se endurece,
+Dialogue: 0,0:00:25.28,0:00:26.80,P18,,0,0,0,,se crean conexiones que antes no
+Dialogue: 0,0:00:26.80,0:00:27.20,P18,,0,0,0,,estaban ahí.
+Dialogue: 0,0:00:27.20,0:00:29.12,P18,,0,0,0,,Ya el levantarte temprano se
+Dialogue: 0,0:00:29.12,0:00:30.10,P18,,0,0,0,,vuelve tu nuevo normal,
+Dialogue: 0,0:00:30.62,0:00:31.90,P18,,0,0,0,,el ir al gimnasio con frecuencia
+Dialogue: 0,0:00:31.90,0:00:33.08,P18,,0,0,0,,se vuelve tu nuevo normal,
+Dialogue: 0,0:00:33.56,0:00:35.12,P18,,0,0,0,,no tienen que ser cosas enormes,
+Dialogue: 0,0:00:35.12,0:00:36.44,P18,,0,0,0,,se tratan de microacciones
+Dialogue: 0,0:00:36.44,0:00:38.88,P18,,0,0,0,,incómodas a diario, desde tender
+Dialogue: 0,0:00:38.88,0:00:41.04,P18,,0,0,0,,la cama hasta lavar los platos,
+Dialogue: 0,0:00:41.40,0:00:42.76,P18,,0,0,0,,todo eso que odies hacer,
+Dialogue: 0,0:00:42.76,0:00:44.38,P18,,0,0,0,,hacelo, de esa manera encallecemos
+Dialogue: 0,0:00:44.38,0:00:46.20,P18,,0,0,0,,la mente, nos volvemos más fuertes
+Dialogue: 0,0:00:46.20,0:00:47.60,P18,,0,0,0,,y generamos un dialogo más
+Dialogue: 0,0:00:47.60,0:00:48.80,P18,,0,0,0,,productivo con nosotros mismos.

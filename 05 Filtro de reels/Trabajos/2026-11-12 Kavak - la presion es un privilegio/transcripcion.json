@@ -1,0 +1,832 @@
+{
+ "idioma": "es",
+ "duracion": 49.19,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 5.58,
+   "texto": "si construir algo va a ser difícil por naturaleza, tienes problemas que tienes",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.54,
+     "p": "si"
+    },
+    {
+     "ini": 0.54,
+     "fin": 0.94,
+     "p": "construir"
+    },
+    {
+     "ini": 0.94,
+     "fin": 1.58,
+     "p": "algo"
+    },
+    {
+     "ini": 1.58,
+     "fin": 1.94,
+     "p": "va"
+    },
+    {
+     "ini": 1.94,
+     "fin": 2.02,
+     "p": "a"
+    },
+    {
+     "ini": 2.02,
+     "fin": 2.14,
+     "p": "ser"
+    },
+    {
+     "ini": 2.14,
+     "fin": 2.9,
+     "p": "difícil"
+    },
+    {
+     "ini": 2.9,
+     "fin": 3.68,
+     "p": "por"
+    },
+    {
+     "ini": 3.68,
+     "fin": 4.44,
+     "p": "naturaleza,"
+    },
+    {
+     "ini": 4.76,
+     "fin": 4.78,
+     "p": "tienes"
+    },
+    {
+     "ini": 4.78,
+     "fin": 5.26,
+     "p": "problemas"
+    },
+    {
+     "ini": 5.26,
+     "fin": 5.42,
+     "p": "que"
+    },
+    {
+     "ini": 5.42,
+     "fin": 5.58,
+     "p": "tienes"
+    }
+   ]
+  },
+  {
+   "ini": 5.58,
+   "fin": 10.0,
+   "texto": "que quitarte de encima y traer soluciones. Si tú entiendes eso, nuevamente lo que te",
+   "palabras": [
+    {
+     "ini": 5.58,
+     "fin": 5.8,
+     "p": "que"
+    },
+    {
+     "ini": 5.8,
+     "fin": 6.08,
+     "p": "quitarte"
+    },
+    {
+     "ini": 6.08,
+     "fin": 6.24,
+     "p": "de"
+    },
+    {
+     "ini": 6.24,
+     "fin": 6.48,
+     "p": "encima"
+    },
+    {
+     "ini": 6.48,
+     "fin": 6.66,
+     "p": "y"
+    },
+    {
+     "ini": 6.66,
+     "fin": 6.9,
+     "p": "traer"
+    },
+    {
+     "ini": 6.9,
+     "fin": 7.54,
+     "p": "soluciones."
+    },
+    {
+     "ini": 8.1,
+     "fin": 8.22,
+     "p": "Si"
+    },
+    {
+     "ini": 8.22,
+     "fin": 8.46,
+     "p": "tú"
+    },
+    {
+     "ini": 8.46,
+     "fin": 8.86,
+     "p": "entiendes"
+    },
+    {
+     "ini": 8.86,
+     "fin": 9.2,
+     "p": "eso,"
+    },
+    {
+     "ini": 9.3,
+     "fin": 9.58,
+     "p": "nuevamente"
+    },
+    {
+     "ini": 9.58,
+     "fin": 9.72,
+     "p": "lo"
+    },
+    {
+     "ini": 9.72,
+     "fin": 9.84,
+     "p": "que"
+    },
+    {
+     "ini": 9.84,
+     "fin": 10.0,
+     "p": "te"
+    }
+   ]
+  },
+  {
+   "ini": 10.0,
+   "fin": 12.9,
+   "texto": "decía, si tú entiendes que tú compraste el rompecabezas y el trabajo de armarlo,",
+   "palabras": [
+    {
+     "ini": 10.0,
+     "fin": 10.16,
+     "p": "decía,"
+    },
+    {
+     "ini": 10.26,
+     "fin": 10.32,
+     "p": "si"
+    },
+    {
+     "ini": 10.32,
+     "fin": 10.4,
+     "p": "tú"
+    },
+    {
+     "ini": 10.4,
+     "fin": 10.58,
+     "p": "entiendes"
+    },
+    {
+     "ini": 10.58,
+     "fin": 10.68,
+     "p": "que"
+    },
+    {
+     "ini": 10.68,
+     "fin": 10.96,
+     "p": "tú"
+    },
+    {
+     "ini": 10.96,
+     "fin": 11.14,
+     "p": "compraste"
+    },
+    {
+     "ini": 11.14,
+     "fin": 11.3,
+     "p": "el"
+    },
+    {
+     "ini": 11.3,
+     "fin": 11.84,
+     "p": "rompecabezas"
+    },
+    {
+     "ini": 11.84,
+     "fin": 11.94,
+     "p": "y"
+    },
+    {
+     "ini": 11.94,
+     "fin": 12.04,
+     "p": "el"
+    },
+    {
+     "ini": 12.04,
+     "fin": 12.2,
+     "p": "trabajo"
+    },
+    {
+     "ini": 12.2,
+     "fin": 12.32,
+     "p": "de"
+    },
+    {
+     "ini": 12.32,
+     "fin": 12.9,
+     "p": "armarlo,"
+    }
+   ]
+  },
+  {
+   "ini": 13.46,
+   "fin": 16.4,
+   "texto": "no lo vas a ver con la frustración de que alguien te regaló un rompecabezas y tienes",
+   "palabras": [
+    {
+     "ini": 13.46,
+     "fin": 13.62,
+     "p": "no"
+    },
+    {
+     "ini": 13.62,
+     "fin": 13.76,
+     "p": "lo"
+    },
+    {
+     "ini": 13.76,
+     "fin": 13.88,
+     "p": "vas"
+    },
+    {
+     "ini": 13.88,
+     "fin": 13.94,
+     "p": "a"
+    },
+    {
+     "ini": 13.94,
+     "fin": 14.02,
+     "p": "ver"
+    },
+    {
+     "ini": 14.02,
+     "fin": 14.18,
+     "p": "con"
+    },
+    {
+     "ini": 14.18,
+     "fin": 14.36,
+     "p": "la"
+    },
+    {
+     "ini": 14.36,
+     "fin": 14.76,
+     "p": "frustración"
+    },
+    {
+     "ini": 14.76,
+     "fin": 14.92,
+     "p": "de"
+    },
+    {
+     "ini": 14.92,
+     "fin": 15.02,
+     "p": "que"
+    },
+    {
+     "ini": 15.02,
+     "fin": 15.24,
+     "p": "alguien"
+    },
+    {
+     "ini": 15.24,
+     "fin": 15.44,
+     "p": "te"
+    },
+    {
+     "ini": 15.44,
+     "fin": 15.58,
+     "p": "regaló"
+    },
+    {
+     "ini": 15.58,
+     "fin": 15.74,
+     "p": "un"
+    },
+    {
+     "ini": 15.74,
+     "fin": 16.2,
+     "p": "rompecabezas"
+    },
+    {
+     "ini": 16.2,
+     "fin": 16.26,
+     "p": "y"
+    },
+    {
+     "ini": 16.26,
+     "fin": 16.4,
+     "p": "tienes"
+    }
+   ]
+  },
+  {
+   "ini": 16.4,
+   "fin": 23.68,
+   "texto": "que armarlo. Entonces, pero si requería de un montón de... había mucha presión, había",
+   "palabras": [
+    {
+     "ini": 16.4,
+     "fin": 16.54,
+     "p": "que"
+    },
+    {
+     "ini": 16.54,
+     "fin": 17.58,
+     "p": "armarlo."
+    },
+    {
+     "ini": 17.66,
+     "fin": 18.02,
+     "p": "Entonces,"
+    },
+    {
+     "ini": 19.1,
+     "fin": 19.24,
+     "p": "pero"
+    },
+    {
+     "ini": 19.24,
+     "fin": 19.42,
+     "p": "si"
+    },
+    {
+     "ini": 19.42,
+     "fin": 19.94,
+     "p": "requería"
+    },
+    {
+     "ini": 19.94,
+     "fin": 21.04,
+     "p": "de"
+    },
+    {
+     "ini": 21.04,
+     "fin": 21.5,
+     "p": "un"
+    },
+    {
+     "ini": 21.5,
+     "fin": 21.74,
+     "p": "montón"
+    },
+    {
+     "ini": 21.74,
+     "fin": 22.58,
+     "p": "de..."
+    },
+    {
+     "ini": 22.58,
+     "fin": 22.74,
+     "p": "había"
+    },
+    {
+     "ini": 22.74,
+     "fin": 22.98,
+     "p": "mucha"
+    },
+    {
+     "ini": 22.98,
+     "fin": 23.5,
+     "p": "presión,"
+    },
+    {
+     "ini": 23.6,
+     "fin": 23.68,
+     "p": "había"
+    }
+   ]
+  },
+  {
+   "ini": 23.68,
+   "fin": 27.82,
+   "texto": "mucho ruido. Yo en ese momento no entendía que la presión era un privilegio, por ejemplo.",
+   "palabras": [
+    {
+     "ini": 23.68,
+     "fin": 23.92,
+     "p": "mucho"
+    },
+    {
+     "ini": 23.92,
+     "fin": 24.96,
+     "p": "ruido."
+    },
+    {
+     "ini": 25.18,
+     "fin": 25.34,
+     "p": "Yo"
+    },
+    {
+     "ini": 25.34,
+     "fin": 25.44,
+     "p": "en"
+    },
+    {
+     "ini": 25.44,
+     "fin": 25.52,
+     "p": "ese"
+    },
+    {
+     "ini": 25.52,
+     "fin": 25.66,
+     "p": "momento"
+    },
+    {
+     "ini": 25.66,
+     "fin": 25.84,
+     "p": "no"
+    },
+    {
+     "ini": 25.84,
+     "fin": 26.02,
+     "p": "entendía"
+    },
+    {
+     "ini": 26.02,
+     "fin": 26.12,
+     "p": "que"
+    },
+    {
+     "ini": 26.12,
+     "fin": 26.3,
+     "p": "la"
+    },
+    {
+     "ini": 26.3,
+     "fin": 26.52,
+     "p": "presión"
+    },
+    {
+     "ini": 26.52,
+     "fin": 26.66,
+     "p": "era"
+    },
+    {
+     "ini": 26.66,
+     "fin": 26.78,
+     "p": "un"
+    },
+    {
+     "ini": 26.78,
+     "fin": 27.22,
+     "p": "privilegio,"
+    },
+    {
+     "ini": 27.28,
+     "fin": 27.4,
+     "p": "por"
+    },
+    {
+     "ini": 27.4,
+     "fin": 27.82,
+     "p": "ejemplo."
+    }
+   ]
+  },
+  {
+   "ini": 27.82,
+   "fin": 35.46,
+   "texto": "¿A qué te refieres con eso? Mira, la presión es algo que te gana. O sea, tú no estás un deportista",
+   "palabras": [
+    {
+     "ini": 27.82,
+     "fin": 28.4,
+     "p": "¿A"
+    },
+    {
+     "ini": 28.4,
+     "fin": 28.5,
+     "p": "qué"
+    },
+    {
+     "ini": 28.5,
+     "fin": 28.72,
+     "p": "te"
+    },
+    {
+     "ini": 28.72,
+     "fin": 29.0,
+     "p": "refieres"
+    },
+    {
+     "ini": 29.0,
+     "fin": 29.22,
+     "p": "con"
+    },
+    {
+     "ini": 29.22,
+     "fin": 29.46,
+     "p": "eso?"
+    },
+    {
+     "ini": 29.94,
+     "fin": 30.1,
+     "p": "Mira,"
+    },
+    {
+     "ini": 30.12,
+     "fin": 30.32,
+     "p": "la"
+    },
+    {
+     "ini": 30.32,
+     "fin": 30.5,
+     "p": "presión"
+    },
+    {
+     "ini": 30.5,
+     "fin": 30.54,
+     "p": "es"
+    },
+    {
+     "ini": 30.54,
+     "fin": 30.68,
+     "p": "algo"
+    },
+    {
+     "ini": 30.68,
+     "fin": 30.82,
+     "p": "que"
+    },
+    {
+     "ini": 30.82,
+     "fin": 30.94,
+     "p": "te"
+    },
+    {
+     "ini": 30.94,
+     "fin": 31.68,
+     "p": "gana."
+    },
+    {
+     "ini": 32.1,
+     "fin": 32.1,
+     "p": "O"
+    },
+    {
+     "ini": 32.1,
+     "fin": 32.24,
+     "p": "sea,"
+    },
+    {
+     "ini": 32.4,
+     "fin": 32.4,
+     "p": "tú"
+    },
+    {
+     "ini": 32.4,
+     "fin": 32.62,
+     "p": "no"
+    },
+    {
+     "ini": 32.62,
+     "fin": 33.88,
+     "p": "estás"
+    },
+    {
+     "ini": 33.88,
+     "fin": 34.42,
+     "p": "un"
+    },
+    {
+     "ini": 34.42,
+     "fin": 35.46,
+     "p": "deportista"
+    }
+   ]
+  },
+  {
+   "ini": 35.46,
+   "fin": 38.64,
+   "texto": "pegando un penal en la final del mundial, está nervioso porque está en la final del",
+   "palabras": [
+    {
+     "ini": 35.46,
+     "fin": 36.0,
+     "p": "pegando"
+    },
+    {
+     "ini": 36.0,
+     "fin": 36.18,
+     "p": "un"
+    },
+    {
+     "ini": 36.18,
+     "fin": 36.38,
+     "p": "penal"
+    },
+    {
+     "ini": 36.38,
+     "fin": 36.54,
+     "p": "en"
+    },
+    {
+     "ini": 36.54,
+     "fin": 36.66,
+     "p": "la"
+    },
+    {
+     "ini": 36.66,
+     "fin": 36.82,
+     "p": "final"
+    },
+    {
+     "ini": 36.82,
+     "fin": 37.0,
+     "p": "del"
+    },
+    {
+     "ini": 37.0,
+     "fin": 37.2,
+     "p": "mundial,"
+    },
+    {
+     "ini": 37.32,
+     "fin": 37.42,
+     "p": "está"
+    },
+    {
+     "ini": 37.42,
+     "fin": 37.8,
+     "p": "nervioso"
+    },
+    {
+     "ini": 37.8,
+     "fin": 37.98,
+     "p": "porque"
+    },
+    {
+     "ini": 37.98,
+     "fin": 38.14,
+     "p": "está"
+    },
+    {
+     "ini": 38.14,
+     "fin": 38.22,
+     "p": "en"
+    },
+    {
+     "ini": 38.22,
+     "fin": 38.32,
+     "p": "la"
+    },
+    {
+     "ini": 38.32,
+     "fin": 38.48,
+     "p": "final"
+    },
+    {
+     "ini": 38.48,
+     "fin": 38.64,
+     "p": "del"
+    }
+   ]
+  },
+  {
+   "ini": 38.64,
+   "fin": 46.18,
+   "texto": "mundial. En un amistoso a lo mejor no estás nervioso. La presión viene porque te la",
+   "palabras": [
+    {
+     "ini": 38.64,
+     "fin": 39.02,
+     "p": "mundial."
+    },
+    {
+     "ini": 40.34,
+     "fin": 40.4,
+     "p": "En"
+    },
+    {
+     "ini": 40.4,
+     "fin": 40.52,
+     "p": "un"
+    },
+    {
+     "ini": 40.52,
+     "fin": 40.92,
+     "p": "amistoso"
+    },
+    {
+     "ini": 40.92,
+     "fin": 40.98,
+     "p": "a"
+    },
+    {
+     "ini": 40.98,
+     "fin": 41.08,
+     "p": "lo"
+    },
+    {
+     "ini": 41.08,
+     "fin": 41.26,
+     "p": "mejor"
+    },
+    {
+     "ini": 41.26,
+     "fin": 41.36,
+     "p": "no"
+    },
+    {
+     "ini": 41.36,
+     "fin": 41.46,
+     "p": "estás"
+    },
+    {
+     "ini": 41.46,
+     "fin": 42.14,
+     "p": "nervioso."
+    },
+    {
+     "ini": 43.44,
+     "fin": 43.66,
+     "p": "La"
+    },
+    {
+     "ini": 43.66,
+     "fin": 43.96,
+     "p": "presión"
+    },
+    {
+     "ini": 43.96,
+     "fin": 44.5,
+     "p": "viene"
+    },
+    {
+     "ini": 44.5,
+     "fin": 45.62,
+     "p": "porque"
+    },
+    {
+     "ini": 45.62,
+     "fin": 46.08,
+     "p": "te"
+    },
+    {
+     "ini": 46.08,
+     "fin": 46.18,
+     "p": "la"
+    }
+   ]
+  },
+  {
+   "ini": 46.18,
+   "fin": 48.7,
+   "texto": "estás ganando, estás haciendo algo que está generando atención.",
+   "palabras": [
+    {
+     "ini": 46.18,
+     "fin": 46.3,
+     "p": "estás"
+    },
+    {
+     "ini": 46.3,
+     "fin": 46.68,
+     "p": "ganando,"
+    },
+    {
+     "ini": 46.8,
+     "fin": 46.9,
+     "p": "estás"
+    },
+    {
+     "ini": 46.9,
+     "fin": 47.2,
+     "p": "haciendo"
+    },
+    {
+     "ini": 47.2,
+     "fin": 47.46,
+     "p": "algo"
+    },
+    {
+     "ini": 47.46,
+     "fin": 47.78,
+     "p": "que"
+    },
+    {
+     "ini": 47.78,
+     "fin": 47.92,
+     "p": "está"
+    },
+    {
+     "ini": 47.92,
+     "fin": 48.26,
+     "p": "generando"
+    },
+    {
+     "ini": 48.26,
+     "fin": 48.7,
+     "p": "atención."
+    }
+   ]
+  }
+ ]
+}

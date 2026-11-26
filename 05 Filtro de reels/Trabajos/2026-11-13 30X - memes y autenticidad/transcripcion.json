@@ -1,0 +1,728 @@
+{
+ "idioma": "es",
+ "duracion": 51.85,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 7.3,
+   "texto": "sabíamos que los memes eran el formato de contenido más compartible de las redes",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.64,
+     "p": "sabíamos"
+    },
+    {
+     "ini": 0.64,
+     "fin": 0.82,
+     "p": "que"
+    },
+    {
+     "ini": 0.82,
+     "fin": 1.04,
+     "p": "los"
+    },
+    {
+     "ini": 1.04,
+     "fin": 1.22,
+     "p": "memes"
+    },
+    {
+     "ini": 1.22,
+     "fin": 1.72,
+     "p": "eran"
+    },
+    {
+     "ini": 1.72,
+     "fin": 2.82,
+     "p": "el"
+    },
+    {
+     "ini": 2.82,
+     "fin": 3.26,
+     "p": "formato"
+    },
+    {
+     "ini": 3.26,
+     "fin": 3.52,
+     "p": "de"
+    },
+    {
+     "ini": 3.52,
+     "fin": 3.94,
+     "p": "contenido"
+    },
+    {
+     "ini": 3.94,
+     "fin": 4.5,
+     "p": "más"
+    },
+    {
+     "ini": 4.5,
+     "fin": 6.18,
+     "p": "compartible"
+    },
+    {
+     "ini": 6.18,
+     "fin": 6.76,
+     "p": "de"
+    },
+    {
+     "ini": 6.76,
+     "fin": 6.96,
+     "p": "las"
+    },
+    {
+     "ini": 6.96,
+     "fin": 7.3,
+     "p": "redes"
+    }
+   ]
+  },
+  {
+   "ini": 7.84,
+   "fin": 12.96,
+   "texto": "y decidimos involucrarlos en los reels, en los videos, en los TikToks, en todo ese tipo de cosas.",
+   "palabras": [
+    {
+     "ini": 7.84,
+     "fin": 8.38,
+     "p": "y"
+    },
+    {
+     "ini": 8.38,
+     "fin": 8.88,
+     "p": "decidimos"
+    },
+    {
+     "ini": 8.88,
+     "fin": 9.6,
+     "p": "involucrarlos"
+    },
+    {
+     "ini": 9.6,
+     "fin": 9.76,
+     "p": "en"
+    },
+    {
+     "ini": 9.76,
+     "fin": 9.96,
+     "p": "los"
+    },
+    {
+     "ini": 9.96,
+     "fin": 10.22,
+     "p": "reels,"
+    },
+    {
+     "ini": 10.32,
+     "fin": 10.38,
+     "p": "en"
+    },
+    {
+     "ini": 10.38,
+     "fin": 10.52,
+     "p": "los"
+    },
+    {
+     "ini": 10.52,
+     "fin": 10.78,
+     "p": "videos,"
+    },
+    {
+     "ini": 10.9,
+     "fin": 10.96,
+     "p": "en"
+    },
+    {
+     "ini": 10.96,
+     "fin": 11.1,
+     "p": "los"
+    },
+    {
+     "ini": 11.1,
+     "fin": 11.64,
+     "p": "TikToks,"
+    },
+    {
+     "ini": 11.7,
+     "fin": 11.74,
+     "p": "en"
+    },
+    {
+     "ini": 11.74,
+     "fin": 11.86,
+     "p": "todo"
+    },
+    {
+     "ini": 11.86,
+     "fin": 12.04,
+     "p": "ese"
+    },
+    {
+     "ini": 12.04,
+     "fin": 12.24,
+     "p": "tipo"
+    },
+    {
+     "ini": 12.24,
+     "fin": 12.46,
+     "p": "de"
+    },
+    {
+     "ini": 12.46,
+     "fin": 12.96,
+     "p": "cosas."
+    }
+   ]
+  },
+  {
+   "ini": 15.04,
+   "fin": 21.52,
+   "texto": "Y la teoría pues funcionó, porque mucha gente que ve los videos los comparte por los memes,",
+   "palabras": [
+    {
+     "ini": 15.04,
+     "fin": 15.58,
+     "p": "Y"
+    },
+    {
+     "ini": 15.58,
+     "fin": 15.9,
+     "p": "la"
+    },
+    {
+     "ini": 15.9,
+     "fin": 16.42,
+     "p": "teoría"
+    },
+    {
+     "ini": 16.42,
+     "fin": 16.82,
+     "p": "pues"
+    },
+    {
+     "ini": 16.82,
+     "fin": 17.42,
+     "p": "funcionó,"
+    },
+    {
+     "ini": 17.72,
+     "fin": 18.6,
+     "p": "porque"
+    },
+    {
+     "ini": 18.6,
+     "fin": 18.88,
+     "p": "mucha"
+    },
+    {
+     "ini": 18.88,
+     "fin": 19.12,
+     "p": "gente"
+    },
+    {
+     "ini": 19.12,
+     "fin": 19.26,
+     "p": "que"
+    },
+    {
+     "ini": 19.26,
+     "fin": 19.32,
+     "p": "ve"
+    },
+    {
+     "ini": 19.32,
+     "fin": 19.56,
+     "p": "los"
+    },
+    {
+     "ini": 19.56,
+     "fin": 20.0,
+     "p": "videos"
+    },
+    {
+     "ini": 20.0,
+     "fin": 20.52,
+     "p": "los"
+    },
+    {
+     "ini": 20.52,
+     "fin": 20.92,
+     "p": "comparte"
+    },
+    {
+     "ini": 20.92,
+     "fin": 21.12,
+     "p": "por"
+    },
+    {
+     "ini": 21.12,
+     "fin": 21.34,
+     "p": "los"
+    },
+    {
+     "ini": 21.34,
+     "fin": 21.52,
+     "p": "memes,"
+    }
+   ]
+  },
+  {
+   "ini": 21.82,
+   "fin": 25.86,
+   "texto": "pero también los comparte por los chistes, las interacciones,",
+   "palabras": [
+    {
+     "ini": 21.82,
+     "fin": 21.88,
+     "p": "pero"
+    },
+    {
+     "ini": 21.88,
+     "fin": 22.12,
+     "p": "también"
+    },
+    {
+     "ini": 22.12,
+     "fin": 22.34,
+     "p": "los"
+    },
+    {
+     "ini": 22.34,
+     "fin": 22.68,
+     "p": "comparte"
+    },
+    {
+     "ini": 22.68,
+     "fin": 22.92,
+     "p": "por"
+    },
+    {
+     "ini": 22.92,
+     "fin": 23.14,
+     "p": "los"
+    },
+    {
+     "ini": 23.14,
+     "fin": 23.72,
+     "p": "chistes,"
+    },
+    {
+     "ini": 24.34,
+     "fin": 24.66,
+     "p": "las"
+    },
+    {
+     "ini": 24.66,
+     "fin": 25.86,
+     "p": "interacciones,"
+    }
+   ]
+  },
+  {
+   "ini": 26.06,
+   "fin": 28.72,
+   "texto": "más que todo también tratamos de ser muy auténticos.",
+   "palabras": [
+    {
+     "ini": 26.06,
+     "fin": 26.56,
+     "p": "más"
+    },
+    {
+     "ini": 26.56,
+     "fin": 26.76,
+     "p": "que"
+    },
+    {
+     "ini": 26.76,
+     "fin": 26.92,
+     "p": "todo"
+    },
+    {
+     "ini": 26.92,
+     "fin": 27.26,
+     "p": "también"
+    },
+    {
+     "ini": 27.26,
+     "fin": 27.6,
+     "p": "tratamos"
+    },
+    {
+     "ini": 27.6,
+     "fin": 27.74,
+     "p": "de"
+    },
+    {
+     "ini": 27.74,
+     "fin": 27.82,
+     "p": "ser"
+    },
+    {
+     "ini": 27.82,
+     "fin": 28.12,
+     "p": "muy"
+    },
+    {
+     "ini": 28.12,
+     "fin": 28.72,
+     "p": "auténticos."
+    }
+   ]
+  },
+  {
+   "ini": 28.72,
+   "fin": 33.06,
+   "texto": "Entonces, si la cagamos, dejamos la cagada en los videos, por ejemplo.",
+   "palabras": [
+    {
+     "ini": 28.72,
+     "fin": 29.4,
+     "p": "Entonces,"
+    },
+    {
+     "ini": 29.48,
+     "fin": 29.6,
+     "p": "si"
+    },
+    {
+     "ini": 29.6,
+     "fin": 29.82,
+     "p": "la"
+    },
+    {
+     "ini": 29.82,
+     "fin": 30.58,
+     "p": "cagamos,"
+    },
+    {
+     "ini": 31.02,
+     "fin": 31.2,
+     "p": "dejamos"
+    },
+    {
+     "ini": 31.2,
+     "fin": 31.42,
+     "p": "la"
+    },
+    {
+     "ini": 31.42,
+     "fin": 31.76,
+     "p": "cagada"
+    },
+    {
+     "ini": 31.76,
+     "fin": 31.9,
+     "p": "en"
+    },
+    {
+     "ini": 31.9,
+     "fin": 32.08,
+     "p": "los"
+    },
+    {
+     "ini": 32.08,
+     "fin": 32.42,
+     "p": "videos,"
+    },
+    {
+     "ini": 32.54,
+     "fin": 32.72,
+     "p": "por"
+    },
+    {
+     "ini": 32.72,
+     "fin": 33.06,
+     "p": "ejemplo."
+    }
+   ]
+  },
+  {
+   "ini": 33.34,
+   "fin": 33.5,
+   "texto": "Así.",
+   "palabras": [
+    {
+     "ini": 33.34,
+     "fin": 33.5,
+     "p": "Así."
+    }
+   ]
+  },
+  {
+   "ini": 33.8,
+   "fin": 34.14,
+   "texto": "Ajá.",
+   "palabras": [
+    {
+     "ini": 33.8,
+     "fin": 34.14,
+     "p": "Ajá."
+    }
+   ]
+  },
+  {
+   "ini": 34.24,
+   "fin": 40.78,
+   "texto": "Sí, porque es como si alguien la caga en cámara, es más relatable, ¿verdad?",
+   "palabras": [
+    {
+     "ini": 34.24,
+     "fin": 34.34,
+     "p": "Sí,"
+    },
+    {
+     "ini": 34.7,
+     "fin": 34.7,
+     "p": "porque"
+    },
+    {
+     "ini": 34.7,
+     "fin": 34.94,
+     "p": "es"
+    },
+    {
+     "ini": 34.94,
+     "fin": 35.32,
+     "p": "como"
+    },
+    {
+     "ini": 35.32,
+     "fin": 35.96,
+     "p": "si"
+    },
+    {
+     "ini": 35.96,
+     "fin": 36.2,
+     "p": "alguien"
+    },
+    {
+     "ini": 36.2,
+     "fin": 36.5,
+     "p": "la"
+    },
+    {
+     "ini": 36.5,
+     "fin": 36.92,
+     "p": "caga"
+    },
+    {
+     "ini": 36.92,
+     "fin": 37.78,
+     "p": "en"
+    },
+    {
+     "ini": 37.78,
+     "fin": 38.3,
+     "p": "cámara,"
+    },
+    {
+     "ini": 38.76,
+     "fin": 39.2,
+     "p": "es"
+    },
+    {
+     "ini": 39.2,
+     "fin": 39.66,
+     "p": "más"
+    },
+    {
+     "ini": 39.66,
+     "fin": 40.34,
+     "p": "relatable,"
+    },
+    {
+     "ini": 40.34,
+     "fin": 40.78,
+     "p": "¿verdad?"
+    }
+   ]
+  },
+  {
+   "ini": 40.92,
+   "fin": 45.34,
+   "texto": "Porque entonces lo que pasa es que las personas lo ven y dicen como, pues pucha,",
+   "palabras": [
+    {
+     "ini": 40.92,
+     "fin": 41.12,
+     "p": "Porque"
+    },
+    {
+     "ini": 41.12,
+     "fin": 41.38,
+     "p": "entonces"
+    },
+    {
+     "ini": 41.38,
+     "fin": 41.54,
+     "p": "lo"
+    },
+    {
+     "ini": 41.54,
+     "fin": 41.68,
+     "p": "que"
+    },
+    {
+     "ini": 41.68,
+     "fin": 41.8,
+     "p": "pasa"
+    },
+    {
+     "ini": 41.8,
+     "fin": 42.0,
+     "p": "es"
+    },
+    {
+     "ini": 42.0,
+     "fin": 42.96,
+     "p": "que"
+    },
+    {
+     "ini": 42.96,
+     "fin": 43.2,
+     "p": "las"
+    },
+    {
+     "ini": 43.2,
+     "fin": 43.54,
+     "p": "personas"
+    },
+    {
+     "ini": 43.54,
+     "fin": 43.8,
+     "p": "lo"
+    },
+    {
+     "ini": 43.8,
+     "fin": 43.96,
+     "p": "ven"
+    },
+    {
+     "ini": 43.96,
+     "fin": 44.22,
+     "p": "y"
+    },
+    {
+     "ini": 44.22,
+     "fin": 44.46,
+     "p": "dicen"
+    },
+    {
+     "ini": 44.46,
+     "fin": 44.78,
+     "p": "como,"
+    },
+    {
+     "ini": 44.94,
+     "fin": 45.0,
+     "p": "pues"
+    },
+    {
+     "ini": 45.0,
+     "fin": 45.34,
+     "p": "pucha,"
+    }
+   ]
+  },
+  {
+   "ini": 46.06,
+   "fin": 47.48,
+   "texto": "pues son como yo, ¿no?",
+   "palabras": [
+    {
+     "ini": 46.06,
+     "fin": 46.38,
+     "p": "pues"
+    },
+    {
+     "ini": 46.38,
+     "fin": 46.58,
+     "p": "son"
+    },
+    {
+     "ini": 46.58,
+     "fin": 46.86,
+     "p": "como"
+    },
+    {
+     "ini": 46.86,
+     "fin": 47.22,
+     "p": "yo,"
+    },
+    {
+     "ini": 47.38,
+     "fin": 47.48,
+     "p": "¿no?"
+    }
+   ]
+  },
+  {
+   "ini": 47.48,
+   "fin": 47.8,
+   "texto": "Claro.",
+   "palabras": [
+    {
+     "ini": 47.48,
+     "fin": 47.8,
+     "p": "Claro."
+    }
+   ]
+  },
+  {
+   "ini": 48.28,
+   "fin": 51.46,
+   "texto": "Entonces lo comparten o les gusta o dejan comentarios.",
+   "palabras": [
+    {
+     "ini": 48.28,
+     "fin": 48.62,
+     "p": "Entonces"
+    },
+    {
+     "ini": 48.62,
+     "fin": 48.88,
+     "p": "lo"
+    },
+    {
+     "ini": 48.88,
+     "fin": 49.46,
+     "p": "comparten"
+    },
+    {
+     "ini": 49.46,
+     "fin": 49.9,
+     "p": "o"
+    },
+    {
+     "ini": 49.9,
+     "fin": 50.1,
+     "p": "les"
+    },
+    {
+     "ini": 50.1,
+     "fin": 50.44,
+     "p": "gusta"
+    },
+    {
+     "ini": 50.44,
+     "fin": 50.66,
+     "p": "o"
+    },
+    {
+     "ini": 50.66,
+     "fin": 50.9,
+     "p": "dejan"
+    },
+    {
+     "ini": 50.9,
+     "fin": 51.46,
+     "p": "comentarios."
+    }
+   ]
+  }
+ ]
+}

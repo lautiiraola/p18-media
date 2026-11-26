@@ -1,0 +1,23 @@
+schema_version: 1
+video_id: P18-004
+slug: milton-hershey
+title: "Lo vendió entero"
+protagonist: "Milton Hershey"
+creation_mode: autonomous
+status: waiting_voiceover
+created_at: "2026-11-25"
+updated_at: "2026-11-25"
+duration_target_seconds: 46  # obligatorio: 30–50 s, nunca más de 50
+format: p18_story_vertical
+resolution: 1080x1920
+fps: 60
+voiceover_status: blocked_missing_elevenlabs_key
+facts_verified: true
+assets_cleared: false
+storyboard_approved: false
+creative_review: pending
+technical_review: pending
+final_render: null
+
+blocked_by: "Falta ~/.config/p18/elevenlabs.env (clave de ElevenLabs). Guion y texto para voz listos."
+next_gate: "voz: tools/voz_elevenlabs.py --check y luego 02_script/texto-elevenlabs.txt -> 03_voiceover/inbox/voz.wav"

@@ -1,0 +1,470 @@
+{
+ "idioma": "es",
+ "duracion": 36.07,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 4.38,
+   "texto": "Si tú no encuentras satisfacción en el proceso,",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.22,
+     "p": "Si"
+    },
+    {
+     "ini": 0.22,
+     "fin": 0.48,
+     "p": "tú"
+    },
+    {
+     "ini": 0.48,
+     "fin": 1.88,
+     "p": "no"
+    },
+    {
+     "ini": 1.88,
+     "fin": 2.4,
+     "p": "encuentras"
+    },
+    {
+     "ini": 2.4,
+     "fin": 3.28,
+     "p": "satisfacción"
+    },
+    {
+     "ini": 3.28,
+     "fin": 3.5,
+     "p": "en"
+    },
+    {
+     "ini": 3.5,
+     "fin": 3.8,
+     "p": "el"
+    },
+    {
+     "ini": 3.8,
+     "fin": 4.38,
+     "p": "proceso,"
+    }
+   ]
+  },
+  {
+   "ini": 5.18,
+   "fin": 9.02,
+   "texto": "difícilmente vas a encontrar satisfacción en el resultado final.",
+   "palabras": [
+    {
+     "ini": 5.18,
+     "fin": 5.78,
+     "p": "difícilmente"
+    },
+    {
+     "ini": 5.78,
+     "fin": 6.0,
+     "p": "vas"
+    },
+    {
+     "ini": 6.0,
+     "fin": 6.2,
+     "p": "a"
+    },
+    {
+     "ini": 6.2,
+     "fin": 6.48,
+     "p": "encontrar"
+    },
+    {
+     "ini": 6.48,
+     "fin": 7.64,
+     "p": "satisfacción"
+    },
+    {
+     "ini": 7.64,
+     "fin": 8.06,
+     "p": "en"
+    },
+    {
+     "ini": 8.06,
+     "fin": 8.28,
+     "p": "el"
+    },
+    {
+     "ini": 8.28,
+     "fin": 8.62,
+     "p": "resultado"
+    },
+    {
+     "ini": 8.62,
+     "fin": 9.02,
+     "p": "final."
+    }
+   ]
+  },
+  {
+   "ini": 10.18,
+   "fin": 12.18,
+   "texto": "Mi sobrino pasó gusto del proceso.",
+   "palabras": [
+    {
+     "ini": 10.18,
+     "fin": 10.34,
+     "p": "Mi"
+    },
+    {
+     "ini": 10.34,
+     "fin": 10.64,
+     "p": "sobrino"
+    },
+    {
+     "ini": 10.64,
+     "fin": 10.98,
+     "p": "pasó"
+    },
+    {
+     "ini": 10.98,
+     "fin": 11.4,
+     "p": "gusto"
+    },
+    {
+     "ini": 11.4,
+     "fin": 11.68,
+     "p": "del"
+    },
+    {
+     "ini": 11.68,
+     "fin": 12.18,
+     "p": "proceso."
+    }
+   ]
+  },
+  {
+   "ini": 12.84,
+   "fin": 16.62,
+   "texto": "Yo pasé, como entrenador, casi más gusto del proceso",
+   "palabras": [
+    {
+     "ini": 12.84,
+     "fin": 12.96,
+     "p": "Yo"
+    },
+    {
+     "ini": 12.96,
+     "fin": 13.76,
+     "p": "pasé,"
+    },
+    {
+     "ini": 13.94,
+     "fin": 14.1,
+     "p": "como"
+    },
+    {
+     "ini": 14.1,
+     "fin": 14.64,
+     "p": "entrenador,"
+    },
+    {
+     "ini": 14.8,
+     "fin": 15.16,
+     "p": "casi"
+    },
+    {
+     "ini": 15.16,
+     "fin": 15.54,
+     "p": "más"
+    },
+    {
+     "ini": 15.54,
+     "fin": 15.78,
+     "p": "gusto"
+    },
+    {
+     "ini": 15.78,
+     "fin": 16.02,
+     "p": "del"
+    },
+    {
+     "ini": 16.02,
+     "fin": 16.62,
+     "p": "proceso"
+    }
+   ]
+  },
+  {
+   "ini": 16.62,
+   "fin": 18.28,
+   "texto": "que del resultado final.",
+   "palabras": [
+    {
+     "ini": 16.62,
+     "fin": 17.2,
+     "p": "que"
+    },
+    {
+     "ini": 17.2,
+     "fin": 17.44,
+     "p": "del"
+    },
+    {
+     "ini": 17.44,
+     "fin": 17.94,
+     "p": "resultado"
+    },
+    {
+     "ini": 17.94,
+     "fin": 18.28,
+     "p": "final."
+    }
+   ]
+  },
+  {
+   "ini": 18.44,
+   "fin": 21.82,
+   "texto": "A mí, el resultado final, claro que me importó",
+   "palabras": [
+    {
+     "ini": 18.44,
+     "fin": 18.44,
+     "p": "A"
+    },
+    {
+     "ini": 18.44,
+     "fin": 19.08,
+     "p": "mí,"
+    },
+    {
+     "ini": 19.3,
+     "fin": 19.38,
+     "p": "el"
+    },
+    {
+     "ini": 19.38,
+     "fin": 19.78,
+     "p": "resultado"
+    },
+    {
+     "ini": 19.78,
+     "fin": 20.16,
+     "p": "final,"
+    },
+    {
+     "ini": 20.26,
+     "fin": 20.48,
+     "p": "claro"
+    },
+    {
+     "ini": 20.48,
+     "fin": 20.64,
+     "p": "que"
+    },
+    {
+     "ini": 20.64,
+     "fin": 20.92,
+     "p": "me"
+    },
+    {
+     "ini": 20.92,
+     "fin": 21.82,
+     "p": "importó"
+    }
+   ]
+  },
+  {
+   "ini": 21.82,
+   "fin": 24.64,
+   "texto": "ver ganar a mi sobrino en Roland Garros o en Wimbledon,",
+   "palabras": [
+    {
+     "ini": 21.82,
+     "fin": 22.18,
+     "p": "ver"
+    },
+    {
+     "ini": 22.18,
+     "fin": 22.48,
+     "p": "ganar"
+    },
+    {
+     "ini": 22.48,
+     "fin": 22.58,
+     "p": "a"
+    },
+    {
+     "ini": 22.58,
+     "fin": 22.68,
+     "p": "mi"
+    },
+    {
+     "ini": 22.68,
+     "fin": 23.0,
+     "p": "sobrino"
+    },
+    {
+     "ini": 23.0,
+     "fin": 23.16,
+     "p": "en"
+    },
+    {
+     "ini": 23.16,
+     "fin": 23.46,
+     "p": "Roland"
+    },
+    {
+     "ini": 23.46,
+     "fin": 23.8,
+     "p": "Garros"
+    },
+    {
+     "ini": 23.8,
+     "fin": 24.06,
+     "p": "o"
+    },
+    {
+     "ini": 24.06,
+     "fin": 24.2,
+     "p": "en"
+    },
+    {
+     "ini": 24.2,
+     "fin": 24.64,
+     "p": "Wimbledon,"
+    }
+   ]
+  },
+  {
+   "ini": 24.74,
+   "fin": 28.6,
+   "texto": "pero a mí lo que realmente me proporcionó la felicidad",
+   "palabras": [
+    {
+     "ini": 24.74,
+     "fin": 25.56,
+     "p": "pero"
+    },
+    {
+     "ini": 25.56,
+     "fin": 25.72,
+     "p": "a"
+    },
+    {
+     "ini": 25.72,
+     "fin": 25.94,
+     "p": "mí"
+    },
+    {
+     "ini": 25.94,
+     "fin": 26.16,
+     "p": "lo"
+    },
+    {
+     "ini": 26.16,
+     "fin": 26.28,
+     "p": "que"
+    },
+    {
+     "ini": 26.28,
+     "fin": 26.74,
+     "p": "realmente"
+    },
+    {
+     "ini": 26.74,
+     "fin": 27.14,
+     "p": "me"
+    },
+    {
+     "ini": 27.14,
+     "fin": 27.72,
+     "p": "proporcionó"
+    },
+    {
+     "ini": 27.72,
+     "fin": 28.0,
+     "p": "la"
+    },
+    {
+     "ini": 28.0,
+     "fin": 28.6,
+     "p": "felicidad"
+    }
+   ]
+  },
+  {
+   "ini": 28.6,
+   "fin": 35.7,
+   "texto": "fue la lucha diaria de intentar hacer las cosas cada día un poco mejor.",
+   "palabras": [
+    {
+     "ini": 28.6,
+     "fin": 29.78,
+     "p": "fue"
+    },
+    {
+     "ini": 29.78,
+     "fin": 30.64,
+     "p": "la"
+    },
+    {
+     "ini": 30.64,
+     "fin": 30.98,
+     "p": "lucha"
+    },
+    {
+     "ini": 30.98,
+     "fin": 31.62,
+     "p": "diaria"
+    },
+    {
+     "ini": 31.62,
+     "fin": 32.34,
+     "p": "de"
+    },
+    {
+     "ini": 32.34,
+     "fin": 32.76,
+     "p": "intentar"
+    },
+    {
+     "ini": 32.76,
+     "fin": 33.1,
+     "p": "hacer"
+    },
+    {
+     "ini": 33.1,
+     "fin": 33.38,
+     "p": "las"
+    },
+    {
+     "ini": 33.38,
+     "fin": 34.14,
+     "p": "cosas"
+    },
+    {
+     "ini": 34.14,
+     "fin": 34.72,
+     "p": "cada"
+    },
+    {
+     "ini": 34.72,
+     "fin": 34.88,
+     "p": "día"
+    },
+    {
+     "ini": 34.88,
+     "fin": 35.08,
+     "p": "un"
+    },
+    {
+     "ini": 35.08,
+     "fin": 35.28,
+     "p": "poco"
+    },
+    {
+     "ini": 35.28,
+     "fin": 35.7,
+     "p": "mejor."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+CLIP 04 — QUE NO ESTÉN DE ACUERDO CON VOS NO ES UN ATAQUE
+
+Inicio:     30:15.6  (1815.64 s)
+Fin:        31:09.2  (1869.17 s)
+Duración:   53.5 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  QUE NO ESTÉN DE ACUERDO CON VOS NO ES UN ATAQUE   (en el reel, en lima: NO ES UN ATAQUE)
+Departamento:     Crear y comunicar
+Área:             Vínculos y comunicación
+Tema:             Debatir sin pelearse
+Fuente:           Epifanía Podcast - Nicolás Aguzin — "Nació en la provincia más pobre, pero llegó a CEO de JPMorgan | Nicolás Aguzin"
+                  https://www.youtube.com/watch?v=eAWLBxLpKEE&t=1815s
+
+Por qué lo elegí:
+Cuenta el choque de llegar a una universidad donde los compañeros decían "estoy en desacuerdo con lo que dijo Nicolás": al principio lo sintió como una agresión, después entendió que era otro punto de vista y terminaban charlando bien. Muy útil para chicos que recién empiezan a debatir en clase o en grupo.
+
+Gancho (primeros 3 s): Teníamos algunas cosas que se llamaban seminarios, clases chicas
+
+Notas para la revisión: Gancho algo lento (empieza contando cómo eran las clases); la frase fuerte llega a los ~10 s.
+
+Transcripción del clip:
+teníamos algunas cosas que se llamaban como seminar seminarios y donde eran clases chicas de 15 alumnos a veces inclusive más chicas y había mucha charla mucha discusión mucho interacción con los profesores y cuando uno da una opinión era muy común que salte otro alumno y diga no no estoy totalmente desacuerdo con lo que dijo Nicolás y yo creo que esto y yo me acuerdo que en el colegio no era tanto que pasaba eso, o sea, jamás un alumno iba a decir estoy desacuerdo con el otro alumno, acá era una cultura más de debatir y eso fue un poquito choqueante porque al principio yo pensé esta persona me está casi que agrediendo y no es una cuestión de agresión, es simplemente que está planteando un punto de vista y después cuando terminara clase charlábamos y hablábamos todo bien.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - Epifanía Podcast - Nicolás Aguzin/04 - desacuerdo no es agresion.mp4" "QUE NO ESTÉN DE ACUERDO CON VOS *NO ES UN ATAQUE*" --fuente "Epifanía Podcast - Nicolás Aguzin"

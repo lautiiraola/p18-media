@@ -1,0 +1,107 @@
+{
+ "clips": [
+  {
+   "n": 1,
+   "ranges": [
+    {
+     "ini": 112.58,
+     "fin": 151.76
+    }
+   ],
+   "titulo": "Para contratarte, lo que pesa es la *actitud*",
+   "departamento": "Finanzas y trabajo",
+   "area": "Trabajo y oportunidades",
+   "tema": "Qué se mira en un primer trabajo",
+   "gancho": "Las ganas de aprender, saber que tiene ganas de aprender y de llegar a algún lado.",
+   "porque": "Responde la duda de quien busca su primer laburo sin experiencia: lo que se mira son las ganas de aprender, prestar atención y hacerse cargo. Contrasta con quien no es receptivo y cierra con una frase redonda: lo importante es la actitud.",
+   "source": "mariano/video_final.mp4",
+   "fuente": "Mariano · Café IA",
+   "slug": "Qué se mira en un primer trabajo",
+   "def": [
+    {
+     "bloques": "r3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "ranges": [
+    {
+     "ini": 183.44,
+     "fin": 208.12
+    },
+    {
+     "ini": 213.54,
+     "fin": 229.91
+    }
+   ],
+   "titulo": "El éxito es estar en *paz* con uno mismo",
+   "departamento": "Crecimiento personal",
+   "area": "Autoconocimiento",
+   "tema": "Qué es el éxito",
+   "gancho": "Yo creo que el éxito es estar en paz con uno mismo.",
+   "porque": "Redefine el éxito lejos de la plata y la velocidad (tranquilidad, paz, rodearse bien) y lo une con su consejo final: todo lo bueno lleva tiempo y esfuerzo, no hay atajos. Las dos respuestas cuentan una misma idea.",
+   "notas": "Se unen la respuesta a \"Definí el éxito\" y su mensaje final, sin las tarjetas de pregunta.",
+   "source": "mariano/video_final.mp4",
+   "fuente": "Mariano · Café IA",
+   "slug": "Qué es el éxito",
+   "def": [
+    {
+     "bloques": "r5"
+    },
+    {
+     "desde": "yo creo que una frase que a veces",
+     "hasta": "encontrando respuestas"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "ranges": [
+    {
+     "ini": 67.78,
+     "fin": 97.29
+    }
+   ],
+   "titulo": "Antes que la IA: encontrá algo que te *apasione*",
+   "departamento": "Crear y comunicar",
+   "area": "Inteligencia artificial",
+   "tema": "Para qué usar la IA a los 18",
+   "gancho": "Lo más importante es encontrar algo que te guste y tener las ganas de desarrollarte en eso.",
+   "porque": "Le habla al pibe que usa la IA sólo para resumir: primero encontrá algo que te guste y profundizalo. Cierra con la anécdota del CEO que le dice a su hija de 17 que estudie lo que le apasione.",
+   "notas": "Dura 29,3 s: apenas debajo de los 30 s del parámetro. Alargarlo implicaría meter la tarjeta de pregunta del video principal.",
+   "source": "mariano/video_final.mp4",
+   "fuente": "Mariano · Café IA",
+   "slug": "Para qué usar la IA a los 18",
+   "def": [
+    {
+     "bloques": "r2a-r2c"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "ranges": [
+    {
+     "ini": 16.88,
+     "fin": 56.12
+    }
+   ],
+   "titulo": "Buscá un *ejemplo* a seguir",
+   "departamento": "Crecimiento personal",
+   "area": "Mentalidad y adaptación",
+   "tema": "Inspirarse en un referente",
+   "gancho": "Me pongo a ver quién puede ser un ejemplo a seguir.",
+   "porque": "Historia en primera persona: a los 21 encontró un referente que le cambió la vida y desde ahí empezó a construir. Cierra con una idea accionable: buscar inspiraciones y objetivos.",
+   "notas": "Menciona y recomienda seguir a Gary Vaynerchuk (influencer de marketing). No hay promesa de dinero.",
+   "source": "mariano/video_final.mp4",
+   "fuente": "Mariano · Café IA",
+   "slug": "Inspirarse en un referente",
+   "def": [
+    {
+     "bloques": "r1a-r1d"
+    }
+   ]
+  }
+ ]
+}

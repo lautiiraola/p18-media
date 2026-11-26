@@ -1,0 +1,119 @@
+{
+ "carruseles": [
+  {
+   "id": "CARRUSEL_01",
+   "idea": "Sin conocimientos técnicos todavía, la actitud compensa: pedir la pelota, no dar nada por perdido y conectar con lo que te apasiona.",
+   "caption": "Pedí la pelota.\nLeo Condorí, que programa desde antes de leer, cuenta qué valora en alguien de 18 sin experiencia: actitud. Y la explica con fútbol.\nMandáselo a tu compañero de equipo.\n\n🎙 Fuente: entrevista P18 con Leo Condorí · Café IA\n#proyecto18 #actitud #primertrabajo #jovenes #futbol",
+   "slides": [
+    {
+     "tipo": "portada",
+     "foto": "carrusel/leo_200.jpg",
+     "focoY": 18,
+     "chip": "Trabajo y oportunidades",
+     "titulo": "Pedí la *pelota*.",
+     "bajada": "Lo que Leo Condorí, de tecnología, valora en alguien de 18 sin experiencia."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/leo_dupla.jpg",
+     "focoY": 24,
+     "etiqueta": "El mito",
+     "titulo": "Sin conocimientos técnicos no tenés *chances*.",
+     "texto": "Leo, que programa desde antes de leer un libro, piensa distinto."
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/leo_120.jpg",
+     "focoY": 18,
+     "cita": "“Capaz que no tenés conceptos de ingeniería, de programación, pero tenés actitud: suplanta todas las *falencias* que pueda llegar a tener.”",
+     "firma": "Leo Condorí · Café IA"
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "La actitud",
+     "titulo": "Cómo se ve en la cancha:",
+     "lista": [
+      {
+       "n": "01",
+       "t": "No dar pelota por perdida."
+      },
+      {
+       "n": "02",
+       "t": "No mirar el reloj para irte."
+      },
+      {
+       "n": "03",
+       "t": "Pedir la pelota.",
+       "d": "“Hay que solucionar este problema. Bueno, yo lo soluciono.”"
+      },
+      {
+       "n": "04",
+       "t": "Investigar lo que no sabés.",
+       "d": "“Pero yo lo investigo mañana.”"
+      }
+     ]
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/leo_260.jpg",
+     "focoY": 18,
+     "cita": "“La actitud es el mejor *combustible*.”",
+     "firma": "Leo Condorí · Café IA"
+    },
+    {
+     "tipo": "cierre",
+     "frase": "Y eso se da de manera natural cuando conectás con tu *pasión*.",
+     "pregunta": "¿En qué podrías pedir la pelota esta semana?",
+     "accion": "Guardalo y mandáselo a tu compañero de equipo."
+    }
+   ]
+  },
+  {
+   "id": "CARRUSEL_02",
+   "idea": "Con 18 años y una compu: capacitarse, encontrar un problema cercano, salir a la calle y concretar la idea aunque te digan que no.",
+   "caption": "18 años, cero capital y una compu.\nEl paso a paso de Leo Condorí: capacitarte, buscar un problema real, salir a la calle (como los fundadores de Mercado Libre) y concretar tu idea aunque te digan cien veces que no.\nContanos qué problema cercano podrías resolver.\n\n🎙 Fuente: entrevista P18 con Leo Condorí · Café IA\n#proyecto18 #emprender #aprender #tecnologia #jovenes",
+   "slides": [
+    {
+     "tipo": "portada",
+     "foto": "carrusel/leo_260.jpg",
+     "focoY": 18,
+     "chip": "Ideas, proyectos y ventas",
+     "titulo": "Volvete *experto* en algo.",
+     "bajada": "El primer paso de Leo Condorí si tuviera 18 años, cero capital y una compu."
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Paso 1",
+     "titulo": "*Capacitate*.",
+     "texto": "“Nunca estuvo tan al alcance de la mano aprender una habilidad.” Primero fue internet; ahora, la inteligencia artificial."
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Paso 2",
+     "titulo": "Buscá un *problema* a solucionar.",
+     "texto": "Muchos proyectos nacieron de una necesidad cercana: el comercio de la familia, algo que había que resolver."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/leo_dupla.jpg",
+     "focoY": 24,
+     "etiqueta": "Paso 3",
+     "titulo": "Salí a la *calle*.",
+     "texto": "Como en los comienzos de Mercado Libre, cuando iban a los comercios a sacar las fotos de los productos."
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Paso 4",
+     "titulo": "Concretá tu *idea*.",
+     "texto": "“Te vas a encontrar con cien ‘no’, que te van a decir que es imposible.” Si estás convencido de que lo podés solucionar, seguí."
+    },
+    {
+     "tipo": "cierre",
+     "frase": "“Cuando vos ves y tenés una idea, la tenés que *concretar*.”",
+     "pregunta": "¿Qué problema cercano podrías resolver?",
+     "accion": "Contalo en los comentarios y guardalo para cuando arranques."
+    }
+   ]
+  }
+ ]
+}

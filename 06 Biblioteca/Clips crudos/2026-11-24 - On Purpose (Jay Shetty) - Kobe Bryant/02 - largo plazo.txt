@@ -1,0 +1,26 @@
+CLIP 02 — NO ERA EL MÁS ATLÉTICO: POR ESO PENSÉ A LARGO PLAZO
+
+Inicio:     16:44.9  (1004.86 s)
+Fin:        17:32.1  (1052.11 s)
+Duración:   45.9 s
+Corte:      recortado a mano en los bordes (24/11) · ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  NO ERA EL MÁS ATLÉTICO: POR ESO PENSÉ A LARGO PLAZO   (en el reel, en lima: ATLÉTICO, LARGO PLAZO)
+Departamento:     Deporte y mentalidad
+Área:             Disciplina y proceso
+Tema:             Mejorar de a poco cuando arrancás atrás
+Fuente:           On Purpose (Jay Shetty) - Kobe Bryant — "Jay Shetty & Kobe Bryant: ON How to be Strategic & Obsessive to Find Your Purpose"
+                  https://www.youtube.com/watch?v=C5UWJRSRZh8&t=1004s
+
+Por qué lo elegí:
+Historia en primera persona: el flaco con rodilleras que no podía competir y eligió mejorar un poco cada año hasta alcanzarlos. Desarma la idea de que los cracks nacen hechos.
+
+Gancho (primeros 3 s): When I came back to the States I wasn't the most athletic kid
+
+Notas para la revisión: Menciona que era muy flaco y tenía problemas de rodilla: es contexto de su historia, no habla de cuerpos ideales.
+
+Transcripción del clip:
+I came back to the States I wasn't the most athletic kid you know I was really scrawny like really really skinny and had like major knee issues because I was growing so I was the dorky kid with high socks and big old knee pads. It's fashionable now. It's fashionable now. It wasn't then. And so I had to look long -term because in the here and now I couldn't compete with these kids I mean there's kids that were like 12 years old with beards like I can't What am I supposed to do with that? Like they're doing windmills and dunking backwards and I'm happy to like tap the backboard, you know? So I had to look at it from a long term because I wasn't going to give up on the game. So I had to say, okay, this year I'm going to get better at that. Next year, this, and then so forth and so on. And then patiently I was able to catch them. Yeah, I
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-24 - On Purpose (Jay Shetty) - Kobe Bryant/02 - largo plazo.mp4" "NO ERA EL MÁS *ATLÉTICO*: POR ESO PENSÉ A *LARGO PLAZO*" --fuente "On Purpose (Jay Shetty) - Kobe Bryant"

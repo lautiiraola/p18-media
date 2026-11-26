@@ -1,0 +1,138 @@
+{
+ "carruseles": [
+  {
+   "id": "CARRUSEL_01",
+   "idea": "Para aprender (IA o casi cualquier cosa), lo más rápido es preguntarle a quien ya lo hace: la gente suele tener las puertas abiertas.",
+   "caption": "¿Querés aprender a usar la IA? Invitá un café.\nTom, organizador del Café IA, cuenta que la gente que sabe tiene las puertas mucho más abiertas de lo que creemos.\nEtiquetá a esa persona a la que le invitarías un café.\n\n🎙 Fuente: entrevista P18 con Tom · Café IA\n#proyecto18 #inteligenciaartificial #aprender #mentores #comunidad",
+   "slides": [
+    {
+     "tipo": "portada",
+     "foto": "carrusel/tom_140.jpg",
+     "focoY": 20,
+     "chip": "Vínculos y comunicación",
+     "titulo": "Invitá un *café*.",
+     "bajada": "El consejo de Tom, organizador del Café IA, para aprender a usar la IA (y casi cualquier cosa)."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/tom_dupla.jpg",
+     "focoY": 28,
+     "etiqueta": "El mito",
+     "titulo": "La gente que sabe no te va a *contar* nada.",
+     "texto": "Es lo que muchos piensan al principio. Tom descubrió que es todo lo contrario."
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/tom_380.jpg",
+     "focoY": 20,
+     "cita": "“A la gente le encanta que uno se meta en su mundo, que le pueda contar sus pasiones. Van a estar siempre *puertas abiertas*.”",
+     "firma": "Tom · Café IA"
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Qué preguntar",
+     "titulo": "En ese café, preguntá:",
+     "lista": [
+      {
+       "n": "01",
+       "t": "¿Cómo usás esto?"
+      },
+      {
+       "n": "02",
+       "t": "¿Qué hacés?"
+      },
+      {
+       "n": "03",
+       "t": "¿Cuáles son tus pasos?"
+      },
+      {
+       "n": "04",
+       "t": "¿Cómo lo ves a futuro?"
+      }
+     ]
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/tom_40.jpg",
+     "focoY": 20,
+     "cita": "“El uso de la IA es una habilidad más que se tiene que *desarrollar*.”",
+     "firma": "Tom · Café IA"
+    },
+    {
+     "tipo": "cierre",
+     "frase": "Busquen una *comunidad*, busquen mentores.",
+     "pregunta": "¿A quién le invitarías un café para aprender algo nuevo?",
+     "accion": "Etiquetalo en los comentarios."
+    }
+   ]
+  },
+  {
+   "id": "CARRUSEL_02",
+   "idea": "Si hoy la IA resuelve problemas, lo que vale es construir activos: marca personal, proyectos propios y confianza. Sin atajos.",
+   "caption": "La confianza también es un activo.\nTom, organizador del Café IA, sobre qué vale cuando la IA ya resuelve problemas: construir tu marca, tus proyectos y la confianza de los demás. Y una advertencia: nadie se hace rico de un día para otro.\nGuardalo y volvé a verlo en un año.\n\n🎙 Fuente: entrevista P18 con Tom · Café IA\n#proyecto18 #finanzaspersonales #marcapersonal #constancia #jovenes",
+   "slides": [
+    {
+     "tipo": "portada",
+     "foto": "carrusel/tom_300.jpg",
+     "focoY": 20,
+     "chip": "Finanzas personales",
+     "titulo": "La confianza también es un *activo*.",
+     "bajada": "Tom, organizador del Café IA, sobre qué vale hoy que la IA resuelve problemas."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/tom_dupla.jpg",
+     "focoY": 28,
+     "etiqueta": "El mito",
+     "titulo": "Te van a pagar por *saber* resolver problemas.",
+     "texto": "Antes era así. Hoy, dice Tom, el que sabe resolver los problemas es la IA."
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/tom_450.jpg",
+     "focoY": 20,
+     "cita": "“Lo que tienen que hacer es dejar de ser el que resuelve el problema a tener lo que resuelve el *problema*.”",
+     "firma": "Tom · Café IA"
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Activos",
+     "titulo": "Lo que podés construir:",
+     "lista": [
+      {
+       "n": "01",
+       "t": "Tu marca personal."
+      },
+      {
+       "n": "02",
+       "t": "Un proyecto propio."
+      },
+      {
+       "n": "03",
+       "t": "La confianza.",
+       "d": "“Que alguien pueda mirarlo a la cara y decir: yo confío en este tipo.”"
+      },
+      {
+       "n": "04",
+       "t": "Lo que aprendés.",
+       "d": "“Invertir también es me compro un libro, me pago un curso.”"
+      }
+     ]
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/tom_380.jpg",
+     "focoY": 20,
+     "cita": "“No se van a hacer ricos de un día para otro. Van a tener que meterle y es *constancia*.”",
+     "firma": "Tom · Café IA"
+    },
+    {
+     "tipo": "cierre",
+     "frase": "Te van a valorar cuando resuelvas una *necesidad* que otro tiene.",
+     "pregunta": "¿Qué activo estás construyendo hoy?",
+     "accion": "Guardalo y volvé a verlo en un año."
+    }
+   ]
+  }
+ ]
+}

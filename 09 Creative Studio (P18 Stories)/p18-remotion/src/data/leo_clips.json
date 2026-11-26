@@ -1,0 +1,122 @@
+{
+ "clips": [
+  {
+   "n": 1,
+   "def": [
+    {
+     "bloques": "r2a-r2b"
+    }
+   ],
+   "titulo": "Pedí la *pelota*: lo que más se valora es la actitud",
+   "departamento": "Finanzas y trabajo",
+   "area": "Trabajo y oportunidades",
+   "tema": "Actitud en el primer trabajo",
+   "gancho": "Sin dudas, pero sin dudar, la actitud.",
+   "porque": "Respuesta contundente y una analogía de fútbol que cualquier pibe entiende: no dar ninguna pelota por perdida, no mirar el reloj, pedir la pelota cuando hay un problema y comprometerse a investigar lo que no sabés.",
+   "ranges": [
+    {
+     "ini": 146.98,
+     "fin": 191.46
+    }
+   ],
+   "source": "leo/video_final.mp4",
+   "fuente": "Leo Condorí · Café IA",
+   "slug": "Actitud en el primer trabajo"
+  },
+  {
+   "n": 2,
+   "def": [
+    {
+     "bloques": "r1d-r1e"
+    }
+   ],
+   "titulo": "Cien *no* antes de la solución",
+   "departamento": "Finanzas y trabajo",
+   "area": "Ideas, proyectos y ventas",
+   "tema": "Concretar una idea",
+   "gancho": "Caso Mercado Libre: Marcos Galperín salía a la calle a los comerciantes.",
+   "porque": "Un ejemplo conocido y concreto (sacar fotos a los productos de los comercios) y un mensaje de persistencia: cuando tenés una idea la tenés que concretar, aunque te digan cien veces que no se puede.",
+   "notas": "Cierra con \"te puedo asegurar que después del 1001 no, en el 1002 está la solución\": es una imagen de persistencia, no una promesa de resultado económico.",
+   "ranges": [
+    {
+     "ini": 96.24,
+     "fin": 132.39
+    }
+   ],
+   "source": "leo/video_final.mp4",
+   "fuente": "Leo Condorí · Café IA",
+   "slug": "Concretar una idea"
+  },
+  {
+   "n": 3,
+   "def": [
+    {
+     "bloques": "r1a-r1b"
+    }
+   ],
+   "titulo": "Nunca fue tan fácil *aprender* una habilidad",
+   "departamento": "Crear y comunicar",
+   "area": "Inteligencia artificial",
+   "tema": "Capacitarse con internet e IA",
+   "gancho": "Yo creo que lo primero que haría es buscar capacitarme en un tema.",
+   "porque": "Una idea simple y motivadora para alguien de 18: elegir un tema, buscar un problema y volverse experto, aprovechando que internet y la IA pusieron el aprendizaje al alcance de la mano.",
+   "ranges": [
+    {
+     "ini": 33.91,
+     "fin": 68.62
+    }
+   ],
+   "source": "leo/video_final.mp4",
+   "fuente": "Leo Condorí · Café IA",
+   "slug": "Capacitarse con internet e IA"
+  },
+  {
+   "n": 4,
+   "def": [
+    {
+     "bloques": "r4b-r4c"
+    }
+   ],
+   "titulo": "Tu primer *equipo* está en la mesa de tu casa",
+   "departamento": "Crear y comunicar",
+   "area": "Vínculos y comunicación",
+   "tema": "Apoyarse en la familia",
+   "gancho": "El consejo que te puedo dar: hacele caso a tus papás. Hablá con tus viejos.",
+   "porque": "Un cierre cálido y distinto: contarle tus proyectos a tu familia (o a tus abuelos, si no tenés papá) y saber que tenés un lugar donde volver si te va mal.",
+   "notas": "Tema sensible: no todos tienen una familia presente; él mismo aclara \"si no tenés papá, con tus abuelos\". Revisar el tono antes de publicar.",
+   "ranges": [
+    {
+     "ini": 312.91,
+     "fin": 362.88
+    }
+   ],
+   "source": "leo/video_final.mp4",
+   "fuente": "Leo Condorí · Café IA",
+   "slug": "Apoyarse en la familia"
+  },
+  {
+   "n": 5,
+   "def": [
+    {
+     "bloques": "r3a-r3f"
+    }
+   ],
+   "titulo": "El éxito es convertir tu pasión en tu *profesión*",
+   "departamento": "Crecimiento personal",
+   "area": "Autoconocimiento",
+   "tema": "Qué es el éxito",
+   "gancho": "Para mí el éxito es hacer lo que te gusta sin que haya dinero de por medio.",
+   "porque": "Redefine el éxito lejos de la plata y lo baja a algo que todos vivieron en el colegio: el grupo siempre señala a quien mejor hace algo. Cuando ponés eso al servicio de los demás, te buscan.",
+   "notas": "Se quitaron del video principal las frases \"el dinero sigue a los apasionados\" (parámetro P18: sin promesas de dinero).",
+   "ranges": [
+    {
+     "ini": 237.78,
+     "fin": 278.59
+    }
+   ],
+   "source": "leo/video_final.mp4",
+   "fuente": "Leo Condorí · Café IA",
+   "slug": "Qué es el éxito"
+  }
+ ]
+}

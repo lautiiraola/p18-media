@@ -1,0 +1,26 @@
+CLIP 03 — EL BUEN GUSTO ES UN MÚSCULO: HAY QUE ENTRENARLO
+
+Inicio:     47:10.5  (2830.49 s)
+Fin:        48:00.1  (2880.08 s)
+Duración:   49.6 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  EL BUEN GUSTO ES UN MÚSCULO: HAY QUE ENTRENARLO   (en el reel, en lima: MÚSCULO)
+Departamento:     Creatividad
+Área:             Arte y diseño
+Tema:             Alimentar la creatividad
+Fuente:           30X - Felipe Martínez — "De repartir pizzas a crear marcas virales | Felipe Martínez, director creativo de Holii y 30X"
+                  https://www.youtube.com/watch?v=a0nhFmWtWug&t=2830s
+
+Por qué lo elegí:
+Idea clara y práctica: el gusto se entrena yendo a museos, al teatro, mirando arte. Y por eso un portafolio muestra más que un título. Para chicos que quieren dedicarse a algo creativo.
+
+Gancho (primeros 3 s): Yo me considero buen director de arte porque todo el tiempo estoy consumiendo arte
+
+Notas para la revisión: Usa la palabra en inglés "taste" (gusto): traducir en subtítulos.
+
+Transcripción del clip:
+me considero buen director de arte porque todo el tiempo estoy consumiendo arte. Claro, entonces tener el músculo... Claro, es como un músculo, toca practicarlo. Hay gente que es diseñadora o se consideran creativos, pero nunca van a un museo, o nunca van a una obra de teatro, o no hacen el trabajo, ¿verdad? Entonces, yo sé, o sea yo ya ese músculo lo tengo desarrollado para ver, si tú me muestras un video, me muestras un diseño, me muestras algo, yo puedo decir esta persona tiene talento. Entonces cuando yo contrato gente, por eso los portafolios, que vuelvo a los portafolios, son tan importantes, porque en el portafolio tú puedes ver si la persona tiene talento y si tiene taste,
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-12 - 30X - Felipe Martínez/03 - el gusto es un musculo.mp4" "EL BUEN GUSTO ES UN *MÚSCULO*: HAY QUE ENTRENARLO" --fuente "30X - Felipe Martínez"

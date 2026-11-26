@@ -1,0 +1,9 @@
+# Cabeceras de seguridad.
+# script-src solo permite archivos de la carpeta /js/ de los dominios de P18: así no se carga
+# ningún script agregado por el hosting (por ejemplo, el cartel "Powered by Netlify").
+# Si la web pasa a otro dominio, agregarlo a la lista con /js/ al final.
+# Si se conecta Google Sheets, connect-src ya permite script.google.com.
+/*
+  Content-Security-Policy: default-src 'self'; script-src https://proyecto18-748.netlify.app/js/ https://proyecto18.co/js/ https://www.proyecto18.co/js/ https://proyecto18.com/js/ https://www.proyecto18.com/js/; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://script.google.com https://script.googleusercontent.com; frame-ancestors 'self'; base-uri 'self'; form-action 'self'
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin

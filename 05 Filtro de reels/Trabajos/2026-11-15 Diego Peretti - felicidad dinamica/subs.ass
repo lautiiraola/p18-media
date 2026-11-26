@@ -1,0 +1,37 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1074,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,677,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.96,P18,,0,0,0,,La felicidad no es un estado
+Dialogue: 0,0:00:02.96,0:00:04.02,P18,,0,0,0,,estático,
+Dialogue: 0,0:00:04.82,0:00:05.58,P18,,0,0,0,,es dinámico.
+Dialogue: 0,0:00:06.02,0:00:07.08,P18,,0,0,0,,La felicidad, digamos,
+Dialogue: 0,0:00:07.08,0:00:08.04,P18,,0,0,0,,los estados de ánimo son
+Dialogue: 0,0:00:08.04,0:00:09.38,P18,,0,0,0,,dinámicos.
+Dialogue: 0,0:00:11.40,0:00:13.76,P18,,0,0,0,,Y trato de ser consciente en los
+Dialogue: 0,0:00:13.76,0:00:15.14,P18,,0,0,0,,momentos de felicidad y me digo,
+Dialogue: 0,0:00:15.14,0:00:16.52,P18,,0,0,0,,en estos momentos estoy siendo
+Dialogue: 0,0:00:16.52,0:00:17.22,P18,,0,0,0,,feliz.
+Dialogue: 0,0:00:18.36,0:00:20.20,P18,,0,0,0,,Lo quiero hacer consciente para
+Dialogue: 0,0:00:20.20,0:00:22.38,P18,,0,0,0,,después acordármelo, que hay
+Dialogue: 0,0:00:22.38,0:00:24.62,P18,,0,0,0,,momentos de felicidad.
+Dialogue: 0,0:00:24.62,0:00:26.08,P18,,0,0,0,,Y cuando no estoy feliz,
+Dialogue: 0,0:00:26.08,0:00:29.24,P18,,0,0,0,,también lo llevo a consciente para
+Dialogue: 0,0:00:29.24,0:00:32.10,P18,,0,0,0,,que se impriman, que
+Dialogue: 0,0:00:32.10,0:00:34.86,P18,,0,0,0,,son estados de ánimo pasajeros.
+Dialogue: 0,0:00:36.54,0:00:37.62,P18,,0,0,0,,Entonces, tengo momentos de
+Dialogue: 0,0:00:37.62,0:00:39.52,P18,,0,0,0,,felicidad, momentos muy felices,
+Dialogue: 0,0:00:40.84,0:00:41.60,P18,,0,0,0,,de gran placer,
+Dialogue: 0,0:00:42.26,0:00:45.48,P18,,0,0,0,,pero otros momentos en donde estoy
+Dialogue: 0,0:00:45.48,0:00:47.84,P18,,0,0,0,,muy, muy preocupado, angustiado.
+Dialogue: 1,0:00:43.50,0:00:48.00,Cierre,,0,0,0,,Si te pasa algo parecido, hablalo con alguien de confianza o con un profesional.

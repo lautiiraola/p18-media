@@ -1,0 +1,137 @@
+{
+ "carruseles": [
+  {
+   "id": "CARRUSEL_01",
+   "idea": "Finanzas a los 18: empezar temprano, gastar menos e invertir primero en uno mismo, empezando por un libro.",
+   "caption": "La primera inversión es en vos.\nLucas, de Argento Invierte, sobre finanzas a los 18: empezar temprano, gastar menos e invertir en uno mismo. Y lo más barato para arrancar es un libro.\nRecomendá un libro en los comentarios.\n\n🎙 Fuente: entrevista P18 con Lucas · Argento Invierte\n#proyecto18 #finanzaspersonales #educacionfinanciera #lectura #jovenes",
+   "slides": [
+    {
+     "tipo": "portada",
+     "foto": "carrusel/argento_p2_250.jpg",
+     "focoY": 20,
+     "chip": "Finanzas personales",
+     "titulo": "La primera inversión es en *vos*.",
+     "bajada": "Lucas, de Argento Invierte, sobre finanzas a los 18: empezar temprano y empezar por uno."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/argento_dupla.jpg",
+     "focoY": 30,
+     "etiqueta": "El mito",
+     "titulo": "Para invertir necesitás *mucha* plata.",
+     "texto": "Para Lucas, lo primero es invertir en uno mismo. Y lo más barato es un libro."
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/argento_p1_60.jpg",
+     "focoY": 20,
+     "cita": "“Hay dos formas de generar riqueza: una es ganando más y la otra es gastando *menos*.”",
+     "firma": "Lucas · Argento Invierte"
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Empezar temprano",
+     "titulo": "El tiempo *suma*.",
+     "texto": "Warren Buffett lo logró “por haber arrancado temprano, por el poder de interés *compuesto*”."
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Invertir en vos",
+     "titulo": "Por dónde arrancar:",
+     "lista": [
+      {
+       "n": "01",
+       "t": "Un libro.",
+       "d": "“Lo más barato es un libro.”"
+      },
+      {
+       "n": "02",
+       "t": "Un curso."
+      },
+      {
+       "n": "03",
+       "t": "10 o 15 minutos de lectura al día."
+      },
+      {
+       "n": "04",
+       "t": "Padre rico, padre pobre.",
+       "d": "Para diferenciar activos de pasivos."
+      }
+     ]
+    },
+    {
+     "tipo": "cierre",
+     "frase": "“Lo más económico y lo más sencillo con lo que uno puede arrancar es a través de un *libro*.”",
+     "pregunta": "¿Qué libro te gustaría leer este mes?",
+     "accion": "Recomendalo en los comentarios."
+    }
+   ]
+  },
+  {
+   "id": "CARRUSEL_02",
+   "idea": "Se aprende preguntando y mirando los errores de otros: curiosidad, actitud y disciplina valen más que el currículum.",
+   "caption": "Aprendé de los errores de los demás.\nLucas, de Argento Invierte, se formó como autodidacta: preguntando todo. Para él, lo que más se valora es la actitud, la curiosidad y la disciplina.\nContanos qué error de otro te ahorró uno propio.\n\n🎙 Fuente: entrevista P18 con Lucas · Argento Invierte\n#proyecto18 #aprender #curiosidad #disciplina #jovenes",
+   "slides": [
+    {
+     "tipo": "portada",
+     "foto": "carrusel/argento_p2_420.jpg",
+     "focoY": 20,
+     "chip": "Mentalidad y adaptación",
+     "titulo": "Aprendé de los errores de los *demás*.",
+     "bajada": "Lucas, de Argento Invierte, sobre curiosidad, disciplina y animarse a preguntar."
+    },
+    {
+     "tipo": "crema",
+     "foto": "carrusel/argento_dupla.jpg",
+     "focoY": 30,
+     "etiqueta": "El mito",
+     "titulo": "Preguntar es quedar como que no *sabés*.",
+     "texto": "Lucas se formó como autodidacta, cuando nadie hablaba de eso: aprendió preguntando."
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/argento_p1_150.jpg",
+     "focoY": 20,
+     "cita": "“Todo lo que no entiendas, hay que *preguntar*.”",
+     "firma": "Lucas · Argento Invierte"
+    },
+    {
+     "tipo": "marca",
+     "etiqueta": "Lo que más se valora",
+     "titulo": "Más que el currículum:",
+     "lista": [
+      {
+       "n": "01",
+       "t": "La actitud."
+      },
+      {
+       "n": "02",
+       "t": "La curiosidad."
+      },
+      {
+       "n": "03",
+       "t": "La disciplina."
+      },
+      {
+       "n": "04",
+       "t": "Las ganas de salir adelante."
+      }
+     ]
+    },
+    {
+     "tipo": "cita",
+     "foto": "carrusel/argento_p2_120.jpg",
+     "focoY": 20,
+     "cita": "“El que aprende sus errores es inteligente, pero el que aprende los errores de los demás es un *genio*.”",
+     "firma": "Lucas · Argento Invierte"
+    },
+    {
+     "tipo": "cierre",
+     "frase": "“Lo que soy hoy soy disciplinado, porque aprendí de mis *errores*.”",
+     "pregunta": "¿Qué error de otro te ahorró uno propio?",
+     "accion": "Contalo en los comentarios."
+    }
+   ]
+  }
+ ]
+}

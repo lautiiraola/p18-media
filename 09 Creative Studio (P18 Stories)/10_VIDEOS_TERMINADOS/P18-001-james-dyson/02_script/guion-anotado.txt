@@ -1,0 +1,145 @@
+GUION ANOTADO — P18-001-james-dyson — "Ya lo habría hecho alguien"
+Versión: v01 (2026-11-24). Estado: pendiente de aprobación del operador y de la voz de ElevenLabs.
+
+Convenciones de este documento (NO van a ElevenLabs):
+  /      pausa corta (unos 0,3 s)
+  //     pausa larga (0,7 a 1 s)
+  _x_    palabra con énfasis
+  [C##]  afirmación del fact-check que respalda la frase
+  Los tiempos son estimados. La voz final aprobada será el reloj maestro.
+  Este documento no contiene decisiones visuales: el storyboard se define después de recibir la voz.
+
+────────────────────────────────────────
+BLOQUE 01 — HOOK                                    ~00:00–00:07
+Función: plantear la contradicción antes del segundo 3.
+Intención: voz de alguien que repite una frase que escuchó demasiadas veces. Seca, casi irónica, sin caricatura.
+Ritmo: medio. La cita, un poco más lenta; la segunda frase, natural.
+
+  «Si existiera una aspiradora _mejor_, / ya la habría inventado alguna de las _grandes_.» //
+  A James Dyson le repitieron esa frase / durante _años_. //
+
+Locución: "James Dyson" se dice "Yéims Dáison". La cita no se actúa con voz de otro personaje: se marca solo por el tono.
+Hechos: [C11] [C12]. La cita es una traducción libre de lo que recuerda Dyson.
+
+────────────────────────────────────────
+BLOQUE 02 — CONTEXTO                                ~00:07–00:22
+Función: situar el problema concreto y la pista técnica.
+Intención: curiosidad, explicación clara. Tono de quien cuenta un descubrimiento chico.
+Ritmo: frases cortas, con un leve repunte en "un ciclón".
+
+  Fines de los setenta. / En su fábrica de carretillas, / un filtro se tapaba cada _hora_. /
+  En un aserradero había visto la solución: / un _ciclón_. /
+  Hace girar el aire / hasta que el polvo cae solo. /
+  Construyó uno. / No se tapaba _nunca_. //
+
+Hechos: [C05] [C06] [C07] [C08].
+
+────────────────────────────────────────
+BLOQUE 03 — LA IDEA                                 ~00:22–00:31
+Función: conectar el ciclón industrial con el problema doméstico.
+Intención: complicidad. El "sí" de la primera línea tiene un dejo de ironía.
+Ritmo: se ralentiza al final.
+
+  En su casa, / la bolsa de la aspiradora _sí_ se tapaba. /
+  Armó un ciclón de _cartón_ / y lo puso en lugar de la bolsa. //
+  Parecía funcionar. //
+
+Locución: "Parecía funcionar" va contenido, sin triunfalismo. La pausa larga posterior es deliberada: prepara el giro.
+Hechos: [C04] [C09] [C10].
+
+────────────────────────────────────────
+BLOQUE 04 — PRIMER RECHAZO                          ~00:31–00:40
+Función: la frase del hook aparece dentro de la historia.
+Intención: frustración contenida.
+Ritmo: medio. Corte limpio en "se fue".
+
+  Sus socios no quisieron saber nada: /
+  si fuera posible, / ya lo habría hecho una de las _grandes_. //
+  Dyson se fue / y siguió por su cuenta. //
+
+Hechos: [C03] [C11] [C13]. No decir que lo echaron: las fuentes no coinciden.
+
+────────────────────────────────────────
+BLOQUE 05 — OBSTÁCULO TÉCNICO                       ~00:40–00:49
+Función: subir la apuesta con una objeción técnica, no solo de opinión.
+Intención: gravedad. Después, decisión práctica.
+Ritmo: "demasiado fino" más lento. "Así que empezó a probar" con firmeza tranquila.
+
+  Un experto le dijo que no iba a funcionar: /
+  el polvo de una casa es demasiado _fino_. /
+  Las fórmulas no se ponían de acuerdo. /
+  Así que empezó a _probar_. //
+
+Hechos: [C14] [C15]. No nombrar al experto.
+
+────────────────────────────────────────
+BLOQUE 06 — PROCESO Y CLÍMAX TÉCNICO                ~00:49–01:10
+Función: mostrar el método y el costo; llegar a la cifra.
+Intención: ritmo de taller, casi metronómico en la primera línea. Más humano en la línea de Deirdre. Contenido en la cifra.
+Ritmo: la primera línea staccato. La cifra se dice entera, sin apurar.
+
+  Un prototipo. / Una medición. / Un solo cambio. /
+  Si mejoraba, / sabía por qué. / Si empeoraba, / también. //
+  Deirdre, su mujer, / daba clases de arte para sostener a la familia. /
+  Las deudas crecían. //
+  Según él, / cinco mil ciento veintiséis prototipos / _no_ funcionaron. //
+  El cinco mil ciento _veintisiete_, / sí. //
+
+Locución: en "El cinco mil ciento veintisiete, sí" el énfasis cae en "veintisiete" y "sí" queda corto y limpio. Es el momento más memorable del guion: no decorarlo.
+Hechos: [C16] [C17] [C18] [C19]. "Según él" es la atribución obligatoria de la cifra.
+
+────────────────────────────────────────
+BLOQUE 07 — RECHAZO COMERCIAL                       ~01:10–01:22
+Función: la solución técnica no alcanza; vuelve la frase.
+Intención: cansancio lúcido. "Otra vez, la misma frase" con media sonrisa amarga.
+Ritmo: medio. Se abre un poco en "En Japón".
+
+  Tenía la máquina. / Le faltaba quién la fabricara. /
+  Los grandes fabricantes le dijeron que _no_. /
+  Otra vez, / la misma frase. //
+  En Japón, / una empresa se animó: /
+  una aspiradora _rosa_ / llamada G-Force. //
+
+Locución: "G-Force" se dice "Yi Fors", en inglés.
+Hechos: [C21] [C23]. No decir "todos" ni que Japón fue la única licencia [C22].
+
+────────────────────────────────────────
+BLOQUE 08 — DECISIÓN                                ~01:22–01:34
+Función: el centro de la historia. Deja de pedir y actúa.
+Intención: firmeza, riesgo asumido. Es el punto de mayor peso dramático.
+Ritmo: un poco más lento que el resto. Pausa antes de "decidió".
+
+  Diez años después del ciclón de cartón, /
+  dejó de buscar fabricante. /
+  Con el dinero de Japón / y un préstamo con su _casa_ como garantía, //
+  decidió fabricarla _él_. //
+
+Hechos: [C24] [C25] [C26].
+
+────────────────────────────────────────
+BLOQUE 09 — RESULTADO                               ~01:34–01:43
+Función: consecuencia verificable, sin épica.
+Intención: sobria. Un dato y otro.
+Ritmo: natural.
+
+  En mil novecientos noventa y tres / lanzó el DC cero uno. /
+  Con su _apellido_. //
+  Hoy, su empresa está en ochenta y cuatro mercados. //
+
+Locución: "DC cero uno" se dice "de ce, cero uno". Nunca "DC uno" ni "DC zero one".
+Hechos: [C27] [C29].
+
+────────────────────────────────────────
+BLOQUE 10 — REFLEXIÓN Y PREGUNTA                    ~01:43–01:55
+Función: devolver la historia al espectador.
+Intención: íntima, más baja de volumen, sin solemnidad. La pregunta se dice como una pregunta real, no retórica.
+Ritmo: lento. Pausa antes de la pregunta.
+
+  Cada intento fallido / le había dicho qué _cambiar_. /
+  La frase de los grandes / nunca le dijo _nada_. //
+  ¿Cuántas ideas dejamos sin probar / porque, si fueran buenas, / otro ya las habría hecho?
+
+Hechos: [C37] [C38]. Interpretación P18, no hecho.
+
+────────────────────────────────────────
+FIN DEL GUION

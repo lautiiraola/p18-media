@@ -1,0 +1,24 @@
+CLIP 04 — JUGANDO SE VE CÓMO ES DE VERDAD UNA PERSONA
+
+Inicio:     1:01:57.9  (3717.88 s)
+Fin:        1:02:51.3  (3771.29 s)
+Duración:   53.4 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  JUGANDO SE VE CÓMO ES DE VERDAD UNA PERSONA   (en el reel, en lima: CÓMO ES)
+Departamento:     Creatividad
+Área:             Música y audiovisual
+Tema:             Actuar es jugar
+Fuente:           El Buscador - Diego Peretti — "DIEGO PERETTI: "El secreto de la vida es manejar los pensamientos y no que te manejen" | EL BUSCADOR"
+                  https://www.youtube.com/watch?v=hKY1xAQZnz0&t=3717s
+
+Por qué lo elegí:
+Peretti cuenta que actuar es animarse a jugar siendo grande, y que en el juego se ve el carácter de las personas: a un compañero lo conocés aunque pasen años. Lindo para quien hace teatro o crea en grupo.
+
+Gancho (primeros 3 s): Es muy raro hacerse el payaso, hacerse el tonto, siendo grande.
+
+Transcripción del clip:
+Es muy rara hacerse el payaso, hacerse el tonto, siendo grande. Tonto, quiero decir, despectivamente, pero ponerse a jugar, esa es la palabra, a jugar. Y en el juego, podés vilumbrar el carácter de las personas, sí. Sí, sí, sí, las podés detectar. Y te pueden detectar a vos también. Y es muy lindo, es muy lindo. Cuando uno trabajó con un actor durante, yo que sé, una temporada y después no lo ves durante siete años y te lo encontrás en un evento, a ese lo conoces a esa persona, la conoces, es como encontrarse con un amigo de la secundaria, es decir, lo conozco, pueden pasar veinte años pero yo vi el material en bruto de esta persona, entonces conozco la... y eso pasa con la actuación mucho, es una profesión hermosa en
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - El Buscador - Diego Peretti/04 - jugando se conoce.mp4" "JUGANDO SE VE *CÓMO ES* DE VERDAD UNA PERSONA" --fuente "El Buscador - Diego Peretti"

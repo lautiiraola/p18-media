@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1350
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,42,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,13,0,2,146,146,370,1
+Style: Cierre,Manrope ExtraBold,32,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,5,146,146,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.42,P18,,0,0,0,,Y al mes del Panamericano y al
+Dialogue: 0,0:00:02.42,0:00:03.12,P18,,0,0,0,,año, bueno,
+Dialogue: 0,0:00:03.68,0:00:04.94,P18,,0,0,0,,del tema de la japonesa del
+Dialogue: 0,0:00:04.94,0:00:07.74,P18,,0,0,0,,Mundial, vuelvo a una final con
+Dialogue: 0,0:00:07.74,0:00:09.06,P18,,0,0,0,,una japonesa y yo digo,
+Dialogue: 0,0:00:09.48,0:00:11.08,P18,,0,0,0,,esta final no se me va a escapar.
+Dialogue: 0,0:00:11.50,0:00:13.16,P18,,0,0,0,,Ya perdí hace un mes y me sentí
+Dialogue: 0,0:00:13.16,0:00:14.40,P18,,0,0,0,,con mucha bronca y mucha
+Dialogue: 0,0:00:14.40,0:00:15.88,P18,,0,0,0,,impotencia y no quiero que me
+Dialogue: 0,0:00:15.88,0:00:16.40,P18,,0,0,0,,vuelva a pasar.
+Dialogue: 0,0:00:16.40,0:00:18.72,P18,,0,0,0,,Y ya me pasó hace un año con una
+Dialogue: 0,0:00:18.72,0:00:19.56,P18,,0,0,0,,japonesa también.
+Dialogue: 0,0:00:19.98,0:00:21.56,P18,,0,0,0,,Y ya me sentí con mucha bronca y
+Dialogue: 0,0:00:21.56,0:00:22.26,P18,,0,0,0,,mucha impotencia.
+Dialogue: 0,0:00:22.70,0:00:24.44,P18,,0,0,0,,Entonces, como que transformé esa
+Dialogue: 0,0:00:24.44,0:00:27.02,P18,,0,0,0,,bronca impotencia del momento Y yo
+Dialogue: 0,0:00:27.02,0:00:28.72,P18,,0,0,0,,creo que fue el punto de partida
+Dialogue: 0,0:00:28.72,0:00:30.74,P18,,0,0,0,,para que en esa competencia sí
+Dialogue: 0,0:00:30.74,0:00:31.66,P18,,0,0,0,,logre ganar, que fue una
+Dialogue: 0,0:00:31.66,0:00:33.44,P18,,0,0,0,,diferencia mínima, pero creo que
+Dialogue: 0,0:00:33.44,0:00:34.78,P18,,0,0,0,,esa diferencia mínima la hizo
+Dialogue: 0,0:00:34.78,0:00:36.84,P18,,0,0,0,,justamente el sentarme un ratito
+Dialogue: 0,0:00:36.84,0:00:38.58,P18,,0,0,0,,antes de la competencia,
+Dialogue: 0,0:00:38.58,0:00:39.78,P18,,0,0,0,,es decir, no se me va a escapar de
+Dialogue: 0,0:00:39.78,0:00:40.32,P18,,0,0,0,,vuelta.

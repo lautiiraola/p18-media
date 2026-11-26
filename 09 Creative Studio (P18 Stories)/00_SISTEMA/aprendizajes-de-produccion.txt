@@ -1,0 +1,116 @@
+APRENDIZAJES DE PRODUCCIÓN — P18 CREATIVE STUDIO
+Memoria acumulada del estudio. Cada video deja aquí lo que sirve para el siguiente.
+El detalle de cada producción está en su bitacora-de-proceso.txt.
+Leer este archivo antes de iniciar cada video nuevo.
+
+────────────────────────────────────────
+GUION Y DURACIÓN
+- [P18-001] Estimar la duración con 2,5 palabras por segundo, que es el ritmo real de ElevenLabs con la voz Brian (s50). Con la regla vigente de 30–50 s, escribir entre 75 y 115 palabras (máximo 120). Con 2,9 pal/s la estimación quedó 17 s corta.
+- [P18-001] Escribir las cifras y fechas en palabras en el texto para ElevenLabs. Los nombres de modelo, escritos como se pronuncian ("DC cero uno"). Funcionó sin errores.
+- [P18-001] Verificar por script que el texto limpio y el guion anotado son idénticos antes de entregar.
+- [P18-001] El mejor hook salió de una cita encontrada durante la investigación, no del ángulo provisional. Investigar antes de fijar el hook.
+
+INVESTIGACIÓN Y FACT-CHECK
+- [P18-001] Las fuentes oficiales se contradicen y simplifican (la Fundación Dyson comprimía 15 años en 5 y decía "primera aspiradora sin bolsa"). Toda cifra de una fuente oficial se contrasta igual.
+- [P18-001] Las referencias visuales aprobadas también pueden traer errores factuales ("la idea falló 5.126 veces"). Verificarlas igual que el guion.
+- [P18-001] Las entrevistas largas transcriptas (podcasts) son las mejores fuentes de declaraciones en primera persona. Marcarlas como verified_as_statement y atribuirlas en el guion ("Según él").
+
+HERRAMIENTAS
+- [P18-001] dyson.com, jamesdysonfoundation.com y fastcompany.com bloquean la lectura automática (403). Se leen con el navegador integrado (preview_start con url, después get_page_text o javascript_tool). No imitar navegadores con curl.
+- [P18-001] Para buscar dentro de páginas largas conviene extraer fragmentos por palabra clave con javascript_tool, en lugar de leer la página completa.
+- [P18-001] Transcripción local de voz: whisper-cli + ~/.cache/hyperframes/whisper/models/ggml-small.bin, -l es. Antes, convertir a WAV de 16 kHz mono. Con -ml 1 -sow -ojf se obtienen timestamps por palabra. Tarda unos 10 s para 2 min.
+- [P18-001] Análisis de voz con ffmpeg: ebur128=peak=true (loudness y true peak), astats (clipping y ruido), silencedetect=noise=-40dB:d=0.45 (pausas).
+
+VOZ (ELEVENLABS)
+- [P18-002] Ritmo de Brian: 2,40–2,49 pal/s. 112 palabras dieron 46,76 s. Ante una diferencia dudosa del reconocimiento, transcribir el tramo aislado (ffmpeg -ss/-t) antes de pedir una nueva toma.
+- [P18-001] Voz usada: "Brian - Warm, Smooth, Confident" (pvc, stability 50, similarity 75, v4). Resultado: 0 errores de texto y pronunciación correcta de James Dyson, Deirdre, G-Force y DC01. Candidata a voz oficial de la serie; lo confirma el operador.
+- [P18-001] ElevenLabs no respeta las pausas largas indicadas en la guía: todas quedaron cerca de 0,5 s. Planificar las pausas dramáticas en la edición, no en la locución.
+
+ASSETS Y DERECHOS
+- [P18-001] Las patentes de EE.UU. (Google Patents → PDF en patentimages) son archivo documental de dominio público, con fecha y autor. Es lo primero que conviene buscar en historias de inventores.
+- [P18-001] Licencias en Commons sin descargar nada: API commons.wikimedia.org/w/api.php con generator=search, prop=imageinfo, iiprop=url|size|extmetadata y User-Agent genérico.
+- [P18-001] CC BY-SA en un video implica que el video adaptado debería licenciarse igual. Es una decisión del operador; no marcar esas imágenes como approved por defecto.
+- [P18-001] Las imágenes de museos (Science Museum, V&A) son © o de uso no comercial. Sirven para verificar hechos, no para el montaje sin licencia.
+- [P18-001] El archivo de época de la propia marca (por ejemplo dyson.com) suele ser lo mejor visualmente, pero es ©. Hay que preparar temprano un borrador de pedido de permiso para que el operador lo envíe.
+- [P18-001] Diseñar cada escena con un plan B ya aprobado (gráfico propio o dominio público) para no frenar la producción por permisos.
+
+STORYBOARD
+- [P18-001] Alinear las oraciones del guion con los timings de whisper (difflib sobre tokens normalizados) da el reloj maestro por unidad sin trabajo manual. Clampear el final a la duración real: whisper deriva unos 0,4 s.
+
+PRODUCCIÓN REMOTION
+- [P18-001] Runtime compartido en 05_REMOTION_DESIGN_SYSTEM/runtime con una composición genérica (P18Story). Cada video aporta build_props.py, los props y public/ en su 06_remotion, y se renderiza con --props y --public-dir. Ver el README del runtime.
+- [P18-001] Ciclo de calidad: tsc, después remotion still --scale=0.33 de 30–40 cuadros, hoja de contacto (hstack/vstack), corregir, y recién ahí el render completo.
+- [P18-001] El CDN de Dyson (Scene7) amplía y recorta si se pide ?wid. Pedir tamaño nativo con ?fmt=jpg&qlt=95.
+- [P18-001] Mirar cada imagen descargada antes de asignarla a una escena: los nombres de archivo del archivo de la marca no siempre coinciden con el epígrafe.
+- [P18-001] El render de 121 s a 60 fps tardó pocos minutos. Una review completa es barata: renderizar temprano.
+- [P18-001] Mezcla: la voz de ElevenLabs llega a unos -21 LUFS. Cama a 0,10 lineal (unos -20 dB), SFX a 0,14–0,25. El master se normaliza a -14 LUFS al final.
+
+FORMATO (regla del operador)
+- [P18-001] SIEMPRE 9:16 vertical, 1080 × 1920, formato Reel/Story. Nunca otro aspecto salvo pedido explícito.
+- [regla 2026-11-24] DURACIÓN: entre 30 y 50 s, NUNCA más de 50. P18-001 (2:01) se hizo antes de esta regla y la excede.
+
+MASTER
+- [P18-001] Si la review aprobada no cambia, el master es una copia del stream de video más el tratamiento de audio: volume y alimiter con limit≈0.708 → unos -14 LUFS / -1,8 dBTP después de AAC. En zsh, escribir ${VAR} cuando sigue ":".
+
+SKILLS DE GUION (regla del operador, 2026-11-24)
+- Usar SIEMPRE en cada guion: viral-hooks-formulas, viral-hooks, viral-short-form y viral-instagram-reels; viral-tiktok-content y viral-youtube-shorts según la distribución; viral-captions-and-ctas en la entrega; viral-short-form-ideas en modo autónomo. Instaladas en .claude/skills (ver ORIGEN.txt). P18-001 se escribió antes de esta regla: P18-002 es el primer video con las skills.
+
+GUION 30–50 s (P18-002)
+- [P18-002] Las cifras en palabras inflan el conteo ("dos mil siete" son 3 palabras). Preferir formas orales cortas ("el noventa y nueve").
+- [P18-002] En 30–50 s entra un solo arco: hook, objeción, convicción, crisis, resultado, pregunta. Las anécdotas secundarias (por ejemplo John Muse) quedan para otro video.
+- [P18-002] Las skills de Vyral cierran con un pitch comercial de su producto: no aplicarlo.
+
+MATERIAL LIBRE (P18-002)
+- [P18-002] Buscar primero videos CC BY de conferencias del protagonista en Commons (WEF, LACNIC, TEDx) con "<nombre> webm". Muestrear con ffmpeg (fps=1/60), ubicar los planos y transcodificar AV1 → H.264 mudo.
+- [P18-002] Wikimedia devuelve 429 si se descargan muchos archivos seguidos: pausas y User-Agent descriptivo.
+- [P18-002] La SEC (EDGAR) bloquea las descargas automáticas sin contacto declarado. No usar datos del operador: buscar otra fuente.
+- [P18-002] Los gráficos de "representación" no deben sugerir datos inexistentes (tendencias, márgenes): formas neutras y "sin escala".
+- [P18-002] El runtime ya tiene: PeopleGrid, BrowserMock, ChartReveal, VoteBar, LossYears, VideoCard, FullBleedPhoto, BigLine. Reutilizarlos.
+
+CIERRE Y MÚSICA (reglas del operador, 2026-11-24)
+- Cierre fijo: outro3d (3D real con @remotion/three, Manrope 800 extruida). Los CTA directos fueron rechazados: el cierre tiene que atraer solo.
+- Rotar la cama musical y los SFX entre videos. cama_p18.wav ya se usó en P18-001 y P18-002.
+
+TIPOGRAFÍA (regla del operador, 2026-11-24)
+- Un mismo tratamiento de texto en todo el video "parece IA". Rotar: Manrope (base), Unbounded (cifras y golpes), Instrument Serif itálica (citas), JetBrains Mono (créditos y datos). Los subtítulos rotan entre editorial, serif, caps y punch. Las fuentes se bajan de github.com/google/fonts (OFL) y se registran en la biblioteca.
+
+TEXTO CINÉTICO (regla del operador, 2026-11-24)
+- Cambiar solo las fuentes no alcanza: el operador rechazó la v03 porque el texto seguía estático. El texto tiene que construirse palabra por palabra con la voz, con movimientos rotativos (rise, focus, slam, pop) y salida animada. Motor: runtime/src/subtitles/Kinetic.tsx.
+- Para revisar movimiento no alcanza un still por escena: hacer secuencias de 4 stills dentro de una misma frase.
+
+IMÁGENES ROTATIVAS (regla del operador, 2026-11-24)
+- Escenas de una sola imagen con fondo vacío "se ven pobres". Usar galerías por escena en props (scene.gallery: src, rel/at, x, y, w, h, rot, enter, frame, credit) y scene.enter para la foto principal. Helpers G() y E() en build_props.py.
+- El archivo descargado y no usado en la v01 alcanzó para llenar las escenas: siempre descargar de más.
+
+PENDIENTES DE MEJORA DEL SISTEMA (requieren aprobación del operador)
+- Agregar guion-anotado.txt y direccion-de-voz.txt a 08_NUEVO_VIDEO_TEMPLATE/02_script.
+- Corregir tools/validate-studio.sh: el control de .md da un falso positivo con pipefail. Al corregirlo, excluir .claude/skills: las skills necesitan SKILL.md.
+- Decidir el runtime de Remotion (p18-remotion o 05_REMOTION_DESIGN_SYSTEM/runtime) y unificar tokens, fps y firma.
+- Cargar en 06_BIBLIOTECA_COMPARTIDA música, SFX y logo P18 con licencia registrada.
+- Llenar la cola de historias (07) para habilitar el modo autónomo.
+
+
+REGLA: NUNCA REPETIR UNA IMAGEN (operador, 2026-11-24, revisión v04)
+"Hay imágenes que se repiten. Eso no puede pasar."
+- Ninguna imagen ni video aparece dos veces en el mismo video: ni de fondo, ni en galería, ni recortada distinto.
+- Todo build_props.py llama a assert_unique_images(scenes) (05_REMOTION_DESIGN_SYSTEM/runtime/scripts/p18_build.py). Si encuentra una repetición, corta el build.
+- Si falta material, conseguir más (con licencia) antes que repetir.
+
+REGLA: SUBTÍTULOS QUE NO SE CORTAN (operador, 2026-11-24, revisión v04)
+"Los subtítulos, hay veces que se cortan, están raros. Tiene que quedar todo perfecto."
+- Los cortes van por frase con chunk_captions() de runtime/scripts/p18_build.py. Un subtítulo nunca termina en artículo, preposición, conjunción, auxiliar (había, iba…) ni en «nunca/ya/casi». Donde el corte automático no sea el natural, usar BREAKS = {unidad: [palabras]}.
+- Antes de renderizar, imprimir la lista de subtítulos y leerla entera.
+- Motor cinético: sin máscaras que recorten letras, sin letterSpacing animado (corre la línea), sin escalas que encimen palabras. Cada palabra queda legible en 0,15 s como máximo y entra 0,08 s antes de la voz.
+- Palabra clave en editorial: resaltador lima detrás de toda la palabra, con tinta encima. Nunca tinta sobre fondo oscuro.
+- Stack: respeta el orden de lectura (lo de antes chico, la clave gigante, lo de después chico).
+- Salida animada solo si después hay silencio. Si el siguiente subtítulo entra enseguida, el cambio es directo.
+- QA: un cuadro por subtítulo a mitad de la frase y otro 0,2 s antes de que termine. Ninguna palabra cortada, encimada ni invisible.
+
+P18-003 (Steve Jobs)
+- [P18-003] Wikimedia (429): bajar miniaturas estándar (iiurlwidth=1920) con pausas de unos 10 s. Los originales grandes se bloquean.
+- [P18-003] Un recorte de la misma foto cuenta como repetición (el operador: "nunca repetir una imagen"). Revisar el origen de cada archivo ("cropped from…").
+- [P18-003] Las tarjetas de galería tienen que terminar en y ≤ 1360, porque los subtítulos empiezan en 1390. Las escenas sobre papel ('year', 'document') necesitan bg 'paper' para que el subtítulo salga en tinta.
+- [P18-003] Elegir el tramo de música midiendo el loudness cada 3 s (ebur128): hacer coincidir los bajones con los golpes del guion.
+- [P18-003] Ritmo real de Brian en este guion: 2,55 pal/s (99 palabras = 38,8 s). Rango observado entre videos: 2,40–2,55.
+
+2026-11-25 (P18-004, corrida automática): si falta ~/.config/p18/elevenlabs.env, comprobarlo ANTES de investigar a fondo no cambia el plan (el gate pide dejar el guion listo), pero sí evita buscar assets: el estado se frena en waiting_voiceover. Hershey: el Archivo Hershey (hersheyarchives.org) es fuente primaria directa y se lee bien con WebFetch; Britannica da 403.

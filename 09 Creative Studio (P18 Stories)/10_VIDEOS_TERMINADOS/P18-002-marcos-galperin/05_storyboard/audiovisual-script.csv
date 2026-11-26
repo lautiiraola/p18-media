@@ -1,0 +1,12 @@
+start,end,voiceover,narrative_function,visual_asset,asset_id,movement,on_screen_text,music_sfx,source_status
+0.00,4.96,,S01 1999,people,G01,derivado de t (ver runtime),19 de 20 dijeron NO,ver sfx en props,approved
+4.96,11.74,,S03 La idea,photoThenBrowser,A03;A13;G02,derivado de t (ver runtime),"Stanford, California",ver sfx en props,approved
+11.74,16.15,,S04 El rechazo,quote,tipografía,derivado de t (ver runtime),,ver sfx en props,approved
+16.15,24.00,,S05 Su respuesta,videoQuote,V02,derivado de t (ver runtime),Marcos Galperin,ver sfx en props,approved
+24.00,26.61,,S06 El arranque,photo,A04,derivado de t (ver runtime),Buenos Aires · 1999,ver sfx en props,approved
+26.61,28.68,,S07 La crisis,chart,A05,derivado de t (ver runtime),,ver sfx en props,approved
+28.68,32.94,,S08 La crisis,vote,G03,derivado de t (ver runtime),Representación gráfica,ver sfx en props,approved
+32.94,35.64,,S10 El costo,losses,G04,derivado de t (ver runtime),,ver sfx en props,approved
+35.64,41.44,,S11 El resultado,photoThenSlide,A07;V01,derivado de t (ver runtime),Nasdaq · 2007,ver sfx en props,approved
+41.44,44.02,,S12 Hoy,fullbleed,A11,derivado de t (ver runtime),19 de 20 dijeron que no.,ver sfx en props,approved
+44.02,47.76,,S13 cierre,question,tipografía,derivado de t (ver runtime),,ver sfx en props,approved

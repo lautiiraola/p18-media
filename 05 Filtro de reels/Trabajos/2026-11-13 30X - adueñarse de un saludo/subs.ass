@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,582,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.98,P18,,0,0,0,,Pero era ya algo muy loco que todo
+Dialogue: 0,0:00:01.98,0:00:03.14,P18,,0,0,0,,el mundo me decía Holii.
+Dialogue: 0,0:00:03.14,0:00:04.06,P18,,0,0,0,,O sea, todo el parche de ella
+Dialogue: 0,0:00:04.06,0:00:04.88,P18,,0,0,0,,decía Holii.
+Dialogue: 0,0:00:04.88,0:00:05.38,P18,,0,0,0,,Claro.
+Dialogue: 0,0:00:05.38,0:00:06.90,P18,,0,0,0,,Y iba a otros parches y todos me
+Dialogue: 0,0:00:06.90,0:00:07.76,P18,,0,0,0,,decían Holii.
+Dialogue: 0,0:00:08.42,0:00:10.00,P18,,0,0,0,,Y salía a farrear y me saludaban
+Dialogue: 0,0:00:10.00,0:00:10.56,P18,,0,0,0,,Holii.
+Dialogue: 0,0:00:10.56,0:00:12.04,P18,,0,0,0,,O sea, así era una locura.
+Dialogue: 0,0:00:12.70,0:00:15.22,P18,,0,0,0,,Y yo en mi mente decía como,
+Dialogue: 0,0:00:15.22,0:00:15.92,P18,,0,0,0,,wow, qué loco.
+Dialogue: 0,0:00:16.34,0:00:17.80,P18,,0,0,0,,Y yo en Chicago había trabajado
+Dialogue: 0,0:00:17.80,0:00:19.86,P18,,0,0,0,,con el director creativo de
+Dialogue: 0,0:00:19.86,0:00:22.00,P18,,0,0,0,,Budweiser, que fue el que sacó la
+Dialogue: 0,0:00:22.00,0:00:24.44,P18,,0,0,0,,campaña, no sé si te acuerdas que
+Dialogue: 0,0:00:24.44,0:00:25.84,P18,,0,0,0,,se llamaban por celular.
+Dialogue: 0,0:00:26.60,0:00:27.06,P18,,0,0,0,,¡Wassup!
+Dialogue: 0,0:00:27.06,0:00:28.94,P18,,0,0,0,,Sí, claro, es un mega hit.
+Dialogue: 0,0:00:28.94,0:00:30.48,P18,,0,0,0,,Estos bebés no tienen idea de qué
+Dialogue: 0,0:00:30.48,0:00:31.66,P18,,0,0,0,,estamos hablando, pero era una
+Dialogue: 0,0:00:31.66,0:00:33.06,P18,,0,0,0,,campaña del Super Bowl,
+Dialogue: 0,0:00:33.06,0:00:35.14,P18,,0,0,0,,la más exitosa de la historia del
+Dialogue: 0,0:00:35.14,0:00:36.38,P18,,0,0,0,,Super Bowl. Y yo trabajé con ese
+Dialogue: 0,0:00:36.38,0:00:38.12,P18,,0,0,0,,man, y yo una vez me senté con el
+Dialogue: 0,0:00:38.12,0:00:39.64,P18,,0,0,0,,man y le dije: ¿cómo se le ocurrió
+Dialogue: 0,0:00:39.64,0:00:40.34,P18,,0,0,0,,esa m***?
+Dialogue: 0,0:00:40.74,0:00:41.92,P18,,0,0,0,,Y me dijo: yo llegué a la
+Dialogue: 0,0:00:41.92,0:00:43.38,P18,,0,0,0,,conclusión de que lo mejor que una
+Dialogue: 0,0:00:43.38,0:00:45.36,P18,,0,0,0,,marca puede hacer es adueñarse de
+Dialogue: 0,0:00:45.36,0:00:46.10,P18,,0,0,0,,un saludo,
+Dialogue: 0,0:00:46.78,0:00:47.68,P18,,0,0,0,,o de una expresión

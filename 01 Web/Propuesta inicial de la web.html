@@ -1,0 +1,468 @@
+<title>Proyecto 18 · Marca y modelo</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;900&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: cuaderno de clase. Una columna de lectura con un "margen" a la izquierda
+   (como la línea del cuaderno) donde viven las etiquetas de cada sección. */
+:root {
+  --paper: #F6F7FB;
+  --sheet: #FFFFFF;
+  --fg: #111A3D;
+  --muted: #59628A;
+  --rule: #DCE0EE;
+  --ink: #1838C8;        /* birome azul */
+  --ink-fg: #FFFFFF;
+  --hl: #FFE14D;         /* resaltador */
+  --hl-soft: #FFE14D;
+  --hl-fg: #111A3D;
+  --margin: #E2577A;     /* línea de margen del cuaderno */
+  --display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
+  --body: "Hanken Grotesk", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --measure: 66ch;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0C1330; --sheet: #121A3F; --fg: #ECEFFA; --muted: #9BA4C8; --rule: #232D5C;
+    --ink: #8299FF; --ink-fg: #0C1330; --hl: #FFE14D; --hl-soft: rgba(255,225,77,.30); --hl-fg: #111A3D;
+    --margin: #F07C9A; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0C1330; --sheet: #121A3F; --fg: #ECEFFA; --muted: #9BA4C8; --rule: #232D5C;
+  --ink: #8299FF; --ink-fg: #0C1330; --hl: #FFE14D; --hl-soft: rgba(255,225,77,.30); --hl-fg: #111A3D;
+  --margin: #F07C9A; color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  background: var(--paper); color: var(--fg);
+  font-family: var(--body); font-size: 17px; line-height: 1.6;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 1080px; margin: 0 auto; }
+h1, h2, h3 { text-wrap: balance; margin: 0; }
+p { margin: 0; }
+a { color: var(--ink); }
+.hl { background: linear-gradient(transparent 52%, var(--hl-soft) 52%, var(--hl-soft) 92%, transparent 92%); padding: 0 .1em; }
+.mono { font-family: var(--mono); font-size: .78rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+
+/* ---------- portada ---------- */
+.cover {
+  margin-top: 24px; border-radius: 6px; overflow: hidden;
+  background-color: var(--sheet);
+  background-image:
+    linear-gradient(var(--rule) 1px, transparent 1px),
+    linear-gradient(90deg, var(--rule) 1px, transparent 1px);
+  background-size: 22px 22px;
+  border: 1px solid var(--rule);
+  position: relative;
+}
+.cover-inner { padding: clamp(28px, 6vw, 64px); display: grid; gap: 28px; }
+.cover-meta { display: flex; flex-wrap: wrap; gap: 8px 20px; }
+.cover h1 {
+  font-family: var(--display); font-weight: 900; text-transform: uppercase;
+  font-size: clamp(3.2rem, 11vw, 8.5rem); line-height: .86; letter-spacing: -.01em;
+}
+.cover h1 .n { color: var(--ink); }
+.cover .lede { font-size: clamp(1.1rem, 2.2vw, 1.35rem); max-width: 40ch; line-height: 1.45; }
+
+/* ---------- secciones con margen ---------- */
+section { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 0 40px; padding-block: 64px; border-bottom: 1px solid var(--rule); }
+section > .side { border-right: 2px solid var(--margin); padding-right: 20px; }
+section > .side .num { font-family: var(--display); font-weight: 900; font-size: 3.4rem; line-height: 1; color: var(--ink); }
+section > .side .mono { display: block; margin-top: 6px; }
+section > .main { min-width: 0; display: grid; gap: 28px; align-content: start; }
+section h2 { font-family: var(--display); font-weight: 900; text-transform: uppercase; font-size: clamp(2.2rem, 5vw, 3.6rem); line-height: .95; }
+section .intro { max-width: var(--measure); color: var(--fg); }
+h3 { font-size: 1.15rem; font-weight: 700; line-height: 1.3; }
+@media (max-width: 760px) {
+  section { grid-template-columns: 1fr; gap: 20px; padding-block: 48px; }
+  section > .side { border-right: 0; border-bottom: 2px solid var(--margin); padding: 0 0 10px; display: flex; align-items: baseline; gap: 14px; }
+  section > .side .num { font-size: 2.4rem; }
+  section > .side .mono { margin: 0; }
+}
+
+/* ---------- supuestos ---------- */
+.assume { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 14px; }
+.assume div { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 16px 18px; display: grid; gap: 6px; }
+.assume b { font-weight: 700; }
+.assume p { color: var(--muted); font-size: .95rem; }
+
+/* ---------- recorrido ---------- */
+.path { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; counter-reset: step; }
+.path li { display: grid; grid-template-columns: 64px minmax(0,1fr) 160px; gap: 20px; padding: 22px 0; border-top: 1px dashed var(--rule); align-items: start; }
+.path li:first-child { border-top: 0; }
+.path .k { font-family: var(--display); font-weight: 900; font-size: 2.6rem; line-height: .9; color: var(--ink); }
+.path h3 { margin-bottom: 4px; }
+.path p { color: var(--muted); max-width: 60ch; }
+.path .when { font-family: var(--mono); font-size: .78rem; color: var(--fg); background: var(--sheet); border: 1px solid var(--rule); border-radius: 4px; padding: 6px 8px; line-height: 1.4; }
+.path .tag { display: inline-block; font-family: var(--mono); font-size: .7rem; letter-spacing: .06em; text-transform: uppercase; background: var(--hl); color: var(--hl-fg); padding: 2px 6px; border-radius: 3px; margin-left: 6px; vertical-align: 2px; }
+@media (max-width: 640px) {
+  .path li { grid-template-columns: 44px minmax(0,1fr); }
+  .path .when { grid-column: 2; justify-self: start; }
+  .path .k { font-size: 2rem; }
+}
+.loop { background: var(--ink); color: var(--ink-fg); border-radius: 6px; padding: 22px 24px; display: grid; gap: 6px; }
+.loop .mono { color: inherit; opacity: .75; }
+.loop p { max-width: 62ch; }
+
+/* ---------- roles ---------- */
+.roles { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0; border: 1px solid var(--rule); border-radius: 6px; overflow: hidden; background: var(--sheet); }
+.roles > div { padding: 20px; border-right: 1px solid var(--rule); border-bottom: 1px solid var(--rule); display: grid; gap: 10px; align-content: start; margin: 0 -1px -1px 0; }
+.roles dl { margin: 0; display: grid; gap: 8px; }
+.roles dt { font-family: var(--mono); font-size: .7rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.roles dd { margin: 0; font-size: .95rem; }
+
+/* ---------- marca ---------- */
+.big-quote { font-family: var(--display); font-weight: 900; text-transform: uppercase; font-size: clamp(2.6rem, 8vw, 5.4rem); line-height: .9; }
+.big-quote .n { color: var(--ink); }
+.pos { background: var(--sheet); border-left: 3px solid var(--ink); padding: 18px 22px; max-width: var(--measure); font-size: 1.05rem; }
+.tone { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.tone > div { border: 1px solid var(--rule); border-radius: 6px; padding: 18px; display: grid; gap: 10px; align-content: start; background: var(--sheet); }
+.tone ul { margin: 0; padding-left: 1.1em; display: grid; gap: 8px; }
+.tone .yes .mono { color: var(--ink); }
+.tone .no li { color: var(--muted); text-decoration: line-through; text-decoration-color: var(--margin); }
+@media (max-width: 640px) { .tone { grid-template-columns: 1fr; } }
+.taglines { display: grid; gap: 10px; }
+.taglines div { display: flex; gap: 14px; align-items: baseline; flex-wrap: wrap; }
+.taglines strong { font-family: var(--display); font-weight: 700; font-size: 1.7rem; text-transform: uppercase; line-height: 1.05; }
+
+/* ---------- identidad ---------- */
+.logos { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 14px; }
+@media (max-width: 760px) { .logos { grid-template-columns: 1fr 1fr; } .logos .l-main { grid-column: 1 / -1; } }
+.logo-tile { border-radius: 6px; min-height: 200px; display: grid; place-items: center; padding: 24px; position: relative; border: 1px solid var(--rule); }
+.logo-tile .cap { position: absolute; left: 12px; bottom: 10px; font-family: var(--mono); font-size: .68rem; letter-spacing: .06em; text-transform: uppercase; opacity: .7; }
+.t-paper { background: #FFFFFF; color: #111A3D; }
+.t-ink { background: #1838C8; color: #FFFFFF; border-color: #1838C8; }
+.t-hl { background: #FFE14D; color: #111A3D; border-color: #FFE14D; }
+
+.lockup { display: flex; align-items: center; gap: 14px; }
+.lockup .eighteen { font-family: var(--display); font-weight: 900; font-size: clamp(5rem, 13vw, 8rem); line-height: .78; letter-spacing: -.02em; position: relative; }
+.lockup .eighteen::after { content: ""; position: absolute; left: 4%; right: 2%; bottom: -12px; height: 8px; background: #FFE14D; border-radius: 2px; transform: rotate(-2deg); }
+.lockup .word { font-family: var(--display); font-weight: 700; font-size: clamp(1.1rem, 2.6vw, 1.6rem); line-height: 1; text-transform: uppercase; letter-spacing: .14em; writing-mode: vertical-rl; transform: rotate(180deg); }
+.badge18 { font-family: var(--display); font-weight: 900; font-size: 5.6rem; line-height: .8; letter-spacing: -.02em; }
+.badge18 small { display: block; font-size: .9rem; font-weight: 700; letter-spacing: .2em; text-align: center; margin-top: 8px; }
+.t-ink .lockup .eighteen::after { background: #FFE14D; }
+
+.swatches { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
+.sw { border-radius: 6px; overflow: hidden; border: 1px solid var(--rule); background: var(--sheet); }
+.sw .chip { height: 86px; }
+.sw .info { padding: 10px 12px; display: grid; gap: 2px; }
+.sw .info b { font-size: .95rem; }
+.sw .info span { font-family: var(--mono); font-size: .75rem; color: var(--muted); }
+
+.type { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; }
+.type > div { border: 1px solid var(--rule); border-radius: 6px; padding: 20px; background: var(--sheet); display: grid; gap: 8px; align-content: start; }
+.type .s1 { font-family: var(--display); font-weight: 900; font-size: 3rem; line-height: .9; text-transform: uppercase; }
+.type .s2 { font-family: var(--body); font-size: 1.3rem; font-weight: 600; line-height: 1.25; }
+.type .s3 { font-family: var(--mono); font-size: 1rem; }
+
+.apps { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+@media (max-width: 860px) { .apps { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 560px) { .apps { grid-template-columns: 1fr; } }
+.app { display: grid; gap: 8px; }
+.app .frame { border-radius: 8px; overflow: hidden; border: 1px solid var(--rule); aspect-ratio: 4 / 5; max-width: 100%; position: relative; }
+.app .cap { font-size: .9rem; color: var(--muted); }
+
+.card-qr { background: #FFFFFF; color: #111A3D; height: 100%; padding: 22px; display: grid; grid-template-rows: auto 1fr auto; gap: 14px;
+  background-image: linear-gradient(#E6E9F3 1px, transparent 1px), linear-gradient(90deg, #E6E9F3 1px, transparent 1px); background-size: 18px 18px; }
+.card-qr h4 { margin: 0; font-family: var(--display); font-weight: 900; font-size: 2.1rem; line-height: .92; text-transform: uppercase; }
+.card-qr h4 em { font-style: normal; background: #FFE14D; padding: 0 .12em; }
+.card-qr .row { display: flex; justify-content: space-between; align-items: end; gap: 12px; }
+.card-qr canvas { width: 96px; height: 96px; image-rendering: pixelated; background: #fff; padding: 6px; border: 1px solid #111A3D; }
+.card-qr .small { font-family: "IBM Plex Mono", monospace; font-size: .68rem; text-transform: uppercase; letter-spacing: .06em; }
+
+.story { background: #1838C8; color: #FFFFFF; height: 100%; padding: 22px; display: grid; grid-template-rows: auto 1fr auto; gap: 10px; }
+.story .top { display: flex; justify-content: space-between; font-family: "IBM Plex Mono", monospace; font-size: .68rem; letter-spacing: .06em; text-transform: uppercase; opacity: .85; }
+.story .los { font-family: var(--display); font-weight: 900; text-transform: uppercase; line-height: .82; align-self: center; font-size: clamp(3rem, 9vw, 4.6rem); }
+.story .los span { color: #FFE14D; display: block; font-size: 1.9em; }
+.story .bottom { font-size: .9rem; line-height: 1.35; }
+
+.hoodie { background: #111A3D; color: #FFFFFF; height: 100%; display: grid; place-items: center; padding: 20px; }
+.hoodie .back { text-align: center; display: grid; gap: 6px; }
+.hoodie .back .gen { font-family: var(--display); font-weight: 700; letter-spacing: .3em; font-size: .95rem; text-transform: uppercase; color: #FFE14D; }
+.hoodie .back .num { font-family: var(--display); font-weight: 900; font-size: clamp(6rem, 18vw, 9rem); line-height: .78; -webkit-text-stroke: 2px #FFFFFF; color: transparent; }
+.hoodie .back .yr { font-family: "IBM Plex Mono", monospace; font-size: .75rem; letter-spacing: .1em; opacity: .8; }
+
+/* ---------- web ---------- */
+.sitemap { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 12px; }
+.page { border: 1px solid var(--rule); border-radius: 6px; padding: 16px; background: var(--sheet); display: grid; gap: 6px; align-content: start; }
+.page .path-url { font-family: var(--mono); font-size: .75rem; color: var(--ink); }
+.page p { font-size: .92rem; color: var(--muted); }
+.page .cta { font-size: .8rem; font-weight: 700; justify-self: start; border: 1.5px solid var(--fg); border-radius: 999px; padding: 2px 10px; margin-top: 4px; }
+.home-order { list-style: none; margin: 0; padding: 0; border: 1px solid var(--rule); border-radius: 6px; background: var(--sheet); }
+.home-order li { display: grid; grid-template-columns: 34px minmax(0, 1fr); gap: 12px; padding: 12px 16px; border-top: 1px solid var(--rule); }
+.home-order li:first-child { border-top: 0; }
+.home-order .i { font-family: var(--mono); font-size: .8rem; color: var(--muted); padding-top: 3px; }
+.home-order b { font-weight: 700; }
+.home-order span { color: var(--muted); }
+.rules { margin: 0; padding-left: 1.1em; display: grid; gap: 8px; max-width: var(--measure); }
+
+/* ---------- pendientes ---------- */
+.todo { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; max-width: 760px; }
+.todo li { display: grid; grid-template-columns: 22px minmax(0,1fr); gap: 12px; align-items: start; }
+.todo .box { width: 18px; height: 18px; border: 2px solid var(--ink); border-radius: 3px; margin-top: 4px; }
+.todo p { color: var(--muted); font-size: .95rem; }
+
+footer { padding-block: 40px 56px; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+@media (prefers-reduced-motion: no-preference) {
+  .lockup .eighteen::after { transition: transform .4s ease; }
+  .logo-tile:hover .lockup .eighteen::after { transform: rotate(0deg); }
+}
+</style>
+
+<div class="wrap">
+
+  <header class="cover">
+    <div class="cover-inner">
+      <div class="cover-meta">
+        <span class="mono">Propuesta v1 · 31 oct 2026</span>
+        <span class="mono">Grupo Enjinia · área social</span>
+      </div>
+      <h1>Proyecto<br><span class="n">18</span>, de nuevo.</h1>
+      <p class="lede">Una charla de 40 minutos que hoy termina cuando suena el timbre. La propuesta es que termine con <span class="hl">una idea propia en marcha</span> y una red que la sostenga.</p>
+    </div>
+  </header>
+
+  <section>
+    <div class="side"><div class="num">00</div><span class="mono">Punto de partida</span></div>
+    <div class="main">
+      <h2>Lo que asumí para arrancar</h2>
+      <p class="intro">Todavía no tengo respuesta a estas cuatro cosas. Las tomé como base para avanzar; si alguna está mal, cambia parte de lo que sigue.</p>
+      <div class="assume">
+        <div><b>El nombre se queda</b><p>"Proyecto 18" y el concepto del 18 funcionan. Rediseñamos todo lo demás desde cero.</p></div>
+        <div><b>Dos públicos principales</b><p>Directivos de colegio, que necesitan confianza, y alumnos, que necesitan que les llame la atención. Las empresas aliadas vienen después.</p></div>
+        <div><b>Enjinia aparece, pero no tapa</b><p>P18 se presenta como fundación con identidad propia, "impulsada por Grupo Enjinia".</p></div>
+        <div><b>Primera cohorte en 2027</b><p>Arranca con el ciclo lectivo de marzo, en Buenos Aires.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="side"><div class="num">01</div><span class="mono">Modelo</span></div>
+    <div class="main">
+      <h2>Un recorrido de un año, no una charla</h2>
+      <p class="intro">Hoy la charla está bien pensada, pero el después es vago: no se sabe cómo manda el alumno su idea, quién elige ni qué es la comunidad. La propuesta convierte eso en <b>un recorrido con fechas</b>, alineado al calendario escolar, que cierra antes de que los chicos egresen.</p>
+      <ol class="path">
+        <li>
+          <div class="k">1</div>
+          <div><h3>La charla</h3><p>40 minutos en el aula de 5.º o 6.º año, con un guion único para todos los speakers. Hábitos, plata, vender, fracasar, IA. Termina con un ejercicio: escribir su idea.</p></div>
+          <div class="when">Abril a agosto<br>en cada colegio</div>
+        </li>
+        <li>
+          <div class="k">2</div>
+          <div><h3>Tu idea en 18 palabras <span class="tag">nuevo</span></h3><p>Antes de irse, cada alumno escanea un QR y sube su idea en 18 palabras desde el celular. Sin registro largo: nombre, colegio, idea. Es el filtro más simple posible y obliga a ser claro.</p></div>
+          <div class="when">En el aula,<br>antes del timbre</div>
+        </li>
+        <li>
+          <div class="k">3</div>
+          <div><h3>Los 18 <span class="tag">nuevo</span></h3><p>Un jurado de speakers y aliados elige 18 alumnos por cohorte. Es un número cerrado, fácil de comunicar y con algo de prestigio. Los 18 se anuncian en público.</p></div>
+          <div class="when">Septiembre</div>
+        </li>
+        <li>
+          <div class="k">4</div>
+          <div><h3>Programa de 8 semanas</h3><p>Un mentor por alumno, un encuentro online por semana y dos visitas a empresas aliadas (una obra de Enjinia, la planta de Alpanel). Cada uno sale con su idea probada en la calle.</p></div>
+          <div class="when">Septiembre<br>a noviembre</div>
+        </li>
+        <li>
+          <div class="k">5</div>
+          <div><h3>Demo 18</h3><p>Los 18 presentan frente a familias, colegios y aliados. Es el evento que cierra el año y el contenido que alimenta la marca el año siguiente.</p></div>
+          <div class="when">Noviembre,<br>antes de egresar</div>
+        </li>
+      </ol>
+      <div class="loop">
+        <span class="mono">El ciclo se cierra solo</span>
+        <p>Los 18 de un año vuelven al siguiente como <b>speakers junior</b>: dan la charla junto a un speaker adulto. Un pibe de 19 hablándole a uno de 17 convence más que cualquier empresario, y la fundación genera sus propios speakers.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="side"><div class="num">02</div><span class="mono">Quién hace qué</span></div>
+    <div class="main">
+      <h2>Cuatro roles, cuatro razones para sumarse</h2>
+      <div class="roles">
+        <div><h3>Colegios</h3><dl><dt>Hacen</dt><dd>Piden fecha y ceden 40 minutos de clase.</dd><dt>Reciben</dt><dd>La charla gratis y un informe con cuántos alumnos participaron y qué ideas salieron.</dd></dl></div>
+        <div><h3>Alumnos</h3><dl><dt>Hacen</dt><dd>Escuchan, suben su idea y, si quedan, hacen el programa.</dd><dt>Reciben</dt><dd>Herramientas, un mentor, contactos reales y algo para mostrar.</dd></dl></div>
+        <div><h3>Speakers</h3><dl><dt>Hacen</dt><dd>Dan charlas con el guion de P18 y mentorean a uno de los 18.</dd><dt>Reciben</dt><dd>Capacitación, comunidad y un rol visible en la fundación.</dd></dl></div>
+        <div><h3>Aliados</h3><dl><dt>Hacen</dt><dd>Apadrinan colegios (financian sus charlas), prestan mentores y abren su empresa a visitas.</dd><dt>Reciben</dt><dd>Impacto medido, voluntariado para su equipo y presencia en Demo 18.</dd></dl></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="side"><div class="num">03</div><span class="mono">Marca</span></div>
+    <div class="main">
+      <h2>La idea central</h2>
+      <p class="big-quote">Antes de salir,<br><span class="n">arrancá.</span></p>
+      <p class="pos">Para los alumnos del último año que están por decidir qué hacer, Proyecto 18 es la charla gratuita que les deja <b>una primera idea propia en marcha</b> y gente que la sostiene. A diferencia de una charla motivacional, termina con algo hecho.</p>
+
+      <h3>Cómo habla P18</h3>
+      <div class="tone">
+        <div class="yes"><span class="mono">Así</span>
+          <ul>
+            <li>Tenés una idea dando vueltas. Escribila en 18 palabras.</li>
+            <li>No hace falta tener todo resuelto. Hace falta arrancar.</li>
+            <li>40 minutos, un QR y una idea. Eso es todo.</li>
+          </ul>
+        </div>
+        <div class="no"><span class="mono">Así no</span>
+          <ul>
+            <li>¡Desbloqueá tu potencial emprendedor!</li>
+            <li>Transformamos la vida de los jóvenes a través de la innovación.</li>
+            <li>Sinergias para el ecosistema emprendedor.</li>
+          </ul>
+        </div>
+      </div>
+      <p class="intro">Voseo, frases cortas, cero palabras de consultora. Habla como un hermano mayor que ya arrancó, no como un profesor ni como una marca de bebida energética.</p>
+
+      <h3>Frases alternativas</h3>
+      <div class="taglines">
+        <div><strong>El colegio termina. Lo tuyo empieza.</strong><span class="mono">Para alumnos</span></div>
+        <div><strong>40 minutos. Una idea. 18 palabras.</strong><span class="mono">Para piezas y QR</span></div>
+        <div><strong>Lo que pasa a los 18 no se enseña en el aula.</strong><span class="mono">Para colegios y aliados</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="side"><div class="num">04</div><span class="mono">Identidad</span></div>
+    <div class="main">
+      <h2>Birome, cuaderno y buzo de egresados</h2>
+      <p class="intro">La web actual (fondo negro, naranja y un retrato de stock) podría ser de cualquier startup. La nueva identidad sale de los objetos del último año: la <b>birome azul</b>, el <b>cuaderno cuadriculado</b>, el <b>resaltador</b> y los números grandes del <b>buzo de egresados</b>. El 18 se trata como un número de camiseta.</p>
+
+      <div class="logos">
+        <div class="logo-tile t-paper l-main">
+          <div class="lockup"><span class="word">Proyecto</span><span class="eighteen">18</span></div>
+          <span class="cap">Logo principal</span>
+        </div>
+        <div class="logo-tile t-ink">
+          <div class="badge18">18<small>P18</small></div>
+          <span class="cap">Isotipo</span>
+        </div>
+        <div class="logo-tile t-hl">
+          <div class="badge18">18<small>P18</small></div>
+          <span class="cap">Sobre amarillo</span>
+        </div>
+      </div>
+
+      <div class="swatches">
+        <div class="sw"><div class="chip" style="background:#1838C8"></div><div class="info"><b>Birome</b><span>#1838C8 · principal</span></div></div>
+        <div class="sw"><div class="chip" style="background:#FFE14D"></div><div class="info"><b>Resaltador</b><span>#FFE14D · acento</span></div></div>
+        <div class="sw"><div class="chip" style="background:#111A3D"></div><div class="info"><b>Pizarrón</b><span>#111A3D · texto y fondos</span></div></div>
+        <div class="sw"><div class="chip" style="background:#F6F7FB"></div><div class="info"><b>Hoja</b><span>#F6F7FB · fondo</span></div></div>
+        <div class="sw"><div class="chip" style="background:#E2577A"></div><div class="info"><b>Margen</b><span>#E2577A · solo detalles</span></div></div>
+      </div>
+
+      <div class="type">
+        <div><span class="mono">Títulos · Big Shoulders</span><span class="s1">Los 18 de 2027</span><p class="mono">Condensada, de camiseta deportiva</p></div>
+        <div><span class="mono">Texto · Hanken Grotesk</span><span class="s2">Antes de irse, cada alumno sube su idea desde el celular.</span><p class="mono">Clara y cercana</p></div>
+        <div><span class="mono">Datos · IBM Plex Mono</span><span class="s3">40 MIN · 18 PALABRAS · DEMO 18</span><p class="mono">Fechas, números, etiquetas</p></div>
+      </div>
+
+      <h3>Aplicaciones</h3>
+      <div class="apps">
+        <div class="app">
+          <div class="frame"><div class="card-qr">
+            <span class="small">Proyecto 18 · Tu idea</span>
+            <h4>Tenés una idea.<br>Contala en <em>18 palabras.</em></h4>
+            <div class="row"><span class="small">Escaneá antes<br>del timbre</span><canvas id="qr" width="25" height="25" aria-label="QR ilustrativo"></canvas></div>
+          </div></div>
+          <span class="cap">Tarjeta que queda en el aula al terminar la charla (QR ilustrativo)</span>
+        </div>
+        <div class="app">
+          <div class="frame"><div class="story">
+            <div class="top"><span>P18</span><span>Cohorte 2027</span></div>
+            <div class="los">Los<span>18</span></div>
+            <div class="bottom">Elegidos entre las ideas de 20 colegios. Conocelos en Demo 18, noviembre.</div>
+          </div></div>
+          <span class="cap">Historia de Instagram para el anuncio de los seleccionados</span>
+        </div>
+        <div class="app">
+          <div class="frame"><div class="hoodie"><div class="back">
+            <span class="gen">Generación</span>
+            <span class="num">18</span>
+            <span class="yr">COHORTE 2027 · DEMO 18</span>
+          </div></div></div>
+          <span class="cap">Espalda del buzo que reciben los 18: la pieza que más va a circular</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="side"><div class="num">05</div><span class="mono">Web</span></div>
+    <div class="main">
+      <h2>La web nueva</h2>
+      <p class="intro">Hoy es una sola página larga que les habla a todos a la vez y repite tres veces lo mismo. La propuesta: una entrada por público, cada una con una sola acción.</p>
+      <div class="sitemap">
+        <div class="page"><span class="path-url">/</span><h3>Inicio</h3><p>Qué es P18 en 10 segundos y a dónde ir según quién sos.</p></div>
+        <div class="page"><span class="path-url">/colegios</span><h3>Colegios</h3><p>Qué pasa en los 40 minutos, qué se necesita (aula, proyector, 5.º o 6.º año) y fechas libres.</p><span class="cta">Pedir fecha</span></div>
+        <div class="page"><span class="path-url">/idea</span><h3>Tu idea</h3><p>El destino del QR: formulario de 18 palabras con contador. Funciona perfecto en el celular.</p><span class="cta">Subir idea</span></div>
+        <div class="page"><span class="path-url">/los18</span><h3>Los 18</h3><p>Los seleccionados de cada cohorte con su idea, su mentor y su avance. Archivo por año.</p></div>
+        <div class="page"><span class="path-url">/speakers</span><h3>Speakers</h3><p>A quién buscamos, cómo es la capacitación, speakers actuales con nombre y cara.</p><span class="cta">Postularme</span></div>
+        <div class="page"><span class="path-url">/aliados</span><h3>Aliados</h3><p>Apadriná un colegio: qué ponés, qué recibís y los aliados actuales.</p><span class="cta">Hablar con P18</span></div>
+        <div class="page"><span class="path-url">/nosotros</span><h3>Nosotros</h3><p>Fundadores con nombre y foto, vínculo con Grupo Enjinia y cómo se financia la fundación.</p></div>
+      </div>
+
+      <h3>Orden de la página de inicio</h3>
+      <ol class="home-order">
+        <li><span class="i">1</span><div><b>Portada.</b> <span>"Antes de salir, arrancá." Foto real de una charla y dos botones: Llevarlo a mi colegio / Subir mi idea.</span></div></li>
+        <li><span class="i">2</span><div><b>Qué pasa en 40 minutos.</b> <span>Los temas, en una línea cada uno.</span></div></li>
+        <li><span class="i">3</span><div><b>El recorrido.</b> <span>Charla → idea → Los 18 → programa → Demo 18, con fechas.</span></div></li>
+        <li><span class="i">4</span><div><b>Ideas reales.</b> <span>Ideas de alumnos en 18 palabras. Es la prueba más fuerte de que funciona.</span></div></li>
+        <li><span class="i">5</span><div><b>¿Quién sos?</b> <span>Colegio, alumno, speaker, aliado: una tarjeta para cada uno.</span></div></li>
+        <li><span class="i">6</span><div><b>Quiénes están detrás.</b> <span>Fundadores y aliados, con caras.</span></div></li>
+        <li><span class="i">7</span><div><b>Preguntas frecuentes y contacto.</b></div></li>
+      </ol>
+
+      <h3>Reglas para no repetir errores</h3>
+      <ul class="rules">
+        <li>Nada de "Próximamente" ni testimonios de relleno. Si no hay contenido real, la sección no se publica.</li>
+        <li>Números solo cuando son reales y se ven sin depender de una animación (hoy se leen "0 min, 0 %").</li>
+        <li>Fotos propias de charlas. Hasta tenerlas, la gráfica se apoya en tipografía y color, no en stock.</li>
+        <li>Un solo dominio. Hoy proyecto18.co redirige a .com, pero el mail es @proyecto18.co.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <div class="side"><div class="num">06</div><span class="mono">Por decidir</span></div>
+    <div class="main">
+      <h2>Lo que falta definir</h2>
+      <ul class="todo">
+        <li><span class="box"></span><div><b>¿Los 18 reciben algo concreto al final?</b><p>Por ejemplo, un capital semilla chico financiado por aliados. Le da peso a la selección, pero hay que presupuestarlo.</p></div></li>
+        <li><span class="box"></span><div><b>Costo de una charla y de apadrinar un colegio</b><p>Es lo que se le ofrece a una empresa aliada. Sin ese número no se puede armar la página de aliados.</p></div></li>
+        <li><span class="box"></span><div><b>Quiénes son los fundadores y si van a dar la cara</b><p>Para una fundación que entra a colegios, es lo que más confianza genera.</p></div></li>
+        <li><span class="box"></span><div><b>Cuántas charlas por año pueden dar los speakers que hay hoy</b><p>Define si la meta de 20 colegios en el primer año es realista.</p></div></li>
+        <li><span class="box"></span><div><b>Dónde vive la comunidad</b><p>Grupo de WhatsApp, Discord o algo propio. Para la primera cohorte alcanza con algo simple.</p></div></li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <span class="mono">Proyecto 18 · Propuesta de marca y modelo</span>
+    <span class="mono">Borrador para discutir</span>
+  </footer>
+</div>
+
+<script>
+// QR decorativo: patrón aleatorio fijo con los tres cuadros de posición.
+(function () {
+  var c = document.getElementById('qr'); if (!c) return;
+  var x = c.getContext('2d'), n = 25, seed = 18;
+  function r() { seed = (seed * 9301 + 49297) % 233280; return seed / 233280; }
+  x.fillStyle = '#fff'; x.fillRect(0, 0, n, n); x.fillStyle = '#111A3D';
+  for (var i = 0; i < n; i++) for (var j = 0; j < n; j++) if (r() > .55) x.fillRect(i, j, 1, 1);
+  [[0,0],[n-7,0],[0,n-7]].forEach(function (p) {
+    x.fillStyle = '#fff'; x.fillRect(p[0]-1 < 0 ? 0 : p[0]-1, p[1]-1 < 0 ? 0 : p[1]-1, 9, 9);
+    x.fillStyle = '#111A3D'; x.fillRect(p[0], p[1], 7, 7);
+    x.fillStyle = '#fff'; x.fillRect(p[0]+1, p[1]+1, 5, 5);
+    x.fillStyle = '#111A3D'; x.fillRect(p[0]+2, p[1]+2, 3, 3);
+  });
+})();
+</script>

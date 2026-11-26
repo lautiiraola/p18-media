@@ -1,0 +1,18 @@
+TOKENS VISUALES
+
+deep: #14251D
+ink: #172019
+lime: #C2F542
+paper: #F5F5EB
+blue: #8EC3E6
+muted: #CDD3C8
+clay: #C97955
+
+Font: Manrope.
+Canvas: 1080 × 1920.
+FPS: 60.
+Safe horizontal: 82 px mínimo.
+Safe superior: 94 px mínimo.
+Safe inferior editorial: 190 px mínimo.
+
+La firma P18 no lleva cápsula ni fondo.

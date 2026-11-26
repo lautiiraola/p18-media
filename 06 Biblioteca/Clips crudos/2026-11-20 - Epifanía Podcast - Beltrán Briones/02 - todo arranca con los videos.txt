@@ -1,0 +1,28 @@
+CLIP 02 — TODO ARRANCA CON LOS VIDEOS: EL HACK PARA EMPRENDER
+
+Inicio:     19:20.3  (1160.34 s)
+Fin:        19:55.7  (1195.70 s)
+Duración:   35.4 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  TODO ARRANCA CON LOS VIDEOS: EL HACK PARA EMPRENDER   (en el reel, en lima: VIDEOS)
+Departamento:     Crear y comunicar
+Área:             Redes y contenido
+Tema:             Hacer videos como puerta para emprender
+Fuente:           Epifanía Podcast - Beltrán Briones — "Lo que nadie sabe sobre Beltrán Briones"
+                  https://www.youtube.com/watch?v=JIvROLceFzI&t=1160s
+
+Por qué lo elegí:
+Gancho corto y claro; cuenta que hacer videos cuesta poco, que no es talento sino habilidad y que su primer video fue malo y fue mejorando. Mensaje alentador para principiantes.
+
+Gancho (primeros 3 s): Todo arranca con los videos.
+
+Notas para la revisión: Revisar que el corte no arranque a mitad de frase: la frase previa lista sus empresas, se salteó a propósito. 'Hack a emprender' no promete resultados.
+
+Transcripción del clip:
+todo arranca con los vídeos. Y te lo dije al principio, ¿cuánto me costó a mí hacer los vídeos? Poco, me costó poco. Al día a hoy me cuesta poco. Luego tengo una idea, te digo, grabame, lo hago y lo subo. Siento que es como un hack a emprender, es un hack. Si lo haces bien, después tienes que tener cierto talento, pero es una locura. ¿Es talento o es habilidad? Como que lo tenías o que lo desarrollaste? No, lo desarrollé. Mis primeros vídeos son una garcha. Después fueron mejorando con el tiempo. Al día de hoy considero que siguen mejorando.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-20 - Epifanía Podcast - Beltrán Briones/02 - todo arranca con los videos.mp4" "TODO ARRANCA CON LOS *VIDEOS*: EL HACK PARA EMPRENDER" --fuente "Epifanía Podcast - Beltrán Briones"
+
+Saturación aplicada al reel (regla 2026-11-23, sólo al video): eq=saturation=0.7 (media S 0.419, 28% px S>0.6)

@@ -1,0 +1,86 @@
+{
+ "fecha": "2026-11-19",
+ "elegidas": [
+  {
+   "id": "2026-11-19-2",
+   "hecho": "GPT-6.2 Astra y Sol",
+   "quien": "OpenAI",
+   "fecha": "2026-11-17",
+   "dato_central": "Astra (frontier) y Sol (eficiente) en ChatGPT Plus/Pro/Enterprise/Edu y API; Astra API 20% mas barata ($8/$40 por millon de tokens).",
+   "fuentes": [
+    {
+     "titulo": "Introducing GPT-6.2 Astra and Sol",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
+    {
+     "titulo": "Digital Trends",
+     "url": "https://www.digitaltrends.com/computing/openai-gpt-6-2-astra-sol-launch/"
+    },
+    {
+     "titulo": "Decrypt",
+     "url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark"
+    }
+   ],
+   "puntaje": 9,
+   "por_que_entra": "Cambia la herramienta que un estudiante usa a diario; confirmada por varios medios."
+  },
+  {
+   "id": "2026-11-19-3",
+   "hecho": "Gemini 4 Neon",
+   "quien": "Google",
+   "fecha": "2026-11-18",
+   "dato_central": "#3 en Artificial Analysis Intelligence Index (61 pts); $3/$15 por millon de tokens; 32% menos costo por tarea que Carbon; en la app solo Pro/Ultra.",
+   "fuentes": [
+    {
+     "titulo": "Introducing Gemini 4 Neon",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+     "titulo": "Xataka",
+     "url": "https://www.xataka.com/robotica-e-ia/google-quiere-que-gemini-4-neon-sea-tu-modelo-para-casi-todo-rapido-que-carbon-barato-tarea"
+    }
+   ],
+   "puntaje": 8,
+   "por_que_entra": "Otra opcion fuerte y mas barata; aclara que no es gratis."
+  },
+  {
+   "id": "2026-11-19-4",
+   "hecho": "Hilos temporales en AI Mode de Google",
+   "quien": "Google",
+   "fecha": "2026-11-18",
+   "dato_central": "Al activarlos, la conversacion no se guarda en el historial ni personaliza futuras respuestas; despliegue mundial, escritorio y movil. El articulo no aclara que datos conserva Google.",
+   "fuentes": [
+    {
+     "titulo": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
+    }
+   ],
+   "puntaje": 8,
+   "por_que_entra": "Privacidad concreta que cualquiera puede usar hoy. Ojo: una sola fuente, sin comunicado de Google."
+  },
+  {
+   "id": "2026-11-19-5",
+   "hecho": "ChatGPT Wallet",
+   "quien": "OpenAI",
+   "fecha": "2026-11-13",
+   "dato_central": "Agentes pagan sin ver los datos de la tarjeta, con aprobacion biometrica de cada compra; solo Pro en EE.UU. con tarjetas de EE.UU.; sin virtuales.",
+   "fuentes": [
+    {
+     "titulo": "Introducing ChatGPT Wallet",
+     "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+     "titulo": "gHacks",
+     "url": "https://www.ghacks.net/2026/11/15/openai-launches-chatgpt-wallet-so-agents-can-pay-without-seeing-your-card-details/"
+    },
+    {
+     "titulo": "Fintech Futures",
+     "url": "https://www.fintechfutures.com/digital-payments/openai-chatgpt-wallet-launch"
+    }
+   ],
+   "puntaje": 8,
+   "por_que_entra": "Muestra hacia donde van los agentes (comprar por vos); sin sesgo de venta: hoy no esta disponible en Argentina."
+  }
+ ],
+ "descartadas": "Gen Z y amistad con IA y Lovable (Wired bloqueado, sin verificar); Nvidia/Huang (drama corporativo); Genie 4, Gemini lower-memory, OpenAI for Chile (impacto bajo o no verificado); IPO Anthropic (ya cubierta)."
+}

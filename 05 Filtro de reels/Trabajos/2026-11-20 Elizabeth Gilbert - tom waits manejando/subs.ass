@@ -1,0 +1,48 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1074,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,613,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.66,P18,,0,0,0,,Un pedacito de melodía,
+Dialogue: 0,0:00:02.66,0:00:03.84,P18,,0,0,0,,que le llega a la cabeza
+Dialogue: 0,0:00:03.84,0:00:06.10,P18,,0,0,0,,como suele llegar la inspiración:
+Dialogue: 0,0:00:06.10,0:00:07.74,P18,,0,0,0,,escurridiza, tentadora, y la quiere.
+Dialogue: 0,0:00:07.74,0:00:08.66,P18,,0,0,0,,Es hermosa,
+Dialogue: 0,0:00:09.14,0:00:10.04,P18,,0,0,0,,y la desea con ganas,
+Dialogue: 0,0:00:10.04,0:00:11.08,P18,,0,0,0,,pero no tiene cómo atraparla.
+Dialogue: 0,0:00:11.08,0:00:12.18,P18,,0,0,0,,No tiene una hoja de papel,
+Dialogue: 0,0:00:12.18,0:00:12.98,P18,,0,0,0,,no tiene un lápiz,
+Dialogue: 0,0:00:12.98,0:00:14.32,P18,,0,0,0,,no tiene un grabador.
+Dialogue: 0,0:00:14.32,0:00:15.86,P18,,0,0,0,,Entonces empieza a sentir esa vieja
+Dialogue: 0,0:00:15.86,0:00:17.42,P18,,0,0,0,,ansiedad que le sube por dentro:
+Dialogue: 0,0:00:17.42,0:00:19.08,P18,,0,0,0,,"Voy a perder esto,
+Dialogue: 0,0:00:19.08,0:00:20.34,P18,,0,0,0,,me va a perseguir esta canción
+Dialogue: 0,0:00:20.34,0:00:21.58,P18,,0,0,0,,para siempre, no soy lo bastante
+Dialogue: 0,0:00:21.58,0:00:22.92,P18,,0,0,0,,bueno, no puedo hacerlo".
+Dialogue: 0,0:00:22.92,0:00:24.80,P18,,0,0,0,,Pero en vez de entrar en pánico,
+Dialogue: 0,0:00:24.80,0:00:26.26,P18,,0,0,0,,frenó, frenó todo ese proceso
+Dialogue: 0,0:00:26.26,0:00:27.10,P18,,0,0,0,,mental,
+Dialogue: 0,0:00:27.10,0:00:28.94,P18,,0,0,0,,e hizo algo totalmente
+Dialogue: 0,0:00:28.94,0:00:29.52,P18,,0,0,0,,nuevo.
+Dialogue: 0,0:00:29.52,0:00:31.62,P18,,0,0,0,,Miró al cielo y dijo:
+Dialogue: 0,0:00:31.62,0:00:32.98,P18,,0,0,0,,"Disculpame.
+Dialogue: 0,0:00:32.98,0:00:34.86,P18,,0,0,0,,¿No ves que estoy manejando?
+Dialogue: 0,0:00:38.73,0:00:40.47,P18,,0,0,0,,¿Parezco alguien que puede anotar
+Dialogue: 0,0:00:40.47,0:00:41.39,P18,,0,0,0,,una canción ahora?
+Dialogue: 0,0:00:41.39,0:00:42.83,P18,,0,0,0,,Si de verdad querés existir,
+Dialogue: 0,0:00:42.83,0:00:44.31,P18,,0,0,0,,volvé en un momento más
+Dialogue: 0,0:00:44.31,0:00:46.07,P18,,0,0,0,,oportuno, cuando pueda ocuparme
+Dialogue: 0,0:00:46.07,0:00:48.57,P18,,0,0,0,,de vos. Si no, andá a molestar
+Dialogue: 0,0:00:48.57,0:00:51.09,P18,,0,0,0,,a otro hoy. Andá a molestar a
+Dialogue: 0,0:00:51.09,0:00:54.37,P18,,0,0,0,,Leonard Cohen".
+Dialogue: 0,0:00:54.37,0:00:56.17,P18,,0,0,0,,Su forma de trabajar cambió
+Dialogue: 0,0:00:56.17,0:00:57.37,P18,,0,0,0,,después de eso. No el trabajo,

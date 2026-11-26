@@ -1,0 +1,8 @@
+CONTROL DE VERSIONES
+
+Nunca sobrescribir un render aprobado.
+Cada corrección incrementa v01, v02, v03.
+El manifiesto registra la versión vigente.
+El código fuente de cada video queda dentro de su carpeta.
+Los componentes reutilizables validados se promueven al runtime compartido.
+Una producción terminada no se elimina: se agrega una nueva versión y se actualiza production-report.txt.

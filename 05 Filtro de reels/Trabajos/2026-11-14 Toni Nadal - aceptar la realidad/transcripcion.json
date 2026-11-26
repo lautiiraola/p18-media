@@ -1,0 +1,646 @@
+{
+ "idioma": "es",
+ "duracion": 56.19,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 7.18,
+   "texto": "la vida yo tengo que ser lo suficientemente valiente para aceptar la realidad y lo suficientemente",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.2,
+     "p": "la"
+    },
+    {
+     "ini": 0.2,
+     "fin": 0.64,
+     "p": "vida"
+    },
+    {
+     "ini": 0.64,
+     "fin": 0.94,
+     "p": "yo"
+    },
+    {
+     "ini": 0.94,
+     "fin": 1.12,
+     "p": "tengo"
+    },
+    {
+     "ini": 1.12,
+     "fin": 1.38,
+     "p": "que"
+    },
+    {
+     "ini": 1.38,
+     "fin": 2.14,
+     "p": "ser"
+    },
+    {
+     "ini": 2.14,
+     "fin": 2.5,
+     "p": "lo"
+    },
+    {
+     "ini": 2.5,
+     "fin": 3.24,
+     "p": "suficientemente"
+    },
+    {
+     "ini": 3.24,
+     "fin": 3.72,
+     "p": "valiente"
+    },
+    {
+     "ini": 3.72,
+     "fin": 4.02,
+     "p": "para"
+    },
+    {
+     "ini": 4.02,
+     "fin": 4.52,
+     "p": "aceptar"
+    },
+    {
+     "ini": 4.52,
+     "fin": 4.74,
+     "p": "la"
+    },
+    {
+     "ini": 4.74,
+     "fin": 5.22,
+     "p": "realidad"
+    },
+    {
+     "ini": 5.22,
+     "fin": 6.02,
+     "p": "y"
+    },
+    {
+     "ini": 6.02,
+     "fin": 6.3,
+     "p": "lo"
+    },
+    {
+     "ini": 6.3,
+     "fin": 7.18,
+     "p": "suficientemente"
+    }
+   ]
+  },
+  {
+   "ini": 7.18,
+   "fin": 16.38,
+   "texto": "decidido para intentar modificar esta realidad y sabiendo siempre no es el jazz duet o lo que",
+   "palabras": [
+    {
+     "ini": 7.18,
+     "fin": 7.92,
+     "p": "decidido"
+    },
+    {
+     "ini": 7.92,
+     "fin": 8.22,
+     "p": "para"
+    },
+    {
+     "ini": 8.22,
+     "fin": 9.22,
+     "p": "intentar"
+    },
+    {
+     "ini": 9.22,
+     "fin": 9.96,
+     "p": "modificar"
+    },
+    {
+     "ini": 9.96,
+     "fin": 10.22,
+     "p": "esta"
+    },
+    {
+     "ini": 10.22,
+     "fin": 10.92,
+     "p": "realidad"
+    },
+    {
+     "ini": 10.92,
+     "fin": 12.66,
+     "p": "y"
+    },
+    {
+     "ini": 12.66,
+     "fin": 13.12,
+     "p": "sabiendo"
+    },
+    {
+     "ini": 13.12,
+     "fin": 13.66,
+     "p": "siempre"
+    },
+    {
+     "ini": 13.66,
+     "fin": 14.26,
+     "p": "no"
+    },
+    {
+     "ini": 14.26,
+     "fin": 14.42,
+     "p": "es"
+    },
+    {
+     "ini": 14.42,
+     "fin": 14.62,
+     "p": "el"
+    },
+    {
+     "ini": 14.62,
+     "fin": 14.88,
+     "p": "jazz"
+    },
+    {
+     "ini": 14.88,
+     "fin": 15.26,
+     "p": "duet"
+    },
+    {
+     "ini": 15.26,
+     "fin": 16.0,
+     "p": "o"
+    },
+    {
+     "ini": 16.0,
+     "fin": 16.18,
+     "p": "lo"
+    },
+    {
+     "ini": 16.18,
+     "fin": 16.38,
+     "p": "que"
+    }
+   ]
+  },
+  {
+   "ini": 16.38,
+   "fin": 24.48,
+   "texto": "nos decían los de nike si quieres tú puedes si quieres no necesariamente puedes si jojkovic",
+   "palabras": [
+    {
+     "ini": 16.38,
+     "fin": 16.66,
+     "p": "nos"
+    },
+    {
+     "ini": 16.66,
+     "fin": 17.0,
+     "p": "decían"
+    },
+    {
+     "ini": 17.0,
+     "fin": 17.2,
+     "p": "los"
+    },
+    {
+     "ini": 17.2,
+     "fin": 17.38,
+     "p": "de"
+    },
+    {
+     "ini": 17.38,
+     "fin": 17.78,
+     "p": "nike"
+    },
+    {
+     "ini": 17.78,
+     "fin": 18.12,
+     "p": "si"
+    },
+    {
+     "ini": 18.12,
+     "fin": 18.42,
+     "p": "quieres"
+    },
+    {
+     "ini": 18.42,
+     "fin": 18.72,
+     "p": "tú"
+    },
+    {
+     "ini": 18.72,
+     "fin": 19.58,
+     "p": "puedes"
+    },
+    {
+     "ini": 19.58,
+     "fin": 20.54,
+     "p": "si"
+    },
+    {
+     "ini": 20.54,
+     "fin": 20.9,
+     "p": "quieres"
+    },
+    {
+     "ini": 20.9,
+     "fin": 21.26,
+     "p": "no"
+    },
+    {
+     "ini": 21.26,
+     "fin": 22.14,
+     "p": "necesariamente"
+    },
+    {
+     "ini": 22.14,
+     "fin": 23.3,
+     "p": "puedes"
+    },
+    {
+     "ini": 23.3,
+     "fin": 24.1,
+     "p": "si"
+    },
+    {
+     "ini": 24.1,
+     "fin": 24.48,
+     "p": "jojkovic"
+    }
+   ]
+  },
+  {
+   "ini": 25.92,
+   "fin": 33.36,
+   "texto": "o Alcaraz quiere ganar Roland Garros y Siner también uno de los dos no va a poder, seguro.",
+   "palabras": [
+    {
+     "ini": 25.92,
+     "fin": 26.54,
+     "p": "o"
+    },
+    {
+     "ini": 26.54,
+     "fin": 27.16,
+     "p": "Alcaraz"
+    },
+    {
+     "ini": 27.16,
+     "fin": 27.48,
+     "p": "quiere"
+    },
+    {
+     "ini": 27.48,
+     "fin": 28.14,
+     "p": "ganar"
+    },
+    {
+     "ini": 28.14,
+     "fin": 28.54,
+     "p": "Roland"
+    },
+    {
+     "ini": 28.54,
+     "fin": 28.9,
+     "p": "Garros"
+    },
+    {
+     "ini": 28.9,
+     "fin": 29.22,
+     "p": "y"
+    },
+    {
+     "ini": 29.22,
+     "fin": 29.5,
+     "p": "Siner"
+    },
+    {
+     "ini": 29.5,
+     "fin": 30.46,
+     "p": "también"
+    },
+    {
+     "ini": 30.46,
+     "fin": 30.9,
+     "p": "uno"
+    },
+    {
+     "ini": 30.9,
+     "fin": 31.04,
+     "p": "de"
+    },
+    {
+     "ini": 31.04,
+     "fin": 31.24,
+     "p": "los"
+    },
+    {
+     "ini": 31.24,
+     "fin": 31.38,
+     "p": "dos"
+    },
+    {
+     "ini": 31.38,
+     "fin": 31.56,
+     "p": "no"
+    },
+    {
+     "ini": 31.56,
+     "fin": 31.74,
+     "p": "va"
+    },
+    {
+     "ini": 31.74,
+     "fin": 31.76,
+     "p": "a"
+    },
+    {
+     "ini": 31.76,
+     "fin": 32.44,
+     "p": "poder,"
+    },
+    {
+     "ini": 33.08,
+     "fin": 33.36,
+     "p": "seguro."
+    }
+   ]
+  },
+  {
+   "ini": 33.88,
+   "fin": 42.46,
+   "texto": "Entonces si quieres no puedes. Una frase que yo le repetía a Rafael, hacer las cosas bien no nos",
+   "palabras": [
+    {
+     "ini": 33.88,
+     "fin": 34.24,
+     "p": "Entonces"
+    },
+    {
+     "ini": 34.24,
+     "fin": 34.48,
+     "p": "si"
+    },
+    {
+     "ini": 34.48,
+     "fin": 34.7,
+     "p": "quieres"
+    },
+    {
+     "ini": 34.7,
+     "fin": 34.92,
+     "p": "no"
+    },
+    {
+     "ini": 34.92,
+     "fin": 35.3,
+     "p": "puedes."
+    },
+    {
+     "ini": 37.02,
+     "fin": 37.64,
+     "p": "Una"
+    },
+    {
+     "ini": 37.64,
+     "fin": 38.14,
+     "p": "frase"
+    },
+    {
+     "ini": 38.14,
+     "fin": 38.4,
+     "p": "que"
+    },
+    {
+     "ini": 38.4,
+     "fin": 38.62,
+     "p": "yo"
+    },
+    {
+     "ini": 38.62,
+     "fin": 39.52,
+     "p": "le"
+    },
+    {
+     "ini": 39.52,
+     "fin": 39.86,
+     "p": "repetía"
+    },
+    {
+     "ini": 39.86,
+     "fin": 40.06,
+     "p": "a"
+    },
+    {
+     "ini": 40.06,
+     "fin": 40.34,
+     "p": "Rafael,"
+    },
+    {
+     "ini": 40.94,
+     "fin": 41.22,
+     "p": "hacer"
+    },
+    {
+     "ini": 41.22,
+     "fin": 41.52,
+     "p": "las"
+    },
+    {
+     "ini": 41.52,
+     "fin": 41.8,
+     "p": "cosas"
+    },
+    {
+     "ini": 41.8,
+     "fin": 42.06,
+     "p": "bien"
+    },
+    {
+     "ini": 42.06,
+     "fin": 42.32,
+     "p": "no"
+    },
+    {
+     "ini": 42.32,
+     "fin": 42.46,
+     "p": "nos"
+    }
+   ]
+  },
+  {
+   "ini": 42.46,
+   "fin": 49.35,
+   "texto": "va a garantizar el éxito, hacerlas mal casi siempre te garantiza el fracaso. Puestos a elegir,",
+   "palabras": [
+    {
+     "ini": 42.46,
+     "fin": 42.64,
+     "p": "va"
+    },
+    {
+     "ini": 42.64,
+     "fin": 42.86,
+     "p": "a"
+    },
+    {
+     "ini": 42.86,
+     "fin": 43.24,
+     "p": "garantizar"
+    },
+    {
+     "ini": 43.24,
+     "fin": 43.46,
+     "p": "el"
+    },
+    {
+     "ini": 43.46,
+     "fin": 44.48,
+     "p": "éxito,"
+    },
+    {
+     "ini": 44.76,
+     "fin": 45.36,
+     "p": "hacerlas"
+    },
+    {
+     "ini": 45.36,
+     "fin": 45.84,
+     "p": "mal"
+    },
+    {
+     "ini": 45.84,
+     "fin": 46.56,
+     "p": "casi"
+    },
+    {
+     "ini": 46.56,
+     "fin": 46.94,
+     "p": "siempre"
+    },
+    {
+     "ini": 46.94,
+     "fin": 47.2,
+     "p": "te"
+    },
+    {
+     "ini": 47.2,
+     "fin": 47.68,
+     "p": "garantiza"
+    },
+    {
+     "ini": 47.68,
+     "fin": 47.92,
+     "p": "el"
+    },
+    {
+     "ini": 47.92,
+     "fin": 48.4,
+     "p": "fracaso."
+    },
+    {
+     "ini": 48.5,
+     "fin": 48.84,
+     "p": "Puestos"
+    },
+    {
+     "ini": 48.84,
+     "fin": 49.04,
+     "p": "a"
+    },
+    {
+     "ini": 49.04,
+     "fin": 49.35,
+     "p": "elegir,"
+    }
+   ]
+  },
+  {
+   "ini": 50.15,
+   "fin": 55.73,
+   "texto": "elige hacerlas bien. Pues esta es la realidad a mi modo de ver de la vida.",
+   "palabras": [
+    {
+     "ini": 50.15,
+     "fin": 50.71,
+     "p": "elige"
+    },
+    {
+     "ini": 50.71,
+     "fin": 51.27,
+     "p": "hacerlas"
+    },
+    {
+     "ini": 51.27,
+     "fin": 51.57,
+     "p": "bien."
+    },
+    {
+     "ini": 52.41,
+     "fin": 52.69,
+     "p": "Pues"
+    },
+    {
+     "ini": 52.69,
+     "fin": 52.85,
+     "p": "esta"
+    },
+    {
+     "ini": 52.85,
+     "fin": 53.23,
+     "p": "es"
+    },
+    {
+     "ini": 53.23,
+     "fin": 53.87,
+     "p": "la"
+    },
+    {
+     "ini": 53.87,
+     "fin": 54.45,
+     "p": "realidad"
+    },
+    {
+     "ini": 54.45,
+     "fin": 54.73,
+     "p": "a"
+    },
+    {
+     "ini": 54.73,
+     "fin": 54.83,
+     "p": "mi"
+    },
+    {
+     "ini": 54.83,
+     "fin": 55.03,
+     "p": "modo"
+    },
+    {
+     "ini": 55.03,
+     "fin": 55.13,
+     "p": "de"
+    },
+    {
+     "ini": 55.13,
+     "fin": 55.25,
+     "p": "ver"
+    },
+    {
+     "ini": 55.25,
+     "fin": 55.45,
+     "p": "de"
+    },
+    {
+     "ini": 55.45,
+     "fin": 55.59,
+     "p": "la"
+    },
+    {
+     "ini": 55.59,
+     "fin": 55.73,
+     "p": "vida."
+    }
+   ]
+  }
+ ]
+}

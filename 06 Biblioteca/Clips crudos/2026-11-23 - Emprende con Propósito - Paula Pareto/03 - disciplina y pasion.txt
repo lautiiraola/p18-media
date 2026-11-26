@@ -1,0 +1,26 @@
+CLIP 03 — LA DISCIPLINA SALE DE HACER LO QUE TE APASIONA
+
+Inicio:     01:52.8  (112.82 s)
+Fin:        02:42.4  (162.39 s)
+Duración:   49.6 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LA DISCIPLINA SALE DE HACER LO QUE TE APASIONA   (en el reel, en lima: DISCIPLINA)
+Departamento:     Crecimiento personal
+Área:             Hábitos y constancia
+Tema:             Disciplina que nace de la pasión
+Fuente:           Emprende con Propósito - Paula Pareto — "Entrevista a Paula Pareto | EP 256"
+                  https://www.youtube.com/watch?v=wLjYIBPIjPI&t=112s
+
+Por qué lo elegí:
+Cuenta cómo estudió medicina y competía: la disciplina diaria sale de que le gusta lo que hace y de honrar el esfuerzo de su familia.
+
+Gancho (primeros 3 s): Bueno, yo creo que ahí es la pasión donde cuenta
+
+Notas para la revisión: Corta antes de la invitación a suscribirse.
+
+Transcripción del clip:
+que ahí es la pasión, no te cuenta, porque yo cuando empecé a estudiar medicina, mucha gente me decía, no, pero estudia educación física, que vos haces actividad física, sos deportista de alto rendimiento. Y la verdad es que la respuesta es, no, no me gusta educación física. A mí me gustó siempre y me apasionó siempre la medicina. Entonces, creo que lo que me llevó a tener esa disciplina en el día a día era que me gustaba lo que hacía, que tengo la suerte siempre digo haber nacido en una familia en un ámbito que me apoyó en la decisión de estudiar que pude estudiar entonces agradecida de poder tenerlo y un poco para honrar ese esfuerzo que también hicieron mis papás es que uno en el día a día pone el esfuerzo que hace falta y le sacas la disciplina de donde podés.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-23 - Emprende con Propósito - Paula Pareto/03 - disciplina y pasion.mp4" "LA *DISCIPLINA* SALE DE HACER LO QUE TE APASIONA" --fuente "Emprende con Propósito - Paula Pareto"

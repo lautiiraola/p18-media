@@ -1,0 +1,22 @@
+MOVIMIENTO Y COMPOSICIÓN
+
+Todo movimiento debe revelar, conectar o intensificar información.
+Usar zoom y paneo suaves sobre archivo cuando descubran detalle.
+Usar profundidad por capas sin convertir la pieza en collage gratuito.
+Mantener contenido crítico dentro del 80% central.
+Evitar texto en zonas de controles sociales.
+Usar cortes secos, máscaras o continuidad de objetos antes que transiciones vistosas.
+El lima marca acción o decisión; el azul, evidencia; el papel, documentos; el verde profundo, intimidad.
+
+IMÁGENES ROTATIVAS — REGLA FIJA (operador, 2026-11-24)
+- Más archivo por escena: 2–4 imágenes en escenas largas, con un cambio visual cada 1,5–3 s. Descargar más material del necesario y usarlo.
+- Entradas y salidas creativas y rotativas, nunca la misma dos veces seguidas: iris, barrido diagonal, persiana en tiras, polaroid que cae girando, zoom desde el fondo, deslizamiento y flip (runtime/src/components/Motion.tsx: ImageEnter, Gallery).
+- Sin espacios vacíos: tarjetas de archivo secundarias (polaroid, film, sin marco) en las zonas libres, con rotación leve, sombra y crédito. Nunca deben tapar subtítulos, el kicker ni las safe zones.
+- Cada imagen ilustra la frase exacta y tiene licencia registrada.
+
+
+REGLA: NUNCA REPETIR UNA IMAGEN (operador, 2026-11-24, revisión v04)
+"Hay imágenes que se repiten. Eso no puede pasar."
+- Ninguna imagen ni video aparece dos veces en el mismo video: ni de fondo, ni en galería, ni recortada distinto.
+- Todo build_props.py llama a assert_unique_images(scenes) (05_REMOTION_DESIGN_SYSTEM/runtime/scripts/p18_build.py). Si encuentra una repetición, corta el build.
+- Si falta material, conseguir más (con licencia) antes que repetir.

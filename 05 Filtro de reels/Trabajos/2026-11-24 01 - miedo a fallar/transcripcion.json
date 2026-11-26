@@ -1,0 +1,1006 @@
+{
+ "idioma": "en",
+ "duracion": 39.25,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 1.82,
+   "texto": "You think about game-winning shots",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.44,
+     "p": "You"
+    },
+    {
+     "ini": 0.44,
+     "fin": 0.68,
+     "p": "think"
+    },
+    {
+     "ini": 0.68,
+     "fin": 0.96,
+     "p": "about"
+    },
+    {
+     "ini": 0.96,
+     "fin": 1.26,
+     "p": "game"
+    },
+    {
+     "ini": 1.26,
+     "fin": 1.42,
+     "p": "-winning"
+    },
+    {
+     "ini": 1.42,
+     "fin": 1.82,
+     "p": "shots"
+    }
+   ]
+  },
+  {
+   "ini": 2.52,
+   "fin": 3.86,
+   "texto": "or game-winning free throws.",
+   "palabras": [
+    {
+     "ini": 2.52,
+     "fin": 2.88,
+     "p": "or"
+    },
+    {
+     "ini": 2.88,
+     "fin": 3.18,
+     "p": "game"
+    },
+    {
+     "ini": 3.18,
+     "fin": 3.36,
+     "p": "-winning"
+    },
+    {
+     "ini": 3.36,
+     "fin": 3.64,
+     "p": "free"
+    },
+    {
+     "ini": 3.64,
+     "fin": 3.86,
+     "p": "throws."
+    }
+   ]
+  },
+  {
+   "ini": 3.96,
+   "fin": 5.08,
+   "texto": "And people go to the free throw line",
+   "palabras": [
+    {
+     "ini": 3.96,
+     "fin": 4.08,
+     "p": "And"
+    },
+    {
+     "ini": 4.08,
+     "fin": 4.18,
+     "p": "people"
+    },
+    {
+     "ini": 4.18,
+     "fin": 4.36,
+     "p": "go"
+    },
+    {
+     "ini": 4.36,
+     "fin": 4.5,
+     "p": "to"
+    },
+    {
+     "ini": 4.5,
+     "fin": 4.66,
+     "p": "the"
+    },
+    {
+     "ini": 4.66,
+     "fin": 4.82,
+     "p": "free"
+    },
+    {
+     "ini": 4.82,
+     "fin": 4.98,
+     "p": "throw"
+    },
+    {
+     "ini": 4.98,
+     "fin": 5.08,
+     "p": "line"
+    }
+   ]
+  },
+  {
+   "ini": 5.08,
+   "fin": 5.98,
+   "texto": "and they're nervous about it.",
+   "palabras": [
+    {
+     "ini": 5.08,
+     "fin": 5.2,
+     "p": "and"
+    },
+    {
+     "ini": 5.2,
+     "fin": 5.32,
+     "p": "they're"
+    },
+    {
+     "ini": 5.32,
+     "fin": 5.64,
+     "p": "nervous"
+    },
+    {
+     "ini": 5.64,
+     "fin": 5.88,
+     "p": "about"
+    },
+    {
+     "ini": 5.88,
+     "fin": 5.98,
+     "p": "it."
+    }
+   ]
+  },
+  {
+   "ini": 5.98,
+   "fin": 7.24,
+   "texto": "Well, what are you really nervous about?",
+   "palabras": [
+    {
+     "ini": 5.98,
+     "fin": 6.12,
+     "p": "Well,"
+    },
+    {
+     "ini": 6.12,
+     "fin": 6.24,
+     "p": "what"
+    },
+    {
+     "ini": 6.24,
+     "fin": 6.34,
+     "p": "are"
+    },
+    {
+     "ini": 6.34,
+     "fin": 6.46,
+     "p": "you"
+    },
+    {
+     "ini": 6.46,
+     "fin": 6.66,
+     "p": "really"
+    },
+    {
+     "ini": 6.66,
+     "fin": 6.98,
+     "p": "nervous"
+    },
+    {
+     "ini": 6.98,
+     "fin": 7.24,
+     "p": "about?"
+    }
+   ]
+  },
+  {
+   "ini": 7.3,
+   "fin": 8.38,
+   "texto": "If you unpack that, okay,",
+   "palabras": [
+    {
+     "ini": 7.3,
+     "fin": 7.42,
+     "p": "If"
+    },
+    {
+     "ini": 7.42,
+     "fin": 7.56,
+     "p": "you"
+    },
+    {
+     "ini": 7.56,
+     "fin": 7.9,
+     "p": "unpack"
+    },
+    {
+     "ini": 7.9,
+     "fin": 8.12,
+     "p": "that,"
+    },
+    {
+     "ini": 8.18,
+     "fin": 8.38,
+     "p": "okay,"
+    }
+   ]
+  },
+  {
+   "ini": 8.7,
+   "fin": 10.12,
+   "texto": "you're nervous that you're gonna miss the shot.",
+   "palabras": [
+    {
+     "ini": 8.7,
+     "fin": 8.9,
+     "p": "you're"
+    },
+    {
+     "ini": 8.9,
+     "fin": 9.1,
+     "p": "nervous"
+    },
+    {
+     "ini": 9.1,
+     "fin": 9.26,
+     "p": "that"
+    },
+    {
+     "ini": 9.26,
+     "fin": 9.4,
+     "p": "you're"
+    },
+    {
+     "ini": 9.4,
+     "fin": 9.48,
+     "p": "gonna"
+    },
+    {
+     "ini": 9.48,
+     "fin": 9.7,
+     "p": "miss"
+    },
+    {
+     "ini": 9.7,
+     "fin": 9.9,
+     "p": "the"
+    },
+    {
+     "ini": 9.9,
+     "fin": 10.12,
+     "p": "shot."
+    }
+   ]
+  },
+  {
+   "ini": 10.76,
+   "fin": 12.46,
+   "texto": "All right, so you miss the shot, then what happens?",
+   "palabras": [
+    {
+     "ini": 10.76,
+     "fin": 10.86,
+     "p": "All"
+    },
+    {
+     "ini": 10.86,
+     "fin": 11.04,
+     "p": "right,"
+    },
+    {
+     "ini": 11.04,
+     "fin": 11.18,
+     "p": "so"
+    },
+    {
+     "ini": 11.18,
+     "fin": 11.32,
+     "p": "you"
+    },
+    {
+     "ini": 11.32,
+     "fin": 11.44,
+     "p": "miss"
+    },
+    {
+     "ini": 11.44,
+     "fin": 11.68,
+     "p": "the"
+    },
+    {
+     "ini": 11.68,
+     "fin": 11.92,
+     "p": "shot,"
+    },
+    {
+     "ini": 11.96,
+     "fin": 12.08,
+     "p": "then"
+    },
+    {
+     "ini": 12.08,
+     "fin": 12.24,
+     "p": "what"
+    },
+    {
+     "ini": 12.24,
+     "fin": 12.46,
+     "p": "happens?"
+    }
+   ]
+  },
+  {
+   "ini": 12.54,
+   "fin": 14.2,
+   "texto": "People are gonna be embarrassed.",
+   "palabras": [
+    {
+     "ini": 12.54,
+     "fin": 12.78,
+     "p": "People"
+    },
+    {
+     "ini": 12.78,
+     "fin": 12.92,
+     "p": "are"
+    },
+    {
+     "ini": 12.92,
+     "fin": 13.04,
+     "p": "gonna"
+    },
+    {
+     "ini": 13.04,
+     "fin": 13.6,
+     "p": "be"
+    },
+    {
+     "ini": 13.6,
+     "fin": 14.2,
+     "p": "embarrassed."
+    }
+   ]
+  },
+  {
+   "ini": 14.26,
+   "fin": 16.2,
+   "texto": "You're gonna be embarrassed because thousands of people,",
+   "palabras": [
+    {
+     "ini": 14.26,
+     "fin": 14.46,
+     "p": "You're"
+    },
+    {
+     "ini": 14.46,
+     "fin": 14.54,
+     "p": "gonna"
+    },
+    {
+     "ini": 14.54,
+     "fin": 14.72,
+     "p": "be"
+    },
+    {
+     "ini": 14.72,
+     "fin": 15.0,
+     "p": "embarrassed"
+    },
+    {
+     "ini": 15.0,
+     "fin": 15.42,
+     "p": "because"
+    },
+    {
+     "ini": 15.42,
+     "fin": 15.8,
+     "p": "thousands"
+    },
+    {
+     "ini": 15.8,
+     "fin": 16.02,
+     "p": "of"
+    },
+    {
+     "ini": 16.02,
+     "fin": 16.2,
+     "p": "people,"
+    }
+   ]
+  },
+  {
+   "ini": 16.36,
+   "fin": 17.44,
+   "texto": "millions of people see you miss the shot.",
+   "palabras": [
+    {
+     "ini": 16.36,
+     "fin": 16.4,
+     "p": "millions"
+    },
+    {
+     "ini": 16.4,
+     "fin": 16.46,
+     "p": "of"
+    },
+    {
+     "ini": 16.46,
+     "fin": 16.64,
+     "p": "people"
+    },
+    {
+     "ini": 16.64,
+     "fin": 16.8,
+     "p": "see"
+    },
+    {
+     "ini": 16.8,
+     "fin": 16.94,
+     "p": "you"
+    },
+    {
+     "ini": 16.94,
+     "fin": 17.06,
+     "p": "miss"
+    },
+    {
+     "ini": 17.06,
+     "fin": 17.22,
+     "p": "the"
+    },
+    {
+     "ini": 17.22,
+     "fin": 17.44,
+     "p": "shot."
+    }
+   ]
+  },
+  {
+   "ini": 17.58,
+   "fin": 18.54,
+   "texto": "All right, and then what?",
+   "palabras": [
+    {
+     "ini": 17.58,
+     "fin": 17.78,
+     "p": "All"
+    },
+    {
+     "ini": 17.78,
+     "fin": 17.98,
+     "p": "right,"
+    },
+    {
+     "ini": 18.04,
+     "fin": 18.18,
+     "p": "and"
+    },
+    {
+     "ini": 18.18,
+     "fin": 18.36,
+     "p": "then"
+    },
+    {
+     "ini": 18.36,
+     "fin": 18.54,
+     "p": "what?"
+    }
+   ]
+  },
+  {
+   "ini": 18.7,
+   "fin": 20.08,
+   "texto": "People are gonna talk bad about you.",
+   "palabras": [
+    {
+     "ini": 18.7,
+     "fin": 18.9,
+     "p": "People"
+    },
+    {
+     "ini": 18.9,
+     "fin": 19.04,
+     "p": "are"
+    },
+    {
+     "ini": 19.04,
+     "fin": 19.08,
+     "p": "gonna"
+    },
+    {
+     "ini": 19.08,
+     "fin": 19.28,
+     "p": "talk"
+    },
+    {
+     "ini": 19.28,
+     "fin": 19.52,
+     "p": "bad"
+    },
+    {
+     "ini": 19.52,
+     "fin": 19.78,
+     "p": "about"
+    },
+    {
+     "ini": 19.78,
+     "fin": 20.08,
+     "p": "you."
+    }
+   ]
+  },
+  {
+   "ini": 20.66,
+   "fin": 21.56,
+   "texto": "Okay, right?",
+   "palabras": [
+    {
+     "ini": 20.66,
+     "fin": 21.02,
+     "p": "Okay,"
+    },
+    {
+     "ini": 21.28,
+     "fin": 21.56,
+     "p": "right?"
+    }
+   ]
+  },
+  {
+   "ini": 21.56,
+   "fin": 22.46,
+   "texto": "And so you're looking at it and you go,",
+   "palabras": [
+    {
+     "ini": 21.56,
+     "fin": 21.7,
+     "p": "And"
+    },
+    {
+     "ini": 21.7,
+     "fin": 21.8,
+     "p": "so"
+    },
+    {
+     "ini": 21.8,
+     "fin": 21.94,
+     "p": "you're"
+    },
+    {
+     "ini": 21.94,
+     "fin": 22.06,
+     "p": "looking"
+    },
+    {
+     "ini": 22.06,
+     "fin": 22.2,
+     "p": "at"
+    },
+    {
+     "ini": 22.2,
+     "fin": 22.3,
+     "p": "it"
+    },
+    {
+     "ini": 22.3,
+     "fin": 22.3,
+     "p": "and"
+    },
+    {
+     "ini": 22.3,
+     "fin": 22.34,
+     "p": "you"
+    },
+    {
+     "ini": 22.34,
+     "fin": 22.46,
+     "p": "go,"
+    }
+   ]
+  },
+  {
+   "ini": 22.78,
+   "fin": 24.22,
+   "texto": "are those things even important?",
+   "palabras": [
+    {
+     "ini": 22.78,
+     "fin": 22.88,
+     "p": "are"
+    },
+    {
+     "ini": 22.88,
+     "fin": 23.08,
+     "p": "those"
+    },
+    {
+     "ini": 23.08,
+     "fin": 23.34,
+     "p": "things"
+    },
+    {
+     "ini": 23.34,
+     "fin": 23.72,
+     "p": "even"
+    },
+    {
+     "ini": 23.72,
+     "fin": 24.22,
+     "p": "important?"
+    }
+   ]
+  },
+  {
+   "ini": 25.4,
+   "fin": 25.98,
+   "texto": "You know what I mean?",
+   "palabras": [
+    {
+     "ini": 25.4,
+     "fin": 25.52,
+     "p": "You"
+    },
+    {
+     "ini": 25.52,
+     "fin": 25.66,
+     "p": "know"
+    },
+    {
+     "ini": 25.66,
+     "fin": 25.66,
+     "p": "what"
+    },
+    {
+     "ini": 25.66,
+     "fin": 25.8,
+     "p": "I"
+    },
+    {
+     "ini": 25.8,
+     "fin": 25.98,
+     "p": "mean?"
+    }
+   ]
+  },
+  {
+   "ini": 26.08,
+   "fin": 27.86,
+   "texto": "If that is my fear, like what is,",
+   "palabras": [
+    {
+     "ini": 26.08,
+     "fin": 26.38,
+     "p": "If"
+    },
+    {
+     "ini": 26.38,
+     "fin": 26.6,
+     "p": "that"
+    },
+    {
+     "ini": 26.6,
+     "fin": 26.78,
+     "p": "is"
+    },
+    {
+     "ini": 26.78,
+     "fin": 27.02,
+     "p": "my"
+    },
+    {
+     "ini": 27.02,
+     "fin": 27.18,
+     "p": "fear,"
+    },
+    {
+     "ini": 27.36,
+     "fin": 27.44,
+     "p": "like"
+    },
+    {
+     "ini": 27.44,
+     "fin": 27.64,
+     "p": "what"
+    },
+    {
+     "ini": 27.64,
+     "fin": 27.86,
+     "p": "is,"
+    }
+   ]
+  },
+  {
+   "ini": 28.2,
+   "fin": 29.76,
+   "texto": "you're worried about letting your teammates down?",
+   "palabras": [
+    {
+     "ini": 28.2,
+     "fin": 28.4,
+     "p": "you're"
+    },
+    {
+     "ini": 28.4,
+     "fin": 28.46,
+     "p": "worried"
+    },
+    {
+     "ini": 28.46,
+     "fin": 28.64,
+     "p": "about"
+    },
+    {
+     "ini": 28.64,
+     "fin": 28.78,
+     "p": "letting"
+    },
+    {
+     "ini": 28.78,
+     "fin": 29.08,
+     "p": "your"
+    },
+    {
+     "ini": 29.08,
+     "fin": 29.32,
+     "p": "teammates"
+    },
+    {
+     "ini": 29.32,
+     "fin": 29.76,
+     "p": "down?"
+    }
+   ]
+  },
+  {
+   "ini": 29.76,
+   "fin": 33.72,
+   "texto": "Okay, have you let them down before? Oh, I'm sure and practice and things of that nature, right?",
+   "palabras": [
+    {
+     "ini": 29.76,
+     "fin": 30.28,
+     "p": "Okay,"
+    },
+    {
+     "ini": 30.36,
+     "fin": 30.44,
+     "p": "have"
+    },
+    {
+     "ini": 30.44,
+     "fin": 30.56,
+     "p": "you"
+    },
+    {
+     "ini": 30.56,
+     "fin": 30.68,
+     "p": "let"
+    },
+    {
+     "ini": 30.68,
+     "fin": 30.84,
+     "p": "them"
+    },
+    {
+     "ini": 30.84,
+     "fin": 31.1,
+     "p": "down"
+    },
+    {
+     "ini": 31.1,
+     "fin": 31.52,
+     "p": "before?"
+    },
+    {
+     "ini": 31.76,
+     "fin": 31.78,
+     "p": "Oh,"
+    },
+    {
+     "ini": 31.78,
+     "fin": 31.98,
+     "p": "I'm"
+    },
+    {
+     "ini": 31.98,
+     "fin": 32.2,
+     "p": "sure"
+    },
+    {
+     "ini": 32.2,
+     "fin": 32.46,
+     "p": "and"
+    },
+    {
+     "ini": 32.46,
+     "fin": 32.74,
+     "p": "practice"
+    },
+    {
+     "ini": 32.74,
+     "fin": 32.9,
+     "p": "and"
+    },
+    {
+     "ini": 32.9,
+     "fin": 33.0,
+     "p": "things"
+    },
+    {
+     "ini": 33.0,
+     "fin": 33.16,
+     "p": "of"
+    },
+    {
+     "ini": 33.16,
+     "fin": 33.3,
+     "p": "that"
+    },
+    {
+     "ini": 33.3,
+     "fin": 33.52,
+     "p": "nature,"
+    },
+    {
+     "ini": 33.68,
+     "fin": 33.72,
+     "p": "right?"
+    }
+   ]
+  },
+  {
+   "ini": 33.78,
+   "fin": 38.32,
+   "texto": "They're still there. Yeah, you know, and so when you're able to unpack it you kind of look at it for what it is",
+   "palabras": [
+    {
+     "ini": 33.78,
+     "fin": 33.98,
+     "p": "They're"
+    },
+    {
+     "ini": 33.98,
+     "fin": 34.16,
+     "p": "still"
+    },
+    {
+     "ini": 34.16,
+     "fin": 34.5,
+     "p": "there."
+    },
+    {
+     "ini": 34.68,
+     "fin": 34.9,
+     "p": "Yeah,"
+    },
+    {
+     "ini": 35.26,
+     "fin": 35.26,
+     "p": "you"
+    },
+    {
+     "ini": 35.26,
+     "fin": 35.6,
+     "p": "know,"
+    },
+    {
+     "ini": 35.76,
+     "fin": 35.96,
+     "p": "and"
+    },
+    {
+     "ini": 35.96,
+     "fin": 36.06,
+     "p": "so"
+    },
+    {
+     "ini": 36.06,
+     "fin": 36.18,
+     "p": "when"
+    },
+    {
+     "ini": 36.18,
+     "fin": 36.38,
+     "p": "you're"
+    },
+    {
+     "ini": 36.38,
+     "fin": 36.48,
+     "p": "able"
+    },
+    {
+     "ini": 36.48,
+     "fin": 36.68,
+     "p": "to"
+    },
+    {
+     "ini": 36.68,
+     "fin": 37.02,
+     "p": "unpack"
+    },
+    {
+     "ini": 37.02,
+     "fin": 37.14,
+     "p": "it"
+    },
+    {
+     "ini": 37.14,
+     "fin": 37.24,
+     "p": "you"
+    },
+    {
+     "ini": 37.24,
+     "fin": 37.4,
+     "p": "kind"
+    },
+    {
+     "ini": 37.4,
+     "fin": 37.48,
+     "p": "of"
+    },
+    {
+     "ini": 37.48,
+     "fin": 37.58,
+     "p": "look"
+    },
+    {
+     "ini": 37.58,
+     "fin": 37.68,
+     "p": "at"
+    },
+    {
+     "ini": 37.68,
+     "fin": 37.76,
+     "p": "it"
+    },
+    {
+     "ini": 37.76,
+     "fin": 37.88,
+     "p": "for"
+    },
+    {
+     "ini": 37.88,
+     "fin": 38.0,
+     "p": "what"
+    },
+    {
+     "ini": 38.0,
+     "fin": 38.18,
+     "p": "it"
+    },
+    {
+     "ini": 38.18,
+     "fin": 38.32,
+     "p": "is"
+    }
+   ]
+  },
+  {
+   "ini": 38.32,
+   "fin": 39.06,
+   "texto": "Which is really nothing",
+   "palabras": [
+    {
+     "ini": 38.32,
+     "fin": 38.48,
+     "p": "Which"
+    },
+    {
+     "ini": 38.48,
+     "fin": 38.62,
+     "p": "is"
+    },
+    {
+     "ini": 38.62,
+     "fin": 38.82,
+     "p": "really"
+    },
+    {
+     "ini": 38.82,
+     "fin": 39.06,
+     "p": "nothing"
+    }
+   ]
+  }
+ ]
+}

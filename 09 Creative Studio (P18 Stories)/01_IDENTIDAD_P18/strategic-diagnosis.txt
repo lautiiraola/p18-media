@@ -1,0 +1,450 @@
+# P18 Creative Studio — ETAPA 2: diagnóstico estratégico
+
+**Fecha:** 24 de noviembre de 2026  
+**Base:** investigación documentada en ETAPA 1.  
+**Objetivo:** convertir hallazgos en decisiones creativas antes de diseñar P18 Stories.  
+**Fuera de alcance:** identidad audiovisual definitiva, mockups, sistema Remotion, prompt maestro y piloto.
+
+---
+
+## 1. Diagnóstico central
+
+P18 no necesita “hacer videos como Noticias Explicadas”. Necesita resolver un problema más específico:
+
+> **¿Cómo transformar historias humanas verificadas en piezas que un joven quiera terminar, recordar y compartir, sin reducirlas a autoayuda ni convertirlas en una clase?**
+
+Noticias Explicadas ofrece una respuesta excelente para **explicar**. P18 debe construir una respuesta propia para **hacer sentir, comprender y pensar**.
+
+La intersección correcta no es:
+
+> P18 + muñecos animados + subtítulos.
+
+La intersección correcta es:
+
+> **Humanidad P18 + ingeniería narrativa de Noticias Explicadas + evidencia documental.**
+
+Esta distinción es decisiva. Copiar la superficie produciría piezas prolijas pero infantiles y derivativas. Adaptar el sistema produciría una marca audiovisual reconocible y escalable.
+
+---
+
+## 2. Similitudes que hacen viable la referencia
+
+| Dimensión | Proyecto 18 | Noticias Explicadas | Oportunidad compartida |
+|---|---|---|---|
+| Punto de partida | La audiencia no tiene todas las respuestas | La audiencia no conoce todo el contexto | Empezar sin presuponer conocimiento |
+| Promesa | Dar herramientas para avanzar | Dar claridad para comprender | Reducir complejidad sin subestimar |
+| Lenguaje | Directo, simple, rioplatense | Directo, simple, sin tecnicismos | Frases cortas y concretas |
+| Relación con la audiencia | Cercanía y acompañamiento | Explicación a la misma altura | Evitar tono institucional o profesoral |
+| Potencial visual | Decisiones, caminos, intentos, aprendizajes | Causas, cifras, procesos, contrastes | Convertir abstracciones en acciones visibles |
+| Credibilidad | Experiencias y herramientas reales | Fuentes contrastadas | Mostrar por qué hay que creer la historia |
+| Retención | Preguntas relevantes para jóvenes | Anomalías y contradicciones | Abrir con una tensión real |
+
+La referencia funciona porque ambas marcas quieren que algo complejo se vuelva comprensible. La diferencia es qué debe comprenderse: Noticias Explicadas ordena hechos; P18 debe ordenar una transformación humana.
+
+---
+
+## 3. Diferencias que impiden una copia literal
+
+| Dimensión | Noticias Explicadas | P18 Stories necesita |
+|---|---|---|
+| Unidad narrativa | Un acontecimiento | Una persona y una decisión |
+| Motor | Qué pasó y por qué | Qué estaba en juego y qué hizo |
+| Tiempo | Actualidad inmediata | Trayectorias de meses o años |
+| Emoción | Curiosidad y comprensión | Curiosidad, identificación, tensión y resonancia |
+| Visual principal | Ilustración explicativa | Archivo real + diseño explicativo |
+| Protagonista | El hecho | La persona, sin convertirla en héroe perfecto |
+| Cierre | Consecuencia/caveat informativo | Idea abierta que reordena la historia |
+| Duración | Aproximadamente 60–70 segundos | Variable según densidad y material |
+| Riesgo principal | Simplificar una noticia | Idealizar o manipular una vida |
+
+### Conclusión
+
+La referencia debe influir más en la **arquitectura invisible** que en la apariencia visible.
+
+---
+
+## 4. La tensión de marca que P18 debe resolver
+
+P18 vive entre cuatro pares de fuerzas:
+
+### Inspirar / no prometer
+
+La historia debe producir energía, pero no vender la idea de que todo depende de la voluntad individual. Contexto, privilegio, azar, apoyo y condiciones materiales también existen.
+
+### Enseñar / no dar clase
+
+El espectador debe aprender algo, pero mediante la historia. Si la moraleja puede separarse del protagonista sin perder nada, la pieza probablemente sea genérica.
+
+### Diseñar / no fabricar evidencia
+
+La animación puede explicar, conectar y dar ritmo. No debe inventar una foto histórica, una emoción o una escena que se presente como real.
+
+### Escalar / no volverse fórmula
+
+Se necesita una plantilla técnica, pero no una plantilla emocional. La marca debe repetirse; la historia no.
+
+Estas tensiones no son problemas a eliminar. Son controles de calidad que deben permanecer activos en todo el sistema.
+
+---
+
+## 5. Tres enfoques posibles
+
+## Enfoque A — “Noticias Explicadas para emprendedores”
+
+### Descripción
+
+Ilustración animada dominante, avatares de protagonistas, duración cercana a un minuto, subtítulos y visualización de datos.
+
+### Ventajas
+
+- Fácil de sistematizar.
+- Identidad visual inmediata.
+- Menor dependencia de archivo.
+- Producción potencialmente rápida una vez creada la plantilla.
+
+### Problemas
+
+- Es el enfoque más parecido a una copia.
+- Infantiliza o uniforma a personas reales.
+- Reduce la carga emocional.
+- Incentiva inventar escenas cuando falta material.
+- Hace que la tecnología se note más que la historia.
+
+### Veredicto
+
+**Descartado como dirección principal.** Puede aportar recursos puntuales, no gobernar el formato.
+
+---
+
+## Enfoque B — “Mini documental social”
+
+### Descripción
+
+Archivo, entrevistas, fotos, voz real, música emocional y montaje cinematográfico; diseño gráfico reducido a fechas y subtítulos.
+
+### Ventajas
+
+- Máxima humanidad.
+- Mayor credibilidad documental.
+- Permite silencio, gesto y emoción.
+- Reduce el riesgo de representar incorrectamente a una persona.
+
+### Problemas
+
+- Depende mucho de encontrar buen archivo.
+- La identidad puede variar demasiado entre historias.
+- Es difícil de escalar.
+- Puede parecer una cuenta documental más.
+- Los conceptos abstractos quedan peor explicados.
+
+### Veredicto
+
+**Válido, pero insuficiente como sistema rector.** Debe aportar la capa humana.
+
+---
+
+## Enfoque C — “Evidencia humana + explicación diseñada”
+
+### Descripción
+
+La persona y sus materiales reales aportan verdad; la animación y la tipografía aportan claridad, ritmo y marca. Cada historia se construye alrededor de una decisión verificable.
+
+### Ventajas
+
+- Combina humanidad y escalabilidad.
+- Puede reconocerse como P18 sin copiar a la referencia.
+- La animación tiene una función concreta.
+- Admite distintas densidades y duraciones.
+- Preserva documentos, fechas y fuentes.
+- Funciona con protagonistas famosos o desconocidos.
+
+### Riesgos
+
+- Requiere disciplina para integrar capas sin producir collage.
+- Exige un sistema de archivo y derechos.
+- La selección de historias debe ser más estricta.
+- Necesita una dirección de arte que unifique materiales heterogéneos.
+
+### Veredicto
+
+**Dirección recomendada.** Es la única que resuelve simultáneamente identidad, humanidad, credibilidad y escalabilidad.
+
+---
+
+## 6. Territorio creativo recomendado
+
+### Definición
+
+P18 Stories cuenta historias verdaderas de personas que cambiaron su trayectoria mediante una decisión, una serie de intentos o una forma distinta de mirar un problema.
+
+No busca demostrar que “todo es posible”. Busca mostrar:
+
+- Qué estaba pasando realmente.
+- Qué no sabía todavía la persona.
+- Qué obstáculo concreto enfrentó.
+- Qué decisión tomó.
+- Qué costo o incertidumbre asumió.
+- Qué ocurrió después.
+- Qué parte del resultado dependió de ella y qué parte no.
+
+### Promesa para el espectador
+
+> “En menos de dos minutos vas a entender una decisión que cambió una trayectoria y vas a quedarte pensando qué harías vos.”
+
+Esta frase es una hipótesis estratégica, no un claim publicitario definitivo.
+
+---
+
+## 7. Principios creativos rectores
+
+## 7.1. Historia antes que moraleja
+
+La moraleja debe emerger de los hechos. Si el guion declara la enseñanza antes de mostrar la decisión, pierde fuerza.
+
+## 7.2. Una decisión por pieza
+
+Una vida contiene demasiadas historias. Cada video debe elegir una decisión o un conflicto dominante.
+
+## 7.3. El resultado no es el hook automático
+
+“Hoy vale millones” suele ser menos interesante que “durante dos años nadie quiso usarlo”. El hook debe contener tensión, no solamente estatus.
+
+## 7.4. Evidencia en pantalla
+
+Siempre que exista, mostrar:
+
+- Foto fechada.
+- Documento.
+- Producto o prototipo.
+- Entrevista.
+- Artículo de época.
+- Lugar real.
+- Número con fuente.
+
+La evidencia no debe quedar escondida en la descripción.
+
+## 7.5. Animar relaciones, no decorar
+
+La animación se justifica cuando explica tiempo, causalidad, escala, comparación o cambio. No cuando solo agrega movimiento.
+
+## 7.6. La persona no es un ícono plano
+
+Debe conservar contradicciones, dudas, errores y contexto. La edición no debe convertirla en un arquetipo perfecto.
+
+## 7.7. Cierre sin sermón
+
+El final puede formular una pregunta, revelar una paradoja o regresar al hook con un significado nuevo.
+
+## 7.8. Claridad sin velocidad artificial
+
+No todo segundo necesita un corte. Los momentos importantes necesitan espacio; los momentos explicativos necesitan progresión.
+
+---
+
+## 8. Qué debe reconocer el espectador antes del logo
+
+Todavía no corresponde definir el diseño final, pero sí las señales que debe producir:
+
+1. Una pregunta o afirmación que contiene una contradicción.
+2. Un subrayado o foco lima con intención semántica.
+3. Una mezcla ordenada de material real y explicación gráfica.
+4. Fechas, cifras o documentos tratados como evidencia.
+5. Una voz clara, argentina y no grandilocuente.
+6. Un cierre que devuelve agencia al espectador sin prometer resultados.
+
+La reconocibilidad no puede depender únicamente de una paleta o un logo. Debe provenir de una manera consistente de contar.
+
+---
+
+## 9. Arquitectura editorial preliminar
+
+No es todavía la estructura narrativa final, sino una clasificación para seleccionar historias.
+
+## Tipo 1 — La decisión
+
+Una acción puntual modifica el rumbo.
+
+Ejemplos de conflicto:
+
+- Mostrar un prototipo imperfecto.
+- Cambiar de carrera.
+- Llamar a un primer cliente.
+- Abandonar una idea defendida durante años.
+
+## Tipo 2 — Los intentos
+
+El valor está en la repetición, el aprendizaje o la corrección.
+
+Condición: no romantizar perseverar cuando la evidencia exigía cambiar.
+
+## Tipo 3 — El problema cercano
+
+La persona observa algo cotidiano que los demás aceptaban como normal y construye una respuesta.
+
+Es especialmente afín a la filosofía P18 porque conecta curiosidad con ejecución.
+
+## Tipo 4 — La combinación improbable
+
+Dos intereses, experiencias o habilidades se cruzan.
+
+Ejemplo ya visible en P18: partería + programación + simuladores médicos.
+
+## Tipo 5 — El cambio de criterio
+
+El protagonista no gana por insistir más, sino por entender que estaba equivocado y cambiar.
+
+Este tipo protege a P18 de glorificar obstinación como si fuera perseverancia.
+
+---
+
+## 10. Criterios para seleccionar una historia
+
+Una historia avanza solamente si responde “sí” a la mayoría de estas preguntas:
+
+- ¿Existe una decisión identificable?
+- ¿Hay conflicto, fricción o incertidumbre real?
+- ¿Podemos verificar los hechos centrales?
+- ¿Existen al menos dos fuentes y, preferentemente, una fuente primaria?
+- ¿Hay material visual auténtico?
+- ¿La historia aporta una idea que no se reduce a “esforzate”?
+- ¿El protagonista conserva humanidad y contradicción?
+- ¿La historia habla a un joven sin exigir que quiera fundar una empresa?
+- ¿Puede resumirse en una pregunta potente pero honesta?
+- ¿El final modifica el significado del comienzo?
+
+### Causas de descarte
+
+- Solo hay una frase inspiradora.
+- El interés depende exclusivamente de la fama.
+- No existe evidencia visual ni documental.
+- El conflicto debe exagerarse para resultar atractivo.
+- El resultado es económico y no hay aprendizaje más profundo.
+- El contenido requiere usar material sin derechos o recreaciones engañosas.
+
+---
+
+## 11. Riesgos y controles
+
+| Riesgo | Síntoma | Control propuesto |
+|---|---|---|
+| Motivación genérica | El guion podría aplicarse a cualquier persona | Exigir decisiones, fechas y detalles irreemplazables |
+| Heroificación | Se borran ayudas, privilegios o azar | Incluir contexto y contribuciones de terceros |
+| Infantilización | Avatares sustituyen a la persona | Priorizar archivo real; ilustrar solo relaciones abstractas |
+| Copia de referencia | La pieza parece de Noticias Explicadas con otro logo | Usar la paleta, voz, evidencia y gramática de P18 |
+| Saturación | Todo se mueve y nada pesa | Asignar intención narrativa a cada animación |
+| Rigidez de plantilla | Todas las historias tienen el mismo pulso emocional | Mantener módulos técnicos, variar estructura y respiración |
+| Error factual | Una buena historia se construye sobre un dato débil | Matriz de fuentes y bloqueo editorial antes del guion |
+| Archivo incorrecto | Una imagen plausible se interpreta como real | Registrar origen, fecha, licencia y correspondencia |
+| Tono paternalista | El adulto explica qué debe hacer el joven | Mostrar decisiones; reducir instrucciones directas |
+
+---
+
+## 12. Sistema de contenido recomendado
+
+P18 Stories no debería ser el único formato del canal. Conviene separar funciones:
+
+### P18 Stories
+
+- Historias completas.
+- Alta investigación.
+- Producción más exigente.
+- Publicación selectiva.
+
+### P18 Respuestas
+
+- Fragmentos de entrevistas actuales.
+- Una pregunta, una respuesta, una idea.
+- Mantiene frecuencia y aprovecha material existente.
+
+### P18 Herramientas
+
+- Recursos concretos de talleres.
+- Más pedagógico, pero breve y aplicable.
+
+### P18 En proceso
+
+- Jóvenes, talleres, prototipos y proyectos mientras todavía suceden.
+- Evita que la marca solo muestre historias cerradas y exitosas.
+
+Esta separación permite que P18 Stories preserve prestigio narrativo sin obligar a que todo contenido sea una mini biografía.
+
+---
+
+## 13. Qué no debe convertirse en P18 Stories
+
+- Un consejo aislado de un empresario.
+- Un resumen de Wikipedia con música emocional.
+- Una cronología completa de una persona famosa.
+- Una lista de fracasos seguida de un gran éxito.
+- Una noticia de negocios sin conexión humana.
+- Una pieza construida solo porque existe buen archivo.
+- Una historia en la que el aprendizaje fue agregado al final por marketing.
+
+---
+
+## 14. Indicadores de calidad creativa
+
+Antes de evaluar métricas de plataforma, cada pieza debe superar esta prueba editorial:
+
+| Dimensión | Pregunta de evaluación |
+|---|---|
+| Hook | ¿Promete una pregunta real que el video responde? |
+| Historia | ¿Hay conflicto y decisión, no solo información? |
+| Evidencia | ¿El espectador puede distinguir hechos, interpretación y recreación? |
+| Visualidad | ¿Cada recurso ayuda a comprender o sentir algo específico? |
+| Voz P18 | ¿Suena cercana, ambiciosa y honesta sin paternalismo? |
+| Retención | ¿Cada bloque abre o resuelve una tensión? |
+| Cierre | ¿Deja una idea, no una moraleja prefabricada? |
+| Singularidad | ¿Este video podría confundirse con otra cuenta? |
+
+### Métricas que importarán después de publicar
+
+- Retención a 1, 3, 10 y 30 segundos.
+- Porcentaje completado.
+- Reproducciones repetidas.
+- Compartidos por alcance.
+- Guardados por alcance.
+- Comentarios que discuten la idea, no solo elogian al protagonista.
+- Visitas al perfil y registros atribuibles.
+
+Los likes son secundarios para validar este sistema.
+
+---
+
+## 15. Decisiones recomendadas para aprobar
+
+### Recomiendo aprobar
+
+1. **Enfoque híbrido:** evidencia humana + explicación diseñada.
+2. **Una decisión central por historia.**
+3. **Archivo real como primera opción.**
+4. **Animación para explicar, no para falsificar.**
+5. **Duración variable, con 60–120 segundos como rango inicial de prueba.**
+6. **Voz argentina directa, sin grandilocuencia.**
+7. **Cierre reflexivo sin “vos también podés”.**
+8. **Dos fuentes mínimas y fuente primaria cuando exista.**
+9. **P18 Stories como formato premium, acompañado por formatos de menor costo.**
+
+### Recomiendo descartar
+
+1. Copiar los avatares y degradados de Noticias Explicadas.
+2. Forzar todas las historias a 60 segundos.
+3. Usar IA generativa para recrear visualmente a personas reales sin rotulación y justificación.
+4. Elegir historias por fama o fortuna.
+5. Convertir cada pieza en una lección explícita.
+6. Usar la misma microacción como cierre de todos los videos.
+
+---
+
+## 16. Dictamen de dirección creativa
+
+La mejor versión de P18 Stories no se parece a una cuenta motivacional ni a una cuenta de noticias. Se parece a una productora de historias de decisiones:
+
+- Investiga como un medio.
+- Observa como un documental.
+- Explica como un diseñador de información.
+- Habla como P18.
+
+La recomendación para la ETAPA 3 es desarrollar una identidad visual y narrativa sobre el **Enfoque C: evidencia humana + explicación diseñada**, utilizando la marca existente de P18 como base y no como decoración añadida al final.
+
+Antes de avanzar, el equipo debe aprobar o corregir ese dictamen. La siguiente etapa convertirá esta decisión en tono, ritmo, subtítulos, animación, transiciones, sonido, branding y mockups concretos.

@@ -1,0 +1,40 @@
+{
+ "clips": [
+  {
+   "ini": 186.3,
+   "fin": 238.6,
+   "titulo": "¿EMPRENDÉS PORQUE QUERÉS O PORQUE *TODOS LO HACEN*?",
+   "departamento": "Crecimiento personal",
+   "area": "Autoconocimiento",
+   "tema": "Emprender por pasión, no por moda",
+   "slug": "porque todos lo hacen",
+   "gancho": "Creo que hay que ver si realmente emprende porque quiere o porque todo el mundo lo hace",
+   "porque": "Gancho con una pregunta directa; Pareto distingue pasión de moda, dice que sin foco se falla y que existe el plan B. Se entiende sola.",
+   "notas": "Sin cifras ni promesas."
+  },
+  {
+   "ini": 262.5,
+   "fin": 294.1,
+   "titulo": "NO QUIERO SER MEJOR QUE NADIE: QUIERO SER MEJOR QUE *YO MISMA*",
+   "departamento": "Deporte y mentalidad",
+   "area": "Mentalidad aplicada",
+   "tema": "Competir para mejorar, no para ganarle al otro",
+   "slug": "mejor que yo misma",
+   "gancho": "El saludo inicial y el saludo final en judo",
+   "porque": "Una idea completa sobre el rival como parte del juego y la meta de superarse a uno mismo. Valores del deporte aplicados a la vida.",
+   "notas": "Dura cerca de 31 s."
+  },
+  {
+   "ini": 113.0,
+   "fin": 161.9,
+   "titulo": "LA *DISCIPLINA* SALE DE HACER LO QUE TE APASIONA",
+   "departamento": "Crecimiento personal",
+   "area": "Hábitos y constancia",
+   "tema": "Disciplina que nace de la pasión",
+   "slug": "disciplina y pasion",
+   "gancho": "Bueno, yo creo que ahí es la pasión donde cuenta",
+   "porque": "Cuenta cómo estudió medicina y competía: la disciplina diaria sale de que le gusta lo que hace y de honrar el esfuerzo de su familia.",
+   "notas": "Corta antes de la invitación a suscribirse."
+  }
+ ]
+}

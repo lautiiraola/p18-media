@@ -1,0 +1,18 @@
+PAQUETE DE ENTREGA
+
+Entregar la carpeta P18_CREATIVE_STUDIO completa a Claude Code.
+
+Primer mensaje recomendado:
+
+“Leé START_HERE.txt y CLAUDE.txt completos. Después mostrame el estado del estudio y preguntame si quiero indicar una historia o ejecutar selección autónoma. No uses Canva. El resultado debe ser un P18 Stories vertical 9:16 producido con Remotion.”
+
+No separar la carpeta de referencias, identidad, template o biblioteca: el sistema depende de sus rutas relativas.
+
+ACTUALIZACIÓN 2026-11-25 — PAQUETE CON CORRECCIONES
+La carpeta mantiene la estructura original y suma todo lo aprendido en P18-001, P18-002 y P18-003:
+- reglas del operador en 00_SISTEMA/reglas-del-operador/;
+- guía rápida en 00_SISTEMA/guia-rapida-de-produccion.txt;
+- motor de render en 05_REMOTION_DESIGN_SYSTEM/runtime;
+- 3 videos terminados como ejemplos, con proceso completo y master final.
+El zip no trae node_modules (correr npm install en el runtime) ni los 21 GB de video crudo de p18-remotion/public
+(argento, german, leo, mariano, moni, tom, victoria), que guarda el operador.

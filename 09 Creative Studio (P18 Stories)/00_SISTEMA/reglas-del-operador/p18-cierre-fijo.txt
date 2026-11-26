@@ -1,0 +1,11 @@
+Cierre fijo aprobado por Valentín (2026-11-24) para todos los videos de P18 Stories: "El número que se vuelve 18".
+
+POR QUÉ: quiere un final que no sea genérico, que muestre P18 y que genere ganas de seguirlos de forma indirecta: sin "seguinos", que la calidad haga el trabajo. Pidió explícitamente la mejor tecnología y un resultado realista.
+
+CÓMO SE APLICA:
+- Escena `outro3d` del runtime (`05_REMOTION_DESIGN_SYSTEM/runtime/src/components/Outro3D.tsx`), 3,0 s y sin voz.
+- El número clave de la historia (`fromNumber`) gira como odómetro con su etiqueta (`fromLabel`), cae en 18 y se convierte en un "P18" 3D (Manrope 800 extruida, material físico lima, luz que barre y sombra).
+- Debajo: "PROYECTO 18" / "Mentalidad emprendedora para los jóvenes." (subrayado en "los jóvenes") / @proyecto18.ar.
+- Por video solo cambian `fromNumber` y `fromLabel`. Ejemplos: "19" + "dijeron que no", "5127" + "prototipos".
+- Por la regla de 30–50 s (p18-duracion-30-50), la voz tiene que terminar antes de los 46,9 s: guion de unas 108 palabras como máximo.
+- Sin llamados a la acción directos ("seguí", "conocé"): Valentín los rechazó.

@@ -1,0 +1,26 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "p18",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "4320",
+        "--directory",
+        "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/01 Web/Sitio web"
+      ],
+      "port": 4320
+    },
+    {
+      "name": "tiktok-publicador",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/.claude/skills/p18-subir/publicador-tiktok/servidor.py",
+        "--sin-abrir"
+      ],
+      "port": 8718
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+ "idioma": "es",
+ "duracion": 49.59,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 4.66,
+   "texto": "Yo me considero buen director de arte porque todo el tiempo estoy consumiendo arte.",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.18,
+     "p": "Yo"
+    },
+    {
+     "ini": 0.18,
+     "fin": 0.84,
+     "p": "me"
+    },
+    {
+     "ini": 0.84,
+     "fin": 1.24,
+     "p": "considero"
+    },
+    {
+     "ini": 1.24,
+     "fin": 1.42,
+     "p": "buen"
+    },
+    {
+     "ini": 1.42,
+     "fin": 1.94,
+     "p": "director"
+    },
+    {
+     "ini": 1.94,
+     "fin": 2.18,
+     "p": "de"
+    },
+    {
+     "ini": 2.18,
+     "fin": 2.36,
+     "p": "arte"
+    },
+    {
+     "ini": 2.36,
+     "fin": 2.8,
+     "p": "porque"
+    },
+    {
+     "ini": 2.8,
+     "fin": 3.02,
+     "p": "todo"
+    },
+    {
+     "ini": 3.02,
+     "fin": 3.14,
+     "p": "el"
+    },
+    {
+     "ini": 3.14,
+     "fin": 3.36,
+     "p": "tiempo"
+    },
+    {
+     "ini": 3.36,
+     "fin": 3.62,
+     "p": "estoy"
+    },
+    {
+     "ini": 3.62,
+     "fin": 4.22,
+     "p": "consumiendo"
+    },
+    {
+     "ini": 4.22,
+     "fin": 4.66,
+     "p": "arte."
+    }
+   ]
+  },
+  {
+   "ini": 5.1,
+   "fin": 6.7,
+   "texto": "Claro, entonces tener el músculo...",
+   "palabras": [
+    {
+     "ini": 5.1,
+     "fin": 5.38,
+     "p": "Claro,"
+    },
+    {
+     "ini": 5.5,
+     "fin": 5.64,
+     "p": "entonces"
+    },
+    {
+     "ini": 5.64,
+     "fin": 5.84,
+     "p": "tener"
+    },
+    {
+     "ini": 5.84,
+     "fin": 5.96,
+     "p": "el"
+    },
+    {
+     "ini": 5.96,
+     "fin": 6.7,
+     "p": "músculo..."
+    }
+   ]
+  },
+  {
+   "ini": 6.7,
+   "fin": 9.32,
+   "texto": "Claro, es como un músculo, toca practicarlo.",
+   "palabras": [
+    {
+     "ini": 6.7,
+     "fin": 7.08,
+     "p": "Claro,"
+    },
+    {
+     "ini": 7.24,
+     "fin": 7.54,
+     "p": "es"
+    },
+    {
+     "ini": 7.54,
+     "fin": 7.76,
+     "p": "como"
+    },
+    {
+     "ini": 7.76,
+     "fin": 7.86,
+     "p": "un"
+    },
+    {
+     "ini": 7.86,
+     "fin": 8.16,
+     "p": "músculo,"
+    },
+    {
+     "ini": 8.22,
+     "fin": 8.48,
+     "p": "toca"
+    },
+    {
+     "ini": 8.48,
+     "fin": 9.32,
+     "p": "practicarlo."
+    }
+   ]
+  },
+  {
+   "ini": 9.94,
+   "fin": 14.46,
+   "texto": "Hay gente que es diseñadora o se consideran creativos,",
+   "palabras": [
+    {
+     "ini": 9.94,
+     "fin": 10.06,
+     "p": "Hay"
+    },
+    {
+     "ini": 10.06,
+     "fin": 10.4,
+     "p": "gente"
+    },
+    {
+     "ini": 10.4,
+     "fin": 10.8,
+     "p": "que"
+    },
+    {
+     "ini": 10.8,
+     "fin": 11.26,
+     "p": "es"
+    },
+    {
+     "ini": 11.26,
+     "fin": 11.82,
+     "p": "diseñadora"
+    },
+    {
+     "ini": 11.82,
+     "fin": 12.06,
+     "p": "o"
+    },
+    {
+     "ini": 12.06,
+     "fin": 12.56,
+     "p": "se"
+    },
+    {
+     "ini": 12.56,
+     "fin": 13.46,
+     "p": "consideran"
+    },
+    {
+     "ini": 13.46,
+     "fin": 14.46,
+     "p": "creativos,"
+    }
+   ]
+  },
+  {
+   "ini": 15.06,
+   "fin": 19.36,
+   "texto": "pero nunca van a un museo, o nunca van a una obra de teatro,",
+   "palabras": [
+    {
+     "ini": 15.06,
+     "fin": 15.18,
+     "p": "pero"
+    },
+    {
+     "ini": 15.18,
+     "fin": 15.94,
+     "p": "nunca"
+    },
+    {
+     "ini": 15.94,
+     "fin": 16.22,
+     "p": "van"
+    },
+    {
+     "ini": 16.22,
+     "fin": 16.34,
+     "p": "a"
+    },
+    {
+     "ini": 16.34,
+     "fin": 16.5,
+     "p": "un"
+    },
+    {
+     "ini": 16.5,
+     "fin": 16.98,
+     "p": "museo,"
+    },
+    {
+     "ini": 17.12,
+     "fin": 17.3,
+     "p": "o"
+    },
+    {
+     "ini": 17.3,
+     "fin": 18.02,
+     "p": "nunca"
+    },
+    {
+     "ini": 18.02,
+     "fin": 18.3,
+     "p": "van"
+    },
+    {
+     "ini": 18.3,
+     "fin": 18.44,
+     "p": "a"
+    },
+    {
+     "ini": 18.44,
+     "fin": 18.6,
+     "p": "una"
+    },
+    {
+     "ini": 18.6,
+     "fin": 18.78,
+     "p": "obra"
+    },
+    {
+     "ini": 18.78,
+     "fin": 18.92,
+     "p": "de"
+    },
+    {
+     "ini": 18.92,
+     "fin": 19.36,
+     "p": "teatro,"
+    }
+   ]
+  },
+  {
+   "ini": 20.1,
+   "fin": 22.64,
+   "texto": "o no hacen el trabajo, ¿verdad?",
+   "palabras": [
+    {
+     "ini": 20.1,
+     "fin": 20.5,
+     "p": "o"
+    },
+    {
+     "ini": 20.5,
+     "fin": 20.76,
+     "p": "no"
+    },
+    {
+     "ini": 20.76,
+     "fin": 21.1,
+     "p": "hacen"
+    },
+    {
+     "ini": 21.1,
+     "fin": 21.5,
+     "p": "el"
+    },
+    {
+     "ini": 21.5,
+     "fin": 21.9,
+     "p": "trabajo,"
+    },
+    {
+     "ini": 22.12,
+     "fin": 22.64,
+     "p": "¿verdad?"
+    }
+   ]
+  },
+  {
+   "ini": 23.02,
+   "fin": 29.62,
+   "texto": "Entonces yo sé, o sea, yo ya ese músculo lo tengo desarrollado",
+   "palabras": [
+    {
+     "ini": 23.02,
+     "fin": 23.54,
+     "p": "Entonces"
+    },
+    {
+     "ini": 25.3,
+     "fin": 26.6,
+     "p": "yo"
+    },
+    {
+     "ini": 26.6,
+     "fin": 26.96,
+     "p": "sé,"
+    },
+    {
+     "ini": 27.2,
+     "fin": 27.22,
+     "p": "o"
+    },
+    {
+     "ini": 27.22,
+     "fin": 27.48,
+     "p": "sea,"
+    },
+    {
+     "ini": 27.6,
+     "fin": 27.6,
+     "p": "yo"
+    },
+    {
+     "ini": 27.6,
+     "fin": 28.02,
+     "p": "ya"
+    },
+    {
+     "ini": 28.02,
+     "fin": 28.24,
+     "p": "ese"
+    },
+    {
+     "ini": 28.24,
+     "fin": 28.66,
+     "p": "músculo"
+    },
+    {
+     "ini": 28.66,
+     "fin": 28.9,
+     "p": "lo"
+    },
+    {
+     "ini": 28.9,
+     "fin": 29.04,
+     "p": "tengo"
+    },
+    {
+     "ini": 29.04,
+     "fin": 29.62,
+     "p": "desarrollado"
+    }
+   ]
+  },
+  {
+   "ini": 29.62,
+   "fin": 35.9,
+   "texto": "para ver si tú me muestras un vídeo, me muestras un diseño, me muestras algo, yo puedo",
+   "palabras": [
+    {
+     "ini": 29.62,
+     "fin": 29.84,
+     "p": "para"
+    },
+    {
+     "ini": 29.84,
+     "fin": 30.68,
+     "p": "ver"
+    },
+    {
+     "ini": 30.68,
+     "fin": 31.74,
+     "p": "si"
+    },
+    {
+     "ini": 31.74,
+     "fin": 31.88,
+     "p": "tú"
+    },
+    {
+     "ini": 31.88,
+     "fin": 32.06,
+     "p": "me"
+    },
+    {
+     "ini": 32.06,
+     "fin": 32.38,
+     "p": "muestras"
+    },
+    {
+     "ini": 32.38,
+     "fin": 32.74,
+     "p": "un"
+    },
+    {
+     "ini": 32.74,
+     "fin": 33.04,
+     "p": "vídeo,"
+    },
+    {
+     "ini": 33.24,
+     "fin": 33.24,
+     "p": "me"
+    },
+    {
+     "ini": 33.24,
+     "fin": 33.58,
+     "p": "muestras"
+    },
+    {
+     "ini": 33.58,
+     "fin": 33.72,
+     "p": "un"
+    },
+    {
+     "ini": 33.72,
+     "fin": 34.1,
+     "p": "diseño,"
+    },
+    {
+     "ini": 34.16,
+     "fin": 34.24,
+     "p": "me"
+    },
+    {
+     "ini": 34.24,
+     "fin": 34.58,
+     "p": "muestras"
+    },
+    {
+     "ini": 34.58,
+     "fin": 34.9,
+     "p": "algo,"
+    },
+    {
+     "ini": 35.46,
+     "fin": 35.58,
+     "p": "yo"
+    },
+    {
+     "ini": 35.58,
+     "fin": 35.9,
+     "p": "puedo"
+    }
+   ]
+  },
+  {
+   "ini": 35.9,
+   "fin": 41.14,
+   "texto": "decir esta persona tiene talento. Entonces cuando yo contrato gente, por eso los portafolios,",
+   "palabras": [
+    {
+     "ini": 35.9,
+     "fin": 36.2,
+     "p": "decir"
+    },
+    {
+     "ini": 36.2,
+     "fin": 36.76,
+     "p": "esta"
+    },
+    {
+     "ini": 36.76,
+     "fin": 37.12,
+     "p": "persona"
+    },
+    {
+     "ini": 37.12,
+     "fin": 37.38,
+     "p": "tiene"
+    },
+    {
+     "ini": 37.38,
+     "fin": 38.2,
+     "p": "talento."
+    },
+    {
+     "ini": 38.36,
+     "fin": 38.6,
+     "p": "Entonces"
+    },
+    {
+     "ini": 38.6,
+     "fin": 38.86,
+     "p": "cuando"
+    },
+    {
+     "ini": 38.86,
+     "fin": 39.18,
+     "p": "yo"
+    },
+    {
+     "ini": 39.18,
+     "fin": 39.44,
+     "p": "contrato"
+    },
+    {
+     "ini": 39.44,
+     "fin": 39.96,
+     "p": "gente,"
+    },
+    {
+     "ini": 40.3,
+     "fin": 40.3,
+     "p": "por"
+    },
+    {
+     "ini": 40.3,
+     "fin": 40.42,
+     "p": "eso"
+    },
+    {
+     "ini": 40.42,
+     "fin": 40.62,
+     "p": "los"
+    },
+    {
+     "ini": 40.62,
+     "fin": 41.14,
+     "p": "portafolios,"
+    }
+   ]
+  },
+  {
+   "ini": 41.2,
+   "fin": 46.38,
+   "texto": "que vuelvo a los portafolios, son tan importantes, porque en el portafolio tú puedes ver si",
+   "palabras": [
+    {
+     "ini": 41.2,
+     "fin": 41.34,
+     "p": "que"
+    },
+    {
+     "ini": 41.34,
+     "fin": 41.58,
+     "p": "vuelvo"
+    },
+    {
+     "ini": 41.58,
+     "fin": 41.66,
+     "p": "a"
+    },
+    {
+     "ini": 41.66,
+     "fin": 41.84,
+     "p": "los"
+    },
+    {
+     "ini": 41.84,
+     "fin": 43.16,
+     "p": "portafolios,"
+    },
+    {
+     "ini": 43.34,
+     "fin": 43.46,
+     "p": "son"
+    },
+    {
+     "ini": 43.46,
+     "fin": 43.68,
+     "p": "tan"
+    },
+    {
+     "ini": 43.68,
+     "fin": 44.22,
+     "p": "importantes,"
+    },
+    {
+     "ini": 44.74,
+     "fin": 44.82,
+     "p": "porque"
+    },
+    {
+     "ini": 44.82,
+     "fin": 45.0,
+     "p": "en"
+    },
+    {
+     "ini": 45.0,
+     "fin": 45.2,
+     "p": "el"
+    },
+    {
+     "ini": 45.2,
+     "fin": 45.66,
+     "p": "portafolio"
+    },
+    {
+     "ini": 45.66,
+     "fin": 45.8,
+     "p": "tú"
+    },
+    {
+     "ini": 45.8,
+     "fin": 46.04,
+     "p": "puedes"
+    },
+    {
+     "ini": 46.04,
+     "fin": 46.24,
+     "p": "ver"
+    },
+    {
+     "ini": 46.24,
+     "fin": 46.38,
+     "p": "si"
+    }
+   ]
+  },
+  {
+   "ini": 46.38,
+   "fin": 48.74,
+   "texto": "la persona tiene talento y si tiene taste.",
+   "palabras": [
+    {
+     "ini": 46.38,
+     "fin": 46.48,
+     "p": "la"
+    },
+    {
+     "ini": 46.48,
+     "fin": 46.76,
+     "p": "persona"
+    },
+    {
+     "ini": 46.76,
+     "fin": 47.06,
+     "p": "tiene"
+    },
+    {
+     "ini": 47.06,
+     "fin": 47.7,
+     "p": "talento"
+    },
+    {
+     "ini": 47.7,
+     "fin": 47.88,
+     "p": "y"
+    },
+    {
+     "ini": 47.88,
+     "fin": 47.98,
+     "p": "si"
+    },
+    {
+     "ini": 47.98,
+     "fin": 48.24,
+     "p": "tiene"
+    },
+    {
+     "ini": 48.24,
+     "fin": 48.74,
+     "p": "taste."
+    }
+   ]
+  }
+ ]
+}

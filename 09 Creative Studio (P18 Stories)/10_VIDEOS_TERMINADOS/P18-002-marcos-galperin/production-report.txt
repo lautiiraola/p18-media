@@ -1,0 +1,50 @@
+PRODUCTION REPORT
+
+Video ID: P18-002
+Título: 19 de 20 (título de trabajo)
+Protagonista: Marcos Galperin (Mercado Libre)
+Modo de creación: assigned
+Duración: voz aprobada de 46,76 s (regla de 30–50 s).
+Versión master: v01 (07_renders/final/P18-002-marcos-galperin-master-v01.mp4, 47,79 s)
+Resumen creativo: 19 de 20 personas le dijeron que no iba a funcionar. Su respuesta: "cuanto más me dicen que no, más energías me dan, porque ahí está la oportunidad". Costo real (burbuja, votación para cerrarla, siete años de pérdidas) y resultado (Nasdaq 2007).
+Fuentes principales: La Nación (2024 y 2026), Stanford GSB (2019), Endeavor (2023), El Economista (2024), SEC (prospecto 2007). Ver 08_sources_and_licenses/sources.csv.
+Assets y licencias: 19 approved (CC BY, CC0, PD, obra propia, uso autorizado) y 5 reference_only. Ver 04_assets/asset-registry.csv.
+Componentes reutilizados: P18Story, SceneView, NarrativeSubtitle, Brand, Archive (ArchivePhoto), Typography (SyncedQuote, QuestionClose).
+Componentes nuevos (runtime/src/components/Graphics2.tsx): PeopleGrid, BrowserMock, ChartReveal, VoteBar, LossYears, VideoCard, FullBleedPhoto, BigLine.
+Problemas encontrados: ninguno bloqueante. El dato "19 de 20" solo tiene como fuente el relato de Galperin; el guion lo presenta así.
+Decisiones tomadas: ver bitacora-de-proceso.txt (etapa 1).
+Comandos de render (desde 05_REMOTION_DESIGN_SYSTEM/runtime): npx remotion render P18Story <out> --props=<prod>/06_remotion/p18-002.props.json --public-dir=<prod>/06_remotion/public --codec=h264 --crf=18 --audio-codec=aac --audio-bitrate=320k. Master: ffmpeg con copia del video y "volume=6.6dB,alimiter=limit=0.708,aresample=48000", AAC 320k.
+Resultado de QA: aprobado (ver 09_qa/qa-checklist.txt).
+
+REGISTRO DE ETAPAS
+2026-11-24  idea → research → fact_check → script → waiting_voiceover. Skills usadas: viral-hooks-formulas, viral-hooks, viral-short-form, viral-instagram-reels.
+2026-11-24  waiting_voiceover → asset_search: voz aprobada (46,76 s, 0 diferencias). Ver 03_voiceover/voice-validation.txt.
+2026-11-24  asset_search → storyboard → production → approved → completed → archived, de forma autónoma por instrucción del operador. Master v01 de 47,79 s.
+
+2026-11-24  MASTER v02: se agregó el cierre fijo P18 (outro3d, 3,0 s; 19 "dijeron que no" → 18 → P18 3D; "Mentalidad emprendedora para los jóvenes."), aprobado por el operador.
+Review: 07_renders/review/P18-002-marcos-galperin-review-v02.mp4. Master: 07_renders/final/P18-002-marcos-galperin-master-v02.mp4 (49.86 s, -14,3 LUFS / -2,4 dBTP). SHA-256: 0e5a7f64ee7757c5c3cfbd0d4b2b161fe176237580535b9af641d2728d24d544
+Por pedido explícito del operador ("guardalos en la carpeta reemplazando los videos viejos"), el master v01 se borró. Es una excepción a control-de-versiones.txt. La review v01 queda como respaldo en 07_renders/review.
+Props: 06_remotion/p18-002-v02.props.json, generados por build_props.py (bloque "CIERRE FIJO P18").
+
+2026-11-24  MASTER v03: sistema tipográfico rotativo P18 (regla del operador: "parece muy IA").
+- Subtítulos: rotan editorial, serif, caps y punch.
+- Citas en Instrument Serif itálica, cifras y golpes en Unbounded, créditos en JetBrains Mono.
+- Se mantienen el cierre fijo outro3d, los props v02, la duración, la voz y la música.
+Review: 07_renders/review/P18-002-marcos-galperin-review-v03.mp4. Master: 07_renders/final/P18-002-marcos-galperin-master-v03.mp4 (SHA-256 ec38dd7c5cb918a7a37f21dd6ee91c4f46dd1ede217d071316ed32e58efa36ce). Sin cuadros negros, -14 LUFS.
+El master v02 se borró (reemplazo pedido por el operador). Las reviews v01/v02/v03 quedan en 07_renders/review.
+
+2026-11-24  MASTER v04, por dos pedidos del operador.
+1. Texto cinético: "los textos siguen siendo genéricos, tienen que tener movimiento". Cada palabra entra con la voz y los subtítulos rotan editorial, serif, caps y stack, con salida animada; citas con foco, titulares y kickers letra por letra.
+2. Imágenes rotativas: "que se roten más imágenes... hay muchos lugares que quedan vacíos". Galerías de archivo en polaroid con entradas rotativas (iris, wipe, blinds, drop, zoom, slide, flip) y escenas principales con entradas variadas.
+Props: 06_remotion/*-v04.props.json, generados por build_props.py (bloque "IMÁGENES ROTATIVAS"). Master: 07_renders/final/P18-002-marcos-galperin-master-v04.mp4 (SHA-256 15797ad17a71c0b43c914b9bd62c2274d3625324201b8860bd65240bbbefc6d7). -14 LUFS, sin cuadros negros.
+El master v03 se borró (reemplazo pedido por el operador). Las reviews quedan en 07_renders/review.
+
+2026-11-24  MASTER v05. Revisión del operador sobre la v04: "hay imágenes que se repiten, eso no puede pasar" y "los subtítulos hay veces que se cortan, están raros".
+Imágenes: Galperin no tenía imágenes repetidas. assert_unique_images() corre en el build.
+Subtítulos:
+- chunk_captions() hace cortes por frase y BREAKS editoriales, con saltos de línea por frase.
+- Ningún subtítulo sigue en pantalla después de un cambio de escena.
+- Motor cinético sin máscaras ni letterSpacing animado; slam más corto.
+- Resaltador lima detrás de toda la palabra clave; stack en orden de lectura.
+- Sin salida animada si el subtítulo siguiente entra enseguida.
+QA: 3 cuadros por subtítulo (a mitad de frase, última palabra y final), todos revisados. -14 LUFS, sin cuadros negros. SHA-256 4c5e5f9ddc3894f64ce5e5ecf36dd1e79c2a65bcb035ed8a34a5fbb7217a372a. El master v04 se borró.

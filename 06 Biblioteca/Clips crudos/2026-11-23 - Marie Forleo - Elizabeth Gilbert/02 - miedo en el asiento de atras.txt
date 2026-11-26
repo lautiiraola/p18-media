@@ -1,0 +1,26 @@
+CLIP 02 — EL MIEDO PUEDE VENIR, PERO NO MANEJA
+
+Inicio:     05:37.2  (337.16 s)
+Fin:        06:21.4  (381.39 s)
+Duración:   44.2 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  EL MIEDO PUEDE VENIR, PERO NO MANEJA   (en el reel, en lima: NO MANEJA)
+Departamento:     Creatividad
+Área:             Pensamiento creativo
+Tema:             Invitar al miedo sin dejarlo decidir
+Fuente:           Marie Forleo - Elizabeth Gilbert — "Elizabeth Gilbert Talks “Big Magic” — Fear, Failure, & the Mystery of Creativity"
+                  https://www.youtube.com/watch?v=HyUYa-BnjU8&t=337s
+
+Por qué lo elegí:
+Cuenta cómo le habla al miedo con amabilidad ('no te necesito para escribir un poema') y lo invita a venir sin decidir.
+
+Gancho (primeros 3 s): Whenever I feel fear arise, which is constantly
+
+Notas para la revisión: Audio en inglés (el filtro traduce). Sin malas palabras.
+
+Transcripción del clip:
+you know? So whenever I feel fear arise, which is constantly because I'm always trying to do creative things, and creativity will always provoke your fear because it asks you to enter into a realm with an uncertain outcome, and fear hates that, thinks you're gonna die. So anytime I start a new creative project, the fear rises, and the first thing I do is say to it, thank you so much for how much you care about me and how much you don't want anything bad to happen to me, and I really appreciate that. Your services are probably not needed here, because I'm just writing a poem. Like no one's gonna die. No one's gonna die. It's okay. You know, and I just talk to it, but in this really friendly way. And I don't go to war against it. I acknowledge its importance. And then I invite it along. I'm like, you can come with me, but I'm doing this thing. Yeah. I love the
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-23 - Marie Forleo - Elizabeth Gilbert/02 - miedo en el asiento de atras.mp4" "EL MIEDO PUEDE VENIR, PERO *NO MANEJA*" --fuente "Marie Forleo - Elizabeth Gilbert"

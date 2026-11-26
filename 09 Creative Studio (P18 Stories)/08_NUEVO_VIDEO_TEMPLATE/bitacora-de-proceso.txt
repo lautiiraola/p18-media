@@ -1,0 +1,11 @@
+BITÁCORA DE PROCESO — P18-NNN-slug
+Registro cronológico de cómo se hizo este video: pasos, herramientas, problemas, decisiones y aprendizajes.
+Se actualiza al cerrar cada etapa. Los aprendizajes que sirven para todos los videos se copian a 00_SISTEMA/aprendizajes-de-produccion.txt.
+
+Formato por etapa:
+
+ETAPA N — NOMBRE (AAAA-MM-DD)
+Pasos: qué se hizo, en orden, con las herramientas y los comandos que funcionaron.
+Problemas: qué falló y cómo se resolvió.
+Decisiones: qué se eligió y por qué.
+Aprendizajes: qué conviene repetir o evitar en el próximo video.

@@ -1,0 +1,11 @@
+ARCHIVO Y DERECHOS
+
+Cada asset registra URL, autor, propietario, fecha, licencia, autorización, restricciones y escena.
+
+Estados:
+approved: puede aparecer en final.
+pending: falta autorización.
+reference_only: solo dirección interna.
+rejected: prohibido.
+
+Si no existe material verificable, usar una representación abstracta claramente gráfica. Nunca generar una falsa fotografía histórica ni modificar a una persona real.

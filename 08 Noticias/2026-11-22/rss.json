@@ -1,0 +1,667 @@
+[
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+  "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+  "fecha": "2026-11-23",
+  "resumen": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Perplexity and Intelligence",
+  "link": "https://openai.com/index/perplexity-and-intelligence",
+  "fecha": "2026-11-22",
+  "resumen": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+ },
+ {
+  "fuente": "The Verge (IA)",
+  "titulo": "We haven’t seen the last of the major tech outages",
+  "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+  "fecha": "2026-11-22",
+  "resumen": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton t"
+ },
+ {
+  "fuente": "The Verge (IA)",
+  "titulo": "Binding of Isaac developer removes AI music from Repentance Plus",
+  "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+  "fecha": "2026-11-22",
+  "resumen": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found se"
+ },
+ {
+  "fuente": "The Verge (IA)",
+  "titulo": "The vibe-coding revolution is coming to all the gadgets",
+  "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+  "fecha": "2026-11-22",
+  "resumen": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Lik"
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+  "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+  "fecha": "2026-11-22",
+  "resumen": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "Why data centers are at the center of the Big Tech backlash",
+  "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+  "fecha": "2026-11-22",
+  "resumen": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+ },
+ {
+  "fuente": "Wired (IA)",
+  "titulo": "Banks Have Had It Up to Here With Your AI Agent",
+  "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+  "fecha": "2026-11-22",
+  "resumen": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem."
+ },
+ {
+  "fuente": "Xataka",
+  "titulo": "Vuelve a tiendas Lidl el sábado 28 (por 100 euros menos) el robot de cocina superventas Monsieur Cuisine con pantalla táctil, báscula y más",
+  "link": "https://www.xataka.com/seleccion/vuelve-a-tiendas-lidl-sabado-28-100-euros-robot-cocina-superventas-monsieur-cuisine-pantalla-tactil-bascula",
+  "fecha": "2026-11-22",
+  "resumen": "Aún no ha llegado el Black Friday como tal, que tendrá lugar el próximo viernes 27 de noviembre, pero muchas tiendas están ya inmersas en sus campañas de rebajas desde hace días. Una de ellas es Lidl, que en su último folleto (centrado en el Black Friday) ha anunciado las rebajas"
+ },
+ {
+  "fuente": "Xataka",
+  "titulo": "China tiene la energía, pero no los chips: lo que revelan los satélites sobre el centro de IA de Huawei",
+  "link": "https://www.xataka.com/robotica-e-ia/china-tiene-energia-no-chips-que-revelan-satelites-centro-ia-huawei",
+  "fecha": "2026-11-22",
+  "resumen": "Huawei está montando uno de los mayores centros de datos de China en Horinger, en la región autónoma de Mongolia Interior. Lo sabemos porque la propia Huawei lo anunció y también porque lo hemos visto desde el cielo gracias a los satélites Copernicus Sentinel de la UE y el estado"
+ },
+ {
+  "fuente": "Xataka",
+  "titulo": "Mova E50 Ultra, análisis: este es el robot aspirador que más voy a recomendar",
+  "link": "https://www.xataka.com/analisis/mova-e50-ultra-analisis-caracteristicas-precio-especificaciones",
+  "fecha": "2026-11-22",
+  "resumen": "Lo digo sin tapujos: el robot aspirador que más me ha sorprendido este año fue el Mova E40 Ultra y lo hizo por su elevadísima relación prestaciones coste. No tiene la navegación más avanzada ni un fregado con reconocimiento, pero sí que tengo claro que dejaría satisfecha a la may"
+ },
+ {
+  "fuente": "Xataka",
+  "titulo": "La paradoja del otoño: se ha convertido en un cliché muy rentable justo cuando ha empezado a desaparecer",
+  "link": "https://www.xataka.com/magnet/paradoja-otono-se-ha-convertido-cliche-muy-rentable-justo-cuando-ha-empezado-a-desaparecer",
+  "fecha": "2026-11-22",
+  "resumen": "Estás en sandalias, porque aún hace calor. Puede que sea finales de agosto o ya mediados de septiembre. Poco importa. Las tiendas se han llenado de decoración otoñal, que convive con la de Halloween y, en algunas, con la de Navidad. En las redes sociales, la gente empieza a habla"
+ },
+ {
+  "fuente": "Xataka",
+  "titulo": "Google ha convertido Gemini en una tabla periódica. El problema es que ahora hay dos modelos de programación y ninguna pista de cuál elegir",
+  "link": "https://www.xataka.com/robotica-e-ia/google-ha-convertido-gemini-tabla-periodica-problema-que-ahora-hay-dos-modelos-programacion-ninguna-pista-cual-elegir",
+  "fecha": "2026-11-22",
+  "resumen": "Seguirle la pista a los modelos de IA, sus diferentes versiones y las compañías que están detrás es prácticamente imposible. Salimos a LLM casi semanal. No solo eso, después viene Google y renueva por completo su catálogo con incorporaciones que no se esperaban: cuatro modelos Ge"
+ },
+ {
+  "fuente": "Xataka",
+  "titulo": "¿Es GTA VI el último juego a gran escala desarrollado sin usar IA?",
+  "link": "https://www.xataka.com/videojuegos/gta-vi-ultimo-gran-juego-desarrollado-usar-ia",
+  "fecha": "2026-11-22",
+  "resumen": "GTA VI, el nuevo mastodóntico título de Rockstar Games, ya está disponible para PS5 y Xbox Series X|S en tiendas, y llega para convertirse en la producción más cara y ambiciosa que la industria haya visto jamás. También aterriza en un momento muy particular, pues la IA generativa"
+ },
+ {
+  "fuente": "Xataka",
+  "titulo": "\"Notamos una caída de pacientes\": cómo están viviendo los psicólogos el auge de la IA entre la población",
+  "link": "https://www.xataka.com/medicina-y-salud/notamos-caida-pacientes-como-estan-viviendo-psicologos-auge-ia-poblacion",
+  "fecha": "2026-11-22",
+  "resumen": "La llegada de la inteligencia artificial ha supuesto (casi) el final del SEO y de la búsqueda en internet tal y como la conocíamos. Una víctima inesperada de este cambio son los psicólogos. “Notamos una caída de pacientes porque ya no entran en nuestros blogs”, explica Aurora Góm"
+ },
+ {
+  "fuente": "Xataka",
+  "titulo": "Todos conocemos a Samsung por sus móviles y sus televisores. La gran \"tapada\" es su división de empresas",
+  "link": "https://www.xataka.com/empresas-y-economia/todos-conocemos-a-samsung-sus-moviles-sus-televisores-gran-tapada-su-division-empresas",
+  "fecha": "2026-11-22",
+  "resumen": "¿Quién no tiene o conoce a alguien que no tenga algún dispositivo Samsung? En mi casa, por ejemplo, hay una lavadora y una Smart TV del fabricante surcoreano, pero multitud de amigos y familiares tiene un smartphone o una tablet Samsung. De ahí que, a pesar del auge de las marcas"
+ },
+ {
+  "fuente": "Xataka",
+  "titulo": "Opel y Leapmotor cierran el trato: el próximo eléctrico alemán tendrá corazón chino y se fabricará en Zaragoza",
+  "link": "https://www.xataka.com/movilidad/proximo-opel-electrico-se-fabricara-zaragoza-capo-habra-tecnologia-china",
+  "fecha": "2026-11-22",
+  "resumen": "Adaptarse o morir, incluso aunque la adaptación sea síntoma de la gravedad de un sector, el automotor, que hubo un tiempo que fue el motor de la industria alemana y europea. Opel y Leapmotor han sellado el acuerdo por el que la empresa china prestará sus servicios de ingeniería y"
+ },
+ {
+  "fuente": "Xataka",
+  "titulo": "Esta semana medio mundo está jugando al mismo GTA. El futuro es que cada uno juegue al de su pueblo",
+  "link": "https://www.xataka.com/videojuegos/esta-semana-medio-mundo-esta-jugando-al-gta-futuro-que-cada-uno-juegue-al-su-pueblo",
+  "fecha": "2026-11-22",
+  "resumen": "Esta semana medio mundo está en Vice City. GTA VI lleva tres días a la venta y en cualquier grupo de WhatsApp, oficina o patio de colegio se habla de lo mismo: la misma persecución, el mismo golpe, el mismo bug absurdo que ya rula en vídeos. Doce años de espera y diez dígitos de "
+ },
+ {
+  "fuente": "Xataka",
+  "titulo": "Begoña Villacís: \"Es una prohibición de facto\". La patronal de los centros de datos, en pie de guerra contra el Gobierno",
+  "link": "https://www.xataka.com/empresas-y-economia/begona-villacis-prohibicion-facto-patronal-centros-datos-pie-guerra-gobierno",
+  "fecha": "2026-11-22",
+  "resumen": "El pasado 20 noviembre, a nueve días de las elecciones generales y tras una tramitación por urgencia con más de 600 alegaciones , el Consejo de Ministros de España aprobaba el Real Decreto 1032/2026 que regula la sostenibilidad y la soberanía digital de los centros de datos. La p"
+ },
+ {
+  "fuente": "Xataka",
+  "titulo": "Algo raro está pasando alrededor de la Tierra: temporalmente nuestros dos cinturones de radiación se hicieron cuatro y nadie sabe por qué",
+  "link": "https://www.xataka.com/espacio/algo-raro-esta-pasando-alrededor-tierra-temporalmente-nuestros-dos-cinturones-radiacion-se-hicieron-cuatro-nadie-sabe-que",
+  "fecha": "2026-11-22",
+  "resumen": "Si la Tierra no tuviese un campo magnético a su alrededor , sufriría el bombardeo constante de partículas ionizadas muy energéticas procedentes del Sol y de los rayos cósmicos. Por suerte, contamos con este escudo que desvía la mayor parte de esas partículas y, a su vez, retiene "
+ },
+ {
+  "fuente": "The Verge (IA)",
+  "titulo": "The UN fails to agree on rules regulating ‘killer robots’",
+  "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+  "fecha": "2026-11-21",
+  "resumen": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitl"
+ },
+ {
+  "fuente": "The Verge (IA)",
+  "titulo": "Can Anthropic afford to put safety first?",
+  "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+  "fecha": "2026-11-21",
+  "resumen": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that impor"
+ },
+ {
+  "fuente": "The Verge (IA)",
+  "titulo": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+  "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+  "fecha": "2026-11-21",
+  "resumen": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. "
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+  "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+  "fecha": "2026-11-21",
+  "resumen": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "A tale of two Nvidias",
+  "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+  "fecha": "2026-11-21",
+  "resumen": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "Here are the top AI agents that can live in your text messages",
+  "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "fecha": "2026-11-21",
+  "resumen": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+  "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+  "fecha": "2026-11-21",
+  "resumen": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+ },
+ {
+  "fuente": "Wired (IA)",
+  "titulo": "The Outages Are Just Getting Started",
+  "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+  "fecha": "2026-11-21",
+  "resumen": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Combatting adversarial distillation",
+  "link": "https://openai.com/index/combatting-adversarial-distillation",
+  "fecha": "2026-11-20",
+  "resumen": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "link": "https://openai.com/business/customer-stories/hebbia",
+  "fecha": "2026-11-20",
+  "resumen": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Can AI help scientists identify promising drug candidates?",
+  "link": "https://openai.com/index/introducing-medchembench",
+  "fecha": "2026-11-20",
+  "resumen": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
+ },
+ {
+  "fuente": "Hugging Face",
+  "titulo": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "link": "https://huggingface.co/blog/inkling2mini",
+  "fecha": "2026-11-20",
+  "resumen": ""
+ },
+ {
+  "fuente": "Hugging Face",
+  "titulo": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "fecha": "2026-11-20",
+  "resumen": ""
+ },
+ {
+  "fuente": "The Verge (IA)",
+  "titulo": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+  "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+  "fecha": "2026-11-20",
+  "resumen": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers"
+ },
+ {
+  "fuente": "The Verge (IA)",
+  "titulo": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+  "fecha": "2026-11-20",
+  "resumen": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would "
+ },
+ {
+  "fuente": "The Verge (IA)",
+  "titulo": "The week everything fell apart",
+  "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+  "fecha": "2026-11-20",
+  "resumen": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be th"
+ },
+ {
+  "fuente": "The Verge (IA)",
+  "titulo": "Signal is blocking Gemini and Siri AI from reading your screen",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+  "fecha": "2026-11-20",
+  "resumen": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user"
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+  "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+  "fecha": "2026-11-20",
+  "resumen": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+  "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+  "fecha": "2026-11-20",
+  "resumen": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "Chips can survive the space environment — can their financing?",
+  "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+  "fecha": "2026-11-20",
+  "resumen": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "The fallout from Nvidia’s Jensen Huang scandal continues",
+  "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+  "fecha": "2026-11-20",
+  "resumen": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in Chi"
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "Six AI-powered gadgets that could make your home office smarter",
+  "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+  "fecha": "2026-11-20",
+  "resumen": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "Apple may be developing its own AI agent that runs your Mac",
+  "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+  "fecha": "2026-11-20",
+  "resumen": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+  "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+  "fecha": "2026-11-20",
+  "resumen": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+ },
+ {
+  "fuente": "Wired (IA)",
+  "titulo": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+  "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+  "fecha": "2026-11-20",
+  "resumen": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo."
+ },
+ {
+  "fuente": "Wired (IA)",
+  "titulo": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+  "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+  "fecha": "2026-11-20",
+  "resumen": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”"
+ },
+ {
+  "fuente": "Wired (IA)",
+  "titulo": "Muse Is Unleashing a World of Pettiness on Instagram",
+  "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+  "fecha": "2026-11-20",
+  "resumen": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage."
+ },
+ {
+  "fuente": "Wired (IA)",
+  "titulo": "Regular Tech Bros Are Worried About Honeypots",
+  "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+  "fecha": "2026-11-20",
+  "resumen": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers."
+ },
+ {
+  "fuente": "Wired (IA)",
+  "titulo": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+  "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+  "fecha": "2026-11-20",
+  "resumen": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+  "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "fecha": "2026-11-19",
+  "resumen": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Deploying Daybreak Red",
+  "link": "https://openai.com/business/learn/deploying-daybreak-red",
+  "fecha": "2026-11-19",
+  "resumen": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "See PR scans in action",
+  "link": "https://openai.com/business/learn/pr-scans-demo",
+  "fecha": "2026-11-19",
+  "resumen": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Get started with Daybreak Blue",
+  "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+  "fecha": "2026-11-19",
+  "resumen": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Explore the Codex Security Plugin",
+  "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+  "fecha": "2026-11-19",
+  "resumen": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
+ },
+ {
+  "fuente": "Google AI",
+  "titulo": "Introducing Tool Retrieval in the Gemini API",
+  "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+  "fecha": "2026-11-19",
+  "resumen": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API."
+ },
+ {
+  "fuente": "Google AI",
+  "titulo": "Walter Isaacson on curiosity and creativity in the AI age.",
+  "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+  "fecha": "2026-11-19",
+  "resumen": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "Meta’s new Muse Charm device may cost $300",
+  "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+  "fecha": "2026-11-19",
+  "resumen": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "These tech outages are giving Y2K, AI agent style",
+  "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+  "fecha": "2026-11-19",
+  "resumen": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "The unfolding Jensen Huang scandal: a timeline",
+  "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+  "fecha": "2026-11-19",
+  "resumen": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "Anthropic’s IPO could deliver $156B to charity",
+  "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+  "fecha": "2026-11-19",
+  "resumen": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "Google gives Gemini the ability to use your Mac for you",
+  "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+  "fecha": "2026-11-19",
+  "resumen": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
+ },
+ {
+  "fuente": "TechCrunch (IA)",
+  "titulo": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+  "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+  "fecha": "2026-11-19",
+  "resumen": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them."
+ },
+ {
+  "fuente": "Wired (IA)",
+  "titulo": "What’s With All These Outages?",
+  "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+  "fecha": "2026-11-19",
+  "resumen": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang."
+ },
+ {
+  "fuente": "Wired (IA)",
+  "titulo": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+  "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+  "fecha": "2026-11-19",
+  "resumen": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner."
+ },
+ {
+  "fuente": "Wired (IA)",
+  "titulo": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+  "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+  "fecha": "2026-11-19",
+  "resumen": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "The Silent Consensus",
+  "link": "https://openai.com/index/the-silent-consensus",
+  "fecha": "2026-11-18",
+  "resumen": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Research acceleration: The jagged frontier",
+  "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "fecha": "2026-11-18",
+  "resumen": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+  "link": "https://openai.com/business/customer-stories/sumitomo-life",
+  "fecha": "2026-11-18",
+  "resumen": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Inside the Codex sandbox",
+  "link": "https://openai.com/index/inside-the-codex-sandbox",
+  "fecha": "2026-11-18",
+  "resumen": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Managing frontier AI risk: From training to deployment",
+  "link": "https://openai.com/index/managing-frontier-ai-risk",
+  "fecha": "2026-11-18",
+  "resumen": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Advancing chip design with OpenAI models",
+  "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+  "fecha": "2026-11-18",
+  "resumen": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+  "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+  "fecha": "2026-11-18",
+  "resumen": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+ },
+ {
+  "fuente": "Google AI",
+  "titulo": "The Gemini app is now available on lower-memory Android devices.",
+  "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+  "fecha": "2026-11-18",
+  "resumen": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
+ },
+ {
+  "fuente": "Google DeepMind",
+  "titulo": "Introducing Gemini 4 Neon",
+  "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+  "fecha": "2026-11-18",
+  "resumen": ""
+ },
+ {
+  "fuente": "Google DeepMind",
+  "titulo": "Genie 4 is now available",
+  "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+  "fecha": "2026-11-18",
+  "resumen": ""
+ },
+ {
+  "fuente": "Hugging Face",
+  "titulo": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "fecha": "2026-11-18",
+  "resumen": ""
+ },
+ {
+  "fuente": "Hugging Face",
+  "titulo": "Why your fine-tuning job takes longer than the FLOPs say",
+  "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "fecha": "2026-11-18",
+  "resumen": ""
+ },
+ {
+  "fuente": "Hugging Face",
+  "titulo": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "fecha": "2026-11-18",
+  "resumen": ""
+ },
+ {
+  "fuente": "Hugging Face",
+  "titulo": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+  "link": "https://huggingface.co/blog/moe-expert-streaming",
+  "fecha": "2026-11-18",
+  "resumen": ""
+ },
+ {
+  "fuente": "Hugging Face",
+  "titulo": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+  "link": "https://huggingface.co/blog/rumble-2-flash",
+  "fecha": "2026-11-18",
+  "resumen": ""
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Introducing GPT-6.2 Astra and Sol",
+  "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "fecha": "2026-11-17",
+  "resumen": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Strengthening NATO and allied cyber defenses with AI",
+  "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+  "fecha": "2026-11-17",
+  "resumen": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Introducing ChatGPT for Sales",
+  "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+  "fecha": "2026-11-17",
+  "resumen": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Introducing OpenAI for Chile",
+  "link": "https://openai.com/index/introducing-openai-for-chile",
+  "fecha": "2026-11-17",
+  "resumen": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Astra for Law leads in legal intelligence",
+  "link": "https://openai.com/index/astra-law-6-2",
+  "fecha": "2026-11-17",
+  "resumen": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
+ },
+ {
+  "fuente": "Google AI",
+  "titulo": "Put Gemini to work for you",
+  "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "fecha": "2026-11-17",
+  "resumen": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Broadening access to AI for scientists",
+  "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+  "fecha": "2026-11-16",
+  "resumen": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Strengthening the fight against online child sexual abuse with new tools and support",
+  "link": "https://openai.com/index/strengthening-online-child-safety",
+  "fecha": "2026-11-16",
+  "resumen": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Science at the Frontier: How scientists use ChatGPT",
+  "link": "https://openai.com/index/science-at-the-frontier",
+  "fecha": "2026-11-16",
+  "resumen": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "How Revolut raises ambition without lowering the bar",
+  "link": "https://openai.com/business/customer-stories/revolut",
+  "fecha": "2026-11-16",
+  "resumen": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "LVMH’s Media Division announces strategic partnership with OpenAI",
+  "link": "https://openai.com/index/lvmh-media-division-partnership",
+  "fecha": "2026-11-16",
+  "resumen": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Our first phase of embedded assessments",
+  "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+  "fecha": "2026-11-16",
+  "resumen": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "More ways to move care forward with ChatGPT for Healthcare",
+  "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+  "fecha": "2026-11-16",
+  "resumen": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
+ },
+ {
+  "fuente": "OpenAI",
+  "titulo": "Advancing computer-use agents for healthcare teams",
+  "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+  "fecha": "2026-11-16",
+  "resumen": ""
+ },
+ {
+  "fuente": "Google AI",
+  "titulo": "New Ask Maps features to help with holiday travel and prep",
+  "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+  "fecha": "2026-11-16",
+  "resumen": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+ }
+]

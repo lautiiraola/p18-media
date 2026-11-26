@@ -1,0 +1,9 @@
+MAPA NARRATIVO + IDEAS VISUALES (propias de esta historia; no reciclar escenas de Jobs/Galperin)
+| LO QUE FUNCIONABA   hook: foto c1905 grande + polaroid de la fábrica de caramelos de Lancaster (buscar PD); "LO VENDIÓ ENTERO" cinético.
+| FILADELFIA          papel claro: tarjeta/aviso tipo comercio 1876 con sello "QUEBRÓ" dibujado (gráfico propio, no documento falso: rotular "ilustración").
+| LANCASTER           foto aprendiz (Commons) + gráfico propio: carrito de caramelos que se multiplica en cajas.
+| 1893                cifra gigante 1893 + archivo de la Exposición Colombina (LOC/Commons, PD) + esquema de engranajes "Lehmann · Dresde".
+| SU LECTURA          cita en Instrument Serif itálica, con "según el Archivo Hershey"; balanza propia: caramelo (moda) vs chocolate (permanente).
+| 1900                US$ 1.000.000 gigante; gráfico propio: la fábrica se va de un lado, sólo queda una barra del otro.
+| EL PUEBLO           fábrica 1905 / postales PD de Hershey PA; mapa simple "Derry Church → Hershey (1906)".
+Cierre: outro3d fromNumber 1900.

@@ -1,0 +1,31 @@
+QA DEL VIDEO
+
+[ ] Hechos críticos verificados
+[ ] Hecho e interpretación diferenciados
+[ ] Hook honesto
+[ ] Decisión clara
+[ ] Sin motivación genérica
+[ ] Archivo real prioritario
+[ ] Sin avatares
+[ ] Sin Canva
+[ ] Sin imágenes históricas inventadas
+[ ] Assets finales approved
+[ ] Formato P18 Stories 9:16
+[ ] 1080 × 1920
+[ ] Duración entre 30 y 50 s (nunca más de 50)
+[ ] 60 fps
+[ ] Imágenes rotativas (2–4 por escena larga, entradas variadas, sin espacios vacíos)
+[ ] Texto cinético (palabra por palabra, comportamientos rotativos, salida animada)
+[ ] Tipografía rotativa P18 (4 familias; subtítulos sin repetir estilo seguido)
+[ ] Firma P18 sin fondo
+[ ] Cierre fijo outro3d con fromNumber y fromLabel de la historia
+[ ] Cama musical distinta de la del video anterior
+[ ] Voz inteligible
+[ ] Música subordinada
+[ ] Sin clipping
+[ ] Safe zones correctas
+[ ] Render master reproducible
+
+[ ] Ninguna imagen repetida en el video (assert_unique_images pasa en el build).
+[ ] Lista de subtítulos leída: ningún corte a mitad de construcción (no termina en artículo, preposición, auxiliar ni «nunca/ya»).
+[ ] Cuadros de cada subtítulo (a mitad de frase y 0,2 s antes del final): ninguna palabra cortada, encimada ni invisible; la palabra clave legible.

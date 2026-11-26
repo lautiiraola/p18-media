@@ -1,0 +1,26 @@
+CLIP 05 — USAR LA IA SÓLO PARA PREGUNTAR ES TENER UN IPHONE Y USARLO DE NOKIA
+
+Inicio:     1:48:02.1  (6482.12 s)
+Fin:        1:48:52.8  (6532.75 s)
+Duración:   50.6 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  USAR LA IA SÓLO PARA PREGUNTAR ES TENER UN IPHONE Y USARLO DE NOKIA   (en el reel, en lima: IA, IPHONE)
+Departamento:     Crear y comunicar
+Área:             Inteligencia artificial
+Tema:             Aprender a usar la IA de verdad
+Fuente:           Cracks Podcast - Carlos García — "La Historia de KAVAK | CARLOS GARCIA en Cracks Podcast #373"
+                  https://www.youtube.com/watch?v=oYDI7Y4vJTk&t=6482s
+
+Por qué lo elegí:
+Analogía simple y graciosa (Nokia de la culebrita vs. iPhone) para invitar a aprender IA a fondo y probarla uno mismo, no sólo preguntarle cosas al chat. Útil para chicos que recién la usan.
+
+Gancho (primeros 3 s): Imagínate que tú tengas el Nokia de la culebrita…
+
+Notas para la revisión: Dice 'esta tecnología' al principio: el título aclara que es la IA. Menciona 'montar tus propios robots' (agentes); se entiende.
+
+Transcripción del clip:
+esta tecnología es como, imagínate que tú tengas el Nokia, te acuerdas el Nokia la culebrita, tú llegaste a tener ese, y de repente salga el iphone 16 y que tú le des el iphone 16 a alguien y le digas mira cuéntame cómo funciona esto eso es lo que está pasando hoy, la gente está agarrando y le está dando el iphone 16 a ver a que le interprete, digamos, esta tecnología y la versión de eso es usar chat GPT, o sea, el iphone 6 es increíble, relativo al Nokia de la culebrita, entonces ahorita todo el mundo tiene que entrarle de una manera muy profunda y hacerlo ellos mismos y sentarte a estudiar y sentarte a montar tus propios robots y explorarlo para que luego veas cómo eso puede aumentar tu o sea
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-11 - Cracks Podcast - Carlos García/05 - ia nokia vs iphone.mp4" "USAR LA *IA* SÓLO PARA PREGUNTAR ES TENER UN *IPHONE* Y USARLO DE NOKIA" --fuente "Cracks Podcast - Carlos García"

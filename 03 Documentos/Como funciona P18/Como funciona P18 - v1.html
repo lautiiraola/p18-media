@@ -1,0 +1,412 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<title>P18 — Cómo funciona</title>
+<style>
+@page { size: 426pt 757pt; margin: 0; }
+:root{
+  --bg:#131313; --bg2:#1c1c1c; --line:#2e2e2e; --tx:#ececec; --mut:#a3a3a3; --dim:#6b6b6b;
+  --ac:#FF7A45; /* color provisorio: se reemplaza con el branding nuevo */
+  --acdark:#1a0f0a;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:var(--bg)}
+body{font-family:Inter,sans-serif;color:var(--tx);-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{width:426pt;height:757pt;padding:22pt 29pt 0;position:relative;overflow:hidden;page-break-after:always;display:flex;flex-direction:column}
+.mono{font-family:"DejaVu Sans Mono",monospace;text-transform:uppercase;letter-spacing:.32em;font-size:4.6pt}
+.hdr{display:flex;justify-content:space-between;padding:8pt 0 9pt;border-bottom:.6pt solid var(--line)}
+.hdr .r{color:var(--ac)}
+.ftr{position:absolute;left:29pt;right:29pt;bottom:20pt;display:flex;justify-content:space-between;border-top:.6pt solid var(--line);padding-top:9pt;font-family:"DejaVu Sans Mono",monospace;font-size:4.6pt;color:var(--dim);letter-spacing:.05em}
+.ftr .r{color:var(--ac);letter-spacing:.2em}
+h1{font-family:Lora,serif;font-weight:700;font-size:25pt;line-height:1.08;margin-top:26pt;letter-spacing:-.2pt}
+h1 em{display:block;font-weight:400;font-style:italic;color:var(--ac)}
+.lead{font-size:8.6pt;line-height:1.6;color:#cfcfcf;margin-top:9pt;max-width:360pt}
+.label{color:var(--ac);margin-top:20pt;padding-bottom:7pt;border-bottom:.6pt solid var(--line)}
+.item{display:grid;grid-template-columns:34pt 1fr;padding:9pt 0;border-bottom:.6pt solid var(--line)}
+.item .c{font-family:"DejaVu Sans Mono",monospace;font-size:4.8pt;color:var(--ac);padding-top:2.5pt;letter-spacing:.1em}
+.item .t{font-weight:600;font-size:8.6pt}
+.item .d{font-size:6.8pt;color:var(--mut);line-height:1.55;margin-top:3pt}
+.item.off .t,.item.off .d{color:var(--dim)}
+.tbd{color:var(--ac);font-weight:700}
+.card{border:.6pt solid #3a3a3a;padding:11pt 13pt;margin-top:9pt}
+.card .k{color:var(--mut)}
+.card .t{font-weight:600;font-size:9pt;margin-top:5pt}
+.card .d{font-size:6.8pt;color:var(--mut);line-height:1.55;margin-top:3pt}
+.card.hl{background:var(--ac);border-color:var(--ac);color:var(--acdark)}
+.card.hl .k,.card.hl .d{color:#3a1d10}
+.tag{display:inline-block;background:var(--acdark);color:var(--ac);padding:2pt 5pt;margin-bottom:5pt}
+.band{margin:16pt -29pt 0;background:var(--bg2);padding:14pt 29pt;text-align:center}
+.band .mono{color:var(--ac);font-size:4.6pt}
+.band .b{font-family:Lora,serif;font-weight:700;font-size:10.5pt;margin-top:6pt;line-height:1.35}
+.band .b em{font-weight:400;color:var(--ac)}
+.grid{display:grid;gap:6pt;margin-top:16pt}
+.g3{grid-template-columns:repeat(3,1fr)}.g4{grid-template-columns:repeat(4,1fr)}.g2{grid-template-columns:repeat(2,1fr)}
+.tile{border:.6pt solid var(--line);background:#171717;padding:12pt 8pt;text-align:center;min-height:62pt;display:flex;flex-direction:column;justify-content:center;align-items:center}
+.tile .n{font-family:"DejaVu Sans Mono",monospace;font-size:5pt;color:var(--ac);letter-spacing:.2em}
+.tile .t{font-size:6.8pt;margin-top:6pt;line-height:1.35}
+.tile.left{text-align:left;align-items:flex-start;justify-content:flex-start}
+.quote{margin-top:16pt;border-left:1.5pt solid var(--ac);background:#191919;padding:13pt 14pt}
+.quote .q{font-family:Lora,serif;font-size:10pt;line-height:1.4}
+.quote .s{font-size:5pt;color:var(--dim);text-align:right;margin-top:6pt}
+.row{display:grid;grid-template-columns:1fr 1.15fr;gap:10pt;padding:7pt 0;border-bottom:.6pt solid var(--line);font-size:6.4pt;line-height:1.45}
+.row .a{font-weight:600}.row .b{color:var(--mut)}
+.chan{border:.8pt solid var(--ac);text-align:center;padding:8pt 4pt}
+.chan .t{font-weight:600;font-size:6.6pt}.chan .d{font-size:5pt;color:var(--mut);margin-top:2pt}
+.note{font-size:5.4pt;color:var(--dim);margin-top:8pt;line-height:1.5}
+/* diagram */
+.dg{border:.6pt dashed #3a3a3a;padding:10pt;margin-top:14pt}
+.nd{border:.6pt solid #444;background:#181818;text-align:center;padding:6pt 6pt}
+.nd .t{font-weight:600;font-size:6.6pt}.nd .d{font-size:4.9pt;color:var(--mut);margin-top:2pt}
+.nd.ch{border-color:var(--ac);border-width:.8pt}
+.nd.fill{background:var(--ac);border-color:var(--ac);color:var(--acdark)}.nd.fill .d{color:#3a1d10}
+.ar{text-align:center;font-family:"DejaVu Sans Mono",monospace;font-size:4.3pt;color:var(--dim);letter-spacing:.2em;text-transform:uppercase;padding:4pt 0;position:relative}
+.ar:before{content:"";display:block;width:.6pt;height:5pt;background:#555;margin:0 auto 2pt}
+.dr{display:grid;gap:5pt}
+.legend{display:flex;gap:12pt;margin-top:8pt;font-size:4.8pt;color:var(--mut);align-items:center}
+.legend i{display:inline-block;width:7pt;height:7pt;margin-right:4pt;vertical-align:middle}
+/* status */
+.st{background:#191919;border:.6pt solid var(--line);padding:11pt 13pt;margin-top:9pt}
+.st .h{font-weight:600;font-size:7.6pt;display:flex;align-items:center;gap:6pt}
+.st .h:before{content:"";width:5pt;height:5pt;border-radius:50%;background:var(--c,#7bd389)}
+.st ul{margin:6pt 0 0 12pt;font-size:6.3pt;color:var(--mut);line-height:1.75}
+/* checklist */
+.ph{color:var(--ac);margin-top:15pt;padding-bottom:6pt;border-bottom:.6pt solid var(--line)}
+.ck{display:grid;grid-template-columns:14pt 1fr;padding:6.5pt 0 6.5pt 5pt}
+.ck .b{width:6.5pt;height:6.5pt;border:.7pt solid #bbb;margin-top:1pt}
+.ck .t{font-size:7pt}.ck .w{color:var(--dim);margin-top:3pt;font-size:4.2pt}
+.cta{margin-top:auto;margin-bottom:58pt;background:var(--ac);color:var(--acdark);padding:12pt 14pt;display:flex;justify-content:space-between;align-items:center}
+.cta .mono{color:#3a1d10}.cta .t{font-weight:700;font-size:8.5pt;margin-top:4pt}.cta .x{font-size:13pt}
+/* cover */
+.logo{display:flex;align-items:center;gap:7pt}
+.mk{width:17pt;height:17pt;background:var(--ac);color:var(--acdark);font-weight:800;font-size:9pt;display:flex;align-items:center;justify-content:center;letter-spacing:-.5pt}
+.wm{font-weight:700;font-size:11pt;letter-spacing:-.2pt}.wm b{color:var(--ac)}
+.sub{color:var(--mut);margin-top:3pt;font-size:4.2pt}
+.art{position:relative;height:330pt;margin-top:14pt}
+.art div{position:absolute}
+.f1{left:95pt;top:12pt;width:128pt;height:225pt;border:.6pt solid #555;transform:rotate(4deg)}
+.f2{left:70pt;top:40pt;width:130pt;height:228pt;background:var(--ac);transform:rotate(-3deg);display:flex;align-items:center;justify-content:center}
+.f2 span{font-weight:800;font-size:78pt;color:var(--acdark);letter-spacing:-4pt}
+.f2 i{position:absolute;top:9pt;right:10pt;font-style:normal;font-family:"DejaVu Sans Mono",monospace;font-size:5pt;color:var(--acdark);letter-spacing:.2em}
+.f3{left:20pt;top:205pt;width:95pt;height:90pt;background:#1e1e1e;border:.6pt solid #3c3c3c;transform:rotate(-8deg)}
+.f4{left:190pt;top:185pt;width:90pt;height:62pt;border:.8pt solid var(--ac);background:var(--bg);transform:rotate(5deg)}
+.lbl{font-family:"DejaVu Sans Mono",monospace;font-size:4.6pt;letter-spacing:.25em;color:var(--mut);position:absolute}
+.cv-line{width:34pt;height:.8pt;background:var(--ac);margin-top:auto}
+.cv-k{color:var(--ac);margin-top:14pt;line-height:2.2}
+.cover h1{font-size:25pt;margin-top:10pt}
+.cover h1 em{display:inline}
+</style></head><body>
+
+<!-- 01 PORTADA -->
+<section class="page cover">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;padding-top:8pt">
+    <div><div class="logo"><div class="mk">18</div><div class="wm">proyecto<b>18</b></div></div>
+    <div class="mono sub" style="margin-left:24pt">Mentalidad emprendedora</div></div>
+    <div class="mono" style="text-align:right;color:var(--mut);line-height:2">Buenos Aires<br>DOC-P18-01 · V1</div>
+  </div>
+  <div class="art">
+    <div class="f1"></div>
+    <div class="f2"><i>9:16</i><span>18</span></div>
+    <div class="f3"><span class="lbl" style="left:9pt;bottom:9pt">Taller</span></div>
+    <div class="f4"><div style="position:absolute;left:10pt;right:10pt;top:14pt;height:.6pt;background:#555"></div><span class="lbl" style="left:9pt;bottom:8pt;color:var(--ac)">Podcast</span></div>
+  </div>
+  <div class="cv-line"></div>
+  <div class="mono cv-k">Talleres · Contenido · Podcast · Comunidad<br>Para chicos de 17 a 19</div>
+  <h1>Lo que el colegio no enseña. <em>Lo aprendés acá.</em></h1>
+  <p class="lead">Cómo funciona P18: qué hacemos, para quién, cómo nos encuentran, cómo llegan a los talleres y cómo nos organizamos.</p>
+  <div style="height:64pt"></div>
+  <div class="ftr"><span>proyecto18.com · Lautaro, Mati &amp; Valen · 31/10/2026</span><span class="r">01 / 16</span></div>
+</section>
+
+<!-- 02 LO QUE HACEMOS -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">01 / Lo que hacemos</span></div>
+  <h1>Mentalidad emprendedora <em>para los que tienen 18.</em></h1>
+  <p class="lead">A los 18 se toman las primeras decisiones importantes y casi nadie te prepara. Damos herramientas concretas para que los chicos lleguen al mundo real sabiendo que pueden construir algo propio.</p>
+  <div class="label mono">Lo que hacemos</div>
+  <div class="item"><div class="c">T-01</div><div><div class="t">Talleres virtuales</div><div class="d">Por videollamada. El primer paso, y el más fácil, para sumarse.</div></div></div>
+  <div class="item"><div class="c">T-02</div><div><div class="t">Talleres presenciales</div><div class="d">Cara a cara. Más conexión y más networking.</div></div></div>
+  <div class="item"><div class="c">C-01</div><div><div class="t">Contenido en redes</div><div class="d">Reposteos, videos propios y clips en TikTok e Instagram. Es lo que trae gente nueva.</div></div></div>
+  <div class="item"><div class="c">P-01</div><div><div class="t">Podcast</div><div class="d">Mati y Valen charlan con invitados que ya arrancaron algo propio.</div></div></div>
+  <div class="item"><div class="c">R-01</div><div><div class="t">Comunidad</div><div class="d">Una red de chicos, mentores e invitados que se bancan entre sí.</div></div></div>
+  <div class="item off"><div class="c">—</div><div><div class="t">Charlas en colegios</div><div class="d">En pausa. Vuelven más adelante.</div></div></div>
+  <div class="label mono">Lo que no hacemos</div>
+  <div class="item"><div class="c">–</div><div><div class="d" style="margin-top:0">No son charlas motivacionales. No prometemos plata ni éxito rápido. No damos consejos de inversión. Nada de jerga de negocios.</div></div></div>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">02 / 16</span></div>
+</section>
+
+<!-- 03 TEMAS -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">01 / Temas</span></div>
+  <h1>Lo que nadie te enseña. <em>Y vas a necesitar.</em></h1>
+  <p class="lead">Los temas de los talleres, del contenido y del podcast. Todo lo que hace falta apenas salís del colegio.</p>
+  <div class="grid g4">
+    <div class="tile"><div class="n">01</div><div class="t">Hábitos</div></div>
+    <div class="tile"><div class="n">02</div><div class="t">Finanzas personales</div></div>
+    <div class="tile"><div class="n">03</div><div class="t">Cómo vender</div></div>
+    <div class="tile"><div class="n">04</div><div class="t">Autoestima</div></div>
+    <div class="tile"><div class="n">05</div><div class="t">Disciplina</div></div>
+    <div class="tile"><div class="n">06</div><div class="t">Fracaso</div></div>
+    <div class="tile"><div class="n">07</div><div class="t">Redes</div></div>
+    <div class="tile"><div class="n">08</div><div class="t">Inteligencia artificial</div></div>
+  </div>
+  <div class="label mono">Cómo lo enseñamos</div>
+  <div class="item"><div class="c">01</div><div><div class="t">Herramientas, no discursos</div><div class="d">Cada tema baja a algo que se puede hacer esa misma semana.</div></div></div>
+  <div class="item"><div class="c">02</div><div><div class="t">Ejemplos reales</div><div class="d">Casos de gente que arrancó de cero, no teoría de libro.</div></div></div>
+  <div class="item"><div class="c">03</div><div><div class="t">Ejercicios</div><div class="d">Todo taller tiene práctica. Nadie se queda solo escuchando.</div></div></div>
+  <div class="quote"><div class="q">«Nadie debería terminar el colegio sin saber que puede construir algo propio.»</div><div class="s">La idea detrás de P18</div></div>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">03 / 16</span></div>
+</section>
+
+<!-- 04 PARA QUIÉN -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">02 / Para quién</span></div>
+  <h1>Chicos de 17 a 19. <em>Con ganas de hacer algo.</em></h1>
+  <p class="lead">Están terminando el secundario o recién salieron. Algunos tienen una idea; otros no saben qué hacer. Los dos nos importan.</p>
+  <div class="grid g2">
+    <div class="tile left"><div class="n">A</div><div class="t">Tiene una idea y no sabe por dónde empezar</div></div>
+    <div class="tile left"><div class="n">B</div><div class="t">Ya arrancó algo y quiere que crezca</div></div>
+    <div class="tile left"><div class="n">C</div><div class="t">No sabe qué hacer después del colegio</div></div>
+    <div class="tile left"><div class="n">D</div><div class="t">Quiere conocer gente con las mismas ganas</div></div>
+  </div>
+  <div class="label mono">Los que nos ayudan</div>
+  <div class="item"><div class="c">01</div><div><div class="t">Invitados</div><div class="d">Emprendedores y empresarios que estuvieron donde están los chicos. Cuentan su experiencia en el podcast y en los talleres.</div></div></div>
+  <div class="item"><div class="c">02</div><div><div class="t">Mentores</div><div class="d">Acompañan de cerca a las mejores ideas.</div></div></div>
+  <div class="item"><div class="c">03</div><div><div class="t">Aliados</div><div class="d">Empresas que bancan el proyecto. Hoy: Alpanel, Enjinia y Degalpones.</div></div></div>
+  <div class="quote"><div class="q">«No hace falta tener todo resuelto para empezar.»</div><div class="s">Lo que les queremos transmitir</div></div>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">04 / 16</span></div>
+</section>
+
+<!-- 05 CÓMO SE SUMAN -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">03 / Cómo se suman</span></div>
+  <h1>Cuatro formas de sumarse. <em>Todas empiezan en el celular.</em></h1>
+  <p class="lead">El contenido es la puerta. El taller es el paso importante. La comunidad es lo que queda.</p>
+  <div class="card"><div class="mono k">A · Todos los días</div><div class="t">Contenido</div><div class="d">Clips, reposteos y podcast. Gratis, en TikTok, Instagram y YouTube.</div></div>
+  <div class="card hl"><div class="mono tag">El que empujamos</div><div class="mono k">B · Primer paso</div><div class="t">Talleres virtuales</div><div class="d">Desde cualquier lugar, por videollamada. Precio: <b>A DEFINIR</b>.</div></div>
+  <div class="card"><div class="mono k">C · Cara a cara</div><div class="t">Talleres presenciales</div><div class="d">Para conocerse y hacer networking. Precio: <span class="tbd">A DEFINIR</span>.</div></div>
+  <div class="card"><div class="mono k">D · Después</div><div class="t">Comunidad y mentorías</div><div class="d">Para los que hicieron un taller. Las mejores ideas suman mentoría.</div></div>
+  <div class="band"><div class="mono">¿Un colegio pide una charla?</div><div class="b">Por ahora, en pausa. <em>Lo anotamos y lo volvemos a contactar.</em></div></div>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">05 / 16</span></div>
+</section>
+
+<!-- 06 TALLERES -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">03 / Talleres</span></div>
+  <h1>Talleres. <em>Donde pasa lo importante.</em></h1>
+  <p class="lead">Todo el contenido apunta acá. Un taller es corto, práctico y termina con una tarea concreta.</p>
+  <div class="card hl" style="margin-top:16pt;display:flex;justify-content:space-between">
+    <div><div class="mono tag">Arrancamos por este</div><div class="mono k">Virtual</div><div class="t" style="font-size:12pt">Por videollamada</div><div class="mono k" style="margin-top:5pt;font-size:4pt">Duración y cupo: a definir</div></div>
+    <div style="text-align:right;font-size:7pt;line-height:1.9;align-self:center"><b>1</b> tema<br><b>Ejercicios</b> en vivo<br><b>1</b> desafío final</div>
+  </div>
+  <div class="card" style="display:flex;justify-content:space-between">
+    <div><div class="mono k">Presencial</div><div class="t" style="font-size:12pt;color:var(--ac)">Cara a cara</div><div class="mono k" style="margin-top:5pt;font-size:4pt">Lugar y frecuencia: a definir</div></div>
+    <div style="text-align:right;font-size:7pt;line-height:1.9;align-self:center"><b>1</b> tema<br><b>Networking</b><br><b>1</b> desafío final</div>
+  </div>
+  <div class="label mono">Lo que hay que definir</div>
+  <div class="item"><div class="c">01</div><div><div class="t">Formato</div><div class="d">Duración, cupo y cada cuánto. <span class="tbd">A DEFINIR</span>. Propuesta: 60 a 90 minutos, uno por mes para arrancar.</div></div></div>
+  <div class="item"><div class="c">02</div><div><div class="t">Quién lo da</div><div class="d">Nosotros, un invitado o los dos. <span class="tbd">A DEFINIR</span>.</div></div></div>
+  <div class="item"><div class="c">03</div><div><div class="t">Precio</div><div class="d">Gratis, mixto o pago. <span class="tbd">A DEFINIR</span> (ver La plata).</div></div></div>
+  <div class="band"><div class="mono">En todos los talleres</div><div class="b">1 tema concreto · ejercicios prácticos · cada uno se va con una tarea</div></div>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">06 / 16</span></div>
+</section>
+
+<!-- 07 RECORRIDO -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">03 / El recorrido</span></div>
+  <h1>Del clip al taller. <em>Del taller a la comunidad.</em></h1>
+  <div class="band" style="margin-top:14pt"><div class="mono">Regla de oro</div><div class="b">Nadie se va del taller sin mandar una idea.</div></div>
+  <div class="item"><div class="c">01</div><div><div class="t">Ve un clip</div><div class="d">En TikTok o Instagram. Le interesa y nos sigue.</div></div></div>
+  <div class="item"><div class="c">02</div><div><div class="t">Se anota</div><div class="d">Con el link de la bio o el formulario de la web. Le llega un recordatorio antes del taller.</div></div></div>
+  <div class="item"><div class="c">03</div><div><div class="t">Hace el taller</div><div class="d">Herramientas concretas y ejercicios que lo ponen a pensar de otra manera.</div></div></div>
+  <div class="item"><div class="c">04</div><div><div class="t">Manda su idea</div><div class="d">Antes de irse, cada uno manda algo suyo: una idea, un proyecto, lo que tenga dando vueltas.</div></div></div>
+  <div class="item"><div class="c">05</div><div><div class="t">Entra a la comunidad</div><div class="d">Un grupo con otros chicos, mentores e invitados del podcast. Plataforma: <span class="tbd">A DEFINIR</span> (WhatsApp o Discord).</div></div></div>
+  <div class="item"><div class="c">06</div><div><div class="t">Los que van por más</div><div class="d">Las mejores ideas pasan a mentoría para avanzar en serio. Cómo se eligen: <span class="tbd">A DEFINIR</span>.</div></div></div>
+  <div class="item"><div class="c">07</div><div><div class="t">Lo invitamos al siguiente</div><div class="d">Otro taller, un evento presencial o una charla en el podcast.</div></div></div>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">07 / 16</span></div>
+</section>
+
+<!-- 08 CONTENIDO -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">04 / Contenido</span></div>
+  <h1>Un clip por día. <em>Para que nos encuentren.</em></h1>
+  <p class="lead">El contenido es lo que trae gente nueva. Lo lleva Lautaro. Va a TikTok, Instagram Reels y YouTube Shorts.</p>
+  <div class="label mono">Qué publicamos</div>
+  <div class="item"><div class="c">R-01</div><div><div class="t">Reposteos</div><div class="d">Frases y clips cortos de emprendedores y de gente que arrancó de cero. Es lo primero que arranca.</div></div></div>
+  <div class="item"><div class="c">V-01</div><div><div class="t">Videos propios</div><div class="d">Consejos simples de 30 a 60 segundos: plata, hábitos, cómo vender, IA. Arrancan en la etapa 3.</div></div></div>
+  <div class="item"><div class="c">P-01</div><div><div class="t">Clips del podcast</div><div class="d">Los mejores momentos de cada episodio. Arrancan en la etapa 4.</div></div></div>
+  <div class="label mono">Reglas</div>
+  <div class="item"><div class="c">01</div><div><div class="t">Constancia antes que perfección</div><div class="d">Propuesta: 1 publicación por día. Frecuencia final: <span class="tbd">A DEFINIR</span>.</div></div></div>
+  <div class="item"><div class="c">02</div><div><div class="t">Cada video lleva al taller</div><div class="d">Texto o comentario fijado: "link en la bio para anotarte".</div></div></div>
+  <div class="item"><div class="c">03</div><div><div class="t">Crédito siempre</div><div class="d">Nombramos al creador original. Si alguien pide que lo bajemos, se baja.</div></div></div>
+  <div class="item"><div class="c">04</div><div><div class="t">Anotamos qué funciona</div><div class="d">Qué video trajo más seguidores y más anotados al taller.</div></div></div>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">08 / 16</span></div>
+</section>
+
+<!-- 09 PODCAST -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">04 / Podcast</span></div>
+  <h1>Un podcast con invitados. <em>Cada episodio, muchos clips.</em></h1>
+  <p class="lead">Mati y Valen charlan con gente que ya arrancó algo propio. El episodio entero va a YouTube y Spotify; los clips, a TikTok e Instagram.</p>
+  <div class="label mono">Formato</div>
+  <div class="item"><div class="c">01</div><div><div class="t">Conducen</div><div class="d">Mati y Valen.</div></div></div>
+  <div class="item"><div class="c">02</div><div><div class="t">Invitados</div><div class="d">Emprendedores y empresarios que estuvieron donde están los chicos. Los aliados también pueden ir.</div></div></div>
+  <div class="item"><div class="c">03</div><div><div class="t">Duración y frecuencia</div><div class="d"><span class="tbd">A DEFINIR</span>. Propuesta: 30 a 45 minutos, cada 2 semanas.</div></div></div>
+  <div class="item"><div class="c">04</div><div><div class="t">Siempre en video</div><div class="d">Sin video no hay clips. Los cortes los publica Lautaro.</div></div></div>
+  <div class="item"><div class="c">05</div><div><div class="t">Nombre</div><div class="d"><span class="tbd">A DEFINIR</span>.</div></div></div>
+  <div class="band"><div class="mono">Regla de oro</div><div class="b">Cada invitado comparte su episodio. <em>Así llegamos a su gente.</em></div></div>
+  <p class="note" style="margin-top:12pt">El podcast arranca en la etapa 4, cuando el contenido y los talleres ya estén andando.</p>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">09 / 16</span></div>
+</section>
+
+<!-- 10 CÓMO NOS ENCUENTRAN -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">05 / Cómo nos encuentran</span></div>
+  <h1>Muchas puertas. <em>Una sola salida: el taller.</em></h1>
+  <p class="lead">Las redes y el podcast sirven para que nos conozcan. Todo termina en la inscripción a un taller.</p>
+  <div class="label mono">Dónde aparecemos</div>
+  <div class="grid g4" style="margin-top:10pt">
+    <div class="chan"><div class="t">TikTok</div><div class="d">Clips y reposteos</div></div>
+    <div class="chan"><div class="t">Instagram</div><div class="d">Reels y posts</div></div>
+    <div class="chan"><div class="t">YouTube</div><div class="d">Podcast entero</div></div>
+    <div class="chan"><div class="t">Web</div><div class="d">Info e inscripción</div></div>
+  </div>
+  <div class="label mono">A todos les respondemos</div>
+  <div class="row"><div class="a">Comenta un video</div><div class="b">Le respondemos y le pasamos el link del taller</div></div>
+  <div class="row"><div class="a">Nos manda un mensaje directo</div><div class="b">Le respondemos y lo invitamos al próximo taller</div></div>
+  <div class="row"><div class="a">Completa el formulario de la web</div><div class="b">Le escribimos con la fecha del próximo taller</div></div>
+  <div class="row"><div class="a">Ve un episodio del podcast</div><div class="b">El episodio cierra invitando al taller</div></div>
+  <div class="row"><div class="a">Se anota a un taller</div><div class="b">Recibe un recordatorio y, después del taller, entra a la comunidad</div></div>
+  <p class="note">Los colegios, por ahora, quedan en pausa.</p>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">10 / 16</span></div>
+</section>
+
+<!-- 11 ARQUITECTURA -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">06 / Arquitectura</span></div>
+  <h1>Por dónde entran los chicos <em>y hasta dónde llegan.</em></h1>
+  <div class="dg">
+    <div class="nd"><div class="t">Joven de 17 a 19</div><div class="d">Ve un clip, un episodio o la web</div></div>
+    <div class="ar">nos encuentra</div>
+    <div class="dr g4" style="display:grid">
+      <div class="nd ch"><div class="t">TikTok</div><div class="d">Clips</div></div>
+      <div class="nd ch"><div class="t">Instagram</div><div class="d">Reels</div></div>
+      <div class="nd ch"><div class="t">YouTube</div><div class="d">Podcast</div></div>
+      <div class="nd ch"><div class="t">Web</div><div class="d">Formulario</div></div>
+    </div>
+    <div class="ar">todo deriva a</div>
+    <div class="nd ch" style="border-width:1.2pt"><div class="t">Inscripción al taller</div><div class="d">Link en la bio o formulario de la web</div></div>
+    <div class="ar">participa</div>
+    <div class="dr g2" style="display:grid">
+      <div class="nd"><div class="t">Taller virtual</div><div class="d">Videollamada</div></div>
+      <div class="nd"><div class="t">Taller presencial</div><div class="d">Cara a cara</div></div>
+    </div>
+    <div class="ar">manda su idea</div>
+    <div class="nd"><div class="t">Comunidad</div><div class="d">Chicos, mentores e invitados · plataforma a definir</div></div>
+    <div class="ar">los mejores</div>
+    <div class="nd fill"><div class="t">Mentorías</div><div class="d">Acompañamiento de cerca a las mejores ideas</div></div>
+    <div style="margin-top:10pt;border-top:.6pt dashed #3a3a3a;padding-top:10pt" class="dr g2">
+      <div class="nd"><div class="t">Aliados</div><div class="d">Alpanel · Enjinia · Degalpones</div></div>
+      <div class="nd"><div class="t">Bancan talleres y podcast</div><div class="d">A cambio: visibilidad en web, talleres y podcast</div></div>
+    </div>
+  </div>
+  <div class="legend"><span><i style="border:.8pt solid var(--ac)"></i>Canales de entrada</span><span><i style="background:var(--ac)"></i>Donde queremos que lleguen</span><span>Todo se anota en una planilla</span></div>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">11 / 16</span></div>
+</section>
+
+<!-- 12 LA PLATA -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">07 / La plata</span></div>
+  <h1>Quién paga. <em>Una decisión pendiente.</em></h1>
+  <p class="lead">Hasta ahora las charlas eran 100% gratis y las bancaban empresas aliadas. Con talleres y podcast hay que definir de dónde sale la plata: <span class="tbd">A DEFINIR</span>.</p>
+  <div class="card"><div class="mono k">A · Todo gratis</div><div class="t">Lo bancan los aliados</div><div class="d">Los chicos no pagan nada. Es como funcionaba P18 hasta ahora.</div></div>
+  <div class="card"><div class="mono k">B · Mixto</div><div class="t">Gratis para entrar, presencial con costo</div><div class="d">Contenido y talleres virtuales gratis. Presenciales con un precio bajo.</div></div>
+  <div class="card"><div class="mono k">C · Talleres pagos</div><div class="t">Precio accesible para todos los talleres</div><div class="d">Los aliados bancan el podcast y los extras.</div></div>
+  <div class="label mono">Qué recibe un aliado</div>
+  <div class="item"><div class="c">01</div><div><div class="t">Visibilidad</div><div class="d">Aparece en la web, en los talleres y en el podcast.</div></div></div>
+  <div class="item"><div class="c">02</div><div><div class="t">Un lugar en el podcast</div><div class="d">Puede ir como invitado a contar su historia.</div></div></div>
+  <div class="label mono">En qué se gasta</div>
+  <div class="item"><div class="c">–</div><div><div class="d" style="margin-top:0">Equipo para grabar el podcast, lugar para los presenciales y herramientas de edición y videollamada. Montos: <span class="tbd">A DEFINIR</span>.</div></div></div>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">12 / 16</span></div>
+</section>
+
+<!-- 13 CON LOS CHICOS -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">08 / Con los chicos</span></div>
+  <h1>Cerca y claro. <em>Y cuidándolos.</em></h1>
+  <p class="lead">Hablamos con chicos de 17 a 19. Muchos todavía son menores de edad.</p>
+  <div class="label mono">Cómo hablamos</div>
+  <div class="item"><div class="c">01</div><div><div class="t">Simple</div><div class="d">De vos, frases cortas, ejemplos reales. Nada de jerga de negocios.</div></div></div>
+  <div class="item"><div class="c">02</div><div><div class="t">Sin humo</div><div class="d">No prometemos plata fácil ni éxito rápido. Nada de "hacete millonario".</div></div></div>
+  <div class="item"><div class="c">03</div><div><div class="t">Respondemos todo</div><div class="d">Comentarios y mensajes, rápido y con buena onda.</div></div></div>
+  <div class="label mono">Cuidados</div>
+  <div class="item"><div class="c">04</div><div><div class="t">Fotos y videos</div><div class="d">Para publicar fotos o videos de un taller donde aparezcan menores, pedimos autorización de los padres.</div></div></div>
+  <div class="item"><div class="c">05</div><div><div class="t">Comunidad con reglas</div><div class="d">Reglas claras en el grupo y siempre alguien del equipo adentro.</div></div></div>
+  <div class="item"><div class="c">06</div><div><div class="t">Mentores a la vista</div><div class="d">Propuesta: los mentores hablan con los chicos en el grupo o en llamadas con el equipo, no por privado.</div></div></div>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">13 / 16</span></div>
+</section>
+
+<!-- 14 ENTRE NOSOTROS -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">09 / Entre nosotros</span></div>
+  <h1>Tres personas. <em>Roles claros.</em></h1>
+  <p class="lead">Lo mínimo para arrancar. El resto lo vamos acordando.</p>
+  <div class="label mono">Quién hace qué</div>
+  <div class="item"><div class="c">LAU</div><div><div class="t">Lautaro · Contenido, branding y web</div><div class="d">Reposteos, videos propios y clips del podcast. Responde comentarios. Arma el branding nuevo y rediseña la web.</div></div></div>
+  <div class="item"><div class="c">M+V</div><div><div class="t">Mati y Valen · Podcast</div><div class="d">Conducción, invitados y grabación.</div></div></div>
+  <div class="item"><div class="c">3</div><div><div class="t">Los tres · Talleres</div><div class="d">Quién los da y quién los organiza: <span class="tbd">A DEFINIR</span>.</div></div></div>
+  <div class="label mono">Reglas</div>
+  <div class="item"><div class="c">01</div><div><div class="t">Lo que decidimos los tres</div><div class="d">Gastos, precios, sumar aliados o gente, y todo lo que sale hacia afuera: mails a colegios, mensajes a aliados, publicaciones importantes.</div></div></div>
+  <div class="item"><div class="c">02</div><div><div class="t">Reunión semanal</div><div class="d">Propuesta: 30 minutos para ver números, qué funcionó y qué sigue. Día: <span class="tbd">A DEFINIR</span>.</div></div></div>
+  <div class="band"><div class="mono">Regla de oro</div><div class="b">Lo que se decide, se anota.</div></div>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">14 / 16</span></div>
+</section>
+
+<!-- 15 DÓNDE ESTAMOS -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">10 / Dónde estamos</span></div>
+  <h1>Lo que hay. <em>Lo que falta.</em></h1>
+  <div class="st" style="margin-top:16pt"><div class="h">Lo que ya está</div><ul>
+    <li>Nombre, web (proyecto18.com) y redes.</li>
+    <li>Contenido: 8 temas y un método de 4 pasos.</li>
+    <li>Aliados: Alpanel, Enjinia y Degalpones.</li>
+    <li>Equipo: Lautaro, Mati y Valen.</li>
+    <li>Orden de arranque: reposteos, talleres, videos propios, podcast.</li>
+  </ul></div>
+  <div class="st" style="--c:#e9c46a"><div class="h" style="--c:#e9c46a">Lo que definimos ahora</div><ul>
+    <li>Branding nuevo: logo, colores y tipografías.</li>
+    <li>Quién paga: todo gratis, mixto o talleres pagos.</li>
+    <li>Formato, duración, cupo y precio de los talleres.</li>
+    <li>Quién da los talleres.</li>
+    <li>Plataforma de la comunidad: WhatsApp o Discord.</li>
+    <li>Nombre y formato del podcast.</li>
+    <li>Rediseño de la web y un solo dominio (.com o .co).</li>
+  </ul></div>
+  <div class="st"><div class="h" style="--c:#e76f51">Lo que todavía no sabemos</div><ul>
+    <li>Cuánta gente llega desde las redes.</li>
+    <li>Cuántos de los que ven un clip se anotan a un taller.</li>
+    <li>Si los aliados alcanzan para bancar todo.</li>
+  </ul></div>
+  <div class="ftr"><span>proyecto18.com</span><span class="r">15 / 16</span></div>
+</section>
+
+<!-- 16 ETAPAS -->
+<section class="page">
+  <div class="hdr mono"><span>Proyecto18</span><span class="r">11 / Etapas</span></div>
+  <h1>Cuatro etapas. <em>Una por vez.</em></h1>
+  <p class="lead">No arrancamos todo junto. Cada etapa empieza cuando la anterior funciona. Fechas: <span class="tbd">A DEFINIR</span>.</p>
+  <div class="ph mono">Etapa 1 · Repostear</div>
+  <div class="ck"><div class="b"></div><div><div class="t">Branding nuevo y rediseño de la web</div><div class="w mono">Lautaro</div></div></div>
+  <div class="ck"><div class="b"></div><div><div class="t">Perfiles de TikTok e Instagram listos y 1 reposteo por día</div><div class="w mono">Lautaro</div></div></div>
+  <div class="ph mono">Etapa 2 · Talleres</div>
+  <div class="ck"><div class="b"></div><div><div class="t">Cerrar formato, precio y quién da el primer taller</div><div class="w mono">Los tres</div></div></div>
+  <div class="ck"><div class="b"></div><div><div class="t">Primer taller virtual y grupo de la comunidad</div><div class="w mono">Los tres</div></div></div>
+  <div class="ph mono">Etapa 3 · Videos propios</div>
+  <div class="ck"><div class="b"></div><div><div class="t">Grabar videos con consejos para atraer más público</div><div class="w mono">Lautaro</div></div></div>
+  <div class="ph mono">Etapa 4 · Podcast</div>
+  <div class="ck"><div class="b"></div><div><div class="t">Nombre, formato y primeros 3 invitados</div><div class="w mono">Mati y Valen</div></div></div>
+  <div class="ck"><div class="b"></div><div><div class="t">Grabar episodios y cortar clips</div><div class="w mono">Mati y Valen · clips: Lautaro</div></div></div>
+  <div class="ph mono" style="color:var(--dim)">En pausa · Charlas en colegios</div>
+  <div class="cta"><div><div class="mono">Para Mati y Valen</div><div class="t">Léanlo y díganme qué cambiarían.</div></div><div class="x">→</div></div>
+  <div class="ftr"><span>DOC-P18-01 · V1 · 31/10/2026</span><span class="r">16 / 16</span></div>
+</section>
+
+</body></html>

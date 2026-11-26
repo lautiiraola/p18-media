@@ -1,0 +1,32 @@
+VALIDACIÓN DE VOZ — P18-002-marcos-galperin
+Fecha: 2026-11-24
+Resultado: APROBADA. Coincide palabra por palabra con 02_script/voiceover-final.txt y dura 46,76 s, dentro de la regla de 30–50 s.
+
+ARCHIVO RECIBIDO (original sin modificar)
+03_voiceover/inbox/ElevenLabs_2026-11-24T16_21_07_Brian - Warm, Smooth, Confident_pvc_s50_sim75_v4.mp3
+SHA-256: f41bb0bfa2ad6fab733be8e242afdcecd22c96c1e3f700f871e29878ec746d40
+Voz: Brian - Warm, Smooth, Confident (pvc, s50, sim75, v4). Es la misma voz de referencia de P18-001.
+
+DATOS TÉCNICOS
+MP3 de 128 kbps, 44.100 Hz, mono. Duración: 46,76 s.
+Loudness: -20,7 LUFS, LRA 3,1. True peak: -2,0 dBTP. Sin clipping. Piso de ruido: -74 dB.
+Ritmo: 112 palabras en 46,76 s, o sea 2,40 palabras por segundo (en P18-001 fue 2,49). La estimación previa era de 46 s.
+
+COMPARACIÓN DE TEXTO (whisper.cpp ggml-small, es)
+112 palabras contra 112. Diferencias detectadas por el reconocimiento:
+- "acá" → "aca": solo la tilde. No es una diferencia.
+- "Después" → "Empez": error de contexto del reconocimiento. Se transcribió aislado el tramo 23,4–26,9 s y dice "Después". No es una diferencia.
+Diferencias reales: 0.
+Pronunciaciones: Galperin, Stanford, Nasdaq, "noventa y nueve" y "dos mil siete" se reconocen correctamente.
+La pregunta final se transcribió como una sola pregunta.
+
+PAUSAS (silencios de 0,45 s o más, a -40 dB)
+4,25 s (0,65 s, después del hook) · 11,36 · 15,84 · 17,53 · 23,08 · 35,11 · 43,42 s (0,57 s, antes de la pregunta final).
+Las pausas pedidas en la guía están presentes, aunque son cortas (alrededor de 0,5 s).
+
+ARCHIVOS GENERADOS
+- 03_voiceover/approved/P18-002-marcos-galperin-voiceover-approved.wav: MP3 decodificado a PCM 16-bit, 44,1 kHz, mono. Sin edición.
+  SHA-256: fcd569ee02429d5b630f8720df7761f7542ccf50410a5d51f1bf0742c3217a28
+- 03_voiceover/P18-002-marcos-galperin-voiceover-words.json: timings por palabra. La palabra "Después" se corrigió y quedó marcada.
+
+PISTA MAESTRA: la voz aprobada es el reloj del video.

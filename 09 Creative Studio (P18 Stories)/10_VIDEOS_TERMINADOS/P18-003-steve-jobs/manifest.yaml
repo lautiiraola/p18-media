@@ -1,0 +1,26 @@
+schema_version: 1
+video_id: P18-003
+slug: steve-jobs
+title: "La empresa que lo echó"
+protagonist: "Steve Jobs"
+creation_mode: assigned
+status: archived  # aprobado por el operador (2026-11-25)
+created_at: "2026-11-24"
+updated_at: "2026-11-25"
+duration_target_seconds: 42.84  # voz de 38,84 s más 1 s de cola y 3 s de cierre
+format: p18_story_vertical
+resolution: 1080x1920
+fps: 60
+voiceover_status: approved
+voiceover_file: 03_voiceover/approved/P18-003-steve-jobs-voiceover-approved.wav
+voiceover_voice: "ElevenLabs - Brian - Warm, Smooth, Confident (pvc, s50, sim75, v4)"
+facts_verified: true  # ver 01_research/fact-check.csv
+assets_cleared: true  # ver 04_assets/asset-registry.csv
+storyboard_approved: true  # autónomo
+creative_review: approved  # operador, 2026-11-25
+technical_review: passed
+final_render: 07_renders/final/P18-003-steve-jobs-master-v01.mp4
+master_sha256: "16524f6d40caac8bc8820785e8d0718c141a04f7ca066c3799be84d076ef5b16"
+duration_final_seconds: 42.86
+master_version: v01
+completed_at: "2026-11-25"

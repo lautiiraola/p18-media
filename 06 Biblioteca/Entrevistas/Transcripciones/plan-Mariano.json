@@ -1,0 +1,70 @@
+{
+ "video": "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Entrevistas/Editadas/Mariano - video principal.mp4",
+ "salida": "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Entrevistas/Partes/Mariano",
+ "fin": [
+  230.6,
+  235.6
+ ],
+ "partes": [
+  {
+   "n": 1,
+   "nombre": "Si tuvieras 18 años cero capital y una compu con IA",
+   "tramos": [
+    [
+     9.8,
+     56.1
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "nombre": "Que provecho sacarle a la IA",
+   "tramos": [
+    [
+     56.2,
+     97.3
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "nombre": "Que le miras a un pibe recien salido de la secundaria",
+   "tramos": [
+    [
+     97.5,
+     151.6
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "nombre": "Te arrepentis de alguna decision",
+   "tramos": [
+    [
+     152.0,
+     181.4
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "nombre": "Defini el exito",
+   "tramos": [
+    [
+     181.6,
+     207.3
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "nombre": "Un consejo para cerrar",
+   "tramos": [
+    [
+     208.2,
+     230.5
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+CLIP 04 — LA *PRESIÓN* ES UN *PRIVILEGIO*
+
+Inicio:     55:35.6  (3335.60 s)
+Fin:        56:24.8  (3384.79 s)
+Duración:   49.2 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LA *PRESIÓN* ES UN *PRIVILEGIO*
+Departamento:     Deporte y mentalidad
+Área:             Presión y dificultad
+Tema:             Ver la presión como algo que te ganaste
+Fuente:           Cracks Podcast - Carlos García — "La Historia de KAVAK | CARLOS GARCIA en Cracks Podcast #373"
+                  https://www.youtube.com/watch?v=oYDI7Y4vJTk&t=3335s
+
+Por qué lo elegí:
+Usa un ejemplo de deporte que cualquiera entiende (patear un penal en la final del mundial vs. un amistoso) para un concepto de vida: si sentís presión es porque estás haciendo algo que importa. Corto, claro y con remate.
+
+Gancho (primeros 3 s): Si construir algo va a ser difícil por naturaleza…
+
+Notas para la revisión: Empieza con 'si construir algo…' porque la frase anterior ('O sea, al final del día') queda afuera.
+
+Transcripción del clip:
+Si construir algo va a ser difícil por naturaleza, tienes problemas que tienes que quitarte de encima y traer soluciones. Si tú entiendes eso, nuevamente lo que te decía, si tú entiendes que tú compraste el rompecabezas y el trabajo de armarlo, no lo vas a ver con la frustración de que alguien te regaló un rompecabezas y tienes que armarlo. Entonces, pero si requería de un montón de... había mucha presión, había mucho ruido. Yo en ese momento no entendía que la presión era un privilegio, por ejemplo. ¿A qué te refieres con eso? mira la presión es algo que te gana, o sea tú no estás un deportista pegando un penal en la final del mundial está nervioso porque está en la final del mundial, en un amistoso a lo mejor no está nervioso, la presión viene porque te la estás ganando, estás haciendo algo que está generando atención,
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-11 - Cracks Podcast - Carlos García/04 - la presion es un privilegio.mp4" "LA *PRESIÓN* ES UN *PRIVILEGIO*" --fuente "Cracks Podcast - Carlos García"

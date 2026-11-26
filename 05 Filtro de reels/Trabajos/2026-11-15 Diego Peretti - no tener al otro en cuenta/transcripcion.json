@@ -1,0 +1,511 @@
+{
+ "idioma": "es",
+ "duracion": 49.94,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.02,
+   "fin": 10.88,
+   "texto": "Me da vergüenza la desubicación, sobre todo, de algunas personas, la impunidad de no tener al",
+   "palabras": [
+    {
+     "ini": 0.02,
+     "fin": 0.58,
+     "p": "Me"
+    },
+    {
+     "ini": 0.58,
+     "fin": 1.22,
+     "p": "da"
+    },
+    {
+     "ini": 1.22,
+     "fin": 2.26,
+     "p": "vergüenza"
+    },
+    {
+     "ini": 2.26,
+     "fin": 3.92,
+     "p": "la"
+    },
+    {
+     "ini": 3.92,
+     "fin": 4.64,
+     "p": "desubicación,"
+    },
+    {
+     "ini": 4.64,
+     "fin": 4.98,
+     "p": "sobre"
+    },
+    {
+     "ini": 4.98,
+     "fin": 5.36,
+     "p": "todo,"
+    },
+    {
+     "ini": 6.08,
+     "fin": 6.36,
+     "p": "de"
+    },
+    {
+     "ini": 6.36,
+     "fin": 6.9,
+     "p": "algunas"
+    },
+    {
+     "ini": 6.9,
+     "fin": 7.56,
+     "p": "personas,"
+    },
+    {
+     "ini": 8.82,
+     "fin": 8.98,
+     "p": "la"
+    },
+    {
+     "ini": 8.98,
+     "fin": 9.84,
+     "p": "impunidad"
+    },
+    {
+     "ini": 9.84,
+     "fin": 10.2,
+     "p": "de"
+    },
+    {
+     "ini": 10.2,
+     "fin": 10.44,
+     "p": "no"
+    },
+    {
+     "ini": 10.44,
+     "fin": 10.68,
+     "p": "tener"
+    },
+    {
+     "ini": 10.68,
+     "fin": 10.88,
+     "p": "al"
+    }
+   ]
+  },
+  {
+   "ini": 10.88,
+   "fin": 18.06,
+   "texto": "otro en cuenta cuando se dice algo o se acciona de alguna manera, esa cosa muy egoísta.",
+   "palabras": [
+    {
+     "ini": 10.88,
+     "fin": 11.04,
+     "p": "otro"
+    },
+    {
+     "ini": 11.04,
+     "fin": 11.3,
+     "p": "en"
+    },
+    {
+     "ini": 11.3,
+     "fin": 11.92,
+     "p": "cuenta"
+    },
+    {
+     "ini": 11.92,
+     "fin": 12.36,
+     "p": "cuando"
+    },
+    {
+     "ini": 12.36,
+     "fin": 12.58,
+     "p": "se"
+    },
+    {
+     "ini": 12.58,
+     "fin": 12.84,
+     "p": "dice"
+    },
+    {
+     "ini": 12.84,
+     "fin": 13.42,
+     "p": "algo"
+    },
+    {
+     "ini": 13.42,
+     "fin": 14.14,
+     "p": "o"
+    },
+    {
+     "ini": 14.14,
+     "fin": 14.38,
+     "p": "se"
+    },
+    {
+     "ini": 14.38,
+     "fin": 14.74,
+     "p": "acciona"
+    },
+    {
+     "ini": 14.74,
+     "fin": 14.94,
+     "p": "de"
+    },
+    {
+     "ini": 14.94,
+     "fin": 15.08,
+     "p": "alguna"
+    },
+    {
+     "ini": 15.08,
+     "fin": 15.7,
+     "p": "manera,"
+    },
+    {
+     "ini": 16.34,
+     "fin": 16.5,
+     "p": "esa"
+    },
+    {
+     "ini": 16.5,
+     "fin": 16.78,
+     "p": "cosa"
+    },
+    {
+     "ini": 16.78,
+     "fin": 17.1,
+     "p": "muy"
+    },
+    {
+     "ini": 17.1,
+     "fin": 18.06,
+     "p": "egoísta."
+    }
+   ]
+  },
+  {
+   "ini": 21.02,
+   "fin": 26.94,
+   "texto": "Y a veces las personas eso lo hacen sin intencionalidad, pero cuando lo veo en alguna",
+   "palabras": [
+    {
+     "ini": 21.02,
+     "fin": 21.32,
+     "p": "Y"
+    },
+    {
+     "ini": 21.32,
+     "fin": 21.44,
+     "p": "a"
+    },
+    {
+     "ini": 21.44,
+     "fin": 21.7,
+     "p": "veces"
+    },
+    {
+     "ini": 21.7,
+     "fin": 21.96,
+     "p": "las"
+    },
+    {
+     "ini": 21.96,
+     "fin": 22.28,
+     "p": "personas"
+    },
+    {
+     "ini": 22.28,
+     "fin": 22.52,
+     "p": "eso"
+    },
+    {
+     "ini": 22.52,
+     "fin": 22.72,
+     "p": "lo"
+    },
+    {
+     "ini": 22.72,
+     "fin": 23.0,
+     "p": "hacen"
+    },
+    {
+     "ini": 23.0,
+     "fin": 23.3,
+     "p": "sin"
+    },
+    {
+     "ini": 23.3,
+     "fin": 23.96,
+     "p": "intencionalidad,"
+    },
+    {
+     "ini": 24.24,
+     "fin": 24.74,
+     "p": "pero"
+    },
+    {
+     "ini": 24.74,
+     "fin": 25.1,
+     "p": "cuando"
+    },
+    {
+     "ini": 25.1,
+     "fin": 25.4,
+     "p": "lo"
+    },
+    {
+     "ini": 25.4,
+     "fin": 25.7,
+     "p": "veo"
+    },
+    {
+     "ini": 25.7,
+     "fin": 26.64,
+     "p": "en"
+    },
+    {
+     "ini": 26.64,
+     "fin": 26.94,
+     "p": "alguna"
+    }
+   ]
+  },
+  {
+   "ini": 26.94,
+   "fin": 32.7,
+   "texto": "situación me provoca vergüenza ajena, vergüenza propia, cuando caigo en una",
+   "palabras": [
+    {
+     "ini": 26.94,
+     "fin": 27.42,
+     "p": "situación"
+    },
+    {
+     "ini": 27.42,
+     "fin": 27.66,
+     "p": "me"
+    },
+    {
+     "ini": 27.66,
+     "fin": 28.74,
+     "p": "provoca"
+    },
+    {
+     "ini": 28.74,
+     "fin": 29.32,
+     "p": "vergüenza"
+    },
+    {
+     "ini": 29.32,
+     "fin": 29.72,
+     "p": "ajena,"
+    },
+    {
+     "ini": 29.94,
+     "fin": 30.34,
+     "p": "vergüenza"
+    },
+    {
+     "ini": 30.34,
+     "fin": 30.72,
+     "p": "propia,"
+    },
+    {
+     "ini": 31.22,
+     "fin": 31.52,
+     "p": "cuando"
+    },
+    {
+     "ini": 31.52,
+     "fin": 32.04,
+     "p": "caigo"
+    },
+    {
+     "ini": 32.04,
+     "fin": 32.6,
+     "p": "en"
+    },
+    {
+     "ini": 32.6,
+     "fin": 32.7,
+     "p": "una"
+    }
+   ]
+  },
+  {
+   "ini": 32.7,
+   "fin": 35.68,
+   "texto": "situación así y no me doy cuenta.",
+   "palabras": [
+    {
+     "ini": 32.7,
+     "fin": 33.12,
+     "p": "situación"
+    },
+    {
+     "ini": 33.12,
+     "fin": 33.66,
+     "p": "así"
+    },
+    {
+     "ini": 33.66,
+     "fin": 34.42,
+     "p": "y"
+    },
+    {
+     "ini": 34.42,
+     "fin": 34.54,
+     "p": "no"
+    },
+    {
+     "ini": 34.54,
+     "fin": 34.66,
+     "p": "me"
+    },
+    {
+     "ini": 34.66,
+     "fin": 35.68,
+     "p": "doy"
+    },
+    {
+     "ini": 35.68,
+     "fin": 35.68,
+     "p": "cuenta."
+    }
+   ]
+  },
+  {
+   "ini": 41.02,
+   "fin": 44.42,
+   "texto": "Mucha impunidad en no tener en cuenta al otro, en cualquier",
+   "palabras": [
+    {
+     "ini": 41.02,
+     "fin": 41.66,
+     "p": "Mucha"
+    },
+    {
+     "ini": 41.66,
+     "fin": 42.08,
+     "p": "impunidad"
+    },
+    {
+     "ini": 42.08,
+     "fin": 42.22,
+     "p": "en"
+    },
+    {
+     "ini": 42.22,
+     "fin": 42.38,
+     "p": "no"
+    },
+    {
+     "ini": 42.38,
+     "fin": 42.62,
+     "p": "tener"
+    },
+    {
+     "ini": 42.62,
+     "fin": 42.84,
+     "p": "en"
+    },
+    {
+     "ini": 42.84,
+     "fin": 43.06,
+     "p": "cuenta"
+    },
+    {
+     "ini": 43.06,
+     "fin": 43.28,
+     "p": "al"
+    },
+    {
+     "ini": 43.28,
+     "fin": 43.5,
+     "p": "otro,"
+    },
+    {
+     "ini": 43.82,
+     "fin": 44.14,
+     "p": "en"
+    },
+    {
+     "ini": 44.14,
+     "fin": 44.42,
+     "p": "cualquier"
+    }
+   ]
+  },
+  {
+   "ini": 44.42,
+   "fin": 49.4,
+   "texto": "situación eso me da, me causa vergüenza ajena y propia cuando me ocurre.",
+   "palabras": [
+    {
+     "ini": 44.42,
+     "fin": 44.94,
+     "p": "situación"
+    },
+    {
+     "ini": 44.94,
+     "fin": 45.18,
+     "p": "eso"
+    },
+    {
+     "ini": 45.18,
+     "fin": 45.4,
+     "p": "me"
+    },
+    {
+     "ini": 45.4,
+     "fin": 45.72,
+     "p": "da,"
+    },
+    {
+     "ini": 45.88,
+     "fin": 46.1,
+     "p": "me"
+    },
+    {
+     "ini": 46.1,
+     "fin": 46.34,
+     "p": "causa"
+    },
+    {
+     "ini": 46.34,
+     "fin": 47.12,
+     "p": "vergüenza"
+    },
+    {
+     "ini": 47.12,
+     "fin": 47.56,
+     "p": "ajena"
+    },
+    {
+     "ini": 47.56,
+     "fin": 47.8,
+     "p": "y"
+    },
+    {
+     "ini": 47.8,
+     "fin": 48.0,
+     "p": "propia"
+    },
+    {
+     "ini": 48.0,
+     "fin": 48.5,
+     "p": "cuando"
+    },
+    {
+     "ini": 48.5,
+     "fin": 49.0,
+     "p": "me"
+    },
+    {
+     "ini": 49.0,
+     "fin": 49.4,
+     "p": "ocurre."
+    }
+   ]
+  }
+ ]
+}

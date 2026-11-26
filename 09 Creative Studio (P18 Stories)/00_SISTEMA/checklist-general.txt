@@ -1,0 +1,30 @@
+CHECKLIST GENERAL
+
+[ ] ID reservado y manifiesto completo
+[ ] Historia compatible con P18
+[ ] Fuentes primarias consultadas
+[ ] Hechos críticos verificados
+[ ] Guion aprobado
+[ ] Voz ElevenLabs aprobada
+[ ] Assets registrados
+[ ] Licencias compatibles
+[ ] Storyboard completo
+[ ] 1080 × 1920, 9:16 (Reel/Story)
+[ ] Duración entre 30 y 50 s (nunca más de 50)
+[ ] Formato P18 Stories
+[ ] Sin avatares
+[ ] Sin Canva
+[ ] Sin archivo histórico inventado
+[ ] Firma P18 sin fondo
+[ ] Cierre fijo outro3d
+[ ] Cama musical rotada (no repetir la del video anterior)
+[ ] QA factual aprobado
+[ ] QA editorial aprobado
+[ ] QA visual aprobado
+[ ] QA de audio aprobado
+[ ] QA técnico aprobado
+[ ] Master archivado
+
+[ ] Ninguna imagen repetida en el video (assert_unique_images pasa en el build).
+[ ] Lista de subtítulos leída: ningún corte a mitad de construcción (no termina en artículo, preposición, auxiliar ni «nunca/ya»).
+[ ] Cuadros de cada subtítulo (a mitad de frase y 0,2 s antes del final): ninguna palabra cortada, encimada ni invisible; la palabra clave legible.

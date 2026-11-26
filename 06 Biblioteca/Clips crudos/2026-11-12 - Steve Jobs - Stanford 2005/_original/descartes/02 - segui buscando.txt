@@ -1,0 +1,26 @@
+CLIP 02 — SI TODAVÍA NO LO ENCONTRASTE, SEGUÍ BUSCANDO
+
+Inicio:     08:16.3  (496.32 s)
+Fin:        08:54.3  (534.31 s)
+Duración:   38.0 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  SI TODAVÍA NO LO ENCONTRASTE, SEGUÍ BUSCANDO   (en el reel, en lima: SEGUÍ BUSCANDO)
+Departamento:     Crecimiento personal
+Área:             Autoconocimiento
+Tema:             Hacer lo que te gusta
+Fuente:           Steve Jobs - Stanford 2005 — "Steve Jobs' 2005 Stanford Commencement Address"
+                  https://www.youtube.com/watch?v=UF8uR6Z6KLc&t=496s
+
+Por qué lo elegí:
+Después de que lo echaran de su propia empresa: no perder la fe, buscar lo que amás hacer y no conformarte. Mensaje claro para quien está eligiendo qué estudiar o en qué trabajar.
+
+Gancho (primeros 3 s): A veces la vida te pega un ladrillazo en la cabeza.
+
+Notas para la revisión: En inglés: va traducido. Crédito a Stanford University.
+
+Transcripción del clip:
+faith. I'm convinced that the only thing that kept me going was that I loved what I did. You've got to find what you love, and that is as true for work as it is for your lovers. Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking and don't settle. As with all matters of the heart, you'll know when you find it. And like any great relationship, it just gets better and better as the years roll on. So keep looking. Don't settle.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-12 - Steve Jobs - Stanford 2005/02 - segui buscando.mp4" "SI TODAVÍA NO LO ENCONTRASTE, *SEGUÍ BUSCANDO*" --fuente "Steve Jobs - Stanford 2005"

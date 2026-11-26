@@ -1,0 +1,26 @@
+CLIP 01 — LO QUE HACÉS CON POCO ES LO QUE VAS A HACER CON MUCHO
+
+Inicio:     04:43.3  (283.34 s)
+Fin:        05:17.6  (317.59 s)
+Duración:   34.2 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LO QUE HACÉS CON POCO ES LO QUE VAS A HACER CON MUCHO   (en el reel, en lima: POCO, MUCHO)
+Departamento:     Finanzas y trabajo
+Área:             Finanzas personales
+Tema:             Aprender aunque ganes poco
+Fuente:           Tiene Sentido Pódcast - Pedro Becerro — "Experto en Finanzas: “¡dejar de hacer esto cada día puede ahorrarte 500€ al año!”"
+                  https://www.youtube.com/watch?v=i8PrcczmrSg&t=283s
+
+Por qué lo elegí:
+Desarma la excusa de 'gano poco, no vale la pena ordenarme': cómo manejás poco es cómo vas a manejar mucho, y aunque seas estudiante es como el carné de conducir.
+
+Gancho (primeros 3 s): Hay mucha gente que dice: tengo un sueldo muy bajo, no me merece la pena
+
+Notas para la revisión: Habla en euros y con acento español. Sin promesas de plata.
+
+Transcripción del clip:
+¿A qué me refiero por circunstancias personales? Hay mucha gente que dice mira yo es que tengo un sueldo muy bajo y a mí no me merece la pena porque si yo gano mil euros o 800 euros ¿para qué voy a mejorar mis finanzas? Y no es verdad porque como tú manejas mil euros o 800 euros o 5 euros en la cuenta es como manejarás el día de mañana si tienes 10 .000 si tienes luego 100 .000 entonces es una forma de ir adaptándote cambio entonces es para todo el mundo y aunque seas estudiante preocupate por el tema porque es como el carnet de conducir ya lo irás usando
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-14 - Tiene Sentido Pódcast - Pedro Becerro/01 - con poco o con mucho.mp4" "LO QUE HACÉS CON *POCO* ES LO QUE VAS A HACER CON *MUCHO*" --fuente "Tiene Sentido Pódcast - Pedro Becerro"

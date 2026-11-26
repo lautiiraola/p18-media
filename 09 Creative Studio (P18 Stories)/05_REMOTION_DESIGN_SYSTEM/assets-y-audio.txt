@@ -1,0 +1,8 @@
+ASSETS Y AUDIO EN REMOTION
+
+Copiar los assets aprobados al directorio público del proyecto manteniendo IDs del registro.
+No referenciar URLs remotas durante el render final.
+Normalizar nombres y formatos sin borrar originales.
+Conservar voz original aprobada.
+Música y SFX deben tener licencia registrada.
+Los previews pueden incluir watermark de fuentes; el master respeta la autorización real.

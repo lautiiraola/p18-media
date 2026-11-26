@@ -1,0 +1,22 @@
+AUTORIZACIONES — P18-001-james-dyson
+Registro de los permisos que habilitan el master. Fecha: 2026-11-24.
+
+1. ARCHIVO FOTOGRÁFICO DE DYSON
+Alcance: fotos de dyson.com usadas en el master: A14, A16, A19, A21, A22, A25 y A28 (ver 04_assets/asset-registry.csv).
+Autorización: Dyson Press Office, según el operador ("ya me dio permiso", 2026-11-24). El operador confirmó el permiso el mismo día ("Confirmado, archivalo").
+Pedido enviado: ver solicitud-permiso-dyson.txt.
+Condición de uso: crédito "Foto: Dyson ©" en pantalla, sin alterar las imágenes salvo recorte y zoom.
+Comprobante: el mail de autorización no está en esta carpeta. Se recomienda guardarlo acá como respaldo (por ejemplo, permiso-dyson.pdf).
+
+2. VOZ EN OFF (ELEVENLABS)
+Voz: "Brian - Warm, Smooth, Confident", generada por el operador con su cuenta.
+Uso comercial: confirmado por el operador el 2026-11-24 ("Confirmado, archivalo").
+
+3. MÚSICA Y SFX
+cama_p18.wav más 6 SFX de 06_BIBLIOTECA_COMPARTIDA/sound-effects.
+Uso autorizado por el operador el 2026-11-24 (registro de la biblioteca compartida).
+
+4. DOMINIO PÚBLICO Y OBRA PROPIA
+Patentes US 4.373.228 y US 4.058.344: documentos de patente de EE.UU., dominio público.
+Gráficos G01–G10: obra original P18.
+Manrope: OFL-1.1.

@@ -1,0 +1,10 @@
+Valentín lo fijó con énfasis (2026-11-24): "los videos tienen que durar entre 30 segundos y 50 segundos. NO MÁS!"
+
+POR QUÉ: formato Reel/Story; P18-001 (James Dyson) salió de 2:01 y es demasiado largo para su distribución.
+
+CÓMO SE APLICA:
+- Todo master de P18 dura entre 30 y 50 s. Nunca más de 50, ni siquiera con el cierre.
+- Guion para ElevenLabs: 75–115 palabras (máximo absoluto 120). La voz Brian (s50) va a unas 2,5 palabras por segundo; sumar pausas y 1 s de cierre. Contar palabras antes de entregar. Si la estimación pasa los 48 s, recortar texto, nunca acelerar la voz.
+- Historias largas: elegir un solo ángulo (un conflicto, una decisión, un resultado). No resumir la biografía.
+- La regla está escrita en CLAUDE.txt, story-format.txt, guion-y-retencion.txt, checklists, plantilla, render-y-validacion.txt y el prompt 01. Reemplaza las referencias viejas de 60–120 s y 70–90 s.
+- Relacionado: p18-formato-9-16, p18-skills-guion, p18-elevenlabs-gate.

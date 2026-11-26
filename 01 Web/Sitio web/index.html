@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Proyecto 18 · Hay todo un mundo. Exploralo.</title>
+  <meta name="description" content="P18 acerca herramientas para la vida real a jóvenes con intereses, preguntas y caminos diversos.">
+  <meta name="theme-color" content="#F5F5EB">
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" sizes="180x180">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap">
+  <link rel="stylesheet" href="css/p18.css">
+  <link rel="stylesheet" href="css/home.css">
+</head>
+<body>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="i-arrow" viewBox="0 0 16 16"><path d="M3.5 12.5 12 4M5 3.5h7.5V11"/></symbol>
+    <symbol id="i-wa" viewBox="0 0 24 24"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38a9.9 9.9 0 0 0 4.74 1.21c5.46 0 9.91-4.45 9.91-9.91C21.95 6.45 17.5 2 12.04 2Zm0 18.15c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31a8.2 8.2 0 0 1-1.26-4.38c0-4.54 3.7-8.24 8.25-8.24 4.54 0 8.24 3.7 8.24 8.24 0 4.55-3.7 8.24-8.24 8.24Zm4.52-6.16c-.25-.12-1.47-.72-1.69-.81-.23-.08-.39-.12-.56.13-.16.24-.64.8-.78.97-.15.16-.29.18-.54.06-.25-.12-1.05-.39-1.99-1.23-.74-.66-1.23-1.47-1.38-1.72-.14-.25-.01-.38.11-.5.11-.11.25-.29.37-.43.13-.15.17-.25.25-.42.08-.16.04-.31-.02-.43-.06-.12-.56-1.34-.76-1.84-.2-.48-.41-.42-.56-.43h-.48c-.17 0-.43.06-.66.31-.22.25-.86.85-.86 2.07 0 1.22.89 2.4 1.01 2.56.12.17 1.75 2.67 4.23 3.74.59.26 1.05.41 1.41.52.59.19 1.13.16 1.56.1.48-.07 1.47-.6 1.67-1.18.21-.58.21-1.07.15-1.18-.06-.1-.23-.16-.48-.29Z"/></symbol>
+  </svg>
+
+  <a class="skip" href="#contenido">Saltar al contenido</a>
+
+  <header class="site-header wrap s-paper">
+    <nav class="nav-main" aria-label="Principal">
+      <ul class="nav">
+        <li><a href="#inicio" aria-current="page">Inicio</a></li>
+        <li><a href="#explora">Explorá</a></li>
+        <li><a href="#que-es">Qué es P18</a></li>
+        <li><a href="#videos">Videos</a></li>
+      </ul>
+    </nav>
+    <a class="logo" href="#inicio" aria-label="Proyecto 18, inicio">
+      <img src="assets/logo.svg" alt="" width="129" height="56">
+    </a>
+    <a class="btn nav-cta" href="#sumate">Sumate <svg class="i-arrow" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+  </header>
+
+  <main id="contenido">
+    <!-- Portada -->
+    <section class="hero s-deep on-dark" id="inicio" aria-labelledby="hero-title">
+      <figure class="hero-media dots" data-state="pending">
+        <img src="assets/hero.jpg" alt="Jóvenes creando en grupo alrededor de una mesa con computadoras, cuadernos y materiales" width="1536" height="1024" fetchpriority="high" hidden>
+        <div class="hero-shade" aria-hidden="true"></div>
+        <div class="hero-placeholder" aria-hidden="true">
+          <span class="placeholder-label">Foto pendiente</span>
+        </div>
+      </figure>
+      <div class="hero-copy wrap">
+        <h1 class="h1" id="hero-title">Hay todo<br>un mundo.<br><span class="soft mark">Exploralo.</span></h1>
+        <p class="lead">Herramientas concretas para descubrir lo que te interesa y dar tus primeros pasos después del secundario.</p>
+        <div class="actions">
+          <a class="btn btn--glass" href="#explora">Explorá los temas <svg class="i-arrow" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+          <a class="btn btn--glass js-wa" href="https://wa.me/5491121570660" data-wa-text="¡Hola P18! Vi la web y quiero saber más sobre los talleres."><svg class="i-wa" aria-hidden="true"><use href="#i-wa"/></svg> Hablemos por WhatsApp</a>
+        </div>
+        <p class="hero-note">Pensá. Compartí. Creá.</p>
+      </div>
+    </section>
+
+    <!-- Banda de mensajes -->
+    <div class="band-wrap wrap">
+      <div class="band on-blue" role="region" aria-label="Qué ofrece P18">
+        <ul class="band-list">
+          <li><strong>Talleres gratuitos</strong> virtuales o presenciales.</li>
+          <li><strong>Temas que vas a usar</strong> fuera del colegio.</li>
+          <li><strong>Mentores</strong> que ya recorrieron el camino.</li>
+          <li><strong>Una comunidad</strong> para seguir aprendiendo.</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Intereses -->
+    <section class="section wrap interests s-paper" id="explora" aria-labelledby="explora-title">
+      <div class="interests-grid reveal">
+        <div class="interests-copy">
+          <h2 class="h2" id="explora-title">¿Qué te <span class="soft">mueve?</span></h2>
+          <p class="body">Los temas que trabajamos en los talleres. Elegí uno y te contamos cómo sumarte.</p>
+          <a class="text-link" href="?tema=otro#sumate">¿Te interesa otro tema? Sugerilo <svg class="i-arrow" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+        </div>
+        <div class="topic-rows">
+          <div class="topic-row">
+            <h3 class="topic-title">Crecimiento personal</h3>
+            <ul class="topic-tags">
+              <li><a class="tag-link" href="?tema=autoestima#sumate">Autoestima</a></li>
+              <li><a class="tag-link" href="?tema=habitos-y-disciplina#sumate">Hábitos y disciplina</a></li>
+              <li><a class="tag-link" href="?tema=perseverancia#sumate">Perseverancia</a></li>
+            </ul>
+          </div>
+          <div class="topic-row">
+            <h3 class="topic-title">Plata y trabajo</h3>
+            <ul class="topic-tags">
+              <li><a class="tag-link" href="?tema=finanzas-personales#sumate">Finanzas personales</a></li>
+              <li><a class="tag-link" href="?tema=como-vender#sumate">Cómo vender</a></li>
+            </ul>
+          </div>
+          <div class="topic-row">
+            <h3 class="topic-title">Crear y comunicar</h3>
+            <ul class="topic-tags">
+              <li><a class="tag-link" href="?tema=vinculos-y-comunicacion#sumate">Vínculos y comunicación</a></li>
+              <li><a class="tag-link" href="?tema=redes#sumate">Redes</a></li>
+              <li><a class="tag-link" href="?tema=inteligencia-artificial#sumate">Inteligencia artificial</a></li>
+            </ul>
+          </div>
+          <div class="topic-row">
+            <h3 class="topic-title">Creatividad</h3>
+            <ul class="topic-tags">
+              <li><a class="tag-link" href="?tema=pensamiento-creativo#sumate">Pensamiento creativo</a></li>
+              <li><a class="tag-link" href="?tema=arte-y-diseno#sumate">Arte y diseño</a></li>
+              <li><a class="tag-link" href="?tema=musica-y-audiovisual#sumate">Música y audiovisual</a></li>
+              <li><a class="tag-link" href="?tema=escritura-y-relatos#sumate">Escritura y relatos</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Cinta: temas y cómo funcionamos (solo lectura) -->
+    <section class="ticker s-deep on-dark" aria-label="Temas y formato de los talleres">
+      <div class="ticker-row ticker-row--big">
+        <div class="ticker-track">
+          <ul class="ticker-list">
+            <li>Autoestima</li>
+            <li class="is-outline">Finanzas personales</li>
+            <li>Inteligencia artificial</li>
+            <li class="is-outline">Cómo vender</li>
+            <li>Perseverancia</li>
+            <li class="is-outline">Arte y diseño</li>
+            <li>Hábitos y disciplina</li>
+            <li class="is-outline">Redes</li>
+            <li>Vínculos y comunicación</li>
+            <li class="is-outline">Pensamiento creativo</li>
+            <li>Música y audiovisual</li>
+            <li class="is-outline">Escritura y relatos</li>
+          </ul>
+        </div>
+      </div>
+      <div class="ticker-row ticker-row--small">
+        <div class="ticker-track ticker-track--reverse">
+          <ul class="ticker-list">
+            <li>Talleres gratuitos</li>
+            <li>Virtuales o presenciales</li>
+            <li>Mentores que ya recorrieron el camino</li>
+            <li>Comunidad</li>
+            <li>Último año del secundario</li>
+            <li>Herramientas para la vida real</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Qué es P18 -->
+    <section class="panel-section wrap s-paper" id="que-es" aria-labelledby="que-es-title">
+      <div class="panel exchange s-deep on-dark glow reveal">
+        <div class="exchange-row">
+          <h2 class="h2" id="que-es-title">Ideas <span class="soft">en común.</span></h2>
+          <div class="exchange-intro">
+            <p class="body">P18 acerca herramientas para la vida real a jóvenes con intereses, preguntas y caminos diversos. Lo hacemos con talleres para conversar, probar y crear con otros.</p>
+            <a class="btn btn--glass js-wa" href="https://wa.me/5491121570660" data-wa-text="¡Hola P18! Tengo una consulta sobre los talleres."><svg class="i-wa" aria-hidden="true"><use href="#i-wa"/></svg> ¿Tenés dudas? Escribinos</a>
+          </div>
+        </div>
+        <dl class="facts">
+          <div class="fact"><dt>Costo</dt><dd>Gratis para jóvenes y colegios.</dd></div>
+          <div class="fact"><dt>Formato</dt><dd>Virtual o presencial, según cada grupo.</dd></div>
+          <div class="fact"><dt>Para quién</dt><dd>Último año del secundario y jóvenes con ganas de explorar.</dd></div>
+          <div class="fact"><dt>Colegios</dt><dd><a class="js-wa" href="https://wa.me/5491121570660" data-wa-text="¡Hola P18! Soy de un colegio y me gustaría llevar un taller. ¿Cómo lo coordinamos?">Escribinos por WhatsApp</a> y coordinamos un taller.</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <!-- Videos: entrevistas del Café IA -->
+    <section class="section wrap videos s-paper" id="videos" aria-labelledby="videos-title">
+      <div class="videos-head reveal">
+        <h2 class="h2" id="videos-title">¿Qué hacés <span class="soft">mañana?</span></h2>
+        <div class="videos-intro">
+          <p class="body">Le preguntamos a gente que ya arrancó algo propio qué haría con 18 años, cero capital y una compu con IA. Esto respondieron.</p>
+          <a class="text-link" href="https://www.instagram.com/proyecto18.ar/" target="_blank" rel="noopener">Más entrevistas en Instagram <svg class="i-arrow" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+        </div>
+      </div>
+      <ul class="video-list reveal">
+        <li class="video-card">
+          <video controls playsinline preload="none" poster="assets/videos/lucas.jpg" aria-label="Lucas responde: ¿qué harías con 18 años, cero capital y una compu con IA?"><source src="assets/videos/lucas.mp4" type="video/mp4"></video>
+          <p class="video-who"><strong>Lucas</strong> <a href="https://www.instagram.com/argentoinvierte/" target="_blank" rel="noopener">@argentoinvierte</a></p>
+        </li>
+        <li class="video-card">
+          <video controls playsinline preload="none" poster="assets/videos/tom.jpg" aria-label="Tom responde: ¿qué harías con 18 años, cero capital y una compu con IA?"><source src="assets/videos/tom.mp4" type="video/mp4"></video>
+          <p class="video-who"><strong>Tom</strong> <a href="https://www.instagram.com/tomlanza/" target="_blank" rel="noopener">@tomlanza</a> · <a href="https://www.instagram.com/nuexty/" target="_blank" rel="noopener">@nuexty</a></p>
+        </li>
+        <li class="video-card">
+          <video controls playsinline preload="none" poster="assets/videos/mariano.jpg" aria-label="Mariano responde: ¿qué harías con 18 años, cero capital y una compu con IA?"><source src="assets/videos/mariano.mp4" type="video/mp4"></video>
+          <p class="video-who"><strong>Mariano</strong> <a href="https://www.instagram.com/marianomerdinger/" target="_blank" rel="noopener">@marianomerdinger</a> · <a href="https://www.instagram.com/nuexty/" target="_blank" rel="noopener">@nuexty</a></p>
+        </li>
+        <li class="video-card">
+          <video controls playsinline preload="none" poster="assets/videos/moni.jpg" aria-label="Moni responde: ¿qué harías con 18 años, cero capital y una compu con IA?"><source src="assets/videos/moni.mp4" type="video/mp4"></video>
+          <p class="video-who"><strong>Moni</strong> <a href="https://www.instagram.com/escaleradigital.mkg/" target="_blank" rel="noopener">@escaleradigital.mkg</a></p>
+        </li>
+      </ul>
+    </section>
+
+    <!-- Serie -->
+    <section class="panel-section panel-section--tight wrap s-paper" aria-labelledby="serie-title">
+      <div class="panel series s-blue on-blue glow reveal">
+      <h2 class="h2" id="serie-title">A mis <span class="soft">18.</span></h2>
+      <div class="series-copy">
+        <p class="body"><strong>Una serie en desarrollo.</strong> Todavía no está publicada; cuando salga, la vas a encontrar acá.</p>
+        <button class="btn" type="button" id="serie-toggle" aria-expanded="false" aria-controls="serie-form">Quiero enterarme <svg class="i-arrow" aria-hidden="true"><use href="#i-arrow"/></svg></button>
+      </div>
+        <form class="serie-form" id="serie-form" novalidate hidden>
+          <p class="serie-form-title">Te avisamos cuando salga el primer episodio.</p>
+          <div class="serie-fields">
+            <div class="field">
+              <label for="s-nombre">Nombre</label>
+              <input class="input" id="s-nombre" name="nombre" autocomplete="name" required aria-describedby="es-nombre">
+              <p class="err" id="es-nombre" aria-live="polite"></p>
+            </div>
+            <div class="field">
+              <label for="s-email">Email</label>
+              <input class="input" id="s-email" name="email" type="email" autocomplete="email" inputmode="email" required aria-describedby="es-email">
+              <p class="err" id="es-email" aria-live="polite"></p>
+            </div>
+            <div class="field">
+              <label for="s-telefono">Celular</label>
+              <input class="input" id="s-telefono" name="telefono" type="tel" autocomplete="tel" inputmode="tel" placeholder="11 1234 5678" required aria-describedby="es-telefono">
+              <p class="err" id="es-telefono" aria-live="polite"></p>
+            </div>
+            <div class="trap" aria-hidden="true">
+              <label for="s-sitio">No completar este campo</label>
+              <input id="s-sitio" name="sitio" tabindex="-1" autocomplete="off">
+            </div>
+            <button class="btn" type="submit" id="s-submit">Avisarme <svg class="i-arrow" aria-hidden="true"><use href="#i-arrow"/></svg></button>
+          </div>
+          <div class="form-status" id="s-status" role="status" aria-live="polite" hidden></div>
+        </form>
+      </div>
+    </section>
+
+    <!-- Sumate -->
+    <section class="section wrap join s-paper" id="sumate" aria-labelledby="sumate-title">
+      <div class="join-grid">
+        <div class="join-copy reveal">
+          <h2 class="h2" id="sumate-title">Tu mirada <span class="soft">suma.</span></h2>
+          <p class="body">Tres pasos cortos para sumarte a un taller, arrancar tu idea o ser parte como mentor. Te respondemos por email.</p>
+        </div>
+
+        <form class="join-form reveal" id="join-form" novalidate>
+          <div class="steps-head">
+            <p class="steps-count" id="steps-count" aria-live="polite">Paso 1 de 3</p>
+            <div class="steps-bar" aria-hidden="true"><span id="steps-fill"></span></div>
+          </div>
+
+          <fieldset class="step" data-step="1">
+            <legend class="step-title">¿Quién sos?</legend>
+            <div class="roles">
+                <label class="role"><input type="radio" name="perfil" value="joven" id="p-joven"><span class="role-body"><strong>Soy joven</strong><small>Quiero sumarme a un taller.</small></span></label>
+                <label class="role"><input type="radio" name="perfil" value="proyecto" id="p-proyecto"><span class="role-body"><strong>Tengo una idea</strong><small>Quiero ayuda para arrancarla.</small></span></label>
+                <label class="role"><input type="radio" name="perfil" value="speaker" id="p-speaker"><span class="role-body"><strong>Quiero ser mentor</strong><small>Quiero compartir lo que sé.</small></span></label>
+                <label class="role"><input type="radio" name="perfil" value="organizacion" id="p-org"><span class="role-body"><strong>Empresa u organización</strong><small>Quiero apoyar a P18.</small></span></label>
+            </div>
+            <p class="err" id="e-perfil" aria-live="polite"></p>
+            <div class="step-nav">
+              <button class="btn" type="button" data-next>Siguiente <svg class="i-arrow" aria-hidden="true"><use href="#i-arrow"/></svg></button>
+            </div>
+          </fieldset>
+
+          <fieldset class="step" data-step="2" hidden>
+            <legend class="step-title">¿Qué te interesa?</legend>
+            <p class="hint">Elegí todos los que quieras. Es opcional.</p>
+            <div class="options options--chips" id="f-temas">
+                <label class="pick"><input type="checkbox" name="temas" value="autoestima"><span>Autoestima</span></label>
+                <label class="pick"><input type="checkbox" name="temas" value="habitos-y-disciplina"><span>Hábitos y disciplina</span></label>
+                <label class="pick"><input type="checkbox" name="temas" value="perseverancia"><span>Perseverancia</span></label>
+                <label class="pick"><input type="checkbox" name="temas" value="finanzas-personales"><span>Finanzas personales</span></label>
+                <label class="pick"><input type="checkbox" name="temas" value="como-vender"><span>Cómo vender</span></label>
+                <label class="pick"><input type="checkbox" name="temas" value="vinculos-y-comunicacion"><span>Vínculos y comunicación</span></label>
+                <label class="pick"><input type="checkbox" name="temas" value="redes"><span>Redes</span></label>
+                <label class="pick"><input type="checkbox" name="temas" value="inteligencia-artificial"><span>Inteligencia artificial</span></label>
+                <label class="pick"><input type="checkbox" name="temas" value="pensamiento-creativo"><span>Pensamiento creativo</span></label>
+                <label class="pick"><input type="checkbox" name="temas" value="arte-y-diseno"><span>Arte y diseño</span></label>
+                <label class="pick"><input type="checkbox" name="temas" value="musica-y-audiovisual"><span>Música y audiovisual</span></label>
+                <label class="pick"><input type="checkbox" name="temas" value="escritura-y-relatos"><span>Escritura y relatos</span></label>
+              </div>
+            <div class="field">
+              <label for="f-otro">¿Otro tema? Contanos cuál</label>
+              <textarea class="textarea" id="f-otro" name="otro" maxlength="600" rows="2"></textarea>
+            </div>
+            <div class="step-nav">
+              <button class="btn btn--ghost" type="button" data-prev>Atrás</button>
+              <button class="btn" type="button" data-next>Siguiente <svg class="i-arrow" aria-hidden="true"><use href="#i-arrow"/></svg></button>
+            </div>
+          </fieldset>
+
+          <fieldset class="step" data-step="3" hidden>
+            <legend class="step-title">¿Cómo te contactamos?</legend>
+            <div class="field-row">
+              <div class="field">
+                <label for="f-nombre">Tu nombre</label>
+                <input class="input" id="f-nombre" name="nombre" autocomplete="name" required aria-describedby="e-nombre">
+                <p class="err" id="e-nombre" aria-live="polite"></p>
+              </div>
+              <div class="field">
+                <label for="f-email">Tu email</label>
+                <input class="input" id="f-email" name="email" type="email" autocomplete="email" inputmode="email" required aria-describedby="e-email">
+                <p class="err" id="e-email" aria-live="polite"></p>
+              </div>
+            </div>
+            <div class="trap" aria-hidden="true">
+              <label for="f-sitio">No completar este campo</label>
+              <input id="f-sitio" name="sitio" tabindex="-1" autocomplete="off">
+            </div>
+            <p class="privacy">Usamos estos datos solo para responderte. No los compartimos.</p>
+            <div class="step-nav">
+              <button class="btn btn--ghost" type="button" data-prev>Atrás</button>
+              <button class="btn" type="submit" id="f-submit">Enviar <svg class="i-arrow" aria-hidden="true"><use href="#i-arrow"/></svg></button>
+            </div>
+          </fieldset>
+
+          <div class="form-status" id="f-status" role="status" aria-live="polite" hidden></div>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap s-deep on-dark glow">
+    <div class="footer-top">
+      <a class="logo" href="#inicio" aria-label="Proyecto 18, volver al inicio">
+        <img src="assets/logo-papel.svg" alt="" width="97" height="42">
+      </a>
+      <ul class="footer-links">
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#explora">Explorá</a></li>
+        <li><a href="#que-es">Qué es P18</a></li>
+        <li><a href="#videos">Videos</a></li>
+        <li><a href="#sumate">Sumate</a></li>
+        <li><a href="/privacidad/">Privacidad</a></li>
+        <li><a href="/terminos/">Términos</a></li>
+      </ul>
+      <p class="footer-contact">Escribinos a <a href="mailto:hola@proyecto18.co">hola@proyecto18.co</a></p>
+    </div>
+    <p class="footer-legal">Proyecto 18 · Buenos Aires, Argentina</p>
+  </footer>
+
+  <a class="wa-float js-wa" href="https://wa.me/5491121570660" data-wa-text="¡Hola P18! Quiero sumarme. ¿Me cuentan cómo?" aria-label="Escribinos por WhatsApp">
+    <svg aria-hidden="true"><use href="#i-wa"/></svg>
+    <span>WhatsApp</span>
+  </a>
+
+  <script src="js/p18.js" defer></script>
+</body>
+</html>

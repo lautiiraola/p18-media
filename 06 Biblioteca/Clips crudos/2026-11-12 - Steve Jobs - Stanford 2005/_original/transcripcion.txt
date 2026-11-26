@@ -1,0 +1,133 @@
+# Steve Jobs' 2005 Stanford Commencement Address — Steve Jobs - Stanford 2005
+# idioma: en · duración: 15:04.0 · texto: subtítulos manual de YouTube
+# formato: [inicio – fin] (segundos para plan.json) texto
+
+[00:07.5 – 00:10.5] (7.5–10.5) This program is brought to you by Stanford University.
+[00:10.5 – 00:15.2] (10.5–15.2) Please visit us at stanford.edu
+[00:22.5 – 00:33.9] (22.5–33.9) Thank You. I am honored to be with you today at your commencement from one of the finest universities in the world.
+[00:35.6 – 00:47.1] (35.6–47.1) Truth be told I never graduated from college and this is the closest I've ever gotten to a college graduation.
+[00:48.0 – 00:51.4] (48.0–51.4) Today I want to tell you three stories from my life.
+[00:51.4 – 00:55.9] (51.4–55.9) That's it. No big deal. Just three stories.
+[00:55.9 – 01:00.6] (55.9–60.6) The first story is about connecting the dots.
+[01:01.0 – 01:09.4] (61.0–69.4) I dropped out of Reed College after the first 6 months, but then stayed around as a drop-in for another 18 months or so before I really quit.
+[01:09.4 – 01:15.2] (69.4–75.2) So why did I drop out? It started before I was born.
+[01:15.2 – 01:22.4] (75.2–82.4) My biological mother was a young, unwed graduate student, and she decided to put me up for adoption.
+[01:22.4 – 01:31.7] (82.4–91.7) She felt very strongly that I should be adopted by college graduates, so everything was all set for me to be adopted at birth by a lawyer and his wife.
+[01:31.7 – 01:37.9] (91.7–97.9) Except that when I popped out they decided at the last minute that they really wanted a girl.
+[01:37.9 – 01:47.9] (97.9–107.9) So my parents, who were on a waiting list, got a call in the middle of the night asking: "We have an unexpected baby boy; do you want him?" They
+[01:47.9 – 01:59.2] (107.9–119.2) said: "Of course." My biological mother later found out that my mother had never graduated from college and that my father had never graduated from high school.
+[01:59.2 – 02:03.4] (119.2–123.4) She refused to sign the final adoption papers.
+[02:03.4 – 02:09.4] (123.4–129.4) She only relented a few months later when my parents promised that I would go to college.
+[02:09.4 – 02:16.6] (129.4–136.6) This was the start in my life. And 17 years later I did go to college.
+[02:16.6 – 02:27.6] (136.6–147.6) But I naively chose a college that was almost as expensive as Stanford, and all of my working-class parents' savings were being spent on my college tuition.
+[02:27.6 – 02:30.7] (147.6–150.7) After six months, I couldn't see the value in it.
+[02:30.7 – 02:36.8] (150.7–156.8) I had no idea what I wanted to do with my life and no idea how college was going to help me figure it out.
+[02:36.8 – 02:42.2] (156.8–162.2) And here I was spending all of the money my parents had saved their entire life.
+[02:42.6 – 02:46.9] (162.6–166.9) So I decided to drop out and trust that it would all work out OK.
+[02:46.9 – 02:54.1] (166.9–174.1) It was pretty scary at the time, but looking back it was one of the best decisions I ever made.
+[02:54.1 – 03:04.7] (174.1–184.7) The minute I dropped out I could stop taking the required classes that didn't interest me, and begin dropping in on the ones that looked interesting.
+[03:04.8 – 03:13.6] (184.8–193.6) It wasn't all romantic. I didn't have a dorm room, so I slept on the floor in friends' rooms, I returned coke bottles for the 5 cent deposits to buy
+[03:13.6 – 03:21.6] (193.6–201.6) food with, and I would walk the 7 miles across town every Sunday night to get one good meal a week at the Hare Krishna temple.
+[03:21.6 – 03:29.7] (201.6–209.7) I loved it. And much of what I stumbled into by following my curiosity and intuition turned out to be priceless later on.
+[03:29.7 – 03:38.3] (209.7–218.3) Let me give you one example: Reed College at that time offered perhaps the best calligraphy instruction in the country.
+[03:38.3 – 03:45.4] (218.3–225.4) Throughout the campus every poster, every label on every drawer, was beautifully hand calligraphed.
+[03:45.4 – 03:53.1] (225.4–233.1) Because I had dropped out and didn't have to take the normal classes, I decided to take a calligraphy class to learn how to do this.
+[03:53.1 – 04:03.4] (233.1–243.4) I learned about serif and san serif typefaces, about varying the amount of space between different letter combinations, about what makes great typography great.
+[04:03.4 – 04:12.2] (243.4–252.2) It was beautiful, historical, artistically subtle in a way that science can't capture, and I found it fascinating.
+[04:12.2 – 04:17.6] (252.2–257.6) None of this had even a hope of any practical application in my life.
+[04:17.6 – 04:23.4] (257.6–263.4) But ten years later, when we were designing the first Macintosh computer, it all came back to me.
+[04:23.4 – 04:25.5] (263.4–265.5) And we designed it all into the Mac.
+[04:25.5 – 04:29.5] (265.5–269.5) It was the first computer with beautiful typography.
+[04:29.5 – 04:37.4] (269.5–277.4) If I had never dropped in on that single course in college, the Mac would have never had multiple typefaces or proportionally spaced fonts.
+[04:37.4 – 04:44.6] (277.4–284.6) And since Windows just copied the Mac, it's likely that no personal computer would have them.
+[04:47.1 – 04:58.2] (287.1–298.2) If I had never dropped out, I would have never dropped in on this calligraphy class, and personal computers might not have the wonderful typography that they do.
+[04:58.2 – 05:02.4] (298.2–302.4) Of course it was impossible to connect the dots looking forward when I was in college.
+[05:02.4 – 05:07.1] (302.4–307.1) But it was very, very clear looking backwards ten years later.
+[05:07.1 – 05:12.9] (307.1–312.9) Again, you can't connect the dots looking forward; you can only connect them looking backwards.
+[05:12.9 – 05:16.7] (312.9–316.7) So you have to trust that the dots will somehow connect in your future.
+[05:16.7 – 05:22.2] (316.7–322.2) You have to trust in something, your gut, destiny, life, karma, whatever.
+[05:22.4 – 05:31.8] (322.4–331.8) Beleiveing that the dots will connect down the road will give you the confidence to follow your heart Even when it leads you off the well worn path, and that
+[05:31.8 – 05:34.5] (331.8–334.5) will make all the difference.
+[05:38.6 – 05:43.7] (338.6–343.7) My second story is about love and loss.
+[05:44.0 – 05:48.3] (344.0–348.3) I was lucky I found what I loved to do early in life.
+[05:48.3 – 05:51.9] (348.3–351.9) Woz and I started Apple in my parents garage when I was 20.
+[05:51.9 – 05:59.7] (351.9–359.7) We worked hard, and in 10 years Apple had grown from just the two of us in a garage into a $2 billion company with over 4000 employees.
+[05:59.7 – 06:06.4] (359.7–366.4) We had just released our finest creation the Macintosh a year earlier, and I had just turned 30.
+[06:06.4 – 06:12.4] (366.4–372.4) And then I got fired. How can you get fired from a company you started?
+[06:12.4 – 06:20.5] (372.4–380.5) Well, as Apple grew we hired someone who I thought was very talented to run the company with me, and for the first year or so things went well.
+[06:20.5 – 06:25.8] (380.5–385.8) But then our visions of the future began to diverge and eventually we had a falling out.
+[06:25.8 – 06:29.1] (385.8–389.1) When we did, our Board of Directors sided with him.
+[06:29.1 – 06:32.7] (389.1–392.7) So at 30 I was out. And very publicly out.
+[06:32.7 – 06:38.5] (392.7–398.5) What had been the focus of my entire adult life was gone, and it was devastating.
+[06:38.5 – 06:41.1] (398.5–401.1) I really didn't know what to do for a few months.
+[06:41.1 – 06:47.2] (401.1–407.2) I felt that I had let the previous generation of entrepreneurs down - that I had dropped the baton as it was being passed to me.
+[06:47.2 – 06:54.4] (407.2–414.4) I met with David Packard and Bob Noyce and tried to apologize for screwing up so badly.
+[06:54.4 – 06:58.6] (414.4–418.6) I was a very public failure, and I even thought about running away from the valley.
+[06:58.6 – 07:03.6] (418.6–423.6) But something slowly began to dawn on me I still loved what I did.
+[07:03.6 – 07:07.8] (423.6–427.8) The turn of events at Apple had not changed that one bit.
+[07:07.8 – 07:12.1] (427.8–432.1) I had been rejected, but I was still in love.
+[07:12.1 – 07:19.9] (432.1–439.9) And so I decided to start over. I didn't see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened
+[07:19.9 – 07:27.2] (439.9–447.2) to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything.
+[07:27.2 – 07:31.4] (447.2–451.4) It freed me to enter one of the most creative periods of my life.
+[07:31.4 – 07:39.8] (451.4–459.8) During the next five years, I started a company named NeXT, another company named Pixar, and fell in love with an amazing woman who would become my wife.
+[07:39.8 – 07:50.0] (459.8–470.0) Pixar went on to create the worlds first computer animated feature film, Toy Story, and is now the most successful animation studio in the world.
+[07:50.0 – 07:59.9] (470.0–479.9) In a remarkable turn of events, Apple bought NeXT, I returned to Apple, and the technology we developed at NeXT is at the heart of Apple's current renaissance.
+[07:59.9 – 08:03.9] (479.9–483.9) And Laurene and I have a wonderful family together.
+[08:03.9 – 08:08.1] (483.9–488.1) I'm pretty sure none of this would have happened if I hadn't been fired from Apple.
+[08:08.1 – 08:12.4] (488.1–492.4) It was awful tasting medicine, but I guess the patient needed it.
+[08:12.4 – 08:16.6] (492.4–496.6) Sometimes life hits you in the head with a brick.
+[08:16.6 – 08:22.1] (496.6–502.1) Don't lose faith. I'm convinced that the only thing that kept me going was that I loved what I did.
+[08:22.1 – 08:28.2] (502.1–508.2) You've got to find what you love. And that is as true for your work as it is for your lovers.
+[08:28.2 – 08:35.1] (508.2–515.1) Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.
+[08:35.1 – 08:38.5] (515.1–518.5) And the only way to do great work is to love what you do.
+[08:38.5 – 08:42.2] (518.5–522.2) If you haven't found it yet, keep looking.
+[08:42.2 – 08:47.5] (522.2–527.5) Don't settle. As with all matters of the heart, you'll know when you find it.
+[08:47.5 – 08:52.3] (527.5–532.3) And, like any great relationship, it just gets better and better as the years roll on.
+[08:52.3 – 08:56.9] (532.3–536.9) So keep looking. Don't settle.
+[09:05.3 – 09:16.2] (545.3–556.2) My third story is about death. When I was 17, I read a quote that went something like: "If you live each day as if it was your last, someday
+[09:16.2 – 09:19.1] (556.2–559.1) you'll most certainly be right."
+[09:20.9 – 09:29.1] (560.9–569.1) It made an impression on me, and since then, for the past 33 years, I have looked in the mirror every morning and asked myself: "If today were the last
+[09:29.1 – 09:37.9] (569.1–577.9) day of my life, would I want to do what I am about to do today?" And whenever the answer has been "No" for too many days in a row,
+[09:37.9 – 09:47.9] (577.9–587.9) I know I need to change something. Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.
+[09:47.9 – 09:59.9] (587.9–599.9) Because almost everything all external expectations, all pride, all fear of embarrassment or failure - these things just fall away in the face of death, leaving only what is truly
+[09:59.9 – 10:08.2] (599.9–608.2) important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.
+[10:08.2 – 10:13.7] (608.2–613.7) You are already naked. There is no reason not to follow your heart.
+[10:14.0 – 10:17.0] (614.0–617.0) About a year ago I was diagnosed with cancer.
+[10:17.0 – 10:23.6] (617.0–623.6) I had a scan at 7:30 in the morning, and it clearly showed a tumor on my pancreas.
+[10:23.6 – 10:26.3] (623.6–626.3) I didn't even know what a pancreas was.
+[10:26.3 – 10:35.8] (626.3–635.8) The doctors told me this was almost certainly a type of cancer that is incurable, and that I should expect to live no longer than three to six months.
+[10:35.8 – 10:42.9] (635.8–642.9) My doctor advised me to go home and get my affairs in order, which is doctor's code for prepare to die.
+[10:42.9 – 10:51.9] (642.9–651.9) It means to try to tell your kids everything you thought you'd have the next 10 years to tell them in just a few months.
+[10:51.9 – 10:56.7] (651.9–656.7) It means to make sure everything is buttoned up so that it will be as easy as possible for your family.
+[10:56.7 – 11:04.1] (656.7–664.1) It means to say your goodbyes. I lived with that diagnosis all day.
+[11:04.1 – 11:13.1] (664.1–673.1) Later that evening I had a biopsy, where they stuck an endoscope down my throat, through my stomach and into my intestines, put a needle into my pancreas and got
+[11:13.1 – 11:22.8] (673.1–682.8) a few cells from the tumor. I was sedated, but my wife, who was there, told me that when they viewed the cells under a microscope the doctors started crying
+[11:22.8 – 11:29.0] (682.8–689.0) because it turned out to be a very rare form of pancreatic cancer that is curable with surgery.
+[11:29.0 – 11:34.2] (689.0–694.2) I had the surgery and thankfully I'm fine now.
+[11:40.8 – 11:46.9] (700.8–706.9) This was the closest I've been to facing death, and I hope its the closest I get for a few more decades.
+[11:46.9 – 11:57.4] (706.9–717.4) Having lived through it, I can now say this to you with a bit more certainty than when death was a useful but purely intellectual concept: No one wants to
+[11:57.4 – 12:02.4] (717.4–722.4) die. Even people who want to go to heaven don't want to die to get there.
+[12:02.4 – 12:06.2] (722.4–726.2) And yet death is the destination we all share.
+[12:06.2 – 12:15.0] (726.2–735.0) No one has ever escaped it. And that is as it should be, because Death is very likely the single best invention of Life.
+[12:15.0 – 12:19.9] (735.0–739.9) It is Life's change agent. It clears out the old to make way for the new.
+[12:19.9 – 12:28.5] (739.9–748.5) Right now the new is you, but someday not too long from now, you will gradually become the old and be cleared away.
+[12:28.5 – 12:32.1] (748.5–752.1) Sorry to be so dramatic, but it is quite true.
+[12:32.1 – 12:38.1] (752.1–758.1) Your time is limited, so don't waste it living someone else's life.
+[12:38.1 – 12:42.8] (758.1–762.8) Don't be trapped by dogma which is living with the results of other people's thinking.
+[12:42.8 – 12:46.8] (762.8–766.8) Don't let the noise of others' opinions drown out your own inner voice.
+[12:46.8 – 12:51.6] (766.8–771.6) And most important, have the courage to follow your heart and intuition.
+[12:51.6 – 12:55.9] (771.6–775.9) They somehow already know what you truly want to become.
+[12:55.9 – 12:59.1] (775.9–779.1) Everything else is secondary.
+[13:09.7 – 13:18.3] (789.7–798.3) When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation.
+[13:18.3 – 13:25.8] (798.3–805.8) It was created by a fellow named Stewart Brand not far from here in Menlo Park, and he brought it to life with his poetic touch.
+[13:25.8 – 13:34.7] (805.8–814.7) This was in the late 1960's, before personal computers and desktop publishing, so it was all made with typewriters, scissors, and polaroid cameras.
+[13:34.7 – 13:45.5] (814.7–825.5) It was sort of like Google in paperback form, 35 years before Google came along: it was idealistic, overflowing with neat tools, and great notions.
+[13:45.5 – 13:53.4] (825.5–833.4) Stewart and his team put out several issues of The Whole Earth Catalog, and then when it had run its course, they put out a final issue.
+[13:53.4 – 13:58.2] (833.4–838.2) It was the mid-1970s, and I was your age.
+[13:58.7 – 14:08.9] (838.7–848.9) On the back cover of their final issue was a photograph of an early morning country road, the kind you might find yourself hitchhiking on if you were so adventurous.
+[14:08.9 – 14:17.3] (848.9–857.3) Beneath it were the words: "Stay Hungry. Stay Foolish." It was their farewell message as they signed off.
+[14:17.3 – 14:23.8] (857.3–863.8) Stay Hungry. Stay Foolish. And I have always wished that for myself.
+[14:23.8 – 14:28.7] (863.8–868.7) And now, as you graduate to begin anew, I wish that for you.
+[14:28.7 – 14:35.7] (868.7–875.7) Stay Hungry. Stay Foolish. Thank you all very much.
+[14:57.5 – 15:01.1] (897.5–901.1) The preceding program is copyrighted by Stanford University.
+[15:01.1 – 15:03.7] (901.1–903.7) Please visit us at stanford.edu

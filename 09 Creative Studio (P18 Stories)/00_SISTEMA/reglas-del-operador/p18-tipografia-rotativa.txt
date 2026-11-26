@@ -1,0 +1,14 @@
+Valentín (2026-11-24), con énfasis: "hay que rotar entre otras tipografías, estilos y tamaños de texto (siempre estilo P18), porque ahora parece muy IA". Pidió dejarlo como base fuerte para todos los videos.
+
+POR QUÉ: el mismo tratamiento de texto en todas las escenas (Manrope, misma caja, mismo tamaño) delata una plantilla automática y le saca carácter editorial.
+
+CÓMO SE APLICA:
+- Usar las 4 familias P18 del runtime (`FONTS` en `05_REMOTION_DESIGN_SYSTEM/runtime/src/tokens/tokens.ts`), todas OFL y en la biblioteca:
+  - Manrope: base;
+  - Unbounded: cifras, golpes y titulares cortos (geometría del logo P18);
+  - Instrument Serif itálica: citas y frases dichas por personas;
+  - JetBrains Mono: créditos, fuentes y datos documentales.
+- Los subtítulos rotan por frase entre editorial, serif, caps y punch (`NarrativeSubtitle.assignStyles`), nunca dos iguales seguidos. Punch solo para frases cortas. Se puede forzar un estilo con `style` en el caption.
+- Variar también tamaños y alineación entre escenas. Se mantiene: paleta P18, lima como acento, 1–2 líneas, una palabra activa, firma P18 sin fondo.
+- Cada video nuevo copia las 4 fuentes a su `06_remotion/public/fonts`.
+- Relacionado: p18-musica-rotativa (misma lógica anti-repetición para el audio), p18-cierre-fijo.

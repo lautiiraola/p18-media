@@ -1,0 +1,721 @@
+{
+ "idioma": "en",
+ "duracion": 37.15,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 4.76,
+   "texto": "You know trial and error. You grow up and you make game winning shots and it's awesome.",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.18,
+     "p": "You"
+    },
+    {
+     "ini": 0.18,
+     "fin": 0.48,
+     "p": "know"
+    },
+    {
+     "ini": 0.48,
+     "fin": 0.78,
+     "p": "trial"
+    },
+    {
+     "ini": 0.78,
+     "fin": 1.04,
+     "p": "and"
+    },
+    {
+     "ini": 1.04,
+     "fin": 1.34,
+     "p": "error."
+    },
+    {
+     "ini": 2.14,
+     "fin": 2.14,
+     "p": "You"
+    },
+    {
+     "ini": 2.14,
+     "fin": 2.44,
+     "p": "grow"
+    },
+    {
+     "ini": 2.44,
+     "fin": 2.76,
+     "p": "up"
+    },
+    {
+     "ini": 2.76,
+     "fin": 3.02,
+     "p": "and"
+    },
+    {
+     "ini": 3.02,
+     "fin": 3.18,
+     "p": "you"
+    },
+    {
+     "ini": 3.18,
+     "fin": 3.34,
+     "p": "make"
+    },
+    {
+     "ini": 3.34,
+     "fin": 3.6,
+     "p": "game"
+    },
+    {
+     "ini": 3.6,
+     "fin": 3.74,
+     "p": "winning"
+    },
+    {
+     "ini": 3.74,
+     "fin": 4.06,
+     "p": "shots"
+    },
+    {
+     "ini": 4.06,
+     "fin": 4.22,
+     "p": "and"
+    },
+    {
+     "ini": 4.22,
+     "fin": 4.4,
+     "p": "it's"
+    },
+    {
+     "ini": 4.4,
+     "fin": 4.76,
+     "p": "awesome."
+    }
+   ]
+  },
+  {
+   "ini": 4.8,
+   "fin": 7.9,
+   "texto": "You come back the next day and miss a game winning shot and it's misery.",
+   "palabras": [
+    {
+     "ini": 4.8,
+     "fin": 5.0,
+     "p": "You"
+    },
+    {
+     "ini": 5.0,
+     "fin": 5.22,
+     "p": "come"
+    },
+    {
+     "ini": 5.22,
+     "fin": 5.38,
+     "p": "back"
+    },
+    {
+     "ini": 5.38,
+     "fin": 5.52,
+     "p": "the"
+    },
+    {
+     "ini": 5.52,
+     "fin": 5.72,
+     "p": "next"
+    },
+    {
+     "ini": 5.72,
+     "fin": 5.86,
+     "p": "day"
+    },
+    {
+     "ini": 5.86,
+     "fin": 6.0,
+     "p": "and"
+    },
+    {
+     "ini": 6.0,
+     "fin": 6.2,
+     "p": "miss"
+    },
+    {
+     "ini": 6.2,
+     "fin": 6.36,
+     "p": "a"
+    },
+    {
+     "ini": 6.36,
+     "fin": 6.54,
+     "p": "game"
+    },
+    {
+     "ini": 6.54,
+     "fin": 6.7,
+     "p": "winning"
+    },
+    {
+     "ini": 6.7,
+     "fin": 7.0,
+     "p": "shot"
+    },
+    {
+     "ini": 7.0,
+     "fin": 7.14,
+     "p": "and"
+    },
+    {
+     "ini": 7.14,
+     "fin": 7.48,
+     "p": "it's"
+    },
+    {
+     "ini": 7.48,
+     "fin": 7.9,
+     "p": "misery."
+    }
+   ]
+  },
+  {
+   "ini": 8.26,
+   "fin": 10.56,
+   "texto": "And then the next day comes and you're back playing again.",
+   "palabras": [
+    {
+     "ini": 8.26,
+     "fin": 8.5,
+     "p": "And"
+    },
+    {
+     "ini": 8.5,
+     "fin": 8.66,
+     "p": "then"
+    },
+    {
+     "ini": 8.66,
+     "fin": 8.82,
+     "p": "the"
+    },
+    {
+     "ini": 8.82,
+     "fin": 9.04,
+     "p": "next"
+    },
+    {
+     "ini": 9.04,
+     "fin": 9.2,
+     "p": "day"
+    },
+    {
+     "ini": 9.2,
+     "fin": 9.5,
+     "p": "comes"
+    },
+    {
+     "ini": 9.5,
+     "fin": 9.64,
+     "p": "and"
+    },
+    {
+     "ini": 9.64,
+     "fin": 9.84,
+     "p": "you're"
+    },
+    {
+     "ini": 9.84,
+     "fin": 10.06,
+     "p": "back"
+    },
+    {
+     "ini": 10.06,
+     "fin": 10.26,
+     "p": "playing"
+    },
+    {
+     "ini": 10.26,
+     "fin": 10.56,
+     "p": "again."
+    }
+   ]
+  },
+  {
+   "ini": 10.58,
+   "fin": 13.88,
+   "texto": "You understand that life has this cyclical nature where it's,",
+   "palabras": [
+    {
+     "ini": 10.58,
+     "fin": 10.78,
+     "p": "You"
+    },
+    {
+     "ini": 10.78,
+     "fin": 11.22,
+     "p": "understand"
+    },
+    {
+     "ini": 11.22,
+     "fin": 11.44,
+     "p": "that"
+    },
+    {
+     "ini": 11.44,
+     "fin": 11.6,
+     "p": "life"
+    },
+    {
+     "ini": 11.6,
+     "fin": 11.9,
+     "p": "has"
+    },
+    {
+     "ini": 11.9,
+     "fin": 12.08,
+     "p": "this"
+    },
+    {
+     "ini": 12.08,
+     "fin": 12.5,
+     "p": "cyclical"
+    },
+    {
+     "ini": 12.5,
+     "fin": 12.9,
+     "p": "nature"
+    },
+    {
+     "ini": 12.9,
+     "fin": 13.22,
+     "p": "where"
+    },
+    {
+     "ini": 13.22,
+     "fin": 13.88,
+     "p": "it's,"
+    }
+   ]
+  },
+  {
+   "ini": 13.92,
+   "fin": 17.56,
+   "texto": "you know, what you do on Monday is fantastic, but then Tuesday is a bad day.",
+   "palabras": [
+    {
+     "ini": 13.92,
+     "fin": 14.06,
+     "p": "you"
+    },
+    {
+     "ini": 14.06,
+     "fin": 14.06,
+     "p": "know,"
+    },
+    {
+     "ini": 14.06,
+     "fin": 14.18,
+     "p": "what"
+    },
+    {
+     "ini": 14.18,
+     "fin": 14.28,
+     "p": "you"
+    },
+    {
+     "ini": 14.28,
+     "fin": 14.36,
+     "p": "do"
+    },
+    {
+     "ini": 14.36,
+     "fin": 14.6,
+     "p": "on"
+    },
+    {
+     "ini": 14.6,
+     "fin": 14.96,
+     "p": "Monday"
+    },
+    {
+     "ini": 14.96,
+     "fin": 15.4,
+     "p": "is"
+    },
+    {
+     "ini": 15.4,
+     "fin": 16.08,
+     "p": "fantastic,"
+    },
+    {
+     "ini": 16.1,
+     "fin": 16.28,
+     "p": "but"
+    },
+    {
+     "ini": 16.28,
+     "fin": 16.5,
+     "p": "then"
+    },
+    {
+     "ini": 16.5,
+     "fin": 16.8,
+     "p": "Tuesday"
+    },
+    {
+     "ini": 16.8,
+     "fin": 17.04,
+     "p": "is"
+    },
+    {
+     "ini": 17.04,
+     "fin": 17.14,
+     "p": "a"
+    },
+    {
+     "ini": 17.14,
+     "fin": 17.34,
+     "p": "bad"
+    },
+    {
+     "ini": 17.34,
+     "fin": 17.56,
+     "p": "day."
+    }
+   ]
+  },
+  {
+   "ini": 17.6,
+   "fin": 18.7,
+   "texto": "But guess what? There's Wednesday.",
+   "palabras": [
+    {
+     "ini": 17.6,
+     "fin": 17.74,
+     "p": "But"
+    },
+    {
+     "ini": 17.74,
+     "fin": 17.92,
+     "p": "guess"
+    },
+    {
+     "ini": 17.92,
+     "fin": 18.06,
+     "p": "what?"
+    },
+    {
+     "ini": 18.08,
+     "fin": 18.34,
+     "p": "There's"
+    },
+    {
+     "ini": 18.34,
+     "fin": 18.7,
+     "p": "Wednesday."
+    }
+   ]
+  },
+  {
+   "ini": 18.98,
+   "fin": 21.44,
+   "texto": "So are we just supposed to live our lives like this the whole time?",
+   "palabras": [
+    {
+     "ini": 18.98,
+     "fin": 19.32,
+     "p": "So"
+    },
+    {
+     "ini": 19.32,
+     "fin": 19.46,
+     "p": "are"
+    },
+    {
+     "ini": 19.46,
+     "fin": 19.54,
+     "p": "we"
+    },
+    {
+     "ini": 19.54,
+     "fin": 19.72,
+     "p": "just"
+    },
+    {
+     "ini": 19.72,
+     "fin": 19.84,
+     "p": "supposed"
+    },
+    {
+     "ini": 19.84,
+     "fin": 19.96,
+     "p": "to"
+    },
+    {
+     "ini": 19.96,
+     "fin": 20.04,
+     "p": "live"
+    },
+    {
+     "ini": 20.04,
+     "fin": 20.24,
+     "p": "our"
+    },
+    {
+     "ini": 20.24,
+     "fin": 20.4,
+     "p": "lives"
+    },
+    {
+     "ini": 20.4,
+     "fin": 20.64,
+     "p": "like"
+    },
+    {
+     "ini": 20.64,
+     "fin": 20.8,
+     "p": "this"
+    },
+    {
+     "ini": 20.8,
+     "fin": 20.92,
+     "p": "the"
+    },
+    {
+     "ini": 20.92,
+     "fin": 21.08,
+     "p": "whole"
+    },
+    {
+     "ini": 21.08,
+     "fin": 21.44,
+     "p": "time?"
+    }
+   ]
+  },
+  {
+   "ini": 22.5,
+   "fin": 25.6,
+   "texto": "Versus just staying like this and understanding that it's really just a journey of",
+   "palabras": [
+    {
+     "ini": 22.5,
+     "fin": 22.9,
+     "p": "Versus"
+    },
+    {
+     "ini": 22.9,
+     "fin": 23.12,
+     "p": "just"
+    },
+    {
+     "ini": 23.12,
+     "fin": 23.2,
+     "p": "staying"
+    },
+    {
+     "ini": 23.2,
+     "fin": 23.48,
+     "p": "like"
+    },
+    {
+     "ini": 23.48,
+     "fin": 23.66,
+     "p": "this"
+    },
+    {
+     "ini": 23.66,
+     "fin": 23.8,
+     "p": "and"
+    },
+    {
+     "ini": 23.8,
+     "fin": 24.1,
+     "p": "understanding"
+    },
+    {
+     "ini": 24.1,
+     "fin": 24.26,
+     "p": "that"
+    },
+    {
+     "ini": 24.26,
+     "fin": 24.42,
+     "p": "it's"
+    },
+    {
+     "ini": 24.42,
+     "fin": 24.62,
+     "p": "really"
+    },
+    {
+     "ini": 24.62,
+     "fin": 24.86,
+     "p": "just"
+    },
+    {
+     "ini": 24.86,
+     "fin": 25.04,
+     "p": "a"
+    },
+    {
+     "ini": 25.04,
+     "fin": 25.4,
+     "p": "journey"
+    },
+    {
+     "ini": 25.4,
+     "fin": 25.6,
+     "p": "of"
+    }
+   ]
+  },
+  {
+   "ini": 25.6,
+   "fin": 29.02,
+   "texto": "of evolution every day is just constant improvement,",
+   "palabras": [
+    {
+     "ini": 25.6,
+     "fin": 26.54,
+     "p": "of"
+    },
+    {
+     "ini": 26.54,
+     "fin": 27.1,
+     "p": "evolution"
+    },
+    {
+     "ini": 27.1,
+     "fin": 27.5,
+     "p": "every"
+    },
+    {
+     "ini": 27.5,
+     "fin": 27.76,
+     "p": "day"
+    },
+    {
+     "ini": 27.76,
+     "fin": 27.98,
+     "p": "is"
+    },
+    {
+     "ini": 27.98,
+     "fin": 28.2,
+     "p": "just"
+    },
+    {
+     "ini": 28.2,
+     "fin": 28.48,
+     "p": "constant"
+    },
+    {
+     "ini": 28.48,
+     "fin": 29.02,
+     "p": "improvement,"
+    }
+   ]
+  },
+  {
+   "ini": 29.38,
+   "fin": 31.2,
+   "texto": "constant curiosity, constantly getting better.",
+   "palabras": [
+    {
+     "ini": 29.38,
+     "fin": 29.46,
+     "p": "constant"
+    },
+    {
+     "ini": 29.46,
+     "fin": 30.06,
+     "p": "curiosity,"
+    },
+    {
+     "ini": 30.32,
+     "fin": 30.6,
+     "p": "constantly"
+    },
+    {
+     "ini": 30.6,
+     "fin": 30.84,
+     "p": "getting"
+    },
+    {
+     "ini": 30.84,
+     "fin": 31.2,
+     "p": "better."
+    }
+   ]
+  },
+  {
+   "ini": 31.68,
+   "fin": 33.46,
+   "texto": "The results don't really matter.",
+   "palabras": [
+    {
+     "ini": 31.68,
+     "fin": 31.94,
+     "p": "The"
+    },
+    {
+     "ini": 31.94,
+     "fin": 32.12,
+     "p": "results"
+    },
+    {
+     "ini": 32.12,
+     "fin": 32.54,
+     "p": "don't"
+    },
+    {
+     "ini": 32.54,
+     "fin": 32.82,
+     "p": "really"
+    },
+    {
+     "ini": 32.82,
+     "fin": 33.46,
+     "p": "matter."
+    }
+   ]
+  },
+  {
+   "ini": 34.46,
+   "fin": 36.9,
+   "texto": "It's the figuring out that matters.",
+   "palabras": [
+    {
+     "ini": 34.46,
+     "fin": 34.64,
+     "p": "It's"
+    },
+    {
+     "ini": 34.64,
+     "fin": 34.92,
+     "p": "the"
+    },
+    {
+     "ini": 34.92,
+     "fin": 35.24,
+     "p": "figuring"
+    },
+    {
+     "ini": 35.24,
+     "fin": 36.1,
+     "p": "out"
+    },
+    {
+     "ini": 36.1,
+     "fin": 36.58,
+     "p": "that"
+    },
+    {
+     "ini": 36.58,
+     "fin": 36.9,
+     "p": "matters."
+    }
+   ]
+  }
+ ]
+}

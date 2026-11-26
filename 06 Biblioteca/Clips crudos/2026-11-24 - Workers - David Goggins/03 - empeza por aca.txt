@@ -1,0 +1,26 @@
+CLIP 03 — SI ESTÁS TOCANDO FONDO, EMPEZÁ POR ACÁ
+
+Inicio:     24:13.9  (1453.88 s)
+Fin:        24:54.9  (1494.91 s)
+Duración:   41.0 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  SI ESTÁS TOCANDO FONDO, EMPEZÁ POR ACÁ   (en el reel, en lima: TOCANDO FONDO)
+Departamento:     Crecimiento personal
+Área:             Hábitos y constancia
+Tema:             Manual corto para construir disciplina
+Fuente:           Workers - David Goggins — "Como ser EXAGERADAMENTE disciplinado | David Goggins #4"
+                  https://www.youtube.com/watch?v=6r52EZzweoM&t=1453s
+
+Por qué lo elegí:
+Resume el método en pasos simples: hacerte responsable de dónde estás, ponerte metas chicas, exponerte a lo incómodo y festejar las pequeñas victorias, cada uno con sus tiempos.
+
+Gancho (primeros 3 s): Si estás tocando fondo, si te sentís sin disciplina, propósito ni estructura…
+
+Notas para la revisión: Dice "decite esas verdades incómodas": en el reel no usar los ejemplos del video de decirse gordo o tonto (están fuera del clip).
+
+Transcripción del clip:
+Pero sobre todo, si estás tocando fondo, si te sentís como Goggins, sin disciplina, propósito ni estructura, creo que este podcast puede servirte como un manual de instrucciones paso por paso de cómo empezar a construir un nuevo voz. Primero, empecé por hacerte consciente y responsable de quién sos y dónde estás. Decíte de esas verdades incómodas y empecé por poner metas. Luego vas a encallecer tu mente exponiéndote con más regularidad a situaciones incómodas. Vas a salir de tu zona de confort una, dos, tres veces Y así hasta que la tarea que te incomoda te parezca normal. Vas a ir concretando metas, pequeñas, grandes, eso no importa, cada quien tiene sus tiempos. Pero vas a asegurarte de festejar esas pequeñas victorias, de apreciar el frasco cuando sea necesario.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-24 - Workers - David Goggins/03 - empeza por aca.mp4" "SI ESTÁS *TOCANDO FONDO*, EMPEZÁ POR ACÁ" --fuente "Workers - David Goggins"

@@ -1,0 +1,19 @@
+ARQUITECTURA REMOTION
+
+Claude construirá el runtime dentro de 05_REMOTION_DESIGN_SYSTEM/runtime durante la primera producción real.
+
+Estructura recomendada:
+src/compositions
+src/components
+src/scenes
+src/subtitles
+src/motion
+src/audio
+src/tokens
+src/utils
+public/shared
+tests
+
+Una composición por video importa datos desde su carpeta de producción. Los componentes compartidos no contienen datos de un protagonista. Toda animación depende de useCurrentFrame, interpolate, spring o cálculos deterministas equivalentes. No usar timers de navegador.
+
+El runtime no depende de Canva ni exporta desde Canva.

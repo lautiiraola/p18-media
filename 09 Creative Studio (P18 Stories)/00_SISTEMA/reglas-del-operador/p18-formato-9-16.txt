@@ -1,0 +1,5 @@
+Valentín lo pidió con énfasis (2026-11-24): todos los videos de P18 son SIEMPRE 9:16, formato Reel / Story. 1080 × 1920, vertical.
+
+POR QUÉ: es el formato de distribución de P18 (Instagram Reels, Stories, TikTok, Shorts); cualquier otro aspecto no sirve.
+
+CÓMO SE APLICA: cada composición, render, review y master de P18 se hace en 1080×1920. Nunca proponer ni renderizar 16:9, 1:1 ni 4:5 para un video, ni siquiera como variante, salvo que Valentín lo pida explícitamente. Diseñar dentro de safe zones de Reel/Story: dejar libres el borde superior y el inferior para la interfaz. Relacionado: p18-elevenlabs-gate, p18-process-log.

@@ -1,0 +1,26 @@
+CLIP 02 — LA MEJOR IDEA PARA UNA MARCA: ADUEÑARSE DE UN SALUDO
+
+Inicio:     20:14.4  (1214.44 s)
+Fin:        21:02.3  (1262.28 s)
+Duración:   47.8 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  LA MEJOR IDEA PARA UNA MARCA: ADUEÑARSE DE UN SALUDO   (en el reel, en lima: ADUEÑARSE)
+Departamento:     Creatividad
+Área:             Pensamiento creativo
+Tema:             Encontrar ideas en lo cotidiano
+Fuente:           30X - Felipe Martínez — "De repartir pizzas a crear marcas virales | Felipe Martínez, director creativo de Holii y 30X"
+                  https://www.youtube.com/watch?v=a0nhFmWtWug&t=1214s
+
+Por qué lo elegí:
+Cuenta cómo una palabra que escuchaba en todos lados se convirtió en la idea de una marca, y el consejo que le dio un creativo grande: lo mejor que puede hacer una marca es adueñarse de un saludo. Enseña a mirar lo cotidiano con ojos creativos.
+
+Gancho (primeros 3 s): Era algo muy loco que todo el mundo me decía Oli
+
+Notas para la revisión: Menciona salir de fiesta ("farrear") de pasada y una campaña de Budweiser (marca de cerveza): revisar si va. Whisper escribe "bot wiser" y "Oli" (la marca es Holii): corregir en subtítulos.
+
+Transcripción del clip:
+Pero era ya algo muy loco que todo el mundo me decía Oli. O sea, todo el parche de ella decía Oli. Claro. Y a otros parches y todos me decían Oli. Y salía a farrear y me saludaban Oli. O sea, así era una locura. Y yo en mi mente decía como, guas, qué loco. Y yo en Chicago había trabajado con el director creativo de Budweiser, que fue el que sacó la campaña, no sé si te acuerdas que se llamaban por celular. ¡Wazaaaar! Sí, claro, es un mega hit, esos bebés no tenia de que estamos hablando, pero es una campaña del Super Bowl, la más exitosa de la historia del Super Bowl. Y yo trabajé con ese man, y yo una vez me senté con el man y le dije, ¿cómo se le ocurrió esa mierda? Y me dijo, yo llegué a la conclusión de que lo mejor que una marca puede hacer es adueñarse de un saludo, o de una expresión.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-12 - 30X - Felipe Martínez/02 - adueñarse de un saludo.mp4" "LA MEJOR IDEA PARA UNA MARCA: *ADUEÑARSE* DE UN SALUDO" --fuente "30X - Felipe Martínez"

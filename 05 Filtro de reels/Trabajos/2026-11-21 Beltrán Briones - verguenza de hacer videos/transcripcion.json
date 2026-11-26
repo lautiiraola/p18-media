@@ -1,0 +1,1052 @@
+{
+ "idioma": "es",
+ "duracion": 54.21,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 3.64,
+   "texto": "Yo la hablo mucho con gente que es, no, pero no me quiero exponer, hacer videos.",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.2,
+     "p": "Yo"
+    },
+    {
+     "ini": 0.2,
+     "fin": 0.38,
+     "p": "la"
+    },
+    {
+     "ini": 0.38,
+     "fin": 0.54,
+     "p": "hablo"
+    },
+    {
+     "ini": 0.54,
+     "fin": 0.76,
+     "p": "mucho"
+    },
+    {
+     "ini": 0.76,
+     "fin": 0.98,
+     "p": "con"
+    },
+    {
+     "ini": 0.98,
+     "fin": 1.18,
+     "p": "gente"
+    },
+    {
+     "ini": 1.18,
+     "fin": 1.36,
+     "p": "que"
+    },
+    {
+     "ini": 1.36,
+     "fin": 1.48,
+     "p": "es,"
+    },
+    {
+     "ini": 1.58,
+     "fin": 1.72,
+     "p": "no,"
+    },
+    {
+     "ini": 1.76,
+     "fin": 1.96,
+     "p": "pero"
+    },
+    {
+     "ini": 1.96,
+     "fin": 2.16,
+     "p": "no"
+    },
+    {
+     "ini": 2.16,
+     "fin": 2.28,
+     "p": "me"
+    },
+    {
+     "ini": 2.28,
+     "fin": 2.38,
+     "p": "quiero"
+    },
+    {
+     "ini": 2.38,
+     "fin": 2.86,
+     "p": "exponer,"
+    },
+    {
+     "ini": 2.98,
+     "fin": 3.1,
+     "p": "hacer"
+    },
+    {
+     "ini": 3.1,
+     "fin": 3.64,
+     "p": "videos."
+    }
+   ]
+  },
+  {
+   "ini": 4.0,
+   "fin": 6.08,
+   "texto": "Digo, si ese es tu problema, agradece.",
+   "palabras": [
+    {
+     "ini": 4.0,
+     "fin": 4.4,
+     "p": "Digo,"
+    },
+    {
+     "ini": 4.7,
+     "fin": 4.8,
+     "p": "si"
+    },
+    {
+     "ini": 4.8,
+     "fin": 4.94,
+     "p": "ese"
+    },
+    {
+     "ini": 4.94,
+     "fin": 5.08,
+     "p": "es"
+    },
+    {
+     "ini": 5.08,
+     "fin": 5.12,
+     "p": "tu"
+    },
+    {
+     "ini": 5.12,
+     "fin": 5.46,
+     "p": "problema,"
+    },
+    {
+     "ini": 5.76,
+     "fin": 6.08,
+     "p": "agradece."
+    }
+   ]
+  },
+  {
+   "ini": 6.22,
+   "fin": 7.82,
+   "texto": "Tienes el problema menos honesto de la historia.",
+   "palabras": [
+    {
+     "ini": 6.22,
+     "fin": 6.42,
+     "p": "Tienes"
+    },
+    {
+     "ini": 6.42,
+     "fin": 6.56,
+     "p": "el"
+    },
+    {
+     "ini": 6.56,
+     "fin": 6.74,
+     "p": "problema"
+    },
+    {
+     "ini": 6.74,
+     "fin": 6.98,
+     "p": "menos"
+    },
+    {
+     "ini": 6.98,
+     "fin": 7.3,
+     "p": "honesto"
+    },
+    {
+     "ini": 7.3,
+     "fin": 7.42,
+     "p": "de"
+    },
+    {
+     "ini": 7.42,
+     "fin": 7.6,
+     "p": "la"
+    },
+    {
+     "ini": 7.6,
+     "fin": 7.82,
+     "p": "historia."
+    }
+   ]
+  },
+  {
+   "ini": 7.94,
+   "fin": 8.34,
+   "texto": "Literal.",
+   "palabras": [
+    {
+     "ini": 7.94,
+     "fin": 8.34,
+     "p": "Literal."
+    }
+   ]
+  },
+  {
+   "ini": 8.4,
+   "fin": 10.58,
+   "texto": "No sabes lo que hay gente que hace para ganar plata.",
+   "palabras": [
+    {
+     "ini": 8.4,
+     "fin": 8.54,
+     "p": "No"
+    },
+    {
+     "ini": 8.54,
+     "fin": 8.62,
+     "p": "sabes"
+    },
+    {
+     "ini": 8.62,
+     "fin": 9.0,
+     "p": "lo"
+    },
+    {
+     "ini": 9.0,
+     "fin": 9.12,
+     "p": "que"
+    },
+    {
+     "ini": 9.12,
+     "fin": 9.28,
+     "p": "hay"
+    },
+    {
+     "ini": 9.28,
+     "fin": 9.46,
+     "p": "gente"
+    },
+    {
+     "ini": 9.46,
+     "fin": 9.7,
+     "p": "que"
+    },
+    {
+     "ini": 9.7,
+     "fin": 9.84,
+     "p": "hace"
+    },
+    {
+     "ini": 9.84,
+     "fin": 10.06,
+     "p": "para"
+    },
+    {
+     "ini": 10.06,
+     "fin": 10.38,
+     "p": "ganar"
+    },
+    {
+     "ini": 10.38,
+     "fin": 10.58,
+     "p": "plata."
+    }
+   ]
+  },
+  {
+   "ini": 10.74,
+   "fin": 14.36,
+   "texto": "No, y además a la gente le da vergüenza que su círculo íntimo",
+   "palabras": [
+    {
+     "ini": 10.74,
+     "fin": 10.96,
+     "p": "No,"
+    },
+    {
+     "ini": 11.06,
+     "fin": 11.16,
+     "p": "y"
+    },
+    {
+     "ini": 11.16,
+     "fin": 11.32,
+     "p": "además"
+    },
+    {
+     "ini": 11.32,
+     "fin": 11.4,
+     "p": "a"
+    },
+    {
+     "ini": 11.4,
+     "fin": 11.52,
+     "p": "la"
+    },
+    {
+     "ini": 11.52,
+     "fin": 11.7,
+     "p": "gente"
+    },
+    {
+     "ini": 11.7,
+     "fin": 11.82,
+     "p": "le"
+    },
+    {
+     "ini": 11.82,
+     "fin": 11.94,
+     "p": "da"
+    },
+    {
+     "ini": 11.94,
+     "fin": 12.58,
+     "p": "vergüenza"
+    },
+    {
+     "ini": 12.58,
+     "fin": 12.9,
+     "p": "que"
+    },
+    {
+     "ini": 12.9,
+     "fin": 13.38,
+     "p": "su"
+    },
+    {
+     "ini": 13.38,
+     "fin": 13.8,
+     "p": "círculo"
+    },
+    {
+     "ini": 13.8,
+     "fin": 14.36,
+     "p": "íntimo"
+    }
+   ]
+  },
+  {
+   "ini": 14.36,
+   "fin": 16.98,
+   "texto": "de amigos y familia y gente con la que trabaja lo juzguen.",
+   "palabras": [
+    {
+     "ini": 14.36,
+     "fin": 14.7,
+     "p": "de"
+    },
+    {
+     "ini": 14.7,
+     "fin": 14.9,
+     "p": "amigos"
+    },
+    {
+     "ini": 14.9,
+     "fin": 15.12,
+     "p": "y"
+    },
+    {
+     "ini": 15.12,
+     "fin": 15.38,
+     "p": "familia"
+    },
+    {
+     "ini": 15.38,
+     "fin": 15.54,
+     "p": "y"
+    },
+    {
+     "ini": 15.54,
+     "fin": 15.7,
+     "p": "gente"
+    },
+    {
+     "ini": 15.7,
+     "fin": 15.86,
+     "p": "con"
+    },
+    {
+     "ini": 15.86,
+     "fin": 15.98,
+     "p": "la"
+    },
+    {
+     "ini": 15.98,
+     "fin": 16.16,
+     "p": "que"
+    },
+    {
+     "ini": 16.16,
+     "fin": 16.36,
+     "p": "trabaja"
+    },
+    {
+     "ini": 16.36,
+     "fin": 16.54,
+     "p": "lo"
+    },
+    {
+     "ini": 16.54,
+     "fin": 16.98,
+     "p": "juzguen."
+    }
+   ]
+  },
+  {
+   "ini": 17.26,
+   "fin": 19.46,
+   "texto": "Que ese grupo, como mucho, son 30 personas.",
+   "palabras": [
+    {
+     "ini": 17.26,
+     "fin": 17.4,
+     "p": "Que"
+    },
+    {
+     "ini": 17.4,
+     "fin": 17.6,
+     "p": "ese"
+    },
+    {
+     "ini": 17.6,
+     "fin": 17.88,
+     "p": "grupo,"
+    },
+    {
+     "ini": 18.0,
+     "fin": 18.16,
+     "p": "como"
+    },
+    {
+     "ini": 18.16,
+     "fin": 18.36,
+     "p": "mucho,"
+    },
+    {
+     "ini": 18.4,
+     "fin": 18.66,
+     "p": "son"
+    },
+    {
+     "ini": 18.66,
+     "fin": 18.96,
+     "p": "30"
+    },
+    {
+     "ini": 18.96,
+     "fin": 19.46,
+     "p": "personas."
+    }
+   ]
+  },
+  {
+   "ini": 19.58,
+   "fin": 22.12,
+   "texto": "Como mucho. Digo, vos a tu cumpleaños, cuánta gente invitas?",
+   "palabras": [
+    {
+     "ini": 19.58,
+     "fin": 19.76,
+     "p": "Como"
+    },
+    {
+     "ini": 19.76,
+     "fin": 20.08,
+     "p": "mucho."
+    },
+    {
+     "ini": 20.62,
+     "fin": 20.76,
+     "p": "Digo,"
+    },
+    {
+     "ini": 20.84,
+     "fin": 20.9,
+     "p": "vos"
+    },
+    {
+     "ini": 20.9,
+     "fin": 20.98,
+     "p": "a"
+    },
+    {
+     "ini": 20.98,
+     "fin": 21.06,
+     "p": "tu"
+    },
+    {
+     "ini": 21.06,
+     "fin": 21.4,
+     "p": "cumpleaños,"
+    },
+    {
+     "ini": 21.46,
+     "fin": 21.66,
+     "p": "cuánta"
+    },
+    {
+     "ini": 21.66,
+     "fin": 21.82,
+     "p": "gente"
+    },
+    {
+     "ini": 21.82,
+     "fin": 22.12,
+     "p": "invitas?"
+    }
+   ]
+  },
+  {
+   "ini": 22.46,
+   "fin": 23.64,
+   "texto": "30. Ponele menos.",
+   "palabras": [
+    {
+     "ini": 22.46,
+     "fin": 22.8,
+     "p": "30."
+    },
+    {
+     "ini": 22.94,
+     "fin": 23.28,
+     "p": "Ponele"
+    },
+    {
+     "ini": 23.28,
+     "fin": 23.64,
+     "p": "menos."
+    }
+   ]
+  },
+  {
+   "ini": 24.44,
+   "fin": 25.7,
+   "texto": "Esa es la gente que te importa.",
+   "palabras": [
+    {
+     "ini": 24.44,
+     "fin": 24.68,
+     "p": "Esa"
+    },
+    {
+     "ini": 24.68,
+     "fin": 24.8,
+     "p": "es"
+    },
+    {
+     "ini": 24.8,
+     "fin": 24.92,
+     "p": "la"
+    },
+    {
+     "ini": 24.92,
+     "fin": 25.08,
+     "p": "gente"
+    },
+    {
+     "ini": 25.08,
+     "fin": 25.18,
+     "p": "que"
+    },
+    {
+     "ini": 25.18,
+     "fin": 25.36,
+     "p": "te"
+    },
+    {
+     "ini": 25.36,
+     "fin": 25.7,
+     "p": "importa."
+    }
+   ]
+  },
+  {
+   "ini": 26.4,
+   "fin": 29.66,
+   "texto": "Versus cientos de miles o incluso millones a los cuales podés",
+   "palabras": [
+    {
+     "ini": 26.4,
+     "fin": 26.8,
+     "p": "Versus"
+    },
+    {
+     "ini": 26.8,
+     "fin": 27.2,
+     "p": "cientos"
+    },
+    {
+     "ini": 27.2,
+     "fin": 27.46,
+     "p": "de"
+    },
+    {
+     "ini": 27.46,
+     "fin": 27.7,
+     "p": "miles"
+    },
+    {
+     "ini": 27.7,
+     "fin": 27.98,
+     "p": "o"
+    },
+    {
+     "ini": 27.98,
+     "fin": 28.28,
+     "p": "incluso"
+    },
+    {
+     "ini": 28.28,
+     "fin": 28.68,
+     "p": "millones"
+    },
+    {
+     "ini": 28.68,
+     "fin": 28.96,
+     "p": "a"
+    },
+    {
+     "ini": 28.96,
+     "fin": 29.06,
+     "p": "los"
+    },
+    {
+     "ini": 29.06,
+     "fin": 29.2,
+     "p": "cuales"
+    },
+    {
+     "ini": 29.2,
+     "fin": 29.66,
+     "p": "podés"
+    }
+   ]
+  },
+  {
+   "ini": 29.66,
+   "fin": 32.6,
+   "texto": "contactar, que te conozcan y que eventualmente te compren.",
+   "palabras": [
+    {
+     "ini": 29.66,
+     "fin": 30.3,
+     "p": "contactar,"
+    },
+    {
+     "ini": 30.36,
+     "fin": 30.44,
+     "p": "que"
+    },
+    {
+     "ini": 30.44,
+     "fin": 30.66,
+     "p": "te"
+    },
+    {
+     "ini": 30.66,
+     "fin": 30.98,
+     "p": "conozcan"
+    },
+    {
+     "ini": 30.98,
+     "fin": 31.1,
+     "p": "y"
+    },
+    {
+     "ini": 31.1,
+     "fin": 31.24,
+     "p": "que"
+    },
+    {
+     "ini": 31.24,
+     "fin": 31.62,
+     "p": "eventualmente"
+    },
+    {
+     "ini": 31.62,
+     "fin": 31.96,
+     "p": "te"
+    },
+    {
+     "ini": 31.96,
+     "fin": 32.6,
+     "p": "compren."
+    }
+   ]
+  },
+  {
+   "ini": 32.88,
+   "fin": 36.16,
+   "texto": "Entonces uno deja de hacer algo sumamente redituable y rentable",
+   "palabras": [
+    {
+     "ini": 32.88,
+     "fin": 33.04,
+     "p": "Entonces"
+    },
+    {
+     "ini": 33.04,
+     "fin": 33.34,
+     "p": "uno"
+    },
+    {
+     "ini": 33.34,
+     "fin": 33.66,
+     "p": "deja"
+    },
+    {
+     "ini": 33.66,
+     "fin": 33.84,
+     "p": "de"
+    },
+    {
+     "ini": 33.84,
+     "fin": 34.02,
+     "p": "hacer"
+    },
+    {
+     "ini": 34.02,
+     "fin": 34.38,
+     "p": "algo"
+    },
+    {
+     "ini": 34.38,
+     "fin": 35.0,
+     "p": "sumamente"
+    },
+    {
+     "ini": 35.0,
+     "fin": 35.58,
+     "p": "redituable"
+    },
+    {
+     "ini": 35.58,
+     "fin": 35.74,
+     "p": "y"
+    },
+    {
+     "ini": 35.74,
+     "fin": 36.16,
+     "p": "rentable"
+    }
+   ]
+  },
+  {
+   "ini": 36.16,
+   "fin": 38.72,
+   "texto": "para tu compañía por la opinión de 20 o 30.",
+   "palabras": [
+    {
+     "ini": 36.16,
+     "fin": 36.36,
+     "p": "para"
+    },
+    {
+     "ini": 36.36,
+     "fin": 36.48,
+     "p": "tu"
+    },
+    {
+     "ini": 36.48,
+     "fin": 37.24,
+     "p": "compañía"
+    },
+    {
+     "ini": 37.24,
+     "fin": 37.52,
+     "p": "por"
+    },
+    {
+     "ini": 37.52,
+     "fin": 37.7,
+     "p": "la"
+    },
+    {
+     "ini": 37.7,
+     "fin": 37.96,
+     "p": "opinión"
+    },
+    {
+     "ini": 37.96,
+     "fin": 38.14,
+     "p": "de"
+    },
+    {
+     "ini": 38.14,
+     "fin": 38.3,
+     "p": "20"
+    },
+    {
+     "ini": 38.3,
+     "fin": 38.42,
+     "p": "o"
+    },
+    {
+     "ini": 38.42,
+     "fin": 38.72,
+     "p": "30."
+    }
+   ]
+  },
+  {
+   "ini": 38.96,
+   "fin": 41.38,
+   "texto": "No tiene sentido si lo pensás de forma racional.",
+   "palabras": [
+    {
+     "ini": 38.96,
+     "fin": 39.16,
+     "p": "No"
+    },
+    {
+     "ini": 39.16,
+     "fin": 39.34,
+     "p": "tiene"
+    },
+    {
+     "ini": 39.34,
+     "fin": 39.78,
+     "p": "sentido"
+    },
+    {
+     "ini": 39.78,
+     "fin": 40.08,
+     "p": "si"
+    },
+    {
+     "ini": 40.08,
+     "fin": 40.24,
+     "p": "lo"
+    },
+    {
+     "ini": 40.24,
+     "fin": 40.44,
+     "p": "pensás"
+    },
+    {
+     "ini": 40.44,
+     "fin": 40.54,
+     "p": "de"
+    },
+    {
+     "ini": 40.54,
+     "fin": 40.74,
+     "p": "forma"
+    },
+    {
+     "ini": 40.74,
+     "fin": 41.38,
+     "p": "racional."
+    }
+   ]
+  },
+  {
+   "ini": 42.3,
+   "fin": 43.88,
+   "texto": "A nivel emocional te puede dar vergüenza,",
+   "palabras": [
+    {
+     "ini": 42.3,
+     "fin": 42.42,
+     "p": "A"
+    },
+    {
+     "ini": 42.42,
+     "fin": 42.66,
+     "p": "nivel"
+    },
+    {
+     "ini": 42.66,
+     "fin": 43.06,
+     "p": "emocional"
+    },
+    {
+     "ini": 43.06,
+     "fin": 43.26,
+     "p": "te"
+    },
+    {
+     "ini": 43.26,
+     "fin": 43.34,
+     "p": "puede"
+    },
+    {
+     "ini": 43.34,
+     "fin": 43.52,
+     "p": "dar"
+    },
+    {
+     "ini": 43.52,
+     "fin": 43.88,
+     "p": "vergüenza,"
+    }
+   ]
+  },
+  {
+   "ini": 44.26,
+   "fin": 47.0,
+   "texto": "pero en términos racionales no tiene sentido no hacerlo,",
+   "palabras": [
+    {
+     "ini": 44.26,
+     "fin": 44.32,
+     "p": "pero"
+    },
+    {
+     "ini": 44.32,
+     "fin": 44.48,
+     "p": "en"
+    },
+    {
+     "ini": 44.48,
+     "fin": 44.86,
+     "p": "términos"
+    },
+    {
+     "ini": 44.86,
+     "fin": 45.6,
+     "p": "racionales"
+    },
+    {
+     "ini": 45.6,
+     "fin": 45.78,
+     "p": "no"
+    },
+    {
+     "ini": 45.78,
+     "fin": 46.0,
+     "p": "tiene"
+    },
+    {
+     "ini": 46.0,
+     "fin": 46.4,
+     "p": "sentido"
+    },
+    {
+     "ini": 46.4,
+     "fin": 46.66,
+     "p": "no"
+    },
+    {
+     "ini": 46.66,
+     "fin": 47.0,
+     "p": "hacerlo,"
+    }
+   ]
+  },
+  {
+   "ini": 47.34,
+   "fin": 50.26,
+   "texto": "ya que además hacerlo tiene un costo muy bajo.",
+   "palabras": [
+    {
+     "ini": 47.34,
+     "fin": 47.42,
+     "p": "ya"
+    },
+    {
+     "ini": 47.42,
+     "fin": 47.56,
+     "p": "que"
+    },
+    {
+     "ini": 47.56,
+     "fin": 47.8,
+     "p": "además"
+    },
+    {
+     "ini": 47.8,
+     "fin": 48.28,
+     "p": "hacerlo"
+    },
+    {
+     "ini": 48.28,
+     "fin": 48.84,
+     "p": "tiene"
+    },
+    {
+     "ini": 48.84,
+     "fin": 49.42,
+     "p": "un"
+    },
+    {
+     "ini": 49.42,
+     "fin": 49.76,
+     "p": "costo"
+    },
+    {
+     "ini": 49.76,
+     "fin": 49.94,
+     "p": "muy"
+    },
+    {
+     "ini": 49.94,
+     "fin": 50.26,
+     "p": "bajo."
+    }
+   ]
+  },
+  {
+   "ini": 50.34,
+   "fin": 53.58,
+   "texto": "Digo, la barrera de entrada que es tener un teléfono y",
+   "palabras": [
+    {
+     "ini": 50.34,
+     "fin": 50.48,
+     "p": "Digo,"
+    },
+    {
+     "ini": 50.56,
+     "fin": 50.62,
+     "p": "la"
+    },
+    {
+     "ini": 50.62,
+     "fin": 50.9,
+     "p": "barrera"
+    },
+    {
+     "ini": 50.9,
+     "fin": 50.9,
+     "p": "de"
+    },
+    {
+     "ini": 50.9,
+     "fin": 51.1,
+     "p": "entrada"
+    },
+    {
+     "ini": 51.1,
+     "fin": 51.3,
+     "p": "que"
+    },
+    {
+     "ini": 51.3,
+     "fin": 51.76,
+     "p": "es"
+    },
+    {
+     "ini": 51.76,
+     "fin": 52.0,
+     "p": "tener"
+    },
+    {
+     "ini": 52.0,
+     "fin": 52.16,
+     "p": "un"
+    },
+    {
+     "ini": 52.16,
+     "fin": 52.9,
+     "p": "teléfono"
+    },
+    {
+     "ini": 52.9,
+     "fin": 53.58,
+     "p": "y"
+    }
+   ]
+  }
+ ]
+}

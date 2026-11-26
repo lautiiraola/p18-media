@@ -1,0 +1,26 @@
+CLIP 05 — HACERLO BIEN NO GARANTIZA NADA, PERO HACERLO MAL CASI SIEMPRE FALLA
+
+Inicio:     17:51.7  (1071.72 s)
+Fin:        18:47.9  (1127.91 s)
+Duración:   56.2 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  HACERLO BIEN NO GARANTIZA NADA, PERO HACERLO MAL CASI SIEMPRE FALLA   (en el reel, en lima: HACERLO MAL)
+Departamento:     Deporte y mentalidad
+Área:             Mentalidad aplicada
+Tema:             Aceptar la realidad
+Fuente:           Nude Project - Toni Nadal — "La mente detrás de Rafael Nadal, Toni Nadal"
+                  https://www.youtube.com/watch?v=kXF9-_UTNJM&t=1071s
+
+Por qué lo elegí:
+Contra el 'si querés, podés': hay que aceptar la realidad y decidirse a cambiarla, sabiendo que hacer las cosas bien no garantiza el éxito pero hacerlas mal casi siempre lleva al fracaso.
+
+Gancho (primeros 3 s): La vida, yo tengo que ser lo suficientemente valiente para aceptar la realidad.
+
+Notas para la revisión: Nombra a Nike, Djokovic, Alcaraz y Sinner como ejemplos.
+
+Transcripción del clip:
+la vida yo tengo que ser lo suficientemente valiente para aceptar la realidad y lo suficientemente decidido para intentar modificar esta realidad y sabiendo siempre no es el jazz do it o lo que nos decían los de nike si quieres tú puedes si quieres no necesariamente puedes, si Jokovic o Alcaraz quiere ganar Roland Garros y Siner también, uno de los dos no va a poder, seguro. Entonces si quieres no puedes. Es una frase que yo le repetía a Rafael, hacer las cosas bien no nos va a garantizar el éxito, hacerlas mal, casi siempre te garantiza el fracaso. Puestos a elegir, elige hacerlas bien. Esta es la realidad, ánimo de ver de la vida.
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-13 - Nude Project - Toni Nadal/05 - aceptar la realidad.mp4" "HACERLO BIEN NO GARANTIZA NADA, PERO *HACERLO MAL* CASI SIEMPRE FALLA" --fuente "Nude Project - Toni Nadal"

@@ -1,0 +1,53 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,582,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.36,P18,,0,0,0,,Yo la hablo mucho con gente que
+Dialogue: 0,0:00:01.36,0:00:02.98,P18,,0,0,0,,es, no, pero no me quiero exponer,
+Dialogue: 0,0:00:02.98,0:00:03.68,P18,,0,0,0,,hacer videos.
+Dialogue: 0,0:00:04.00,0:00:05.76,P18,,0,0,0,,Digo, si ese es tu problema,
+Dialogue: 0,0:00:05.76,0:00:06.22,P18,,0,0,0,,agradece.
+Dialogue: 0,0:00:06.22,0:00:07.30,P18,,0,0,0,,Tienes el problema menos honesto
+Dialogue: 0,0:00:07.30,0:00:07.94,P18,,0,0,0,,de la historia.
+Dialogue: 0,0:00:07.94,0:00:08.40,P18,,0,0,0,,Literal.
+Dialogue: 0,0:00:08.40,0:00:09.84,P18,,0,0,0,,No sabes lo que hay gente que hace
+Dialogue: 0,0:00:09.84,0:00:10.74,P18,,0,0,0,,para ganar plata.
+Dialogue: 0,0:00:10.74,0:00:11.94,P18,,0,0,0,,No, y además a la gente le da
+Dialogue: 0,0:00:11.94,0:00:14.70,P18,,0,0,0,,vergüenza que su círculo íntimo de
+Dialogue: 0,0:00:14.70,0:00:15.98,P18,,0,0,0,,amigos y familia y gente con la
+Dialogue: 0,0:00:15.98,0:00:17.26,P18,,0,0,0,,que trabaja lo juzguen.
+Dialogue: 0,0:00:17.26,0:00:18.40,P18,,0,0,0,,Que ese grupo, como mucho,
+Dialogue: 0,0:00:18.40,0:00:19.58,P18,,0,0,0,,son 30 personas.
+Dialogue: 0,0:00:19.58,0:00:20.28,P18,,0,0,0,,Como mucho.
+Dialogue: 0,0:00:20.62,0:00:21.46,P18,,0,0,0,,Digo, vos a tu cumpleaños,
+Dialogue: 0,0:00:21.46,0:00:22.46,P18,,0,0,0,,cuánta gente invitas?
+Dialogue: 0,0:00:22.46,0:00:22.94,P18,,0,0,0,,30.
+Dialogue: 0,0:00:22.94,0:00:23.64,P18,,0,0,0,,Ponele menos.
+Dialogue: 0,0:00:24.44,0:00:25.70,P18,,0,0,0,,Esa es la gente que te importa.
+Dialogue: 0,0:00:26.40,0:00:28.28,P18,,0,0,0,,Versus cientos de miles o incluso
+Dialogue: 0,0:00:28.28,0:00:29.66,P18,,0,0,0,,millones a los cuales podés
+Dialogue: 0,0:00:29.66,0:00:31.24,P18,,0,0,0,,contactar, que te conozcan y que
+Dialogue: 0,0:00:31.24,0:00:32.88,P18,,0,0,0,,eventualmente te compren.
+Dialogue: 0,0:00:32.88,0:00:34.38,P18,,0,0,0,,Entonces uno deja de hacer algo
+Dialogue: 0,0:00:34.38,0:00:36.16,P18,,0,0,0,,sumamente redituable y rentable
+Dialogue: 0,0:00:36.16,0:00:38.14,P18,,0,0,0,,para tu compañía por la opinión de
+Dialogue: 0,0:00:38.14,0:00:38.96,P18,,0,0,0,,20 o 30.
+Dialogue: 0,0:00:38.96,0:00:40.54,P18,,0,0,0,,No tiene sentido si lo pensás de
+Dialogue: 0,0:00:40.54,0:00:41.38,P18,,0,0,0,,forma racional.
+Dialogue: 0,0:00:42.30,0:00:43.52,P18,,0,0,0,,A nivel emocional te puede dar
+Dialogue: 0,0:00:43.52,0:00:44.86,P18,,0,0,0,,vergüenza, pero en términos
+Dialogue: 0,0:00:44.86,0:00:46.66,P18,,0,0,0,,racionales no tiene sentido no
+Dialogue: 0,0:00:46.66,0:00:48.28,P18,,0,0,0,,hacerlo, ya que además hacerlo
+Dialogue: 0,0:00:48.28,0:00:50.34,P18,,0,0,0,,tiene un costo muy bajo.
+Dialogue: 0,0:00:50.34,0:00:51.76,P18,,0,0,0,,Digo, la barrera de entrada que es
+Dialogue: 0,0:00:51.76,0:00:53.58,P18,,0,0,0,,tener un teléfono y

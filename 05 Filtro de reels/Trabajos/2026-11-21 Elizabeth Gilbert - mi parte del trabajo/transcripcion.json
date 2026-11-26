@@ -1,0 +1,1259 @@
+{
+ "idioma": "en",
+ "duracion": 54.49,
+ "modelo": "medium",
+ "segmentos": [
+  {
+   "ini": 0.0,
+   "fin": 4.32,
+   "texto": "writing Eat, Pray, Love, and I fell into one of those sort of pits of despair that we all",
+   "palabras": [
+    {
+     "ini": 0.0,
+     "fin": 0.38,
+     "p": "writing"
+    },
+    {
+     "ini": 0.38,
+     "fin": 0.62,
+     "p": "Eat,"
+    },
+    {
+     "ini": 0.78,
+     "fin": 0.8,
+     "p": "Pray,"
+    },
+    {
+     "ini": 0.8,
+     "fin": 1.04,
+     "p": "Love,"
+    },
+    {
+     "ini": 1.04,
+     "fin": 1.24,
+     "p": "and"
+    },
+    {
+     "ini": 1.24,
+     "fin": 1.56,
+     "p": "I"
+    },
+    {
+     "ini": 1.56,
+     "fin": 1.74,
+     "p": "fell"
+    },
+    {
+     "ini": 1.74,
+     "fin": 1.98,
+     "p": "into"
+    },
+    {
+     "ini": 1.98,
+     "fin": 2.08,
+     "p": "one"
+    },
+    {
+     "ini": 2.08,
+     "fin": 2.14,
+     "p": "of"
+    },
+    {
+     "ini": 2.14,
+     "fin": 2.4,
+     "p": "those"
+    },
+    {
+     "ini": 2.4,
+     "fin": 2.64,
+     "p": "sort"
+    },
+    {
+     "ini": 2.64,
+     "fin": 2.64,
+     "p": "of"
+    },
+    {
+     "ini": 2.64,
+     "fin": 2.8,
+     "p": "pits"
+    },
+    {
+     "ini": 2.8,
+     "fin": 3.04,
+     "p": "of"
+    },
+    {
+     "ini": 3.04,
+     "fin": 3.52,
+     "p": "despair"
+    },
+    {
+     "ini": 3.52,
+     "fin": 3.96,
+     "p": "that"
+    },
+    {
+     "ini": 3.96,
+     "fin": 4.16,
+     "p": "we"
+    },
+    {
+     "ini": 4.16,
+     "fin": 4.32,
+     "p": "all"
+    }
+   ]
+  },
+  {
+   "ini": 4.32,
+   "fin": 7.7,
+   "texto": "fall into when we're working on something and it's not coming and you start to think",
+   "palabras": [
+    {
+     "ini": 4.32,
+     "fin": 4.54,
+     "p": "fall"
+    },
+    {
+     "ini": 4.54,
+     "fin": 4.8,
+     "p": "into"
+    },
+    {
+     "ini": 4.8,
+     "fin": 4.96,
+     "p": "when"
+    },
+    {
+     "ini": 4.96,
+     "fin": 5.12,
+     "p": "we're"
+    },
+    {
+     "ini": 5.12,
+     "fin": 5.3,
+     "p": "working"
+    },
+    {
+     "ini": 5.3,
+     "fin": 5.48,
+     "p": "on"
+    },
+    {
+     "ini": 5.48,
+     "fin": 5.68,
+     "p": "something"
+    },
+    {
+     "ini": 5.68,
+     "fin": 5.8,
+     "p": "and"
+    },
+    {
+     "ini": 5.8,
+     "fin": 6.0,
+     "p": "it's"
+    },
+    {
+     "ini": 6.0,
+     "fin": 6.58,
+     "p": "not"
+    },
+    {
+     "ini": 6.58,
+     "fin": 6.94,
+     "p": "coming"
+    },
+    {
+     "ini": 6.94,
+     "fin": 7.1,
+     "p": "and"
+    },
+    {
+     "ini": 7.1,
+     "fin": 7.3,
+     "p": "you"
+    },
+    {
+     "ini": 7.3,
+     "fin": 7.42,
+     "p": "start"
+    },
+    {
+     "ini": 7.42,
+     "fin": 7.62,
+     "p": "to"
+    },
+    {
+     "ini": 7.62,
+     "fin": 7.7,
+     "p": "think"
+    }
+   ]
+  },
+  {
+   "ini": 7.7,
+   "fin": 10.88,
+   "texto": "this is going to be a disaster, this is going to be the worst book ever written, not",
+   "palabras": [
+    {
+     "ini": 7.7,
+     "fin": 7.86,
+     "p": "this"
+    },
+    {
+     "ini": 7.86,
+     "fin": 8.02,
+     "p": "is"
+    },
+    {
+     "ini": 8.02,
+     "fin": 8.1,
+     "p": "going"
+    },
+    {
+     "ini": 8.1,
+     "fin": 8.18,
+     "p": "to"
+    },
+    {
+     "ini": 8.18,
+     "fin": 8.4,
+     "p": "be"
+    },
+    {
+     "ini": 8.4,
+     "fin": 8.52,
+     "p": "a"
+    },
+    {
+     "ini": 8.52,
+     "fin": 9.06,
+     "p": "disaster,"
+    },
+    {
+     "ini": 9.12,
+     "fin": 9.26,
+     "p": "this"
+    },
+    {
+     "ini": 9.26,
+     "fin": 9.36,
+     "p": "is"
+    },
+    {
+     "ini": 9.36,
+     "fin": 9.38,
+     "p": "going"
+    },
+    {
+     "ini": 9.38,
+     "fin": 9.42,
+     "p": "to"
+    },
+    {
+     "ini": 9.42,
+     "fin": 9.54,
+     "p": "be"
+    },
+    {
+     "ini": 9.54,
+     "fin": 9.66,
+     "p": "the"
+    },
+    {
+     "ini": 9.66,
+     "fin": 9.9,
+     "p": "worst"
+    },
+    {
+     "ini": 9.9,
+     "fin": 10.14,
+     "p": "book"
+    },
+    {
+     "ini": 10.14,
+     "fin": 10.42,
+     "p": "ever"
+    },
+    {
+     "ini": 10.42,
+     "fin": 10.56,
+     "p": "written,"
+    },
+    {
+     "ini": 10.72,
+     "fin": 10.88,
+     "p": "not"
+    }
+   ]
+  },
+  {
+   "ini": 10.88,
+   "fin": 15.86,
+   "texto": "just bad, but the worst book ever written. And I sort of think I should just dump this",
+   "palabras": [
+    {
+     "ini": 10.88,
+     "fin": 11.12,
+     "p": "just"
+    },
+    {
+     "ini": 11.12,
+     "fin": 11.2,
+     "p": "bad,"
+    },
+    {
+     "ini": 11.26,
+     "fin": 11.32,
+     "p": "but"
+    },
+    {
+     "ini": 11.32,
+     "fin": 11.58,
+     "p": "the"
+    },
+    {
+     "ini": 11.58,
+     "fin": 11.88,
+     "p": "worst"
+    },
+    {
+     "ini": 11.88,
+     "fin": 12.16,
+     "p": "book"
+    },
+    {
+     "ini": 12.16,
+     "fin": 12.44,
+     "p": "ever"
+    },
+    {
+     "ini": 12.44,
+     "fin": 12.72,
+     "p": "written."
+    },
+    {
+     "ini": 13.44,
+     "fin": 13.7,
+     "p": "And"
+    },
+    {
+     "ini": 13.7,
+     "fin": 14.1,
+     "p": "I"
+    },
+    {
+     "ini": 14.1,
+     "fin": 14.32,
+     "p": "sort"
+    },
+    {
+     "ini": 14.32,
+     "fin": 14.46,
+     "p": "of"
+    },
+    {
+     "ini": 14.46,
+     "fin": 14.54,
+     "p": "think"
+    },
+    {
+     "ini": 14.54,
+     "fin": 14.7,
+     "p": "I"
+    },
+    {
+     "ini": 14.7,
+     "fin": 14.88,
+     "p": "should"
+    },
+    {
+     "ini": 14.88,
+     "fin": 15.18,
+     "p": "just"
+    },
+    {
+     "ini": 15.18,
+     "fin": 15.38,
+     "p": "dump"
+    },
+    {
+     "ini": 15.38,
+     "fin": 15.86,
+     "p": "this"
+    }
+   ]
+  },
+  {
+   "ini": 15.86,
+   "fin": 21.36,
+   "texto": "project, you know. But then I remembered Tom talking to the open air and I tried",
+   "palabras": [
+    {
+     "ini": 15.86,
+     "fin": 16.42,
+     "p": "project,"
+    },
+    {
+     "ini": 16.44,
+     "fin": 16.6,
+     "p": "you"
+    },
+    {
+     "ini": 16.6,
+     "fin": 16.88,
+     "p": "know."
+    },
+    {
+     "ini": 17.1,
+     "fin": 17.28,
+     "p": "But"
+    },
+    {
+     "ini": 17.28,
+     "fin": 17.44,
+     "p": "then"
+    },
+    {
+     "ini": 17.44,
+     "fin": 17.64,
+     "p": "I"
+    },
+    {
+     "ini": 17.64,
+     "fin": 18.14,
+     "p": "remembered"
+    },
+    {
+     "ini": 18.14,
+     "fin": 18.7,
+     "p": "Tom"
+    },
+    {
+     "ini": 18.7,
+     "fin": 19.04,
+     "p": "talking"
+    },
+    {
+     "ini": 19.04,
+     "fin": 19.24,
+     "p": "to"
+    },
+    {
+     "ini": 19.24,
+     "fin": 19.46,
+     "p": "the"
+    },
+    {
+     "ini": 19.46,
+     "fin": 19.74,
+     "p": "open"
+    },
+    {
+     "ini": 19.74,
+     "fin": 20.04,
+     "p": "air"
+    },
+    {
+     "ini": 20.04,
+     "fin": 20.34,
+     "p": "and"
+    },
+    {
+     "ini": 20.34,
+     "fin": 21.04,
+     "p": "I"
+    },
+    {
+     "ini": 21.04,
+     "fin": 21.36,
+     "p": "tried"
+    }
+   ]
+  },
+  {
+   "ini": 21.36,
+   "fin": 26.26,
+   "texto": "it. So I just lifted my face up from the manuscript and I directed my comments",
+   "palabras": [
+    {
+     "ini": 21.36,
+     "fin": 21.78,
+     "p": "it."
+    },
+    {
+     "ini": 22.1,
+     "fin": 22.32,
+     "p": "So"
+    },
+    {
+     "ini": 22.32,
+     "fin": 22.44,
+     "p": "I"
+    },
+    {
+     "ini": 22.44,
+     "fin": 22.68,
+     "p": "just"
+    },
+    {
+     "ini": 22.68,
+     "fin": 23.26,
+     "p": "lifted"
+    },
+    {
+     "ini": 23.26,
+     "fin": 23.58,
+     "p": "my"
+    },
+    {
+     "ini": 23.58,
+     "fin": 23.76,
+     "p": "face"
+    },
+    {
+     "ini": 23.76,
+     "fin": 24.0,
+     "p": "up"
+    },
+    {
+     "ini": 24.0,
+     "fin": 24.18,
+     "p": "from"
+    },
+    {
+     "ini": 24.18,
+     "fin": 24.34,
+     "p": "the"
+    },
+    {
+     "ini": 24.34,
+     "fin": 24.7,
+     "p": "manuscript"
+    },
+    {
+     "ini": 24.7,
+     "fin": 24.92,
+     "p": "and"
+    },
+    {
+     "ini": 24.92,
+     "fin": 25.14,
+     "p": "I"
+    },
+    {
+     "ini": 25.14,
+     "fin": 25.42,
+     "p": "directed"
+    },
+    {
+     "ini": 25.42,
+     "fin": 25.96,
+     "p": "my"
+    },
+    {
+     "ini": 25.96,
+     "fin": 26.26,
+     "p": "comments"
+    }
+   ]
+  },
+  {
+   "ini": 26.26,
+   "fin": 28.8,
+   "texto": "to an empty corner of the room, and I said aloud,",
+   "palabras": [
+    {
+     "ini": 26.26,
+     "fin": 26.44,
+     "p": "to"
+    },
+    {
+     "ini": 26.44,
+     "fin": 26.6,
+     "p": "an"
+    },
+    {
+     "ini": 26.6,
+     "fin": 26.82,
+     "p": "empty"
+    },
+    {
+     "ini": 26.82,
+     "fin": 27.12,
+     "p": "corner"
+    },
+    {
+     "ini": 27.12,
+     "fin": 27.28,
+     "p": "of"
+    },
+    {
+     "ini": 27.28,
+     "fin": 27.4,
+     "p": "the"
+    },
+    {
+     "ini": 27.4,
+     "fin": 27.62,
+     "p": "room,"
+    },
+    {
+     "ini": 27.68,
+     "fin": 27.94,
+     "p": "and"
+    },
+    {
+     "ini": 27.94,
+     "fin": 28.26,
+     "p": "I"
+    },
+    {
+     "ini": 28.26,
+     "fin": 28.42,
+     "p": "said"
+    },
+    {
+     "ini": 28.42,
+     "fin": 28.8,
+     "p": "aloud,"
+    }
+   ]
+  },
+  {
+   "ini": 29.4,
+   "fin": 33.04,
+   "texto": "listen, you thing, you and I both know",
+   "palabras": [
+    {
+     "ini": 29.4,
+     "fin": 29.8,
+     "p": "listen,"
+    },
+    {
+     "ini": 30.18,
+     "fin": 30.48,
+     "p": "you"
+    },
+    {
+     "ini": 30.48,
+     "fin": 30.84,
+     "p": "thing,"
+    },
+    {
+     "ini": 31.98,
+     "fin": 32.16,
+     "p": "you"
+    },
+    {
+     "ini": 32.16,
+     "fin": 32.32,
+     "p": "and"
+    },
+    {
+     "ini": 32.32,
+     "fin": 32.48,
+     "p": "I"
+    },
+    {
+     "ini": 32.48,
+     "fin": 32.66,
+     "p": "both"
+    },
+    {
+     "ini": 32.66,
+     "fin": 33.04,
+     "p": "know"
+    }
+   ]
+  },
+  {
+   "ini": 33.04,
+   "fin": 34.46,
+   "texto": "that if this book isn't brilliant,",
+   "palabras": [
+    {
+     "ini": 33.04,
+     "fin": 33.28,
+     "p": "that"
+    },
+    {
+     "ini": 33.28,
+     "fin": 33.48,
+     "p": "if"
+    },
+    {
+     "ini": 33.48,
+     "fin": 33.74,
+     "p": "this"
+    },
+    {
+     "ini": 33.74,
+     "fin": 33.88,
+     "p": "book"
+    },
+    {
+     "ini": 33.88,
+     "fin": 34.16,
+     "p": "isn't"
+    },
+    {
+     "ini": 34.16,
+     "fin": 34.46,
+     "p": "brilliant,"
+    }
+   ]
+  },
+  {
+   "ini": 34.52,
+   "fin": 36.16,
+   "texto": "that is not entirely my fault, right?",
+   "palabras": [
+    {
+     "ini": 34.52,
+     "fin": 34.64,
+     "p": "that"
+    },
+    {
+     "ini": 34.64,
+     "fin": 34.84,
+     "p": "is"
+    },
+    {
+     "ini": 34.84,
+     "fin": 35.0,
+     "p": "not"
+    },
+    {
+     "ini": 35.0,
+     "fin": 35.4,
+     "p": "entirely"
+    },
+    {
+     "ini": 35.4,
+     "fin": 35.7,
+     "p": "my"
+    },
+    {
+     "ini": 35.7,
+     "fin": 35.9,
+     "p": "fault,"
+    },
+    {
+     "ini": 36.02,
+     "fin": 36.16,
+     "p": "right?"
+    }
+   ]
+  },
+  {
+   "ini": 36.16,
+   "fin": 38.0,
+   "texto": "Because you can see that I am putting",
+   "palabras": [
+    {
+     "ini": 36.16,
+     "fin": 36.36,
+     "p": "Because"
+    },
+    {
+     "ini": 36.36,
+     "fin": 36.5,
+     "p": "you"
+    },
+    {
+     "ini": 36.5,
+     "fin": 36.74,
+     "p": "can"
+    },
+    {
+     "ini": 36.74,
+     "fin": 37.08,
+     "p": "see"
+    },
+    {
+     "ini": 37.08,
+     "fin": 37.52,
+     "p": "that"
+    },
+    {
+     "ini": 37.52,
+     "fin": 37.68,
+     "p": "I"
+    },
+    {
+     "ini": 37.68,
+     "fin": 37.82,
+     "p": "am"
+    },
+    {
+     "ini": 37.82,
+     "fin": 38.0,
+     "p": "putting"
+    }
+   ]
+  },
+  {
+   "ini": 38.0,
+   "fin": 39.64,
+   "texto": "everything I have into this, you know?",
+   "palabras": [
+    {
+     "ini": 38.0,
+     "fin": 38.42,
+     "p": "everything"
+    },
+    {
+     "ini": 38.42,
+     "fin": 38.68,
+     "p": "I"
+    },
+    {
+     "ini": 38.68,
+     "fin": 38.84,
+     "p": "have"
+    },
+    {
+     "ini": 38.84,
+     "fin": 39.04,
+     "p": "into"
+    },
+    {
+     "ini": 39.04,
+     "fin": 39.36,
+     "p": "this,"
+    },
+    {
+     "ini": 39.44,
+     "fin": 39.64,
+     "p": "you"
+    },
+    {
+     "ini": 39.64,
+     "fin": 39.64,
+     "p": "know?"
+    }
+   ]
+  },
+  {
+   "ini": 39.64,
+   "fin": 40.78,
+   "texto": "I don't have any more than this,",
+   "palabras": [
+    {
+     "ini": 39.64,
+     "fin": 39.72,
+     "p": "I"
+    },
+    {
+     "ini": 39.72,
+     "fin": 39.92,
+     "p": "don't"
+    },
+    {
+     "ini": 39.92,
+     "fin": 40.12,
+     "p": "have"
+    },
+    {
+     "ini": 40.12,
+     "fin": 40.28,
+     "p": "any"
+    },
+    {
+     "ini": 40.28,
+     "fin": 40.4,
+     "p": "more"
+    },
+    {
+     "ini": 40.4,
+     "fin": 40.6,
+     "p": "than"
+    },
+    {
+     "ini": 40.6,
+     "fin": 40.78,
+     "p": "this,"
+    }
+   ]
+  },
+  {
+   "ini": 40.78,
+   "fin": 41.92,
+   "texto": "so if you want it to be better,",
+   "palabras": [
+    {
+     "ini": 40.78,
+     "fin": 40.96,
+     "p": "so"
+    },
+    {
+     "ini": 40.96,
+     "fin": 41.06,
+     "p": "if"
+    },
+    {
+     "ini": 41.06,
+     "fin": 41.22,
+     "p": "you"
+    },
+    {
+     "ini": 41.22,
+     "fin": 41.28,
+     "p": "want"
+    },
+    {
+     "ini": 41.28,
+     "fin": 41.4,
+     "p": "it"
+    },
+    {
+     "ini": 41.4,
+     "fin": 41.44,
+     "p": "to"
+    },
+    {
+     "ini": 41.44,
+     "fin": 41.6,
+     "p": "be"
+    },
+    {
+     "ini": 41.6,
+     "fin": 41.92,
+     "p": "better,"
+    }
+   ]
+  },
+  {
+   "ini": 42.3,
+   "fin": 43.96,
+   "texto": "then you gotta show up and do your part of the deal,",
+   "palabras": [
+    {
+     "ini": 42.3,
+     "fin": 42.38,
+     "p": "then"
+    },
+    {
+     "ini": 42.38,
+     "fin": 42.54,
+     "p": "you"
+    },
+    {
+     "ini": 42.54,
+     "fin": 42.62,
+     "p": "gotta"
+    },
+    {
+     "ini": 42.62,
+     "fin": 42.82,
+     "p": "show"
+    },
+    {
+     "ini": 42.82,
+     "fin": 42.96,
+     "p": "up"
+    },
+    {
+     "ini": 42.96,
+     "fin": 43.06,
+     "p": "and"
+    },
+    {
+     "ini": 43.06,
+     "fin": 43.14,
+     "p": "do"
+    },
+    {
+     "ini": 43.14,
+     "fin": 43.36,
+     "p": "your"
+    },
+    {
+     "ini": 43.36,
+     "fin": 43.48,
+     "p": "part"
+    },
+    {
+     "ini": 43.48,
+     "fin": 43.64,
+     "p": "of"
+    },
+    {
+     "ini": 43.64,
+     "fin": 43.76,
+     "p": "the"
+    },
+    {
+     "ini": 43.76,
+     "fin": 43.96,
+     "p": "deal,"
+    }
+   ]
+  },
+  {
+   "ini": 44.12,
+   "fin": 46.02,
+   "texto": "okay, but if you don't do that,",
+   "palabras": [
+    {
+     "ini": 44.12,
+     "fin": 44.38,
+     "p": "okay,"
+    },
+    {
+     "ini": 44.44,
+     "fin": 44.92,
+     "p": "but"
+    },
+    {
+     "ini": 44.92,
+     "fin": 45.18,
+     "p": "if"
+    },
+    {
+     "ini": 45.18,
+     "fin": 45.34,
+     "p": "you"
+    },
+    {
+     "ini": 45.34,
+     "fin": 45.46,
+     "p": "don't"
+    },
+    {
+     "ini": 45.46,
+     "fin": 45.66,
+     "p": "do"
+    },
+    {
+     "ini": 45.66,
+     "fin": 46.02,
+     "p": "that,"
+    }
+   ]
+  },
+  {
+   "ini": 46.3,
+   "fin": 47.06,
+   "texto": "you know what the hell with it,",
+   "palabras": [
+    {
+     "ini": 46.3,
+     "fin": 46.36,
+     "p": "you"
+    },
+    {
+     "ini": 46.36,
+     "fin": 46.44,
+     "p": "know"
+    },
+    {
+     "ini": 46.44,
+     "fin": 46.58,
+     "p": "what"
+    },
+    {
+     "ini": 46.58,
+     "fin": 46.72,
+     "p": "the"
+    },
+    {
+     "ini": 46.72,
+     "fin": 46.84,
+     "p": "hell"
+    },
+    {
+     "ini": 46.84,
+     "fin": 46.98,
+     "p": "with"
+    },
+    {
+     "ini": 46.98,
+     "fin": 47.06,
+     "p": "it,"
+    }
+   ]
+  },
+  {
+   "ini": 47.06,
+   "fin": 49.72,
+   "texto": "I'm gonna keep writing anyway, because that's my job.",
+   "palabras": [
+    {
+     "ini": 47.06,
+     "fin": 47.22,
+     "p": "I'm"
+    },
+    {
+     "ini": 47.22,
+     "fin": 47.36,
+     "p": "gonna"
+    },
+    {
+     "ini": 47.36,
+     "fin": 47.66,
+     "p": "keep"
+    },
+    {
+     "ini": 47.66,
+     "fin": 47.92,
+     "p": "writing"
+    },
+    {
+     "ini": 47.92,
+     "fin": 48.2,
+     "p": "anyway,"
+    },
+    {
+     "ini": 48.24,
+     "fin": 48.5,
+     "p": "because"
+    },
+    {
+     "ini": 48.5,
+     "fin": 48.98,
+     "p": "that's"
+    },
+    {
+     "ini": 48.98,
+     "fin": 49.26,
+     "p": "my"
+    },
+    {
+     "ini": 49.26,
+     "fin": 49.72,
+     "p": "job."
+    }
+   ]
+  },
+  {
+   "ini": 50.06,
+   "fin": 52.04,
+   "texto": "And I would please like the record to reflect today",
+   "palabras": [
+    {
+     "ini": 50.06,
+     "fin": 50.26,
+     "p": "And"
+    },
+    {
+     "ini": 50.26,
+     "fin": 50.34,
+     "p": "I"
+    },
+    {
+     "ini": 50.34,
+     "fin": 50.54,
+     "p": "would"
+    },
+    {
+     "ini": 50.54,
+     "fin": 50.74,
+     "p": "please"
+    },
+    {
+     "ini": 50.74,
+     "fin": 50.92,
+     "p": "like"
+    },
+    {
+     "ini": 50.92,
+     "fin": 51.16,
+     "p": "the"
+    },
+    {
+     "ini": 51.16,
+     "fin": 51.32,
+     "p": "record"
+    },
+    {
+     "ini": 51.32,
+     "fin": 51.54,
+     "p": "to"
+    },
+    {
+     "ini": 51.54,
+     "fin": 51.8,
+     "p": "reflect"
+    },
+    {
+     "ini": 51.8,
+     "fin": 52.04,
+     "p": "today"
+    }
+   ]
+  },
+  {
+   "ini": 52.04,
+   "fin": 54.14,
+   "texto": "that I showed up for my part of the job.",
+   "palabras": [
+    {
+     "ini": 52.04,
+     "fin": 52.28,
+     "p": "that"
+    },
+    {
+     "ini": 52.28,
+     "fin": 52.58,
+     "p": "I"
+    },
+    {
+     "ini": 52.58,
+     "fin": 52.72,
+     "p": "showed"
+    },
+    {
+     "ini": 52.72,
+     "fin": 52.92,
+     "p": "up"
+    },
+    {
+     "ini": 52.92,
+     "fin": 53.12,
+     "p": "for"
+    },
+    {
+     "ini": 53.12,
+     "fin": 53.38,
+     "p": "my"
+    },
+    {
+     "ini": 53.38,
+     "fin": 53.54,
+     "p": "part"
+    },
+    {
+     "ini": 53.54,
+     "fin": 53.76,
+     "p": "of"
+    },
+    {
+     "ini": 53.76,
+     "fin": 53.92,
+     "p": "the"
+    },
+    {
+     "ini": 53.92,
+     "fin": 54.14,
+     "p": "job."
+    }
+   ]
+  },
+  {
+   "ini": 54.14,
+   "fin": 54.46,
+   "texto": "You",
+   "palabras": [
+    {
+     "ini": 54.14,
+     "fin": 54.46,
+     "p": "You"
+    }
+   ]
+  }
+ ]
+}

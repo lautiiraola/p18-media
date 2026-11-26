@@ -1,0 +1,26 @@
+CLIP 01 — ¿EMPRENDÉS PORQUE QUERÉS O PORQUE TODOS LO HACEN?
+
+Inicio:     03:06.2  (186.16 s)
+Fin:        03:59.5  (239.47 s)
+Duración:   53.3 s
+Corte:      ajustado a las palabras con Whisper; reencodeado una vez en alta calidad (CRF 16)
+
+Título sugerido:  ¿EMPRENDÉS PORQUE QUERÉS O PORQUE TODOS LO HACEN?   (en el reel, en lima: TODOS LO HACEN)
+Departamento:     Crecimiento personal
+Área:             Autoconocimiento
+Tema:             Emprender por pasión, no por moda
+Fuente:           Emprende con Propósito - Paula Pareto — "Entrevista a Paula Pareto | EP 256"
+                  https://www.youtube.com/watch?v=wLjYIBPIjPI&t=186s
+
+Por qué lo elegí:
+Gancho con una pregunta directa; Pareto distingue pasión de moda, dice que sin foco se falla y que existe el plan B. Se entiende sola.
+
+Gancho (primeros 3 s): Creo que hay que ver si realmente emprende porque quiere o porque todo el mundo lo hace
+
+Notas para la revisión: Sin cifras ni promesas.
+
+Transcripción del clip:
+Creo que hay que ver si realmente emprende porque quiere o porque todo el mundo lo hace. Ahí está un poco la, para mí, ¿no? Esto de la pasión. Si lo haces porque te apasiona algo y descubrís que podés emprender con algo que venías pensando o que tenías medio en duda, es una cosa. Ahora sí, emprender porque si todo el mundo emprende, entonces quiero emprender sin un foco o sin un objetivo, es a donde fallan. Me da a mí la sensación. Y muchas veces lo haces y como todo, o sea, das lo mejor de vos, a mí me ha pasado también en un montón de ámbitos, das lo mejor, haces lo mejor y no va, no va, no va. Bueno, no fue, listo, hay que cambiarlo. O sea, son las reglas del juego también. Poniendo el foco y haciendo bien las cosas y el esfuerzo en cada cosa se llega, pero también por eso tenés el plan B y el plan C, ¿no? En la vida, en todo. ¿Qué
+
+Para pasarlo al formato P18 (una vez aprobado):
+p18 "/Users/lautaroiraolagoitia/Documents/06 Proyecto 18/06 Biblioteca/Clips crudos/2026-11-23 - Emprende con Propósito - Paula Pareto/01 - porque todos lo hacen.mp4" "¿EMPRENDÉS PORQUE QUERÉS O PORQUE *TODOS LO HACEN*?" --fuente "Emprende con Propósito - Paula Pareto"

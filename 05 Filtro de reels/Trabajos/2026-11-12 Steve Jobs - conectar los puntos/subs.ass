@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,902,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,505,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.18,P18,,0,0,0,,Obviamente, era imposible
+Dialogue: 0,0:00:02.18,0:00:03.52,P18,,0,0,0,,conectar los puntos mirando para adelante
+Dialogue: 0,0:00:03.52,0:00:04.56,P18,,0,0,0,,cuando estaba en la facultad,
+Dialogue: 0,0:00:05.08,0:00:06.56,P18,,0,0,0,,pero era muy, muy claro
+Dialogue: 0,0:00:06.56,0:00:08.50,P18,,0,0,0,,mirando para atrás, diez años después.
+Dialogue: 0,0:00:09.28,0:00:11.28,P18,,0,0,0,,De nuevo: no podés conectar los puntos
+Dialogue: 0,0:00:11.28,0:00:12.18,P18,,0,0,0,,mirando para adelante.
+Dialogue: 0,0:00:12.18,0:00:13.74,P18,,0,0,0,,Sólo los podés conectar
+Dialogue: 0,0:00:13.74,0:00:14.44,P18,,0,0,0,,mirando para atrás.
+Dialogue: 0,0:00:14.96,0:00:16.54,P18,,0,0,0,,Así que tenés que confiar en que los puntos
+Dialogue: 0,0:00:16.54,0:00:17.92,P18,,0,0,0,,de alguna forma se van a conectar
+Dialogue: 0,0:00:17.92,0:00:18.62,P18,,0,0,0,,en tu futuro.
+Dialogue: 0,0:00:18.78,0:00:20.06,P18,,0,0,0,,Tenés que confiar en algo:
+Dialogue: 0,0:00:20.52,0:00:22.36,P18,,0,0,0,,tu intuición, el destino, la vida,
+Dialogue: 0,0:00:22.36,0:00:23.20,P18,,0,0,0,,el karma, lo que sea.
+Dialogue: 0,0:00:23.82,0:00:25.18,P18,,0,0,0,,Porque creer que los puntos
+Dialogue: 0,0:00:25.18,0:00:27.44,P18,,0,0,0,,se van a conectar más adelante
+Dialogue: 0,0:00:27.44,0:00:29.00,P18,,0,0,0,,te va a dar la confianza para seguir
+Dialogue: 0,0:00:29.00,0:00:31.26,P18,,0,0,0,,a tu corazón, aunque te saque
+Dialogue: 0,0:00:31.26,0:00:33.32,P18,,0,0,0,,del camino más transitado. Y eso
+Dialogue: 0,0:00:33.32,0:00:34.32,P18,,0,0,0,,va a hacer toda la diferencia.

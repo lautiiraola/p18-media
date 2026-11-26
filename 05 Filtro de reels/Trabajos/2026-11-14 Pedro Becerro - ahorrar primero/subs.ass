@@ -1,0 +1,38 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P18,Manrope ExtraBold,46,&H0042F5C2,&H0042F5C2,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,14,0,2,100,100,1043,1
+Style: Cierre,Manrope ExtraBold,34,&H00EBF5F5,&H00EBF5F5,&H10192017,&H10192017,0,0,0,0,100,100,0,0,3,16,0,2,110,110,612,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.10,P18,,0,0,0,,¿Por qué debería haber empezado?
+Dialogue: 0,0:00:02.80,0:00:04.58,P18,,0,0,0,,Porque he hecho algo erróneo,
+Dialogue: 0,0:00:04.58,0:00:06.16,P18,,0,0,0,,entre comillas, que es casi
+Dialogue: 0,0:00:06.16,0:00:06.92,P18,,0,0,0,,dejarlo para el final.
+Dialogue: 0,0:00:07.60,0:00:08.96,P18,,0,0,0,,Y muchas veces es mejor empezar
+Dialogue: 0,0:00:08.96,0:00:11.24,P18,,0,0,0,,por el ahorro para evitarnos
+Dialogue: 0,0:00:11.24,0:00:14.18,P18,,0,0,0,,no hacerlo.
+Dialogue: 0,0:00:14.18,0:00:15.60,P18,,0,0,0,,Porque si tú empiezas a reinar
+Dialogue: 0,0:00:15.60,0:00:17.02,P18,,0,0,0,,sobres, de repente se acaba y ni
+Dialogue: 0,0:00:17.02,0:00:18.84,P18,,0,0,0,,ahorras, ni inviertes,
+Dialogue: 0,0:00:18.84,0:00:19.70,P18,,0,0,0,,ni haces nada.
+Dialogue: 0,0:00:19.70,0:00:21.34,P18,,0,0,0,,Y entonces vas viviendo al día,
+Dialogue: 0,0:00:21.96,0:00:22.96,P18,,0,0,0,,lo cual puede estar bien,
+Dialogue: 0,0:00:22.96,0:00:24.60,P18,,0,0,0,,pero para el futuro no tienes como
+Dialogue: 0,0:00:24.60,0:00:25.30,P18,,0,0,0,,un colchón,
+Dialogue: 0,0:00:25.98,0:00:27.68,P18,,0,0,0,,una protección, digamos.
+Dialogue: 0,0:00:27.68,0:00:29.18,P18,,0,0,0,,Es que cuesta entender que si no
+Dialogue: 0,0:00:29.18,0:00:30.20,P18,,0,0,0,,tengo para alimentarme,
+Dialogue: 0,0:00:30.20,0:00:31.26,P18,,0,0,0,,para pagar la vivienda y para
+Dialogue: 0,0:00:31.26,0:00:32.92,P18,,0,0,0,,pagar la luz, ¿cómo voy a ahorrar?
+Dialogue: 0,0:00:33.52,0:00:34.98,P18,,0,0,0,,Eso es...
+Dialogue: 0,0:00:34.98,0:00:36.14,P18,,0,0,0,,estoy totalmente de acuerdo,
+Dialogue: 0,0:00:37.42,0:00:40.34,P18,,0,0,0,,pero a veces dentro de eso vas
+Dialogue: 0,0:00:40.34,0:00:43.20,P18,,0,0,0,,metiendo gastos que no deberías.

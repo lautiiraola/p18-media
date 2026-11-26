@@ -1,0 +1,39 @@
+GUION ANOTADO — P18-004-milton-hershey — "Lo vendió entero"
+Versión v01 (2026-11-25). Reel 9:16. 101 palabras: unos 41–42 s de voz (Brian, 2,40–2,49 pal/s) + 1 s de cola + 3 s outro3d ≈ 46 s.
+Convenciones: / pausa corta · // pausa larga · _x_ énfasis · [C##] fact-check.
+
+HOOKS CANDIDATOS (skill viral-hooks-formulas; crítica con viral-hooks: tres capas, sin anti-patrones)
+H1 — Cat 02 Contrarian (014) · corta el scroll contra la idea de "no toques lo que funciona"
+   «Tenía un negocio que funcionaba. Y lo vendió entero.»
+H2 — Cat 09 Specificity (083) · cifra concreta, creíble
+   «Un millón de dólares por dejar de hacer lo que le salía bien.»
+H3 — Cat 07 Story (062) · arco completo en una línea, retiene
+   «Primero quebró. Después se hizo rico con caramelos. Y los soltó.»
+ELEGIDO: H1 (pregunta implícita "¿por qué?", 9 palabras, se entiende sin sonido). La cifra de H2 se guarda para el giro
+(US$ 1.000.000 gigante en pantalla) y la quiebra de H3 entra como contexto inmediato.
+Capa visual del hook: foto real de Hershey c1905 + texto en pantalla "LO VENDIÓ ENTERO". Sin nombrar la marca en el segundo 1.
+
+BLOQUE 01 — HOOK                                   ~00:00–00:04
+  Tenía un negocio que _funcionaba_. / Y lo vendió _entero_. //        [C05]
+BLOQUE 02 — CONTEXTO: YA HABÍA PERDIDO             ~00:04–00:11
+  Milton Hershey había _quebrado_ / con su primera dulcería, en Filadelfia. /   [C01]
+  Volvió a Lancaster / y se hizo _rico_ con caramelos. //                         [C02]
+BLOQUE 03 — EL DESCUBRIMIENTO                      ~00:11–00:18
+  Pero en 1893, / en Chicago, / vio máquinas alemanas de hacer _chocolate_. / Y las _compró_. //   [C03]
+BLOQUE 04 — SU LECTURA (cita atribuida)            ~00:18–00:23
+  «Los caramelos son una _moda_», dijo. / «El chocolate es _permanente_.» //       [C04]
+BLOQUE 05 — LA DECISIÓN (corazón)                  ~00:23–00:31
+  En 1900 / vendió la fábrica de caramelos / por un _millón_ de dólares / y se quedó con el _chocolate_. //   [C05 C06 C07]
+BLOQUE 06 — CONSECUENCIAS                          ~00:31–00:38
+  Ese año salió su primera _barra_. /                                              [C08]
+  En 1905 abrió su propia fábrica. / El pueblo que creció alrededor / hoy se llama _Hershey_. //   [C09]
+BLOQUE 07 — REFLEXIÓN ABIERTA                      ~00:38–00:42
+  ¿Cuánto te costaría _soltar_ / lo que ya te sale _bien_?
+CIERRE outro3d: fromNumber 1900, fromLabel "el año que soltó los caramelos".
+
+CHECKLIST DE RETENCIÓN (viral-short-form / viral-instagram-reels)
+- Hook con tensión en < 3 s, sin "¿sabías que…?" ni promesa exagerada. OK
+- Cada bloque abre una pregunta nueva (¿por qué lo vendió? → ¿qué vio? → ¿qué hizo? → ¿qué pasó?). OK
+- Payoff concreto (barra, fábrica, pueblo) antes de la reflexión. OK
+- Sin motivación genérica ni "cualquiera puede". La pregunta final no promete nada. OK
+- Envíos/guardados: la pregunta final es para mandarle a alguien que "no se anima a soltar". OK
