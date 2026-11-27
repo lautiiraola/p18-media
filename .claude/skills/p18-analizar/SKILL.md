@@ -59,9 +59,6 @@ Un `update` por video, con `if_version`:
 
 ## Departamentos y áreas
 
-- **Crecimiento personal**: Autoconocimiento · Hábitos y constancia · Mentalidad y adaptación · Liderazgo
-- **Finanzas y trabajo**: Finanzas personales · Trabajo y oportunidades · Ideas, proyectos y ventas
-- **Crear y comunicar**: Vínculos y comunicación · Redes y contenido · Inteligencia artificial
-- **Creatividad**: Pensamiento creativo · Arte y diseño · Música y audiovisual · Escritura y relatos
-- **Salud**: Salud mental · Vínculos · Salud física · Alimentación · Sueño · Bienestar
-- **Deporte y mentalidad**: Disciplina y proceso · Presión y dificultad · Liderazgo y equipo · Mentalidad aplicada
+- **Crecimiento personal**: Autoestima · Hábitos y disciplina · Perseverancia · Liderazgo · Deporte y salud
+- **Emprendimiento**: Emprender · Cómo vender · Finanzas personales
+- **Creatividad**: Arte y diseño · Marca personal · Vínculos y comunicación · Redes · Inteligencia artificial

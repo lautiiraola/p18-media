@@ -68,7 +68,7 @@ abajo a la izquierda y "Fuente: …" a la derecha · sin "Mirá el clip" · máx
 
 ```bash
 ~/.local/share/p18/venv/bin/python "<esta carpeta>/scripts/carrusel.py" "<clip crudo>.mp4" "No fue *suerte*: fue *esfuerzo*" \
-  --salida "<carpeta del carrusel>/NN - video.mp4" --area "Disciplina y proceso" --fuente "Manu Ginóbili" \
+  --salida "<carpeta del carrusel>/NN - video.mp4" --area "Hábitos y disciplina" --fuente "Manu Ginóbili" \
   --subs "05 Filtro de reels/Trabajos/<fecha> <nombre del reel>/subs.json" [--encuadre izquierda|centro|derecha] [--recorte W:H:X:Y]
 ```
 Malas palabras: `--silenciar 29.8-30.6,31.4-31.8` (segundos del clip, de `transcripcion.json` del reel) silencia el audio en esos tramos; además cambiá el subtítulo por una palabra limpia en una copia del `subs.json` (ej. `subs_limpio.json`).

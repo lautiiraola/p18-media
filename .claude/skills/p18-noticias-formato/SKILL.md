@@ -45,7 +45,7 @@ Caption ≤ 700 caracteres: el hecho → por qué importa → qué hacer → un 
 ## 4. Grilla: un día, sin reemplazar nada
 Elegí el primer día desde **pasado mañana** que no tenga ya una noticia. Agregá al final de `grilla/<fecha>.slots`
 (`ArtifactData` `update` con `if_version`, reemplazando `slots` entero sin tocar los demás):
-`{tipo: "Noticia", dep: "Crear y comunicar", area: "Inteligencia artificial", titulo, noticia_id, pub: {caption,
+`{tipo: "Noticia", dep: "Creatividad", area: "Inteligencia artificial", titulo, noticia_id, pub: {caption,
 hashtags, comentario, alt, carpeta, slides: [{tipo, t, c, kick, imagen: {id, url, archivo}}], creado}}`.
 Subí los PNG a la biblioteca (`Artifact`, `asset: true`). En `noticias/<id>`: `estado: "en_grilla"`, `dia`, `pub.carpeta`.
 

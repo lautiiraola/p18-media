@@ -1,0 +1,866 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Central P18</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;800&display=swap">
+<style>
+/* Layout: tres apartados en pestañas (material → clips crudos → videos listos), cada video es un grupo desplegable como la barra lateral. Paleta del manual P18, look oscuro único y deliberado. */
+:root{
+  --lima:#C2F542;--tinta:#172019;--papel:#F5F5EB;--prof:#14251D;--celeste:#8EC3E6;
+  --warn:#E6B98E;--bad:#F08C7A;--line:rgba(245,245,235,.14);--line2:rgba(245,245,235,.07);--mute:rgba(245,245,235,.66);--hover:rgba(245,245,235,.05);
+  --f:'Manrope',system-ui,-apple-system,sans-serif;
+  color-scheme:dark;
+}
+body{background:var(--prof);color:var(--papel);font-family:var(--f);font-size:15px;line-height:1.5}
+.wrap{max-width:1100px;margin:0 auto;padding-block:24px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.logo{font-weight:800;color:var(--lima);letter-spacing:.02em}
+.chip{border:1px solid var(--lima);color:var(--lima);border-radius:999px;padding:4px 12px;font-size:13px;font-weight:600}
+h1{font-size:clamp(30px,5vw,48px);font-weight:800;line-height:1.05;margin:24px 0 6px;text-wrap:balance}h1 em{font-style:normal;color:var(--lima)}
+.lead{color:var(--mute);max-width:66ch;margin:0 0 20px}
+
+/* secciones principales */
+.main{display:flex;gap:6px;background:var(--tinta);border:1px solid var(--line);border-radius:999px;padding:5px;width:max-content;max-width:100%;margin:0 0 20px}
+.mt{background:transparent;border:0;color:var(--mute);font-size:16px;padding:9px 20px;display:flex;gap:8px;align-items:center}
+.mt[aria-pressed="true"]{background:var(--lima);color:var(--tinta)}
+.mt .n{font-size:12px;border-radius:999px;padding:0 8px;background:var(--line);color:var(--papel)}
+.mt[aria-pressed="true"] .n{background:var(--tinta);color:var(--lima)}
+/* red P18 */
+.cobs{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin-bottom:14px}
+.cob{display:grid;grid-template-columns:auto 1fr auto;gap:2px 8px;align-items:center;text-align:left;background:var(--tinta);color:var(--papel);border:1px solid var(--line);border-radius:12px;padding:10px 12px;font-weight:600}
+.cob i{width:10px;height:10px;border-radius:50%;background:var(--c)}.cob span{font-size:13px}.cob b{font-size:20px;color:var(--c)}.cob small{grid-column:1/-1;font-size:12px;color:var(--mute);font-weight:500}
+.cob.vacio{border-style:dashed}.cob.vacio b{color:var(--mute)}
+.rbar{margin:6px 0 14px}
+.tdep{padding:14px 0 6px;display:grid;gap:8px}.tdep h3{margin:0 18px;font-size:16px;display:flex;gap:8px;align-items:center}.tdep h3 i{width:12px;height:12px;border-radius:50%;background:var(--c)}.tdep>.msg{margin:0 18px 8px}
+.tscroll{overflow-x:auto}
+.rtab{width:100%;border-collapse:collapse;font-size:14px;min-width:880px}
+.rtab th{text-align:left;font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--mute);padding:6px 10px;border-bottom:1px solid var(--line)}
+.rtab td{padding:10px;border-bottom:1px solid var(--line2);vertical-align:top}.rtab tr:last-child td{border-bottom:0}.rtab th:first-child,.rtab td:first-child{padding-left:18px}
+.rtab a{color:var(--papel);text-decoration:none}.rtab a:hover{color:var(--lima)}
+#r-lista{display:grid;gap:22px}
+.rdep{display:grid;gap:12px;border-left:4px solid var(--c);padding-left:14px}
+.rdep h3{margin:0;font-size:20px;display:flex;align-items:baseline;gap:10px}.rdep h3 i{display:none}.rdep h3 span{font-size:13px;color:var(--mute);font-weight:600}
+.rpuesto{display:grid;gap:8px}.rp-t{font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--c);display:flex;gap:8px}.rp-t span{color:var(--mute)}
+.rgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.rcard{all:unset;box-sizing:border-box;cursor:pointer;display:grid;gap:8px;align-content:start;background:var(--tinta);border:1px solid var(--line);border-top:4px solid var(--c);border-radius:14px;padding:14px;min-width:0}
+.rcard:hover{background:#1c2a20;border-color:var(--c)}.rcard:focus-visible{outline:2px solid var(--celeste);outline-offset:2px}
+.rc-top{display:flex;justify-content:space-between;align-items:center}
+.av{width:44px;height:44px;border-radius:50%;background:var(--c);color:var(--tinta);display:grid;place-items:center;font-weight:800;font-size:16px;flex:none}
+.rc-n{font-size:17px;line-height:1.2;overflow-wrap:anywhere}.rc-r{font-size:13px;color:var(--mute);min-height:1.2em}
+.rc-p{display:flex;flex-wrap:wrap;gap:6px;align-items:center}.rc-d{font-size:12px;color:var(--mute);display:flex;gap:5px;align-items:center}.rc-d i{width:8px;height:8px;border-radius:50%;background:var(--c)}
+.rc-a{font-size:12px;color:var(--warn);font-weight:700}.rc-s{font-size:12px;color:var(--mute)}
+.cob.on{border-color:var(--c);background:#1c2a20}
+.rpanel{position:fixed;top:0;right:0;bottom:0;width:min(520px,100%);z-index:40;display:flex;box-shadow:-20px 0 50px rgba(0,0,0,.45)}
+@media (min-width:1100px){body:has(#r-panel:not([hidden])) .wrap{margin-right:540px;margin-left:24px}}
+@media (max-width:700px){.rpanel{width:100%}}
+.rp-in{width:min(520px,100%);height:100%;overflow-y:auto;background:var(--tinta);border-left:4px solid var(--c);padding:18px;display:grid;gap:12px;align-content:start;box-sizing:border-box}
+.rp-h{display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center}
+.rp-name{font-size:22px;font-weight:800;background:transparent;border-color:transparent;padding:4px 6px}.rp-name:hover,.rp-name:focus{border-color:var(--line)}
+.rh{display:grid;gap:4px}.rh textarea{font-size:14px;padding:6px 8px}.rh .ghost{justify-self:start;font-size:12px;padding:3px 10px}
+.rtab input,.rtab select{font-size:13px;padding:6px 8px;width:100%;box-sizing:border-box;background:transparent;border-color:transparent}
+.rtab input:hover,.rtab select:hover,.rtab input:focus,.rtab select:focus{border-color:var(--line);background:var(--prof)}
+.rtab tbody tr{cursor:pointer}.rtab tbody tr:hover{background:var(--hover)}.rtab tbody tr.sel{background:#1c2a20;box-shadow:inset 4px 0 0 var(--c)}
+.rtab tbody tr:focus-visible{outline:2px solid var(--celeste);outline-offset:-2px}
+.rn{display:flex;gap:10px;align-items:center}.rn b{display:block}.rn small{display:block;font-size:12px;color:var(--mute)}
+.av.sm{width:34px;height:34px;font-size:13px}
+.rsort{all:unset;cursor:pointer;font:inherit}.rsort:hover,.rsort.on{color:var(--papel)}.rsort:focus-visible{outline:2px solid var(--celeste)}
+.saved{box-shadow:0 0 0 2px var(--lima)!important;transition:box-shadow .2s}
+/* equipo por áreas */
+.eq-res{display:flex;flex-wrap:wrap;gap:8px 18px;margin:-4px 0 16px;font-size:14px;color:var(--mute)}.eq-res b{color:var(--papel);font-size:18px;margin-right:4px}.eq-res .warn b{color:var(--warn)}
+.ars{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.ar{background:var(--tinta);border:1px solid var(--line);border-top:4px solid var(--c);border-radius:14px;padding:12px;display:grid;gap:10px;align-content:start}
+.ar header{display:grid;grid-template-columns:auto 1fr;gap:4px 10px;align-items:start}.ar header .pill{grid-column:1/-1;justify-self:start}
+.ar-n{font-weight:800;color:var(--c);font-size:13px;padding-top:6px;font-variant-numeric:tabular-nums}
+.ar-t,.ar-d{display:block;width:100%;box-sizing:border-box;background:transparent;border-color:transparent;padding:2px 6px}
+.ar-t{font-size:17px;font-weight:800}.ar-d{font-size:13px;color:var(--mute)}.ar-t:hover,.ar-d:hover,.ar-t:focus,.ar-d:focus{border-color:var(--line);background:var(--prof)}
+.ar-m{display:grid;gap:6px}
+.mb{all:unset;box-sizing:border-box;cursor:pointer;display:grid;grid-template-columns:24px minmax(0,1fr) auto;gap:8px;align-items:center;padding:8px 10px;border-radius:10px;background:var(--prof);border:1px solid var(--line2)}
+.mb:hover{border-color:var(--c)}.mb.sel{border-color:var(--c);box-shadow:inset 3px 0 0 var(--c)}.mb:focus-visible{outline:2px solid var(--celeste)}
+.mb-i{font-size:15px;text-align:center;color:var(--c)}.mb-t{min-width:0}.mb-t b{display:block;font-size:14px;overflow-wrap:anywhere}.mb-t small{display:block;font-size:12px;color:var(--mute);line-height:1.3}
+.mb-s{display:flex;gap:5px;align-items:center;font-size:11px;color:var(--mute);white-space:nowrap}.mb .dot{width:9px;height:9px;border-radius:50%;background:var(--e)}
+.mb.nuevo{background:transparent;border-style:dashed}.mb.nuevo .dot{border:1px dashed var(--mute)}
+.mb.hum{background:transparent}
+.ar-add .ghost{font-size:12px;padding:4px 10px}
+.ar-nueva{all:unset;box-sizing:border-box;cursor:pointer;border:1px dashed var(--line);border-radius:14px;display:grid;place-items:center;min-height:120px;color:var(--mute);font-weight:700}.ar-nueva:hover{color:var(--lima);border-color:var(--lima)}
+/* equipo */
+.eq{display:grid;grid-template-columns:minmax(0,2.2fr) minmax(260px,1fr);gap:16px;align-items:start}
+@media (max-width:980px){.eq{grid-template-columns:1fr}}
+.campo{position:relative;aspect-ratio:68/90;max-height:78vh;margin:0 auto;border-radius:16px;background:repeating-linear-gradient(0deg,#1d3a27 0 10%,#21422c 10% 20%);border:2px solid rgba(245,245,235,.35);overflow:hidden}
+.campo .l-medio{position:absolute;left:0;right:0;top:50%;border-top:2px solid rgba(245,245,235,.3)}
+.campo .c-medio{position:absolute;left:50%;top:50%;width:22%;aspect-ratio:1;border:2px solid rgba(245,245,235,.3);border-radius:50%;transform:translate(-50%,-50%)}
+.campo .area{position:absolute;left:25%;width:50%;height:13%;border:2px solid rgba(245,245,235,.3)}.a-arr{top:-2px}.a-ab{bottom:-2px}
+.jug{all:unset;position:absolute;transform:translate(-50%,-50%);display:grid;justify-items:center;gap:2px;cursor:pointer;width:96px;text-align:center}
+.jug .cam{position:relative;width:44px;height:44px;border-radius:50%;background:var(--papel);color:var(--tinta);display:grid;place-items:center;font-weight:800;box-shadow:0 0 0 4px var(--e),0 4px 10px rgba(0,0,0,.4)}
+.jug .cam i{position:absolute;top:-6px;right:-8px;background:var(--warn);color:var(--tinta);font-style:normal;font-size:11px;border-radius:999px;padding:0 6px}
+.jug b{font-size:13px;color:var(--papel);text-shadow:0 1px 3px #000;line-height:1.1}.jug small{font-size:10.5px;color:rgba(245,245,235,.8);line-height:1.15;text-shadow:0 1px 3px #000}
+.jug .cap{background:var(--lima);color:var(--tinta);border-radius:4px;padding:0 3px;font-size:10px}
+.jug.nuevo .cam{background:transparent;color:var(--papel);border:2px dashed var(--papel);box-shadow:none}
+.jug.sel .cam{outline:3px solid var(--celeste);outline-offset:4px}.jug:focus-visible .cam{outline:3px solid var(--celeste);outline-offset:4px}
+@media (max-width:520px){.jug{width:70px}.jug .cam{width:34px;height:34px;font-size:13px}.jug small{display:none}}
+.eq-feed{display:grid;gap:8px;max-height:78vh;overflow-y:auto}
+.fe{font-size:14px;border-left:3px solid var(--line);padding:4px 0 4px 10px}.fe-n{border-left-color:var(--warn);display:grid;gap:6px;background:var(--prof);border-radius:0 10px 10px 0;padding:8px 10px}
+.otab{min-width:900px}.o-res{max-width:340px;font-size:13px}.o-l{white-space:nowrap}.olink{display:inline-block;margin-right:8px;font-size:13px;font-weight:700}
+.seg .n{font-size:12px;border-radius:999px;padding:0 7px;background:var(--line);color:var(--papel);margin-left:4px}.seg [aria-pressed="true"] .n{background:var(--tinta);color:var(--lima)}
+/* pestañas */
+.tabs{display:flex;gap:6px;flex-wrap:wrap;border-bottom:1px solid var(--line);margin-bottom:20px}
+.tab{appearance:none;background:none;border:0;border-bottom:3px solid transparent;color:var(--mute);font:inherit;font-weight:800;font-size:15px;padding:10px 12px 9px;cursor:pointer;display:flex;gap:8px;align-items:center}
+.tab:hover{color:var(--papel)}
+.tab[aria-selected="true"]{color:var(--papel);border-bottom-color:var(--lima)}
+.tab .n{font-size:12px;font-weight:800;border-radius:999px;padding:0 8px;background:var(--line);color:var(--papel);font-variant-numeric:tabular-nums}
+.tab[aria-selected="true"] .n{background:var(--lima);color:var(--tinta)}
+.tab:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible{outline:2px solid var(--celeste);outline-offset:2px}
+.hint{color:var(--mute);font-size:14px;margin:-8px 0 16px;max-width:70ch}
+
+.card{background:var(--tinta);border:1px solid var(--line);border-radius:14px;padding:18px}
+.form{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;align-items:end;margin-bottom:24px}
+label{display:grid;gap:4px;font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--lima)}
+input,select,textarea{font:inherit;font-size:15px;background:var(--prof);color:var(--papel);border:1px solid var(--line);border-radius:10px;padding:9px 10px;min-width:0;text-transform:none;letter-spacing:0;font-weight:400}
+.full{grid-column:1/-1}
+button{font:inherit;font-weight:800;border-radius:999px;padding:9px 16px;cursor:pointer;border:1px solid var(--lima);background:var(--lima);color:var(--tinta)}
+button.ghost{background:transparent;color:var(--papel);border-color:var(--line);font-weight:600;font-size:13px;padding:6px 12px}
+button.ghost:hover{background:var(--hover)}
+button.ok{background:var(--lima);color:var(--tinta);font-size:13px;padding:6px 14px}
+button.bad{background:transparent;color:var(--bad);border-color:var(--bad);font-size:13px;padding:6px 14px;font-weight:700}
+button:disabled{opacity:.5;cursor:default}
+.msg{font-size:13px;color:var(--mute);min-height:1.2em}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.list{display:grid;gap:12px}
+.item{display:grid;gap:8px}
+.item h3{margin:0;font-size:17px;min-width:0;overflow-wrap:anywhere}
+a{color:var(--celeste)}
+.pill{border-radius:999px;padding:2px 10px;font-size:12px;font-weight:800;color:var(--tinta);background:var(--papel);white-space:nowrap}
+.p-ok{background:var(--lima)}.p-warn{background:var(--warn)}.p-bad{background:var(--bad)}.p-off{background:transparent;color:var(--mute);border:1px solid var(--line)}
+.p-dep{background:transparent;color:var(--lima);border:1px solid var(--lima)}.p-run{background:var(--celeste)}
+.check{font-size:14px;color:var(--mute);border-left:3px solid var(--line);padding-left:10px}
+.check b{color:var(--papel)}
+.empty{color:var(--mute);text-align:center;padding:32px}
+.opc>summary{cursor:pointer;color:var(--mute);font-size:13px;font-weight:600;text-transform:none;letter-spacing:0}
+.opc>summary:hover{color:var(--papel)}
+.path{color:var(--mute);font-size:12px;overflow-wrap:anywhere}
+
+/* grupos desplegables (como la barra lateral) */
+.group{background:var(--tinta);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.group>summary{list-style:none;cursor:pointer;display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;padding:14px 18px}
+.group>summary::-webkit-details-marker{display:none}
+.group>summary:hover{background:var(--hover)}
+.chev{width:10px;height:10px;border-right:2px solid var(--lima);border-bottom:2px solid var(--lima);transform:rotate(-45deg);transition:transform .15s}
+.group[open] .chev{transform:rotate(45deg)}
+.g-t{min-width:0;display:grid;gap:4px}.g-t b{display:block;font-size:16px;overflow-wrap:anywhere}.g-t>span{font-size:13px;color:var(--mute)}
+.g-deps{display:flex;flex-wrap:wrap;gap:6px}
+.g-n{display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end}
+.g-body{border-top:1px solid var(--line);display:grid}
+.clip{display:grid;grid-template-columns:minmax(0,320px) minmax(0,1fr);gap:16px;padding:16px 18px;border-top:1px solid var(--line2)}
+.clip:first-child{border-top:0}
+.clip.descartado{opacity:.55}
+.clip video{width:100%;aspect-ratio:16/9;background:#000;border-radius:10px;display:block;max-width:100%}
+.clip .novid{aspect-ratio:16/9;border-radius:10px;border:1px dashed var(--line);display:grid;place-items:center;color:var(--mute);font-size:13px;text-align:center;padding:12px}
+.c-info{display:grid;gap:6px;align-content:start;min-width:0}
+.c-info h4{margin:0;font-size:16px;line-height:1.25;text-wrap:balance}
+.c-meta{font-size:13px;color:var(--mute);font-variant-numeric:tabular-nums}
+.c-why{font-size:14px;max-width:70ch}
+.c-note{font-size:13px;color:var(--warn)}
+.num{font-weight:800;color:var(--lima);font-variant-numeric:tabular-nums}
+
+/* videos listos: reels verticales */
+.reels{display:grid}
+.reel{display:grid;grid-template-columns:minmax(0,200px) minmax(0,1fr);gap:16px;padding:16px 18px;border-top:1px solid var(--line2)}
+.reel:first-child{border-top:0}
+.reel video,.reel .novid{width:100%;aspect-ratio:9/16;background:#000;border-radius:12px;display:block;max-width:100%}
+.reel .novid{background:transparent;border:1px dashed var(--line);display:grid;place-items:center;color:var(--mute);font-size:13px;text-align:center;padding:12px}
+.reel h4{margin:0;font-size:16px;line-height:1.25;text-wrap:balance}
+
+/* grilla: tira de 7 días → semanas → filas de días → publicaciones (se abren para ver caption e historias) */
+:root{--c-cp:#C2F542;--c-fyt:#8EC3E6;--c-cyc:#C9A7F5;--c-sal:#F08C7A;--c-dep:#E6B98E;--c-cre:#F5D0E8}
+.g-res{margin:-6px 0 12px;font-size:14px;color:var(--mute);font-variant-numeric:tabular-nums}.g-res b{color:var(--lima)}
+.tira{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:6px}
+.t-dia{border-radius:10px;padding:8px 4px;text-align:center;background:var(--tinta);border:1px solid var(--line);display:grid;gap:4px;justify-items:center}
+.t-dia b{font-size:18px;line-height:1;font-variant-numeric:tabular-nums}.t-dia span{font-size:11px;color:var(--mute);text-transform:uppercase;letter-spacing:.06em}
+.t-dots{display:flex;gap:4px;min-height:10px}
+.t-dot{width:10px;height:10px;border-radius:50%;border:2px solid var(--mute)}
+.t-dot.lleno{border:0}
+.t-dia.hoy{border-color:var(--lima)}
+.leyenda{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;color:var(--mute);margin:10px 0 2px}
+.leyenda i{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:0}
+.semana{display:grid;gap:8px}.semana h3{margin:14px 0 0;font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--mute)}
+.dia{display:grid;grid-template-columns:64px minmax(0,1fr);gap:14px;padding:12px 14px;align-items:start}
+.dia.hoy{border-color:var(--lima)}.dia.pasado{opacity:.55}
+.d-fecha{text-align:center}.d-fecha b{display:block;font-size:26px;line-height:1;font-variant-numeric:tabular-nums}.d-fecha span{font-size:11px;color:var(--mute);text-transform:uppercase;letter-spacing:.06em}
+.d-fecha .hoy-tag{display:block;color:var(--lima);font-weight:800}
+.slots{display:grid;gap:4px;min-width:0}
+.slot{border-radius:10px}
+.slot>summary{list-style:none;cursor:pointer;display:grid;grid-template-columns:12px minmax(0,1fr) auto;gap:10px;align-items:center;padding:6px 8px;border-radius:10px}
+.slot>summary::-webkit-details-marker{display:none}
+.slot>summary:hover{background:var(--hover)}
+.s-dot{width:12px;height:12px;border-radius:50%}
+.s-t{min-width:0}.s-t b{display:block;font-size:15px;line-height:1.25;overflow-wrap:anywhere}.s-t span{font-size:12px;color:var(--mute)}
+.s-t .falta{color:var(--mute);font-weight:600}
+.st{font-size:12px;font-weight:800;border-radius:999px;padding:2px 9px;white-space:nowrap}
+.e-area{background:var(--lima);color:var(--tinta)}.e-dep{background:var(--warn);color:var(--tinta)}.e-fijo{background:var(--celeste);color:var(--tinta)}.e-falta{border:1px solid var(--line);color:var(--mute)}
+.e-pub{background:var(--papel);color:var(--tinta)}
+.s-body{display:grid;gap:10px;padding:6px 8px 12px 30px}
+.s-acc{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.s-acc select{font-size:13px;padding:5px 8px;max-width:100%}
+.pub{display:grid;gap:8px}
+.pub-h{font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--lima);display:flex;justify-content:space-between;align-items:center;gap:8px}
+.pub pre{margin:0;white-space:pre-wrap;font:inherit;font-size:14px;background:var(--prof);border:1px solid var(--line);border-radius:10px;padding:10px 12px;max-height:260px;overflow:auto}
+.hist{display:grid;gap:6px}.hist div{font-size:14px;background:var(--prof);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
+.hist b{color:var(--lima);font-size:12px;text-transform:uppercase;letter-spacing:.06em;display:block}
+.h-item{display:grid;grid-template-columns:auto minmax(0,1fr);gap:12px;align-items:start}
+.h-item img{width:90px;aspect-ratio:9/16;object-fit:cover;border-radius:8px;border:1px solid var(--line);max-width:100%}
+.sl-vid{width:90px;aspect-ratio:4/5;object-fit:cover;border-radius:8px;border:1px solid var(--line);background:#000}
+.slides{display:flex;gap:6px;flex-wrap:wrap}.slides img,.sl-v{width:90px;aspect-ratio:4/5;object-fit:cover;border-radius:8px;border:1px solid var(--line);max-width:100%}.sl-v{display:grid;place-items:center;font-size:11px;color:var(--mute);text-align:center;padding:4px}
+.hdia{grid-column:1/-1;display:grid;gap:8px;margin-top:6px;border-top:1px solid var(--line);padding-top:10px}.hrow{display:flex;gap:10px;overflow-x:auto}.hrow figure{margin:0;width:110px;flex:none;display:grid;gap:4px}.hrow img{width:110px;aspect-ratio:9/16;object-fit:cover;border-radius:8px;border:1px solid var(--line)}.hrow figcaption{font-size:11px;color:var(--mute);line-height:1.3}.hrow figcaption b{display:block;color:var(--lima);font-size:11px}
+.hrow img,.slides img,.h-item img{cursor:zoom-in}
+.lb{position:fixed;inset:0;z-index:50;background:rgba(10,18,14,.88);display:grid;place-items:center;padding:24px;cursor:zoom-out}
+.lb[hidden]{display:none!important}
+.lb img{max-width:min(92vw,560px);max-height:88vh;width:auto;height:auto;border-radius:12px;box-shadow:0 20px 60px rgba(0,0,0,.5)}
+.lb .lbx{position:absolute;top:14px;right:14px;background:var(--lima);color:var(--tinta);border:0}
+.lb .lbn{position:absolute;top:50%;transform:translateY(-50%);background:rgba(245,245,235,.15);color:var(--papel);border:0;font-size:22px;padding:10px 16px}
+.lb .lbp{left:12px}.lb .lbs{right:12px}
+.seg{display:inline-flex;gap:4px;background:var(--tinta);border:1px solid var(--line);border-radius:999px;padding:4px;margin-bottom:16px}
+.seg button{background:transparent;border:0;color:var(--mute);font-size:14px;padding:7px 14px}
+.seg button[aria-pressed="true"]{background:var(--lima);color:var(--tinta)}
+.partes{display:grid;gap:8px;margin-top:4px}
+.parte{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:10px;align-items:center;font-size:14px;background:var(--prof);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
+.ent-vid video,.ent-vid .novid{width:100%;max-width:280px;aspect-ratio:9/16;background:#000;border-radius:12px;display:block}
+.ent-vid .novid{background:transparent;border:1px dashed var(--line);display:grid;place-items:center;color:var(--mute);font-size:13px;text-align:center;padding:12px}
+button.copy{font-size:12px;padding:3px 10px;background:transparent;color:var(--lima);border-color:var(--lima)}
+@media (max-width:640px){.dia{grid-template-columns:48px minmax(0,1fr);gap:8px}.s-body{padding-left:8px}.t-dia b{font-size:15px}}
+@media (max-width:640px){.clip{grid-template-columns:1fr}.reel{grid-template-columns:minmax(0,150px) minmax(0,1fr);gap:12px}.group>summary{grid-template-columns:auto 1fr}.g-n{grid-column:2;justify-content:flex-start}}
+@media (prefers-reduced-motion:reduce){.chev{transition:none}}
+</style>
+
+<div class="wrap">
+  <div class="top"><span class="logo">P18 · PROYECTO 18</span><span class="chip">proyecto18.com</span></div>
+  <h1>Central <em>P18</em></h1>
+  <p class="lead" id="bib-lead">Pegás un link y la skill 0 lo analiza con los parámetros P18; la skill 1 saca los clips crudos. Vos aprobás los clips y la skill 2 les pone el formato P18. Nada se publica sin tu OK.</p>
+
+  <nav class="main" aria-label="Secciones"><button type="button" class="mt" id="m-bib" data-v="material">Biblioteca</button><button type="button" class="mt" id="m-red" data-v="red">Red P18 <span class="n" id="n-red">0</span></button><button type="button" class="mt" id="m-equipo" data-v="equipo">Equipo <span class="n" id="n-equipo">0</span></button></nav>
+  <div class="tabs" id="bib-tabs" role="tablist" aria-label="Apartados">
+    <button class="tab" role="tab" id="t-material" data-v="material" aria-selected="true">Material cargado <span class="n" id="n-material">0</span></button>
+    <button class="tab" role="tab" id="t-clips" data-v="clips" aria-selected="false">Clips crudos <span class="n" id="n-clips">0</span></button>
+    <button class="tab" role="tab" id="t-listos" data-v="listos" aria-selected="false">Videos listos <span class="n" id="n-listos">0</span></button>
+    <button class="tab" role="tab" id="t-grilla" data-v="grilla" aria-selected="false">Grilla <span class="n" id="n-grilla">0</span></button>
+    <button class="tab" role="tab" id="t-noticias" data-v="noticias" aria-selected="false">Noticias <span class="n" id="n-noticias">0</span></button>
+    <button class="tab" role="tab" id="t-entrevistas" data-v="entrevistas" aria-selected="false">Entrevistas <span class="n" id="n-entrevistas">0</span></button>
+    <button class="tab" role="tab" id="t-historias" data-v="historias" aria-selected="false">Historias de vida <span class="n" id="n-historias">0</span></button>
+  </div>
+
+  <section id="v-material" role="tabpanel" aria-labelledby="t-material">
+    <form class="card form" id="f">
+      <label class="full">Link del video o podcast<input id="url" type="url" required placeholder="https://youtu.be/..."></label>
+      <details class="full opc"><summary>Agregar detalles (opcional: si no, los completa la skill 0)</summary>
+        <div class="form" style="margin-top:12px">
+          <label>Título o persona<input id="tit" placeholder="Ej. Paula Pareto – TEDx"></label>
+          <label>Departamento<select id="dep"></select></label>
+          <label>Área<select id="area"></select></label>
+          <label>Idioma<select id="lang"><option value="">Automático</option><option>Español</option><option>Inglés (traducir)</option><option>Otro</option></select></label>
+          <label class="full">De qué trata / qué sacar<textarea id="nota" rows="2" placeholder="Si querés, contá qué momentos te gustaron"></textarea></label>
+        </div></details>
+      <div class="full row"><button id="add" type="submit">Cargar</button><span class="msg" id="msg"></span></div>
+    </form>
+    <p class="hint">Pegá sólo el link. La skill 0 averigua de qué trata, lo pasa por los parámetros P18 y lo aprueba o no. Todo corre una vez por día, a las 23 h: en la misma corrida el preparador analiza los links nuevos y saca los clips de los aprobados (hasta 4 horas de material por vez).</p>
+    <div class="list" id="material"><div class="empty card">Cargando la biblioteca…</div></div>
+  </section>
+
+  <section id="v-clips" role="tabpanel" aria-labelledby="t-clips" hidden>
+    <p class="hint">Cada video es un grupo: abrilo, mirá los clips y aprobá o descartá. Los aprobados pasan a la skill 2 (formato P18) y aparecen en Videos listos.</p>
+    <div class="list" id="clips"></div>
+  </section>
+
+  <section id="v-listos" role="tabpanel" aria-labelledby="t-listos" hidden>
+    <p class="hint">Reels con el formato P18, listos para revisar y subir. El archivo final está en "04 Instagram/Reels listos para subir".</p>
+    <div class="list" id="listos"></div>
+  </section>
+
+  <section id="v-noticias" role="tabpanel" aria-labelledby="t-noticias" hidden>
+    <p class="hint">Una vez por semana el agente de noticias junta lo más importante de IA y lo redacta. Aprobá las que quieras publicar: el preparador les arma el carrusel y les asigna un día en la grilla (como publicación extra, sin reemplazar nada).</p>
+    <div class="list" id="n-lista"></div>
+  </section>
+
+  <section id="v-entrevistas" role="tabpanel" aria-labelledby="t-entrevistas" hidden>
+    <div class="seg" role="group" aria-label="Entrevistas"><button type="button" id="e-b-crudo" aria-pressed="true">Material crudo</button><button type="button" id="e-b-edit" aria-pressed="false">Editadas</button></div>
+    <div id="e-crudo">
+      <form class="card form" id="fe">
+        <label>Entrevistado<input id="e-nombre" required placeholder="Ej. Sofía Gómez"></label>
+        <label>Emprendimiento<input id="e-emp" placeholder="Ej. Café Raíz"></label>
+        <label>Grabada el<input id="e-fecha" type="date"></label>
+        <label class="full">Archivo o link del video crudo<input id="e-arch" required placeholder="Nombre del archivo en 06 Biblioteca/Entrevistas/Crudos, o un link de Drive"></label>
+        <label class="full">Notas para la edición (opcional)<textarea id="e-nota" rows="2" placeholder="Momentos buenos, qué evitar, contexto"></textarea></label>
+        <div class="full row"><button type="submit" id="e-add">Cargar entrevista</button><span class="msg" id="e-msg"></span></div>
+      </form>
+      <p class="hint">Dejá el archivo en <b>06 Biblioteca/Entrevistas/Crudos</b> (en la compu) y cargalo acá. La skill de entrevistas lo edita con el formato P18 y aparece en Editadas.</p>
+      <div class="list" id="e-lista-crudo"></div>
+    </div>
+    <div id="e-edit" hidden>
+      <p class="hint">Entrevistas ya editadas con el formato P18. Cada una se divide en partes; cada parte va como reel extra a un día de la grilla, sin reemplazar lo que ya hay.</p>
+      <div class="list" id="e-lista-edit"></div>
+    </div>
+  </section>
+
+  <section id="v-historias" role="tabpanel" aria-labelledby="t-historias" hidden>
+    <form class="card form" id="fh">
+      <label>Persona<input id="h-persona" required placeholder="Ej. Elon Musk"></label>
+      <label class="full">Qué querés contar<textarea id="h-desc" rows="3" required placeholder="Ej. Lo rechazaron, le explotó el cohete 3 veces y siguió. Mostrar por qué persistió."></textarea></label>
+      <div class="full row"><button type="submit" id="h-add">Cargar historia</button><span class="msg" id="h-msg"></span></div>
+    </form>
+    <p class="hint">Videos documentales de 30 a 50 s sobre un momento de la vida de un emprendedor. Una vez por día el agente de historias toma lo que cargues acá (primero lo más viejo); si no hay nada, busca una historia por su cuenta. Investiga y chequea los datos, escribe el guion, genera la voz, arma el video, le pone caption y lo asigna a la grilla como publicación extra.</p>
+    <div class="list" id="h-lista"></div>
+  </section>
+
+  <section id="v-red" role="tabpanel" aria-labelledby="t-red" hidden>
+    <div class="seg" role="group" aria-label="Red P18"><button type="button" id="rs-n" aria-pressed="true">Nuestra red</button><button type="button" id="rs-o" aria-pressed="false">Oportunidades <span class="n" id="rs-on">0</span></button></div>
+    <div id="red-op" hidden>
+      <p class="hint">Gente y organizaciones sugeridas para sumar a P18. Arriba están las de prioridad alta y fáciles de contactar. Tocá una fila para ver todo; con "Sumar a la red" pasa a Nuestra red como Idea y sale de esta lista.</p>
+      <div class="row rbar"><select id="o-clase" aria-label="Tipo"><option value="">Speakers y colaboradores</option><option value="speaker">Solo speakers</option><option value="colaborador">Solo colaboradores</option></select><select id="o-fdep" aria-label="Departamento"></select><select id="o-pri" aria-label="Prioridad"><option value="">Toda prioridad</option><option>Alta</option><option>Media</option></select><select id="o-ver" aria-label="Mostrar"><option value="nueva">Sin revisar</option><option value="en_red">Ya en la red</option><option value="descartada">Descartadas</option><option value="todas">Todas</option></select><input id="o-buscar" placeholder="Buscar…" aria-label="Buscar oportunidades"><span class="msg" id="o-cuenta"></span></div>
+      <div id="o-lista"></div>
+      <div class="rpanel" id="o-panel" hidden></div>
+    </div>
+    <div id="red-nuestra">
+    <details class="card opc" id="r-alta" style="margin-bottom:16px"><summary style="font-size:15px;color:var(--lima);font-weight:800">+ Sumar a alguien a la red</summary>
+    <form class="form" id="fr" style="margin:14px 0 0">
+      <label>Nombre<input id="r-nombre" required placeholder="Persona, marca o institución"></label>
+      <label>Puesto<select id="r-tipo"></select></label>
+      <label>A qué se dedica<input id="r-prof" placeholder="Ej. marketing, finanzas"></label>
+      <label>Departamento P18<select id="r-dep"></select></label>
+      <label>Qué aporta / rubro<input id="r-rubro" placeholder="Ej. diseñadora, colegio, podcast, sponsor"></label>
+      <label>Contacto<input id="r-contacto" placeholder="@usuario, mail o teléfono"></label>
+      <label>Estado<select id="r-estado"></select></label>
+      <label>Lo trae<input id="r-trae" placeholder="Ej. Mati"></label>
+      <label class="full">Próximo paso<input id="r-paso" placeholder="Ej. mandarle DM con la propuesta de embajador"></label>
+      <label class="full">Notas (opcional)<textarea id="r-nota" rows="2"></textarea></label>
+      <div class="full row"><button type="submit" id="r-add">Sumar a la red</button><span class="msg" id="r-msg"></span></div>
+    </form></details>
+    <p class="hint">Los adultos que suman a P18: mentores, speakers, embajadores, colaboradores, aliados y medios, cada uno con su departamento. Cargá a cualquiera que pueda sumar, aunque sea una idea, y movelo de estado a medida que avanza la charla.</p>
+    <div class="cobs" id="r-cob" aria-label="Gente por departamento"></div>
+    <div id="r-avisos"></div>
+    <div class="row rbar"><div class="seg" role="group" aria-label="Vista" style="margin:0"><button type="button" id="r-m-tar" aria-pressed="true">Por departamento</button><button type="button" id="r-m-tab" aria-pressed="false">Todos (A-Z)</button></div>
+      <input id="r-buscar" placeholder="Buscar…" aria-label="Buscar en la red"><select id="r-ftipo" aria-label="Filtrar por puesto"></select><select id="r-fdep" aria-label="Filtrar por departamento"></select><select id="r-festado" aria-label="Filtrar por estado"></select>
+      <label style="display:flex;gap:6px;align-items:center">Ordenar<select id="r-orden"><option value="nombre">Nombre (A-Z)</option><option value="puesto">Puesto</option><option value="estado">Estado (activos primero)</option><option value="seguimiento">Próximo seguimiento</option><option value="ultimo">Hace más que no hablamos</option><option value="reciente">Últimos cargados</option><option value="dep">Departamento P18</option><option value="profesion">A qué se dedica</option><option value="contacto">Con contacto primero</option></select></label></div>
+    <div id="r-lista"></div>
+    <div class="rpanel" id="r-panel" hidden></div>
+    </div>
+  </section>
+
+  <section id="v-equipo" role="tabpanel" hidden>
+    <p class="hint">Cómo se arma P18: cada área con sus agentes (⚙) y sus personas (👤). Tocá a cualquiera para ver qué hace y editarlo; los nombres de las áreas también se editan tocándolos. Cuando un agente necesita una decisión tuya, aparece a la derecha en "Te esperan".</p>
+    <div class="eq-res" id="eq-res"></div>
+    <div class="eq">
+      <div><div class="ars" id="eq-areas"></div><div class="leyenda" id="eq-leyenda"></div></div>
+      <div class="card eq-feed" id="eq-feed"></div>
+    </div>
+    <div class="rpanel" id="eq-panel" hidden></div>
+  </section>
+
+  <section id="v-grilla" role="tabpanel" aria-labelledby="t-grilla" hidden>
+    <p class="g-res" id="g-resumen"></p>
+    <div id="g-tira"></div>
+    <div class="leyenda" id="g-leyenda"></div>
+    <div class="row" style="margin:6px 0 4px"><label class="chk"><input type="checkbox" id="g-pasados"> Ver días pasados</label></div>
+    <div class="list" id="grilla"></div>
+  </section>
+</div>
+
+<script>
+const DEP={"Crecimiento personal":["Autoestima","Hábitos y disciplina","Perseverancia","Liderazgo","Deporte y salud"],"Emprendimiento":["Emprender","Cómo vender","Finanzas personales"],"Creatividad":["Arte y diseño","Marca personal","Vínculos y comunicación","Redes","Inteligencia artificial"]};
+const EST=["Pendiente","Aprobado","Clipeado","Publicado","Descartado"];
+const PASO={en_cola:["En cola","p-off"],descargando:["Leyendo / transcribiendo","p-run"],eligiendo:["Eligiendo clips","p-run"],listo:["Clips listos","p-ok"],error:["Error","p-bad"]};
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+$("dep").add(new Option("Automático",""));Object.keys(DEP).forEach(d=>{$("dep").add(new Option(d))});
+const fillArea=()=>{$("area").innerHTML="";$("area").add(new Option("Automático",""));(DEP[$("dep").value]||[]).forEach(a=>$("area").add(new Option(a)))};
+$("dep").onchange=fillArea;fillArea();
+const PARAMS=`Parámetros P18 (Manual Operativo): público jóvenes de 17-19 años principiantes. Claro, cercano y sin jerga. Sin promesas de dinero o éxito; no vende fórmulas de éxito ni resultados rápidos; no pone el dinero en el centro (hablar de dinero, inversiones o cifras está permitido; solo no puede ser el foco ni el mensaje principal); no reemplaza especialistas. Aplicable y con fuentes. Cuidado en salud (sin diagnósticos), finanzas y menores. Sin daño ni desinformación. Salud: nada de números de peso, calorías ni cuerpos ideales; ningún clip dice qué tomar ni qué tiene alguien; salud mental termina invitando a hablarlo con alguien de confianza o un profesional. Sin posicionamiento político: no se suben clips donde la persona opine de política o partidos. Fuente con origen y crédito. Objetivo: enseñar, preguntar, conectar o invitar. Deporte: conceptos para la vida, no enseñar a entrenar.`;
+let db=null,sample=null,videos=[],clips=[],busy=false;
+
+/* pestañas con #hash */
+const VIEWS=["material","clips","listos","grilla","noticias","entrevistas","historias","red","equipo"];
+function show(v){if(!VIEWS.includes(v))v="material";const fuera=v==="red"||v==="equipo";VIEWS.forEach(x=>{$("v-"+x).hidden=x!==v;if(x!=="red"&&x!=="equipo")$("t-"+x).setAttribute("aria-selected",x===v)});
+  $("bib-tabs").hidden=fuera;$("bib-lead").hidden=fuera;$("m-red").setAttribute("aria-pressed",v==="red");$("m-equipo").setAttribute("aria-pressed",v==="equipo");$("m-bib").setAttribute("aria-pressed",!fuera)}
+document.querySelectorAll(".mt").forEach(b=>b.onclick=()=>{location.hash=b.dataset.v;show(b.dataset.v)});
+document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{location.hash=b.dataset.v;show(b.dataset.v)});
+addEventListener("hashchange",()=>show(location.hash.slice(1)));show(location.hash.slice(1));
+
+/* grupos abiertos: comodidad de cada persona */
+const abiertos=(()=>{try{return new Set(JSON.parse(localStorage.getItem("p18-abiertos")||"[]"))}catch(e){return new Set()}})();
+function guardarAbiertos(){try{localStorage.setItem("p18-abiertos",JSON.stringify([...abiertos]))}catch(e){}}
+document.addEventListener("toggle",e=>{const g=e.target;if(!g.classList||!g.classList.contains("group"))return;g.open?abiertos.add(g.dataset.key):abiertos.delete(g.dataset.key);guardarAbiertos()},true);
+
+const veredicto=c=>c&&c.veredicto?({ok:["P18: pasa","p-ok"],dudoso:["P18: con cuidado","p-warn"],no:["P18: no pasa","p-bad"]}[c.veredicto]):["P18: sin revisar","p-off"];
+const tituloVideo=id=>{const v=videos.find(x=>x.id===id);return v?v.titulo:id};
+
+function renderMaterial(){
+  const v=videos.filter(r=>!["Clipeado","Publicado"].includes(r.estado)&&!(r.clipear&&r.clipear.paso==="listo"));
+  $("n-material").textContent=v.filter(r=>r.estado!=="Descartado").length;
+  if(!v.length){$("material").innerHTML='<div class="empty card">No hay material esperando. Pegá un link arriba para cargar el próximo video.</div>';return}
+  $("material").innerHTML=v.map(r=>{const c=r.check||{};const [vt,vc]=veredicto(c);const k=r.clipear||{};const an=r.analisis||{};
+    const analizando=an.paso==="en_cola"||(!r.check&&an.paso!=="error");
+    const turno=r.estado==="Descartado"?["Descartado","p-off"]:k.paso?PASO[k.paso]||[k.paso,"p-off"]:(c.veredicto==="ok"||r.estado==="Aprobado")?["Esperando turno","p-off"]:c.veredicto==="dudoso"?["Necesita tu aprobación","p-warn"]:["No entra a la skill 1","p-off"];
+    const pills=analizando?`<span class="pill p-run">Skill 0: se analiza a las 23 h</span>`:an.paso==="error"?`<span class="pill p-bad">No se pudo analizar</span>`:
+      `${r.dep?`<span class="pill p-dep">${esc(r.dep)}</span>`:""}${r.area?`<span class="pill p-off">${esc(r.area)}</span>`:""}<span class="pill ${vc}">${vt}</span><span class="pill ${turno[1]}">${esc(turno[0])}</span>`;
+    return `<div class="card item"><div class="row">${pills}</div>
+    <h3>${esc(r.titulo||"Video sin analizar todavía")}</h3><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.url)}</a>
+    ${r.nota?`<div class="msg">${esc(r.nota)}${r.idioma?" · "+esc(r.idioma):""}${an.duracion_min?" · "+esc(an.duracion_min)+" min":""}</div>`:""}
+    ${an.paso==="error"&&an.detalle?`<div class="check"><b>Skill 0:</b> ${esc(an.detalle)}</div>`:""}
+    ${c.motivo?`<div class="check"><b>Revisión:</b> ${esc(c.motivo)}${c.evitar?`<br><b>Ojo con:</b> ${esc(c.evitar)}`:""}</div>`:""}
+    ${k.detalle?`<div class="check"><b>Skill 1:</b> ${esc(k.detalle)}</div>`:""}
+    <div class="row"><label style="display:flex;gap:6px;align-items:center">Estado<select id="est-${esc(r.id)}" data-id="${esc(r.id)}" class="est">${EST.map(e=>`<option${e===r.estado?" selected":""}>${e}</option>`).join("")}</select></label>
+    ${analizando?"":`<button class="ghost reanal" data-id="${esc(r.id)}">Analizar de nuevo</button>`}<button class="ghost del" data-id="${esc(r.id)}">Borrar</button></div></div>`}).join("")}
+
+// departamentos del grupo: "Crecimiento personal ×2 · Emprendimiento ×1" (para cruzar con la grilla)
+function deps(cs){const n={};cs.forEach(c=>{n[c.dep]=(n[c.dep]||0)+1});return Object.entries(n).map(([d,k])=>`<span class="pill p-dep">${esc(d)} ×${k}</span>`).join("")}
+function grupo(key,vid,inner,pills,sub,cs){
+  return `<details class="group" data-key="${esc(key)}"${abiertos.has(key)?" open":""}><summary><span class="chev" aria-hidden="true"></span><span class="g-t"><b>${esc(tituloVideo(vid))}</b><span>${esc(sub)}</span><span class="g-deps">${deps(cs)}</span></span><span class="g-n">${pills}</span></summary><div class="g-body">${inner}</div></details>`}
+
+function renderClips(){
+  const porVideo={};clips.forEach(c=>(porVideo[c.video_id]=porVideo[c.video_id]||[]).push(c));
+  const ids=Object.keys(porVideo);
+  $("n-clips").textContent=clips.length;
+  if(!ids.length){$("clips").innerHTML='<div class="empty card">Todavía no hay clips. Cuando la skill 1 termine un video, sus clips aparecen acá agrupados.</div>';return}
+  $("clips").innerHTML=ids.map(id=>{const cs=porVideo[id].sort((a,b)=>a.n-b.n);
+    const pend=cs.filter(c=>c.estado==="para_revisar").length,apr=cs.filter(c=>c.estado==="aprobado").length,des=cs.filter(c=>c.estado==="descartado").length;
+    const pills=(pend?`<span class="pill p-warn">${pend} para revisar</span>`:"")+(apr?`<span class="pill p-ok">${apr} aprobados</span>`:"")+(des?`<span class="pill p-off">${des} descartados</span>`:"");
+    const v=videos.find(x=>x.id===id);const sub=`${cs.length} clips${v&&v.clipear&&v.clipear.carpeta?" · "+v.clipear.carpeta:""}`;
+    const inner=cs.map(c=>{
+      const est=c.estado==="aprobado"?(c.reel&&c.reel.url?["Aprobado · ya en Videos listos","p-ok"]:c.reel_estado==="error"?["Aprobado · error en la skill 2","p-bad"]:["Aprobado · esperando la skill 2","p-ok"]):c.estado==="descartado"?["Descartado","p-off"]:["Para revisar","p-warn"];
+      return `<div class="clip ${c.estado==="descartado"?"descartado":""}">
+      ${c.crudo&&c.crudo.url?vid(c.crudo.url):`<div class="novid">El clip crudo está en la carpeta del video</div>`}
+      <div class="c-info"><div class="row"><span class="num">${String(c.n).padStart(2,"0")}</span><span class="pill p-dep">${esc(c.dep)}</span><span class="pill p-off">${esc(c.area)}</span><span class="pill ${est[1]}">${esc(est[0])}</span></div>
+      <h4>${esc(c.titulo)}</h4>
+      <div class="c-meta">Minuto ${esc(c.min)} del original · ${esc(c.dur)} · ${esc(c.tema||"")}</div>
+      ${c.porque?`<div class="c-why">${esc(c.porque)}</div>`:""}
+      ${c.notas?`<div class="c-note">Ojo: ${esc(c.notas)}</div>`:""}
+      ${c.archivo?`<div class="path">${esc(c.archivo)}</div>`:""}
+      <div class="row">${c.estado!=="aprobado"?`<button class="ok cset" data-id="${esc(c.id)}" data-e="aprobado">Aprobar</button>`:""}${c.estado!=="descartado"&&!(c.reel&&c.reel.url)?`<button class="bad cset" data-id="${esc(c.id)}" data-e="descartado">Descartar</button>`:""}${c.estado!=="para_revisar"&&!(c.reel&&c.reel.url)?`<button class="ghost cset" data-id="${esc(c.id)}" data-e="para_revisar">Volver a revisar</button>`:""}</div></div></div>`}).join("");
+    return grupo("c-"+id,id,inner,pills,sub,cs)}).join("")}
+
+function renderListos(){
+  const listos=clips.filter(c=>c.reel&&c.reel.url);const porVideo={};listos.forEach(c=>(porVideo[c.video_id]=porVideo[c.video_id]||[]).push(c));
+  const ids=Object.keys(porVideo);
+  $("n-listos").textContent=listos.length;
+  if(!ids.length){$("listos").innerHTML='<div class="empty card">Todavía no hay reels terminados. Aprobá clips en Clips crudos y la skill 2 los deja acá con el formato P18.</div>';return}
+  $("listos").innerHTML=ids.map(id=>{const cs=porVideo[id].sort((a,b)=>a.n-b.n);const pub=cs.filter(c=>c.publicado).length;
+    const pills=`<span class="pill p-ok">${cs.length-pub} para subir</span>`+(pub?`<span class="pill p-off">${pub} publicados</span>`:"");
+    const inner=`<div class="reels">${cs.map(c=>`<div class="reel">${vid(c.reel.url)}
+      <div class="c-info"><div class="row"><span class="num">${String(c.n).padStart(2,"0")}</span><span class="pill p-dep">${esc(c.dep)}</span><span class="pill p-off">${esc(c.area)}</span>${c.publicado?'<span class="pill p-off">Publicado</span>':'<span class="pill p-ok">Para subir</span>'}</div>
+      <h4>${esc(c.titulo)}</h4>
+      <div class="c-meta">${esc(c.dur)} · minuto ${esc(c.min)} del original · ${esc(c.tema||"")}</div>
+      ${c.reel.archivo?`<div class="path">${esc(c.reel.archivo)}</div>`:""}
+      <div class="row"><button class="ghost pub" data-id="${esc(c.id)}" data-p="${c.publicado?"":"1"}">${c.publicado?"Desmarcar publicado":"Marcar publicado"}</button></div></div></div>`).join("")}</div>`;
+    return grupo("l-"+id,id,inner,pills,`${cs.length} reels con formato P18`,cs)}).join("")}
+
+/* Videos: se descargan enteros (1-1,5 MB) y se reproducen desde el navegador. Safari/iPhone piden el video
+   "por partes" y el servidor de archivos no siempre lo permite; así anda en cualquier navegador.
+   Sólo se cargan los de los grupos abiertos, y quedan en memoria para no bajarlos de nuevo. */
+const blobs=new Map();
+const vid=u=>`<video controls preload="metadata" playsinline data-src="${esc(u)}"></video>`;
+async function cargarVideo(v){const u=v.dataset.src;if(!u||v.dataset.ok)return;v.dataset.ok="1";
+  try{let o=blobs.get(u);if(!o){o=fetch(u,{credentials:"include"}).then(r=>{if(!r.ok)throw new Error("HTTP "+r.status);return r.blob()}).then(b=>URL.createObjectURL(b.type?b:new Blob([b],{type:"video/mp4"})));blobs.set(u,o);o.catch(()=>blobs.delete(u))}
+    v.src=await o}catch(err){v.dataset.ok="";const d=document.createElement("div");d.className="novid";d.textContent="No se pudo cargar el video ("+(err.message||"error")+"). Recargá la página; si sigue, mandá una captura.";v.replaceWith(d)}}
+function hidratar(){document.querySelectorAll("details.group[open] video[data-src]").forEach(cargarVideo)}
+document.addEventListener("toggle",e=>{if(e.target.classList&&e.target.classList.contains("group")&&e.target.open)e.target.querySelectorAll("video[data-src]").forEach(cargarVideo)},true);
+/* ---------- grilla ---------- */
+let grilla=[];
+const hoyISO=(()=>{const d=new Date();return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`})();
+const COLOR={"Crecimiento personal":"var(--c-cp)","Emprendimiento":"var(--c-fyt)","Creatividad":"var(--c-cyc)"};
+const reelsListos=()=>clips.filter(c=>c.reel&&c.reel.url);
+// Reel para cada publicación: 1) misma área, 2) mismo departamento. Cada reel una vez, del día más cercano al más lejano.
+// Separación: los reels que salen de un mismo video se reparten en lo que queda del período, con una distancia
+// mínima entre ellos = días que quedan / reels de ese video (entre 3 y 12 días). Cuenta lo fijado y lo sugerido.
+// Si un reel no entra en ningún día así, se prueba con la mitad de esa separación (mínimo 3 días).
+const diaN=f=>Math.round(Date.UTC(+f.slice(0,4),+f.slice(5,7)-1,+f.slice(8,10))/864e5);
+function sugerencias(){
+  const porId=Object.fromEntries(clips.map(c=>[c.id,c]));
+  const fijados=new Set(),ocupa={};
+  grilla.forEach(d=>(d.slots||[]).forEach(s=>{if(!s.clip_id)return;fijados.add(s.clip_id);const c=porId[s.clip_id];if(c)(ocupa[c.video_id]=ocupa[c.video_id]||[]).push(diaN(d.fecha))}));
+  const pend=reelsListos().filter(c=>!c.publicado);
+  const libres=pend.filter(c=>!fijados.has(c.id)).sort((a,b)=>(a.creado||0)-(b.creado||0));
+  const futuros=grilla.filter(d=>d.fecha>=hoyISO).sort((a,b)=>a.fecha<b.fecha?-1:1);
+  const quedan=Math.max(1,futuros.length),cuantos={};pend.forEach(c=>{cuantos[c.video_id]=(cuantos[c.video_id]||0)+1});
+  const sep=v=>Math.max(3,Math.min(12,Math.floor(quedan/(cuantos[v]||1))));
+  const separado=(c,f,flex)=>(ocupa[c.video_id]||[]).every(x=>Math.abs(x-diaN(f))>=(flex?Math.max(3,Math.floor(sep(c.video_id)/2)):sep(c.video_id)));
+  const usados=new Set(),out={};
+  // pasadas: separación ideal (área, después departamento); si un reel no entra, separación a la mitad (mín. 3 días)
+  for(const [nivel,flex] of [["area",0],["dep",0],["area",1],["dep",1]])for(const d of futuros)(d.slots||[]).forEach((s,i)=>{const k=d.id+"#"+i;if(s.clip_id||out[k]||!/^reel/i.test(s.tipo||"Reel"))return;  // los carruseles no llevan reel
+    const c=libres.find(c=>!usados.has(c.id)&&c.dep===s.dep&&(nivel==="dep"||c.area===s.area)&&separado(c,d.fecha,flex));
+    if(c){usados.add(c.id);(ocupa[c.video_id]=ocupa[c.video_id]||[]).push(diaN(d.fecha));out[k]={clip:c,por:nivel}}});
+  return out}
+// Estado de una publicación: qué reel va y cómo se eligió.
+function estadoSlot(d,s,i,sug,porId){
+  if(/^noticia/i.test(s.tipo||"")){const pb=s.pub||{};return{clip:{id:pb.clip_id||"not",titulo:s.titulo||"Noticia",area:s.area||"",dep:s.dep||""},e:pb.publicado?"pub":"not"}}
+  if(/^historia de vida/i.test(s.tipo||"")){const pb=s.pub||{};return{clip:{id:"hv",titulo:s.titulo||"Historia de vida",area:s.area||"",dep:s.dep||""},e:pb.publicado?"pub":"hv"}}
+  if(/^entrevista/i.test(s.tipo||"")){const pb=s.pub||{};return{clip:{id:pb.clip_id||"ent",titulo:s.titulo||pb.titulo||"Entrevista",area:s.area||"",dep:s.dep||""},e:pb.publicado?"pub":"ent"}}
+  if(/^post/i.test(s.tipo||"")&&s.de_reel!=null){const r=(d.slots||[])[s.de_reel];if(r&&r!==s){const st=estadoSlot(d,r,s.de_reel,sug,porId);return st.clip?{clip:st.clip,e:st.e==="pub"?"pub":"post"}:{clip:null,e:"falta"}}}
+  const f=s.clip_id&&porId[s.clip_id];
+  if(f)return{clip:f,e:f.publicado?"pub":"fijo"};const g=sug[d.id+"#"+i];return g?{clip:g.clip,e:g.por}:{clip:null,e:"falta"}}
+const ETQ={hv:["Historia de vida","e-fijo"],not:["Noticia","e-fijo"],ent:["Entrevista","e-fijo"],post:["Del reel","e-area"],area:["Listo","e-area"],dep:["Otra área","e-dep"],fijo:["Fijado","e-fijo"],pub:["Publicado","e-pub"],falta:["Falta clip","e-falta"]};
+function renderGrilla(){
+  if(!grilla.length){$("grilla").innerHTML='<div class="empty card">Cargando la grilla…</div>';return}
+  const sug=sugerencias(),porId=Object.fromEntries(clips.map(c=>[c.id,c]));
+  const orden=grilla.slice().sort((a,b)=>a.fecha<b.fecha?-1:1);
+  // tira: próximos 7 días, un punto por publicación (lleno = tiene reel)
+  const prox=orden.filter(d=>d.fecha>=hoyISO).slice(0,7);
+  $("g-tira").innerHTML=`<div class="tira">${prox.map(d=>{const [dn,df]=String(d.dia).split(" ");
+    return `<div class="t-dia${d.fecha===hoyISO?" hoy":""}"><span>${esc(dn)}</span><b>${esc((df||"").split("/")[0])}</b><div class="t-dots">${(d.slots||[]).map((s,i)=>{if(/^post/i.test(s.tipo||""))return"";const st=estadoSlot(d,s,i,sug,porId);
+      return `<i class="t-dot${st.clip?" lleno":""}" style="${st.clip?"background:"+COLOR[s.dep]:"border-color:"+COLOR[s.dep]}" title="${esc(s.dep+" › "+s.area)}"></i>`}).join("")}</div></div>`}).join("")}</div>`;
+  $("g-leyenda").innerHTML=Object.entries(COLOR).map(([d,c])=>`<span><i style="background:${c}"></i>${esc(d)}</span>`).join("")+`<span>○ falta clip · ● hay reel</span>`;
+  // contador de la pestaña = publicaciones de acá al final de la grilla que ya tienen reel (fijado o sugerido)
+  const futurosG=orden.filter(d=>d.fecha>=hoyISO),cuenta=ds=>{let t=0,c=0;ds.forEach(d=>(d.slots||[]).forEach((s,i)=>{if(!/^reel/i.test(s.tipo||"Reel"))return;t++;if(estadoSlot(d,s,i,sug,porId).clip)c++}));return[c,t]};
+  const [cT,tT]=cuenta(futurosG),[cS,tS]=cuenta(prox),ult=futurosG.length?String(futurosG[futurosG.length-1].dia).split(" ")[1]:"";
+  $("n-grilla").textContent=cT;
+  $("g-resumen").innerHTML=`<b>${cT}</b> de ${tT} reels de acá al ${esc(ult)} ya tienen video asignado · próximos 7 días: <b>${cS}</b> de ${tS}`;
+  const dias=orden.filter(d=>$("g-pasados").checked||d.fecha>=hoyISO);
+  const semanas=[];dias.forEach(d=>{const w=semanas.find(x=>x.k===d.semana);w?w.d.push(d):semanas.push({k:d.semana,d:[d]})});
+  const opciones=s=>`<option value="">Cambiar reel…</option>`+reelsListos().filter(c=>!c.publicado).sort((a,b)=>(b.dep===s.dep)-(a.dep===s.dep)||(b.area===s.area)-(a.area===s.area)).map(c=>`<option value="${esc(c.id)}">${esc(c.titulo)}</option>`).join("");
+  $("grilla").innerHTML=semanas.map(w=>`<div class="semana"><h3>${esc(w.k)}</h3>${w.d.map(d=>{
+    const [dn,df]=String(d.dia).split(" ");const esHoy=d.fecha===hoyISO;
+    const slots=(d.slots||[]).map((s,i)=>{const st=estadoSlot(d,s,i,sug,porId),c=st.clip,[et,ec]=ETQ[st.e],key="s-"+d.id+"-"+i,pb=s.pub&&(/^(noticia|entrevista|historia de vida)/i.test(s.tipo||"")||(c&&s.pub.clip_id===c.id))?s.pub:null;
+      const titulo=c?`<b>${esc(c.titulo)}</b><span>${esc(s.tipo||"Reel")} · ${esc(s.area)}${st.e==="dep"?" · el reel es de "+esc(c.area):""}</span>`:`<b class="falta">${esc(s.area)}</b><span>${esc(s.tipo||"Reel")} · ${esc(s.dep)} · tema: ${esc(s.tema)}</span>`;
+      const pub=pb?`<div class="pub"><div class="pub-h">Caption Instagram <button class="copy" data-copy="${esc(pb.caption+(pb.hashtags?"\n\n"+pb.hashtags:""))}">Copiar</button></div><pre>${esc(pb.caption)}${pb.hashtags?"\n\n"+esc(pb.hashtags):""}</pre>
+        ${(pb.slides||[]).some(x=>(x.imagen&&x.imagen.url)||x.url)?`<div class="pub-h">Imágenes (${pb.slides.length})</div><div class="slides">${pb.slides.map((x,j)=>x.imagen&&x.imagen.url?`<img src="${esc(x.imagen.url)}" alt="Imagen ${j+1}: ${esc(x.tipo||"")}" loading="lazy">`:x.url?`<video class="sl-vid" src="${esc(x.url)}" controls playsinline preload="metadata" aria-label="Slide ${j+1}: video"></video>`:`<span class="sl-v">${j+1} · ${esc(x.tipo||"")}</span>`).join("")}</div>${pb.carpeta?`<div class="path">${esc(pb.carpeta)}</div>`:""}`:""}
+        ${pb.comentario?`<div class="pub-h">Comentario fijado <button class="copy" data-copy="${esc(pb.comentario)}">Copiar</button></div><pre>${esc(pb.comentario)}</pre>`:""}
+        ${pb.tiktok?`<div class="pub-h">TikTok <button class="copy" data-copy="${esc(pb.tiktok)}">Copiar</button></div><pre>${esc(pb.tiktok)}</pre>`:""}
+        ${(pb.historias||[]).length?`<div class="pub-h">Historias de hoy</div><div class="hist">${pb.historias.map((h,j)=>`<div class="h-item">${h.imagen&&h.imagen.url?`<img src="${esc(h.imagen.url)}" alt="Historia ${j+1}: ${esc(h.tipo)}" loading="lazy">`:""}<div><b>${j+1} · ${esc(h.tipo)}</b>${esc(h.texto)}${h.opciones?` <span class="msg">(${esc(h.opciones.join(" / "))})</span>`:""}${h.imagen&&h.imagen.archivo?`<div class="path">${esc(h.imagen.archivo)}</div>`:h.tipo&&h.tipo.toLowerCase().startsWith("repost")?`<div class="path">Se comparte el reel desde la app y se le pone este texto.</div>`:""}</div></div>`).join("")}</div>`:""}</div>`
+        :c?`<div class="msg">La caption se arma sola en la próxima corrida (23 h), o pedila en el chat: "armá la publicación del ${esc(d.dia)}".</div>`:`<div class="msg">Falta un clip de ${esc(s.dep)} › ${esc(s.area)} (tema: ${esc(s.tema)}). Cargá un video de esa área en Material cargado.</div>`;
+      const acc=`<div class="s-acc">${c&&st.e!=="fijo"&&st.e!=="pub"&&st.e!=="ent"&&st.e!=="not"&&st.e!=="hv"?`<button class="ok gfix" data-d="${esc(d.id)}" data-i="${i}" data-c="${esc(c.id)}">Fijar</button>`:""}${st.e==="fijo"?`<button class="ghost gquit" data-d="${esc(d.id)}" data-i="${i}">Quitar</button>`:""}${reelsListos().some(x=>!x.publicado)&&st.e!=="pub"&&st.e!=="ent"&&st.e!=="not"&&st.e!=="hv"?`<select class="gsel" id="gs-${esc(d.id)}-${i}" data-d="${esc(d.id)}" data-i="${i}" aria-label="Cambiar reel">${opciones(s)}</select>`:""}<span class="msg">${esc(s.tipo)}${d.historias?" · historias: "+esc(d.historias):""}</span></div>`;
+      return `<details class="slot" data-key="${esc(key)}"${abiertos.has(key)?" open":""}><summary><span class="s-dot" style="background:${COLOR[s.dep]||"var(--mute)"}"></span><span class="s-t">${titulo}</span><span class="st ${ec}">${et}</span></summary><div class="s-body">${pub}${acc}</div></details>`}).join("");
+    return `<div class="card dia${esHoy?" hoy":""}${d.fecha<hoyISO?" pasado":""}"><div class="d-fecha"><span>${esc(dn)}</span><b>${esc((df||"").split("/")[0])}</b><span>${esc(d.mes||"").slice(0,3)}</span>${esHoy?'<span class="hoy-tag">hoy</span>':""}</div><div class="slots">${slots}</div>${(()=>{const hs=(d.slots||[]).flatMap(s=>(s.pub&&s.pub.historias)||[]).sort((a,b)=>(a.tipo==="Frase")-(b.tipo==="Frase"));return hs.length?`<div class="hdia"><div class="pub-h">Historias del día (${hs.length})</div><div class="hrow">${hs.map((x,j)=>`<figure>${x.imagen&&x.imagen.url?`<img src="${esc(x.imagen.url)}" alt="Historia ${j+1}" loading="lazy">`:""}<figcaption><b>${j+1} · ${esc(x.tipo)}</b>${esc(String(x.texto||"").replace(/\*/g,""))}</figcaption></figure>`).join("")}</div></div>`:""})()}</div>`}).join("")}</div>`).join("")||'<div class="empty card">No quedan días en la grilla. Mostrá los días pasados o sumá días nuevos.</div>'}
+async function fijar(dia,i,clipId){const d=grilla.find(x=>x.id===dia);if(!d||!db)return;
+  const slots=(d.slots||[]).map((s,j)=>j===+i?{...s,clip_id:clipId||null}:s);
+  await db.doc("grilla/"+dia).update({slots}).catch(()=>{$("msg").textContent="No se pudo guardar la grilla."})}
+$("g-pasados").onchange=renderGrilla;
+document.addEventListener("toggle",e=>{const g=e.target;if(!g.classList||!g.classList.contains("slot"))return;g.open?abiertos.add(g.dataset.key):abiertos.delete(g.dataset.key);guardarAbiertos()},true);
+document.addEventListener("click",async e=>{const b=e.target.closest("button");if(!b)return;
+  if(b.classList.contains("gfix")){b.disabled=true;fijar(b.dataset.d,b.dataset.i,b.dataset.c)}
+  if(b.classList.contains("gquit")){b.disabled=true;fijar(b.dataset.d,b.dataset.i,null)}
+  if(b.classList.contains("copy")){const t=b.dataset.copy;try{await navigator.clipboard.writeText(t);b.textContent="Copiado"}catch(err){const pre=b.closest(".pub-h").nextElementSibling;const r=document.createRange();r.selectNodeContents(pre);const sel=getSelection();sel.removeAllRanges();sel.addRange(r);b.textContent="Seleccionado: ⌘C"}setTimeout(()=>b.textContent="Copiar",1800)}});
+document.addEventListener("change",e=>{if(e.target.classList.contains("gsel")&&e.target.value)fijar(e.target.dataset.d,e.target.dataset.i,e.target.value)});
+
+/* ---------- noticias ---------- */
+let noticias=[];
+const NEST={para_aprobar:["Para aprobar","p-warn"],aprobada:["Aprobada · esperando formato","p-ok"],en_grilla:["En la grilla","p-ok"],publicada:["Publicada","p-off"],descartada:["Descartada","p-off"]};
+function diaLindo(f){const d=new Date(f+"T12:00:00");if(isNaN(d))return f;const ds=["dom","lun","mar","mié","jue","vie","sáb"];return `${ds[d.getDay()]} ${d.getDate()}/${d.getMonth()+1}`}
+function renderNoticias(){
+  $("n-noticias").textContent=noticias.filter(n=>n.estado!=="descartada").length;
+  if(!noticias.length){$("n-lista").innerHTML='<div class="empty card">Todavía no hay noticias. El agente corre una vez por semana.</div>';return}
+  const sem={};noticias.forEach(n=>(sem[n.semana||"—"]=sem[n.semana||"—"]||[]).push(n));
+  $("n-lista").innerHTML=Object.keys(sem).sort().reverse().map(k=>`<div class="semana"><h3>Semana del ${esc(k)}</h3>${sem[k].map(n=>{const [et,ec]=NEST[n.estado]||NEST.para_aprobar;const pb=n.pub||{};
+    return `<div class="card item${n.estado==="descartada"?" descartado":""}" style="${n.estado==="descartada"?"opacity:.55":""}"><div class="row"><span class="pill ${ec}">${et}</span>${n.tema?`<span class="pill p-dep">${esc(n.tema)}</span>`:""}${n.dia?`<span class="pill p-off">Se publica el ${esc(diaLindo(n.dia))}</span>`:""}${n.puntaje?`<span class="pill p-off">Puntaje ${Math.max(1,Math.round(n.puntaje*10/(n.puntaje_max||12)))}/10</span>`:""}</div>
+    <h3>${esc(n.titulo)}</h3>
+    ${n.que_paso?`<div class="c-why"><b>Qué pasó:</b> ${esc(n.que_paso)}</div>`:""}${n.por_que?`<div class="c-why"><b>Por qué te importa:</b> ${esc(n.por_que)}</div>`:""}${n.que_hacer?`<div class="c-why"><b>Qué podés hacer:</b> ${esc(n.que_hacer)}</div>`:""}
+    ${(n.fuentes||[]).length?`<div class="check"><b>Fuentes:</b> ${(n.fuentes||[]).map(f=>`<a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.titulo||f.url)}</a>`).join(" · ")}</div>`:""}
+    ${(pb.slides||[]).some(x=>x.imagen&&x.imagen.url)?`<div class="slides">${pb.slides.map((x,j)=>x.imagen&&x.imagen.url?`<img src="${esc(x.imagen.url)}" alt="Placa ${j+1}" loading="lazy">`:"").join("")}</div>`:""}
+    <div class="row">${n.estado==="para_aprobar"||n.estado==="descartada"?`<button class="ok nset" data-id="${esc(n.id)}" data-e="aprobada">Aprobar</button>`:""}${n.estado==="para_aprobar"||n.estado==="aprobada"?`<button class="bad nset" data-id="${esc(n.id)}" data-e="descartada">Descartar</button>`:""}</div></div>`}).join("")}</div>`).join("")}
+document.addEventListener("click",async e=>{const t=e.target.closest("button.nset");if(!t||!db)return;t.disabled=true;await db.doc("noticias/"+t.dataset.id).update({estado:t.dataset.e,revisado:Date.now()}).catch(()=>{t.disabled=false})});
+
+/* ---------- entrevistas ---------- */
+let entrevistas=[];
+const EEST={crudo:["Esperando edición","p-warn"],editando:["Editando…","p-run"],editada:["Editada","p-ok"],error:["Error en la edición","p-bad"]};
+function subEnt(v){const ed=v==="edit";$("e-crudo").hidden=ed;$("e-edit").hidden=!ed;$("e-b-crudo").setAttribute("aria-pressed",!ed);$("e-b-edit").setAttribute("aria-pressed",ed);try{localStorage.setItem("p18-ent",v)}catch(e){}}
+$("e-b-crudo").onclick=()=>subEnt("crudo");$("e-b-edit").onclick=()=>subEnt("edit");
+try{subEnt(localStorage.getItem("p18-ent")||"edit")}catch(e){subEnt("edit")}
+function renderEntrevistas(){
+  const crudos=entrevistas.filter(e=>e.estado!=="editada"),eds=entrevistas.filter(e=>e.estado==="editada");
+  $("n-entrevistas").textContent=entrevistas.length;
+  $("e-lista-crudo").innerHTML=crudos.length?crudos.map(e=>{const [et,ec]=EEST[e.estado]||EEST.crudo;const c=e.crudo||{};
+    return `<div class="card item"><div class="row"><span class="pill ${ec}">${et}</span>${e.emprendimiento?`<span class="pill p-dep">${esc(e.emprendimiento)}</span>`:""}${e.fecha_grabacion?`<span class="pill p-off">${esc(e.fecha_grabacion)}</span>`:""}</div>
+    <h3>${esc(e.nombre)}</h3>${c.link?`<a href="${esc(c.link)}" target="_blank" rel="noopener">${esc(c.link)}</a>`:""}${c.archivo?`<div class="path">${esc(c.archivo)}</div>`:""}
+    ${e.nota?`<div class="msg">${esc(e.nota)}</div>`:""}${e.detalle?`<div class="check"><b>Skill:</b> ${esc(e.detalle)}</div>`:""}
+    <div class="row"><button class="ghost edel" data-id="${esc(e.id)}">Borrar</button></div></div>`}).join(""):'<div class="empty card">No hay entrevistas esperando edición. Cargá una arriba.</div>';
+  $("e-lista-edit").innerHTML=eds.length?eds.map(e=>{const ps=e.partes||[];const asig=ps.filter(p=>p.dia).length;
+    const pills=`<span class="pill p-ok">${ps.length} partes</span>`+(asig?`<span class="pill p-off">${asig} en la grilla</span>`:"");
+    const inner=`<div class="clip" style="grid-template-columns:minmax(0,1fr)"><div class="c-info"><div class="row">${e.emprendimiento?`<span class="pill p-dep">${esc(e.emprendimiento)}</span>`:""}${e.editado&&e.editado.dur?`<span class="pill p-off">Editada: ${esc(e.editado.dur)}</span>`:""}</div>
+      ${e.resumen?`<div class="c-why">${esc(e.resumen)}</div>`:""}${e.editado&&e.editado.archivo?`<div class="path">${esc(e.editado.archivo)}</div>`:""}</div></div>
+      ${ps.length?`<div class="reels">${ps.map(p=>`<div class="reel">${p.url?vid(p.url):'<div class="novid">La parte está en la carpeta de entrevistas</div>'}
+        <div class="c-info"><div class="row"><span class="num">${String(p.n).padStart(2,"0")}</span>${p.dur?`<span class="pill p-off">${esc(p.dur)}</span>`:""}<span class="pill ${p.publicado?"p-off":p.dia?"p-ok":"p-warn"}">${p.publicado?"Publicada":p.dia?"Va el "+esc(diaLindo(p.dia)):"Sin día"}</span></div>
+        <h4>${esc(p.titulo||"Parte "+p.n)}</h4>${p.archivo?`<div class="path">${esc(p.archivo)}</div>`:""}</div></div>`).join("")}</div>`:'<div class="clip"><div class="msg">Todavía no está dividida en partes.</div></div>'}`;
+    return `<details class="group" data-key="e-${esc(e.id)}"${abiertos.has("e-"+e.id)?" open":""}><summary><span class="chev" aria-hidden="true"></span><span class="g-t"><b>${esc(e.nombre)}</b><span>${esc(e.emprendimiento||"")}</span></span><span class="g-n">${pills}</span></summary><div class="g-body">${inner}</div></details>`}).join(""):'<div class="empty card">Todavía no hay entrevistas editadas.</div>';
+  hidratar()}
+$("fe").onsubmit=async ev=>{ev.preventDefault();if(!db){$("e-msg").textContent="Iniciá sesión en claude.ai para cargar.";return}
+  const a=$("e-arch").value.trim(),r={nombre:$("e-nombre").value.trim(),estado:"crudo",creado:Date.now(),crudo:/^https?:/i.test(a)?{link:a}:{archivo:"06 Biblioteca/Entrevistas/Crudos/"+a}};
+  if($("e-emp").value.trim())r.emprendimiento=$("e-emp").value.trim();if($("e-fecha").value)r.fecha_grabacion=$("e-fecha").value;if($("e-nota").value.trim())r.nota=$("e-nota").value.trim();
+  $("e-add").disabled=true;try{await db.collection("entrevistas").add(r);$("e-msg").textContent="Cargada. Se edita en la próxima corrida.";$("fe").reset()}catch(err){$("e-msg").textContent="No se pudo cargar: "+(err.code||"error")}$("e-add").disabled=false};
+document.addEventListener("click",async e=>{const t=e.target.closest("button.edel");if(!t||!db)return;if(t.dataset.sure){await db.doc("entrevistas/"+t.dataset.id).delete().catch(()=>{})}else{t.dataset.sure=1;t.textContent="Confirmar borrar"}});
+
+/* ---------- historias de vida ---------- */
+let historias=[];
+const HEST={pendiente:["En cola","p-warn"],investigando:["Investigando","p-run"],guion:["Guion listo","p-run"],voz:["Generando voz","p-run"],armando:["Armando el video","p-run"],en_grilla:["En la grilla","p-ok"],publicada:["Publicada","p-off"],descartada:["Descartada","p-off"],error:["Error","p-bad"]};
+function renderHistorias(){
+  $("n-historias").textContent=historias.filter(h=>!["publicada","descartada"].includes(h.estado)).length;
+  if(!historias.length){$("h-lista").innerHTML='<div class="empty card">Todavía no hay historias. Cargá una arriba o esperá a que el agente proponga la próxima.</div>';return}
+  $("h-lista").innerHTML=historias.map(h=>{const [et,ec]=HEST[h.estado]||HEST.pendiente;const v=h.video||{};
+    return `<div class="card item" style="${h.estado==="descartada"?"opacity:.55":""}"><div class="row"><span class="pill ${ec}">${et}</span><span class="pill p-off">${h.origen==="agente"?"La encontró el agente":"Cargada por ustedes"}</span>${h.dia?`<span class="pill p-dep">Sale el ${esc(diaLindo(h.dia))}</span>`:""}${h.video_id?`<span class="pill p-off">${esc(h.video_id)}</span>`:""}</div>
+    <h3>${esc(h.persona)}${h.titulo?" · "+esc(h.titulo):""}</h3>
+    ${h.descripcion?`<div class="c-why">${esc(h.descripcion)}</div>`:""}
+    ${h.angulo?`<div class="check"><b>Ángulo:</b> ${esc(h.angulo)}</div>`:""}${h.detalle?`<div class="check"><b>Agente:</b> ${esc(h.detalle)}</div>`:""}
+    ${v.url?`<div class="ent-vid">${vid(v.url)}</div>`:""}${v.archivo?`<div class="path">${esc(v.archivo)}</div>`:""}
+    <div class="row">${h.estado==="pendiente"?`<button class="ghost hdel" data-id="${esc(h.id)}">Borrar</button>`:""}${!["publicada","descartada","pendiente"].includes(h.estado)?`<button class="bad hset" data-id="${esc(h.id)}" data-e="descartada">Descartar</button>`:""}</div></div>`}).join("");
+  document.querySelectorAll("#h-lista video[data-src]").forEach(cargarVideo)}
+$("fh").onsubmit=async ev=>{ev.preventDefault();if(!db){$("h-msg").textContent="Iniciá sesión en claude.ai para cargar.";return}
+  const r={persona:$("h-persona").value.trim(),descripcion:$("h-desc").value.trim(),origen:"biblioteca",estado:"pendiente",creado:Date.now()};
+  $("h-add").disabled=true;try{await db.collection("historias_vida").add(r);$("h-msg").textContent="Cargada. El agente la toma en su próxima corrida.";$("fh").reset()}catch(err){$("h-msg").textContent="No se pudo cargar: "+(err.code||"error")}$("h-add").disabled=false};
+document.addEventListener("click",async e=>{const t=e.target.closest("button.hdel,button.hset");if(!t||!db)return;
+  if(t.classList.contains("hset")){t.disabled=true;await db.doc("historias_vida/"+t.dataset.id).update({estado:t.dataset.e,revisado:Date.now()}).catch(()=>{t.disabled=false});return}
+  if(t.dataset.sure){await db.doc("historias_vida/"+t.dataset.id).delete().catch(()=>{})}else{t.dataset.sure=1;t.textContent="Confirmar borrar"}});
+
+/* ---------- red P18: los adultos que suman (mentores, speakers, embajadores...) ---------- */
+let red=[];
+const RTIPO=["Mentor","Speaker","Embajador","Colaborador","Aliado (empresa)","Medio","Otro"];
+const REST={idea:["Idea","p-off"],contactado:["Contactado","p-warn"],charla:["En charla","p-run"],activo:["Activo","p-ok"],pausado:["Pausado","p-off"]};
+const DIAS_AVISO=7,DIA=864e5;
+const opts=(arr,sel,blank)=>(blank!=null?`<option value="">${blank}</option>`:"")+arr.map(([v,t])=>`<option value="${esc(v)}"${v===sel?" selected":""}>${esc(t)}</option>`).join("");
+const LT=RTIPO.map(t=>[t,t]),LD=Object.keys(DEP).map(d=>[d,d]),LE=Object.entries(REST).map(([k,[t]])=>[k,t]);
+$("r-tipo").innerHTML=opts(LT,"Mentor");$("r-dep").innerHTML=opts(LD,"","Sin definir");$("r-estado").innerHTML=opts(LE,"idea");
+$("r-ftipo").innerHTML=opts(LT,"","Todos los puestos");$("r-fdep").innerHTML=opts(LD,"","Todos los departamentos");$("r-festado").innerHTML=opts(LE,"","Todos los estados");
+let rModo="dep";try{rModo=localStorage.getItem("p18-red-vista")||"dep"}catch(e){}
+function setModo(m){rModo=m;try{localStorage.setItem("p18-red-vista",m)}catch(e){}$("r-m-tar").setAttribute("aria-pressed",m==="dep");$("r-m-tab").setAttribute("aria-pressed",m==="lista");renderRed()}
+$("r-m-tar").onclick=()=>setModo("dep");$("r-m-tab").onclick=()=>setModo("lista");
+$("r-m-tar").setAttribute("aria-pressed",rModo==="dep");$("r-m-tab").setAttribute("aria-pressed",rModo==="lista");
+const fechaCorta=ms=>{const d=new Date(ms);return `${d.getDate()}/${d.getMonth()+1}`};
+const hoyMs=()=>new Date(hoyISO+"T00:00:00").getTime();
+// por qué hay que escribirle: seguimiento vencido, o hace más de 7 días sin contacto (solo contactado / en charla)
+function aviso(r){
+  if(r.seguimiento&&r.seguimiento<=hoyISO)return r.seguimiento===hoyISO?"Seguimiento hoy":"Seguimiento vencido ("+diaLindo(r.seguimiento)+")";
+  if(["contactado","charla"].includes(r.estado)){const u=r.ultimo||r.creado||0,d=Math.floor((hoyMs()-u)/DIA);if(d>=DIAS_AVISO)return r.ultimo?`Hace ${d} días sin contacto`:"Todavía no se le escribió"}
+  return ""}
+const ORD={nombre:(a,b)=>(a.nombre||"").localeCompare(b.nombre||""),puesto:(a,b)=>RTIPO.indexOf(a.tipo)-RTIPO.indexOf(b.tipo)||ORD.nombre(a,b),
+  estado:(a,b)=>Object.keys(REST).indexOf(b.estado)-Object.keys(REST).indexOf(a.estado)||ORD.nombre(a,b),
+  ultimo:(a,b)=>(a.ultimo||0)-(b.ultimo||0),seguimiento:(a,b)=>(a.seguimiento||"9")<(b.seguimiento||"9")?-1:1,reciente:(a,b)=>(b.creado||0)-(a.creado||0),dep:(a,b)=>Object.keys(DEP).indexOf(a.dep)-Object.keys(DEP).indexOf(b.dep)||ORD.nombre(a,b),contacto:(a,b)=>(!a.contacto)-(!b.contacto)||ORD.nombre(a,b),profesion:(a,b)=>(!a.profesion)-(!b.profesion)||(a.profesion||"").localeCompare(b.profesion||"")||ORD.nombre(a,b)};
+function contactoHTML(c){c=c||"";return /^@/.test(c)?`<a href="https://instagram.com/${esc(c.slice(1))}" target="_blank" rel="noopener">${esc(c)}</a>`:/^\S+@\S+$/.test(c)?`<a href="mailto:${esc(c)}">${esc(c)}</a>`:esc(c)}
+const iniciales=n=>String(n||"?").replace(/·.*/,"").trim().split(/\s+/).slice(0,2).map(x=>x[0]||"").join("").toUpperCase();
+// campo editable: se guarda solo al cambiarlo (data-rf = campo, data-id = persona)
+const fIn=(r,f,ph,type)=>`<input${type?` type="${type}"`:""} data-rf="${f}" data-id="${esc(r.id)}" value="${esc(r[f]||"")}"${ph?` placeholder="${esc(ph)}"`:""}>`;
+const fSel=(r,f,list,blank)=>`<select data-rf="${f}" data-id="${esc(r.id)}">${opts(list,r[f]||"",blank)}</select>`;
+function tarjeta(r){const [et,ec]=REST[r.estado]||REST.idea,av=aviso(r),c=COLOR[r.dep]||"var(--mute)";
+  return `<button type="button" class="rcard" data-open="${esc(r.id)}" style="--c:${c}"><span class="rc-top"><span class="av">${esc(iniciales(r.nombre))}</span><span class="pill ${ec}">${et}</span></span>
+    <b class="rc-n">${esc(r.nombre)}</b><span class="rc-r">${esc(r.rubro||"")}</span>
+    <span class="rc-p"><span class="pill p-dep">${esc(r.tipo||"Otro")}</span><span class="rc-d"><i></i>${esc(r.dep||"Sin departamento")}</span></span>
+    ${av?`<span class="rc-a">● ${esc(av)}</span>`:r.paso?`<span class="rc-s">→ ${esc(r.paso)}</span>`:""}</button>`}
+let abierto=null;
+function panel(){const r=red.find(x=>x.id===abierto),pn=$("r-panel");if(!r){pn.hidden=true;return}
+  if(!pn.hidden&&pn.contains(document.activeElement)&&document.activeElement.matches("input,textarea"))return; // no pisar lo que se está escribiendo
+  const h=(r.historial||[]).map((x,i)=>[x,i]).sort((a,b)=>b[0].fecha-a[0].fecha),c=COLOR[r.dep]||"var(--mute)";
+  pn.innerHTML=`<div class="rp-in" style="--c:${c}" role="dialog" aria-label="Ficha de ${esc(r.nombre)}">
+    <div class="rp-h"><span class="av">${esc(iniciales(r.nombre))}</span><input class="rp-name" data-rf="nombre" data-id="${esc(r.id)}" value="${esc(r.nombre)}" aria-label="Nombre"><button type="button" class="ghost" id="rp-x" aria-label="Cerrar">✕</button></div>
+    <div class="msg" id="rp-msg">Todo se guarda solo al cambiarlo.</div>
+    <div class="form" style="margin:0;grid-template-columns:repeat(2,minmax(0,1fr))">
+      <label class="full">A qué se dedica${fIn(r,"profesion","Ej. marketing, finanzas, abogacía")}</label>
+      <label>Puesto${fSel(r,"tipo",LT)}</label><label>Departamento P18${fSel(r,"dep",LD,"Sin definir")}</label>
+      <label>Estado${fSel(r,"estado",LE)}</label><label>Seguimiento${fIn(r,"seguimiento","","date")}</label>
+      <label class="full">Contacto${fIn(r,"contacto","@usuario, mail o teléfono")}</label>
+      <label class="full">Qué aporta${fIn(r,"rubro")}</label>
+      <label>Lo trae${fIn(r,"trae")}</label><label>De dónde viene${fIn(r,"origen","Ej. entrevista, web, Mati")}</label>
+      <label class="full">Próximo paso${fIn(r,"paso")}</label>
+      <label class="full">Notas<textarea rows="3" data-rf="nota" data-id="${esc(r.id)}">${esc(r.nota||"")}</textarea></label>
+    </div>
+    <div class="row">${r.contacto?contactoHTML(r.contacto):""}${r.entrevista_id?`<a href="#entrevistas" id="rp-ent">Ver su entrevista →</a>`:""}</div>
+    <div class="pub-h">Historial${r.ultimo?` · último contacto ${fechaCorta(r.ultimo)}`:""}</div>
+    <div class="row"><input class="rh-txt" placeholder="Qué hablaron (ej. le mandé la propuesta por DM)" style="flex:1"><button type="button" class="ok radd" data-id="${esc(r.id)}">Anotar</button></div>
+    <div class="hist">${h.length?h.map(([x,i])=>`<div class="rh"><b>${fechaCorta(x.fecha)}${x.quien?" · "+esc(x.quien):""}</b><textarea rows="2" data-rh="${i}" data-id="${esc(r.id)}" aria-label="Nota del ${fechaCorta(x.fecha)}">${esc(x.texto)}</textarea><button type="button" class="ghost rhdel" data-rh="${i}" data-id="${esc(r.id)}">Borrar nota</button></div>`).join(""):`<div class="msg" style="border:0;background:none;padding:0">Todavía no hay nada anotado.</div>`}</div>
+    <div class="row" style="margin-top:8px"><button type="button" class="ghost rdel" data-id="${esc(r.id)}">Borrar a esta persona</button></div></div>`;
+  pn.hidden=false}
+function abrir(id){abierto=id;$("r-panel").hidden=true;panel();const x=$("rp-x");x&&x.focus()}
+function cerrar(){abierto=null;$("r-panel").hidden=true}
+function renderRed(){
+  $("n-red").textContent=red.length;$("n-red").title=red.length+" personas en la red";
+  const vivos=red.filter(r=>r.estado!=="pausado");
+  $("r-cob").innerHTML=Object.keys(DEP).map(d=>{const n=vivos.filter(r=>r.dep===d).length,m=vivos.filter(r=>r.dep===d&&r.tipo==="Mentor").length,s=vivos.filter(r=>r.dep===d&&r.tipo==="Speaker").length;
+    return `<button type="button" class="cob${n?"":" vacio"}${$("r-fdep").value===d?" on":""}" data-dep="${esc(d)}" style="--c:${COLOR[d]}"><i></i><span>${esc(d)}</span><b>${n}</b><small>${n?`${m} mentor${m===1?"":"es"} · ${s} speaker${s===1?"":"s"}`:"Nadie todavía"}</small></button>`}).join("");
+  const avs=red.map(r=>[r,aviso(r)]).filter(x=>x[1]);
+  $("r-avisos").innerHTML=avs.length?`<div class="card item"><div class="pub-h">A quién escribirle (${avs.length})</div><div class="row">${avs.map(([r,a])=>`<button type="button" class="ghost" data-open="${esc(r.id)}" title="${esc(a)}">${esc(r.nombre)} · <span style="color:var(--warn)">${esc(a)}</span></button>`).join("")}</div></div>`:"";
+  const q=$("r-buscar").value.trim().toLowerCase(),ft=$("r-ftipo").value,fe=$("r-festado").value,fd=$("r-fdep").value;
+  const v=red.filter(r=>(!ft||r.tipo===ft)&&(!fd||r.dep===fd)&&(!fe||r.estado===fe)&&(!q||[r.nombre,r.profesion,r.rubro,r.contacto,r.trae,r.nota,r.paso,r.dep,r.tipo].join(" ").toLowerCase().includes(q))).sort(ORD[$("r-orden").value]||ORD.nombre);
+  panel();
+  if(!red.length){$("r-lista").innerHTML='<div class="empty card">Todavía no hay nadie en la red. Sumá al primero arriba.</div>';return}
+  if(!v.length){$("r-lista").innerHTML='<div class="empty card">Nadie coincide con el filtro.</div>';return}
+  // tabla tipo lista de contactos: por departamento o todos juntos (A-Z); se ordena tocando la columna; tocar una fila abre la ficha
+  const fila=r=>{const [et,ec]=REST[r.estado]||REST.idea,av=aviso(r);
+    return `<tr data-open="${esc(r.id)}" tabindex="0" style="--c:${COLOR[r.dep]||"var(--mute)"}"${r.id===abierto?' class="sel"':""}><td><span class="rn"><span class="av sm">${esc(iniciales(r.nombre))}</span><span><b>${esc(r.nombre)}</b><small>${esc(r.rubro||"")}</small></span></span></td>
+      <td>${r.profesion?esc(r.profesion):'<span class="msg">Falta</span>'}</td><td>${esc(r.tipo||"")}</td>${rModo==="lista"?`<td><span class="rc-d"><i></i>${esc(r.dep||"Sin definir")}</span></td>`:""}<td><span class="pill ${ec}">${et}</span></td>
+      <td>${r.contacto?esc(r.contacto):'<span class="msg">Falta</span>'}</td><td>${av?`<span class="rc-a">● ${esc(av)}</span>`:esc(r.paso||"")}</td></tr>`};
+  const head=()=>{const cols=[["nombre","Nombre"],["profesion","A qué se dedica"],["puesto","Puesto"],...(rModo==="lista"?[["dep","Departamento P18"]]:[]),["estado","Estado"],["contacto","Contacto"],["seguimiento","Próximo paso"]],o=$("r-orden").value;
+    return `<thead><tr>${cols.map(([k,t])=>`<th><button type="button" class="rsort${o===k?" on":""}" data-k="${k}">${t}${o===k?" ↓":""}</button></th>`).join("")}</tr></thead>`};
+  if(rModo==="lista"){$("r-lista").innerHTML=`<div class="card tdep"><div class="tscroll"><table class="rtab">${head()}<tbody>${v.map(fila).join("")}</tbody></table></div></div>`;return}
+  const grupos=[...Object.keys(DEP),""].map(d=>[d,v.filter(r=>(r.dep||"")===d)]).filter(([d,rs])=>rs.length);
+  $("r-lista").innerHTML=grupos.map(([d,rs])=>`<div class="card tdep" style="--c:${COLOR[d]||"var(--mute)"}"><h3><i></i>${esc(d||"Sin departamento")} <span class="msg">${rs.length}</span></h3><div class="tscroll"><table class="rtab">${head()}<tbody>${rs.map(fila).join("")}</tbody></table></div></div>`).join("")}
+["r-buscar","r-ftipo","r-festado","r-fdep","r-orden"].forEach(id=>$(id).addEventListener("input",renderRed));
+$("fr").onsubmit=async ev=>{ev.preventDefault();if(!db){$("r-msg").textContent="Iniciá sesión en claude.ai para cargar.";return}
+  const r={nombre:$("r-nombre").value.trim(),tipo:$("r-tipo").value,dep:$("r-dep").value,estado:$("r-estado").value,creado:Date.now()};
+  [["profesion","r-prof"],["rubro","r-rubro"],["contacto","r-contacto"],["trae","r-trae"],["paso","r-paso"],["nota","r-nota"]].forEach(([k,id])=>{const x=$(id).value.trim();if(x)r[k]=x});
+  $("r-add").disabled=true;try{await db.collection("red").add(r);$("r-msg").textContent="Sumado a la red.";$("fr").reset();$("r-alta").open=false}catch(err){$("r-msg").textContent="No se pudo cargar: "+(err.code||"error")}$("r-add").disabled=false};
+const avisar=(el,t)=>{const m=el.closest("#r-panel")?$("rp-msg"):null;if(m)m.textContent=t;el.classList.add("saved");setTimeout(()=>el.classList.remove("saved"),900)};
+document.addEventListener("change",async e=>{const el=e.target;if(!db||!el.dataset)return;
+  if(el.dataset.rf){const f=el.dataset.rf,v=el.value.trim();if(f==="nombre"&&!v){el.value=(red.find(x=>x.id===el.dataset.id)||{}).nombre||"";return}
+    try{await db.doc("red/"+el.dataset.id).update({[f]:v,actualizado:Date.now()});avisar(el,"Guardado.")}catch(err){avisar(el,"No se pudo guardar.")}return}
+  if(el.dataset.rh!=null&&el.tagName==="TEXTAREA"){const r=red.find(x=>x.id===el.dataset.id);if(!r)return;const h=(r.historial||[]).map((x,i)=>i===+el.dataset.rh?{...x,texto:el.value.trim()}:x);
+    try{await db.doc("red/"+r.id).update({historial:h});avisar(el,"Nota guardada.")}catch(err){avisar(el,"No se pudo guardar.")}}});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&abierto){cerrar();renderRed()}if(e.key==="Enter"&&e.target.matches&&e.target.matches("tr[data-open]"))abrir(e.target.dataset.open)});
+document.addEventListener("click",async e=>{
+  const so=e.target.closest("button.rsort");if(so){$("r-orden").value=so.dataset.k;renderRed();return}
+  const o=e.target.closest("[data-open]");if(o){abrir(o.dataset.open);renderRed();return}
+  if(e.target.id==="rp-x"||e.target.id==="r-panel"){cerrar();renderRed();return}
+  if(e.target.id==="rp-ent"){cerrar();return}
+  const cb=e.target.closest("button.cob");if(cb){$("r-fdep").value=$("r-fdep").value===cb.dataset.dep?"":cb.dataset.dep;renderRed();return}
+  const t=e.target.closest("button.radd,button.rdel,button.rhdel");if(!t||!db)return;const id=t.dataset.id,r=red.find(x=>x.id===id);
+  if(t.classList.contains("radd")){const inp=t.parentElement.querySelector(".rh-txt"),txt=inp.value.trim();if(!txt||!r)return;
+    let quien="";try{const me=await claude.use("user");quien=me&&(me.displayName||me.name)||""}catch(err){}
+    const now=Date.now(),h=[...(r.historial||[]),{fecha:now,texto:txt,...(quien?{quien}:{})}];inp.value="";
+    t.disabled=true;await db.doc("red/"+id).update({historial:h,ultimo:now,...(r.estado==="idea"?{estado:"contactado"}:{})}).catch(()=>{t.disabled=false});return}
+  if(t.classList.contains("rhdel")){if(!t.dataset.sure){t.dataset.sure=1;t.textContent="Confirmar";return}const h=(r.historial||[]).filter((x,i)=>i!==+t.dataset.rh);await db.doc("red/"+id).update({historial:h}).catch(()=>{});return}
+  if(t.classList.contains("rdel")){if(t.dataset.sure){cerrar();await db.doc("red/"+id).delete().catch(()=>{})}else{t.dataset.sure=1;t.textContent="Confirmar: borrar a "+(r?r.nombre:"esta persona")}}});
+
+
+/* ---------- equipo P18: organigrama por áreas (agentes + humanos) ----------
+   equipo_areas/<id> {nombre, desc, orden, color}
+   equipo/<id> {nombre, rol, area, tipo: agente|humano, agente, estado: trabajando|espera|libre|error|por_crear, tarea, funcion, cuando, actualizado, orden}
+   equipo_feed {agente, tipo: termino|necesita|empezo|error, texto, creado, resuelto, respuesta} */
+let equipo=[],eqAreas=[],feed=[],jugAbierto=null;
+const EQE={trabajando:["Trabajando","p-run","var(--lima)"],espera:["Te espera","p-warn","var(--warn)"],libre:["Libre","p-off","rgba(245,245,235,.5)"],error:["Con error","p-bad","var(--bad)"],por_crear:["Por crear","p-off","transparent"]};
+const hace=ms=>{if(!ms)return"";const m=Math.round((Date.now()-ms)/6e4);return m<1?"recién":m<60?`hace ${m} min`:m<1440?`hace ${Math.round(m/60)} h`:`hace ${Math.round(m/1440)} d`};
+const eIn=(j,f,ph,col)=>`<input data-ef="${f}" data-col="${col||"equipo"}" data-id="${esc(j.id)}" value="${esc(j[f]||"")}"${ph?` placeholder="${esc(ph)}"`:""}>`;
+function miembro(j,esp){const [et,,col]=EQE[j.estado]||EQE.libre,h=j.tipo==="humano",pend=esp.filter(f=>f.agente===j.id).length;
+  return `<button type="button" class="mb${h?" hum":""}${j.estado==="por_crear"?" nuevo":""}${j.id===jugAbierto?" sel":""}" data-jug="${esc(j.id)}" style="--e:${col}">
+    <span class="mb-i" aria-hidden="true">${h?"👤":"⚙"}</span><span class="mb-t"><b>${esc(j.nombre||"Sin nombre")}</b><small>${esc(j.rol||"")}</small></span>
+    <span class="mb-s">${pend?`<span class="pill p-warn">${pend} te espera${pend>1?"n":""}</span>`:h?"":`<span class="dot" title="${et}"></span><small>${et}</small>`}</span></button>`}
+function renderEquipo(){
+  const esp=feed.filter(f=>f.tipo==="necesita"&&!f.resuelto);
+  $("n-equipo").textContent=esp.length;$("n-equipo").title=esp.length+" preguntas te esperan";
+  const ags=equipo.filter(j=>j.tipo!=="humano"),act=ags.filter(j=>j.estado!=="por_crear").length;
+  $("eq-res").innerHTML=`<span><b>${eqAreas.length}</b> áreas</span><span><b>${act}</b> agentes andando</span><span><b>${ags.length-act}</b> por crear</span><span><b>${equipo.filter(j=>j.tipo==="humano").length}</b> humanos</span>${esp.length?`<span class="warn"><b>${esp.length}</b> te esperan</span>`:""}`;
+  const areas=eqAreas.slice().sort((a,b)=>(a.orden||0)-(b.orden||0));
+  $("eq-areas").innerHTML=areas.map(a=>{const ms=equipo.filter(j=>j.area===a.id).sort((x,y)=>(x.tipo==="humano")-(y.tipo==="humano")||(x.estado==="por_crear")-(y.estado==="por_crear")||(x.orden||0)-(y.orden||0));
+    const vacio=!ms.some(j=>j.tipo!=="humano"&&j.estado!=="por_crear");
+    return `<section class="ar" style="--c:${a.color||"var(--lima)"}"><header><span class="ar-n">${String(a.orden||"").padStart(2,"0")}</span><div><input class="ar-t" data-ef="nombre" data-col="equipo_areas" data-id="${esc(a.id)}" value="${esc(a.nombre)}" aria-label="Nombre del área"><input class="ar-d" data-ef="desc" data-col="equipo_areas" data-id="${esc(a.id)}" value="${esc(a.desc||"")}" placeholder="Qué cubre esta área" aria-label="Qué cubre"></div>${vacio?'<span class="pill p-off">Sin agentes andando</span>':""}</header>
+      <div class="ar-m">${ms.map(j=>miembro(j,esp)).join("")||'<div class="msg">Nadie todavía.</div>'}</div>
+      <div class="row ar-add"><button type="button" class="ghost eq-add" data-area="${esc(a.id)}" data-t="agente">+ Agente</button><button type="button" class="ghost eq-add" data-area="${esc(a.id)}" data-t="humano">+ Persona</button></div></section>`}).join("")
+    +`<button type="button" class="ar ar-nueva" id="eq-add-area">+ Nueva área</button>`;
+  $("eq-leyenda").innerHTML=Object.entries(EQE).map(([k,[t,,c]])=>`<span><i style="background:${c};${k==="por_crear"?"border:1px dashed var(--mute)":""}"></i>${t}</span>`).join("")+`<span>⚙ agente · 👤 persona</span>`;
+  const nom=id=>(equipo.find(j=>j.id===id)||{}).nombre||id;
+  const ult=feed.filter(f=>!(f.tipo==="necesita"&&!f.resuelto)).slice(0,25);
+  $("eq-feed").innerHTML=(esp.length?`<div class="pub-h">Te esperan (${esp.length})</div>${esp.map(f=>`<div class="fe fe-n"><b>${esc(nom(f.agente))} te necesita</b> <span class="msg">${hace(f.creado)}</span><div>${esc(f.texto)}</div>
+      <div class="row"><input class="fe-r" data-id="${esc(f.id)}" placeholder="Tu respuesta" style="flex:1"><button type="button" class="ok fe-ok" data-id="${esc(f.id)}">Responder</button></div></div>`).join("")}`:`<div class="pub-h">Te esperan</div><div class="msg">Nadie te está esperando.</div>`)
+    +`<div class="pub-h" style="margin-top:10px">Lo último</div>`+(ult.length?ult.map(f=>`<div class="fe"><span class="msg">${hace(f.creado)}</span> <b>${esc(nom(f.agente))}</b> ${({termino:"terminó",empezo:"empezó",error:"tuvo un error",necesita:"preguntó"})[f.tipo]||""}: ${esc(f.texto)}${f.respuesta?`<div class="msg">Respondiste: ${esc(f.respuesta)}</div>`:""}</div>`).join(""):`<div class="msg">Todavía no hay movimiento. Los agentes escriben acá cuando empiezan, terminan o necesitan algo.</div>`);
+  panelJug()}
+function panelJug(){const j=equipo.find(x=>x.id===jugAbierto),pn=$("eq-panel");if(!j){pn.hidden=true;return}
+  if(!pn.hidden&&pn.contains(document.activeElement)&&document.activeElement.matches("input,textarea"))return;
+  const a=eqAreas.find(x=>x.id===j.area)||{},[et,ec]=EQE[j.estado]||EQE.libre,fs=feed.filter(f=>f.agente===j.id).slice(0,10),h=j.tipo==="humano";
+  pn.innerHTML=`<div class="rp-in" style="--c:${a.color||"var(--lima)"}"><div class="rp-h"><span class="av">${h?"👤":"⚙"}</span><input class="rp-name" data-ef="nombre" data-col="equipo" data-id="${esc(j.id)}" value="${esc(j.nombre||"")}" aria-label="Nombre"><button type="button" class="ghost" id="eq-x" aria-label="Cerrar">✕</button></div>
+    <div class="row">${h?"":`<span class="pill ${ec}">${et}</span>`}${j.actualizado&&!h?`<span class="msg">${hace(j.actualizado)}</span>`:""}<span class="msg" id="eq-msg">Todo se guarda solo al cambiarlo.</span></div>
+    ${j.tarea&&!h?`<div class="check"><b>Ahora:</b> ${esc(j.tarea)}</div>`:""}
+    <div class="form" style="margin:0;grid-template-columns:repeat(2,minmax(0,1fr))">
+      <label class="full">Rol${eIn(j,"rol","Ej. Prepara el contenido del día")}</label>
+      <label>Área<select data-ef="area" data-col="equipo" data-id="${esc(j.id)}">${opts(eqAreas.slice().sort((x,y)=>(x.orden||0)-(y.orden||0)).map(x=>[x.id,x.nombre]),j.area)}</select></label>
+      <label>Tipo<select data-ef="tipo" data-col="equipo" data-id="${esc(j.id)}">${opts([["agente","Agente"],["humano","Persona"]],j.tipo||"agente")}</select></label>
+      ${h?"":`<label>Archivo del agente${eIn(j,"agente","p18-…")}</label><label>Estado<select data-ef="estado" data-col="equipo" data-id="${esc(j.id)}">${opts(Object.entries(EQE).map(([k,[t]])=>[k,t]),j.estado||"libre")}</select></label>`}
+      <label class="full">Qué hace<textarea rows="3" data-ef="funcion" data-col="equipo" data-id="${esc(j.id)}">${esc(j.funcion||"")}</textarea></label>
+      <label class="full">${h?"Disponibilidad":"Cuándo trabaja"}${eIn(j,"cuando",h?"Ej. 5 h por semana":"Ej. todos los días a las 23 h")}</label>
+    </div>
+    ${j.estado==="por_crear"?`<div class="c-note">Este agente todavía no existe. Pedíselo a Claude: "creá el agente ${esc(j.nombre)}".</div>`:""}
+    ${h?"":`<div class="pub-h">Lo último</div>${fs.length?fs.map(f=>`<div class="fe"><span class="msg">${hace(f.creado)}</span> ${esc(f.texto)}</div>`).join(""):`<div class="msg">Sin movimiento todavía.</div>`}`}
+    <div class="row" style="margin-top:8px"><button type="button" class="ghost eq-del" data-id="${esc(j.id)}">Sacar del equipo</button></div></div>`;
+  pn.hidden=false}
+document.addEventListener("change",async e=>{const el=e.target;if(!db||!el.dataset||!el.dataset.ef)return;
+  const v=el.value.trim();if(el.dataset.ef==="nombre"&&!v)return;
+  try{await db.doc(el.dataset.col+"/"+el.dataset.id).update({[el.dataset.ef]:v,...(el.dataset.col==="equipo"?{actualizado_ficha:Date.now()}:{})});el.classList.add("saved");setTimeout(()=>el.classList.remove("saved"),900);const m=$("eq-msg");if(m&&el.closest("#eq-panel"))m.textContent="Guardado."}catch(err){const m=$("eq-msg");if(m)m.textContent="No se pudo guardar."}});
+document.addEventListener("click",async e=>{
+  const jb=e.target.closest("[data-jug]");if(jb){jugAbierto=jb.dataset.jug;renderEquipo();return}
+  if(e.target.id==="eq-x"){jugAbierto=null;renderEquipo();return}
+  if(!db)return;
+  const ad=e.target.closest("button.eq-add");if(ad){const h=ad.dataset.t==="humano",id=(h?"h-":"a-")+Date.now().toString(36);
+    await db.doc("equipo/"+id).set({nombre:h?"Persona nueva":"Agente nuevo",rol:"",area:ad.dataset.area,tipo:h?"humano":"agente",estado:h?"libre":"por_crear",orden:Date.now()}).catch(()=>{});jugAbierto=id;renderEquipo();return}
+  if(e.target.id==="eq-add-area"){const id="ar-"+Date.now().toString(36),o=Math.max(0,...eqAreas.map(a=>a.orden||0))+1;await db.doc("equipo_areas/"+id).set({nombre:"Área nueva",desc:"",orden:o,color:"#C9A7F5"}).catch(()=>{});return}
+  const dl=e.target.closest("button.eq-del");if(dl){if(!dl.dataset.sure){dl.dataset.sure=1;dl.textContent="Confirmar: sacar del equipo";return}jugAbierto=null;await db.doc("equipo/"+dl.dataset.id).delete().catch(()=>{});return}
+  const ok=e.target.closest("button.fe-ok");if(ok){const inp=document.querySelector(`.fe-r[data-id="${CSS.escape(ok.dataset.id)}"]`),t=inp&&inp.value.trim();if(!t)return;ok.disabled=true;
+    await db.doc("equipo_feed/"+ok.dataset.id).update({respuesta:t,resuelto:Date.now()}).catch(()=>{ok.disabled=false})}});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&jugAbierto){jugAbierto=null;renderEquipo()}});
+
+/* ---------- oportunidades: gente y organizaciones sugeridas para sumar a la red ---------- */
+let oport=[],opAbierta=null;
+function subRed(v){const op=v==="op";$("red-nuestra").hidden=op;$("red-op").hidden=!op;$("rs-n").setAttribute("aria-pressed",!op);$("rs-o").setAttribute("aria-pressed",op);try{localStorage.setItem("p18-red-sub",v)}catch(e){}}
+$("rs-n").onclick=()=>subRed("n");$("rs-o").onclick=()=>subRed("op");try{subRed(localStorage.getItem("p18-red-sub")||"n")}catch(e){subRed("n")}
+const PRI={Alta:0,Media:1,Baja:2};
+$("o-fdep").innerHTML=opts(LD,"","Todos los departamentos");
+const lnk=(u,t)=>u?`<a href="${esc(u)}" target="_blank" rel="noopener" class="olink">${t}</a>`:"";
+function renderOp(){
+  const nuevas=oport.filter(o=>o.estado==="nueva");
+  $("rs-on").textContent=nuevas.length;
+  const cl=$("o-clase").value,fd=$("o-fdep").value,pr=$("o-pri").value,q=$("o-buscar").value.trim().toLowerCase(),ve=$("o-ver").value;
+  const v=oport.filter(o=>(ve==="todas"||o.estado===ve)&&(!cl||o.clase===cl)&&(!fd||o.dep===fd)&&(!pr||o.prioridad===pr)&&(!q||[o.nombre,o.resumen,o.tema,o.tipo,o.profesion].join(" ").toLowerCase().includes(q)))
+    .sort((a,b)=>(PRI[a.prioridad]??3)-(PRI[b.prioridad]??3)||(PRI[a.facilidad]??3)-(PRI[b.facilidad]??3)||a.nombre.localeCompare(b.nombre));
+  $("o-cuenta").textContent=`${v.length} de ${oport.length}`;
+  if(!oport.length){$("o-lista").innerHTML='<div class="empty card">Cargando oportunidades…</div>';return}
+  if(!v.length){$("o-lista").innerHTML='<div class="empty card">Nada coincide con el filtro.</div>';return}
+  $("o-lista").innerHTML=`<div class="card tdep"><div class="tscroll"><table class="rtab otab"><thead><tr><th>Quién</th><th>Qué aporta</th><th>Departamento P18</th><th>Prioridad</th><th>Links</th><th></th></tr></thead><tbody>${v.map(o=>`<tr data-op="${esc(o.id)}" tabindex="0" style="--c:${COLOR[o.dep]||"var(--mute)"}"${o.id===opAbierta?' class="sel"':""}>
+    <td><span class="rn"><span class="av sm">${esc(iniciales(o.nombre))}</span><span><b>${esc(o.nombre)}</b><small>${o.clase==="speaker"?"Speaker":"Colaborador"} · ${esc(o.tipo||o.profesion||"")}</small></span></span></td>
+    <td class="o-res">${esc(o.resumen||"")}</td><td><span class="rc-d"><i></i>${esc(o.dep||"")}</span></td>
+    <td><span class="pill ${o.prioridad==="Alta"?"p-ok":o.prioridad==="Media"?"p-warn":"p-off"}">${esc(o.prioridad||"—")}</span>${o.facilidad?`<div class="msg">Contacto ${esc(o.facilidad.toLowerCase())}</div>`:""}</td>
+    <td class="o-l">${lnk(o.ig,"IG")}${lnk(o.li,"in")}${lnk(o.web,"Web")}</td>
+    <td>${o.estado==="nueva"?`<button type="button" class="ok o-sum" data-id="${esc(o.id)}">Sumar a la red</button>`:o.estado==="en_red"?'<span class="pill p-ok">En la red</span>':'<span class="pill p-off">Descartada</span>'}</td></tr>`).join("")}</tbody></table></div></div>`;
+  panelOp()}
+function panelOp(){const o=oport.find(x=>x.id===opAbierta),pn=$("o-panel");if(!o){pn.hidden=true;return}
+  const fila=(t,v)=>v?`<div><div class="pub-h">${t}</div><div class="c-why">${esc(v)}</div></div>`:"";
+  pn.innerHTML=`<div class="rp-in" style="--c:${COLOR[o.dep]||"var(--mute)"}"><div class="rp-h"><span class="av">${esc(iniciales(o.nombre))}</span><div><b style="font-size:20px">${esc(o.nombre)}</b><div class="msg">${o.clase==="speaker"?"Speaker":"Colaborador"} · ${esc(o.tipo||o.profesion||"")}</div></div><button type="button" class="ghost" id="o-x" aria-label="Cerrar">✕</button></div>
+    <div class="row"><span class="pill ${o.prioridad==="Alta"?"p-ok":"p-warn"}">Prioridad ${esc(o.prioridad||"")}</span>${o.facilidad?`<span class="pill p-off">Contacto ${esc(o.facilidad.toLowerCase())}</span>`:""}<span class="pill" style="background:${COLOR[o.dep]||"var(--papel)"}">${esc(o.dep||"")}</span></div>
+    <div class="row">${lnk(o.ig,"Instagram")}${lnk(o.li,"LinkedIn")}${lnk(o.web,"Web")}${lnk(o.contacto,"Contacto")}${lnk(o.fuente,"Fuente")}</div>
+    ${fila(o.clase==="speaker"?"Charla posible":"Qué aporta",o.resumen)}${fila("A qué se dedica",o.profesion)}${fila("Experiencia",o.experiencia)}${fila("Qué podría enseñar",o.ensena)}${fila("Por qué contactarlo",o.porque)}${fila("Tema en el Excel",o.tema)}${fila("Dónde",o.ubic)}${fila("Observaciones",o.obs)}
+    <div class="row">${o.estado==="nueva"?`<button type="button" class="ok o-sum" data-id="${esc(o.id)}">Sumar a la red</button><button type="button" class="bad o-des" data-id="${esc(o.id)}">Descartar</button>`:`<button type="button" class="ghost o-vol" data-id="${esc(o.id)}">Volver a oportunidades</button>`}</div></div>`;
+  pn.hidden=false}
+["o-clase","o-fdep","o-pri","o-buscar","o-ver"].forEach(id=>$(id).addEventListener("input",renderOp));
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&opAbierta){opAbierta=null;renderOp()}if(e.key==="Enter"&&e.target.matches&&e.target.matches("tr[data-op]")){opAbierta=e.target.dataset.op;renderOp()}});
+document.addEventListener("click",async e=>{
+  if(e.target.closest("a.olink"))return;
+  if(e.target.id==="o-x"){opAbierta=null;renderOp();return}
+  const b=e.target.closest("button.o-sum,button.o-des,button.o-vol");
+  if(b&&db){const o=oport.find(x=>x.id===b.dataset.id);if(!o)return;b.disabled=true;
+    if(b.classList.contains("o-sum")){const r={nombre:o.nombre,tipo:o.clase==="speaker"?"Speaker":"Aliado (empresa)",dep:o.dep||"",estado:"idea",origen:"Oportunidades (Excel)",creado:Date.now(),paso:"Primer contacto",oportunidad_id:o.id};
+      if(o.profesion||o.tipo)r.profesion=o.profesion||o.tipo;if(o.resumen)r.rubro=o.resumen.slice(0,90);const c=o.ig?"@"+o.ig.replace(/\/$/,"").split("/").pop():o.contacto||o.web;if(c)r.contacto=c;if(o.obs)r.nota=o.obs;
+      try{await db.doc("red/op-"+o.id).set(r);await db.doc("oportunidades/"+o.id).update({estado:"en_red"})}catch(err){b.disabled=false}return}
+    await db.doc("oportunidades/"+o.id).update({estado:b.classList.contains("o-des")?"descartada":"nueva"}).catch(()=>{b.disabled=false});return}
+  const t=e.target.closest("tr[data-op]");if(t){opAbierta=t.dataset.op;renderOp()}});
+
+
+function render(){renderMaterial();renderClips();renderListos();renderGrilla();renderNoticias();renderEntrevistas();renderHistorias();renderRed();hidratar()}
+
+async function review(r){if(!sample)return null;
+try{return await sample.json(`${PARAMS}\n\nRevisá si esta fuente de video encaja con P18. Solo tenés estos datos (no viste el video):\nTítulo: ${r.titulo}\nLink: ${r.url}\nDepartamento: ${r.dep} / ${r.area}\nNota: ${r.nota||"-"}\n\nRespondé SOLO JSON: {"veredicto":"ok"|"dudoso"|"no","motivo":"1-2 frases simples en español rioplatense","evitar":"solo si hay algo que choca con los parámetros (promesas, daño, diagnósticos, desinformación); no marques el dinero como algo a evitar. Si no hay nada, vacío"}`,{modelTier:"quick"})}catch(e){$("msg").textContent=e.code==="not_granted"?"Revisión automática no habilitada.":"No se pudo revisar ahora.";return null}}
+
+document.addEventListener("change",async e=>{if(e.target.classList.contains("est")&&db){await db.doc("videos/"+e.target.dataset.id).update({estado:e.target.value}).catch(()=>{$("msg").textContent="No se pudo guardar el estado."})}});
+document.addEventListener("click",async e=>{const t=e.target.closest("button");if(!t||!db)return;const id=t.dataset.id;if(!id)return;
+  if(t.classList.contains("cset")){t.disabled=true;await db.doc("clips/"+id).update({estado:t.dataset.e,revisado:Date.now()}).catch(()=>{t.disabled=false});return}
+  if(t.classList.contains("pub")){t.disabled=true;await db.doc("clips/"+id).update({publicado:!!t.dataset.p}).catch(()=>{t.disabled=false});return}
+  if(t.classList.contains("del")){if(t.dataset.sure){await db.doc("videos/"+id).delete().catch(()=>{})}else{t.dataset.sure=1;t.textContent="Confirmar borrar"}}
+  if(t.classList.contains("reanal")){t.disabled=true;await db.doc("videos/"+id).update({analisis:{paso:"en_cola"}}).catch(()=>{t.disabled=false})}});
+
+$("f").onsubmit=async e=>{e.preventDefault();if(!db){$("msg").textContent="Iniciá sesión en claude.ai para cargar videos.";return}if(busy)return;busy=true;$("add").disabled=true;
+const r={url:$("url").value.trim(),estado:"Pendiente",creado:Date.now(),analisis:{paso:"en_cola"}};
+const extra={titulo:$("tit").value.trim(),dep:$("dep").value,area:$("area").value,idioma:$("lang").value,nota:$("nota").value.trim()};
+Object.entries(extra).forEach(([k,v])=>{if(v)r[k]=v});
+try{await db.collection("videos").add(r);$("msg").textContent="Cargado. Se analiza en la próxima corrida, a las 23 h.";$("f").reset();fillArea()}catch(err){$("msg").textContent="No se pudo cargar: "+(err.code||"error")}
+busy=false;$("add").disabled=false};
+
+(async()=>{const t=setTimeout(()=>{if(!db)$("material").innerHTML='<div class="empty card">No se pudo conectar con la biblioteca. Iniciá sesión en claude.ai.</div>'},10000);
+db=await claude.use("db");sample=await claude.use("sample");
+if(!db){clearTimeout(t);$("material").innerHTML='<div class="empty card">Iniciá sesión en claude.ai para ver y cargar la biblioteca.</div>';return}
+db.collection("videos").orderBy("creado","desc").onSnapshot(s=>{clearTimeout(t);videos=s.docs.map(d=>({id:d.id,...d.data()}));render()},()=>{clearTimeout(t);$("material").innerHTML='<div class="empty card">Error leyendo la biblioteca.</div>'});
+db.collection("clips").onSnapshot(s=>{clips=s.docs.map(d=>({id:d.id,...d.data()}));render()},()=>{$("clips").innerHTML='<div class="empty card">Error leyendo los clips.</div>'});
+db.collection("noticias").onSnapshot(s=>{noticias=s.docs.map(d=>({id:d.id,...d.data()})).sort((a,b)=>(b.creado||0)-(a.creado||0));renderNoticias()},()=>{$("n-lista").innerHTML='<div class="empty card">Error leyendo las noticias.</div>'});
+db.collection("entrevistas").onSnapshot(s=>{entrevistas=s.docs.map(d=>({id:d.id,...d.data()})).sort((a,b)=>(b.creado||0)-(a.creado||0));renderEntrevistas()},()=>{$("e-lista-crudo").innerHTML='<div class="empty card">Error leyendo las entrevistas.</div>'});
+db.collection("historias_vida").onSnapshot(s=>{historias=s.docs.map(d=>({id:d.id,...d.data()})).sort((a,b)=>(b.creado||0)-(a.creado||0));renderHistorias()},()=>{$("h-lista").innerHTML='<div class="empty card">Error leyendo las historias.</div>'});
+db.collection("red").onSnapshot(s=>{red=s.docs.map(d=>({id:d.id,...d.data()})).sort((a,b)=>(b.creado||0)-(a.creado||0));renderRed()},()=>{$("r-lista").innerHTML='<div class="empty card">Error leyendo la red.</div>'});
+db.collection("equipo_areas").onSnapshot(s=>{eqAreas=s.docs.map(d=>({id:d.id,...d.data()}));renderEquipo()},()=>{});
+db.collection("equipo").onSnapshot(s=>{equipo=s.docs.map(d=>({id:d.id,...d.data()}));renderEquipo()},()=>{});
+db.collection("equipo_feed").onSnapshot(s=>{feed=s.docs.map(d=>({id:d.id,...d.data()})).sort((a,b)=>(b.creado||0)-(a.creado||0));renderEquipo()},()=>{});
+db.collection("oportunidades").onSnapshot(s=>{oport=s.docs.map(d=>({id:d.id,...d.data()}));renderOp()},()=>{});
+db.collection("grilla").onSnapshot(s=>{grilla=s.docs.map(d=>({id:d.id,...d.data()}));renderGrilla()},()=>{$("grilla").innerHTML='<div class="empty card">Error leyendo la grilla.</div>'});
+})();
+
+/* ver imágenes más grandes: tocar una miniatura abre la vista grande; flechas para pasar entre las del mismo grupo */
+(()=>{const lb=document.createElement("div");lb.className="lb";lb.hidden=true;lb.setAttribute("role","dialog");lb.setAttribute("aria-label","Imagen ampliada");
+lb.innerHTML='<img alt=""><button class="lbx" aria-label="Cerrar">✕</button><button class="lbn lbp" aria-label="Anterior">‹</button><button class="lbn lbs" aria-label="Siguiente">›</button>';
+document.body.appendChild(lb);const im=lb.querySelector("img");let grupo=[],i=0;
+const ver=()=>{im.src=grupo[i].src;im.alt=grupo[i].alt||"";lb.querySelectorAll(".lbn").forEach(b=>b.hidden=grupo.length<2)};
+document.addEventListener("click",e=>{const t=e.target;if(t.tagName==="IMG"&&t.closest(".hrow,.slides,.h-item")){e.preventDefault();const g=t.closest(".hrow,.slides,.hist")||t.parentElement;grupo=[...g.querySelectorAll("img")];i=grupo.indexOf(t);ver();lb.hidden=false}});
+lb.addEventListener("click",e=>{if(e.target.closest(".lbp")){i=(i-1+grupo.length)%grupo.length;ver();return}if(e.target.closest(".lbs")){i=(i+1)%grupo.length;ver();return}lb.hidden=true});
+document.addEventListener("keydown",e=>{if(lb.hidden)return;if(e.key==="Escape")lb.hidden=true;if(e.key==="ArrowRight"){i=(i+1)%grupo.length;ver()}if(e.key==="ArrowLeft"){i=(i-1+grupo.length)%grupo.length;ver()}})})();
+</script>
+
+</body></html>

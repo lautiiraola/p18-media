@@ -2,7 +2,7 @@
 """Filtro carrusel P18: pasa un clip al slide de video del carrusel (1080x1350, video en recuadro 1:1).
 
 Uso:  carrusel.py clip.mp4 "TÍTULO CON *CLAVE*" --salida "<carpeta del carrusel>/NN - video.mp4"
-          [--fondo oscuro|lima|papel] [--area "Disciplina y proceso"] [--fuente "Manu Ginóbili"]
+          [--fondo oscuro|lima|papel] [--area "Hábitos y disciplina"] [--fuente "Manu Ginóbili"]
           [--subs "<Trabajos/.../subs.json del reel>"] [--encuadre izquierda|centro|derecha] [--recorte W:H:X:Y]
           [--sin-subs] [--salud-mental] [--solo-capa]
 

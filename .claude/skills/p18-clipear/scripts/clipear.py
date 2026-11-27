@@ -20,12 +20,9 @@ AQUI = Path(__file__).resolve().parent
 sys.path.insert(0, str(AQUI))
 
 AREAS = {
-    "Crecimiento personal": ["Autoconocimiento", "Hábitos y constancia", "Mentalidad y adaptación", "Liderazgo"],
-    "Finanzas y trabajo": ["Finanzas personales", "Trabajo y oportunidades", "Ideas, proyectos y ventas"],
-    "Crear y comunicar": ["Vínculos y comunicación", "Redes y contenido", "Inteligencia artificial"],
-    "Creatividad": ["Pensamiento creativo", "Arte y diseño", "Música y audiovisual", "Escritura y relatos"],
-    "Salud": ["Salud mental", "Vínculos", "Salud física", "Alimentación", "Sueño", "Bienestar"],
-    "Deporte y mentalidad": ["Disciplina y proceso", "Presión y dificultad", "Liderazgo y equipo", "Mentalidad aplicada"],
+    "Crecimiento personal": ["Autoestima", "Hábitos y disciplina", "Perseverancia", "Liderazgo", "Deporte y salud"],
+    "Emprendimiento": ["Emprender", "Cómo vender", "Finanzas personales"],
+    "Creatividad": ["Arte y diseño", "Marca personal", "Vínculos y comunicación", "Redes", "Inteligencia artificial"],
 }
 # H.264 + AAC hasta 1080p: se ve en cualquier Mac y alcanza para el recuadro de 1000 px.
 # La mejor imagen de YouTube hasta 1440p (VP9/AV1: bastante más nítida que el H.264 1080p de YouTube).

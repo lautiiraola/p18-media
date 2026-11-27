@@ -62,7 +62,7 @@ Escribí el plan en `<CARPETA>/plan.json`:
 {"clips": [
   {"ini": 754.2, "fin": 801.0,
    "titulo": "NADIE TE ENSEÑA A PERDERLE EL MIEDO AL *NO*",
-   "departamento": "Finanzas y trabajo", "area": "Ideas, proyectos y ventas",
+   "departamento": "Emprendimiento", "area": "Emprender",
    "tema": "Miedo al rechazo al vender", "slug": "miedo al no",
    "gancho": "Las primeras palabras del clip",
    "porque": "Por qué funciona: gancho, idea completa, para quién es, qué se lleva el que lo ve.",
@@ -144,12 +144,9 @@ dice "evitar partes de plata o valuaciones").
 
 ## Departamentos y áreas (usar exactamente estos nombres)
 
-- **Crecimiento personal**: Autoconocimiento · Hábitos y constancia · Mentalidad y adaptación · Liderazgo
-- **Finanzas y trabajo**: Finanzas personales · Trabajo y oportunidades · Ideas, proyectos y ventas
-- **Crear y comunicar**: Vínculos y comunicación · Redes y contenido · Inteligencia artificial
-- **Creatividad**: Pensamiento creativo · Arte y diseño · Música y audiovisual · Escritura y relatos
-- **Salud**: Salud mental · Vínculos · Salud física · Alimentación · Sueño · Bienestar
-- **Deporte y mentalidad**: Disciplina y proceso · Presión y dificultad · Liderazgo y equipo · Mentalidad aplicada
+- **Crecimiento personal**: Autoestima · Hábitos y disciplina · Perseverancia · Liderazgo · Deporte y salud
+- **Emprendimiento**: Emprender · Cómo vender · Finanzas personales
+- **Creatividad**: Arte y diseño · Marca personal · Vínculos y comunicación · Redes · Inteligencia artificial
 
 ## Requisitos
 
